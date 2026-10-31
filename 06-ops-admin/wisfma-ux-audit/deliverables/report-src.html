@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>WISFMA · UX Field Audit — Sept 2026</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,400;9..144,600;9..144,900&family=Archivo:wght@300;400;500;600;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --ink:#0d0d10; --paper:#131318; --card:#1a1a21; --card2:#20202a;
+  --line:#2c2c38; --text:#e8e6df; --dim:#9b98a8; --faint:#6b6878;
+  --signal:#ff5d3a; --amber:#ffb340; --mint:#5ee0a0; --sky:#6db3f2;
+  --serif:'Fraunces',Georgia,serif; --sans:'Archivo',-apple-system,sans-serif; --mono:'Space Mono',monospace;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{background:var(--ink);color:var(--text);font-family:var(--sans);font-weight:300;line-height:1.6;font-size:16px}
+body::before{content:"";position:fixed;inset:0;pointer-events:none;z-index:999;opacity:.035;
+  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120'%3E%3Cfilter id='n'%3E%3CfeTurbulence baseFrequency='0.85' numOctaves='2'/%3E%3C/filter%3E%3Crect width='120' height='120' filter='url(%23n)'/%3E%3C/svg%3E")}
+.wrap{max-width:1060px;margin:0 auto;padding:0 32px}
+.mono{font-family:var(--mono)}
+
+/* ---------- hero ---------- */
+header{padding:84px 0 60px;border-bottom:1px solid var(--line);position:relative;overflow:hidden}
+header::after{content:"";position:absolute;top:-260px;right:-200px;width:640px;height:640px;border-radius:50%;
+  background:radial-gradient(circle,rgba(255,93,58,.13),transparent 65%);pointer-events:none}
+.kicker{font-family:var(--mono);font-size:12px;letter-spacing:.32em;text-transform:uppercase;color:var(--signal);margin-bottom:26px}
+h1{font-family:var(--serif);font-weight:900;font-size:clamp(42px,7vw,84px);line-height:.98;letter-spacing:-.015em}
+h1 em{font-style:italic;font-weight:300;color:var(--dim)}
+.sub{margin-top:26px;max-width:640px;font-size:18px;color:var(--dim)}
+.sub strong{color:var(--text);font-weight:600}
+.hero-stats{display:grid;grid-template-columns:repeat(4,1fr);gap:1px;background:var(--line);border:1px solid var(--line);margin-top:52px}
+.hs{background:var(--paper);padding:22px 20px}
+.hs b{display:block;font-family:var(--serif);font-size:38px;font-weight:600;line-height:1}
+.hs span{font-family:var(--mono);font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--faint)}
+.hs.crit b{color:var(--signal)} .hs.warn b{color:var(--amber)} .hs.good b{color:var(--mint)}
+
+/* ---------- nav ---------- */
+nav{position:sticky;top:0;background:rgba(13,13,16,.92);backdrop-filter:blur(10px);border-bottom:1px solid var(--line);z-index:50}
+nav .wrap{display:flex;gap:4px;overflow-x:auto;padding-top:0;padding-bottom:0}
+nav a{font-family:var(--mono);font-size:11.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--dim);
+  text-decoration:none;padding:15px 14px;white-space:nowrap;border-bottom:2px solid transparent}
+nav a:hover{color:var(--text);border-bottom-color:var(--signal)}
+
+/* ---------- sections ---------- */
+section{padding:76px 0 30px}
+.sec-tag{font-family:var(--mono);font-size:12px;letter-spacing:.28em;text-transform:uppercase;color:var(--faint);margin-bottom:14px}
+.sec-tag::before{content:"";display:inline-block;width:34px;height:1px;background:var(--signal);vertical-align:middle;margin-right:14px}
+h2{font-family:var(--serif);font-weight:600;font-size:clamp(30px,4vw,46px);letter-spacing:-.01em;line-height:1.08;margin-bottom:20px}
+.lede{font-size:18px;color:var(--dim);max-width:720px;margin-bottom:40px}
+.lede strong{color:var(--text);font-weight:600}
+
+/* ---------- verdict strip ---------- */
+.verdict{display:grid;grid-template-columns:1fr 1fr;gap:24px;margin:38px 0 8px}
+.v-col{border:1px solid var(--line);background:var(--paper);padding:28px}
+.v-col h3{font-family:var(--mono);font-size:12px;letter-spacing:.2em;text-transform:uppercase;margin-bottom:18px}
+.v-col.keep h3{color:var(--mint)} .v-col.fix h3{color:var(--signal)}
+.v-col ul{list-style:none}
+.v-col li{padding:9px 0 9px 24px;position:relative;border-top:1px dashed var(--line);font-size:15px;color:var(--dim)}
+.v-col li:first-of-type{border-top:0}
+.v-col li b{color:var(--text);font-weight:600}
+.v-col.keep li::before{content:"+";position:absolute;left:2px;color:var(--mint);font-family:var(--mono)}
+.v-col.fix li::before{content:"!";position:absolute;left:2px;color:var(--signal);font-family:var(--mono)}
+
+/* ---------- finding cards ---------- */
+.finding{border:1px solid var(--line);background:var(--paper);margin-bottom:34px;display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr)}
+.finding.flip .f-media{order:2}
+.f-media{background:#000;border-right:1px solid var(--line);display:flex;align-items:center;position:relative;min-height:240px}
+.finding.flip .f-media{border-right:0;border-left:1px solid var(--line)}
+.f-media img{width:100%;height:auto;display:block;opacity:.92}
+.f-media .shot-label{position:absolute;bottom:10px;left:10px;background:rgba(13,13,16,.85);font-family:var(--mono);
+  font-size:10px;letter-spacing:.1em;padding:4px 9px;color:var(--dim);text-transform:uppercase}
+.f-body{padding:30px 32px 28px}
+.badges{display:flex;gap:8px;margin-bottom:16px;flex-wrap:wrap}
+.badge{font-family:var(--mono);font-size:10.5px;letter-spacing:.12em;text-transform:uppercase;padding:4px 10px;border:1px solid}
+.badge.p1{color:var(--signal);border-color:var(--signal)}
+.badge.p2{color:var(--amber);border-color:var(--amber)}
+.badge.p3{color:var(--sky);border-color:var(--sky)}
+.badge.area{color:var(--faint);border-color:var(--line)}
+.f-body h3{font-family:var(--serif);font-size:25px;font-weight:600;line-height:1.15;margin-bottom:14px}
+.f-body p{font-size:15px;color:var(--dim);margin-bottom:12px}
+.f-body p b{color:var(--text);font-weight:600}
+.fix{margin-top:16px;padding:14px 16px;background:var(--card);border-left:2px solid var(--mint)}
+.fix span{font-family:var(--mono);font-size:10.5px;letter-spacing:.18em;text-transform:uppercase;color:var(--mint);display:block;margin-bottom:6px}
+.fix p{margin:0;font-size:14.5px;color:var(--text)}
+
+/* ---------- number list findings (P2) ---------- */
+.fr{display:flex;gap:26px;border-top:1px solid var(--line);padding:30px 0}
+.fr:last-child{border-bottom:1px solid var(--line)}
+.fr-num{font-family:var(--serif);font-style:italic;font-size:34px;color:var(--signal);min-width:58px;line-height:1}
+.fr-main{flex:1}
+.fr-main h4{font-family:var(--sans);font-weight:600;font-size:18px;margin-bottom:8px}
+.fr-main p{font-size:15px;color:var(--dim)}
+.fr-main p b{color:var(--text);font-weight:600}
+.fr-main .mini-fix{font-size:14px;color:var(--mint);margin-top:8px}
+.fr-main .mini-fix::before{content:"→ fix: ";font-family:var(--mono);font-size:12px}
+.fr-shot{width:300px;flex-shrink:0}
+.fr-shot img{width:100%;border:1px solid var(--line);display:block}
+
+/* ---------- tables ---------- */
+table{width:100%;border-collapse:collapse;font-size:14.5px;margin:30px 0}
+th{font-family:var(--mono);font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--faint);
+  text-align:left;padding:12px 14px;border-bottom:1px solid var(--line)}
+td{padding:13px 14px;border-bottom:1px solid #1e1e27;color:var(--dim);vertical-align:top}
+td:first-child{color:var(--text);font-weight:500}
+tr:hover td{background:rgba(255,255,255,.015)}
+.yes{color:var(--mint)} .no{color:var(--signal)} .part{color:var(--amber)}
+
+/* ---------- roadmap ---------- */
+.road{display:grid;grid-template-columns:repeat(3,1fr);gap:24px;margin-top:36px}
+.r-col{border:1px solid var(--line);background:var(--paper)}
+.r-head{padding:20px 24px;border-bottom:1px solid var(--line)}
+.r-head .mono{font-size:11px;letter-spacing:.2em;text-transform:uppercase;color:var(--faint)}
+.r-head h3{font-family:var(--serif);font-size:26px;font-weight:600;margin-top:4px}
+.r-col:nth-child(1) .r-head h3{color:var(--signal)}
+.r-col:nth-child(2) .r-head h3{color:var(--amber)}
+.r-col:nth-child(3) .r-head h3{color:var(--sky)}
+.r-col ul{list-style:none;padding:14px 24px 20px}
+.r-col li{padding:9px 0;border-bottom:1px dashed #23232e;font-size:14.5px;color:var(--dim)}
+.r-col li:last-child{border-bottom:0}
+.r-col li b{color:var(--text);font-weight:600}
+
+/* ---------- gif feature ---------- */
+.gif-frame{border:1px solid var(--line);background:var(--paper);padding:26px;margin:36px 0}
+.gif-frame img{width:100%;display:block;border:1px solid var(--line)}
+.gif-cap{font-family:var(--mono);font-size:12px;color:var(--faint);margin-top:14px;letter-spacing:.05em}
+
+/* ---------- footer ---------- */
+footer{border-top:1px solid var(--line);margin-top:80px;padding:42px 0 64px;font-size:13px;color:var(--faint)}
+footer .mono{font-size:11px;letter-spacing:.14em;text-transform:uppercase}
+
+.callout{border:1px solid var(--line);border-left:3px solid var(--amber);background:var(--paper);padding:22px 26px;margin:34px 0;font-size:15px;color:var(--dim)}
+.callout b{color:var(--text)}
+
+@media(max-width:860px){
+  .finding{grid-template-columns:1fr}
+  .f-media{border-right:0;border-bottom:1px solid var(--line)}
+  .finding.flip .f-media{border-left:0;order:0}
+  .verdict,.road{grid-template-columns:1fr}
+  .hero-stats{grid-template-columns:repeat(2,1fr)}
+  .fr{flex-direction:column}
+  .fr-shot{width:100%}
+}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wrap">
+    <div class="kicker">Field Audit · wisfma.com · 26 Sept 2026</div>
+    <h1>What Is Working,<br><em>and what isn't.</em></h1>
+    <p class="sub">A hands-on UX review of the <strong>WISFMA / Flow's CRM</strong> agency platform — every section used for real, workflows exercised end-to-end, measured against what full-service OF management agencies actually need. <strong>The engine is genuinely impressive. The cockpit needs work.</strong></p>
+    <div class="hero-stats">
+      <div class="hs"><b>15</b><span>Sections tested live</span></div>
+      <div class="hs crit"><b>6</b><span>Critical issues</span></div>
+      <div class="hs warn"><b>14</b><span>Friction points</span></div>
+      <div class="hs good"><b>9</b><span>Standout strengths</span></div>
+    </div>
+  </div>
+</header>
+
+<nav><div class="wrap">
+  <a href="#verdict">Verdict</a>
+  <a href="#critical">Critical</a>
+  <a href="#friction">Friction &amp; Repetition</a>
+  <a href="#polish">Polish List</a>
+  <a href="#market">Market Gaps</a>
+  <a href="#roadmap">Roadmap</a>
+  <a href="wisfma-ux-review.pptx" download style="color:#5ee0a0">Deck ⤓</a>
+</div></nav>
+
+<!-- ══════════════ VERDICT ══════════════ -->
+<section id="verdict">
+  <div class="wrap">
+    <div class="sec-tag">Executive summary</div>
+    <h2>A power tool that hides its power.</h2>
+    <p class="lede">Under the hood this platform does things the big commercial tools (Infloww, Supercreator, OnlyMonster) <strong>don't</strong>: automatic shadowban detection with real numbers, AI niche strategy per creator, white-label client reports, trial-reel mining, posting-cadence policing. But the daily experience fights the operator: <strong>the money is hidden, Instagram has no home, the team page is buried, every section makes you re-pick the client, and core actions route through an admin-only chat box.</strong></p>
+    <div class="verdict">
+      <div class="v-col keep">
+        <h3>Keep — genuinely differentiated</h3>
+        <ul>
+          <li><b>Shadowban &amp; ban alerts with evidence</b> — "1.1k views vs 5.4k normally (20% of usual reach)" is better than anything competitors show.</li>
+          <li><b>AI niche strategy + insights</b> — full per-creator playbooks with urgency flags and next moves for the team.</li>
+          <li><b>White-label client reports</b> — branded PDF per client, a real retention weapon for an agency.</li>
+          <li><b>Trials + Hook library</b> — mining proven reels to re-post is a real daily workflow, done well.</li>
+          <li><b>Pulse</b> — "is the work getting done" per account, judged against its own rhythm. Smart.</li>
+          <li><b>Feed</b> — best-performing content across clients &amp; competitors with breakout sorting.</li>
+          <li><b>Responsive layout</b> — collapses cleanly at phone widths.</li>
+        </ul>
+      </div>
+      <div class="v-col fix">
+        <h3>Fix — blocks daily flow</h3>
+        <ul>
+          <li><b>Revenue is invisible</b> on the company dashboard — the #1 agency number requires a trip to a buried report.</li>
+          <li><b>Instagram — 65% of all views — has no section</b>; Twitter, Facebook and TikTok all do.</li>
+          <li><b>Employees page isn't in the navigation</b> — team accountability is hidden behind a tab inside Pulse.</li>
+          <li><b>Same client, four different pickers</b> — Niche, Insights, Results and Plans each restart client selection.</li>
+          <li><b>Expenses kicks you into a different app</b> on another domain.</li>
+          <li><b>Add/refresh data lives in an admin-only chat</b> that saves instantly with no confirm.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══════════════ CRITICAL ══════════════ -->
+<section id="critical">
+  <div class="wrap">
+    <div class="sec-tag">Priority one</div>
+    <h2>Six critical issues</h2>
+    <p class="lede">Each of these was hit repeatedly during normal use. They're ranked by how much daily operator time they cost.</p>
+
+    <div class="finding">
+      <div class="f-media"><img src="screenshots/01-dashboard.jpg" alt="Company dashboard showing only view metrics"><div class="shot-label">/dashboard — views only</div></div>
+      <div class="f-body">
+        <div class="badges"><span class="badge p1">Critical 01</span><span class="badge area">Dashboard</span></div>
+        <h3>"The whole company at a glance" — with zero dollars on it</h3>
+        <p>The company dashboard is 100% views: 69M tracked, 596k/24h, platform splits. But an agency is run on <b>revenue</b> — and the platform already has it. <b>$101,853/30d</b> sits on the Revenues page, and every client card shows OnlyFans earnings. None of it reaches the one page an owner opens first.</p>
+        <p>Views are the input. Money is the output. The glance page shows only the input.</p>
+        <div class="fix"><span>Suggested change</span><p>Add a revenue strip to the dashboard hero (24h / 7d / 30d, top-3 earners, biggest mover) next to the view totals. The data already exists — this is a layout change, not a feature.</p></div>
+      </div>
+    </div>
+
+    <div class="finding flip">
+      <div class="f-media"><img src="screenshots/02-dashboard-scroll-trap.jpg" alt="Platform cards showing Instagram at 65% of views"><div class="shot-label">Instagram: 52 accounts, 65% of views — no nav entry</div></div>
+      <div class="f-body">
+        <div class="badges"><span class="badge p1">Critical 02</span><span class="badge area">Navigation</span></div>
+        <h3>Instagram is the business — and has no home</h3>
+        <p>Sidebar: Twitter ✓ Facebook ✓ TikTok ✓ … <b>Instagram ✗</b>. Yet Instagram is 52 accounts and 65% of selected views; the whole Content Studio is built around "Instagram filming plans." The de-facto IG page is "Accounts," but nothing says so.</p>
+        <p>Worse, the three platform pages that <i>do</i> exist use <b>three different layouts</b> — Twitter is a collapsible creator list, Facebook is a switcher with a featured card, TikTok is account chips + videos. An operator learns three UIs to do one job.</p>
+        <div class="fix"><span>Suggested change</span><p>One shared platform-page template (health stats → creators → accounts → top content) instantiated for Instagram, Twitter, Facebook, TikTok. Instagram gets a first-class sidebar entry.</p></div>
+      </div>
+    </div>
+
+    <div class="finding">
+      <div class="f-media"><img src="screenshots/21-employee-pulse.jpg" alt="Employee Pulse page"><div class="shot-label">/employees — real page, not in the sidebar</div></div>
+      <div class="f-body">
+        <div class="badges"><span class="badge p1">Critical 03</span><span class="badge area">Team ops</span></div>
+        <h3>The team page is a secret</h3>
+        <p>There's a full <b>Employee Pulse</b> section — who owns each account, what got posted, 29 accounts needing assignment, per-employee CSV export. It's exactly what an agency runs standups from. And it is <b>not in the sidebar</b>. The only way in is a small "Employees" tab inside Pulse (or knowing the /employees URL).</p>
+        <p>Meanwhile "29 accounts need an employee" is flagged on the dashboard daily — the workflow to resolve it is hidden two levels deep.</p>
+        <div class="fix"><span>Suggested change</span><p>Promote Employees to the sidebar under a "Team" group. Make the dashboard's "needs an employee" card link straight into an assignment view with bulk assign.</p></div>
+      </div>
+    </div>
+
+    <div class="finding flip">
+      <div class="f-media"><img src="screenshots/30-client-picker-repetition.gif" alt="GIF showing repeated client pickers across sections"><div class="shot-label">Recorded live: three pickers, one client</div></div>
+      <div class="f-body">
+        <div class="badges"><span class="badge p1">Critical 04</span><span class="badge area">Repetitiveness</span></div>
+        <h3>Every section makes you re-pick the same client</h3>
+        <p>Working on one model means: Niche → dropdown + "View". Insights → another dropdown + "View". Results → dropdown + <b>"Apply"</b>. Content plans → find her card in a grid. Each feature is client-scoped, but the app never remembers <i>which</i> client you're working on.</p>
+        <p>The client page's own tabs (Content plans, Niche &amp; brief, Results) jump you to those global pages — and the breadcrumb context switches from Clients to Content/Reports, so "back to my client" is never one click.</p>
+        <div class="fix"><span>Suggested change</span><p>Make the client the unit of navigation: a persistent client switcher in the top bar, and client sub-pages (/clients/briara/plans, /niche, /results) with stable tabs — the global pages become roll-ups.</p></div>
+      </div>
+    </div>
+
+    <div class="finding">
+      <div class="f-media"><img src="screenshots/24-crm-chat.jpg" alt="CRM chat panel"><div class="shot-label">Admin-only CRM chat — "additions save immediately"</div></div>
+      <div class="f-body">
+        <div class="badges"><span class="badge p1">Critical 05</span><span class="badge area">Core actions</span></div>
+        <h3>Core operations live inside a chat box</h3>
+        <p>The dashboard's own help text says: <i>"Ask chat 'Refresh Instagram analytics' to pull new data."</i> Adding accounts, pasting Twitter lists in/out, refreshing data — all routed through an <b>admin-only</b> chat whose fine print reads <b>"additions save immediately"</b> — instant CRM writes, no confirm, no undo, invisible to new users and unavailable to employees.</p>
+        <p>Chat is a great accelerator. It can't be the primary path for operations the UI never exposes as buttons.</p>
+        <div class="fix"><span>Suggested change</span><p>Every chat-only operation gets a visible UI equivalent (a real "Refresh analytics" button, bulk add-accounts form). Chat additions show a preview + confirm before saving.</p></div>
+      </div>
+    </div>
+
+    <div class="finding flip">
+      <div class="f-media"><img src="screenshots/19-revenues.jpg" alt="Revenues page"><div class="shot-label">Revenue lives here — Expenses live in another app entirely</div></div>
+      <div class="f-body">
+        <div class="badges"><span class="badge p1">Critical 06</span><span class="badge area">Money ops</span></div>
+        <h3>Money-in and money-out live in different worlds</h3>
+        <p>Revenues is a proper page. <b>Expenses is an external link</b> that dumps you into a separate app on another domain (flow-crm-private.vercel.app) with its own access. So the platform can never show the number every owner actually wants: <b>profit per model</b> — revenue minus chatting labor, traffic spend and tools.</p>
+        <div class="fix"><span>Suggested change</span><p>Bring expenses in-app (even a simple categorized ledger: chatting / acquisition / tools), then ship a per-client P&amp;L view: OF revenue − attributed costs = margin per model. No competitor offers this.</p></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══════════════ FRICTION ══════════════ -->
+<section id="friction">
+  <div class="wrap">
+    <div class="sec-tag">Priority two</div>
+    <h2>Friction &amp; repetition in the daily loop</h2>
+    <p class="lede">Individually small; together they're why the platform "doesn't flow." Ordered by frequency of pain.</p>
+
+    <div class="fr">
+      <div class="fr-num">07</div>
+      <div class="fr-main">
+        <h4>154 accounts, no compact view</h4>
+        <p>Every account in the roster is a huge card — stats trio, chips, follower delta, two dropdowns, ~250px tall. Finding and triaging accounts means endless scrolling; there's <b>no table view, no density toggle and no bulk actions</b> (assign 10 accounts to an employee = 10 separate dropdowns).</p>
+        <p class="mini-fix">table/compact toggle + checkbox multi-select with bulk assign, bulk refresh, bulk label.</p>
+      </div>
+      <div class="fr-shot"><img src="screenshots/06-accounts-cards.jpg" alt="Oversized account cards"></div>
+    </div>
+
+    <div class="fr">
+      <div class="fr-num">08</div>
+      <div class="fr-main">
+        <h4>"Fix Ban" is a phone number, ten times</h4>
+        <p>Ban triage = ten identical cards, each with a Fix Ban button that reveals the same instruction: <b>text a rep at +1 786 491 6597</b>. There's no state — no "outreach sent," "quote received," "recovered" — so the section looks permanently on fire and nobody knows what's already being handled.</p>
+        <p class="mini-fix">ban-recovery pipeline with statuses per account (new → contacted → quoted → recovering → resolved) and one shared rep card.</p>
+      </div>
+      <div class="fr-shot"><img src="screenshots/27-fix-ban.jpg" alt="Fix Ban reveals a phone number"></div>
+    </div>
+
+    <div class="fr">
+      <div class="fr-num">09</div>
+      <div class="fr-main">
+        <h4>The scroll fights back</h4>
+        <p>At laptop heights the dashboard scroll gets trapped — the app shell slides out of view leaving a dead black band, the position sticks mid-page, and once the page froze entirely until reload. Separately, the <b>night-mode toggle does nothing</b> (the app also flipped dark→light mid-session on its own).</p>
+        <p class="mini-fix">single scroll container (shell fixed), and wire the theme toggle to a persisted preference.</p>
+      </div>
+      <div class="fr-shot"><img src="screenshots/02-dashboard-scroll-trap.jpg" alt="Dead band above app shell while scrolling"></div>
+    </div>
+
+    <div class="fr">
+      <div class="fr-num">10</div>
+      <div class="fr-main">
+        <h4>New client onboarding is a wall of zeros</h4>
+        <p>Creating a client is pleasantly instant — but the new client lands at the <b>bottom</b> of the list with no highlight, and her page is zero-stat cards with an empty chart. The real sequence (link OnlyFans → add accounts → send questionnaire → generate niche → generate plans) exists across five sections but is never shown as a path.</p>
+        <p class="mini-fix">onboarding checklist on every empty client page, with links into each step; jump-to + highlight after create.</p>
+      </div>
+      <div class="fr-shot"><img src="screenshots/25-empty-client.jpg" alt="Empty client page full of zeros"></div>
+    </div>
+
+    <div class="fr">
+      <div class="fr-num">11</div>
+      <div class="fr-main">
+        <h4>Search only knows about accounts</h4>
+        <p>The top-bar search has lovely typeahead — but it's "Search accounts…" literally. You can't reach a <b>client</b>, a content plan, a report or a page from it, and the typed text lingers in the box after navigating. For a 16-client, 154-account workspace, the keyboard is the fastest nav there is.</p>
+        <p class="mini-fix">global command palette (⌘K): clients, accounts, sections, actions ("refresh X", "open Briara's plans").</p>
+      </div>
+      <div class="fr-shot"><img src="screenshots/23-search.jpg" alt="Accounts-only search"></div>
+    </div>
+
+    <div class="fr">
+      <div class="fr-num">12</div>
+      <div class="fr-main">
+        <h4>Broken paths: 404s with no way home</h4>
+        <p>Sidebar "Feed" lives at "/" but typing /feed gives a <b>raw, unbranded 404</b> with no app shell and no link back. The client card's "Benchmark →" anchor lands at the top of the page instead of the benchmark section. Dead ends cost trust fast.</p>
+        <p class="mini-fix">styled 404 with sidebar + redirects for guessable routes (/feed → /); fix anchor scroll.</p>
+      </div>
+      <div class="fr-shot"><img src="screenshots/28-404.jpg" alt="Unstyled 404 page"></div>
+    </div>
+
+    <div class="fr">
+      <div class="fr-num">13</div>
+      <div class="fr-main">
+        <h4>Identical control clusters, repeated forever</h4>
+        <p>The per-client plans page repeats <b>Download PDF · Share plan link · Open plan · Show content plan</b> on every account card, and the dashboard repeats "Fix Ban" ten times. Long pages of cloned button rows read as noise — the eye stops seeing them.</p>
+        <p class="mini-fix">one action bar per page acting on a selected item (or select-all), cards carry only status.</p>
+      </div>
+      <div class="fr-shot"><img src="screenshots/12-plan-cards-repetition.jpg" alt="Repeated plan card controls"></div>
+    </div>
+
+    <div class="callout"><b>Also noticed while working:</b> Results makes you press "Apply" after choosing client + period (nothing else in the app works that way) · the OnlyFans "unlink" is a bare link sitting next to revenue numbers, one misclick from disconnecting earnings data · archive confirmation renders as a cramped overlapping disclosure · a banned account still cheerfully shows filming concepts to shoot this week.</div>
+  </div>
+</section>
+
+<!-- ══════════════ POLISH ══════════════ -->
+<section id="polish">
+  <div class="wrap">
+    <div class="sec-tag">Priority three</div>
+    <h2>The polish list</h2>
+    <p class="lede">Small fixes, mostly copy and consistency — cheap to do, and they change how "finished" the product feels to staff and to any model who's shown her dashboard.</p>
+    <table>
+      <thead><tr><th>Where</th><th>What</th><th>Change to</th></tr></thead>
+      <tbody>
+        <tr><td>Account pages</td><td>Raw vendor errors: "HikerAPI: profile gone… v2 and v1 profile lookups both explicitly reported user not found"</td><td>"Instagram reports this profile as unavailable — usually a ban or handle change. Last checked 50m ago."</td></tr>
+        <tr><td>Accounts form</td><td>"X accounts sit at 'Waiting for API key' until the twitterapi.io key is configured"</td><td>Plain status chip + an admin-only settings note. Vendors don't belong in operator UI.</td></tr>
+        <tr><td>Competitor scan</td><td>"Each scan runs up to 3 Instagram topic scrapes via Apify (a few cents)"</td><td>"Scans Instagram for similar accounts (uses a small amount of scan credit)."</td></tr>
+        <tr><td>Dashboard</td><td>4-line methodology disclaimer under the hero stats</td><td>One line + "How views are counted ▸" expander.</td></tr>
+        <tr><td>Breadcrumbs</td><td>"Accounts / Accounts", and section-jumping crumbs from client tabs</td><td>Consistent trail: section → entity ("Clients / Briara / Plans").</td></tr>
+        <tr><td>Clients (empty)</td><td>Dropdown reads "Every account is already linked" on a client with 0 accounts</td><td>"No unassigned accounts — add one in the roster."</td></tr>
+        <tr><td>Notifications</td><td>"0 accounts need fresh data" card still renders</td><td>Hide zero-count cards; celebrate the empty state instead.</td></tr>
+        <tr><td>Insights</td><td>Playbook citations like [2.4][3.2c] with no explanation</td><td>Tooltip or link to the playbook rule text.</td></tr>
+        <tr><td>Account header</td><td>Stray copy "What you are looking for is", dense meta "iOS farm 1 · Phone 1 · Team report: stella4 — all green"</td><td>Labelled fields (Device, Farm, Report status) — and delete the orphan sentence.</td></tr>
+        <tr><td>Terminology</td><td>"Trials" (trial reels) will read as OnlyFans trial links to any OFM audience</td><td>"Trial reels" or "Repost engine."</td></tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<!-- ══════════════ MARKET ══════════════ -->
+<section id="market">
+  <div class="wrap">
+    <div class="sec-tag">Research · what agencies pay for</div>
+    <h2>Where WISFMA sits in the market</h2>
+    <p class="lede">Benchmarked against the tools agencies actually buy (Infloww ~$40/creator, Supercreator $15–99/acct, OnlyMonster $30–250/mo, FansCRM $39–99). <strong>WISFMA's traffic-side intelligence beats all of them. The revenue side of the house — chatting — is where the market's money is.</strong></p>
+    <table>
+      <thead><tr><th>Agency need</th><th>WISFMA</th><th>Infloww</th><th>Supercreator</th><th>OnlyMonster</th></tr></thead>
+      <tbody>
+        <tr><td>Traffic-account health (bans / shadowbans / cadence)</td><td class="yes">Best in class</td><td class="part">Partial</td><td class="no">—</td><td class="part">Partial</td></tr>
+        <tr><td>AI content strategy per creator (niche, hooks, 30-day plan)</td><td class="yes">Yes — unique</td><td class="no">—</td><td class="no">—</td><td class="no">—</td></tr>
+        <tr><td>White-label client reporting</td><td class="yes">Yes</td><td class="no">—</td><td class="no">—</td><td class="part">Exports</td></tr>
+        <tr><td>Unified fan inbox / chatting</td><td class="no">No</td><td class="yes">Core</td><td class="yes">Core</td><td class="yes">Core</td></tr>
+        <tr><td>Chatter shifts, performance &amp; commission math</td><td class="no">No</td><td class="yes">Yes</td><td class="yes">Yes</td><td class="yes">Yes</td></tr>
+        <tr><td>AI chat assist (the 2026 battleground)</td><td class="no">No</td><td class="part">Copilot beta</td><td class="yes">"Izzy"</td><td class="part">Suggestions</td></tr>
+        <tr><td>Fan segmentation / LTV</td><td class="no">No</td><td class="yes">Deep</td><td class="yes">Yes</td><td class="yes">Yes</td></tr>
+        <tr><td>Profit per model (revenue − costs)</td><td class="part">Possible — expenses exist, off-platform</td><td class="no">—</td><td class="no">—</td><td class="no">—</td></tr>
+        <tr><td>Team roles &amp; permissions</td><td class="no">Owner only</td><td class="yes">Yes</td><td class="part">Basic</td><td class="yes">Yes</td></tr>
+        <tr><td>Data export / API</td><td class="part">CSV in one spot</td><td class="no">—</td><td class="no">—</td><td class="yes">Open API</td></tr>
+        <tr><td>Compliance vault (2257 / releases / IDs)</td><td class="no">No — nobody has it</td><td class="no">—</td><td class="no">—</td><td class="no">—</td></tr>
+      </tbody>
+    </table>
+    <div class="callout"><b>Strategic read:</b> don't chase Infloww's inbox first — that's a two-year build against entrenched players. The nearer, uncontested wins: <b>(1) per-model P&amp;L</b> (revenue is already in-app; expenses just need to come home), <b>(2) employee logins with roles</b> so the whole team lives in the platform daily, and <b>(3) a compliance vault</b>, which every agency needs and no competitor ships. The platform's own niche strategies currently tell staff to run the pipeline in Metricool, Notion and Dropbox — each of those is a feature gap wearing another company's logo.</div>
+  </div>
+</section>
+
+<!-- ══════════════ ROADMAP ══════════════ -->
+<section id="roadmap">
+  <div class="wrap">
+    <div class="sec-tag">Recommendation</div>
+    <h2>Suggested order of attack</h2>
+    <div class="road">
+      <div class="r-col">
+        <div class="r-head"><div class="mono">This week — layout &amp; bugs</div><h3>Now</h3></div>
+        <ul>
+          <li><b>Revenue strip on the dashboard</b> (data exists)</li>
+          <li><b>Sidebar:</b> add Instagram + Employees; group as Overview / Clients / Platforms / Studio / Reports / Team</li>
+          <li>Fix: theme toggle, scroll trap, /feed 404, benchmark anchor</li>
+          <li>Plain-language error copy (kill HikerAPI/Apify/twitterapi.io strings)</li>
+          <li>Hide zero-count notification cards</li>
+          <li>Guard the OnlyFans "unlink" behind a confirm</li>
+        </ul>
+      </div>
+      <div class="r-col">
+        <div class="r-head"><div class="mono">This month — flow</div><h3>Next</h3></div>
+        <ul>
+          <li><b>Persistent client switcher</b> + stable client sub-tabs (kill the four pickers)</li>
+          <li><b>Accounts table view + bulk actions</b> (assign / refresh / label)</li>
+          <li><b>Ban-recovery pipeline</b> with statuses instead of 10 phone-number cards</li>
+          <li>Onboarding checklist on empty clients</li>
+          <li>⌘K global search (clients, accounts, sections, actions)</li>
+          <li>Buttons for every chat-only operation; chat writes get previews</li>
+        </ul>
+      </div>
+      <div class="r-col">
+        <div class="r-head"><div class="mono">This quarter — moat</div><h3>Later</h3></div>
+        <ul>
+          <li><b>Per-model P&amp;L:</b> bring expenses in-app, attribute costs, show margin per client</li>
+          <li><b>Employee accounts with roles</b> — the whole team in the tool, chat included</li>
+          <li><b>Compliance vault</b> (2257, releases, IDs) — unowned space in the whole market</li>
+          <li>Data export everywhere + simple API</li>
+          <li>Then — and only then — evaluate a chatting module or an Infloww/Supercreator integration</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <div class="mono" style="margin-bottom:10px">Method</div>
+    <p>Reviewed hands-on via live browser session on 26 Sept 2026 (~1250–1440px viewports, plus 800px responsive check). All 15 sidebar sections visited; workflows exercised for real: client creation &amp; archival (test entry created and cleaned up), account search, ban triage, plan sharing, report generation, theme toggle, CRM chat, error/empty/404 states. Market research cross-checked across competitor sites and independent agency-tooling reviews; pricing figures are third-party reported and worth re-verifying. Screenshots are unretouched; one workflow captured as an animated recording. Real creator handles appear in screenshots — treat this document as internal.</p>
+  </div>
+</footer>
+</body>
+</html>
