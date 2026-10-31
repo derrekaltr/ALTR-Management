@@ -1,0 +1,108 @@
+# ALTR team roster — auto-drafted from the 8/8 export; please review and correct.
+# `aliases` are the exact Telegram display names seen in chats.
+# `uncertain: true` = the classifier wasn't sure; please confirm or move to clients/other.
+team:
+  - name: Derrek
+    role: Owner
+    aliases: [Derrek]
+  - name: Stephski
+    role: Team
+    aliases: [Stephski]
+  - name: Mica Vecco
+    role: Team
+    aliases: [Mica Vecco]
+  - name: Mayson
+    role: Chatter (queue account)
+    aliases: [Mayson Chat]
+  - name: Michelle
+    role: Chatter (queue account)
+    aliases: [Michelle Queue]
+  - name: Noah
+    role: Chatter
+    aliases: [Noah Chat, Nate (Noah)]
+  - name: Ronnie
+    role: Chatter (queue account)
+    aliases: [Ronnie Chat]
+  - name: Eric
+    role: Team
+    aliases: [Eric The Efficient]
+  - name: Vivek
+    role: Team
+    aliases: [Vivek]
+  - name: Olivia
+    role: Team
+    aliases: [Olivia]
+    uncertain: true
+  - name: Melissa
+    role: Team (client-facing account — took over weekly leak-removal updates from Michelle Queue 9/25, sent intake forms 9/28; confirm)
+    aliases: [Melissa Userfacing]
+    uncertain: true
+  - name: Aroosha
+    role: Team (customs / content organization — introduced herself 10/3 in Haileigh and 10/5 in Liza; confirm)
+    aliases: [Aroosha s]
+    uncertain: true
+  - name: Jeremy Tarr
+    role: Account Manager (introduced himself 10/13 in Haileigh + Liza as an AM "alongside Nate, Ronnie, and Sophie"; confirm)
+    aliases: [Jeremy Tarr]
+    uncertain: true
+  - name: Spencer P
+    role: Team (customs, content uploads, backend chat assistance — introduced himself 10/13 in Haileigh + Liza; confirm)
+    aliases: [Spencer P]
+    uncertain: true
+  - name: Antonio Veritrade
+    role: Team / system test account (posted only "test message for new system (disregard)" x6-8 in 12 client chats on 10/21; Mayson pre-warned clients; confirm who this is and whether it is a bot)
+    aliases: [Antonio Veritrade]
+    uncertain: true
+  - name: Lauren (Biz Assistant)
+    role: Business assistant
+    aliases: [Lauren Biz Assistant]
+  - name: Nick (DMCA)
+    role: DMCA takedowns
+    aliases: [Nick | DMCA]
+  - name: Fred
+    role: OFM
+    aliases: [FRED | OFM, fred SPITFIRE, Fredo]
+  - name: Lissy
+    role: Team
+    aliases: [Lissy]
+    uncertain: true
+  - name: Ollie Mckinlay
+    role: Team
+    aliases: [Ollie Mckinlay]
+  - name: Joseph H
+    role: Team
+    aliases: [Joseph H]
+  - name: Nick Scott
+    role: Team
+    aliases: [Nick Scott]
+  - name: Alex Camus
+    role: Team (posts ALTR bank details in Mila's chat — confirm role)
+    aliases: [Alex Camus]
+    uncertain: true
+  - name: Sophie Logan
+    role: Partner (Raw Agency)
+    aliases: [Sophie Logan (Raw Agency)]
+
+# Outsourced/vendor chatting teams working specific accounts.
+# Their issues are tracked but grouped under the vendor, not ALTR staff.
+vendors:
+  # NOTE: Telegram display names are resolved live at fetch time, so a member who
+  # renames themselves shows up under the new name across their whole history and
+  # the old alias drops to zero messages. Keep both aliases so old state/findings
+  # files still attribute correctly.
+  - name: Lauryn chat team
+    aliases: [Lance | Chat Manager, lxns, Tanya | Chat Manager,
+              Paulo Gutierrez | Chat Manager, King Choy | Chat Manager, King Choy,
+              Gelle | Chat Manager, Gelle, Isaac |Chat Manager, יִצְחָק,
+              Thon | Content Manager, Ana M | General Manager, Rafael|Content Manager,
+              Rafael|Account Manager, Alfred, Anne | Account Manager, Anne, Mon Coeur]
+  - name: Amber Haze chat team
+    aliases: [Jonasito, smurf(offline), Arlo, Joshiepoo, Nick Granberry]
+  # Unconfirmed: appeared 10/5–10/8 posting IG growth screenshots ("Crushing IG farms")
+  # and logging into client IG accounts via 2FA in Lauren Blake + Liza chats.
+  - name: IG farm vendor
+    aliases: [Stardust Nexus, Theta SDX]
+  - name: Sarah Lloyd chat team
+    aliases: [Masa | Account Executive, Masa, Vladan | Chat Manager, Day | Account Executive,
+              Alex Chatting Team, Martino | Chat Manager, Martino | Supervisor,
+              Maciej | Supervisor, Emmanuel | General Manager, George]

@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
+<title>ALTR CS Command Center — {{ date }}</title>
+<style>
+:root {
+  color-scheme: light;
+  --page:#f9f9f7; --surface:#fcfcfb; --ink:#0b0b0b; --ink-2:#52514e; --muted:#898781;
+  --grid:#e1e0d9; --baseline:#c3c2b7; --ring:rgba(11,11,11,.10); --series-1:#2a78d6;
+  --good:#0ca30c; --warning:#fab219; --serious:#ec835a; --critical:#d03b3b; --delta-good:#006300;
+  --good-bg:rgba(12,163,12,.10); --warning-bg:rgba(250,178,25,.16); --serious-bg:rgba(236,131,90,.18); --critical-bg:rgba(208,59,59,.14);
+}
+@media (prefers-color-scheme: dark) {
+  :root { color-scheme:dark; --page:#0d0d0d; --surface:#1a1a19; --ink:#fff; --ink-2:#c3c2b7;
+    --grid:#2c2c2a; --baseline:#383835; --ring:rgba(255,255,255,.10); --series-1:#3987e5; --delta-good:#0ca30c;
+    --warning-bg:rgba(250,178,25,.13); --serious-bg:rgba(236,131,90,.15); --critical-bg:rgba(208,59,59,.17); }
+}
+*{box-sizing:border-box} body{margin:0;background:var(--page);color:var(--ink);font:15px/1.55 system-ui,-apple-system,"Segoe UI",sans-serif}
+.wrap{max-width:1080px;margin:0 auto;padding:30px 24px 80px}
+h1{font-size:23px;margin:0} .sub{color:var(--ink-2);margin:2px 0 4px;font-size:13.5px}
+.internal{display:inline-block;font-size:11px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--critical);border:1px solid var(--critical);border-radius:999px;padding:1px 10px}
+.hero{display:grid;grid-template-columns:300px 1fr;gap:16px;margin:20px 0 8px;align-items:stretch}
+@media(max-width:820px){.hero{grid-template-columns:1fr}}
+.scorecard{background:var(--surface);border:1px solid var(--ring);border-radius:14px;padding:18px 20px}
+.scorecard .big{font-size:44px;font-weight:700;line-height:1.05;display:flex;align-items:baseline;gap:10px}
+.scorecard .big .trendword{font-size:15px;font-weight:650;color:var(--critical)}
+.scorecard .lab{color:var(--ink-2);font-size:13px;margin-bottom:8px}
+.spark polyline{fill:none;stroke:var(--series-1);stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+.spark circle{fill:var(--series-1)}
+.verdict{background:var(--surface);border:1px solid var(--ring);border-radius:14px;padding:18px 20px;font-size:16px;line-height:1.6;display:flex;align-items:center}
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:10px;margin:10px 0 6px}
+.kpi{background:var(--surface);border:1px solid var(--ring);border-radius:10px;padding:9px 13px}
+.kpi .v{font-size:20px;font-weight:650} .kpi .l{color:var(--ink-2);font-size:12px}
+h2{font-size:17px;margin:36px 0 4px} .h2sub{color:var(--muted);font-size:13px;margin:0 0 12px}
+.fire{background:var(--surface);border:1px solid var(--ring);border-left:4px solid var(--critical);border-radius:12px;padding:16px 18px;margin-top:12px}
+.fire .top{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+.fire .nm{font-weight:700;font-size:16.5px}
+.chip{font-size:12px;font-weight:650;border-radius:999px;padding:2px 10px;border:1px solid var(--ring);white-space:nowrap}
+.chip.owner{background:var(--warning-bg)} .chip.you{background:var(--critical-bg)}
+.hp{font-size:12.5px;color:var(--muted);margin-left:auto;display:flex;align-items:center;gap:6px}
+.fire .why{color:var(--ink-2);font-size:14px;margin:8px 0}
+.fire .act{font-size:14.5px;margin:0}.fire .act b{font-weight:700}
+details.draft{margin-top:10px}
+details.draft summary{cursor:pointer;font-size:13px;font-weight:650;color:var(--series-1);list-style:none;display:inline-flex;gap:6px;align-items:center}
+details.draft summary::-webkit-details-marker{display:none}
+.draftbox{position:relative;margin-top:8px;background:color-mix(in oklab,var(--surface) 94%,var(--ink));border:1px dashed var(--baseline);border-radius:8px;padding:12px 14px;font-size:13.5px;color:var(--ink-2);white-space:pre-wrap}
+.copybtn{position:absolute;top:8px;right:8px;font:600 12px system-ui;border:1px solid var(--ring);background:var(--surface);color:var(--ink);border-radius:6px;padding:3px 10px;cursor:pointer}
+.copybtn:hover{background:color-mix(in oklab,var(--surface) 90%,var(--ink))}
+table.week{width:100%;border-collapse:collapse;background:var(--surface);border:1px solid var(--ring);border-radius:12px;overflow:hidden}
+table.week td{padding:10px 12px;border-bottom:1px solid var(--grid);font-size:14px;vertical-align:top}
+table.week tr:last-child td{border-bottom:none}
+table.week td.c{font-weight:650;white-space:nowrap;width:130px}
+table.week td.o{width:110px}
+.delegate{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:12px}
+.dcard{background:var(--surface);border:1px solid var(--ring);border-radius:12px;padding:14px 16px}
+.dcard h3{margin:0 0 8px;font-size:14px;display:flex;justify-content:space-between;align-items:center}
+.dcard ul{margin:0;padding-left:18px}.dcard li{margin:5px 0;font-size:13.5px}
+.callout{background:var(--surface);border:1px solid var(--ring);border-radius:12px;padding:15px 18px;margin-top:12px;font-size:14.5px}
+.callout.red{border-left:4px solid var(--critical)} .callout.amber{border-left:4px solid var(--warning)} .callout.green{border-left:4px solid var(--good)}
+.callout h3{margin:0 0 6px;font-size:14px}
+.money td.m{color:var(--critical);font-weight:650;white-space:nowrap}
+.badge{display:inline-flex;align-items:center;gap:5px;font-size:12.5px;font-weight:600;padding:2px 9px;border-radius:999px;border:1px solid var(--ring);white-space:nowrap}
+.dot{width:8px;height:8px;border-radius:50%;display:inline-block}
+.b-churned{background:var(--critical-bg)} .b-churned .dot{background:var(--critical)}
+.b-at_risk{background:var(--serious-bg)} .b-at_risk .dot{background:var(--serious)}
+.b-active{background:var(--good-bg)} .b-active .dot{background:var(--good)}
+.up{color:var(--critical)} .down{color:var(--delta-good)} .flat{color:var(--muted)}
+details.appendix{margin-top:40px;border-top:1px solid var(--grid);padding-top:10px}
+details.appendix>summary{cursor:pointer;font-size:16px;font-weight:650;padding:10px 0;list-style:none}
+details.appendix>summary::-webkit-details-marker{display:none}
+details.appendix>summary .note{font-weight:400;color:var(--muted);font-size:13px}
+table.matrix{border-collapse:separate;border-spacing:2px;width:100%;background:var(--surface);border:1px solid var(--ring);border-radius:12px;padding:12px;font-variant-numeric:tabular-nums;margin-top:10px}
+table.matrix th{font-size:10.5px;color:var(--muted);font-weight:600;text-transform:uppercase;padding:2px 4px}
+table.matrix th.col{writing-mode:vertical-rl;transform:rotate(180deg);height:96px;vertical-align:bottom;text-align:left}
+table.matrix td{width:42px;height:29px;text-align:center;border-radius:6px;font-size:13px;font-weight:600}
+table.matrix td.name{width:auto;text-align:left;font-weight:600;font-size:13.5px;padding:0 10px 0 4px;white-space:nowrap}
+.s0{background:transparent;color:var(--muted)} .s1{background:var(--warning-bg)} .s2{background:var(--serious-bg)} .s3{background:var(--critical-bg);color:var(--critical)}
+.dimbars{background:var(--surface);border:1px solid var(--ring);border-radius:12px;padding:16px 18px;margin-top:10px}
+.dimrow{display:grid;grid-template-columns:180px 1fr 96px;gap:12px;align-items:center;padding:5px 0}
+.dimrow .bar{height:12px;border-radius:4px;background:var(--series-1)}
+.dimrow .track{background:color-mix(in oklab,var(--surface) 88%,var(--ink));border-radius:4px}
+.dimrow .lab{font-size:13.5px} .dimrow .val{font-size:13px;text-align:right;font-variant-numeric:tabular-nums;color:var(--ink-2)}
+details.client{background:var(--surface);border:1px solid var(--ring);border-radius:12px;margin-top:10px}
+details.client summary{list-style:none;cursor:pointer;display:flex;align-items:center;gap:12px;padding:12px 16px;flex-wrap:wrap}
+details.client summary::-webkit-details-marker{display:none}
+details.client summary .nm{font-weight:650;font-size:15px;min-width:140px}
+details.client summary .fix{color:var(--ink-2);font-size:13px;flex:1;min-width:200px}
+.cbody{padding:2px 16px 16px;border-top:1px solid var(--grid)}
+h4{font-size:12px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);margin:14px 0 5px}
+blockquote{margin:6px 0 0;padding:5px 12px;border-left:3px solid var(--baseline);color:var(--ink-2);font-size:13.5px}
+.q-meta{color:var(--muted);font-size:12px}
+.cols{display:grid;grid-template-columns:1fr 1fr;gap:0 28px} @media(max-width:760px){.cols{grid-template-columns:1fr}}
+.fixbox{background:var(--good-bg);border:1px solid var(--ring);border-radius:8px;padding:8px 12px;font-size:13.5px;margin-top:12px}
+.meta{color:var(--muted);font-size:13px}
+footer{color:var(--muted);font-size:12.5px;margin-top:44px}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <h1>ALTR — CS Command Center</h1>
+  <div class="sub">{{ date }}{% if prev_date %} · vs {{ prev_date }}{% endif %} · every client chat, full history · <span class="internal">Internal — Derrek only</span></div>
+</header>
+
+<div class="hero">
+  <div class="scorecard">
+    <div class="lab">Client-book health (avg of all weekly scores)</div>
+    <div class="big">{{ trend.now }}<span style="font-size:18px;color:var(--muted)">/100</span>
+      {% if trend.per_week is not none %}<span class="trendword">▼ {{ trend.per_week | abs }} pts/week</span>{% endif %}
+    </div>
+    <svg class="spark" width="260" height="64" role="img" aria-label="health trend">
+      <polyline points="{{ trend.spark }}"/>
+      {% set last = trend.spark.split(' ') | last %}
+      <circle cx="{{ last.split(',')[0] }}" cy="{{ last.split(',')[1] }}" r="3.5"/>
+    </svg>
+    <div class="meta">{{ trend.weeks | first }} → {{ trend.weeks | last }} ({{ trend.avgs | join(' → ') }})</div>
+  </div>
+  <div class="verdict">{{ hl.verdict }}</div>
+</div>
+
+<div class="kpis">
+  <div class="kpi"><div class="v">{{ totals.counts.at_risk }}</div><div class="l">at risk</div></div>
+  <div class="kpi"><div class="v">{{ totals.counts.active }}</div><div class="l">healthy</div></div>
+  <div class="kpi"><div class="v">{{ totals.counts.churned }}</div><div class="l">churned (9 wks)</div></div>
+  <div class="kpi"><div class="v">{{ totals.promise_pct }}%</div><div class="l">promises lapsed</div></div>
+  <div class="kpi"><div class="v">{{ totals.unanswered_pct }}%</div><div class="l">questions unanswered &gt;24h</div></div>
+</div>
+
+<h2>🔥 Today — {{ hl.fires | length }} fires</h2>
+<p class="h2sub">Ranked by risk. Each has one action, one owner, and a message you can paste into Telegram (edit the [brackets] first).</p>
+{% for f in hl.fires %}
+<div class="fire">
+  <div class="top">
+    <span class="nm">{{ f.client }}</span>
+    <span class="chip {{ 'you' if 'Derrek' in f.owner else 'owner' }}">{{ '👤 ' + f.owner }}</span>
+    {% if f.revenue %}<span class="chip">${{ '{:,}'.format(f.revenue) }}/mo</span>{% endif %}
+    <span class="hp">{% if f.health_now is not none %}health {{ f.health_now }}{% endif %}
+      {% if f.spark %}<svg class="spark" width="80" height="24"><polyline points="{{ f.spark }}" transform="scale(0.667,0.8)"/></svg>{% endif %}</span>
+  </div>
+  <div class="why">{{ f.why }}</div>
+  <p class="act"><b>Do:</b> {{ f.action }}</p>
+  {% if f.draft %}
+  <details class="draft"><summary>✉️ Ready-to-send message ▾</summary>
+    <div class="draftbox"><button class="copybtn" onclick="copyDraft(this)">Copy</button>{{ f.draft }}</div>
+  </details>
+  {% endif %}
+</div>
+{% endfor %}
+
+<h2>📋 This week</h2>
+<p class="h2sub">One line each — forward these to their owners (grouped lists below).</p>
+<table class="week">
+  {% for t in hl.this_week %}
+  <tr><td class="c">{{ t.client }}</td><td class="o"><span class="chip owner">{{ t.owner }}</span></td><td>{{ t.action }}</td></tr>
+  {% endfor %}
+</table>
+
+<h2>👥 Delegate it</h2>
+<p class="h2sub">Each card is one person's list — screenshot or paste it to them as-is.</p>
+<div class="delegate">
+  {% for d in hl.delegate %}
+  <div class="dcard"><h3>{{ d.person }}<span class="meta">{{ d.tasks | length }} items</span></h3>
+    <ul>{% for t in d.tasks %}<li>{{ t }}</li>{% endfor %}</ul></div>
+  {% endfor %}
+</div>
+
+{% if hl.systemic_fix %}
+<div class="callout green" style="margin-top:24px"><h3>🔧 If you fix one process this week</h3>{{ hl.systemic_fix }}
+{% if hl.team_broadcast %}
+<details class="draft"><summary>✉️ Team broadcast, ready to send ▾</summary>
+  <div class="draftbox"><button class="copybtn" onclick="copyDraft(this)">Copy</button>{{ hl.team_broadcast }}</div>
+</details>
+{% endif %}
+</div>
+{% endif %}
+{% if hl.pattern %}<div class="callout amber"><h3>⚠ Pattern of the week</h3>{{ hl.pattern }}</div>{% endif %}
+{% if hl.integrity %}<div class="callout red"><h3>🚩 For your eyes only</h3>{{ hl.integrity }}</div>{% endif %}
+
+<h2>✖ Churned — money still on the table</h2>
+<table class="week money">
+  {% for c in hl.churned %}
+  <tr><td class="c">{{ c.client }}</td><td class="m">{{ c.money }}</td><td>{{ c.action }}</td></tr>
+  {% endfor %}
+</table>
+
+{% if hl.monitor %}
+<h2>✅ Doing fine — keep it that way</h2>
+<table class="week">
+  {% for m in hl.monitor %}
+  <tr><td class="c">{{ m.client }}</td><td>{{ m.note }}</td></tr>
+  {% endfor %}
+</table>
+{% endif %}
+
+<details class="appendix">
+<summary>📊 The full data — every client, every dimension, all evidence <span class="note">(click to expand)</span></summary>
+
+<div class="dimbars">
+  {% for d in dim_rank %}
+  <div class="dimrow">
+    <div class="lab">{{ d.label }}</div>
+    <div class="track"><div class="bar" style="width:{{ (d.avg / 3 * 100) | round(1) }}%"></div></div>
+    <div class="val">{{ '%.2f' % d.avg }}
+      {% if d.delta is not none %}{% if d.delta > 0.04 %}<span class="up">▲</span>{% elif d.delta < -0.04 %}<span class="down">▼</span>{% else %}<span class="flat">→</span>{% endif %}{% endif %}
+      · {{ d.n3 }}×3</div>
+  </div>
+  {% endfor %}
+  <div class="meta" style="margin-top:8px">Average severity 0–3 across all accounts. ▲ worse / ▼ better vs {{ prev_date or 'previous run' }}. "n×3" = accounts at max severity.</div>
+</div>
+
+<table class="matrix">
+  <thead><tr><th></th><th></th>{% for k in dims %}<th class="col">{{ dim_labels[k] }}</th>{% endfor %}<th class="col">Total (Δ)</th></tr></thead>
+  <tbody>
+  {% for c in clients %}
+  <tr>
+    <td class="name">{{ c.name }}</td>
+    <td style="width:auto;text-align:left"><span class="badge b-{{ c.status }}"><span class="dot"></span>{{ c.status.replace('_',' ') }}</span></td>
+    {% for d in c.dims %}<td class="s{{ d.severity }}">{{ d.severity }}</td>{% endfor %}
+    <td class="s0" style="font-weight:650;color:var(--ink)">{{ c.total }}{% if c.delta is not none %} <span class="{{ 'up' if c.delta > 0 else ('down' if c.delta < 0 else 'flat') }}">{{ '▲' if c.delta > 0 else ('▼' if c.delta < 0 else '→') }}</span>{% endif %}</td>
+  </tr>
+  {% endfor %}
+  </tbody>
+</table>
+<div class="meta" style="margin:6px 0 14px">0 = fine · 1 = minor · 2 = real problem · 3 = severe.</div>
+
+{% for c in clients %}
+<details class="client">
+  <summary>
+    <span class="nm">{{ c.name }}</span>
+    <span class="badge b-{{ c.status }}"><span class="dot"></span>{{ c.status.replace('_',' ') }}</span>
+    {% if c.health_spark %}<svg class="spark" width="80" height="24"><polyline points="{{ c.health_spark }}" transform="scale(0.667,0.8)"/></svg>{% endif %}
+    <span class="fix">{{ c.top_fix[:100] }}{% if c.top_fix|length > 100 %}…{% endif %}</span>
+    <span class="meta">last msg {{ c.last_msg or '—' }}</span>
+  </summary>
+  <div class="cbody">
+    <p style="margin:12px 0 0">{{ c.status_reason }}</p>
+    {% for d in c.dims if d.severity == 3 %}
+      <h4>{{ d.label }}</h4>
+      <div style="font-size:13.5px">{{ d.failure }}</div>
+      {% for q in d.evidence[:1] %}<blockquote>“{{ q.quote }}” <span class="q-meta">— {{ q.who }}, {{ q.date }}</span></blockquote>{% endfor %}
+    {% endfor %}
+    <div class="cols">
+      <div>{% if c.wanted %}<h4>What they want from us</h4><ul style="margin:0;padding-left:18px;font-size:13.5px">{% for w in c.wanted[:3] %}<li style="margin:4px 0">{{ w if w is string else w.want or w }}</li>{% endfor %}</ul>{% endif %}</div>
+      <div>{% if c.worked %}<h4>What's working — keep doing</h4><ul style="margin:0;padding-left:18px;font-size:13.5px">{% for w in c.worked[:3] %}<li style="margin:4px 0">{{ w if w is string else w.moment or w }}</li>{% endfor %}</ul>{% endif %}</div>
+    </div>
+    <div class="fixbox"><b>The fix:</b> {{ c.top_fix }}</div>
+  </div>
+</details>
+{% endfor %}
+</details>
+
+<footer>Generated locally from Telegram chat data · internal management document · refreshed automatically every Friday morning.</footer>
+</div>
+<script>
+function copyDraft(btn){
+  var text = btn.parentElement.innerText.replace(/^Copy\n?/, '');
+  function done(){ btn.textContent='Copied ✓'; setTimeout(function(){btn.textContent='Copy';}, 1600); }
+  if (navigator.clipboard && navigator.clipboard.writeText) { navigator.clipboard.writeText(text).then(done); }
+  else { var ta=document.createElement('textarea'); ta.value=text; document.body.appendChild(ta); ta.select(); document.execCommand('copy'); document.body.removeChild(ta); done(); }
+}
+</script>
+</body>
+</html>

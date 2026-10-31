@@ -1,0 +1,72 @@
+# Client registry.
+# folder         = canonical name (also used for slugs/filenames and for
+#                  matching Telegram Desktop export folders in the fallback path)
+# telegram_title = the group chat's exact title in Telegram (only needed when
+#                  it differs from folder)
+# client_aliases = Telegram display names on the client's side
+clients:
+  - folder: Sarah x ALTR
+    name: Sarah
+    telegram_title: "@brunnettebaby x ALTR"
+    client_aliases: [Sarah H]
+  - folder: Lauryn x ALTR
+    name: Lauryn
+    telegram_title: "@lalovetheboss x ALTR"
+    client_aliases: [LA Client]
+  - folder: Amber Haze x ALTR
+    name: Amber Haze
+    telegram_title: MC x Amber Haze
+    client_aliases: [Kirsten (amber Haze)]
+  - folder: Liza Kovalenko x ALTR
+    name: Liza Kovalenko
+    telegram_title: "@lizakovalenko x ALTR"
+    client_aliases: [Eli]
+  - folder: Lilia x ALTR
+    name: Lilia
+    client_aliases: [Lilia]
+  - folder: Haileigh Cox x ALTR
+    name: Haileigh Cox
+    telegram_title: "@haleighcox x ALTR"
+    client_aliases: [Hailey Client]
+  - folder: Sarah Lloyd x ALTR
+    name: Sarah Lloyd
+    client_aliases: [Sarah Lloyd]
+  - folder: Vicky x ALTR
+    name: Vicky
+    telegram_title: Vicky(Valeri) x ALTR
+    client_aliases: [Valerie]
+  - folder: Lauren Blake x ALTR
+    name: Lauren Blake
+    client_aliases: [Lauren Blake]
+  - folder: Barbara x ALTR
+    name: Barbara
+    client_aliases: [Barb Brazil, Barbara Silva]
+  - folder: Mila x ALTR
+    name: Mila
+    client_aliases: [Callie (Mila)]
+  - folder: Kaitlynn x ALTR
+    name: Kaitlynn
+    client_aliases: [Kaitlynn Anderson Koda]
+  - folder: Shayna x ALTR
+    name: Shayna
+    client_aliases: [Shayna Holt]
+  - folder: Vale x ALTR
+    name: Vale
+    client_aliases: [Vale]
+  # --- new clients discovered via Telegram API (no exports existed) ---
+  - folder: Alanna x ALTR
+    name: Alanna
+    client_aliases: [Alanna<3]
+  - folder: Paige x ALTR
+    name: Paige
+    client_aliases: ["Paige (Chey Ref)"]
+  - folder: Hannah x ALTR
+    name: Hannah
+    client_aliases: [Bells Vale Referral]
+  - folder: Alex Paige Moore x ALTR
+    name: Alex Paige Moore
+    telegram_title: "@alexpaigemoore x ALTR"
+    client_aliases: [Alex Paige, Ethan Ok]
+  - folder: Chey Mai x ALTR
+    name: Chey Mai
+    client_aliases: [Cheyene Burridge]

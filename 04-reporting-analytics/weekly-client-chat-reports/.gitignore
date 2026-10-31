@@ -1,0 +1,15 @@
+# Client chat content and generated reports must never be committed
+data/
+reports/
+
+# Telegram API credentials and login session
+config/telegram.ini
+*.session
+*.session-journal
+
+.DS_Store
+__pycache__/
+*.pyc
+
+# Local Netlify folder
+.netlify

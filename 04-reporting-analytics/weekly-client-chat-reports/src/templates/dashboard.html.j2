@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
+<title>ALTR Weekly Client Report — {{ week }}</title>
+<style>
+:root {
+  color-scheme: light;
+  --page: #f9f9f7; --surface: #fcfcfb;
+  --ink: #0b0b0b; --ink-2: #52514e; --muted: #898781;
+  --grid: #e1e0d9; --baseline: #c3c2b7; --ring: rgba(11,11,11,0.10);
+  --series-1: #2a78d6;
+  --good: #0ca30c; --warning: #fab219; --serious: #ec835a; --critical: #d03b3b;
+  --delta-good: #006300;
+  --good-bg: rgba(12,163,12,.10); --warning-bg: rgba(250,178,25,.14);
+  --serious-bg: rgba(236,131,90,.14); --critical-bg: rgba(208,59,59,.10);
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: dark;
+    --page: #0d0d0d; --surface: #1a1a19;
+    --ink: #ffffff; --ink-2: #c3c2b7; --muted: #898781;
+    --grid: #2c2c2a; --baseline: #383835; --ring: rgba(255,255,255,0.10);
+    --series-1: #3987e5;
+    --delta-good: #0ca30c;
+  }
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0; background: var(--page); color: var(--ink);
+  font: 15px/1.55 system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+.wrap { max-width: 1080px; margin: 0 auto; padding: 32px 24px 80px; }
+header h1 { font-size: 24px; margin: 0 0 2px; }
+header .sub { color: var(--ink-2); margin-bottom: 20px; }
+.banner {
+  background: var(--warning-bg); border: 1px solid var(--ring); border-radius: 8px;
+  padding: 10px 14px; margin-bottom: 20px; font-size: 14px;
+}
+.banner ul { margin: 4px 0 0; padding-left: 20px; }
+
+.tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px; margin-bottom: 28px; }
+.tile { background: var(--surface); border: 1px solid var(--ring); border-radius: 10px; padding: 14px 16px; }
+.tile .v { font-size: 26px; font-weight: 650; }
+.tile .l { color: var(--ink-2); font-size: 13px; }
+
+.tabs { display: flex; gap: 4px; border-bottom: 1px solid var(--grid); margin-bottom: 24px; }
+.tabs button {
+  appearance: none; background: none; border: none; border-bottom: 2px solid transparent;
+  font: inherit; font-weight: 600; color: var(--ink-2); padding: 8px 14px; cursor: pointer;
+}
+.tabs button.active { color: var(--ink); border-bottom-color: var(--series-1); }
+.tab { display: none; } .tab.active { display: block; }
+
+table.overview { width: 100%; border-collapse: collapse; background: var(--surface); border: 1px solid var(--ring); border-radius: 10px; overflow: hidden; }
+table.overview th {
+  text-align: left; font-size: 12px; text-transform: uppercase; letter-spacing: .04em;
+  color: var(--muted); font-weight: 600; padding: 10px 12px; border-bottom: 1px solid var(--grid);
+}
+table.overview td { padding: 10px 12px; border-bottom: 1px solid var(--grid); font-variant-numeric: tabular-nums; }
+table.overview tr:last-child td { border-bottom: none; }
+table.overview tr.row { cursor: pointer; }
+table.overview tr.row:hover td { background: color-mix(in oklab, var(--surface) 92%, var(--ink)); }
+td.num, th.num { text-align: right; }
+
+.badge {
+  display: inline-flex; align-items: center; gap: 5px; font-size: 12.5px; font-weight: 600;
+  padding: 2px 9px; border-radius: 999px; border: 1px solid var(--ring); white-space: nowrap;
+}
+.badge.good { background: var(--good-bg); } .badge.warning { background: var(--warning-bg); }
+.badge.serious { background: var(--serious-bg); } .badge.critical { background: var(--critical-bg); }
+.dot { width: 8px; height: 8px; border-radius: 50%; display: inline-block; }
+.dot.good { background: var(--good); } .dot.warning { background: var(--warning); }
+.dot.serious { background: var(--serious); } .dot.critical { background: var(--critical); }
+.trend { font-weight: 600; font-size: 13px; }
+.trend.up { color: var(--delta-good); } .trend.down { color: var(--critical); } .trend.flat, .trend.new { color: var(--muted); }
+
+.spark { display: block; }
+.spark polyline { fill: none; stroke: var(--series-1); stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+.spark circle { fill: var(--series-1); }
+
+section.client, .card { background: var(--surface); border: 1px solid var(--ring); border-radius: 12px; padding: 20px 22px; margin-top: 20px; }
+section.client h2, .card h2 { margin: 0; font-size: 19px; display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+.score { font-weight: 700; font-variant-numeric: tabular-nums; }
+.rationale { color: var(--ink-2); font-size: 14px; margin: 6px 0 0; }
+.summary { margin: 12px 0 4px; }
+h3 { font-size: 13px; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); margin: 20px 0 8px; }
+ul.items { margin: 0; padding: 0; list-style: none; }
+ul.items > li { padding: 9px 0; border-top: 1px solid var(--grid); }
+ul.items > li:first-child { border-top: none; }
+.item-head { display: flex; gap: 8px; align-items: baseline; flex-wrap: wrap; }
+.who { font-weight: 600; }
+.meta { color: var(--muted); font-size: 13px; }
+blockquote {
+  margin: 6px 0 0; padding: 6px 12px; border-left: 3px solid var(--baseline);
+  color: var(--ink-2); font-size: 13.5px;
+}
+blockquote .q-meta { color: var(--muted); font-size: 12px; }
+.cols { display: grid; grid-template-columns: 1fr 1fr; gap: 0 32px; }
+@media (max-width: 760px) { .cols { grid-template-columns: 1fr; } }
+ul.plain { margin: 0; padding-left: 20px; }
+ul.plain li { margin: 4px 0; }
+
+.emp-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+@media (max-width: 900px) { .emp-grid { grid-template-columns: 1fr; } }
+.card table { width: 100%; border-collapse: collapse; font-size: 13.5px; margin-top: 8px; }
+.card table th { text-align: left; color: var(--muted); font-weight: 600; font-size: 12px; padding: 4px 8px 4px 0; border-bottom: 1px solid var(--grid); }
+.card table td { padding: 5px 8px 5px 0; border-bottom: 1px solid var(--grid); vertical-align: top; font-variant-numeric: tabular-nums; }
+.flag { color: var(--ink-2); }
+.flag::before { content: "⚠ "; }
+.strength { color: var(--ink-2); }
+.strength::before { content: "✓ "; color: var(--delta-good); font-weight: 700; }
+.pill { font-size: 12px; border: 1px solid var(--ring); border-radius: 999px; padding: 1px 8px; color: var(--ink-2); white-space: nowrap; }
+a.backtop { color: var(--muted); font-size: 13px; text-decoration: none; float: right; }
+a.dl {
+  margin-left: auto; font-size: 12.5px; font-weight: 600; text-decoration: none;
+  color: var(--series-1); border: 1px solid var(--ring); border-radius: 999px; padding: 3px 11px;
+  white-space: nowrap;
+}
+a.dl:hover { background: color-mix(in oklab, var(--surface) 92%, var(--ink)); }
+footer { color: var(--muted); font-size: 13px; margin-top: 40px; }
+</style>
+</head>
+<body>
+<div class="wrap" id="top">
+<header>
+  <h1>ALTR — Weekly Client Report</h1>
+  <div class="sub">Week ending {{ week }} · {{ totals.clients }} clients analyzed</div>
+</header>
+
+{% if warnings %}
+<div class="banner"><strong>Export warnings</strong> — these chats need a fresh export from Telegram Desktop:
+  <ul>{% for w in warnings %}<li>{{ w }}</li>{% endfor %}</ul>
+</div>
+{% endif %}
+
+<div class="tiles">
+  <div class="tile"><div class="v">{{ totals.avg_health }}</div><div class="l">Avg. health / 100</div></div>
+  <div class="tile"><div class="v">{{ totals.open_complaints }}</div><div class="l">Open complaints</div></div>
+  <div class="tile"><div class="v">{{ totals.overdue }}</div><div class="l">Overdue commitments</div></div>
+  <div class="tile"><div class="v">{{ totals.payment_flags }}</div><div class="l">Payment flags</div></div>
+  <div class="tile"><div class="v">{{ totals.messages }}</div><div class="l">Messages this week</div></div>
+</div>
+
+<div class="tabs" role="tablist">
+  <button class="active" data-tab="clients">Clients</button>
+  <button data-tab="team">Team</button>
+</div>
+
+<div class="tab active" id="tab-clients">
+<table class="overview">
+  <thead><tr>
+    <th>Client</th><th>Health</th><th>History</th>
+    <th class="num">Open complaints</th><th class="num">Overdue</th><th class="num">Reminders</th>
+    <th>Payments</th><th class="num">Msgs (wk)</th>
+  </tr></thead>
+  <tbody>
+  {% for c in clients %}
+    <tr class="row" onclick="location.hash='client-{{ c.slug }}'">
+      <td><strong>{{ c.client }}</strong></td>
+      <td><span class="badge {{ c.status }}"><span class="dot {{ c.status }}"></span>{{ c.health.score }} · {{ c.status_label }}</span>
+          <span class="trend {{ c.health.trend }}">{% if c.health.trend == 'up' %}↑{% elif c.health.trend == 'down' %}↓{% elif c.health.trend == 'flat' %}→{% else %}new{% endif %}</span></td>
+      <td>{% if c.spark_n > 1 %}<svg class="spark" width="120" height="32" role="img" aria-label="health history"><polyline points="{{ c.spark }}"/></svg>
+          {% else %}<svg class="spark" width="120" height="32" role="img" aria-label="first week"><circle cx="60" cy="{{ 28 - c.health.score * 0.24 }}" r="3"/></svg>{% endif %}</td>
+      <td class="num">{{ c.open_complaints }}</td>
+      <td class="num">{{ c.overdue }}</td>
+      <td class="num">{{ c.reminders | length }}</td>
+      <td>{% if c.payment_flag %}<span class="badge serious"><span class="dot serious"></span>⚠ Late</span>{% else %}<span class="meta">OK</span>{% endif %}</td>
+      <td class="num">{{ c.week_stats.messages if c.week_stats else '–' }}</td>
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>
+
+{% for c in clients %}
+<section class="client" id="client-{{ c.slug }}">
+  <a class="backtop" href="#top">↑ top</a>
+  <h2>{{ c.client }}
+    <span class="badge {{ c.status }}"><span class="dot {{ c.status }}"></span><span class="score">{{ c.health.score }}</span>&nbsp;· {{ c.status_label }}</span>
+    <span class="trend {{ c.health.trend }}">{% if c.health.trend == 'up' %}↑ improving{% elif c.health.trend == 'down' %}↓ declining{% elif c.health.trend == 'flat' %}→ steady{% else %}first report{% endif %}</span>
+  </h2>
+  <p class="rationale">{{ c.health.rationale }}</p>
+  <p class="summary">{{ c.summary }}</p>
+
+  {% if c.reminders %}
+  <h3>Repeated reminders from the client</h3>
+  <ul class="items">
+    {% for r in c.reminders %}
+    <li>
+      <div class="item-head"><span class="who">{{ r.employee }}</span><span>— {{ r.topic }}</span>
+        <span class="pill">×{{ r.count }}</span>
+        {% if r.days_outstanding %}<span class="meta">{{ r.days_outstanding }} days outstanding</span>{% endif %}</div>
+      {% for q in r.quotes or [] %}<blockquote>“{{ q.quote }}” <span class="q-meta">— {{ q.who or c.client }}, {{ q.date }}</span></blockquote>{% endfor %}
+    </li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+
+  {% if c.complaints %}
+  <h3>Complaints & issues</h3>
+  <ul class="items">
+    {% for x in c.complaints %}
+    <li>
+      <div class="item-head">
+        {% set s = {'resolved':'good','in_progress':'warning','new':'serious','recurring':'critical'}[x.status] %}
+        <span class="badge {{ s }}"><span class="dot {{ s }}"></span>{{ x.status.replace('_',' ') }}</span>
+        <span class="who">{{ x.issue }}</span>
+        {% if x.owner %}<span class="pill">owner: {{ x.owner }}</span>{% endif %}
+        {% if x.first_raised %}<span class="meta">first raised {{ x.first_raised }}</span>{% endif %}
+      </div>
+      {% for q in x.quotes or [] %}<blockquote>“{{ q.quote }}” <span class="q-meta">— {{ q.who or c.client }}, {{ q.date }}</span></blockquote>{% endfor %}
+    </li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+
+  {% if c.commitments %}
+  <h3>What we said we'd do</h3>
+  <ul class="items">
+    {% for x in c.commitments %}
+    <li>
+      <div class="item-head">
+        {% set s = {'done':'good','pending':'warning','overdue':'critical'}[x.status] %}
+        <span class="badge {{ s }}"><span class="dot {{ s }}"></span>{{ x.status }}</span>
+        <span>{{ x.what }}</span>
+        <span class="meta">{{ x.who }}{% if x.date %}, {{ x.date }}{% endif %}</span>
+      </div>
+      {% for q in x.quotes or [] %}<blockquote>“{{ q.quote }}” <span class="q-meta">— {{ q.who }}, {{ q.date }}</span></blockquote>{% endfor %}
+    </li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+
+  {% if c.payments %}
+  <h3>Payments & invoicing</h3>
+  <ul class="items">
+    {% for p in c.payments %}
+    <li>
+      <div class="item-head">
+        {% if p.late %}<span class="badge serious"><span class="dot serious"></span>⚠ late</span>{% endif %}
+        <span>{{ p.note }}</span>{% if p.date %}<span class="meta">{{ p.date }}</span>{% endif %}
+      </div>
+      {% if p.reason %}<div class="meta">Why: {{ p.reason }}</div>{% endif %}
+      {% if p.suggested_fix %}<div class="meta">Fix: {{ p.suggested_fix }}</div>{% endif %}
+      {% for q in p.quotes or [] %}<blockquote>“{{ q.quote }}” <span class="q-meta">— {{ q.who }}, {{ q.date }}</span></blockquote>{% endfor %}
+    </li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+
+  <div class="cols">
+    <div>
+      {% if c.client_priorities %}<h3>What this client cares about</h3>
+      <ul class="plain">{% for p in c.client_priorities %}<li>{{ p }}</li>{% endfor %}</ul>{% endif %}
+      {% if c.wins %}<h3>Wins to highlight back</h3>
+      <ul class="plain">{% for w in c.wins %}<li class="strength">{{ w }}</li>{% endfor %}</ul>{% endif %}
+    </div>
+    <div>
+      {% if c.suggestions %}<h3>Suggestions</h3>
+      <ul class="plain">{% for s in c.suggestions %}<li>{{ s }}</li>{% endfor %}</ul>{% endif %}
+    </div>
+  </div>
+</section>
+{% endfor %}
+</div>
+
+<div class="tab" id="tab-team">
+<div class="emp-grid">
+  {% for e in employees %}
+  <div class="card">
+    <h2>{{ e.name }}{% if e.role %} <span class="pill">{{ e.role }}</span>{% endif %}
+      <span class="badge {{ 'good' if e.open_issues == 0 else ('warning' if e.open_issues < 3 else 'serious') }}">
+        <span class="dot {{ 'good' if e.open_issues == 0 else ('warning' if e.open_issues < 3 else 'serious') }}"></span>{{ e.open_issues }} open issue{{ '' if e.open_issues == 1 else 's' }}</span>
+      {% if e.trend %}<span class="trend {{ e.trend }}">{% if e.trend == 'up' %}↑ improving{% elif e.trend == 'down' %}↓ slipping{% elif e.trend == 'flat' %}→ steady{% else %}first report{% endif %}</span>{% endif %}
+      {% if e.file %}<a class="dl" href="{{ e.file }}" download="{{ e.name }} — week ending {{ week }}.html">⬇ Download report</a>{% endif %}
+    </h2>
+    <p class="rationale">{{ e.summary }}</p>
+    {% if e.clients %}
+    <table>
+      <thead><tr><th>Client</th><th>Reminders</th><th>Complaints</th><th>Commitments</th><th>Notes</th></tr></thead>
+      <tbody>
+      {% for ec in e.clients %}
+        <tr><td>{{ ec.client }}</td><td>{{ ec.reminders }}</td><td>{{ ec.complaints_owned }}</td>
+            <td>{{ ec.commitments_kept }} kept{% if ec.commitments_overdue %} / {{ ec.commitments_overdue }} overdue{% endif %}</td>
+            <td class="meta" style="font-size:12.5px">{{ ec.notes }}</td></tr>
+      {% endfor %}
+      </tbody>
+    </table>
+    {% endif %}
+    {% if e.strengths %}<h3>Strengths</h3><ul class="plain">{% for s in e.strengths %}<li class="strength">{{ s }}</li>{% endfor %}</ul>{% endif %}
+    {% if e.coaching_flags %}<h3>Coaching flags</h3><ul class="plain">{% for f in e.coaching_flags %}<li class="flag">{{ f }}</li>{% endfor %}</ul>{% endif %}
+    {% for q in e.quotes or [] %}<blockquote>“{{ q.quote }}” <span class="q-meta">— {{ q.client }}, {{ q.date }}</span></blockquote>{% endfor %}
+  </div>
+  {% endfor %}
+</div>
+</div>
+
+<footer>Generated locally from Telegram exports · data stays on this machine.</footer>
+</div>
+<script>
+document.querySelectorAll('.tabs button').forEach(btn => btn.addEventListener('click', () => {
+  document.querySelectorAll('.tabs button').forEach(b => b.classList.toggle('active', b === btn));
+  document.querySelectorAll('.tab').forEach(t => t.classList.toggle('active', t.id === 'tab-' + btn.dataset.tab));
+}));
+</script>
+</body>
+</html>
