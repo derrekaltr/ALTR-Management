@@ -1,0 +1,64 @@
+{
+  "_readme": "ALTR Management's current services (sourced from the 'ALTR Marketplace' Google Drive, 2026-09-29). Any swapd listing whose service_type is NOT matched here becomes an outreach candidate. 'aliases' are substrings matched against listing titles/bodies (case-insensitive). 'your_cost' (optional) = what ALTR currently PAYS a provider for this service; set it to enable cheaper-alternative recommendations. Leave null if unknown.",
+  "brand": {
+    "name": "ALTR Management",
+    "email": "derrek@altrmgmt.com",
+    "pitch": "large marketplace handling hundreds of social media services a month"
+  },
+  "services": [
+    {
+      "service": "instagram_unban",
+      "display": "Instagram Unban (Suspended & Permanent)",
+      "aliases": ["instagram unban", "ig unban", "insta unban", "instagram reinstat", "instagram recovery", "instagram recover", "suspended unban", "permanent unban", "disabled instagram", "instagram appeal", "instagram disabled", "ig reinstat"],
+      "your_cost": null
+    },
+    {
+      "service": "instagram_shielding",
+      "display": "Instagram Shielding",
+      "aliases": ["instagram shielding", "ig shielding", "insta shield", "instagram shield"],
+      "your_cost": null
+    },
+    {
+      "service": "shielding",
+      "display": "Full Shielding (Cross-Platform)",
+      "aliases": ["full shielding", "account shielding", "shielding service", "cross-platform shielding"],
+      "your_cost": null
+    },
+    {
+      "service": "tiktok_unban",
+      "display": "TikTok Unban",
+      "aliases": ["tiktok unban", "tik tok unban", "tiktok reinstat", "tiktok recovery", "tiktok recover", "tiktok appeal", "tiktok ban appeal"],
+      "your_cost": null
+    },
+    {
+      "service": "tiktok_removal",
+      "display": "TikTok Ban / Removal / Takedown",
+      "aliases": ["tiktok ban", "tik tok ban", "tiktok takedown", "tiktok removal", "remove tiktok", "tiktok account removal", "tiktok mass report", "ban tiktok"],
+      "your_cost": null
+    },
+    {
+      "service": "youtube_unban",
+      "display": "YouTube Unban",
+      "aliases": ["youtube unban", "yt unban", "youtube reinstat", "youtube recovery", "youtube recover", "channel reinstat", "youtube appeal", "youtube channel recovery"],
+      "your_cost": null
+    },
+    {
+      "service": "snapchat_removal",
+      "display": "Snapchat Account Removal",
+      "aliases": ["snapchat removal", "snapchat account removal", "snapchat takedown", "snapchat ban", "snapchat delete", "remove snapchat"],
+      "your_cost": null
+    },
+    {
+      "service": "whatsapp_unban",
+      "display": "WhatsApp Unban",
+      "aliases": ["whatsapp unban", "whatsapp ban appeal", "whatsapp recovery", "whatsapp recover", "whatsapp reinstat", "whatsapp appeal"],
+      "your_cost": null
+    },
+    {
+      "service": "wikipedia_creation",
+      "display": "Wikipedia Creation",
+      "aliases": ["wikipedia creation", "wikipedia page", "wikipedia article", "wiki creation", "create wikipedia", "wikipedia editor"],
+      "your_cost": null
+    }
+  ]
+}

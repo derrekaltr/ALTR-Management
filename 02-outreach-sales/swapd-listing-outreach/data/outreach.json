@@ -1,0 +1,303 @@
+{
+  "_readme": "One entry per (seller + service). status flow: pending_approval -> approved -> sent -> (replied_yes | replied_no | no_response). 'skipped' = you chose not to contact. Dedup key prevents messaging the same seller for the same service twice.",
+  "contacts": {
+    "porcupine": {
+      "seller": "porcupine",
+      "seller_url": "https://swapd.co/u/porcupine",
+      "service_ids": [
+        "facebook_service",
+        "google_removal",
+        "twitter_removal"
+      ],
+      "services": [
+        "Facebook Service",
+        "Google Removal",
+        "Twitter Removal"
+      ],
+      "listing_urls": [
+        "https://swapd.co/t/1659501",
+        "https://swapd.co/t/1938027",
+        "https://swapd.co/t/1407157"
+      ],
+      "success_rate": 63.8,
+      "transactions": 1074,
+      "review_count": 381,
+      "subject": "Inquiry about your Google Removal",
+      "message": "Hey porcupine, reaching out about the Google Removal service you offer. I run a services marketplace (ALTR) with the reach to sell this at volume. If I bring bulk clientele, could we get to a better price over time? We'll show you what we can do first. What's needed to get started? I'd like to have it ready in our system.",
+      "status": "sent",
+      "drafted_at": "2026-09-29",
+      "approved": true,
+      "sent_at": "2026-09-29T03:29:36",
+      "reply_text": null,
+      "regular_price": null,
+      "bulk_price": null
+    },
+    "Syndicate": {
+      "seller": "Syndicate",
+      "seller_url": "https://swapd.co/u/Syndicate",
+      "service_ids": [
+        "google_removal",
+        "reddit_removal",
+        "threads_removal",
+        "youtube_removal"
+      ],
+      "services": [
+        "Google Removal",
+        "Reddit Removal",
+        "Threads Removal",
+        "Youtube Removal"
+      ],
+      "listing_urls": [
+        "https://swapd.co/t/2078077",
+        "https://swapd.co/t/1925336",
+        "https://swapd.co/t/1925334",
+        "https://swapd.co/t/1852103",
+        "https://swapd.co/t/1821789"
+      ],
+      "success_rate": 100,
+      "transactions": 15,
+      "review_count": 9,
+      "subject": "Inquiry about your Google Removal",
+      "message": "Hi Syndicate, quick inquiry on your Google Removal. We're ALTR, a big services marketplace that could sell this for you. If we bring steady bulk clients, would a better price be possible down the line? Happy to show you what we can do first \u2014 just let me know what you need to get a job started so I can build it into our flow.",
+      "status": "sent",
+      "drafted_at": "2026-09-29",
+      "approved": true,
+      "sent_at": "2026-09-29T03:30:08",
+      "reply_text": null,
+      "regular_price": null,
+      "bulk_price": null
+    },
+    "Pixe": {
+      "seller": "Pixe",
+      "seller_url": "https://swapd.co/u/Pixe",
+      "service_ids": [
+        "google_removal"
+      ],
+      "services": [
+        "Google Removal"
+      ],
+      "listing_urls": [
+        "https://swapd.co/t/2047124"
+      ],
+      "success_rate": 70.4,
+      "transactions": 27,
+      "review_count": 17,
+      "subject": "Inquiry about your Google Removal",
+      "message": "Hi Pixe, saw your Google Removal and wanted to inquire. ALTR (my services marketplace) could sell this to a lot of clients. If we send bulk volume, would a better price be on the table down the line? Happy to prove it first \u2014 what do you need to get started so I can wire it into our system?",
+      "status": "sent",
+      "drafted_at": "2026-09-29",
+      "approved": true,
+      "sent_at": "2026-09-29T03:30:29",
+      "reply_text": null,
+      "regular_price": null,
+      "bulk_price": null
+    },
+    "Forgebyasam": {
+      "seller": "Forgebyasam",
+      "seller_url": "https://swapd.co/u/Forgebyasam",
+      "service_ids": [
+        "google_removal"
+      ],
+      "services": [
+        "Google Removal"
+      ],
+      "listing_urls": [
+        "https://swapd.co/t/1777073"
+      ],
+      "success_rate": 66.1,
+      "transactions": 62,
+      "review_count": 19,
+      "subject": "Inquiry about your Google Removal",
+      "message": "Hi Forgebyasam, quick inquiry on your Google Removal. We're ALTR, a big services marketplace that could sell this for you. If we bring steady bulk clients, would a better price be possible down the line? Happy to show you what we can do first \u2014 just let me know what you need to get a job started so I can build it into our flow.",
+      "status": "sent",
+      "drafted_at": "2026-09-29",
+      "approved": true,
+      "sent_at": "2026-09-29T03:30:51",
+      "reply_text": null,
+      "regular_price": null,
+      "bulk_price": null
+    },
+    "n8maniac": {
+      "seller": "n8maniac",
+      "seller_url": "https://swapd.co/u/n8maniac",
+      "service_ids": [
+        "linkedin_service"
+      ],
+      "services": [
+        "Linkedin Service"
+      ],
+      "listing_urls": [
+        "https://swapd.co/t/2122200"
+      ],
+      "success_rate": 100,
+      "transactions": 11,
+      "review_count": 3,
+      "subject": "Inquiry about your Linkedin",
+      "message": "Hey n8maniac, reaching out about the Linkedin service you offer. I run a services marketplace (ALTR) with the reach to sell this at volume. If I bring bulk clientele, could we get to a better price over time? We'll show you what we can do first. What's needed to get started? I'd like to have it ready in our system.",
+      "status": "pending_approval",
+      "drafted_at": "2026-09-29",
+      "approved": false,
+      "sent_at": null,
+      "reply_text": null,
+      "regular_price": null,
+      "bulk_price": null
+    },
+    "Ibrahimzhang": {
+      "seller": "Ibrahimzhang",
+      "seller_url": "https://swapd.co/u/Ibrahimzhang",
+      "service_ids": [
+        "removal"
+      ],
+      "services": [
+        "Removal"
+      ],
+      "listing_urls": [
+        "https://swapd.co/t/2131786"
+      ],
+      "success_rate": 100,
+      "transactions": 1,
+      "review_count": 1,
+      "subject": "Inquiry about your Removal",
+      "message": "Hi Ibrahimzhang, making an inquiry about your Removal service I saw on swapd. I run a big services marketplace (ALTR) that could sell this. If I bring you bulk clients, would you be able to do a better price down the line? Happy to show you what we can do first \u2014 what do you need to get started so I can have it ready and built into our system?",
+      "status": "sent",
+      "drafted_at": "2026-09-29",
+      "approved": true,
+      "sent_at": "2026-09-29T03:31:15",
+      "reply_text": null,
+      "regular_price": null,
+      "bulk_price": null
+    },
+    "elitemediaboost660": {
+      "seller": "elitemediaboost660",
+      "seller_url": "https://swapd.co/u/elitemediaboost660",
+      "service_ids": [
+        "removal",
+        "youtube_removal"
+      ],
+      "services": [
+        "Removal",
+        "Youtube Removal"
+      ],
+      "listing_urls": [
+        "https://swapd.co/t/2122962",
+        "https://swapd.co/t/2101658",
+        "https://swapd.co/t/2116076"
+      ],
+      "success_rate": 80,
+      "transactions": 5,
+      "review_count": 0,
+      "subject": "Inquiry about your Youtube Removal",
+      "message": "Hi elitemediaboost660, saw your Youtube Removal and wanted to inquire. ALTR (my services marketplace) could sell this to a lot of clients. If we send bulk volume, would a better price be on the table down the line? Happy to prove it first \u2014 what do you need to get started so I can wire it into our system?",
+      "status": "approved",
+      "drafted_at": "2026-09-29",
+      "approved": true,
+      "sent_at": null,
+      "reply_text": null,
+      "regular_price": null,
+      "bulk_price": null
+    },
+    "WALKER": {
+      "seller": "WALKER",
+      "seller_url": "https://swapd.co/u/WALKER",
+      "service_ids": [
+        "tiktok_verification",
+        "twitter_removal"
+      ],
+      "services": [
+        "Tiktok Verification",
+        "Twitter Removal"
+      ],
+      "listing_urls": [
+        "https://swapd.co/t/1041465",
+        "https://swapd.co/t/1685413"
+      ],
+      "success_rate": 64.1,
+      "transactions": 273,
+      "review_count": 193,
+      "subject": "Inquiry about your Tiktok Verification",
+      "message": "Hi WALKER, saw your Tiktok Verification and wanted to inquire. ALTR (my services marketplace) could sell this to a lot of clients. If we send bulk volume, would a better price be on the table down the line? Happy to prove it first \u2014 what do you need to get started so I can wire it into our system?",
+      "status": "approved",
+      "drafted_at": "2026-09-29",
+      "approved": true,
+      "sent_at": null,
+      "reply_text": null,
+      "regular_price": null,
+      "bulk_price": null
+    },
+    "stargate": {
+      "seller": "stargate",
+      "seller_url": "https://swapd.co/u/stargate",
+      "service_ids": [
+        "username_claim"
+      ],
+      "services": [
+        "Username Claim"
+      ],
+      "listing_urls": [
+        "https://swapd.co/t/2060034"
+      ],
+      "success_rate": 75,
+      "transactions": 4,
+      "review_count": 6,
+      "subject": "Inquiry about your Username Claim",
+      "message": "Hey stargate, I saw your Username Claim listing and wanted to ask \u2014 I run a large services marketplace (ALTR) that could move this. If we sent you bulk clientele, could you work out a better rate down the road? We'll prove ourselves first. What do you need from a client to get started, so I can set it up in our system?",
+      "status": "approved",
+      "drafted_at": "2026-09-29",
+      "approved": true,
+      "sent_at": null,
+      "reply_text": null,
+      "regular_price": null,
+      "bulk_price": null
+    },
+    "Mohammadshah": {
+      "seller": "Mohammadshah",
+      "seller_url": "https://swapd.co/u/Mohammadshah",
+      "service_ids": [
+        "youtube_removal"
+      ],
+      "services": [
+        "Youtube Removal"
+      ],
+      "listing_urls": [
+        "https://swapd.co/t/2144450"
+      ],
+      "success_rate": 100,
+      "transactions": 1,
+      "review_count": 1,
+      "subject": "Inquiry about your Youtube Removal",
+      "message": "Hi Mohammadshah, making an inquiry about your Youtube Removal service I saw on swapd. I run a big services marketplace (ALTR) that could sell this. If I bring you bulk clients, would you be able to do a better price down the line? Happy to show you what we can do first \u2014 what do you need to get started so I can have it ready and built into our system?",
+      "status": "approved",
+      "drafted_at": "2026-09-29",
+      "approved": true,
+      "sent_at": null,
+      "reply_text": null,
+      "regular_price": null,
+      "bulk_price": null
+    },
+    "Trish": {
+      "seller": "Trish",
+      "seller_url": "https://swapd.co/u/Trish",
+      "service_ids": [
+        "youtube_service"
+      ],
+      "services": [
+        "Youtube Service"
+      ],
+      "listing_urls": [
+        "https://swapd.co/t/2136161"
+      ],
+      "success_rate": 73.2,
+      "transactions": 127,
+      "review_count": 19,
+      "subject": "Inquiry about your Youtube",
+      "message": "Hi Trish, making an inquiry about your Youtube service I saw on swapd. I run a big services marketplace (ALTR) that could sell this. If I bring you bulk clients, would you be able to do a better price down the line? Happy to show you what we can do first \u2014 what do you need to get started so I can have it ready and built into our system?",
+      "status": "pending_approval",
+      "drafted_at": "2026-09-29",
+      "approved": false,
+      "sent_at": null,
+      "reply_text": null,
+      "regular_price": null,
+      "bulk_price": null
+    }
+  }
+}
