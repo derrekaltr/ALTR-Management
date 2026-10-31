@@ -7,7 +7,7 @@ Reorganized 2026-10-31. My Drive root contains exactly five folders:
 - **02 Outreach & Sales/** — ALTR Marketplace, Marketing & Decks, Email Contacts & Leads, Accounts for Sale, ALTR Bio Promotion.pdf, altr.pptx (pitch deck), Piura Swim model sign-up form
 - **03 Content Ops/** — Trial Reels Test
 - **04 Reporting & Analytics/** — ALTR Reports, Client Reports
-- **06 Ops & Admin/** — Brand & Design (brand identity PDF inside), Branding, ALTR Master (logos), Contracts & Legal, Financial, ALTR Finances, ALTR Invoices, Old Unorganized Payments, BOA Bank Statements (per-company accounts: MGMT 8284/4709, SIGNAL 5274, MEDIA 5261 + AMA transaction xlsx), LLC Dissolution Files, SOPs, HR job profile docx, manifest.txt (old org attempt record)
+- **06 Ops & Admin/** — Brand & Design (brand identity PDF inside), Branding, ALTR Master (logos), Contracts & Legal, Financial, ALTR Finances, ALTR Invoices, Old Unorganized Payments, BOA Bank Statements (per-company accounts: MGMT 8284/4709, SIGNAL 5274, MEDIA 5261 + AMA transaction xlsx), LLC Dissolution Files, SOPs, HR job profile docx, manifest.txt (old org attempt record). Emanay investigation PDFs in Contracts & Legal / Financial stay here **on purpose, per Derrek** (actively referenced) — do not relocate.
 
 ## ALTR Services/
 ALTR Services Questions, Vivek Pending Recoveries, IG Rep Submissions, ALTR x Woyski Recoveries
