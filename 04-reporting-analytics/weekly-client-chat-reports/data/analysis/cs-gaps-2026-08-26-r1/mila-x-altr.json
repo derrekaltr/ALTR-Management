@@ -1,0 +1,116 @@
+{
+  "client": "Mila",
+  "slug": "mila-x-altr",
+  "status": "at_risk",
+  "status_reason": "She delivered 48 videos and paid on 8/17 and got two emoji replies; the wire has not been confirmed received (on a changed account number), her 8/8 duplicate-payment check was never answered, and she has been silent 9 days. Only ALTR message since is a bare 'crystalmila.vip' from Mayson.",
+  "last_client_message": "2026-08-17",
+  "dimensions": {
+    "responsiveness": {
+      "severity": 2,
+      "internal_failure": "Her day-3 IG suspension question was never answered by anyone (Mica replied about scheduling a call instead); three billing questions took 25-28h; the 8/11 'will update you shortly' never came.",
+      "evidence": [
+        {"quote": "Hey guys my accounts been suspended again, I haven’t clicked appeal this time as you said not to, so what happens now x", "who": "Callie (Mila)", "date": "2026-06-23"},
+        {"quote": "Has it been received ??", "who": "Callie (Mila)", "date": "2026-07-12"},
+        {"quote": "Will update you shortly!", "who": "Stephski", "date": "2026-08-11"}
+      ]
+    },
+    "follow_through": {
+      "severity": 2,
+      "internal_failure": "'We will make sure the exchange is on the next invoice' — the next invoice was USD again and she had to ask; 'will update you shortly' on the payment never happened; Derrek's weekly updates never started; Michelle's 'I'll keep you posted' on posting produced one link.",
+      "evidence": [
+        {"quote": "We will make sure the exchange is on the next invoice", "who": "Alex Camus", "date": "2026-07-07"},
+        {"quote": "Hello! Coukd I have it in pounds please:) xx", "who": "Callie (Mila)", "date": "2026-07-19"},
+        {"quote": "heyyy love, ig posting is starting this week :) i’ll keep you posted 💕", "who": "Michelle Queue", "date": "2026-07-08"}
+      ]
+    },
+    "proactive_communication": {
+      "severity": 2,
+      "internal_failure": "Mica's reel-inspo cadence (5 drops) is the best in this cohort, but no OF numbers have ever been shared in 67 days, no posting links after 7/11 despite her asking to be kept in the loop, and 48 delivered videos got 'tyyy' and nothing else. Longest team silence 5 days (8/17-8/23).",
+      "evidence": [
+        {"quote": "Amazinggg, if you could send me links when you do just so I can be in the loop🫶🏼", "who": "Callie (Mila)", "date": "2026-07-08"},
+        {"quote": "Have uploaded 48 vids to the drive 🤍", "who": "Callie (Mila)", "date": "2026-08-17"},
+        {"quote": "crystalmila.vip", "who": "Mayson Chat", "date": "2026-08-23"}
+      ]
+    },
+    "onboarding_handoff": {
+      "severity": 1,
+      "internal_failure": "Best onboarding of the five: form done same day, previous team disconnected, kickoff call held 6/29, custom pricing collected. Gaps: her IG-suspension question on day 3 was ignored and invoice terms (due date, currency) were not explained up front.",
+      "evidence": [
+        {"quote": "Done :)", "who": "Callie (Mila)", "date": "2026-06-20"},
+        {"quote": "Perfect, starting now!", "who": "Mayson Chat", "date": "2026-06-21"},
+        {"quote": "when’s the due date unless I’m missing it hahaa x", "who": "Callie (Mila)", "date": "2026-07-05"}
+      ]
+    },
+    "chatter_conduct": {
+      "severity": 0,
+      "internal_failure": "Mayson collected custom pricing and Snapchat scope before selling; no boundary issues raised.",
+      "evidence": [
+        {"quote": "Hey @calliebullough what’s the minimum price for a custom?", "who": "Mayson Chat", "date": "2026-06-25"},
+        {"quote": "If ur ever unsure or have any specific questions just give me a message I’ll get back to you asap x", "who": "Callie (Mila)", "date": "2026-06-25"}
+      ]
+    },
+    "platform_health": {
+      "severity": 3,
+      "internal_failure": "Her IG suspension on day 3 ('what happens now') was never answered; a suspected impersonation page got 'that one isn't ours' with no takedown offered; Vivek was added and never spoke; 64 days with no status on her IG.",
+      "evidence": [
+        {"quote": "Hey guys my accounts been suspended again, I haven’t clicked appeal this time as you said not to, so what happens now x", "who": "Callie (Mila)", "date": "2026-06-23"},
+        {"quote": "send instagram too even if it’s suspended!", "who": "Mica Vecco", "date": "2026-06-29"},
+        {"quote": "that one isn’t ours", "who": "Michelle Queue", "date": "2026-07-14"}
+      ]
+    },
+    "billing_ops": {
+      "severity": 3,
+      "internal_failure": "USD invoices to a GBP client with no due date; a promised GBP conversion not applied; a wire only located 'after digging' because of a fee mismatch; the 8/8 fraud-flag re-send and duplicate check never closed; the 8/15 invoice changed the account number after she was told to reuse the old one; the 8/17 payment is unconfirmed 9 days later.",
+      "evidence": [
+        {"quote": "Ah okay, had to dick a bit but found your name in the system, we're all good here!", "who": "Stephski", "date": "2026-07-13"},
+        {"quote": "So we can just repeat to the same account for this next period of invoicing coming up 🙂", "who": "Stephski", "date": "2026-07-13"},
+        {"quote": "please let me know when you’ve received it and if you could just double check it doesn’t come through twice🙄 thank you! Xx", "who": "Callie (Mila)", "date": "2026-08-08"}
+      ]
+    },
+    "ownership_escalation": {
+      "severity": 2,
+      "internal_failure": "'Alex Camus' (listed client-side in config) answers billing with ALTR bank details — his role is undefined; the IG suspension had no owner and Mica deflected to scheduling; Vivek never engaged.",
+      "evidence": [
+        {"quote": "hey @calliebullough! have you had a chance to schedule our call? :)", "who": "Mica Vecco", "date": "2026-06-23"},
+        {"quote": "USD 727 / GBP 543.22 / Thank you! / Account Name: ALTR Platform Services, LLC", "who": "Alex Camus", "date": "2026-07-07"}
+      ]
+    },
+    "disengagement_detection": {
+      "severity": 2,
+      "internal_failure": "Volume fell 10 -> 6 -> 1 team message this week; she went quiet right after delivering everything asked of her and nobody followed up on the videos, the money, or her. Mayson's bare domain is the only outreach in 9 days.",
+      "evidence": [
+        {"quote": "Sent:)", "who": "Callie (Mila)", "date": "2026-08-17"},
+        {"quote": "yayyy perfect babes tyyy 🫶🏼", "who": "Michelle Queue", "date": "2026-08-17"}
+      ]
+    },
+    "security_hygiene": {
+      "severity": 1,
+      "internal_failure": "ALTR's full bank details (routing, account, SWIFT) posted in the group chat by Alex Camus; no client credentials exposed.",
+      "evidence": [
+        {"quote": "ACH Routing: 063100277 / Wire Routing: 026009593 / Account No.: 898169904709 / SWIFT Code for International Wires: BOFAUS3N", "who": "Alex Camus", "date": "2026-07-07"}
+      ]
+    }
+  },
+  "metrics": {
+    "client_questions_total": 11,
+    "unanswered_over_24h": 5,
+    "max_team_silence_days": 5,
+    "promises_made": 9,
+    "promises_kept": 4,
+    "promises_lapsed": 5,
+    "method": "Manual read of all 139 messages; Alex Camus treated as ALTR-side because he posts ALTR banking details. Client asks: IG suspension (6/23), meeting time (6/29), due date (7/5), conversion rate (7/6), GBP invoice (7/7), content check (7/6), promo plan (7/8), received? (7/12), fake page (7/13), pounds again (7/19), duplicate check (8/8) plus 8/17 'Sent' receipt. Unanswered >24h: suspension (never), received? (28h), pounds (27h), 8/11 'update shortly' (never), 8/17 receipt (never). Promises: Mica call, Mica weekly inspo, Michelle page link, Mayson start (kept); GBP on next invoice, payment update, Derrek updates, ongoing posting links, duplicate check (lapsed)."
+  },
+  "what_client_wanted": [
+    "To be in the loop on promo output: \"what’s the plan for promos for the time being :)\" (7/8); \"if you could send me links when you do just so I can be in the loop🫶🏼\" (7/8)",
+    "GBP invoices with a due date: \"Is it possible to get the invoice is GBP? So I can get it paid :)\" (7/7); \"when’s the due date unless I’m missing it\" (7/5)",
+    "An answer on her IG: \"my accounts been suspended again... so what happens now x\" (6/23)",
+    "Payment confirmation: \"please let me know when you’ve received it and if you could just double check it doesn’t come through twice\" (8/8)"
+  ],
+  "what_worked": [
+    "Mica's kickoff call and weekly reel inspo: \"Thank you🫶🏼🫶🏼\" (7/2), \"Thank you girl💘💘\" (7/14)",
+    "Alex's instant GBP conversion when she asked: \"Thanks so much!! Will do now\" (7/7)",
+    "Michelle's content requests reliably convert: \"Have uploaded 48 vids to the drive 🤍\" (8/17)",
+    "Stephski tracking down the mismatched wire: \"Oh thank god, and oh I see!\" (7/13)"
+  ],
+  "top_fix": "Close every billing loop the same day — confirm receipt of each payment in-chat (especially after changing the account number) and issue GBP invoices with a due date by default — then have Michelle tell her what happened to the 48 videos; she has done everything asked and is being met with silence and emojis."
+}

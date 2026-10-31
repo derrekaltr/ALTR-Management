@@ -1,0 +1,121 @@
+{
+  "client": "Lauren Blake",
+  "slug": "lauren-blake-x-altr",
+  "status": "at_risk",
+  "status_reason": "Day 119. Still paying (6 of 6 invoices; inv6 inferred paid ~Oct 19 from Stephski's heart, no receipt line) and she re-engaged on her own this window: 12 messages, 3 asks, two unprompted content drops (Oct 19 drive, Oct 20 Zeus shoot), 'Great work team' twice. That is better than the zero-ask week before, so this is not the exit pattern any more, but every structural driver is unchanged and none of the three open items from the 10/16 run moved. (1) Ad-spend report requested since 8/3: NOT MOVED. 88 days, 21 days since Mayson's 'Getting those!', seven billed periods of the 5% fee with no figures. Derrek broke a 61-day silence on Oct 27 and did not mention it; Melissa offered a 'check in call' on Oct 26 in its place, the same move as the Aug 3 'Derreks going to give you a ring'. Lauren did not re-ask it, which reads as having stopped expecting it. (2) Unrotated 9/11 password: NOT MOVED. 49 days in the scrollback, no rotation, vault or membership-audit message from anyone. (3) In-group password request of 10/11: NOT MOVED. Never retracted; she never complied (checked every message 551-590 by hand, no credential posted), and the IG vendor operated @itsqueenblake anyway on Oct 27, so the request is dead but was never closed out. New this window: the Friday 'weekly earnings and performance report' Mayson announced Oct 16 did not appear Oct 23 (export ends Oct 28, before the second Friday), the leak report was missed Oct 16 and Oct 23, her Dan-exclusion (Oct 19) and Sicily/no-Halloween chatter brief (Oct 26) were never confirmed, and Ollie's return was four 'check your messages' posts. The one bright spot was the Oct 27 follower removal, done with screenshot proof in 2h38m after Derrek routed it. Last client message 2026-10-27.",
+  "last_client_message": "2026-10-27",
+  "dimensions": {
+    "responsiveness": {
+      "severity": 3,
+      "internal_failure": "We answer what is routed to us and ignore the rest. This window: the follower-removal ask was done in 2h38m (only because Derrek tagged the vendor), but her Oct 19 instruction to exclude Dan from the new content got no acknowledgement in 9 days, her Oct 19 and Oct 20 content drops ('Hi team!') got no reply from anyone, and the Oct 26 request to brief chatters on Sicily was not confirmed by export end (42h). Carried: 'Did we lose some top spenders?' unanswered 32 days; the meta-ads report 25 days since the re-ask with only 'Getting those!' in reply. 15 of 53 client asks have now gone >24h with no answer.",
+      "evidence": [
+        {"quote": "I clipped the custom from Dan where I don’t say his name so make sure we exclude him from this", "who": "Lauren Blake", "date": "2026-10-19"},
+        {"quote": "Did we lose some top spenders?", "who": "Lauren Blake", "date": "2026-09-28"},
+        {"quote": "Can i please get a report on how much we’ve spent on meta ads?", "who": "Lauren Blake", "date": "2026-10-05"}
+      ]
+    },
+    "follow_through": {
+      "severity": 3,
+      "internal_failure": "We made a new public promise and broke it inside a week. Mayson announced on Oct 16 that DMCA, earnings and performance would arrive together 'every Friday'; nothing was posted Oct 23, and the standalone leak report was dropped the same week, so she went from one weekly deliverable to none. 'Getting those!' on the ad report is now 21 days old with nothing delivered. Ollie came back Oct 18-19 and did not touch the Ryan block, top spenders, CodyBeebs proof, written boundaries or the livestream (33-90 days each). Vivek has never posted (93 days). Of 40 promises, 18 have lapsed.",
+      "evidence": [
+        {"quote": "From now on, your DMCA report will be included in your weekly earnings and performance report, sent in the General chat every Friday.", "who": "Mayson Chat", "date": "2026-10-16"},
+        {"quote": "Getting those!", "who": "Mayson Chat", "date": "2026-10-09"},
+        {"quote": "Yes we will put him in check right away", "who": "Ollie Mckinlay", "date": "2026-09-27"}
+      ]
+    },
+    "proactive_communication": {
+      "severity": 3,
+      "internal_failure": "Raised from 2 to 3: the only recurring unprompted deliverable (weekly leak report) stopped after Oct 9 and its announced replacement never arrived. In 119 days no ALTR staff member has sent a revenue, whale, ad-spend or reel-performance figure; the only numbers she has ever received come from the IG farm vendor ('growing great', 'passed 25K'), never naming the page or giving a baseline. Her two content deliveries (Oct 19, Oct 20) drew zero acknowledgement and no word on what will be scheduled from them. Outbound that did happen was logistics: a DMCA process note, a test-message warning, a call offer, reel inspo. Longest our-side silence in the window was 2.64 days; full-history max is still 5.02 days (Sep 17-22).",
+      "evidence": [
+        {"quote": "hey Lauren your account has passed 25K!!!", "who": "Theta SDX (IG farm vendor)", "date": "2026-10-23"},
+        {"quote": "Hi team! I just shot with Zeus. Here’s the link to the new reels. They’re all uploading now", "who": "Lauren Blake", "date": "2026-10-20"},
+        {"quote": "Hey Lauren! Here’s your weekly update on the leak removal breakdown for the past 7 days 🫶🏼", "who": "Melissa Userfacing", "date": "2026-10-09"}
+      ]
+    },
+    "onboarding_handoff": {
+      "severity": 2,
+      "internal_failure": "At day 116 she still does not know who runs the Instagram page we created for her: 'for whoever is running the @itsqueenblake page'. A second vendor account, Theta SDX, has been posting growth screenshots since Oct 18 with no introduction. Michelle, introduced on day 1 as the promo/IG lead, has been silent 48 days and nobody told Lauren who replaced her. The day-3 content-requirements doc still never arrived. Mayson did pre-warn her about the Oct 21 test messages, which is the right pattern and the exception.",
+      "evidence": [
+        {"quote": "Also for whoever is running the @itsqueenblake page. Can you please remove [name redacted] as a follower. And confirm with me when it’s done", "who": "Lauren Blake", "date": "2026-10-27"},
+        {"quote": "hey Lauren . this account is growing great!", "who": "Theta SDX (IG farm vendor)", "date": "2026-10-18"},
+        {"quote": "Will send content requirements tomorrow to make this page pop", "who": "Ollie Mckinlay", "date": "2026-07-06"}
+      ]
+    },
+    "chatter_conduct": {
+      "severity": 3,
+      "internal_failure": "Her instructions to the chatting side are going unacknowledged. She asked that Dan be excluded from the new content distribution because his custom was clipped without his name (a privacy and fan-trust issue) and that chatters be told about Sicily and no Halloween 'so the convos align with my postings'; neither was confirmed, and Ollie's only posts in the window pushed her to DMs. Written boundaries (no face, no sound, no porn/anal, diamond-only topless) are still not confirmed 90 days on; she is self-policing. The Ryan harasser account Ollie admitted was unblocked on Sep 29 has never been confirmed blocked. History still counts: content offered that she does not make, topless underpriced, a $27k whale blocked without telling her.",
+      "evidence": [
+        {"quote": "Also team please note that I am going to Sicily Italy for a week on my friends family trip. I’m going to skip Halloween since I’ll be out there. Please let the chatters know so the convos align with my postings", "who": "Lauren Blake", "date": "2026-10-26"},
+        {"quote": "Can you guys put this Ryan guy in check? He messaged this to my mom", "who": "Lauren Blake", "date": "2026-09-27"},
+        {"quote": "Also I’d like this changed. I don’t have actual porn, sex tapes or anything anal. This message it outside of my comfort zone", "who": "Lauren Blake", "date": "2026-08-01"}
+      ]
+    },
+    "platform_health": {
+      "severity": 2,
+      "internal_failure": "IG is the one area that improved: vendor updates are now weekly (Oct 5, 12, 18, 23) and the follower removal was done with screenshot proof in 2h38m. Ownership and transparency are still poor: the page is never named in any update, Theta SDX is unintroduced, repost-reel results (live Oct 12 on 23 accounts) were never reported, nobody followed up on whether she re-added laurenblake.vip after the unexplained outage, and the Meta support rep introduced on Jul 29 has never posted. Everything she hears about her platforms comes from a vendor, not from the account team.",
+      "evidence": [
+        {"quote": "Its done @ofwizz Lauren", "who": "Stardust Nexus (IG farm vendor)", "date": "2026-10-27"},
+        {"quote": "Put it back in your bio whenever you get a minute and you’re all set.", "who": "Mayson Chat", "date": "2026-10-11"},
+        {"quote": "Hey Ive added Vivek in here ( @fonta ). He is our Meta Support Rep that will help keep your IG accounts up and safe.", "who": "Derrek", "date": "2026-07-29"}
+      ]
+    },
+    "billing_ops": {
+      "severity": 3,
+      "internal_failure": "Mechanics were fine this window (inv6 chased once at ~50h, she acknowledged in 3h, paid within ~4 days) and billing was only 2 of 14 staff messages. It stays at 3 because of what we keep not doing: inv6 is the second invoice in a row with no written receipt (inv5's Oct 7 wire was never confirmed either), the Aug 31 Chase fraud/name-mismatch flag has never been addressed in writing (60 days), and we are about to issue invoice 7 (~Nov 1, while she is in Sicily) as the seventh period billed for the 5% ad fee with zero figures ever shown. The earlier 18-day inv2 failure was ALTR-caused (account change plus the Chase flag).",
+      "evidence": [
+        {"quote": "hi hun! just making sure you saw this ❤️", "who": "Stephski", "date": "2026-10-17"},
+        {"quote": "Received thank you", "who": "Lauren Blake", "date": "2026-10-17"},
+        {"quote": "And your account was flagged by Chase for fraud/scam transactions so they won’t send it through so they won’t send it even if I say so", "who": "Lauren Blake", "date": "2026-08-31"}
+      ]
+    },
+    "ownership_escalation": {
+      "severity": 3,
+      "internal_failure": "Nobody owns the account. Ollie returned after 19 days for four messages that all redirected her to DMs, then went silent again (11 days); Dan, Sicily, top spenders, Ryan and boundaries all sit with him and none moved. Her money question is still parked at Melissa -> Mayson -> nothing, and Melissa's answer to it was to offer a call. The one fast resolution happened because the owner tagged a vendor; without that tag the ask would have had no home. OWNER-LEVEL (surface privately, not in the Team tab): Derrek's 61-day silence ended Oct 27 with three routing messages; the Aug 3 ad-stats call he was to make is now an 88-day open item and he did not reference it.",
+      "evidence": [
+        {"quote": "Hey Lauren please check your messages", "who": "Ollie Mckinlay", "date": "2026-10-19"},
+        {"quote": "@StardustNexus", "who": "Derrek", "date": "2026-10-27"},
+        {"quote": "You're welcome! Derreks going to give you a ring and walk you through your current ad stats 🙂", "who": "Stephski", "date": "2026-08-03"}
+      ]
+    },
+    "disengagement_detection": {
+      "severity": 2,
+      "internal_failure": "Lowered from 3 to 2. Someone finally reached out: Melissa's Oct 26 check-in call offer is the first non-billing, non-templated check-in in the history. But her re-engagement was her own doing (content drops, asks, 'Great work team'), not a response to anything we did; nobody acknowledged the content she delivered; and the check-in was offered as a call while the written answers she asked for (ad spend, top spenders) are 88 and 32 days overdue. She has not re-asked either money question since Oct 5, which should itself be treated as a signal. The call had no reply by export end.",
+      "evidence": [
+        {"quote": "Hey Lauren  let me know when you’re available this week for a check in call! 🤍", "who": "Melissa Userfacing", "date": "2026-10-26"},
+        {"quote": "Great work team", "who": "Lauren Blake", "date": "2026-10-26"},
+        {"quote": "Hey Lauren I have messaged you about a custom that is urgent", "who": "Ollie Mckinlay", "date": "2026-10-18"}
+      ]
+    },
+    "security_hygiene": {
+      "severity": 3,
+      "internal_failure": "Nothing moved. Her backup-IG and Snapchat logins (one shared password) and 2FA codes, posted Sep 11-13 at our request, are still in the scrollback at day 49 with no rotation, vault or chat-membership audit message from anyone. Mayson's Oct 11 in-group request for the @itsqueenblake password was never retracted; she did not comply (every message 551-590 checked by hand, no credential posted), so there is no new exposure, and the vendor operated the account on Oct 27 regardless, meaning access was arranged somewhere invisible to this chat. Chat membership keeps changing without announcement: Oct 13 17:13 (still unidentified, probably Theta SDX) and Oct 21 (Antonio Veritrade, at least pre-warned). Mica's own Sep 17 guidance told clients never to share codes with anyone, including our team.",
+      "evidence": [
+        {"quote": "Can you please provide us the password for that account", "who": "Mayson Chat", "date": "2026-10-11"},
+        {"quote": "[password redacted] - backup-IG username/password, then the Snapchat login with the same password, posted in plain text in the group at our request; never rotated", "who": "Lauren Blake", "date": "2026-09-11"},
+        {"quote": "Please do not send your backup codes to anyone, including our team. Keep the screenshot somewhere secure that only you can access.", "who": "Mica Vecco", "date": "2026-09-17"}
+      ]
+    }
+  },
+  "metrics": {
+    "client_questions_total": 53,
+    "unanswered_over_24h": 15,
+    "max_team_silence_days": 5.02,
+    "promises_made": 40,
+    "promises_kept": 22,
+    "promises_lapsed": 18,
+    "promises_in_flight": 0,
+    "method": "Full history 2026-07-03 to 2026-10-28 (580 jsonl lines: 255 Lauren Blake per config/clients.yaml, 304 our-side incl. 8 from the IG farm vendor accounts Stardust Nexus/Theta SDX, 6 Antonio Veritrade test messages excluded, 15 service events; ids 574/580/584 absent from the export). Carried the verified 10-16 counts and hand-read msgs 549-590. Questions = client '?' messages plus clear imperative asks: +3 this window (exclude Dan, brief chatters on Sicily, remove follower) = 53. Unanswered >24h: +2 (Dan exclusion never acknowledged; Sicily brief not confirmed by export end, 42h) = 15; the follower removal was answered in 2h38m. Team silence = longest gap between consecutive our-side non-service messages recomputed from the jsonl: 5.02d (Sep 17 11:05 to Sep 22 11:40); longest in this window 2.64d (Oct 23 to Oct 26). Promises: +1 (Friday earnings/performance/DMCA report, Oct 16) = 40; it lapsed Oct 23, so lapsed = 18; kept unchanged at 22 (the Oct 27 follower removal was a fulfilled ask, not a promise)."
+  },
+  "what_client_wanted": [
+    "Written money transparency for the 5% ad fee: 'I’d like to see the ad reports of the 5% being spent on meta' (Aug 3), re-asked 'Can i please get a report on how much we’ve spent on meta ads?' (Oct 5). Still undelivered at 88 days.",
+    "Proof of results on her own pages and spenders: 'Did we lose some top spenders?' (Sep 28), 'How are the insights for the page @itsqueenblake' (Oct 5); her day-3 goal was 'My ultimate goal is to get traffic picked up.'",
+    "Confirmation that instructions were acted on: 'make sure we exclude him from this' (Oct 19), 'Please let the chatters know so the convos align with my postings' (Oct 26), 'And confirm with me when it’s done' (Oct 27). The one ask with that last line was the only one confirmed.",
+    "Her content to be used and to hear what happens next: 'Hi team! I just shot with Zeus. Here’s the link to the new reels.' (Oct 20), earlier 'Let me know the next steps I’d love to start cranking them out' (Aug 15)."
+  ],
+  "what_worked": [
+    "Fast, proven resolution when the owner routes it: the Oct 27 follower removal went Derrek tag at 1h41m -> vendor screenshot 'Its done' at 2h38m -> her 'Thank you' at 2h51m. Routing plus visible proof is the whole formula.",
+    "Concrete growth numbers earn instant goodwill every time: 'growing great' got 'Well done! Great numbers' (Oct 19); 'passed 25K' got 'Fantastic!! Great work team' (Oct 26). Her only praise since Aug 18 has followed a number. They need to come from ALTR and name the page.",
+    "Tailored, on-cadence creative support: Mica's Oct 28 reel inspo built around her Italy trip ('you could do these in the streets of italy too'), and earlier the weekly leak report she never had to chase ('Hi team! I’m super happy with how my page is being ran so far', Jul 17)."
+  ],
+  "top_fix": "Give the account one named owner who answers money and results questions in writing within 24h, and gate every invoice on the open money question being closed. For Lauren before invoice 7 (~Nov 1, she is in Sicily): one written message with Meta ad spend for all seven billed periods, a top-spender table, @itsqueenblake growth tied to the named page, written receipt confirmation for inv5 and inv6, the Ryan block status, and confirmation that Dan was excluded and the chatters were briefed on Sicily/no Halloween. In the same message introduce Theta SDX, retract the Oct 11 in-group password request, and ask her to rotate the IG/Snapchat password exposed since Sep 11. Do not let Melissa's call replace the document, and post the promised Friday report this Friday or withdraw the promise."
+}

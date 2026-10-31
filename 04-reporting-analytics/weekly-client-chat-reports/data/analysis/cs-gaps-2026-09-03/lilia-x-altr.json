@@ -1,0 +1,118 @@
+{
+  "client": "Lilia",
+  "slug": "lilia-x-altr",
+  "status": "at_risk",
+  "status_reason": "Highly engaged and pays flawlessly, but on 2026-08-29 she explicitly said 'I've lost my high spender because of communication and this' after an unbriefed chargeback cost ~$300; the whale-mishandling complaint is now ~9 occurrences over 83 days and she is still doing ALTR's QA herself (Sep 3 chase unanswered at export end). Teddi's return and Fred's Sep 2 pause-and-verify are the counterweight.",
+  "last_client_message": "2026-09-03",
+  "dimensions": {
+    "responsiveness": {
+      "severity": 2,
+      "internal_failure": "Fred is near-instant on apologies but 12-40h+ (or silent) on money-critical instructions; Vivek and the Aug 24 Facebook screenshots got no response at all; Mayson's queue escalations are what actually route messages.",
+      "evidence": [
+        {"quote": "They keep sending 4 min videos for 20 dollars please tell them to stop", "who": "Lilia (Fred replied ~35h later, Aug 30 11:26)", "date": "2026-08-28"},
+        {"quote": "Facebook", "who": "Lilia (3 screenshots + this word, never acknowledged by anyone, 10 days at window close)", "date": "2026-08-24"},
+        {"quote": "Hey just so u know I’m doing two share for shares with my friends who have big accounts!", "who": "Lilia (Mayson escalated same day; Fred never replied to it)", "date": "2026-08-26"}
+      ]
+    },
+    "follow_through": {
+      "severity": 3,
+      "internal_failure": "Promises are made in minutes and never closed: the Jul 24 promise to remove/name the offending chatter is 41 days old and the failure recurred Aug 23 and again Sep 3; the Aug 23 and Aug 29-30 'I'll look into it' incidents got zero report-backs; the Aug 11 $100/min shower custom and the Jun 9 VIP push have never been mentioned again by anyone.",
+      "evidence": [
+        {"quote": "it's the same chatter who's letting the side down so I will take them off your account!", "who": "fred SPITFIRE (chatter never named, resell recurred Aug 14, Aug 23, and chased again Sep 3)", "date": "2026-07-24"},
+        {"quote": "I will look into this chargeback and I'll speak with the team.", "who": "fred SPITFIRE (no report-back on the ~$300 loss by Sep 3)", "date": "2026-08-30"},
+        {"quote": "100 per min and yes I will jahahaha! So detailed 😂", "who": "Lilia (accepted Aug 11 custom; zero mentions by anyone since)", "date": "2026-08-11"}
+      ]
+    },
+    "proactive_communication": {
+      "severity": 2,
+      "internal_failure": "Michelle's weekly DMCA breakdown is the only unprompted recurring report; ALTR sends no revenue/stats updates, every incident is detected by the client, and the longest stretch with zero team outbound was 4.4 days (Aug 4-9); the Sep 3 invoice even re-introduces Stephski by name to a 3-month client.",
+      "evidence": [
+        {"quote": "What is this I was never informed about anything", "who": "Lilia (found the chargeback herself)", "date": "2026-08-29"},
+        {"quote": "Please make sure ur chatters are communicating everything…. I want to make money", "who": "Lilia", "date": "2026-08-29"},
+        {"quote": "Hi love happy September! My names Stephanie and I handle all things invoicing related.", "who": "Stephski (templated re-intro after 3 months of working together)", "date": "2026-09-03"}
+      ]
+    },
+    "onboarding_handoff": {
+      "severity": 1,
+      "internal_failure": "Intros, chatter form and calls happened, but Google Drive uploads never worked for her first two weeks (Fred fell back to a personal iCloud shared album and gmail) and Stephski sent a premature invoice on day 5 that Derrek had to retract.",
+      "evidence": [
+        {"quote": "So invoicing already?", "who": "Lilia (Derrek: 'no ... disregard')", "date": "2026-06-01"},
+        {"quote": "Didn’t get it unfortunately do you mind sending again but to. Bigheadfred4545@gmail.com 🙌", "who": "fred SPITFIRE (content pipeline routed through personal gmail)", "date": "2026-05-31"}
+      ]
+    },
+    "chatter_conduct": {
+      "severity": 3,
+      "internal_failure": "The defining failure of this account: chatters resold owned content to named whales ~9 times (latest chase Sep 3), fire-sold full-explicit videos at $12-20 against her $200 floor within hours of Fred's 'content value high' assurance, pushed a $750 custom to a fan without her acceptance (Aug 31), were rude to Teddi, and once invented a husband to a fan.",
+      "evidence": [
+        {"quote": "Hey let the chatter know not to sell a 2 min video that shows everything and pictures for 12 dollars", "who": "Lilia (same day, 23:54: 'They keep sending 4 min videos for 20 dollars')", "date": "2026-08-28"},
+        {"quote": "Well yes I need to accept the custom first! ... ur chatters already sent him stuff to pay for it without even asking me first!", "who": "Lilia (on the $750 whipped-cream custom)", "date": "2026-08-31"},
+        {"quote": "Can u please remind chatters no old content for teddi", "who": "Lilia (chase unanswered at export end; Mayson escalated 05:59)", "date": "2026-09-03"}
+      ]
+    },
+    "platform_health": {
+      "severity": 3,
+      "internal_failure": "TikTok shadowban raised Aug 18, confirmed by the client herself Aug 22, Vivek asked for a login code Aug 24 and has not posted since - 16 days, channel dead, zero updates in the Aug 26-Sep 3 window; her Aug 24 Facebook screenshots are still unread; Derrek's Aug 1 promise of weekly phone-farm updates has produced nothing in 33 days.",
+      "evidence": [
+        {"quote": "I’m definitely shadowbanned on TikTok so I can’t really post anything", "who": "Lilia (client did ALTR's diagnosis)", "date": "2026-08-22"},
+        {"quote": "Yes need a login code", "who": "Vivek (his last message ever in this chat; she offered the code within a minute and again at 16:31)", "date": "2026-08-24"},
+        {"quote": "we will have plenty of updates starting next week", "who": "Derrek (no update posted since)", "date": "2026-08-01"}
+      ]
+    },
+    "billing_ops": {
+      "severity": 2,
+      "internal_failure": "Five receiving-detail changes since Jun 15, a $500/day throttle ALTR never solved despite four effective requests for a wire/ACH rail, an Aug 15 ask for the client to screenshot her own earnings, and the $192-vs-$0 gap closed by assertion, not reconciliation - Stephski just declared $0 and nobody explained where her tracked $192 went.",
+      "evidence": [
+        {"quote": "192 (keeping track) it’s still giving me that limit…", "who": "Lilia", "date": "2026-08-25"},
+        {"quote": "It does?", "who": "Lilia (to Stephski's 'On our sheet it says you're paid up!' - discrepancy never explained)", "date": "2026-08-26"},
+        {"quote": "Are you able to send us your earning statement from Aug 1-14? having trouble acessing on my side", "who": "Stephski (client doing ALTR's bookkeeping)", "date": "2026-08-15"}
+      ]
+    },
+    "ownership_escalation": {
+      "severity": 2,
+      "internal_failure": "Mayson's queue account is the de-facto router (6+ @-escalations to Fred/Vivek in this window alone, ~15 lifetime); Fred is a single point of failure for all OF issues, Vivek's items simply die, and no one owns the chargeback/lost-revenue follow-up.",
+      "evidence": [
+        {"quote": "@fspitfire ^^", "who": "Mayson Chat (escalating her unanswered pricing complaint at 00:52)", "date": "2026-08-29"},
+        {"quote": "@fonta ^", "who": "Mayson Chat (one of four pings to Vivek on Aug 24 alone; Vivek never returned)", "date": "2026-08-24"},
+        {"quote": "@fspitfire ^", "who": "Mayson Chat (Sep 3 Teddi chase, still unanswered at export end)", "date": "2026-09-03"}
+      ]
+    },
+    "disengagement_detection": {
+      "severity": 2,
+      "internal_failure": "Her sharpest frustration signals get slow or no reaction: 'I've lost my high spender because of communication' waited ~16h for a reply and got no follow-up on the lost revenue; the Aug 20-22 client silence and the Jul 29 'Not cool' episode were only surfaced by her or by Mayson pings, never by anyone monitoring sentiment.",
+      "evidence": [
+        {"quote": "I’ve lost my high spender because of communication and this", "who": "Lilia (Fred's first reply came Aug 30 11:26)", "date": "2026-08-29"},
+        {"quote": "Missed out on my highest spender kind of pissed about it when it took me ages to get him back", "who": "Lilia (reply came next day, only after a Mayson escalation)", "date": "2026-07-29"}
+      ]
+    },
+    "security_hygiene": {
+      "severity": 2,
+      "internal_failure": "OF password posted in plain text in the group (and quoted back by Fred), TikTok login plus personal phone number in-chat, content routed through a personal gmail/iCloud album - none of it ever rotated or moved to a secure channel; the Jul 23 hack scare was at least handled via session logs.",
+      "evidence": [
+        {"quote": "2027GetOfMyOF!? That’s the new password for my first account", "who": "Lilia (never rotated; Fred: 'Thanksssss - pw being 2027GetOfMyOF!?')", "date": "2026-05-26"},
+        {"quote": "It’s my phone number 15303182647", "who": "Lilia (TikTok login posted in group for Vivek)", "date": "2026-08-18"}
+      ]
+    }
+  },
+  "metrics": {
+    "client_questions_total": 57,
+    "unanswered_over_24h": 8,
+    "max_team_silence_days": 4.4,
+    "promises_made": 24,
+    "promises_kept": 9,
+    "promises_lapsed": 11,
+    "method": "Full-history pass of all 995 messages. Questions = Lilia messages containing '?' (57 of her 653 messages); unanswered>24h counted by matching each client question/instruction to the next on-topic team reply (Jun 21 custom q, Jul 8 script q, Jul 11 husband report ~31h, TikTok thread, Aug 24 Facebook screenshots, Aug 26 share-for-share, Aug 26 repricing, Aug 28 pricing chase ~35h); team silence = max gap between consecutive non-service team/vendor messages (Aug 4 15:42 - Aug 9 00:23); promises tallied from explicit 'will/I'll' commitments by our side, 4 still pending (custom-approval flow, Teddi collection, chargeback look-into, Zelle stability)."
+  },
+  "what_client_wanted": [
+    "Whale protection above all - new content only, from the high-spender folder she files herself: 'Please sell the new red set idk why they are selling him old content' (Aug 23); 'Can u please remind chatters no old content for teddi' (Sep 3)",
+    "Price discipline - $200 floor, no firesales: 'please don't have the chatters sell that for 10 dollars or we will be missing out on money' (Aug 28); 'No negotiationing prives' (Aug 28)",
+    "To be consulted before anything is sold in her name: 'Every custom needs to go through me first if I will do it or not' (Aug 31); 'communicate with me if he asks anything or proof' (Aug 30)",
+    "Her acquisition channels working again: 'I'm definitely shadowbanned on TikTok so I can't really post anything' (Aug 22)"
+  ],
+  "what_worked": [
+    "Michelle's weekly DMCA leak-removal breakdown, unbroken since Jun 25 - 'U guys are seriously the best!' (Jul 1), 'Thank u!!!' (Sep 1)",
+    "Fred's Sep 2 Teddi handling - pausing the team, verifying the tattoo message and the call request before acting - earned an explicit 'Thanks for communicating' (Sep 2); this is the exact behaviour that fixes the account",
+    "Revenue discovery she credits us for: 'My other agency never told me about this custom!' (Jun 10) and the custom .vip link - 'U guys are the best!' (Jun 10); 'We made good money in the last two days! Yayyy!' (Sep 2)"
+  ],
+  "top_fix": "Make whale-handling mechanical instead of promised: a CRM-enforced purchase-history check plus her $200 price floor before any PPV/custom to a named high spender (Teddi, frumby, Adam West), owned by a named person with a written report-back for every incident - and take the TikTok job off Vivek today. She is currently ALTR's QA layer, and Aug 29 shows what one missed check costs.",
+  "changed_since_2026-08-26": "New in the Aug 26-Sep 3 window: the $192-vs-$0 gap was waved away ('It does?' - never reconciled) and a fresh Aug 15-31 invoice landed Sep 3; chatters fire-sold explicit videos at $12-20 twice within hours of Fred's assurance (Aug 28); an unbriefed chargeback cost ~$300 and she said 'I've lost my high spender because of communication' (Aug 29); a $750 custom was pushed without her acceptance (Aug 31); Teddi returned Aug 30 and Fred's Sep 2 pause-and-verify won rare praise, but her Sep 3 'no old content for teddi' chase was unanswered at export end; Vivek/TikTok dead for the entire window."
+}

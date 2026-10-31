@@ -1,0 +1,31 @@
+{
+ "cycles": [
+  {
+   "chat": "Barbara x ALTR",
+   "period_key": "2026-07-09",
+   "period": "2026-07-09..07-31",
+   "period_start": "2026-07-09T00:00:00-05:00",
+   "issued_ts": "2026-08-03T15:17:10-05:00",
+   "issued_by": "Stephski",
+   "issue_msg_ids": [
+    155
+   ],
+   "followups": [],
+   "escalations": [],
+   "payment_links": [],
+   "payment_claimed_ts": null,
+   "payment_claim_msg": null,
+   "payment_confirmed": false,
+   "evidence": "none",
+   "lag_days": null
+  }
+ ],
+ "events": [
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 155,
+   "ts": "2026-08-03T15:17:10-05:00",
+   "sender": "Stephski"
+  }
+ ]
+}

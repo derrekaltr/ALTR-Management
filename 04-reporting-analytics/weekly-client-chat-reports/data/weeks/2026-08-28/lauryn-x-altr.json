@@ -1,0 +1,303 @@
+{
+  "client": "Lauryn",
+  "slug": "lauryn-x-altr",
+  "week_ending": "2026-08-28",
+  "summary": "This is the week the account went quiet and the money stopped. Twelve messages in seven days - down from 163 - and five of them were ours. Vivek, who sent 60 messages last week, sent two: 'Just tested something' (Aug 25, 23:50) and 'Still in review' (Aug 26). He did not answer her direct question 'Did it work!????'. The Facebook 'not recommended' flag is now 335 days old and 21 days into his escalation, and she had to open the week by chasing him again after four days of silence - 'Hey, @fonta' / 'How we looking???' / '👀'. Derrek has now not posted on this account since Aug 13; his own instruction to report back and retry the login is 15 days unanswered and she has stopped asking. The 'Lauryn chat team' vendor group has not posted in 79 days - there was again not one word about chatting, revenue or content. Meanwhile the Aug 15 invoice went late. Stephski sent nothing for eleven days after issuing it, then escalated twice on Aug 26: 'We need to hear back from you as we are multiple invoices unpaid, we know you got us just need verbal confirmation please'. Lauryn replied inside 13 hours, warm as always ('Great morning Stephanie'), and gave the single most important sentence of the week: 'Being that account is basically at a stand still when everything drops I’ll make those invoices expeditiously'. That is the client, for the first time in twelve months of payment history, explicitly linking her payment to our non-performance. She followed it with 'only moving off what’s being funneled'. Nothing is being funneled - nobody has chatted her page in 79 days. The bill and the service failure are now the same problem.",
+  "health": {
+    "score": 40,
+    "trend": "down",
+    "rationale": "Down 15 from 55, the sharpest single-week drop on this account, and the drop is not about tone - she remains warm and cooperative throughout. Three things happened at once. (1) Delivery stopped: 12 messages in the window against 163 last week, with Vivek down from 60 messages to 2 and no answer to her direct 'Did it work!????'; the 335-day 'not recommended' complaint is unchanged and the only status she got in seven days was 'Still in review'. (2) Last week's predicted financial risk materialised: the Aug 15 invoice passed the 7-day terms on Aug 22 and is now 13 days out and unpaid, after Stephski went 11 days without a single follow-up and then had to write 'we are multiple invoices unpaid'. (3) The client connected the two herself. 'Being that account is basically at a stand still when everything drops I’ll make those invoices expeditiously' (Aug 27) is a soft, polite, dateless payment refusal justified by our own service gap - and it is defensible, because the vendor chat team has been silent 79 days and Derrek 15. The only things holding the score off the 30s are that she has not disputed the amount, she answered the escalation within 13 hours, Michelle's DMCA update landed on schedule for the fifth straight week, and there was no fourth credential ask."
+  },
+  "reminders": [
+    {
+      "employee": "Vivek",
+      "topic": "Chasing a status update on the Facebook 'not recommended' flag - she waited four days after his last message, then tagged him four times across two days, and still did not get a straight answer to whether the fix worked",
+      "count": 4,
+      "first_date": "2026-08-25",
+      "last_date": "2026-08-26",
+      "days_outstanding": 19,
+      "chases_this_week": 4,
+      "note": "Roughly the twelfth chase since the escalation opened 2026-08-09 (19 days). She asked 'Did it work!????' at 08:23 on Aug 26; the reply at 10:15 was 'Still in review' and nothing further for the remaining two days of the window.",
+      "quotes": [
+        {"quote": "Hey, @fonta", "who": "LA Client", "date": "2026-08-25"},
+        {"quote": "How we looking???", "who": "LA Client", "date": "2026-08-25"},
+        {"quote": "👀", "who": "LA Client", "date": "2026-08-25"},
+        {"quote": "Just tested something", "who": "Vivek", "date": "2026-08-25"},
+        {"quote": "Did it work!????", "who": "LA Client", "date": "2026-08-26"},
+        {"quote": "Still in review", "who": "Vivek", "date": "2026-08-26"}
+      ]
+    },
+    {
+      "employee": "Derrek",
+      "topic": "Reporting back that she had completed his Aug 13 two-factor steps and asking him to retry the login, as he instructed - she tagged him twice on Aug 15 and has now given up asking entirely",
+      "count": 2,
+      "first_date": "2026-08-15",
+      "last_date": "2026-08-15",
+      "days_outstanding": 13,
+      "chases_this_week": 0,
+      "note": "ZERO chases this week is the finding, not a reprieve. She chased twice on Aug 15, got nothing for 13 days, and has stopped. Derrek's last message on this account is 2026-08-13 - 15 days of owner silence. A client who stops asking has stopped expecting.",
+      "quotes": [
+        {"quote": "All the steps are completed", "who": "LA Client", "date": "2026-08-15"},
+        {"quote": "Let me know about login", "who": "LA Client", "date": "2026-08-15"},
+        {"quote": "Kk @ofwizz chime in", "who": "LA Client", "date": "2026-08-15"}
+      ]
+    }
+  ],
+  "complaints": [
+    {
+      "issue": "Facebook page is STILL flagged 'not recommended' - 335 days after she first raised it (2025-09-27) and 21 days into the Vivek escalation. We have had full account access since Aug 16 and the entire output in the following twelve days is 'Going through ads account' (Aug 21), 'Just tested something' (Aug 25) and 'Still in review' (Aug 26). No dated plan has ever been given. She has held off posting on the page because of this and framed it on Aug 18 as a business necessity; by Aug 27 she was describing the whole account as being 'basically at a stand still'.",
+      "status": "recurring",
+      "first_raised": "2025-09-27",
+      "days_open": 335,
+      "owner": "Vivek",
+      "severity": "critical",
+      "quotes": [
+        {"quote": "Can we see what’s going on with this ?", "who": "LA Client", "date": "2025-09-27"},
+        {"quote": "It’s very important for my page to be back up and functioning due to Business reasons 🙏🏽", "who": "LA Client", "date": "2026-08-18"},
+        {"quote": "PAGE NOT RECOMMENDED", "who": "LA Client", "date": "2026-08-20"},
+        {"quote": "How we looking???", "who": "LA Client", "date": "2026-08-25"},
+        {"quote": "Just tested something", "who": "Vivek", "date": "2026-08-25"},
+        {"quote": "Did it work!????", "who": "LA Client", "date": "2026-08-26"},
+        {"quote": "Still in review", "who": "Vivek", "date": "2026-08-26"}
+      ]
+    },
+    {
+      "issue": "NEW AND THE MOST SERIOUS ITEM IN THE FILE: the client has now tied payment to our non-delivery. Answering Stephski's Aug 26 escalation she wrote 'Being that account is basically at a stand still when everything drops I’ll make those invoices expeditiously' and 'only moving off what’s being funneled'. In twelve months of payment history she has never once justified a delay by pointing at ALTR's performance - every previous delay was framed as her own cash flow or OnlyFans payout timing. She is not wrong: the vendor chat team has posted nothing in 79 days, Derrek nothing in 15, and Vivek two lines in seven. The revenue we are invoicing against is not being generated, and she has now said so out loud, politely, with no payment date attached.",
+      "status": "new",
+      "first_raised": "2026-08-27",
+      "days_open": 1,
+      "owner": "Derrek",
+      "severity": "critical",
+      "quotes": [
+        {"quote": "We need to hear back from you as we are multiple invoices unpaid, we know you got us just need verbal confirmation please", "who": "Stephski", "date": "2026-08-26"},
+        {"quote": "Being that account is basically at a stand still when everything drops I’ll make those invoices expeditiously", "who": "LA Client", "date": "2026-08-27"},
+        {"quote": "I’m aware already got my side reviewing my Books but only moving off what’s being funneled", "who": "LA Client", "date": "2026-08-27"}
+      ]
+    },
+    {
+      "issue": "Service delivery has effectively stopped. Twelve messages in the entire seven-day window (7 client, 5 ALTR), against 163 last week. Two of our five messages were payment chases and one was an automated-cadence DMCA screenshot, so the account received exactly two substantive service messages in a week - both from Vivek, both under four words of content. The 'Lauryn chat team' vendor group has not posted in this chat since 2026-06-10, now 79 days; there has again been no mention of chatting, revenue, content requests or customs in the entire window. Her only remaining ALTR touchpoints are a Meta rep, a fortnightly invoice and a weekly leak-removal screenshot.",
+      "status": "new",
+      "first_raised": "2026-08-28",
+      "days_open": 79,
+      "owner": "Derrek",
+      "severity": "critical",
+      "quotes": [
+        {"quote": "Heyy LA ! Noticed your page got unlinked, please let us know what happened. Thank you!", "who": "Lauryn chat team", "date": "2026-06-10"},
+        {"quote": "Being that account is basically at a stand still when everything drops I’ll make those invoices expeditiously", "who": "LA Client", "date": "2026-08-27"}
+      ]
+    },
+    {
+      "issue": "Owner gone dark - escalated from 'new' to recurring, second consecutive week. Derrek's Aug 13 guide ended with a specific instruction; she completed the steps, reported back at 11:25 on Aug 15 and tagged him twice. He has posted nothing on this account since 2026-08-13 - 15 days. The visual/annotated version of the steps she asked for on Aug 13 was never sent. This week she stopped chasing him. Owner-level - surface privately, not in the Team tab.",
+      "status": "recurring",
+      "first_raised": "2026-08-15",
+      "days_open": 13,
+      "owner": "Derrek",
+      "severity": "high",
+      "quotes": [
+        {"quote": "Once you've done that, just let me know and we'll try logging in again.", "who": "Derrek", "date": "2026-08-13"},
+        {"quote": "Visually that’s better", "who": "LA Client", "date": "2026-08-13"},
+        {"quote": "All the steps are completed", "who": "LA Client", "date": "2026-08-15"},
+        {"quote": "Kk @ofwizz chime in", "who": "LA Client", "date": "2026-08-15"}
+      ]
+    },
+    {
+      "issue": "Meta-rep communication quality - third consecutive week. This week the failure mode inverted: instead of wrong-platform updates and client-blaming, it was near-total absence. Four days of silence after 'Let's see' (Aug 21), then a 23:50 one-liner with no subject ('Just tested something'), then a two-word non-answer to a direct yes/no question. On Aug 18 she asked for proactive updates; ten days later she is still the one initiating every single check-in. Fair to him: he did reply within 12 hours of her chase and is evidently still working the appeal.",
+      "status": "recurring",
+      "first_raised": "2026-08-12",
+      "days_open": 16,
+      "owner": "Vivek",
+      "severity": "high",
+      "quotes": [
+        {"quote": "Keep me updated pls", "who": "LA Client", "date": "2026-08-18"},
+        {"quote": "Going through ads account", "who": "Vivek", "date": "2026-08-21"},
+        {"quote": "Just tested something", "who": "Vivek", "date": "2026-08-25"},
+        {"quote": "Still in review", "who": "Vivek", "date": "2026-08-26"}
+      ]
+    },
+    {
+      "issue": "Live credential exposure in the group chat, still unremediated after 21 days. The two Facebook passwords pasted in plaintext on 2026-08-07 and 2026-08-09, plus her Facebook-linked phone number (Aug 15) and a live SMS 2FA code (Aug 16), remain in the thread with no evidence of rotation and no policy change. Nothing was done about this in the window. This is not a client complaint - it is an ALTR hygiene failure on the account of a client whose single stated top priority is confidentiality, and whose management has formally ruled out sharing passwords.",
+      "status": "recurring",
+      "first_raised": "2026-08-07",
+      "days_open": 21,
+      "owner": "Derrek",
+      "severity": "high",
+      "quotes": [
+        {"quote": "Talked to my Management we can’t give out certain passwords just for confidential purposes", "who": "LA Client", "date": "2026-08-15"},
+        {"quote": "470 226 9179", "who": "LA Client", "date": "2026-08-15"},
+        {"quote": "[REDACTED-2FA-CODE]", "who": "LA Client", "date": "2026-08-16"}
+      ]
+    },
+    {
+      "issue": "Credential asks - dormant, not resolved. There was no fourth request for her logins this week, which is the one boundary that held. But it held because Vivek sent two messages, not because anything changed: no written policy has been issued, and the Aug 16 passkey method that proved credentials are unnecessary has not been made standing practice. Treat this as unmanaged risk that will resurface the moment activity resumes.",
+      "status": "recurring",
+      "first_raised": "2026-08-08",
+      "days_open": 20,
+      "owner": "Vivek",
+      "severity": "medium",
+      "quotes": [
+        {"quote": "We’re not comfortable with that", "who": "LA Client", "date": "2026-08-15"},
+        {"quote": "For your security purposes, I can log in to Gmail while sharing my screen with you, because it only requires a one-time verification. As soon as Facebook verifies it, I’ll be able to log into the Facebook account. Then, while I’m still sharing my screen on Gmail, you can change the password", "who": "Vivek", "date": "2026-08-16"}
+      ]
+    },
+    {
+      "issue": "ALTR payment-rail churn - recurring, and now materially implicated in a late invoice. No new rail change this week, but the account number and Zelle details announced on the Aug 15 invoice have never been exercised: not one dollar has moved on them in 13 days, so we still do not know whether they work. Given that the last two cycles were both delayed by ALTR-side rail failures, 'the new details work' is an untested assumption sitting underneath an overdue bill. Seventh disruption in twelve months, six weeks after 'last change I promise!'.",
+      "status": "recurring",
+      "first_raised": "2026-06-17",
+      "days_open": 72,
+      "owner": "Stephski",
+      "severity": "medium",
+      "quotes": [
+        {"quote": "Want to let you know we have a new bank for you to send to (last change I promise!).", "who": "Stephski", "date": "2026-07-01"},
+        {"quote": "LA can you please try and zelle derrek? our zelle is having issues again im so sorry", "who": "Stephski", "date": "2026-08-09"},
+        {"quote": "Please note an update to the account number, please try and send using the information on the invoice. Have also attached updated Zelle info that should be easy to use now.", "who": "Stephski", "date": "2026-08-15"}
+      ]
+    }
+  ],
+  "commitments": [
+    {
+      "what": "Vivek to get the Facebook page out of 'not recommended' status. Promised 2026-08-07 conditional on having her logins; he has had full account access since 2026-08-16 and re-committed on 2026-08-18 ('Will do my part'). 21 DAYS OUTSTANDING, twelve of them with unrestricted account access. Total reported progress in the window: 'Just tested something' and 'Still in review'.",
+      "who": "Vivek",
+      "date": "2026-08-07",
+      "days_outstanding": 21,
+      "status": "overdue",
+      "quotes": [
+        {"quote": "can you shoot him your logins again and he will handle", "who": "Derrek", "date": "2026-08-07"},
+        {"quote": "Will do my part", "who": "Vivek", "date": "2026-08-18"},
+        {"quote": "Still in review", "who": "Vivek", "date": "2026-08-26"}
+      ]
+    },
+    {
+      "what": "Derrek to retry the Facebook login with her after she completed his Aug 13 two-factor steps, and to send the visual/annotated version of those steps she asked for. She confirmed completion on Aug 15 and tagged him twice. 15 DAYS OUTSTANDING with zero owner messages on the account since 2026-08-13. This is the top overdue promise on the file: it is the only one where the client did her part, on time, and got silence.",
+      "who": "Derrek",
+      "date": "2026-08-13",
+      "days_outstanding": 15,
+      "status": "overdue",
+      "quotes": [
+        {"quote": "Once you've done that, just let me know and we'll try logging in again.", "who": "Derrek", "date": "2026-08-13"},
+        {"quote": "All the steps are completed", "who": "LA Client", "date": "2026-08-15"},
+        {"quote": "Let me know about login", "who": "LA Client", "date": "2026-08-15"}
+      ]
+    },
+    {
+      "what": "Vivek to give proactive status updates on the 'not recommended' appeal instead of making her check in - she asked directly on 2026-08-18. BROKEN, not merely pending: he went silent from Aug 21 to Aug 25 and she initiated every contact in the window. Escalated pending -> overdue at 10 days.",
+      "who": "Vivek",
+      "date": "2026-08-18",
+      "days_outstanding": 10,
+      "status": "overdue",
+      "quotes": [
+        {"quote": "Keep me updated pls", "who": "LA Client", "date": "2026-08-18"},
+        {"quote": "Hey, @fonta", "who": "LA Client", "date": "2026-08-25"},
+        {"quote": "How we looking???", "who": "LA Client", "date": "2026-08-25"}
+      ]
+    },
+    {
+      "what": "Rotate the two Facebook passwords exposed in-chat on Aug 7 and Aug 9, and move all credential/code exchange out of the group chat. Logged three weeks running and never actioned. 21 DAYS OUTSTANDING.",
+      "who": "Derrek",
+      "date": "2026-08-07",
+      "days_outstanding": 21,
+      "status": "overdue",
+      "quotes": [
+        {"quote": "470 226 9179", "who": "LA Client", "date": "2026-08-15"},
+        {"quote": "[REDACTED-2FA-CODE]", "who": "LA Client", "date": "2026-08-16"}
+      ]
+    },
+    {
+      "what": "Lauryn to pay the Aug 15 invoice (period Aug 1-14 plus the $1,852.15 rolled-over balance). Sent 2026-08-15 with a new account number and no amount or due date stated in chat. Under the 7-day terms Stephski used on the Aug 1 invoice this went late on 2026-08-22; it is now 13 days out and 6 days past terms. On Aug 27 she gave verbal confirmation but attached no date and made it conditional on funds dropping.",
+      "who": "Lauryn (client)",
+      "date": "2026-08-15",
+      "days_outstanding": 13,
+      "status": "overdue",
+      "quotes": [
+        {"quote": "Below is your invoice for the period of August 1st-14th.", "who": "Stephski", "date": "2026-08-15"},
+        {"quote": "We need to hear back from you as we are multiple invoices unpaid, we know you got us just need verbal confirmation please", "who": "Stephski", "date": "2026-08-26"},
+        {"quote": "Being that account is basically at a stand still when everything drops I’ll make those invoices expeditiously", "who": "LA Client", "date": "2026-08-27"}
+      ]
+    },
+    {
+      "what": "Stephski to follow up on the Aug 15 invoice. She did - but only on Aug 26, eleven days after issuing it, and only after it had already passed terms. Her own established pattern on this account is a nudge within 3-4 days (Aug 1 invoice chased Aug 2). Counting it done because the chase happened and worked within 13 hours, but the eleven-day gap is why the bill is late.",
+      "who": "Stephski",
+      "date": "2026-08-26",
+      "days_outstanding": 0,
+      "status": "done",
+      "quotes": [
+        {"quote": "LA Making sure you saw this", "who": "Stephski", "date": "2026-08-26"},
+        {"quote": "Great morning Stephanie", "who": "LA Client", "date": "2026-08-27"}
+      ]
+    }
+  ],
+  "payments": [
+    {
+      "note": "THE AUG 15 INVOICE IS NOW LATE. Issued 2026-08-15 (period Aug 1-14, with the $1,852.15 carryover folded in), 7-day terms per the Aug 1 precedent, so it went past due on 2026-08-22 and is 13 days old / 6 days late at week close. Stephski sent nothing at all between Aug 15 and Aug 26 - an eleven-day gap against her usual 3-4 day nudge - then escalated twice in four hours on Aug 26. The client answered within 13 hours, warmly, without disputing the amount, but gave no date and made payment conditional: 'when everything drops'. Last week's file predicted this exact outcome and named the silence on both sides as the real financial risk; that prediction landed.",
+      "date": "2026-08-15",
+      "invoice_period": "2026-08-01 to 2026-08-14 (plus $1,852.15 carryover)",
+      "amount_outstanding": 1852.15,
+      "late": true,
+      "days_late": 6,
+      "reason": "Eleven days of no follow-up from ALTR on an invoice that quoted no amount and no due date in chat, colliding with a client whose cash flow is tied to OnlyFans payout drops - and whose page has produced nothing because the account has been dormant.",
+      "suggested_fix": "Monday: send the exact total, the itemised $1,852.15 carryover line, a named due date, and confirmation that the new account number and Zelle details have been tested. Then stop invoicing into a vacuum - pair every invoice with a one-page statement of what was delivered in the period, because she is now explicitly buying results, not access.",
+      "quotes": [
+        {"quote": "Below is your invoice for the period of August 1st-14th. Please note an update to the account number, please try and send using the information on the invoice.", "who": "Stephski", "date": "2026-08-15"},
+        {"quote": "LA Making sure you saw this", "who": "Stephski", "date": "2026-08-26"},
+        {"quote": "We need to hear back from you as we are multiple invoices unpaid, we know you got us just need verbal confirmation please", "who": "Stephski", "date": "2026-08-26"}
+      ]
+    },
+    {
+      "note": "The reason for non-payment changed this week, and that is the escalation. For twelve months every delay was framed as her own cash flow or OF payout timing - 'From OF my books are ran off what drops after pending state', 'Being money is beyond low this month in account'. On Aug 27, for the first time, she pointed at us: 'Being that account is basically at a stand still'. She then said she is 'only moving off what’s being funneled'. Nothing is being funneled - the chat team has been dark 79 days. This converts a collections problem into a value-delivered problem, and no amount of chasing fixes it.",
+      "date": "2026-08-27",
+      "invoice_period": "2026-08-01 to 2026-08-14",
+      "late": true,
+      "days_late": 6,
+      "reason": "Client explicitly linking payment to ALTR non-performance for the first time on record.",
+      "suggested_fix": "Do not send another chase before someone can answer 'what did we do for her in August'. Get the chat team back in the chat this week or tell her honestly who is covering the page, and put a dated Facebook plan in front of her. Then re-ask for payment with evidence attached.",
+      "quotes": [
+        {"quote": "From OF my books are ran off what drops after pending state", "who": "LA Client", "date": "2026-07-30"},
+        {"quote": "Being that account is basically at a stand still when everything drops I’ll make those invoices expeditiously", "who": "LA Client", "date": "2026-08-27"},
+        {"quote": "I’m aware already got my side reviewing my Books but only moving off what’s being funneled", "who": "LA Client", "date": "2026-08-27"}
+      ]
+    },
+    {
+      "note": "Structural: a balance has now carried forward across FIVE consecutive invoice periods (Jul 1-14 -> Jul 15-31 -> Aug 1 -> Aug 15 -> and the Sept 1 invoice will inherit it again). Stephski's own words on Aug 26 were 'we are multiple invoices unpaid'. Rolling the balance forward each cycle - agreed in good faith on Aug 12 - has stopped being an accommodation and become the mechanism by which the debt never clears. Not a single dollar moved on this account during the entire seven-day window.",
+      "date": null,
+      "amount_outstanding": 1852.15,
+      "late": true,
+      "reason": "Roll-forward with no amortisation schedule, against cash flow pegged to OF payout drops.",
+      "suggested_fix": "Stop rolling. Put her on a fixed two-installment schedule anchored to her payout dates with the arrears amortised over a defined number of cycles, agreed in writing once rather than renegotiated every fortnight. Pin one primary rail and one tested backup and stop changing them.",
+      "quotes": [
+        {"quote": "Okay copy :) i can just add to next invoice if that works", "who": "Stephski", "date": "2026-08-12"},
+        {"quote": "Just noting I rolled over the remaining amount from last period", "who": "Stephski", "date": "2026-08-15"},
+        {"quote": "We need to hear back from you as we are multiple invoices unpaid, we know you got us just need verbal confirmation please", "who": "Stephski", "date": "2026-08-26"}
+      ]
+    }
+  ],
+  "client_priorities": [
+    "Getting the Facebook page out of 'not recommended' so she can resume posting - open 335 days, framed as a business necessity ('It’s very important for my page to be back up and functioning due to Business reasons 🙏🏽', 2026-08-18) and now the stated reason her account is 'basically at a stand still'",
+    "Seeing the account actually earn again. New and dominant this week: she is paying out of what is 'being funneled' (2026-08-27), which makes revenue generation - i.e. the chat team's return - the precondition for the invoice clearing",
+    "Account security and confidentiality - formally backed by her management ('Talked to my Management we can’t give out certain passwords just for confidential purposes', 2026-08-15). She is not uncooperative: she added and removed a passkey, read out SMS codes and approved logins within minutes. She will do anything that keeps her passwords in her own hands.",
+    "Proactive updates rather than having to check in ('Keep me updated pls', 2026-08-18) - she still initiated every single contact this week",
+    "Clear, VISUAL, step-by-step instructions when asked to do technical work herself ('Visually that’s better', 2026-08-13) - still never delivered in visual form, 15 days later",
+    "DMCA leak takedowns and clean 'name + naked' search results for branding - the one service still running on cadence",
+    "Hard content boundaries: no explicit/nude/implied-sex customs, no 'fake masturbation' content",
+    "Payments split and timed to OnlyFans payout drops"
+  ],
+  "suggestions": [
+    "Treat the Aug 27 message as a churn warning, not a payment update. 'Being that account is basically at a stand still' is a client telling you, politely, that she is not getting value. Derrek should call her this week - not message, call - and lead with what we are going to do, not with the invoice.",
+    "Get the chat team back in the chat or tell her the truth about coverage. The 'Lauryn chat team' vendor group has been silent for 79 days. She is being invoiced fortnightly for chatting on a page nobody has visibly chatted since 2026-06-10. This is the single largest gap on the account and it is now driving the payment problem.",
+    "Put a dated Facebook plan in writing by Monday. Twelve days of full account access have produced 'Going through ads account', 'Just tested something' and 'Still in review'. Either the appeal has a next step and a date, or escalate it off Vivek to someone with a Meta partner channel. 335 days is not a status, it is a failure.",
+    "Derrek needs to close his own loop - it is now 15 days. He told her to complete the 2FA steps and report back; she did, on time, tagged him twice, and has since stopped asking. She also never got the visual steps she requested. Owner-level: handle privately, but handle it this week, because a client who stops chasing you has stopped counting on you.",
+    "Fix the invoicing mechanics before the Sept 1 invoice goes out. State the total and the due date in the chat message, itemise the $1,852.15 carryover, and confirm the new account number and Zelle details have been tested - not one payment has been attempted on them in 13 days. And do not let another invoice sit 11 days without a nudge.",
+    "Convert the roll-forward into a written amortisation schedule. Five consecutive periods have carried a balance and Stephski is now writing 'multiple invoices unpaid'. Agree one payment plan anchored to her OF payout dates instead of renegotiating a split every fortnight.",
+    "Rotate the Facebook passwords she posted in plaintext on Aug 7 and Aug 9 and purge credential/code exchange from the group chat. 21 days open on the account of a client whose management has formally ruled out sharing passwords. Also make the Aug 16 passkey method standing policy in writing so no one asks her for a login a fourth time."
+  ],
+  "wins": [
+    "Michelle's weekly DMCA leak-removal update landed on schedule on Aug 25 - the fifth consecutive week and the only ALTR cadence on this account that has not broken.",
+    "The moment Stephski actually asked, the client responded. Escalation at 19:14 on Aug 26, warm reply by 08:09 on Aug 27 - 'Great morning Stephanie' - with no dispute of the amount and an explicit acknowledgement that she owes it. She has never once refused to pay in twelve months.",
+    "No fourth credential ask. The boundary flagged as an account-level risk in the last two files held this week.",
+    "Vivek did reply within twelve hours of her Aug 25 chase and is evidently still actively testing the appeal rather than having dropped it.",
+    "Client tone remains warm and non-hostile despite a week in which she received almost nothing. There is still no relationship damage to repair - only delivery."
+  ],
+  "week_stats": {
+    "messages": 12,
+    "client_messages": 7,
+    "team_messages": 5
+  }
+}

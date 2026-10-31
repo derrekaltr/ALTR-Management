@@ -1,0 +1,159 @@
+{
+  "client": "Alex Paige Moore",
+  "slug": "alex-paige-moore-x-altr",
+  "week_ending": "2026-08-08",
+  "summary": "Total silence this week: not a single message from either side between Aug 2-8. The last activity was Aug 1, when Stephski sent the July 15-31 invoice (payment requested within 7 days, i.e. by ~Aug 8) and Derrek posted a long apology/update about backup-IG posting being paused and a $40k phone farm fix 'starting next week'. The client never acknowledged the invoice or the update, and the team posted none of the promised follow-ups, leaving late-July friction (reels page dormant 'since last year', a $1,989 invoice reconciliation gap) hanging. Client mood is unknown this week; her late-July tone was warm but she had been chasing revenue, posting, and Derrek's attention.",
+  "health": {
+    "score": 58,
+    "trend": "new",
+    "rationale": "Full-week two-way silence right after an invoice, with core deliverable (IG reels posting) admittedly paused and a billing discrepancy unresolved."
+  },
+  "reminders": [
+    {
+      "employee": "Michelle Queue",
+      "topic": "Management-run IG reels page not being posted to / status of reels accounts",
+      "count": 2,
+      "first_date": "2026-06-02",
+      "last_date": "2026-07-28",
+      "days_outstanding": 11,
+      "quotes": [
+        {"quote": "Also has anyone been posting on the reelwithalex account", "who": "Alex Paige", "date": "2026-06-02"},
+        {"quote": "Hey no videos have been uploaded to my reel page in ages", "who": "Alex Paige", "date": "2026-07-28"},
+        {"quote": "Nothing since last year", "who": "Alex Paige", "date": "2026-07-28"}
+      ]
+    },
+    {
+      "employee": "Stephski",
+      "topic": "Chasing payment links so she could pay her own invoices",
+      "count": 5,
+      "first_date": "2026-07-08",
+      "last_date": "2026-07-22",
+      "days_outstanding": null,
+      "quotes": [
+        {"quote": "2923 for next invoice please x", "who": "Alex Paige", "date": "2026-07-08"},
+        {"quote": "Could I please get link for next invoice to pay please", "who": "Alex Paige", "date": "2026-07-10"},
+        {"quote": "Please send link to pay $3639", "who": "Alex Paige", "date": "2026-07-20"},
+        {"quote": "??", "who": "Alex Paige", "date": "2026-07-22"}
+      ]
+    },
+    {
+      "employee": "Derrek",
+      "topic": "Derrek not responding to her direct messages",
+      "count": 3,
+      "first_date": "2026-07-06",
+      "last_date": "2026-07-20",
+      "days_outstanding": null,
+      "quotes": [
+        {"quote": "Also have you been able to get in contact with Derek I’ve been trying all week and he’s not responded", "who": "Alex Paige", "date": "2026-07-06"},
+        {"quote": "@mmayson are you able to contact Derrek", "who": "Alex Paige", "date": "2026-07-13"},
+        {"quote": "I’m waiting to get response from Derek", "who": "Alex Paige", "date": "2026-07-20"}
+      ]
+    }
+  ],
+  "complaints": [
+    {
+      "issue": "Management-run IG reels page has not been posted to in months despite her uploading content; Derrek admitted a posting pause on Aug 1 and posting restart is still unconfirmed",
+      "status": "recurring",
+      "first_raised": "2026-07-28",
+      "owner": "Michelle Queue",
+      "quotes": [
+        {"quote": "Hey no videos have been uploaded to my reel page in ages", "who": "Alex Paige", "date": "2026-07-28"},
+        {"quote": "And I added all those videos above for you to use", "who": "Alex Paige", "date": "2026-07-28"},
+        {"quote": "hey babes new page was created posting will start this week", "who": "Michelle Queue", "date": "2026-07-28"}
+      ]
+    },
+    {
+      "issue": "OF earnings/pending balance persistently low; client repeatedly asks what can be done to increase revenue and has had to chase for answers",
+      "status": "recurring",
+      "first_raised": "2026-01-13",
+      "owner": "Mayson",
+      "quotes": [
+        {"quote": "Hey I’ve noticed my money has dropped a fair bit the last 2 weeks. Can I do anything to help increase it", "who": "Alex Paige", "date": "2026-01-13"},
+        {"quote": "Hey guys money is looking crazy low… what can I do to increase this", "who": "Alex Paige", "date": "2026-05-26"},
+        {"quote": "I need a response", "who": "Alex Paige", "date": "2026-05-26"},
+        {"quote": "How can we increase money on Of what can I do my end", "who": "Alex Paige", "date": "2026-06-28"}
+      ]
+    },
+    {
+      "issue": "Invoice reconciliation dispute: Stephski calculated $1,989 remaining on the July 1-14 invoice while the client's math shows it fully paid; never explicitly closed out before the chat went quiet",
+      "status": "in_progress",
+      "first_raised": "2026-07-27",
+      "owner": "Stephski",
+      "quotes": [
+        {"quote": "$9636-$4160 (referrals)-$3487 (payment) = $1,989 remaining", "who": "Stephski", "date": "2026-07-27"},
+        {"quote": "But it was $3639 + 4008 =$7,647 \n- 4160 referrals - 3487 which means it’s all paid. I didn’t use the link for the extra 5% to be added I just transfered", "who": "Alex Paige", "date": "2026-07-28"}
+      ]
+    }
+  ],
+  "commitments": [
+    {
+      "what": "Start posting on the newly created IG reels page (@paigealexxo) that week",
+      "who": "Michelle Queue",
+      "date": "2026-07-28",
+      "status": "overdue",
+      "quotes": [
+        {"quote": "hey babes new page was created posting will start this week", "who": "Michelle Queue", "date": "2026-07-28"}
+      ]
+    },
+    {
+      "what": "Roll out the new phone-farm posting solution (final shipment landing Monday) and send plenty of updates starting the following week",
+      "who": "Derrek",
+      "date": "2026-08-01",
+      "status": "overdue",
+      "quotes": [
+        {"quote": "We are waiting for a shipment that should land Monday that will be the final piece needed to begin and scale.", "who": "Derrek", "date": "2026-08-01"},
+        {"quote": "Thank you for your understanding, we will have plenty of updates starting next week.", "who": "Derrek", "date": "2026-08-01"}
+      ]
+    }
+  ],
+  "payments": [
+    {
+      "note": "Invoice for July 15-31 sent Aug 1 with payment requested within 7 days (~Aug 8); client did not acknowledge or confirm payment at any point during the report week",
+      "date": "2026-08-01",
+      "late": false,
+      "reason": null,
+      "suggested_fix": "Send a friendly mid-week reminder before the 7-day window closes, and confirm receipt the moment she acknowledges",
+      "quotes": [
+        {"quote": "Below is your invoice for the period of July 15th-31st. If you could please shoot over payment within the next 7 days that would be amazing!", "who": "Stephski", "date": "2026-08-01"}
+      ]
+    },
+    {
+      "note": "Structural pattern: client pays in weekly installments because OF payouts land ~2 weeks after earnings; team has repeatedly chased balances since Oct 2025, and a 5% credit-card-link surcharge added friction in July (she reverted to wire transfer)",
+      "date": "2026-07-24",
+      "late": true,
+      "reason": "OF payout timing - money sits in OF pending/primary ~2 weeks before hitting her account; she pays as each payout lands",
+      "suggested_fix": "Formalize an agreed weekly installment schedule tied to her OF payout dates instead of ad-hoc chasing, and send an itemized running ledger with each invoice to prevent disputes like the $1,989 gap",
+      "quotes": [
+        {"quote": "I just don’t have the money to pay until it hits my account though which unfortunately is 2 weeks after I make the money.", "who": "Alex Paige", "date": "2025-10-08"},
+        {"quote": "I’ll just pay by transfer instead", "who": "Alex Paige", "date": "2026-07-24"},
+        {"quote": "I’ll transfer 9509 tomorrow for this week", "who": "Alex Paige", "date": "2026-07-28"},
+        {"quote": "Paid", "who": "Alex Paige", "date": "2026-07-30"}
+      ]
+    }
+  ],
+  "client_priorities": [
+    "Growing OF revenue - she repeatedly asks what she can do when pending/earnings dip ('I just wanna maximize this money')",
+    "Consistent posting on the management-run IG reels/marketing accounts she supplies content for",
+    "Keeping her IG accounts safe from deletions, shadowbans, and restrictions",
+    "Hard personal-safety boundaries: chatters must never promise meetups with local fans, and no explicit content on her public wall",
+    "Payment flexibility that matches her OF payout cycle (weekly installments, no surcharge surprises)"
+  ],
+  "suggestions": [
+    "Break the silence proactively: she went completely quiet after the Aug 1 invoice and Derrek's update - a personal check-in beats a payment chase as the first message",
+    "Post proof that @paigealexxo reels posting has actually started; this complaint ('nothing since last year') has now survived two promises",
+    "Send an itemized ledger closing out the $1,989 discrepancy explicitly so the new invoice doesn't inherit the confusion",
+    "Deliver the phone-farm progress updates Derrek promised 'starting next week' - the commitment window has already passed",
+    "Have Derrek (or a designated proxy) commit to a response SLA; she chased him for two weeks in July"
+  ],
+  "wins": [
+    "Client fully caught up on payments before the new invoice - transferred ~$9,509 and confirmed 'Paid' on Jul 30",
+    "Weekly DMCA/leak-removal cadence held steady (Aug 1 update; 2,400+ total infringements removed to date)",
+    "New IG reels page (@paigealexxo) created within hours of her Jul 28 complaint",
+    "Derrek gave a transparent Aug 1 explanation of the IG posting pause and the $40k phone-farm investment, with 400M+ test views cited"
+  ],
+  "week_stats": {
+    "messages": 0,
+    "client_messages": 0,
+    "team_messages": 0
+  }
+}

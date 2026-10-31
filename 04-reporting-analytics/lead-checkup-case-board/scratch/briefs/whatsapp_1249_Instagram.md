@@ -1,0 +1,45 @@
+# Instagram  [whatsapp #1249 GROUP]
+msgs=35 (in=30 out=5) window=2026-06-02..2026-06-02
+last_client=2026-06-02 (108d ago), last_derrek=2026-06-02 (108d ago)
+LAST MESSAGE FROM CLIENT — UNANSWERED: 'I actually just got in by talking to the chat!! Thank you again for looking into it!!!'
+
+  ...
+[2026-06-02 15:31] 120363427224089969@g.us: 146291048902867@lid
+[2026-06-02 15:31] 146291048902867@lid: {"show_membership_string":true,"is_hidden_sub_group":false,"parent_group_name":null,"auto_add_disabled":true,"author":"146291048902867@lid","is_initially_empty":false,"is_parent_group_general_chat":false,"context_group":null,"reason":0,"is_open_group":true,"pa…
+[2026-06-02 15:33] 57286441619698@lid: Hiiii
+[2026-06-02 15:39] 57286441619698@lid: So yeah idk what to do about my ig any help super appreciated 🫶🏻
+[2026-06-02 15:46] DEREK: Hi! Great to meet you
+[2026-06-02 15:46] DEREK: Adding my partner in here
+[2026-06-02 15:46] 197405874085999@lid: 65300816998597@lid
+[2026-06-02 15:47] DEREK: This is Kartik, he’s gonna help out with this recovery
+[2026-06-02 15:47] 57286441619698@lid: Hi thank you so much Derrek!!
+[2026-06-02 15:47] DEREK: I need: @: Email: Take a screenshot when you login and click “read more about this rule” A Screenshot of the email you received if you got one when it went down Follower Count:
+[2026-06-02 15:50] 57286441619698@lid: I need: @: @signedvictoria_ Email: Laura.victoriiaaa@gmail.com Take a screenshot when you login and click “read more about this rule” A Screenshot of the email you received if you got one when it went down Follower Count: 28k
+[2026-06-02 15:51] 57286441619698@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363427224089969@g.us/e/c/ec941c77-ecb6-40f5-bca4-c77a51626e49.jpg>
+[2026-06-02 15:51] 57286441619698@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363427224089969@g.us/e/d/ed126383-754c-4e06-a7d8-f93ce27544ec.jpg>
+[2026-06-02 15:51] 57286441619698@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363427224089969@g.us/2/6/2680433a-2f39-4c1e-9e5c-3ffabc04c958.jpg>
+[2026-06-02 15:51] 57286441619698@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363427224089969@g.us/b/e/be14a7c4-52ed-46e8-98a7-330ffac96c82.jpg>
+[2026-06-02 15:51] 57286441619698@lid: This is all it’s showing me for when I try to login
+[2026-06-02 15:52] DEREK: Kk don’t do it again until @197405874085999 looks at this and responds
+[2026-06-02 15:53] 197405874085999@lid: Hey
+[2026-06-02 16:01] 57286441619698@lid: Ok thank you
+[2026-06-02 16:11] 197405874085999@lid: Do u remember the reason you were suspended
+[2026-06-02 16:12] 57286441619698@lid: No it was so random. I don’t even post anything bad so I have no idea but I remember it asked to like prove I’m human and take a video of my face which I did and then now we’re here
+[2026-06-02 16:12] 197405874085999@lid: Okay
+[2026-06-02 16:13] 197405874085999@lid: I will get back to you shortly
+[2026-06-02 16:13] 57286441619698@lid: Thank you!!
+[2026-06-02 16:13] 197405874085999@lid: Please send me the account login
+[2026-06-02 16:41] 197405874085999@lid: Hey
+[2026-06-02 16:41] 197405874085999@lid: Since its partally stuck it’s alot harder but we can do it
+[2026-06-02 16:42] 197405874085999@lid: 2.5k
+[2026-06-02 16:42] 197405874085999@lid: Tat 48 hours
+[2026-06-02 17:08] 197405874085999@lid: Let me know if we are moving forward since my team is overseas
+[2026-06-02 17:08] 197405874085999@lid: They will be going to bed soon and it will be pushed to tomorrow
+[2026-06-02 17:09] 57286441619698@lid: No thank you. I appreciate it but I don’t want to spent $2.5k 😭
+[2026-06-02 17:09] 197405874085999@lid: We have other options not as instant tho
+[2026-06-02 17:09] 197405874085999@lid: What’s your budget
+[2026-06-02 17:38] 57286441619698@lid: I actually just got in by talking to the chat!! Thank you again for looking into it!!!

@@ -1,0 +1,546 @@
+{
+  "client": "Liza Kovalenko",
+  "slug": "liza-kovalenko-x-altr",
+  "week_ending": "2026-09-11",
+  "summary": "TWO-WEEK REPORT (08-28 → 09-11). The 09-04 run analysed the first half and never rendered, so nothing in here has been delivered to anyone yet. Read the two halves together, because the second half materially changed the verdict on the first. Half one (08-28 → 09-04) looked like a recovery: Stephski closed the Aug 1-14 wire mess ('Okay perf recieved', 08-30), issued the Aug 15-31 invoice correctly sequenced afterwards, and announced a credit; Vivek posted his first-ever messages in this chat 32 days after Derrek introduced him; Mica broke an 18-day reel-inspo gap. Half two undid most of it. On 09-04 Liza pushed back on the credit figure - 'You should had gotten more than that.. I’ll circle back with the receipts' - sent wire receipts on 09-07, chased on 09-08 ('So maybe you missed one of them'), and on 09-09 Stephski recalculated: 'Okay ive rolled over 7499.59 to this invoice so the new amount due is 4231.69'. The credit moved from $2,499.59 to $7,499.59. ALTR had under-credited its client by $5,000 for eight days and only found the money because she audited the books herself with screenshots. She paid the corrected invoice the next morning ($5,000 wire, tracking 20260909K4QLA01C001458, from Leticia Linss) and at window close Stephski has still only said 'I believe it came in just waiting for it to process and show your name' - no final confirmation. Meanwhile the account's actual emergency has not moved at all: on 08-31 Liza handed over plaintext passwords for @Lizakovaal, @lizkovalenkoo and @Lizaakovalenk0 at Vivek's request, Vivek said 'Okay on it', then 'Check dms', and has not posted a single message in this chat in the 11 days since. Zero recovery status on three deleted/suspended accounts. The passwords are still sitting in the group chat - and a ChatDeleteUser event fired on 09-03 and a ChatAddUser event on 09-10, meaning the membership of the room holding those credentials changed twice. Then on 09-10 Michelle chased her for content uploads ('I noticed there hasn’t been anything uploaded yet') for a management-run Instagram Reels account, while the Instagram accounts Liza reported deleted still have no status - exactly the tone-deaf sequencing that was flagged as a risk. Derrek has now been silent for 38 days and his 2026-08-01 Phone Farm commitment is 41 days old. Mayson is the only person routing anything on this account: he escalated to Vivek twice, escalated to Stephski on 09-08 ('@stephskiii ^'), and offered a call on 09-04 that got no reply and no follow-up.",
+  "health": {
+    "score": 58,
+    "trend": "down",
+    "rationale": "Down 8 from 66 (2026-09-04, the last scored week). The 09-04 score was awarded for a payment cycle that turned out not to be closed: the $2,499.59 credit was wrong by $5,000 in ALTR's favour, and the correction only happened because the client produced receipts and chased. That converts last week's headline win into a billing-integrity failure - six consecutive cycles now where Liza has had to ask ALTR how much of her money it is holding, and the first where ALTR's own number was materially wrong. On top of that: 11 days of total silence from Vivek after he took plaintext credentials for three deleted Instagram accounts, with no status on any of them and the client having stopped asking (disengagement, not satisfaction); those plaintext passwords still sitting in a ~20-person group chat whose membership changed twice during the window (ChatDeleteUser 09-03, ChatAddUser 09-10); Michelle chasing content uploads on 09-10 for accounts that are still down; Derrek at 38 days silent with the Phone Farm promise 41 days old; and the 09-09 wire still unconfirmed at window close. Held up from lower by genuinely good client behaviour and by Stephski and Mayson both responding same-day once escalated: she paid within a day of getting the corrected figure, her tone stayed warm throughout ('Perfect !', 'Thank you'), and she is still doing ALTR's reconciliation work for it rather than disputing the relationship. That is goodwill being spent, not banked."
+  },
+  "reminders": [
+    {
+      "employee": "Vivek",
+      "topic": "Status on the three deleted/suspended Instagram accounts after handing over credentials on 08-31. Asked three times, then stopped asking. 11 days of zero response from Vivek in this chat.",
+      "count": 3,
+      "evidence": [
+        {
+          "quote": "All Instagram I gave you guys got deleted. Any news with recovery’s?",
+          "date": "2026-08-30"
+        },
+        {
+          "quote": "Let me know please",
+          "date": "2026-08-31"
+        },
+        {
+          "quote": "Which dms ?",
+          "date": "2026-08-31"
+        }
+      ]
+    },
+    {
+      "employee": "Stephski",
+      "topic": "Having to ask ALTR how much of her money it is holding, and then having to prove ALTR's number wrong with receipts. Four separate asks inside this window, sixth consecutive cycle overall.",
+      "count": 4,
+      "evidence": [
+        {
+          "quote": "How much did you deduct babe?",
+          "date": "2026-09-02"
+        },
+        {
+          "quote": "You should had gotten more than that.. I’ll circle back with the receipts. Sorry my bf was sending it and he’s at burning man now it’s been extremely difficult to communicate with him .",
+          "date": "2026-09-04"
+        },
+        {
+          "quote": "Pls let me know all these was sent and didn’t bounce back",
+          "date": "2026-09-08"
+        },
+        {
+          "quote": "Lmk when it hits",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    {
+      "employee": "Mayson",
+      "topic": "Mayson has had to chase other ALTR staff on the client's behalf three times in two weeks - twice to get Vivek to respond on the deleted accounts, once to get Stephski onto the payment discrepancy. He is the only routing mechanism on this account.",
+      "count": 3,
+      "evidence": [
+        {
+          "quote": "@fonta ?^^",
+          "date": "2026-08-30"
+        },
+        {
+          "quote": "@fonta",
+          "date": "2026-08-30"
+        },
+        {
+          "quote": "@stephskiii ^",
+          "date": "2026-09-08"
+        }
+      ]
+    }
+  ],
+  "complaints": [
+    {
+      "issue": "ALL THREE BACKUP INSTAGRAM ACCOUNTS STILL DELETED/SUSPENDED, 11 DAYS AFTER CREDENTIALS WERE HANDED OVER, WITH ZERO STATUS. Liza reported the deletions on 08-30, handed over logins for @Lizakovaal, @lizkovalenkoo and @Lizaakovalenk0 on 08-31 at Vivek's request, and Vivek said 'Okay on it'. He then wrote 'Check dms', she asked 'Which dms ?', and he has not posted in this chat since 2026-08-31 14:13. No recovery outcome, no appeal status, no 'unrecoverable' - nothing, for any of the three. She has stopped asking, which is a disengagement signal, not satisfaction. This is the same Instagram integrity problem she has raised continuously since 2025-10-10 (336 days), now escalated from flagged/shadowbanned to deleted, and it is precisely what the 2026-08-01 $40,000 Phone Farm announcement and the Meta Support Rep introduction were both sold to her as fixing.",
+      "status": "recurring",
+      "owner": "Vivek / Derrek",
+      "first_raised": "2025-10-10",
+      "days_outstanding": 336,
+      "evidence": [
+        {
+          "quote": "All Instagram I gave you guys got deleted. Any news with recovery’s?",
+          "date": "2026-08-30"
+        },
+        {
+          "quote": "Which is currently suspended",
+          "date": "2026-08-31"
+        },
+        {
+          "quote": "All my accounts give cause they were associated",
+          "date": "2026-08-31"
+        },
+        {
+          "quote": "Okay on it",
+          "date": "2026-08-31"
+        },
+        {
+          "quote": "Let me know please",
+          "date": "2026-08-31"
+        },
+        {
+          "quote": "So they randomly delete my photos / reels , they don’t flat them, just delete straight away",
+          "date": "2026-02-01"
+        }
+      ]
+    },
+    {
+      "issue": "BILLING INTEGRITY: ALTR UNDER-CREDITED THE CLIENT BY $5,000 AND SHE HAD TO PROVE IT. On 09-01 Stephski applied a credit with no number ('I have deducted the amount you paid over from last period'). Liza asked for the figure on 09-02, got '2499.59' on 09-03, and rejected it on 09-04. She sent four wire receipts on 09-07, identified the senders herself ('So all these came from Leticia Linss', 'And 3.233 from name Jose Munoz'), and chased on 09-08. On 09-09 Stephski recalculated to $7,499.59 - a $5,000 correction, entirely in the client's favour, found by the client. The prior cycle that was declared closed on 08-30 with 'Okay perf recieved' was therefore not reconciled at all.",
+      "status": "resolved",
+      "owner": "Stephski",
+      "first_raised": "2026-09-04",
+      "days_outstanding": 5,
+      "evidence": [
+        {
+          "quote": "rolled over 2499.59 that you overpaid last period",
+          "date": "2026-09-03"
+        },
+        {
+          "quote": "You should had gotten more than that.. I’ll circle back with the receipts. Sorry my bf was sending it and he’s at burning man now it’s been extremely difficult to communicate with him .",
+          "date": "2026-09-04"
+        },
+        {
+          "quote": "okay no problem! let me know, on my side that’s what i see but i’ll check again too",
+          "date": "2026-09-05"
+        },
+        {
+          "quote": "So maybe you missed one of them",
+          "date": "2026-09-08"
+        },
+        {
+          "quote": "Okay ive rolled over 7499.59 to this invoice so the new amount due is 4231.69",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    {
+      "issue": "THE CLIENT IS ALTR'S RECONCILIATION FUNCTION. Six consecutive cycles (07-14, 07-21, 07-29, 08-25, 09-02, 09-08) have closed only because Liza asked, chased, or produced evidence. This window she did all three, and at window close the 09-09 wire she sent is still unconfirmed - Stephski's last word is 'I believe it came in just waiting for it to process and show your name', 38 hours before the window ends. There is still no SOP that states 'Received $X on [date], $Y credited' unprompted.",
+      "status": "recurring",
+      "owner": "Stephski",
+      "first_raised": "2026-07-14",
+      "days_outstanding": 59,
+      "evidence": [
+        {
+          "quote": "I have deducted the amount you paid over from last period 🙂",
+          "date": "2026-09-01"
+        },
+        {
+          "quote": "How much did you deduct babe?",
+          "date": "2026-09-02"
+        },
+        {
+          "quote": "Lmk when it hits",
+          "date": "2026-09-09"
+        },
+        {
+          "quote": "I believe it came in just waiting for it to process and show your name",
+          "date": "2026-09-09"
+        },
+        {
+          "quote": "Pls confirm if you guys received those too thank you",
+          "date": "2026-08-25"
+        }
+      ]
+    },
+    {
+      "issue": "SECURITY EXPOSURE, 11 DAYS OPEN AND GETTING WORSE. Vivek asked for credentials in the open group chat ('Hey Ma’am please send me id password') and Liza posted three Instagram handles with plaintext passwords into a ~20-member room that includes vendor chat-team accounts. Nobody has asked her to delete the message or rotate the passwords. Since she posted them, the membership of the room has changed twice: a ChatDeleteUser event on 2026-09-03 and a ChatAddUser event on 2026-09-10. Someone was added on 09-10 to a chat containing live credentials for three of her accounts.",
+      "status": "new",
+      "owner": "Derrek / Vivek",
+      "first_raised": "2026-08-31",
+      "days_outstanding": 11,
+      "evidence": [
+        {
+          "quote": "Hey Ma’am please send me id password",
+          "date": "2026-08-30"
+        },
+        {
+          "quote": "Ok sending",
+          "date": "2026-08-31"
+        },
+        {
+          "quote": "All these",
+          "date": "2026-08-31"
+        },
+        {
+          "quote": "Okay on it",
+          "date": "2026-08-31"
+        }
+      ]
+    },
+    {
+      "issue": "CONTENT CHASED WHILE HER ACCOUNTS ARE STILL DEAD. On 09-10 Michelle chased Liza for uploads to the content Drive for a management-run Instagram Reels account, 11 days after Liza reported that every Instagram account she gave ALTR had been deleted and while all three still have zero recovery status. This is the second time in the window - Mayson made the original 7-reels-a-week ask on 08-30 in the same conversation in which she reported the deletions. From her side, ALTR is asking her to produce 30 reels a month for accounts it has not told her the fate of.",
+      "status": "new",
+      "owner": "Michelle / Mayson",
+      "first_raised": "2026-08-30",
+      "days_outstanding": 12,
+      "evidence": [
+        {
+          "quote": "I noticed there hasn’t been anything uploaded yet, so I just wanted to check in with you!",
+          "date": "2026-09-10"
+        },
+        {
+          "quote": "Hey! This content for Instagram right?",
+          "date": "2026-08-30"
+        },
+        {
+          "quote": "All Instagram I gave you guys got deleted. Any news with recovery’s?",
+          "date": "2026-08-30"
+        }
+      ]
+    },
+    {
+      "issue": "OWNER SILENCE, 38 DAYS. Derrek's last message in this chat was 2026-08-04. The Phone Farm / backup-IG updates he promised on 2026-08-01 ('we will have plenty of updates starting next week', promised window = week of 08-09) are 41 days old and 33 days past the start of the window he named. The escalation path he built - '@ him in the chat and he will help' - required Mayson to tag Vivek twice to get a response, and produced 11 days of silence after credentials changed hands. The program is now not just late, it is contradicted by events: the accounts it was meant to protect are deleted.",
+      "status": "recurring",
+      "owner": "Derrek",
+      "first_raised": "2026-08-14",
+      "days_outstanding": 28,
+      "evidence": [
+        {
+          "quote": "Thank you for your understanding, we will have plenty of updates starting next week.",
+          "date": "2026-08-01"
+        },
+        {
+          "quote": "Hey Ive added Vivek in here ( @fonta ). He is our Meta Support Rep that will help keep your IG accounts up and safe. If you have any restrictions, shadowbans, or bans.... simply @ him in the chat and he will help. To start, if you want your accounts setup for Copyright Ban Protection he can assist.",
+          "date": "2026-07-29"
+        },
+        {
+          "quote": "All Instagram I gave you guys got deleted. Any news with recovery’s?",
+          "date": "2026-08-30"
+        }
+      ]
+    },
+    {
+      "issue": "DMCA takedown reporting stopped silently 191 days ago. Last report in the chat was 2026-03-04. It was never announced as paused, never explained, never replaced - on a service she thanked Nick for by name. She has still not asked about it, which is the worrying part. Related: Sophie Logan (Raw Agency), who ran bi-weekly reports, 14-day game plans and strategy calls, has been silent for 319 days.",
+      "status": "recurring",
+      "owner": "Nick (DMCA) / Derrek",
+      "first_raised": "2026-03-04",
+      "days_outstanding": 191,
+      "evidence": [
+        {
+          "quote": "Amazing thank you Nick great job 👏",
+          "date": "2025-12-11"
+        }
+      ]
+    }
+  ],
+  "commitments": [
+    {
+      "what": "Vivek: recover, or report the outcome on, the three deleted/suspended Instagram accounts (@Lizakovaal, @lizkovalenkoo, @Lizaakovalenk0) after taking plaintext credentials on 08-31. He said 'Okay on it', then 'Check dms', and has posted nothing in this chat for 11 days. Whatever happened in DMs is invisible to the rest of the team, to this report, and - given she asked 'Which dms ?' and got no answer for 51 hours - possibly to her. HIGHEST-URGENCY ITEM ON THE ACCOUNT.",
+      "who": "Vivek",
+      "status": "overdue",
+      "due": "not stated (credentials handed over 2026-08-31)",
+      "days_overdue": 11,
+      "evidence": [
+        {
+          "quote": "Okay on it",
+          "date": "2026-08-31"
+        },
+        {
+          "quote": "Ma'am just finished with work",
+          "date": "2026-08-31"
+        },
+        {
+          "quote": "Check dms",
+          "date": "2026-08-31"
+        },
+        {
+          "quote": "Which dms ?",
+          "date": "2026-08-31"
+        }
+      ]
+    },
+    {
+      "what": "Stephski: confirm in writing, with a number, that the 09-09 wire ($5,000, tracking 20260909K4QLA01C001458, sender Leticia Linss) landed. At window close the only word is 'I believe it came in just waiting for it to process and show your name' - 38 hours old, no confirmation, against an explicit 'Lmk when it hits'.",
+      "who": "Stephski",
+      "status": "pending",
+      "due": "2026-09-10",
+      "days_overdue": 1,
+      "evidence": [
+        {
+          "quote": "Lmk when it hits",
+          "date": "2026-09-09"
+        },
+        {
+          "quote": "I believe it came in just waiting for it to process and show your name",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    {
+      "what": "Stephski: roll the surplus from the 09-09 $5,000 wire (invoice due was $4,231.69, so ~$768.31 over) forward to the next invoice and state the figure unprompted. She committed to it in one line with no number, which is exactly how the $5,000 error happened last time.",
+      "who": "Stephski",
+      "status": "pending",
+      "due": "next invoice (~2026-09-15)",
+      "days_overdue": 0,
+      "evidence": [
+        {
+          "quote": "kk and ill roll over that amount to next one! thanks",
+          "date": "2026-09-09"
+        },
+        {
+          "quote": "Okay ive rolled over 7499.59 to this invoice so the new amount due is 4231.69",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    {
+      "what": "Derrek: Phone Farm / backup-IG rollout updates, promised for the week of 2026-08-09. 41 days since the promise, 33 days past the start of the promised window, 38 days of total owner silence.",
+      "who": "Derrek",
+      "status": "overdue",
+      "due": "week of 2026-08-09",
+      "days_overdue": 33,
+      "evidence": [
+        {
+          "quote": "Thank you for your understanding, we will have plenty of updates starting next week.",
+          "date": "2026-08-01"
+        }
+      ]
+    },
+    {
+      "what": "Derrek: full summary / statistics on the paid Instagram ads Liza paid an extra 5% for. 297 days outstanding - the oldest unkept promise on the account and the only one attached to money she was billed extra for.",
+      "who": "Derrek",
+      "status": "overdue",
+      "due": "2025-11-23",
+      "days_overdue": 292,
+      "evidence": [
+        {
+          "quote": "ill get you full summary",
+          "date": "2025-11-18"
+        },
+        {
+          "quote": "Glad to hear that! Would love to see the statistics on the promo. Any time you can, no rush. Thanks",
+          "date": "2025-11-23"
+        },
+        {
+          "quote": "Hi I will get it for you later tonight. I’m currently flying home",
+          "date": "2025-11-23"
+        }
+      ]
+    },
+    {
+      "what": "Mayson: the Monday call about trial reels offered on 09-04. She never replied, Monday 09-07 came and went, and Mayson never followed up. This is the SECOND call offer dropped without a chase in seven weeks - the 2026-07-20 monthly call was the first (53 days). Last actual call on the account: Mayson's 15-minute growth call on 2026-06-07, 96 days ago.",
+      "who": "Mayson",
+      "status": "overdue",
+      "due": "2026-09-07",
+      "days_overdue": 4,
+      "evidence": [
+        {
+          "quote": "Hey @xanaduexpress would you be available for a quick call on Monday to discuss a brand new feature for posting trial reels on instagram more effectively?",
+          "date": "2026-09-04"
+        },
+        {
+          "quote": "Hey @xanaduexpress are you available for our monthly call tomorrow?",
+          "date": "2026-07-20"
+        }
+      ]
+    },
+    {
+      "what": "Ronnie: investigate the recurring OnlyFans 'tag a creator' flag if it happened again. It had already recurred and spread in her very next message ('now it marks the entire message, other photos too'). 33 days, no diagnosis, no report-back. Third occurrence of this flag since 2026-01-26 (228 days) and she has stopped raising it.",
+      "who": "Ronnie",
+      "status": "overdue",
+      "due": "not stated",
+      "days_overdue": 33,
+      "evidence": [
+        {
+          "quote": "That's very strange.. There is nobody else in the content and it's doing this? If it's a one off just this time tag a creator on the post that you can comfortably tag on your post and will keep an eye if it happens again will look more into it",
+          "date": "2026-08-09"
+        },
+        {
+          "quote": "I think there was an arm of a person in the selfie , but completely normal selfie. And I deleted it. But now it marks the entire message, other photos too.",
+          "date": "2026-08-09"
+        }
+      ]
+    },
+    {
+      "what": "Ask Liza to delete the 2026-08-31 plaintext-credentials message and rotate all three Instagram passwords, and move credential handoff off the group chat permanently. Nobody has raised this with her in 11 days, during which the chat gained and lost members.",
+      "who": "Derrek / Vivek",
+      "status": "overdue",
+      "due": "2026-08-31",
+      "days_overdue": 11,
+      "evidence": [
+        {
+          "quote": "Hey Ma’am please send me id password",
+          "date": "2026-08-30"
+        },
+        {
+          "quote": "Ok sending",
+          "date": "2026-08-31"
+        }
+      ]
+    },
+    {
+      "what": "CLIENT-SIDE: upload unposted content to the new content Drive and keep it topped up at 7 fresh reels a week / 30 a month (Mayson, 08-30). Confirmed by Michelle on 09-10 that nothing has been uploaded in 11 days. Do not chase this again until the three deleted accounts have a status - it has now been asked twice while her accounts are down.",
+      "who": "Liza Kovalenko (client) / Mayson",
+      "status": "pending",
+      "due": "ongoing weekly",
+      "days_overdue": 0,
+      "evidence": [
+        {
+          "quote": "It has to be fresh content. If it's already posted on your main account, it doesn't count we can't use it again.",
+          "date": "2026-08-30"
+        },
+        {
+          "quote": "I noticed there hasn’t been anything uploaded yet, so I just wanted to check in with you!",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    {
+      "what": "Restart or formally explain DMCA takedown reporting. 191 days of silence on a service she praised by name and which is a top-five stated priority. No commitment was ever made to stop, which is the problem.",
+      "who": "Nick (DMCA) / Derrek",
+      "status": "overdue",
+      "due": "not stated",
+      "days_overdue": 191,
+      "evidence": [
+        {
+          "quote": "Amazing thank you Nick great job 👏",
+          "date": "2025-12-11"
+        }
+      ]
+    },
+    {
+      "what": "Change the reel-inspo FORMAT, not just the cadence. Mica posted once in this two-week window (08-31) and nothing in the 11 days since. Five consecutive drops (06-09, 07-10, 07-29, 08-13, 08-31) have gone completely unanswered by the client. Ask a direct question instead of posting links.",
+      "who": "Mica Vecco",
+      "status": "pending",
+      "due": "weekly",
+      "days_overdue": 11,
+      "evidence": [
+        {
+          "quote": "Hi love 💕 just wanted to reiterate how important consistent posting is for increasing social media engagement! This video is a great example:",
+          "date": "2026-08-31"
+        }
+      ]
+    },
+    {
+      "what": "Close the Facebook access loop. Mica asked 'do you have time now to re-add us to your facebook access?' on 2026-03-11 and never got an answer or a follow-up. 184 days. She declined FB management in Jan 2026 after growing 110k followers in two months herself. Either close it properly or drop it.",
+      "who": "Mica Vecco",
+      "status": "overdue",
+      "due": "not stated",
+      "days_overdue": 184,
+      "evidence": [
+        {
+          "quote": "do you have time now to re-add us to your facebook access?",
+          "date": "2026-03-11"
+        }
+      ]
+    }
+  ],
+  "payments": [
+    {
+      "note": "AUG 1-14 CYCLE - REOPENED AND CORRECTED BY THE CLIENT, $5,000 IN HER FAVOUR. Stephski declared receipt on 08-30 ('Okay perf recieved') and on 09-03 quantified the overpayment at $2,499.59. Liza rejected the figure on 09-04, sent four wire receipts on 09-07, volunteered the sender names herself ('So all these came from Leticia Linss', 'And 3.233 from name Jose Munoz'), and chased on 09-08 ('So maybe you missed one of them'). Mayson escalated with '@stephskiii ^'. On 09-09 Stephski recalculated the credit to $7,499.59. ALTR had missed $5,000 of her money for eight days and would not have found it without her. Against the Aug 1-14 invoice of ~$6,933.41, she had actually wired ~$14,433 across five wires (08-19: $5,000 + $2,433 in three wires, after online-banking bounce-backs; 08-25: two more wires, $7,000 total). Client-side conduct was flawless throughout; every error and every delay was ALTR-side.",
+      "amount": "$7,499.59 credit (revised up from $2,499.59)",
+      "date": "2026-09-09",
+      "late": false,
+      "evidence": [
+        {
+          "quote": "rolled over 2499.59 that you overpaid last period",
+          "date": "2026-09-03"
+        },
+        {
+          "quote": "You should had gotten more than that.. I’ll circle back with the receipts. Sorry my bf was sending it and he’s at burning man now it’s been extremely difficult to communicate with him .",
+          "date": "2026-09-04"
+        },
+        {
+          "quote": "So all these came from Leticia Linss",
+          "date": "2026-09-07"
+        },
+        {
+          "quote": "And 3.233 from name Jose Munoz",
+          "date": "2026-09-07"
+        },
+        {
+          "quote": "Okay ive rolled over 7499.59 to this invoice so the new amount due is 4231.69",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    {
+      "note": "AUG 15-31 INVOICE - ISSUED 09-01 WITH 7-DAY TERMS, PAID 09-09. Gross ~$11,731.28; after the corrected $7,499.59 credit the balance due was $4,231.69. She wired $5,000 on the morning of 09-09 (tracking 20260909K4QLA01C001458, sender Leticia Linss), overpaying by ~$768.31 which Stephski said she would roll forward. Nominally one day past the 7-day term (due ~09-08), but she was blocked by ALTR's own miscalculation - she committed to pay within minutes of receiving the corrected number. Treat as ON TIME. CONFIRMATION IS STILL OPEN at window close: she asked 'Lmk when it hits' and the last word from ALTR is 'I believe it came in just waiting for it to process and show your name', 38 hours before the window closed. Also note: she did NOT request split card links this cycle (those carry a 5% surcharge per Stephski, 2026-07-15).",
+      "amount": "$5,000 wired 2026-09-09 against a $4,231.69 balance",
+      "date": "2026-09-09",
+      "late": false,
+      "evidence": [
+        {
+          "quote": "Hi love happy September! Here is your invoice for the period of August 15-31 ❤️ Please let me know if you have any questions, as always, all payment information is at the bottom. I ask that you please pay within 7 days to avoid any pausing of work 🙏 Thank you queen lmk if you need anything!",
+          "date": "2026-09-01"
+        },
+        {
+          "quote": "I’m sending you 5k",
+          "date": "2026-09-09"
+        },
+        {
+          "quote": "Wire has been sent that’s tracking",
+          "date": "2026-09-09"
+        },
+        {
+          "quote": "Coming from Leticia Linss",
+          "date": "2026-09-09"
+        },
+        {
+          "quote": "I believe it came in just waiting for it to process and show your name",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    {
+      "note": "PAYMENT RISK: MEDIUM, direction WORSENING on process (improving on intent). Payment intent is excellent and has been for 14 months - she pays early, unprompted, overpays, resends bounced wires at her own cost, and volunteers third-party sender names without being asked. The risk is entirely ALTR-side: six consecutive cycles have closed only because she asked, and this cycle ALTR's stated number was wrong by $5,000. She now has direct evidence that ALTR's books do not track her money. Structural drivers unchanged: wires arrive split across multiple transfers from third-party names (Leticia Linss, José Muñoz, Edgardo R Canales) that Stephski cannot match without asking; side-channel rails (USDT direct to Derrek, Zelle, fanbasis card links at 5%) bypass Stephski entirely; Mexican banks require her to be physically in-branch, so a bounced wire costs her a trip rather than a click; and ALTR has changed banking details five times since 2025-09-27, the 08-15 account-number change having caused the original bounce-backs.",
+      "amount": "$0 unexplained after correction; ~$768.31 client credit to carry into the Sep 1-14 invoice",
+      "date": "2026-09-11",
+      "late": null
+    }
+  ],
+  "client_priorities": [
+    "Getting her three deleted/suspended Instagram accounts back - @Lizakovaal, @lizkovalenkoo, @Lizaakovalenk0. She handed over credentials 11 days ago and has received no status of any kind. She has stopped asking, which makes this more urgent, not less.",
+    "Instagram account safety and growth generally - shadowbans, false flags, random deletions, account locks. Her stated #1 concern for 336 days, and the exact thing both the $40,000 Phone Farm and the Meta Support Rep were sold to her as fixing.",
+    "Knowing her money arrived and how much of it ALTR holds, with a real number, without having to ask. This window she had to ask, then disprove ALTR's answer with receipts, and recover $5,000 herself.",
+    "Definitive answers on OF/IG warning notifications - what a flag actually means and whether her account is at risk, rather than a workaround ('Ok. Is it going to affect my account ?', 2026-01-28).",
+    "Leak / impersonator / scam-page takedowns - historically the service she praised most warmly by name, with no visible output for 191 days.",
+    "Visibility into results she has paid for - reel inspo she can actually execute while travelling, plus the paid-ads statistics outstanding since 2025-11-18 (297 days).",
+    "Not being asked to produce content for accounts nobody has told her the fate of. She was asked twice in this window (08-30, 09-10)."
+  ],
+  "suggestions": [
+    "TODAY: Vivek posts the status of all three accounts IN THE CHAT - one line per handle, recovered / appeal filed / unrecoverable / still trying. Eleven days of silence after taking someone's passwords is worse than never having engaged; it converts last week's win into a betrayal. If he has nothing, someone must say so.",
+    "TODAY: ask Liza to delete the 2026-08-31 credentials message and rotate all three Instagram passwords, and move credential handoff to a password manager or a 1:1. Members were added to and removed from this chat on 09-10 and 09-03 while those plaintext passwords sat in the scrollback. This is a liability, not a hygiene note.",
+    "Derrek must personally own the $5,000 correction with her. She found money ALTR had lost. A short message that names the error, thanks her for catching it, and states what changed in the process is worth more than any invoice credit - and it is the natural moment to break 38 days of silence with the Phone Farm update.",
+    "Change the payment SOP this cycle: within 24 hours of any wire, post 'Received $X on [date] from [sender], $Y credited to the next invoice, balance $Z.' Six cycles have now closed only because she asked, and the seventh started with her asking 'Lmk when it hits' and getting 'I believe it came in'. Close that one before Monday.",
+    "Freeze all content chasing until the three accounts have a status. Mayson asked on 08-30 and Michelle asked again on 09-10; from her seat, ALTR is demanding 30 reels a month for accounts it has not accounted for. Sequence: recovery status, then the content ask.",
+    "Follow up the 09-04 trial-reels call offer. She never replied and nobody chased. That is two dropped call offers in seven weeks and 96 days since the last actual call - and three of the open items on this account will die in text and resolve in ten minutes on a call.",
+    "Explain the DMCA gap before she notices it. 191 days with no takedown report on a service she thanked Nick for by name. Either restart the reports or tell her what replaced them; the silence is the risk, not the pause.",
+    "Have Mica ask a direct question with the next reel inspo rather than dropping links, and close the 184-day Facebook access loop either way. Five consecutive inspo drops have gone unanswered - the format, not the cadence, is the problem.",
+    "Do not change ALTR banking details again. Five changes since 2025-09-27; the 2026-08-15 account-number change is what caused the bounce-backs that started this whole two-week mess."
+  ],
+  "wins": [
+    "The Aug 1-14 reconciliation was corrected in the client's favour by $5,000. It is a failure that it was needed, but Stephski turned it around fast once escalated - flagged 09-08 16:03, corrected 09-09 00:29, roughly eight hours including 'Kk will check on this i’m currently driving but will get it all together for you this evening!'",
+    "The client paid immediately on receiving the corrected figure - 'Perfect !', 'I’m sending you 5k', 'Tomorrow morning' - and wired it the next morning with a tracking number and the sender name, unprompted. Fourteen months in, her payment intent is still flawless.",
+    "Her tone stayed warm across the entire two weeks despite a $5,000 error: 'Perfect thank you', 'Thank you for sending this over', 'Sure thank you', 'Perfect !'. The single edged message on record (08-26) did not repeat. This is recoverable.",
+    "Mayson worked the account properly and is the only routing mechanism on it: shipped the content Drive, escalated to Vivek twice on the deleted accounts, closed her hanging 'Which dms ?' himself, escalated to Stephski on the payment discrepancy, and proactively offered a call.",
+    "Vivek posted his first-ever messages in this chat on 08-30/08-31, 32 days after being introduced, responding within five minutes of being tagged. The escalation path works on first contact - it just does not survive past it.",
+    "The Aug 15-31 invoice was correctly sequenced after the prior cycle was declared closed, and Mica broke an 18-day reel-inspo silence on 08-31."
+  ],
+  "week_stats": {
+    "messages": 67,
+    "client_messages": 39,
+    "team_messages": 26
+  }
+}

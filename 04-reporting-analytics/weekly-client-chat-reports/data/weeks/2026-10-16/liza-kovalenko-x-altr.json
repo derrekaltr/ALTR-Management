@@ -1,0 +1,271 @@
+{
+  "client": "Liza Kovalenko",
+  "slug": "liza-kovalenko-x-altr",
+  "week_ending": "2026-10-16",
+  "window": {
+    "start": "2026-10-09T09:05:57-04:00",
+    "end": "2026-10-16T09:06:40-04:00",
+    "length": "one week"
+  },
+  "summary": "Billing closed cleanly this week, and the client stopped asking for anything. That is the churn alarm on this book. Last window she asked 3 things (wire status, a custom's price, her missing customs). This window she asked 0. All 8 of her messages are short acknowledgements or billing replies ('Amazing !! Thank you Mayson', 'Thank you will do xx', 'Will send shortly'). She also overpaid: Stephski confirmed on 10-15 'we recieved! it was $3189 so i rolled over the over payment below', against a $2,224.88 remainder. She answered the Oct 1-14 invoice within a minute of it landing. Fast payment plus zero asks is the exit pattern, not health.\n\nOn ALTR's side the week was busy but mostly about ALTR, not her. A third customs owner arrived in three weeks (Ronnie, then Aroosha on 10-05, then Spencer P on 10-13: 'Ill be handling all customs, content uploads, and backend chat assistance'). A new AM, Jeremy Tarr, introduced himself as working 'alongside Nate, Ronnie, and Sophie'. In this chat, Nate last posted 2026-01-21, Sophie 2025-10-27, and Ronnie has been silent 23 days. Nobody has written that her lost 09-24 customs were found and delivered. Aroosha posted a new custom on 10-11 without mentioning them, and the 10-08 top-spender request has no update. Her link in bio flip-flopped in 4 days. Mayson told her on 10-11 to put lizaswrld.com back ('it won’t get flagged and it’s completely safe'). On 10-12 he debugged it with Vivek in her group chat ('@fonta is the domain the problem?' / 'Yes'). On 10-15 he wrote: 'We've taken the domain down, so please remove it from your bio'. Her 09-24 question 'What exactly you need , reels/ picks?' is now 22 days unanswered. Mica went back to a bare 8-link reel-inspo drop (10-14), which got no reply. Vivek spoke for the first time in 42 days, but only about the domain. There is still no written status on her three IG accounts.\n\nSECURITY: no new credentials were posted this window. Her plaintext IG passwords (08-31, and Michelle's 09-12 re-post) and the live 2FA code she posted for the IG farm vendor on 10-08 are still in the chat: never disclosed, deleted, or rotated (46 days). Two more members were added on 10-13. Derrek has been silent 73 days, and the $5,000 under-credit is 37 days unacknowledged. Wins: Melissa sent a written earnings/performance report (10-09). Stephski caught the non-arrival herself this time (10-12) instead of the client finding it, and confirmed receipt with a number. Both new staff introduced themselves properly, which the IG vendor never did.",
+  "health": {
+    "score": 43,
+    "trend": "down",
+    "rationale": "Down 5 from 48. Billing operations improved. Stephski flagged on 10-12 that the remainder had not arrived, before the client noticed. That is the first time ALTR, not Liza, caught a missing wire. She then confirmed $3,189 received with a number (10-15) and sent the Oct 1-14 invoice on schedule with a 2-day heads-up. Melissa delivered a written two-week earnings/performance report. That health is outweighed by the client's behaviour. Client asks fell from 3 to 0, against an asks trend of 4, 0, 1, 0, 3, 0 since 09-11. All 8 of her messages are acknowledgements or billing (client messages 37 -> 8). She overpaid the remainder ($3,189 vs $2,224.88 owed) and replied 'Will send shortly' to the new invoice within 1 minute. Per the churn-signature pattern, prompt settling with zero asks is what leaving looks like. Churn signals, 2 of 4 present. (1) PRESENT: owner silent 73 days (Derrek last posted 2026-08-04). (2) ABSENT: no results question this window, and Melissa's report was written, not a call offer. (3) PRESENT: long-promised deliverables with no written proof. Those are the Phone Farm updates (promised 08-01, 76 days), the paid-ads stats (promised 2025-11-18), the IG recovery status for 3 handles (46 days), and written confirmation that her 09-24 customs were delivered (22 days). (4) ABSENT this week: billing was 8 of 21 ALTR messages (38%), down from 57%. Both tells are present: zero asks and fast/over payment. Aggravating: customs owner churn (3 owners in 3 weeks); the link-in-bio reversal plus internal debugging in her chat; 'reels/ picks?' 22 days unanswered; Mica reverting to bare inspo links; credentials and 2FA still sitting in a room that grew by 2 more members."
+  },
+  "reminders": [
+    {
+      "employee": "Mica Vecco",
+      "topic": "Content-upload format. ALTR chased uploads 3 times (Mayson 08-30, Michelle 09-10, Mica 09-23). The client agreed and asked what format was wanted on 09-24. Still unanswered at 22 days, across four windows. On 10-14 Mica posted 8 bare reel-inspo links in the same Social Media topic without answering it. That drop got no reply, unlike her concrete 10-06 tip. The Drive upload stays blocked on ALTR. Spencer P now says he owns 'content uploads', so ownership of the answer is unclear.",
+      "count": 3,
+      "days_outstanding": 22,
+      "evidence": [
+        {"date": "2026-09-23", "quote": "Hey @xanaduexpress! 💕 Just a quick reminder to please upload your content to the Google Drive when you get a chance so we can keep everything organized and up to date. Thank you!!", "sender": "Mica Vecco"},
+        {"date": "2026-09-24", "quote": "What exactly you need , reels/ picks?", "sender": "Eli (Liza)", "note": "Unanswered at 2026-10-16 window close: 22 days."},
+        {"date": "2026-10-14", "quote": "hi @xanaduexpress! here’s your reel inspo 💖💖", "sender": "Mica Vecco", "note": "Followed by 8 bare Instagram links. Does not answer the format question. No client reply."},
+        {"date": "2026-10-13", "quote": "Ill be handling all customs, content uploads, and backend chat assistance.", "sender": "Spencer P"}
+      ]
+    },
+    {
+      "employee": "Aroosha",
+      "topic": "Confirmation that the client's 09-24 customs were received and delivered. She asked on 10-08 ('did you got my videos for first three requested?') and re-pointed ALTR to her own Dropbox link. Aroosha replied 'Thank you so much!!', which implies she found them, but nobody has written that they reached the fan. On 10-11 Aroosha posted a new custom with no mention of the first three or of the 10-08 top-spender request. On 10-13 customs passed to Spencer P, the third owner in 3 weeks. The per-custom price she asked about ('How much he paid for this?') was never given; Aroosha gave the fan's lifetime spend ($8.6k) instead.",
+      "count": 2,
+      "days_outstanding": 22,
+      "evidence": [
+        {"date": "2026-10-08", "quote": "Also, did you got my videos for first three requested?", "sender": "Eli (Liza)"},
+        {"date": "2026-10-08", "quote": "It’s all here", "sender": "Eli (Liza)"},
+        {"date": "2026-10-08", "quote": "Thank you so much!!", "sender": "Aroosha s"},
+        {"date": "2026-10-11", "quote": "Theres a new custom, looks like it can be a voice note or video, up to you, linking it here :)", "sender": "Aroosha s"}
+      ]
+    },
+    {
+      "employee": "Vivek",
+      "topic": "Status on the three deleted/suspended IG accounts (@Lizakovaal, @lizkovalenkoo, @Lizaakovalenk0). She asked 3 times on 08-30/08-31. On 10-12 Vivek posted in the chat for the first time in 42 days, but only to answer Mayson's internal domain question. There is still no written status. The IG farm vendor logged into @Lizakovaal on 10-08 and has not posted since.",
+      "count": 3,
+      "days_outstanding": 46,
+      "evidence": [
+        {"date": "2026-08-30", "quote": "All Instagram I gave you guys got deleted. Any news with recovery’s?", "sender": "Eli (Liza)"},
+        {"date": "2026-08-31", "quote": "Okay on it", "sender": "Vivek"},
+        {"date": "2026-10-12", "quote": "No problem making a link", "sender": "Vivek", "note": "Only Vivek message since 08-31; about the bio link, not the IG accounts."}
+      ]
+    },
+    {
+      "employee": "Stephski",
+      "topic": "Remainder-wire receipt. This time ALTR chased the client, not the other way round. Stephski flagged on 10-12 that the remainder had not arrived and asked her to check for a bounce. The client said she would check with her boyfriend and offered to roll it into the next invoice. Stephski confirmed receipt with a number on 10-15. Closed. The cause of the 09-24 $420 bounce is still unexplained.",
+      "count": 1,
+      "evidence": [
+        {"date": "2026-10-12", "quote": "Hi love just letting you know we havent seen it come through on our side yet", "sender": "Stephski"},
+        {"date": "2026-10-13", "quote": "And I’ll ask my boyfriend es f it bounced back to him . In this cause please just add what I owe you yo next invoice and I’ll pay all at once", "sender": "Eli (Liza)"},
+        {"date": "2026-10-15", "quote": "we recieved! it was $3189 so i rolled over the over payment below", "sender": "Stephski"}
+      ]
+    }
+  ],
+  "complaints": [
+    {
+      "issue": "Credential and 2FA exposure in the group chat, unremediated for 46 days. Still in the chat: the client's plaintext passwords for 3 IG handles (posted 08-31 at Vivek's request), Michelle's 09-12 re-post of the @Lizakovaal password, and the live 6-digit IG 2FA code the client posted on 10-08 at the unintroduced IG farm vendor's request. Nothing has been disclosed, deleted or rotated. Membership changed again on 10-13 (two ChatAddUser events: Spencer P and Jeremy Tarr), so every new member inherits read access to the credentials. No new credentials were posted this window. Owner-level.",
+      "status": "recurring",
+      "owner": "Derrek / Vivek / Michelle / IG farm vendor",
+      "first_raised": "2026-08-31",
+      "days_outstanding": 46,
+      "escalation": "OWNER-LEVEL. Termination-grade if she discovers it unprompted.",
+      "evidence": [
+        {"date": "2026-08-30", "quote": "Hey Ma’am please send me id password", "sender": "Vivek"},
+        {"date": "2026-09-12", "quote": "hey babes this login below doesn’t work, can you check on password when you get a chance pls 💕", "sender": "Michelle Queue", "note": "Followed by the handle and plaintext password [REDACTED]."},
+        {"date": "2026-10-08", "quote": "would please give me the 2fa code here?", "sender": "Theta SDX (IG farm vendor)", "note": "Client posted a 6-digit 2FA code in plaintext at 17:11 [REDACTED]."}
+      ]
+    },
+    {
+      "issue": "ALTR lost, and has still not confirmed, the client's 09-24 customs delivery (Dropbox, 33 minutes after Ronnie's 09-23 request). On 10-08 the new owner, Aroosha, couldn't find it and the client re-pointed ALTR to her link. Aroosha's 'Thank you so much!!' implies it was found, but there is no written confirmation that the three customs reached the fan. The 10-08 top-spender request ($8.6k lifetime) and the 10-11 voice-note/video custom are both open. Customs has now had 3 owners in 3 weeks: Ronnie (silent since 09-23), Aroosha (introduced 10-05), and Spencer P (introduced 10-13). The previous handoff is what lost the delivery.",
+      "status": "in_progress",
+      "owner": "Aroosha / Spencer P",
+      "first_raised": "2026-09-25",
+      "days_outstanding": 22,
+      "evidence": [
+        {"date": "2026-09-24", "quote": "Here the link", "sender": "Eli (Liza)"},
+        {"date": "2026-10-08", "quote": "I sent them like three weeks ago", "sender": "Eli (Liza)"},
+        {"date": "2026-10-08", "quote": "Thank you so much!!", "sender": "Aroosha s"},
+        {"date": "2026-10-13", "quote": "Hey Liza , Spencer here. I'm from Fort Worth Texas. Ill be handling all customs, content uploads, and backend chat assistance.", "sender": "Spencer P"}
+      ]
+    },
+    {
+      "issue": "Content format question unanswered for 22 days, across four windows. ALTR chased uploads three times. She agreed, asked one clarifying question, and got silence. Mica's 10-14 post was bare links, not an answer.",
+      "status": "recurring",
+      "owner": "Mica Vecco / Spencer P",
+      "first_raised": "2026-09-25",
+      "days_outstanding": 22,
+      "evidence": [
+        {"date": "2026-09-24", "quote": "I’ll get this done today will upload content", "sender": "Eli (Liza)"},
+        {"date": "2026-09-24", "quote": "What exactly you need , reels/ picks?", "sender": "Eli (Liza)"}
+      ]
+    },
+    {
+      "issue": "NEW (ALTR-caused): link-in-bio reversal inside 4 days, with internal debugging done in front of the client. On 10-11 Mayson told her the domain was back and 'completely safe' and asked her to put it in her bio. She replied 'Amazing !!'. On 10-12 Mayson asked Vivek in her group whether the domain was 'the problem' and Vivek said 'Yes'. On 10-15 ALTR took the domain down and asked her to remove it and switch to a new direct link. She hasn't reacted yet. This is a credibility cost on the same IG-safety topic that has been her #1 concern since 2025-10-10.",
+      "status": "new",
+      "owner": "Mayson / Vivek",
+      "first_raised": "2026-10-11",
+      "evidence": [
+        {"date": "2026-10-11", "quote": "It routes through our own protected infrastructure before it ever reaches your page, it won’t get flagged and it’s completely safe.", "sender": "Mayson Chat"},
+        {"date": "2026-10-12", "quote": "Amazing !! Thank you Mayson", "sender": "Eli (Liza)"},
+        {"date": "2026-10-12", "quote": "@fonta is the domain the problem?", "sender": "Mayson Chat"},
+        {"date": "2026-10-12", "quote": "Yes", "sender": "Vivek"},
+        {"date": "2026-10-15", "quote": "We've taken the domain down, so please remove it from your bio if it's still up.", "sender": "Mayson Chat"}
+      ]
+    },
+    {
+      "issue": "Three deleted/suspended IG accounts with no written status. The problem dates to 2025-10-10 (371 days); credentials were handed over 46 days ago. The vendor logged into @Lizakovaal on 10-08 but nobody told her what that means. Vivek was active 10-12 and said nothing about it. This is what the $40k Phone Farm and the Meta Support Rep were sold as fixing.",
+      "status": "recurring",
+      "owner": "Vivek / Derrek",
+      "first_raised": "2025-10-10",
+      "days_outstanding": 371,
+      "evidence": [
+        {"date": "2026-08-30", "quote": "All Instagram I gave you guys got deleted. Any news with recovery’s?", "sender": "Eli (Liza)"},
+        {"date": "2026-10-08", "quote": "I'm in. thank you for your time", "sender": "Theta SDX (IG farm vendor)"}
+      ]
+    },
+    {
+      "issue": "Owner silence: 73 days (Derrek last posted 2026-08-04). Still outstanding from him: the $5,000 under-credit the client found herself (corrected silently 09-09, 37 days unacknowledged), the Phone Farm update promise (08-01, 76 days), and an introduction or explanation of the IG farm vendor. A new AM (Jeremy Tarr) was introduced this week, but not by Derrek.",
+      "status": "recurring",
+      "owner": "Derrek",
+      "first_raised": "2026-08-14",
+      "days_silent": 73,
+      "evidence": [
+        {"date": "2026-08-01", "quote": "Thank you for your understanding, we will have plenty of updates starting next week.", "sender": "Derrek"},
+        {"date": "2026-09-08", "quote": "So maybe you missed one of them", "sender": "Eli (Liza)"}
+      ]
+    },
+    {
+      "issue": "Reconciliation: improved this window. ALTR itself detected that the remainder had not arrived (10-12), rather than the client. Receipt was confirmed with an exact figure (10-15), and the overpayment was rolled forward. Still open: the cause of the 09-24 $420 bounce (Jose M Munoz Linss) was never identified, and $3,189 arrived against $2,224.88 owed with no line-item explanation in the chat. Six banking changes since 2025-09-27, 3 bounce episodes since 08-15. No banking change this window.",
+      "status": "in_progress",
+      "owner": "Stephski",
+      "first_raised": "2026-10-01",
+      "evidence": [
+        {"date": "2026-10-12", "quote": "just incase it bounced again i you can check", "sender": "Stephski"},
+        {"date": "2026-10-15", "quote": "we recieved! it was $3189 so i rolled over the over payment below", "sender": "Stephski"}
+      ]
+    },
+    {
+      "issue": "Reel-inspo format regressed. Mica's concrete 10-06 tip got a warm reply, but on 10-14 she went back to a bare 8-link drop (two Halloween-tagged), which got no reply. That is the same pattern as the six unanswered bare-link drops through 09-15.",
+      "status": "recurring",
+      "owner": "Mica Vecco",
+      "first_raised": "2026-06-09",
+      "days_outstanding": 129,
+      "evidence": [
+        {"date": "2026-10-07", "quote": "Hi babe thanks for the tip I’ll try it 🤍🤍", "sender": "Eli (Liza)"},
+        {"date": "2026-10-14", "quote": "hi @xanaduexpress! here’s your reel inspo 💖💖", "sender": "Mica Vecco"}
+      ]
+    },
+    {
+      "issue": "OF 'tag a creator' flag never diagnosed. First raised 2026-01-26 (263 days); her follow-up to Ronnie is 68 days unanswered. Jeremy Tarr names Ronnie as a current AM, but Ronnie has been silent here for 23 days.",
+      "status": "recurring",
+      "owner": "Ronnie / Jeremy Tarr",
+      "first_raised": "2026-01-26",
+      "days_outstanding": 263,
+      "evidence": [
+        {"date": "2026-08-09", "quote": "So I just tag someone and that’s it ?", "sender": "Eli (Liza)"},
+        {"date": "2026-10-13", "quote": "I’m going to be working as an AM alongside Nate, Ronnie, and Sophie helping with day-to-day tasks.", "sender": "Jeremy Tarr"}
+      ]
+    },
+    {
+      "issue": "DMCA/leak-takedown reporting dark in this chat for 226 days (last 2026-03-04). Melissa now sends earnings/performance reports here, but still no leak-removal update.",
+      "status": "recurring",
+      "owner": "Nick (DMCA) / Melissa / Derrek",
+      "first_raised": "2026-03-04",
+      "days_outstanding": 226,
+      "evidence": [
+        {"date": "2025-12-11", "quote": "Amazing thank you Nick great job 👏", "sender": "Eli (Liza)"}
+      ]
+    },
+    {
+      "issue": "Facebook access asks dead: Mica 03-11 (219 days) and a duplicate from Mayson 09-16 (30 days). Neither was followed up. The client declined FB management in Jan 2026.",
+      "status": "recurring",
+      "owner": "Mica Vecco / Mayson",
+      "first_raised": "2026-03-11",
+      "days_outstanding": 219,
+      "evidence": [
+        {"date": "2026-09-16", "quote": "Hey @xanaduexpress do you have a facebook account available to use?", "sender": "Mayson Chat"}
+      ]
+    }
+  ],
+  "commitments": [
+    {"what": "Confirm receipt of the Sep 15-30 remainder with a number", "who": "Stephski", "date": "2026-10-08", "due": "2026-10-09", "status": "done", "note": "Confirmed 10-15 ($3,189 received, overpayment rolled over). Stephski flagged non-arrival proactively on 10-12.", "evidence": [{"date": "2026-10-12", "quote": "Hi love just letting you know we havent seen it come through on our side yet", "sender": "Stephski"}, {"date": "2026-10-15", "quote": "we recieved! it was $3189 so i rolled over the over payment below", "sender": "Stephski"}]},
+    {"what": "CLIENT: pay the Sep 15-30 remainder ($2,224.88)", "who": "Liza Kovalenko (client)", "date": "2026-10-08", "due": "2026-10-08", "status": "done", "note": "$3,189 received by 10-15, more than the remainder.", "evidence": [{"date": "2026-10-13", "quote": "I’ll check on it today", "sender": "Eli (Liza)"}, {"date": "2026-10-15", "quote": "we recieved! it was $3189 so i rolled over the over payment below", "sender": "Stephski"}]},
+    {"what": "Send the Oct 1-14 invoice with advance notice", "who": "Stephski", "date": "2026-10-13", "due": "2026-10-15", "status": "done", "evidence": [{"date": "2026-10-13", "quote": "hi love! just writing to inform you that your next invoice will be sent out in 2 days. today is a great day to withdrawl your funds from OF to avoid any delays ❤️", "sender": "Stephski"}, {"date": "2026-10-15", "quote": "Happy thursday! Here is your invoice for October 1st-14th. Please use the invoicing information at the bottom of the PDF to ensure a smooth process ❤️ Here if you need anything or have any questions!", "sender": "Stephski"}]},
+    {"what": "CLIENT: pay the Oct 1-14 invoice", "who": "Liza Kovalenko (client)", "date": "2026-10-15", "due": "~2026-10-22 (7-day terms assumed)", "status": "pending", "evidence": [{"date": "2026-10-15", "quote": "Will send shortly", "sender": "Eli (Liza)"}]},
+    {"what": "Two-week earnings and performance report", "who": "Melissa", "date": "2026-10-09", "due": "2026-10-09", "status": "done", "evidence": [{"date": "2026-10-09", "quote": "Hey @xanaduexpress! Here is your earnings and performance report for the last two weeks 🫶🏽", "sender": "Melissa Userfacing"}]},
+    {"what": "Restore / replace the link in bio", "who": "Mayson", "date": "2026-10-11", "due": "not stated", "status": "done", "note": "Delivered xli.ink direct link 10-15 after the 10-11 domain was taken down again.", "evidence": [{"date": "2026-10-11", "quote": "Put it back in your bio whenever you get a minute and you’re all set.", "sender": "Mayson Chat"}, {"date": "2026-10-15", "quote": "We've taken the domain down, so please remove it from your bio if it's still up. We're switching you over to your direct link instead:", "sender": "Mayson Chat"}]},
+    {"what": "Confirm in writing that the 09-24 customs (first three) were received and delivered to the fan", "who": "Aroosha / Spencer P", "date": "2026-10-08", "due": "not stated", "status": "pending", "days_open": 8, "evidence": [{"date": "2026-10-08", "quote": "I’ll also check in with the team that was handling everything before me :)", "sender": "Aroosha s"}]},
+    {"what": "CLIENT: fulfil the 10-11 custom (voice note or video)", "who": "Liza Kovalenko (client)", "date": "2026-10-12", "due": "not stated", "status": "pending", "evidence": [{"date": "2026-10-12", "quote": "Thank you will do xx", "sender": "Eli (Liza)"}]},
+    {"what": "Handle all customs, content uploads and backend chat assistance", "who": "Spencer P", "date": "2026-10-13", "due": "ongoing", "status": "pending", "evidence": [{"date": "2026-10-13", "quote": "Ill be handling all customs, content uploads, and backend chat assistance. Please reach out to me here or directly if you need anything at all.", "sender": "Spencer P"}]},
+    {"what": "Respond quickly to anything she needs (day-to-day AM)", "who": "Jeremy Tarr", "date": "2026-10-13", "due": "ongoing", "status": "pending", "evidence": [{"date": "2026-10-13", "quote": "Feel free to reach out to me in the group chat or directly with anything you need and I’ll make sure to respond as quickly as possible.", "sender": "Jeremy Tarr"}]},
+    {"what": "Answer 'What exactly you need , reels/ picks?' so she can upload content", "who": "Mica Vecco / Spencer P", "date": "2026-09-24", "due": "2026-09-24", "status": "overdue", "days_overdue": 22, "evidence": [{"date": "2026-09-24", "quote": "What exactly you need , reels/ picks?", "sender": "Eli (Liza)"}]},
+    {"what": "Keep concrete written social tips on a weekly cadence (instead of bare-link inspo)", "who": "Mica Vecco", "date": "2026-10-06", "due": "weekly", "status": "overdue", "note": "10-14 post reverted to bare links.", "evidence": [{"date": "2026-10-14", "quote": "hi @xanaduexpress! here’s your reel inspo 💖💖", "sender": "Mica Vecco"}]},
+    {"what": "Tell Liza ALTR re-posted her plaintext IG password; delete the 08-31, 09-12 and 10-08 credential/2FA messages; rotate all three passwords; move credential/2FA exchange (incl. IG farm vendor) to DM", "who": "Derrek / Vivek", "date": "2026-08-31", "due": "2026-08-31", "status": "overdue", "days_overdue": 46, "evidence": [{"date": "2026-08-30", "quote": "Hey Ma’am please send me id password", "sender": "Vivek"}, {"date": "2026-10-08", "quote": "would please give me the 2fa code here?", "sender": "Theta SDX (IG farm vendor)"}]},
+    {"what": "Recover, or state the outcome on, @Lizakovaal / @lizkovalenkoo / @Lizaakovalenk0", "who": "Vivek", "date": "2026-08-31", "due": "not stated", "status": "overdue", "days_overdue": 46, "evidence": [{"date": "2026-08-31", "quote": "Okay on it", "sender": "Vivek"}]},
+    {"what": "Identify why the 09-24 $420 wire bounced", "who": "Stephski", "date": "2026-10-08", "due": "not stated", "status": "pending", "evidence": [{"date": "2026-10-08", "quote": "420$ bounced back", "sender": "Eli (Liza)"}]},
+    {"what": "Acknowledge the $5,000 under-credit to the client", "who": "Derrek", "date": "2026-09-09", "due": "2026-09-10", "status": "overdue", "days_overdue": 36, "evidence": [{"date": "2026-09-08", "quote": "So maybe you missed one of them", "sender": "Eli (Liza)"}]},
+    {"what": "Phone Farm / backup-IG rollout updates", "who": "Derrek", "date": "2026-08-01", "due": "week of 2026-08-09", "status": "overdue", "days_overdue": 68, "evidence": [{"date": "2026-08-01", "quote": "Thank you for your understanding, we will have plenty of updates starting next week.", "sender": "Derrek"}]},
+    {"what": "Paid-IG-ads statistics summary", "who": "Derrek", "date": "2025-11-18", "due": "2025-11-23", "status": "overdue", "days_overdue": 327, "evidence": [{"date": "2025-11-23", "quote": "Hi I will get it for you later tonight. I’m currently flying home", "sender": "Derrek"}]},
+    {"what": "Investigate OF tag-a-creator flag", "who": "Ronnie", "date": "2026-08-09", "due": "not stated", "status": "overdue", "days_overdue": 68, "evidence": [{"date": "2026-08-09", "quote": "So I just tag someone and that’s it ?", "sender": "Eli (Liza)"}]},
+    {"what": "Trial-reels call follow-up", "who": "Mayson", "date": "2026-09-04", "due": "2026-09-07", "status": "overdue", "days_overdue": 39, "evidence": [{"date": "2026-09-04", "quote": "Hey @xanaduexpress would you be available for a quick call on Monday to discuss a brand new feature for posting trial reels on instagram more effectively? \n\nIt’s very simple and should streamline the process while helping us get significantly more value out of them", "sender": "Mayson Chat"}]},
+    {"what": "Monthly call (last real call 2026-06-07, 131 days)", "who": "Mayson / Derrek", "date": "2026-07-20", "due": "2026-07-21", "status": "overdue", "days_overdue": 87, "evidence": [{"date": "2026-07-20", "quote": "Hey @xanaduexpress are you available for our monthly call tomorrow?", "sender": "Mayson Chat"}]},
+    {"what": "CLIENT: fill out Melissa's intake form", "who": "Liza Kovalenko (client)", "date": "2026-10-02", "due": "not stated", "status": "pending", "note": "No confirmation in chat either way.", "evidence": [{"date": "2026-10-02", "quote": "Ok ill do", "sender": "Eli (Liza)"}]},
+    {"what": "Restart or explain DMCA takedown reporting in this chat", "who": "Nick (DMCA) / Melissa / Derrek", "date": "2026-03-04", "due": "not stated", "status": "overdue", "days_overdue": 226},
+    {"what": "Close the Facebook access loop with one owner", "who": "Mica Vecco / Mayson", "date": "2026-03-11", "due": "not stated", "status": "overdue", "days_overdue": 219}
+  ],
+  "payments": [
+    {"note": "Sep 15-30 invoice remainder: $2,224.88 was outstanding. Stephski flagged on 10-12 that it had not arrived. The client offered to roll anything bounced into the next invoice. On 10-15 Stephski confirmed $3,189 received and rolled the overpayment (~$964.12, inferred) into the Oct 1-14 invoice. Paid late against the ~10-08 due date, by about a week, but the client says she sent it by 10-08; transit time is unknown. Sep 15-30 invoice now settled.", "date": "2026-10-15", "amount": 3189, "status": "received", "late": true, "receipt_verified": true, "evidence": [{"date": "2026-10-12", "quote": "Hi love just letting you know we havent seen it come through on our side yet", "sender": "Stephski"}, {"date": "2026-10-13", "quote": "And I’ll ask my boyfriend es f it bounced back to him . In this cause please just add what I owe you yo next invoice and I’ll pay all at once", "sender": "Eli (Liza)"}, {"date": "2026-10-15", "quote": "we recieved! it was $3189 so i rolled over the over payment below", "sender": "Stephski"}]},
+    {"note": "Oct 1-14 invoice issued 10-15 on schedule, with a 2-day heads-up on 10-13. Amount is not stated in the text (PDF only) and includes the rolled-over overpayment credit. The client replied 'Will send shortly' within 1 minute. Due ~10-22.", "date": "2026-10-15", "amount": "not stated in text", "status": "issued, unpaid", "evidence": [{"date": "2026-10-15", "quote": "Happy thursday! Here is your invoice for October 1st-14th.", "sender": "Stephski"}, {"date": "2026-10-15", "quote": "Will send shortly", "sender": "Eli (Liza)"}]},
+    {"note": "PAYMENT RISK: LOW-MEDIUM, lowered from medium. The Sep 15-30 invoice is fully settled, with an overpayment credited, and ALTR caught the non-arrival itself. Remaining drivers: the 09-24 $420 bounce cause is unexplained; 3 bounce episodes since the 08-15 account-number change; third-party senders; the $3,189 vs $2,224.88 mismatch is unexplained in the chat. CHURN READ: she overpaid, offered to consolidate her balance ('I’ll pay all at once') and committed to the new invoice instantly, during a week with zero asks. Prompt settling plus silence is the exit pattern on this book. Watch the Oct 1-14 payment speed alongside asks."}
+  ],
+  "client_priorities": [
+    "Getting paid for her customs work, and ALTR actually receiving what she delivers. The 09-24 customs are still not confirmed; 'How much he paid for this?' got a lifetime-spend figure, not a price.",
+    "Getting her three IG accounts back, or a written status (46 days since she handed over credentials).",
+    "Instagram account safety generally: her #1 concern since 2025-10-10. The link-in-bio flip-flop (10-11 'completely safe', 10-15 'taken down') touches it directly.",
+    "Being answered when she responds. 'reels/ picks?' is 22 days unanswered.",
+    "Knowing her money arrived, with real numbers. Delivered this week ($3,189 confirmed).",
+    "Her credentials and 2FA codes not sitting in a group chat. She has never raised it; ALTR put them there, and the room keeps growing.",
+    "Visible growth/promo results. A written earnings/performance report arrived 10-09 (no reply from her).",
+    "Clear, concrete asks with a named deliverable, destination and deadline."
+  ],
+  "suggestions": [
+    "Treat this as a churn alarm. Zero asks after 3 last week, 8 acknowledgement-only messages, and an overpaid balance match the exit signature. Derrek, personally, this week, by private message: break 73 days of silence. (1) Disclose the re-posted password and the in-group 2FA code, delete the 08-31, 09-12 and 10-08 messages, and ask her to rotate all three passwords. (2) Give a written status on all three IG handles and say what the IG farm vendor did on @Lizakovaal. (3) Name the $5,000 error. (4) Ask her directly what she wants from ALTR next month.",
+    "Spencer P, today: pick up customs with a written handoff. Confirm the 09-24 three were delivered to the fan, give the price on the 10-08 top-spender request (she asked 'How much he paid for this?'), and track the 10-11 custom. Put customs-receipt acknowledgement in the handoff checklist; customs has had 3 owners in 3 weeks.",
+    "Mica or Spencer (decide who owns it), today: answer 'reels or pics?' with a concrete spec (e.g. '7 vertical reels/week, 10-20s, upload to the New Content folder by Friday'). 22 days unanswered.",
+    "Mica: return to concrete written tips like 10-06. The bare-link drop on 10-14 got no reply; the concrete tip did.",
+    "Mayson / Vivek: keep internal troubleshooting ('@fonta is the domain the problem?') out of client groups. Before telling a client something is 'completely safe', confirm it is final. A 4-day reversal on her link in bio undermines trust on her #1 concern.",
+    "Jeremy Tarr: in your first week, close one old loop in writing. The OF tag-a-creator question (68 days) or the overdue monthly call (last real call 06-07) would show the AM change means something. Note that Nate and Sophie, whom you named, have not posted here in 8+ and 11+ months.",
+    "Stephski: keep the proactive non-arrival flag from 10-12; it is the first time ALTR caught a missing wire before the client did. Explain the $3,189 vs $2,224.88 difference in one line and find out why the $420 bounced.",
+    "Internal: confirm the published 2026-09-18 / 2026-09-25 / 2026-10-09 dashboards contain no plaintext passwords or the 10-08 2FA code."
+  ],
+  "wins": [
+    "Stephski caught the remainder's non-arrival herself on 10-12, before the client did, and confirmed receipt with an exact figure on 10-15 ('we recieved! it was $3189'). The Sep 15-30 invoice is fully settled.",
+    "Melissa delivered a written two-week earnings and performance report (10-09). It is written proof of results, which this account has lacked.",
+    "The Oct 1-14 invoice went out on schedule, with a 2-day heads-up to withdraw OF funds (10-13).",
+    "Spencer P and Jeremy Tarr both introduced themselves properly, with role and contact (10-13), unlike the unintroduced IG farm vendor. The client replied warmly.",
+    "Mayson delivered a working direct link in bio (xli.ink) after the domain issue, and invited her to request changes."
+  ],
+  "churn_signals": {
+    "owner_silent_30d": {"present": true, "detail": "Derrek last posted 2026-08-04 (73 days)."},
+    "results_question_answered_with_call": {"present": false, "detail": "No results question this window. Melissa's 10-09 performance report was written."},
+    "long_promised_deliverable_no_written_proof": {"present": true, "detail": "Phone Farm updates (promised 08-01), paid-ads stats (promised 2025-11-18), IG recovery status (46 days), and written confirmation that the 09-24 customs were delivered (22 days)."},
+    "majority_altr_messages_billing": {"present": false, "detail": "8 of 21 ALTR messages were billing (Stephski), 38%, down from 57% last window."},
+    "fast_clean_payment_tell": {"present": true, "detail": "She overpaid the remainder ($3,189 vs $2,224.88), offered to consolidate ('I’ll pay all at once'), and replied 'Will send shortly' within 1 minute of the new invoice."},
+    "zero_asks_tell": {"present": true, "detail": "Client asks fell from 3 to 0. All 8 client messages were acknowledgements or billing replies."}
+  },
+  "credential_exposure": {
+    "new_this_window": false,
+    "detail": "No new credentials posted in the window. Still in the chat history and never remediated: plaintext IG passwords (client 2026-08-31; Michelle Queue 2026-09-12) and a live 6-digit IG 2FA code (client 2026-10-08 17:11). All rendered as [REDACTED] here. Two new members were added 10-13."
+  },
+  "week_stats": {
+    "messages": 29,
+    "client_messages": 8,
+    "team_messages": 21,
+    "client_asks": 0,
+    "altr_staff_messages": 21,
+    "vendor_messages": 0,
+    "billing_messages": 8,
+    "service_events": 2,
+    "by_sender": {"Eli (client)": 8, "Stephski": 8, "Mayson": 4, "Melissa": 2, "Vivek": 2, "Spencer P": 2, "Aroosha": 1, "Jeremy Tarr": 1, "Mica Vecco": 1},
+    "asks_trend": [{"week_ending": "2026-09-11", "client_asks": 4}, {"week_ending": "2026-09-18", "client_asks": 0}, {"week_ending": "2026-09-25", "client_asks": 1}, {"week_ending": "2026-10-02", "client_asks": 0, "published": false}, {"week_ending": "2026-10-09", "client_asks": 3}, {"week_ending": "2026-10-16", "client_asks": 0}]
+  }
+}

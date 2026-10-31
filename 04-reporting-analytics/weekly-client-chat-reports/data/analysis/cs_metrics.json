@@ -1,0 +1,496 @@
+{
+  "Sarah": {
+    "full": {
+      "messages": 1922,
+      "client_messages": 1076,
+      "median_response_h": 0.7,
+      "p90_response_h": 25.8,
+      "pct_over_24h": 11,
+      "client_question_bursts": 140,
+      "questions_unanswered_24h": 22,
+      "team_initiated_pct": 59,
+      "max_team_silence_days": 9.0,
+      "last_client_msg": "2026-10-29"
+    },
+    "last_30d": {
+      "messages": 361,
+      "client_messages": 162,
+      "median_response_h": 0.4,
+      "p90_response_h": 23.1,
+      "pct_over_24h": 10,
+      "client_question_bursts": 29,
+      "questions_unanswered_24h": 5,
+      "team_initiated_pct": 73,
+      "max_team_silence_days": 5.7,
+      "last_client_msg": "2026-10-29"
+    }
+  },
+  "Lauryn": {
+    "full": {
+      "messages": 1935,
+      "client_messages": 1138,
+      "median_response_h": 0.1,
+      "p90_response_h": 15.3,
+      "pct_over_24h": 5,
+      "client_question_bursts": 86,
+      "questions_unanswered_24h": 4,
+      "team_initiated_pct": 74,
+      "max_team_silence_days": 8.1,
+      "last_client_msg": "2026-10-24"
+    },
+    "last_30d": {
+      "messages": 497,
+      "client_messages": 279,
+      "median_response_h": 0.1,
+      "p90_response_h": 19.7,
+      "pct_over_24h": 8,
+      "client_question_bursts": 32,
+      "questions_unanswered_24h": 2,
+      "team_initiated_pct": 63,
+      "max_team_silence_days": 5.2,
+      "last_client_msg": "2026-10-24"
+    }
+  },
+  "Amber Haze": {
+    "full": {
+      "messages": 1100,
+      "client_messages": 574,
+      "median_response_h": 0.2,
+      "p90_response_h": 11.6,
+      "pct_over_24h": 4,
+      "client_question_bursts": 98,
+      "questions_unanswered_24h": 6,
+      "team_initiated_pct": 45,
+      "max_team_silence_days": 5.1,
+      "last_client_msg": "2026-09-21"
+    },
+    "last_30d": {
+      "messages": 306,
+      "client_messages": 173,
+      "median_response_h": 0.3,
+      "p90_response_h": 18.4,
+      "pct_over_24h": 8,
+      "client_question_bursts": 21,
+      "questions_unanswered_24h": 4,
+      "team_initiated_pct": 47,
+      "max_team_silence_days": 5.1,
+      "last_client_msg": "2026-09-21"
+    }
+  },
+  "Liza Kovalenko": {
+    "full": {
+      "messages": 1208,
+      "client_messages": 596,
+      "median_response_h": 2.6,
+      "p90_response_h": 47.7,
+      "pct_over_24h": 16,
+      "client_question_bursts": 68,
+      "questions_unanswered_24h": 13,
+      "team_initiated_pct": 70,
+      "max_team_silence_days": 27.0,
+      "last_client_msg": "2026-10-28"
+    },
+    "last_30d": {
+      "messages": 282,
+      "client_messages": 139,
+      "median_response_h": 2.3,
+      "p90_response_h": 24.6,
+      "pct_over_24h": 13,
+      "client_question_bursts": 15,
+      "questions_unanswered_24h": 3,
+      "team_initiated_pct": 73,
+      "max_team_silence_days": 11.0,
+      "last_client_msg": "2026-10-28"
+    }
+  },
+  "Lilia": {
+    "full": {
+      "messages": 1377,
+      "client_messages": 891,
+      "median_response_h": 0.3,
+      "p90_response_h": 20.4,
+      "pct_over_24h": 8,
+      "client_question_bursts": 61,
+      "questions_unanswered_24h": 6,
+      "team_initiated_pct": 63,
+      "max_team_silence_days": 4.4,
+      "last_client_msg": "2026-10-29"
+    },
+    "last_30d": {
+      "messages": 676,
+      "client_messages": 433,
+      "median_response_h": 0.9,
+      "p90_response_h": 20.9,
+      "pct_over_24h": 11,
+      "client_question_bursts": 23,
+      "questions_unanswered_24h": 4,
+      "team_initiated_pct": 70,
+      "max_team_silence_days": 4.4,
+      "last_client_msg": "2026-10-29"
+    }
+  },
+  "Haileigh Cox": {
+    "full": {
+      "messages": 870,
+      "client_messages": 338,
+      "median_response_h": 0.1,
+      "p90_response_h": 24.5,
+      "pct_over_24h": 10,
+      "client_question_bursts": 61,
+      "questions_unanswered_24h": 3,
+      "team_initiated_pct": 77,
+      "max_team_silence_days": 9.3,
+      "last_client_msg": "2026-10-26"
+    },
+    "last_30d": {
+      "messages": 171,
+      "client_messages": 46,
+      "median_response_h": 0.5,
+      "p90_response_h": 19.5,
+      "pct_over_24h": 6,
+      "client_question_bursts": 9,
+      "questions_unanswered_24h": 0,
+      "team_initiated_pct": 79,
+      "max_team_silence_days": 8.1,
+      "last_client_msg": "2026-10-26"
+    }
+  },
+  "Sarah Lloyd": {
+    "full": {
+      "messages": 1033,
+      "client_messages": 550,
+      "median_response_h": 0.1,
+      "p90_response_h": 18.8,
+      "pct_over_24h": 7,
+      "client_question_bursts": 80,
+      "questions_unanswered_24h": 5,
+      "team_initiated_pct": 67,
+      "max_team_silence_days": 4.8,
+      "last_client_msg": "2026-10-17"
+    },
+    "last_30d": {
+      "messages": 474,
+      "client_messages": 228,
+      "median_response_h": 0.2,
+      "p90_response_h": 20.0,
+      "pct_over_24h": 8,
+      "client_question_bursts": 32,
+      "questions_unanswered_24h": 3,
+      "team_initiated_pct": 76,
+      "max_team_silence_days": 4.4,
+      "last_client_msg": "2026-10-17"
+    }
+  },
+  "Vicky": {
+    "full": {
+      "messages": 507,
+      "client_messages": 240,
+      "median_response_h": 0.1,
+      "p90_response_h": 14.8,
+      "pct_over_24h": 6,
+      "client_question_bursts": 48,
+      "questions_unanswered_24h": 3,
+      "team_initiated_pct": 58,
+      "max_team_silence_days": 8.3,
+      "last_client_msg": "2026-08-18"
+    },
+    "last_30d": {
+      "messages": 115,
+      "client_messages": 49,
+      "median_response_h": 1.3,
+      "p90_response_h": 24.4,
+      "pct_over_24h": 17,
+      "client_question_bursts": 10,
+      "questions_unanswered_24h": 2,
+      "team_initiated_pct": 73,
+      "max_team_silence_days": 8.3,
+      "last_client_msg": "2026-08-18"
+    }
+  },
+  "Lauren Blake": {
+    "full": {
+      "messages": 565,
+      "client_messages": 255,
+      "median_response_h": 0.7,
+      "p90_response_h": 18.8,
+      "pct_over_24h": 6,
+      "client_question_bursts": 32,
+      "questions_unanswered_24h": 1,
+      "team_initiated_pct": 77,
+      "max_team_silence_days": 5.0,
+      "last_client_msg": "2026-10-27"
+    },
+    "last_30d": {
+      "messages": 453,
+      "client_messages": 204,
+      "median_response_h": 0.7,
+      "p90_response_h": 18.8,
+      "pct_over_24h": 6,
+      "client_question_bursts": 24,
+      "questions_unanswered_24h": 1,
+      "team_initiated_pct": 78,
+      "max_team_silence_days": 5.0,
+      "last_client_msg": "2026-10-27"
+    }
+  },
+  "Barbara": {
+    "full": {
+      "messages": 625,
+      "client_messages": 326,
+      "median_response_h": 0.9,
+      "p90_response_h": 20.2,
+      "pct_over_24h": 7,
+      "client_question_bursts": 48,
+      "questions_unanswered_24h": 3,
+      "team_initiated_pct": 56,
+      "max_team_silence_days": 3.9,
+      "last_client_msg": "2026-10-28"
+    },
+    "last_30d": {
+      "messages": 548,
+      "client_messages": 281,
+      "median_response_h": 0.8,
+      "p90_response_h": 21.5,
+      "pct_over_24h": 8,
+      "client_question_bursts": 40,
+      "questions_unanswered_24h": 3,
+      "team_initiated_pct": 57,
+      "max_team_silence_days": 3.9,
+      "last_client_msg": "2026-10-28"
+    }
+  },
+  "Mila": {
+    "full": {
+      "messages": 226,
+      "client_messages": 80,
+      "median_response_h": 1.9,
+      "p90_response_h": 25.4,
+      "pct_over_24h": 16,
+      "client_question_bursts": 15,
+      "questions_unanswered_24h": 1,
+      "team_initiated_pct": 75,
+      "max_team_silence_days": 10.6,
+      "last_client_msg": "2026-10-29"
+    },
+    "last_30d": {
+      "messages": 117,
+      "client_messages": 35,
+      "median_response_h": 5.1,
+      "p90_response_h": 44.4,
+      "pct_over_24h": 24,
+      "client_question_bursts": 9,
+      "questions_unanswered_24h": 1,
+      "team_initiated_pct": 86,
+      "max_team_silence_days": 10.6,
+      "last_client_msg": "2026-10-29"
+    }
+  },
+  "Kaitlynn": {
+    "full": {
+      "messages": 4,
+      "client_messages": 0,
+      "median_response_h": null,
+      "p90_response_h": null,
+      "pct_over_24h": null,
+      "client_question_bursts": 0,
+      "questions_unanswered_24h": 0,
+      "team_initiated_pct": null,
+      "max_team_silence_days": 0.2,
+      "last_client_msg": null
+    },
+    "last_30d": {
+      "messages": 4,
+      "client_messages": 0,
+      "median_response_h": null,
+      "p90_response_h": null,
+      "pct_over_24h": null,
+      "client_question_bursts": 0,
+      "questions_unanswered_24h": 0,
+      "team_initiated_pct": null,
+      "max_team_silence_days": 0.2,
+      "last_client_msg": null
+    }
+  },
+  "Shayna": {
+    "full": {
+      "messages": 1153,
+      "client_messages": 640,
+      "median_response_h": 0.9,
+      "p90_response_h": 25.8,
+      "pct_over_24h": 10,
+      "client_question_bursts": 87,
+      "questions_unanswered_24h": 8,
+      "team_initiated_pct": 48,
+      "max_team_silence_days": 5.7,
+      "last_client_msg": "2026-10-29"
+    },
+    "last_30d": {
+      "messages": 469,
+      "client_messages": 258,
+      "median_response_h": 0.4,
+      "p90_response_h": 23.8,
+      "pct_over_24h": 11,
+      "client_question_bursts": 38,
+      "questions_unanswered_24h": 3,
+      "team_initiated_pct": 50,
+      "max_team_silence_days": 5.7,
+      "last_client_msg": "2026-10-29"
+    }
+  },
+  "Vale": {
+    "full": {
+      "messages": 1028,
+      "client_messages": 528,
+      "median_response_h": 0.2,
+      "p90_response_h": 20.9,
+      "pct_over_24h": 6,
+      "client_question_bursts": 57,
+      "questions_unanswered_24h": 2,
+      "team_initiated_pct": 69,
+      "max_team_silence_days": 5.2,
+      "last_client_msg": "2026-10-25"
+    },
+    "last_30d": {
+      "messages": 516,
+      "client_messages": 274,
+      "median_response_h": 0.2,
+      "p90_response_h": 18.1,
+      "pct_over_24h": 6,
+      "client_question_bursts": 29,
+      "questions_unanswered_24h": 0,
+      "team_initiated_pct": 64,
+      "max_team_silence_days": 5.0,
+      "last_client_msg": "2026-10-25"
+    }
+  },
+  "Alanna": {
+    "full": {
+      "messages": 186,
+      "client_messages": 68,
+      "median_response_h": 3.4,
+      "p90_response_h": 29.7,
+      "pct_over_24h": 13,
+      "client_question_bursts": 10,
+      "questions_unanswered_24h": 0,
+      "team_initiated_pct": 74,
+      "max_team_silence_days": 9.0,
+      "last_client_msg": "2026-10-22"
+    },
+    "last_30d": {
+      "messages": 186,
+      "client_messages": 68,
+      "median_response_h": 3.4,
+      "p90_response_h": 29.7,
+      "pct_over_24h": 13,
+      "client_question_bursts": 10,
+      "questions_unanswered_24h": 0,
+      "team_initiated_pct": 74,
+      "max_team_silence_days": 9.0,
+      "last_client_msg": "2026-10-22"
+    }
+  },
+  "Paige": {
+    "full": {
+      "messages": 157,
+      "client_messages": 64,
+      "median_response_h": 0.1,
+      "p90_response_h": 13.1,
+      "pct_over_24h": 12,
+      "client_question_bursts": 2,
+      "questions_unanswered_24h": 0,
+      "team_initiated_pct": 65,
+      "max_team_silence_days": 8.8,
+      "last_client_msg": "2026-09-02"
+    },
+    "last_30d": {
+      "messages": 133,
+      "client_messages": 58,
+      "median_response_h": 0.1,
+      "p90_response_h": 13.1,
+      "pct_over_24h": 11,
+      "client_question_bursts": 2,
+      "questions_unanswered_24h": 0,
+      "team_initiated_pct": 56,
+      "max_team_silence_days": 8.8,
+      "last_client_msg": "2026-09-02"
+    }
+  },
+  "Hannah": {
+    "full": {
+      "messages": 308,
+      "client_messages": 167,
+      "median_response_h": 1.0,
+      "p90_response_h": 16.8,
+      "pct_over_24h": 5,
+      "client_question_bursts": 18,
+      "questions_unanswered_24h": 1,
+      "team_initiated_pct": 56,
+      "max_team_silence_days": 23.2,
+      "last_client_msg": "2026-07-06"
+    },
+    "last_30d": {
+      "messages": 2,
+      "client_messages": 0,
+      "median_response_h": null,
+      "p90_response_h": null,
+      "pct_over_24h": null,
+      "client_question_bursts": 0,
+      "questions_unanswered_24h": 0,
+      "team_initiated_pct": 100,
+      "max_team_silence_days": 1.9,
+      "last_client_msg": null
+    }
+  },
+  "Alex Paige Moore": {
+    "full": {
+      "messages": 1516,
+      "client_messages": 868,
+      "median_response_h": 1.1,
+      "p90_response_h": 26.0,
+      "pct_over_24h": 12,
+      "client_question_bursts": 62,
+      "questions_unanswered_24h": 8,
+      "team_initiated_pct": 66,
+      "max_team_silence_days": 28.2,
+      "last_client_msg": "2026-09-23"
+    },
+    "last_30d": {
+      "messages": 118,
+      "client_messages": 41,
+      "median_response_h": 4.7,
+      "p90_response_h": 20.7,
+      "pct_over_24h": 10,
+      "client_question_bursts": 0,
+      "questions_unanswered_24h": 0,
+      "team_initiated_pct": 84,
+      "max_team_silence_days": 28.2,
+      "last_client_msg": "2026-09-23"
+    }
+  },
+  "Chey Mai": {
+    "full": {
+      "messages": 45,
+      "client_messages": 7,
+      "median_response_h": 5.7,
+      "p90_response_h": null,
+      "pct_over_24h": 33,
+      "client_question_bursts": 0,
+      "questions_unanswered_24h": 0,
+      "team_initiated_pct": 90,
+      "max_team_silence_days": 10.0,
+      "last_client_msg": "2026-08-11"
+    },
+    "last_30d": {
+      "messages": 19,
+      "client_messages": 2,
+      "median_response_h": 36.1,
+      "p90_response_h": null,
+      "pct_over_24h": 50,
+      "client_question_bursts": 0,
+      "questions_unanswered_24h": 0,
+      "team_initiated_pct": 100,
+      "max_team_silence_days": 9.8,
+      "last_client_msg": "2026-08-11"
+    }
+  }
+}

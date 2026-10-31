@@ -1,0 +1,120 @@
+{
+  "client": "Vale",
+  "slug": "vale-x-altr",
+  "status": "at_risk",
+  "status_reason": "Still at_risk and worse than on 10-09. Since then two more link fixes failed. On Oct 11 Mayson relaunched valesworld.vip and promised in writing that it 'won't get flagged and it's completely safe'; Vivek confirmed it was flagged on Oct 13. On Oct 15 22:03 the domain was taken down and replaced with a direct xli.ink link, which nobody has confirmed is working or safe. She has now gone about 23 days without a working OF link on her main IG. For the first time she frames this as lost income ('Losing money :('). She is also comparing us across clients ('Shayna said it got flagged for Lilia so I'm scared of trying') and opened a new complaint about leak removal ('You guys need better leak removal'). She did not react to the first earnings report, and she left Mica's second reel request unanswered. Ollie has been absent the whole week, and the ~$5,300 fan-order backlog has now gone nine reports without a mention. She is still engaged (3 new asks plus 2 chases this week), but every ask is about protecting her account or her income.",
+  "last_client_message": "2026-10-15",
+  "dimensions": {
+    "responsiveness": {
+      "severity": 2,
+      "internal_failure": "We reply to her messages fast, but often only with a holding line and no real answer. This week her leak complaint got 'Let me forward this!!' and then nothing for 3 days. Her highlights question (asked Oct 5 and again Oct 15) got a reply about the link instead. 'Is the link good?' took about 11h and a staff-to-staff tag before anyone answered.",
+      "evidence": [
+        {"quote": "You guys need better leak removal / I've been saying that Valebragg gets leaks too", "who": "Vale", "date": "2026-10-13"},
+        {"quote": "Let me forward this!!", "who": "Mayson Chat", "date": "2026-10-13"},
+        {"quote": "Should put something on the highlights ?", "who": "Vale", "date": "2026-10-15"}
+      ]
+    },
+    "follow_through": {
+      "severity": 3,
+      "internal_failure": "We keep giving dated or guaranteed promises on the link and missing them. 'By tomorrow' (Sep 27) lapsed, 'Will fix one link' (Oct 5) lapsed, and 'won't get flagged and it's completely safe' (Oct 11) broke within 2 days. Vivek has now made a third 'by tomorrow' promise. Meanwhile ~$5,300 of paid fan customs, calls and lives (Apr-Aug) are still undelivered or unconfirmed, with no mention for nine reports.",
+      "evidence": [
+        {"quote": "It routes through our own protected infrastructure before it ever reaches your page, it won't get flagged and it's completely safe.", "who": "Mayson Chat", "date": "2026-10-11"},
+        {"quote": "Nope / Link is flagged", "who": "Vivek", "date": "2026-10-13"},
+        {"quote": "Yes ma'am by tomorrow you will have a link", "who": "Vivek", "date": "2026-10-15"}
+      ]
+    },
+    "proactive_communication": {
+      "severity": 2,
+      "internal_failure": "This week improved: Melissa sent the first earnings and performance report unprompted, and Mayson posted the Oct 15 link switch without being asked. But most of what we send unprompted is still a template (leak graphic, invoice reminder, reel requests). Nobody explained why each link failed, and she still had to chase the outage herself (Oct 10, Oct 12, Oct 15). The earnings report went out with no commentary and got no reaction from her. Longest stretch with zero outbound from our side over the full history: 5.5 days (May 5-10).",
+      "evidence": [
+        {"quote": "Hey @valebragg05! Here is your earnings and performance report for the last two weeks", "who": "Melissa Userfacing", "date": "2026-10-09"},
+        {"quote": "No link still ? :(", "who": "Vale", "date": "2026-10-10"},
+        {"quote": "hi babes! can you upload more reel content to the drive when you get a chance?", "who": "Mica Vecco", "date": "2026-10-12"}
+      ]
+    },
+    "onboarding_handoff": {
+      "severity": 3,
+      "internal_failure": "Loose ends from the onboarding and the Jul 10 Fred-to-Ollie handover are still open. The order register and the old drive were lost. She has no 'who owns what' map: this week she addressed the link to 'you guys' and the team had to route it by @-tag. Three unintroduced members have joined. Her Oct 1 intake form ('Doing it now') is still unacknowledged after 15 days.",
+      "evidence": [
+        {"quote": "I'm guessing this is the previous chat teams Google drive and they've now deleted it", "who": "Ollie Mckinlay", "date": "2026-07-28"},
+        {"quote": "Sorry just saw this / Doing it now", "who": "Vale", "date": "2026-10-01"},
+        {"quote": "@fonta can you confirm?", "who": "Mayson Chat", "date": "2026-10-13"}
+      ]
+    },
+    "chatter_conduct": {
+      "severity": 2,
+      "internal_failure": "No new fan-facing incident; the clean streak is now 66 days. But there is still no written account rulebook or age-language rule after a chatter's 'she's 16' line cost her 9 days of OF access. The resold private live and the girl-girl videos have never been confirmed pulled from the vault. She keeps sending context so chatters stay authentic, and nobody confirms it was used.",
+      "evidence": [
+        {"quote": "And selling the live to the guy that I had the live with", "who": "Vale", "date": "2026-08-11"},
+        {"quote": "I lost access to my account for Nine days before because I had a chatter say that I was 16 in one of the videos", "who": "Vale", "date": "2026-09-15"},
+        {"quote": "My new tattoos if fans ask", "who": "Vale", "date": "2026-10-05"}
+      ]
+    },
+    "platform_health": {
+      "severity": 3,
+      "internal_failure": "Her main IG has had no working OF route for about 23 days. Since 10-09 we sold her a domain as 'completely safe' that was flagged in 2 days, then told her to take it down. The direct xli.ink replacement was not confirmed as working or safe, even though the Sep restriction was tied to the bio link. Three people (Mayson, Vivek, Derrek) worked the link with no single owner. Mica, the social lead, said nothing about the outage and only asked for reels. The Aug 31 reach collapse and the hook-test readout are still undiagnosed (46 days).",
+      "evidence": [
+        {"quote": "Shayna said it got flagged for Lilia so I'm scared of trying", "who": "Vale", "date": "2026-10-13"},
+        {"quote": "I haven't had a link up in like a month / Losing money :(", "who": "Vale", "date": "2026-10-15"},
+        {"quote": "We've taken the domain down, so please remove it from your bio if it's still up. We're switching you over to your direct link instead", "who": "Mayson Chat", "date": "2026-10-15"}
+      ]
+    },
+    "billing_ops": {
+      "severity": 1,
+      "internal_failure": "Billing improved this week: the pre-invoice withdrawal reminder went out on time (it was missed last cycle) and the Oct 1-14 invoice went out on schedule. Still open: four deposits (Aug 17, Sep 5, Sep 16, Oct 2) have never been confirmed by amount, and the Sep 15 'bounce backs' line is unexplained after 31 days. The Oct 15 invoice went out the same day she said 'Losing money :(', and nobody acknowledged the outage when sending it.",
+      "evidence": [
+        {"quote": "hi love! just writing to inform you that your next invoice will be sent out in 2 days. today is a great day to withdrawl your funds from OF to avoid any delays", "who": "Stephski", "date": "2026-10-13"},
+        {"quote": "Happy thursday! Here is your invoice for October 1st-14th.", "who": "Stephski", "date": "2026-10-15"},
+        {"quote": "Perfect thank you love", "who": "Stephski", "date": "2026-10-03"}
+      ]
+    },
+    "ownership_escalation": {
+      "severity": 3,
+      "internal_failure": "Nobody owns this account end to end, so problems get passed along by @-tag and dropped. Mayson pushed the link check to Vivek ('@fonta can you confirm?') and her leak complaint to an unnamed someone ('Let me forward this!!'). Then Vivek promised a link while Mayson shipped a different one. Ollie, the account lead, posted nothing all week (last post Oct 5), and Derrek nothing since Oct 5.",
+      "evidence": [
+        {"quote": "@fonta can you confirm?", "who": "Mayson Chat", "date": "2026-10-13"},
+        {"quote": "I know yeah, @fonta will confirm", "who": "Mayson Chat", "date": "2026-10-13"},
+        {"quote": "Let me forward this!!", "who": "Mayson Chat", "date": "2026-10-13"}
+      ]
+    },
+    "disengagement_detection": {
+      "severity": 3,
+      "internal_failure": "New churn signals appeared this week and nobody on our side named or acted on them. She framed the outage as lost income, compared us with another client's experience, and filed a new quality complaint. She also ignored the earnings report and Mica's second reel request. Nobody offered a call (none since Jul 13, 95 days), acknowledged the money she is losing, or got ahead of the Oct 15 invoice landing the same day as 'Losing money :('.",
+      "evidence": [
+        {"quote": "Losing money :(", "who": "Vale", "date": "2026-10-15"},
+        {"quote": "Shayna said it got flagged for Lilia so I'm scared of trying", "who": "Vale", "date": "2026-10-13"},
+        {"quote": "Hey @valebragg05 let me know when you're available for our call!", "who": "Mayson Chat", "date": "2026-09-22"}
+      ]
+    },
+    "security_hygiene": {
+      "severity": 3,
+      "internal_failure": "Her live Instagram password, posted three times in the group chat at our request on Sep 23 [REDACTED credential], is still there 24 days later. It has not been rotated or deleted, and nobody mentioned it this week. Her day-one OF password [REDACTED credential] is also still in the chat. Her 'Should I change my password?' has gone 80 days without an answer. There is still no private channel for credentials.",
+      "evidence": [
+        {"quote": "Share password", "who": "Vivek", "date": "2026-09-22"},
+        {"quote": "Okay let me change it / [REDACTED credential]", "who": "Vale", "date": "2026-09-23"},
+        {"quote": "Should I change my password?", "who": "Vale", "date": "2026-07-28"}
+      ]
+    }
+  },
+  "metrics": {
+    "client_questions_total": 63,
+    "unanswered_over_24h": 16,
+    "max_team_silence_days": 5.5,
+    "promises_made": 62,
+    "promises_kept": 30,
+    "promises_lapsed": 30,
+    "method": "Full history 2026-03-23 to 2026-10-15 22:03: 972 non-service messages (503 Vale, 469 our side). Vale is the only client alias. client_questions_total counts Vale messages containing '?' (63, of which 3 are since 10-09). This is a floor, since many asks have no question mark. unanswered_over_24h = 14 carried from 10-09, plus 2 from this window: the Oct 13 leak complaint got only 'Let me forward this!!' and no substantive follow-up, and the Oct 15 highlights question got no answer by data close. max_team_silence_days is the longest gap between consecutive our-side messages (May 5-10). Promises: 58 carried, plus 4 new (Mayson 'Hopefully tomorrow' Oct 10, kept Oct 11; Mayson 'won't get flagged' Oct 11, lapsed; Mayson 'Let me forward this!!' Oct 13, open; Vivek 'by tomorrow' Oct 15, open). Prior open items resolved: Mayson 'I'll get back to you' kept, Ollie 'relay to chatters' presumed kept, Vivek 'Will fix one link' lapsed. 2 promises remain open."
+  },
+  "what_client_wanted": [
+    "A working, safe OF link on her main Instagram, which she now frames as income: 'I haven't had a link up in like a month' / 'Losing money :(' (Oct 15); 'Shayna said it got flagged for Lilia so I'm scared of trying' (Oct 13).",
+    "Leak removal that actually covers her second handle: 'You guys need better leak removal' / 'I've been saying that Valebragg gets leaks too' (Oct 13). She first asked for Valebragg coverage on Aug 30.",
+    "Her accounts kept safe and under her control: 'anytime I see any alerts I'm just scared of losing my account again especially now with more money on it' (Sep 15); 'Should I change my password?' (Jul 28).",
+    "Fans who feel they are talking to the real her and are never scammed: 'I don't want my fans to feel scammed !!!' (Aug 1). She keeps feeding chatters real context: 'My new tattoos if fans ask' (Oct 5)."
+  ],
+  "what_worked": [
+    "Leading with numbers. 'Out of the 3 days we have been on, 2 of them have been your highest days in the last 3 months, with today at 2.5k' (Ollie, Jul 12) got 'Okay I'll let you guys handle it then' after two months of pricing pushback. The Oct 9 earnings report is the right instinct, but it went out with no commentary and got no reply.",
+    "Candid, fast status from someone senior. Derrek's 'Tried three more all of them instantly came down / Still trying a few more' (Oct 5) was taken calmly ('Oh damn okay'). Honest status landed better than the Oct 11 'completely safe' guarantee, which backfired 2 days later.",
+    "Reliable cadence on the leak report and billing. The weekly leak report is now on cadence for 3+ weeks under Melissa, and this cycle Stephski's withdrawal reminder and invoice both went out on time. She has never disputed a payment."
+  ],
+  "top_fix": "Name one owner for Vale this week who holds a single written ledger of every open link fix, promise, fan order and question, and calls her in the next 48h. That owner confirms the xli.ink link is live and safe (or says plainly it isn't yet), acknowledges the money she has lost, answers the leak and highlights questions, and rotates her password through a private channel. Stop guaranteeing infrastructure ('won't get flagged') before it has been verified. The link outage, the leak complaint and the $5,300 backlog all failed the same way: several people touched each one, nobody owned the deadline, and she had to chase."
+}

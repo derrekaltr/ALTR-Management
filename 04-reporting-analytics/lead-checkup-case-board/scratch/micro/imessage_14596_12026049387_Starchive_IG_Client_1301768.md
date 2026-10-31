@@ -1,0 +1,6 @@
+## +12026049387, Starchive IG Client, +13017687177 [imessage#14596 GRP] msgs=25 win=2026-08-16..2026-08-16 lastClient=2026-08-16(33d) lastDerek=2026-08-16(33d) UNANSWERED
+...
+[2026-08-16 18:14]IMG-near-money| +13017687177: ￼
+   <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/84/04/BFA2FCE7-50B6-443F-BE1B-9DA9E1124F37/IMG_1601.PNG>
+...
+[2026-08-16 18:23]PAY| Starchive IG Clien: I did ts and it costs more after

@@ -1,0 +1,127 @@
+{
+  "client": "Lauryn",
+  "slug": "lauryn-x-altr",
+  "status": "at_risk",
+  "status_reason": "Still warm and still engaging (she pitched a new B/G music-video content idea on 2026-09-03), but the churn signal first seen 2026-08-27 hardened this week: payment is now formally restructured around our non-delivery ('as it drops you will receive invoices in increments', 2026-09-02), the vendor chat team is 85 days silent, Vivek has ignored three direct status pings since 2026-09-02, and we answered with a pause-work threat instead of delivery.",
+  "last_client_message": "2026-09-03",
+  "dimensions": {
+    "responsiveness": {
+      "severity": 3,
+      "internal_failure": "Raised from 2: routine replies are still fast, but the messages that matter most now go unanswered for days - her direct payment/churn message sat 3.5 days before any reply, and her three direct status pings to Vivek on the no.1 issue (2026-09-02/03, plus a Mayson bump) have drawn zero response through end of data.",
+      "evidence": [
+        {"quote": "Hey, @fonta / Any updates??? / We still in review ??", "who": "LA Client", "date": "2026-09-02"},
+        {"quote": "???", "who": "LA Client", "date": "2026-09-03"},
+        {"quote": "@fonta ^^", "who": "Mayson Chat", "date": "2026-09-03"},
+        {"quote": "Great Morning @ofwizz / All the steps are completed / Let me know about login", "who": "LA Client", "date": "2026-08-15"}
+      ]
+    },
+    "follow_through": {
+      "severity": 3,
+      "internal_failure": "We promised recurring deliverables at onboarding - fortnightly report + 14-day game plan, FB monetisation, live-results dashboard, bi-weekly content ideas, weekly calls - shipped most exactly once and let them silently die; the Aug 13 visual 2FA steps Derrek promised were never sent and he has now been absent 21 days.",
+      "evidence": [
+        {"quote": "This is your first report and game plan with us... Moving forward, you'll receive a report every two weeks along with a tailored 14-day game plan.", "who": "Sophie Logan (Raw Agency)", "date": "2025-09-23"},
+        {"quote": "The team will enable FB monetisation in the next few weeks-one month", "who": "Sophie Logan (Raw Agency)", "date": "2025-09-17"},
+        {"quote": "let me get you some step by step instructions to do it", "who": "Derrek", "date": "2026-08-13"},
+        {"quote": "In this topic I'll be sending every 2 weeks some content ideas that could really benefit the page long term.", "who": "Thon | Content Manager", "date": "2026-05-29"}
+      ]
+    },
+    "proactive_communication": {
+      "severity": 3,
+      "internal_failure": "One strategy report ever (2025-09-23), zero revenue reporting ever; current outbound is a templated invoice, an automated leak screenshot and a tone-deaf 'post consistently' reminder (Aug 31) sent while the page sits unrecommendable - she initiates every substantive contact and Vivek stopped answering entirely.",
+      "evidence": [
+        {"quote": "Keep me updated pls / Well I'm periodically checking on my end as well", "who": "LA Client", "date": "2026-08-18"},
+        {"quote": "just wanted to reiterate how important consistent posting is for increasing social media engagement!", "who": "Mica Vecco", "date": "2026-08-31"},
+        {"quote": "Still in review", "who": "Vivek", "date": "2026-08-26"}
+      ],
+      "longest_zero_outbound_days": 8,
+      "note": "Raw 8-day max (2025-12-23 to 12-31, 2026-04-21 to 04-29) counts automated DMCA and invoice traffic as outbound. Stripping templated/automated traffic, there has been no substantive service-side outbound since 2026-06-12 (~83 days); the vendor chat team's last message is 2026-06-10 (85 days)."
+    },
+    "onboarding_handoff": {
+      "severity": 2,
+      "internal_failure": "Week 1 was fast and warm but left loose ends never closed: duplicate intake forms, a named 'point of contact' (Tivo) who never posted once in 12 months, no written 'who to contact for what', and the Client Relations manager vanished 2025-10-08 with no handoff - the pattern repeated Aug 30 when Mayson launched a new content Drive for a 'separate instagram account' without ever explaining the strategy, leaving her asking 'What is this for???' twice.",
+      "evidence": [
+        {"quote": "Hey, Paulo I have recently a few days ago filed out form / Looks the exact same far as questions", "who": "LA Client", "date": "2025-08-27"},
+        {"quote": "Tivo- Account executive (Point of contact, night shift management)", "who": "Ana M | General Manager", "date": "2025-08-25"},
+        {"quote": "What do you mean / Separate IG account???", "who": "LA Client", "date": "2026-08-31"}
+      ]
+    },
+    "chatter_conduct": {
+      "severity": 3,
+      "internal_failure": "The vendor chat team repeatedly sold customs violating boundaries she set in week 1, told her a fan had 'bagged' payment before she agreed, and pressured her four separate times to make exceptions after she said no - protecting vendor revenue over her stated limits.",
+      "evidence": [
+        {"quote": "And No explicit / No Sex / No Naked", "who": "LA Client", "date": "2025-08-30"},
+        {"quote": "Hello LA, we bagged a custom for you...once the custom is done it will be locked for $200 ... details: POV of you sucking that dildo", "who": "Mon Coeur", "date": "2026-02-20"},
+        {"quote": "any chance you would still do it so we can avoid the refund? we'll keep in mind to turn down this type of request from now on", "who": "Tanya | Chat Manager", "date": "2026-06-08"}
+      ]
+    },
+    "platform_health": {
+      "severity": 3,
+      "internal_failure": "The Facebook page has been 'not recommended' since 2025-09-27 - 341 days - through three ownership hand-offs and no dated plan ever; Vivek's last substantive words were 'Still in review' (Aug 26) and he has not answered her direct 'We still in review??' in the 8 days since, despite a bump from Mayson.",
+      "evidence": [
+        {"quote": "Timeline wise it is hard to say, it could take one month or 6 months for the flags to clear.", "who": "Sophie Logan (Raw Agency)", "date": "2025-10-08"},
+        {"quote": "My IG was never shadow banned / It's FACEBOOK / Still is / PAGE NOT RECOMMENDED", "who": "LA Client", "date": "2026-08-20"},
+        {"quote": "Hey, @fonta / Any updates??? / We still in review ??", "who": "LA Client", "date": "2026-09-02"}
+      ]
+    },
+    "billing_ops": {
+      "severity": 3,
+      "internal_failure": "Seven ALTR-side payment-rail disruptions in 12 months, and the Sept 1 invoice repeated every known mistake: sent with the Aug 15 invoice still unpaid (sixth consecutive period carrying the $1,852.15 balance), no total or due date stated in chat, on an account number never once exercised - paired with a pause-work threat that leans on a team the client has not seen post in 85 days.",
+      "evidence": [
+        {"quote": "Also ask that you settle this invoice within 7 days to avoid us pausing work 🙏 Our team on your page hasnt been paid in a little while", "who": "Stephski", "date": "2026-09-01"},
+        {"quote": "We just need to get the team paid out thats worked on your account, and its difficult to have them continue to work unpaid", "who": "Stephski", "date": "2026-08-30"},
+        {"quote": "LA can you please try and zelle derrek? our zelle is having issues again im so sorry", "who": "Stephski", "date": "2026-08-09"},
+        {"quote": "Okay great, is there any portion you can pay? even a smaller amount to chip away?", "who": "Stephski", "date": "2026-09-03"}
+      ]
+    },
+    "ownership_escalation": {
+      "severity": 3,
+      "internal_failure": "Nobody owns the account end-to-end: Mayson's only role on the FB issue is bumping Vivek with '@fonta ^^' (again 2026-09-03, unanswered), the vendor team was swapped with a one-line aside and never replaced visibly, Derrek has been gone 21 days, and another ChatDeleteUser event fired 2026-09-03 with no explanation to the client.",
+      "evidence": [
+        {"quote": "Hey @lxnselot we are putting on a different team", "who": "Mayson Chat", "date": "2026-06-10"},
+        {"quote": "@fonta ^^", "who": "Mayson Chat", "date": "2026-09-03"},
+        {"quote": "Just waiting on derrek / Once he wakes up", "who": "Vivek", "date": "2026-08-12"}
+      ]
+    },
+    "disengagement_detection": {
+      "severity": 3,
+      "internal_failure": "She has now tied payment to our non-delivery twice in a week - restructuring invoices to 'increments as it drops' - and the only response was a harder collections push; nobody on our side has acknowledged the delivery complaint, the 85-day vendor absence, or that her new content pitch (2026-09-03) is a re-engagement gift going unanswered.",
+      "evidence": [
+        {"quote": "Being that account is basically at a stand still when everything drops I'll make those invoices expeditiously", "who": "LA Client", "date": "2026-08-27"},
+        {"quote": "Hey, Stephanie as it drops you will receive invoices in increments / The monies are on hold ! / ... team has had a very slow month things aren't dropping quick!", "who": "LA Client", "date": "2026-09-02"},
+        {"quote": "New B/G video shooting Saturday ... What you think????", "who": "LA Client", "date": "2026-09-03"}
+      ]
+    },
+    "security_hygiene": {
+      "severity": 3,
+      "internal_failure": "We asked for plaintext credentials in the group chat (2025-09-15 and again 2026-08-07) and collected her FB-linked phone number and a live SMS 2FA code in-thread; three passwords, the number and the code still sit unrotated 27+ days later with no written credential policy, and the Aug 16 passkey workaround was never made standing practice.",
+      "evidence": [
+        {"quote": "Hey LA, Can I please get your Facebook log in details? ❤️ Email/phone number and password please x", "who": "Sophie Logan (Raw Agency)", "date": "2025-09-15"},
+        {"quote": "can you shoot him your logins again and he will handle", "who": "Derrek", "date": "2026-08-07"},
+        {"quote": "Talked to my Management we can't give out certain passwords just for confidential purposes", "who": "LA Client", "date": "2026-08-15"}
+      ],
+      "note": "Credential values deliberately not reproduced. Exposed and unrotated as of 2026-09-03: FB password (2026-08-07), replacement FB password (2026-08-09), an earlier password (2025-08-25/2025-09-15), FB-linked phone number (2026-08-15), live SMS 2FA code (2026-08-16)."
+    }
+  },
+  "metrics": {
+    "client_questions_total": 87,
+    "unanswered_over_24h": 16,
+    "max_team_silence_days": 8,
+    "promises_made": 32,
+    "promises_kept": 13,
+    "promises_lapsed": 19,
+    "method": "client_questions_total = client messages containing '?' excluding URL-only messages (script over all 1,872 lines). unanswered_over_24h = 13 client turns with no our-side message of any kind within 24h (script; includes 2026-08-27 payment reply answered only 2026-08-30, and the 2026-09-03 turn still open at data end) plus 3 direct tags never answered by the person tagged (@ofwizz x2 on 2026-08-15, @fonta on 2026-09-02). max_team_silence_days = longest gap between consecutive our-side messages counting automated DMCA/invoice traffic (8 days, twice). promises = explicit our-side commitments read manually across the full history; no new promises were made in the 2026-08-28 to 09-03 window - only the pre-existing ones aged further."
+  },
+  "what_client_wanted": [
+    "The Facebook page functioning again, as a business necessity - 'It's very important for my page to be back up and functioning due to Business reasons 🙏🏽' (2026-08-18); now the stated reason the account is 'basically at a stand still' (2026-08-27).",
+    "To be updated without having to ask - 'Keep me updated pls' (2026-08-18) - and visual step-by-step instructions for technical work: 'Visually that's better' (2026-08-13). This week she asked Vivek for an update three times and got nothing.",
+    "Her boundaries and credentials respected without argument - 'And No explicit / No Sex / No Naked' (2025-08-30); 'Talked to my Management we can't give out certain passwords just for confidential purposes' (2026-08-15). She completes every non-password step we give her, usually within minutes.",
+    "Clean 'name + naked' search results for branding - 'My biggest thing is when they type... My Name with Naked doesn't show any of that type of content' (2025-08-29) - the one service still delivered on cadence."
+  ],
+  "what_worked": [
+    "A chatter confirming limits BEFORE taking fan requests: King Choy asked her video-call boundaries up front (2025-08-30) and she replied 'Thank Youuu / For communicating that with me 🙏🏽🙏🏽🙏🏽'.",
+    "DMCA takedowns with visible results - 'Looking much more clear' (2025-09-03); Michelle's weekly leak update landed again 2026-09-01, sixth consecutive week, the only unbroken cadence on the account.",
+    "The single report + 14-day game plan: 'Thank you for this Report... Stradgey makes sense' (2025-09-23) - one report bought more goodwill than the following eleven months.",
+    "Solving the Facebook login WITHOUT her Gmail password - Vivek's passkey add/remove workaround (2026-08-16): 'FINALLY / We stuck in there 🥳🥳'. Respecting her stated limit while still delivering is what she rewards - and she is still bringing us ideas (the B/G music-video pitch, 2026-09-03)."
+  ],
+  "top_fix": "Deliver something visible before chasing money again: this week we sent a sixth consecutive carried-balance invoice with a pause-work threat 'to pay the team' while the client has seen no chat team in 85 days, no FB progress in 341 days and no answer from Vivek in 8 - one named owner who restarts visible service (chat team back in the group or a named replacement, a dated FB next-action, a short weekly written status) would convert her stated willingness to pay 'as it drops' back into actual payments, because she has explicitly made our delivery the faucet."
+}

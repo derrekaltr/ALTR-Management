@@ -1,0 +1,263 @@
+# Unbans X Socialdepot  [imessage #14421 GROUP]
+msgs=262 (in=241 out=21) window=2026-08-04..2026-09-17
+last_client=2026-09-17 (1d ago), last_derrek=2026-09-10 (8d ago)
+LAST MESSAGE FROM CLIENT — UNANSWERED: '?'
+
+  ...
+[2026-08-04 18:14] DEREK: Vivek this is trevor, he’s going to be a huge partner in what we’re doing. He has a massive amount of lead flow.
+[2026-08-04 18:14] DEREK: Right now he has TikTok unbans
+[2026-08-04 18:33] Trevor Morgan: I’ll send in the info
+[2026-08-04 18:34] Trevor Morgan: ￼￼@bonnielocketxo Followers: 2M Email bonnielocket4@gmail.com Banned 24/11/2024
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/25/05/at_0_E45AE8CE-C82F-49A0-9F95-4BF78A0A78AF/IMG_3066.heic>
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/26/06/at_1_E45AE8CE-C82F-49A0-9F95-4BF78A0A78AF/IMG_2231.heic>
+[2026-08-04 18:34] Trevor Morgan: ￼￼ @bonnielocket.xox Followers: 500k 9th June bonnielocketdrives@gmail.com
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/d8/08/at_0_99D4E54A-BA72-4564-9B9F-5A3406C44A3D/IMG_4722.heic>
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/d9/09/at_1_99D4E54A-BA72-4564-9B9F-5A3406C44A3D/IMG_1031.heic>
+[2026-08-04 21:59] Trevor Morgan: Let me know what pricing looks like
+[2026-08-05 12:32] Trevor Morgan: Any update?
+[2026-08-05 12:32] Vivek Unban: Yes sir we have two options
+[2026-08-05 12:32] Vivek Unban: Getting price and tat
+[2026-08-05 12:32] Trevor Morgan: Perfect lmk
+[2026-08-05 12:33] Vivek Unban: As soon as i get revert i will update
+[2026-08-05 12:34] Trevor Morgan: Liked “As soon as i get revert i will update”
+[2026-08-05 15:21] Trevor Morgan: Would like to get these started today if possible so keep me updated
+[2026-08-05 15:34] Vivek Unban: Will update you
+[2026-08-06 19:45] Trevor Morgan: Any update
+[2026-08-06 20:26] DEREK: There’s no TikTok unbans as of right now
+[2026-08-06 20:26] DEREK: Only the person that tried hers before, and it didn’t work
+  ...
+[2026-08-12 14:12] Trevor Morgan: Liked “Trevor send all ig logins in here”
+[2026-08-12 14:12] Trevor Morgan: Socialdepot.media ALTR$3 Suspended 6/15
+[2026-08-12 14:12] Vivek Unban: Screenshot please
+[2026-08-12 14:14] Trevor Morgan: Weird I just tried logging in and this happened ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/05/05/at_1_7A0E5BE4-395F-4B03-8D28-85D4BC4EAEA7/IMG_6481.heic>
+[2026-08-12 14:14] Vivek Unban: Just close the app and reopen
+[2026-08-12 14:14] Trevor Morgan: ￼Nvm here it is
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/c4/04/at_0_0B6CD811-B8D9-4398-9922-F947918D855D/Screenshot 2026-08-12 at 10.14.19 AM.png>
+[2026-08-12 14:14] Vivek Unban: Read more about this rule
+[2026-08-12 14:15] Trevor Morgan: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/f1/01/at_0_4653D6AA-F654-46C1-8E1B-AC9C9D3C531D/Screenshot 2026-08-12 at 10.15.40 AM.png>
+[2026-08-12 14:16] Vivek Unban: Okay will login in 30 minutes
+  ...
+[2026-08-12 14:16] Vivek Unban: Sure
+[2026-08-12 17:10] Trevor Morgan: Update?
+[2026-08-12 17:11] Vivek Unban: Sir just today meta ai is down
+  ...
+[2026-08-12 17:13] Trevor Morgan: Liked “But tomorrow i will make sure to get the account back ”
+[2026-08-13 07:23] Trevor Morgan: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/d9/09/at_0_CD445015-FC74-4EB0-A19B-A6F1D3D17882/IMG_8015.png>
+[2026-08-13 07:23] Vivek Unban: Why they appeal initially
+[2026-08-13 07:23] Vivek Unban: Lmk check with the guys
+[2026-08-13 07:23] Vivek Unban: Yt is same as ig
+[2026-08-13 07:24] Vivek Unban: Initially appeal rejected
+[2026-08-13 07:24] Vivek Unban: Disabled
+[2026-08-13 07:24] Trevor Morgan: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/11/01/at_0_994483D8-C70D-44EF-ABA6-D59A64DFBD53/Screenshot 2026-08-13 at 3.24.43 AM.png>
+[2026-08-13 07:24] Trevor Morgan: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/17/07/at_0_C486A0F2-CA72-41CC-A197-8CB1F5AAE7BF/Screenshot 2026-08-13 at 3.24.53 AM.png>
+[2026-08-13 07:25] Trevor Morgan: https://www.facebook.com/CollegeSportsOnly
+      <IMG MISSING non-image: /Users/locklyjailbreak/Library/Messages/Attachments/b7/07/at_0_A788AFC5-E7C3-4289-89CF-184705227801/0A330540-72C5-47B2-9E6A-E12A2E8C070E.pluginPayloadAttachment>
+[2026-08-13 07:25] Trevor Morgan: Restricted FB pages that lost there monetization, they were doing 35k/m on it. Let me know if we can fix this
+[2026-08-13 07:25] Vivek Unban: Okay
+  ...
+[2026-08-13 07:30] Trevor Morgan: Liked “Will get back to you ”
+[2026-08-13 07:30] Trevor Morgan: And I’m assuming TikTok unbans aren’t possible right now?
+[2026-08-13 07:31] Vivek Unban: Just hold on
+[2026-08-13 18:00] Trevor Morgan: ￼￼￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/f3/03/at_0_BE4568A3-D16A-4E3F-8C63-229580CFCC4B/IMG_9055.PNG>
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/f4/04/at_1_BE4568A3-D16A-4E3F-8C63-229580CFCC4B/IMG_9054.PNG>
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/f5/05/at_2_BE4568A3-D16A-4E3F-8C63-229580CFCC4B/IMG_9053.PNG>
+[2026-08-13 18:00] Trevor Morgan: https://www.facebook.com/MissSwagger.xo?mibextid=wwXIfr&mibextid=wwXIfr
+      <IMG MISSING non-image: /Users/locklyjailbreak/Library/Messages/Attachments/bb/11/6A267B30-80FC-4DDC-BA70-E57E0015A674/B3955BFA-3FDD-4B2E-8EA6-AB97D24ECBEF.pluginPayloadAttachment>
+[2026-08-13 18:00] Trevor Morgan: FB account has violation issues for monetization and wants to get those fixed. Lmk if possible and price & tat
+[2026-08-13 19:43] Vivek Unban: Content are appealed?
+[2026-08-13 19:49] Trevor Morgan: Yes appealed
+[2026-08-13 19:55] Vivek Unban: Can you share the screenshots
+  ...
+[2026-08-13 19:58] Vivek Unban: Thank you
+[2026-08-13 22:15] Trevor Morgan: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/23/03/at_0_8DAF452D-FF82-4DA9-B598-6BF1C5E14D6F/IMG_9061.PNG>
+[2026-08-14 13:54] Trevor Morgan: Any update on these
+[2026-08-14 13:55] Vivek Unban: Send ig login
+  ...
+[2026-08-14 21:41] Trevor Morgan: Anything on the facebooks also?
+[2026-08-14 21:48] DEREK: If it’s already been appealed and denied for sexual, it’s not gonna come back I don’t think
+[2026-08-14 21:49] Trevor Morgan: Okay hb this one, different issue
+[2026-08-14 21:51] DEREK: That should be able to be restored if he has the original content. Vivek am I correct?
+[2026-08-15 00:26] Vivek Unban: Can fix monetization
+[2026-08-15 00:26] Trevor Morgan: Lmk price on it and any other info you need
+[2026-08-15 00:46] Vivek Unban: Derrek
+[2026-08-15 00:46] Vivek Unban: Just need login
+[2026-08-15 01:00] Trevor Morgan: Let me known price and I can get logins asap
+[2026-08-15 01:00] Vivek Unban: Derrek
+[2026-08-15 01:00] Trevor Morgan: Also can you help with the YouTube unban or no?
+[2026-08-15 01:01] Vivek Unban: Yes sir but it can take time
+[2026-08-15 01:01] Trevor Morgan: Ok let me know TAT on price for that as well
+[2026-08-15 11:15] Vivek Unban: Bro need login code for the suspended one
+[2026-08-15 11:16] Vivek Unban: Ig
+  ...
+[2026-08-16 01:49] Vivek Unban: Let me check
+[2026-08-17 02:29] DEREK: Update?
+[2026-08-17 02:45] Trevor Morgan: Tomorrow morning my bad
+[2026-08-17 02:51] Vivek Unban: Okay
+[2026-08-17 10:04] DEREK: Vivek Unban
+[2026-08-17 10:04] DEREK: Like this
+  ...
+[2026-08-17 10:05] Vivek Unban: Wait will show you
+[2026-08-18 12:45] Trevor Morgan: https://www.facebook.com/MrLukeStorey/
+      <IMG MISSING non-image: /var/folders/pm/7nf_d_z10432qdgxmv9byh880000gn/T/com.apple.imtranscoding.IMTranscoderAgent/TemporaryItems/67AE04DC-0898-4D42-A46E-3334C60D087D/A387652E-8B87-432D-9647-1B204606994A.pluginPayloadAttachment>
+      <IMG OK non-image: /Users/locklyjailbreak/Library/Messages/Attachments/b7/07/BE70DE77-A2E5-41D4-BD04-BD60EDD68A77/09A91204-D5AB-4253-8446-7B7D15A4575A.pluginPayloadAttachment>
+      <IMG MISSING non-image: >
+[2026-08-18 12:45] Trevor Morgan: Facebook Business Portfolio ID which is: 906466102270062
+[2026-08-18 12:46] Trevor Morgan: ￼
+      <IMG MISSING non-image: /Users/locklyjailbreak/Library/Messages/Attachments/c8/08/DDEE17F9-4FB8-4E6A-917A-485A52B56F4A/URGENT_We_have_completed_a_review_of_your_Business_Account_1.pdf>
+[2026-08-18 12:46] Trevor Morgan: ￼￼￼￼This is a FB ad account got banned. Wondering how much to get it unbanned
+      <IMG MISSING non-image: /Users/locklyjailbreak/Library/Messages/Attachments/73/03/FD607052-90DE-4BB3-AAF0-33AD1F2FECD2/URGENT_We_have_completed_a_review_of_your_Business_Account_1.pdf>
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/b5/05/at_1_97D0E17A-7E88-4A3B-8E76-2F2463879102/Ads1 (1).jpg>
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/b6/06/at_2_97D0E17A-7E88-4A3B-8E76-2F2463879102/Ads2 (1).jpeg>
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/b7/07/at_3_97D0E17A-7E88-4A3B-8E76-2F2463879102/Ads3 (1).jpeg>
+[2026-08-18 12:46] Trevor Morgan: Also I will get on the socialdepot.media email now to get you that code
+  ...
+[2026-08-18 13:39] Vivek Unban: Need a selfie photo and passport photo
+[2026-08-18 13:40] Trevor Morgan: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/d2/02/at_0_279BD1A8-49A0-4F0A-8806-61E959CE65E6/80875321306__9958953A-FBCD-4E7C-8FBA-4B52486E357A.heic>
+[2026-08-18 13:40] Trevor Morgan: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/ed/13/at_0_5929B0ED-44B5-4A0D-B1A9-EB94A1C7D448/IMG_1894.heic>
+[2026-08-18 13:40] Vivek Unban: Another photo
+  ...
+[2026-08-18 13:40] Vivek Unban: Passport
+[2026-08-18 13:41] Trevor Morgan: ￼￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/0b/11/at_0_C701EF7D-B03F-407C-A08F-9A16EFB8AC35/IMG_0974.heic>
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/0c/12/at_1_C701EF7D-B03F-407C-A08F-9A16EFB8AC35/475AE631-A95F-4C47-AA9F-C6A7EBF4B2B4.JPG>
+[2026-08-18 13:44] Vivek Unban: Hey
+  ...
+[2026-08-18 14:00] Trevor Morgan: Okay and when I get the account back is there anything I should be careful about with it
+[2026-08-18 14:00] Vivek Unban: Will update you
+[2026-08-18 14:01] Vivek Unban: Once account back will review it
+  ...
+[2026-08-19 15:45] Vivek Unban: Just monetization and recommendations
+[2026-08-19 21:21] Trevor Morgan: ￼￼@chairblind
+      <IMG OK: /Users/locklyjailbreak/Library/Messages/Attachments/dc/12/at_0_BE47B652-730F-40BB-B080-EF0D4D1A20F8/IMG_7059.JPG>
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/dd/13/at_1_BE47B652-730F-40BB-B080-EF0D4D1A20F8/IMG_2170.PNG>
+[2026-08-19 21:21] Trevor Morgan: IG ban
+[2026-08-19 21:22] Trevor Morgan: Won’t let him login or give the ban reason when he tried
+[2026-08-19 22:49] Vivek Unban: Will check
+[2026-08-20 02:14] Trevor Morgan: Lmk on that one
+[2026-08-20 16:35] Trevor Morgan: Any word on these last few inquiry’s also update on the socialdepot.media account?
+[2026-08-20 16:36] DEREK: Have them login through Safari actually
+[2026-08-20 16:37] Vivek Unban: Derrek
+[2026-08-20 16:37] Vivek Unban: We offer ads unbans also
+[2026-08-20 16:38] Vivek Unban: Derrek will let you know about pricing
+  ...
+[2026-08-22 17:58] Trevor Morgan: The socialdepot.media and those I sent above can we work o then?
+[2026-08-24 19:09] Trevor Morgan: Any updates
+[2026-08-24 22:10] Trevor Morgan: @denmoex
+[2026-08-24 22:10] Trevor Morgan: ￼
+      <IMG OK: /Users/locklyjailbreak/Library/Messages/Attachments/dc/12/at_0_E4EFCC25-1F1C-4DFF-A084-8280A4475323/IMG_9575.png>
+[2026-08-24 22:15] DEREK: Not appealed
+[2026-08-24 22:15] DEREK: ?
+[2026-08-24 22:17] Trevor Morgan: Appealed
+[2026-08-24 22:21] DEREK: $2700
+[2026-08-24 22:21] DEREK: Charge on top with that price
+[2026-08-24 22:21] DEREK: Or $3000+ and we can do a commission
+[2026-08-26 15:59] Trevor Morgan: https://www.loom.com/share/64cd5ad90d9944838fd1395068de10aa
+      <IMG MISSING non-image: /Users/locklyjailbreak/Library/Messages/Attachments/01/01/0081377F-46D6-48DD-854A-1F3CB247049F/3C9D34BB-8889-47A5-B32D-B512869CAF55.pluginPayloadAttachment>
+[2026-08-26 15:59] Trevor Morgan: Let me know pricing
+  ...
+[2026-08-27 12:27] Trevor Morgan: Lmk
+[2026-08-27 16:54] DEREK: Vivek Unban
+[2026-08-27 22:05] Vivek Unban: I reviewed the video a single video restricted Facebook monetization and recommendations
+[2026-08-27 22:08] Trevor Morgan: Okay how much will it cost to fix and what would you need from us
+  ...
+[2026-08-28 13:28] Trevor Morgan: Yo?
+[2026-08-28 13:38] Vivek Unban: Derrek will update in 2 hours
+[2026-08-28 13:38] Vivek Unban: Most probably sleeping rn
+  ...
+[2026-08-28 18:14] Trevor Morgan: Just need pricing and TAT
+[2026-08-28 18:14] Trevor Morgan: Also for the FB monetization unban
+[2026-08-28 18:14] Vivek Unban: Daniel price and tat
+[2026-08-28 18:43] Daniel Veritrade: $300 0-7 days avg 48hrs
+[2026-08-28 18:43] Daniel Veritrade: For this swap case only
+[2026-08-28 18:44] Daniel Veritrade: Usually only deal with high tier users
+[2026-08-28 18:44] Daniel Veritrade: But can get this done
+[2026-08-28 19:01] Trevor Morgan: Okay cool will let you know when I lock it in
+[2026-08-28 19:01] Trevor Morgan: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/ee/14/at_0_D557D160-9CE3-4A7B-AD52-020C19F9E6BE/Screenshot 2026-08-13 at 3.24.43 AM.png>
+[2026-08-28 19:01] Trevor Morgan: https://www.loom.com/share/64cd5ad90d9944838fd1395068de10aa
+      <IMG MISSING non-image: /Users/locklyjailbreak/Library/Messages/Attachments/a8/08/759216AB-FA5E-463E-AB3E-180A4BF84C75/F16DAD36-6D54-45B4-9D55-BA1450054759.pluginPayloadAttachment>
+[2026-08-28 19:01] Trevor Morgan: How about for this Facebook monetization unban ?
+[2026-08-28 19:02] Vivek Unban: I can
+[2026-08-28 19:02] Vivek Unban: Need login credentials to start
+[2026-08-28 19:02] Trevor Morgan: I need a price
+[2026-08-28 19:02] Vivek Unban: Call Derrek
+  ...
+[2026-08-28 19:11] Daniel Veritrade: Same day
+[2026-08-28 19:11] Daniel Veritrade: Have guy $500
+[2026-08-28 19:11] Trevor Morgan: Perfect waiting for it to be confirmed
+[2026-08-28 19:11] Trevor Morgan: The username I want I already have just on a separate account. I just got it early so that no one will take it. I just need to switch it from my other account to my actual one. The one thing is is that my Instagram is verified. I don’t want to lose my verifica…
+[2026-08-28 19:12] Daniel Veritrade: Legacy verified?
+[2026-08-28 19:12] Daniel Veritrade: Or she pays subscription?
+[2026-08-28 19:25] Trevor Morgan: Checking now will lyk
+[2026-08-29 14:56] Trevor Morgan: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/41/01/E784E367-6B21-43B7-A2ED-C92D5F7B6B1F/IMG_5965.png>
+[2026-08-29 14:57] Vivek Unban: Yeah it’s a legacy verified
+[2026-08-29 14:58] Trevor Morgan: Let me know if we can still do the swap
+  ...
+[2026-08-29 14:59] Vivek Unban: Possible but cost is too much
+[2026-08-29 14:59] Trevor Morgan: Ah lmk the price
+[2026-08-29 15:04] Vivek Unban: Through rep possible
+[2026-08-29 15:04] Trevor Morgan: Okay I just need to know how much
+[2026-08-29 16:23] Trevor Morgan: ￼ @bonnielocketcars
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/fe/14/DE3B9464-268A-4FFD-9F31-2E76DA836726/IMG_3124.png>
+[2026-08-29 16:23] Trevor Morgan: Lmk TAT
+[2026-08-29 16:23] Trevor Morgan: Want to get this one pushed asap
+[2026-08-29 16:24] Vivek Unban: It’s disabled
+[2026-08-29 16:24] Trevor Morgan: Can you fix? She appealed it
+[2026-08-29 16:24] Vivek Unban: Instant unban
+[2026-08-29 16:24] Vivek Unban: Price is 3k
+[2026-08-29 16:24] Vivek Unban: Lmk
+[2026-08-29 16:25] Trevor Morgan: Ok and it’ll be done in 24 hours?
+[2026-08-29 16:25] Vivek Unban: Yes
+  ...
+[2026-08-29 16:26] Vivek Unban: Derrek
+[2026-08-31 16:00] Trevor Morgan: What is price on that legacy swap ?
+[2026-09-01 20:04] Trevor Morgan: Any update on that pricing
+[2026-09-01 22:42] Trevor Morgan: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/a2/02/at_0_8B63442F-8713-45DC-BA00-7501117B5D5C/PNG image.png>
+[2026-09-01 22:42] Trevor Morgan: instagram.com/dtc_connects Got banned on the 22nd
+[2026-09-01 22:43] Trevor Morgan: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/fb/11/at_0_F63F4BC8-BAAB-40FB-B933-59D311F235F5/PNG image.png>
+[2026-09-01 22:43] Trevor Morgan: Need unban asap
+[2026-09-02 18:57] Trevor Morgan: Anything on this??
+[2026-09-02 19:15] Vivek Unban: Not yet
+[2026-09-02 19:15] Trevor Morgan: So you can’t do that unban?
+[2026-09-02 19:23] Vivek Unban: Bro everyone is cooked right now
+[2026-09-02 20:20] Trevor Morgan: Can you do facebooks or nah
+[2026-09-02 23:49] Vivek Unban: Can try
+[2026-09-02 23:49] Vivek Unban: But need a call with client
+[2026-09-05 23:53] Trevor Morgan: That Facebook ad unban thing about to go through
+[2026-09-10 20:41] Trevor Morgan: These guys are ready to pay. Can we get this moving asap. Will get logins today
+[2026-09-10 21:16] Trevor Morgan: Derrek lock in boi
+[2026-09-10 21:51] DEREK: Bro, we don’t have Facebook we told you that like three times
+[2026-09-10 21:51] DEREK: Been cooked for a while
+[2026-09-10 21:54] Trevor Morgan: I was told this is possible
+[2026-09-15 08:40] Daniel Veritrade: Hey we can get this done
+[2026-09-15 08:40] Daniel Veritrade: Confirm we’re good to go
+[2026-09-15 08:40] Daniel Veritrade: 3k
+[2026-09-15 11:05] Trevor Morgan: Okay perfect lmk what you need for it
+[2026-09-15 11:32] Vivek Unban: Screenshot
+[2026-09-15 11:32] Daniel Veritrade: We need another screenshot
+[2026-09-15 11:32] Vivek Unban: Connected email
+[2026-09-15 11:45] Trevor Morgan: What do you need a screenshot of
+[2026-09-15 17:07] Daniel Veritrade: ￼Better yet would be like a screen recording of this entire screen. Click the read more about this rule too in the recording
+      <IMG OK: /Users/locklyjailbreak/Library/Messages/Attachments/ed/13/BADFDB3B-F01F-4333-A394-424165F439EA/IMG_7267.jpeg>
+[2026-09-15 17:07] Daniel Veritrade: And then also the connected email to the account
+[2026-09-15 17:23] Trevor Morgan: Ok
+[2026-09-16 16:29] Trevor Morgan: There is not enough info in the screenshare? I’ll get this info today
+[2026-09-16 16:32] Daniel Veritrade: No
+[2026-09-17 14:42] Trevor Morgan: Want me to get you access to the account today so we can knock this out
+[2026-09-17 15:04] Daniel Veritrade: That works
+[2026-09-17 15:06] Trevor Morgan: Okay I’ll get on that today and have logins ready
+[2026-09-17 16:33] Trevor Morgan: jamesmweber@gmail.com 420Maynard?!
+[2026-09-17 16:33] Trevor Morgan: Lmk when you need the second code, please request via phone number
+[2026-09-17 21:25] Trevor Morgan: ?

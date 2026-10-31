@@ -1,0 +1,55 @@
+# May IG unban  [whatsapp #1361 GROUP]
+msgs=48 (in=43 out=5) window=2026-06-19..2026-07-03
+last_client=2026-07-03 (77d ago), last_derrek=2026-06-23 (87d ago)
+LAST MESSAGE FROM CLIENT — UNANSWERED: 'Yo'
+
+  ...
+[2026-06-19 03:36] 3702328922295@lid: {"parent_group_jid":null,"is_initially_empty":false,"auto_add_disabled":true,"should_use_identity_header":true,"reason":0,"show_membership_string":true,"parent_group_name":null,"is_parent_group_general_chat":false,"is_open_group":true,"is_hidden_sub_group":fal…
+[2026-06-19 03:36] 120363429042034412@g.us: 3702328922295@lid
+[2026-06-19 03:36] 3702328922295@lid: Hey @197405874085999 May is also having IG issues
+[2026-06-19 04:03] 197405874085999@lid: hey May
+[2026-06-19 08:16] DEREK: Hey, do you need an unban? Or are you having restrictions on your account of some sort?
+[2026-06-19 14:49] 74874919862469@lid: hello
+[2026-06-19 14:49] 74874919862469@lid: i have been fully disabled
+[2026-06-19 14:49] 74874919862469@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363429042034412@g.us/3/2/3240d3e5-5993-49eb-a1c0-f69acd3a2247.jpg>
+[2026-06-19 14:49] 74874919862469@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363429042034412@g.us/6/4/648495c9-6306-4785-afe8-b0d4d3414517.jpg>
+[2026-06-19 14:50] 74874919862469@lid: it was for integrity or something
+[2026-06-19 16:23] 197405874085999@lid: Hey good morning
+[2026-06-19 16:23] 197405874085999@lid: Send me current screenshot of login please
+  ...
+[2026-06-20 02:25] 197405874085999@lid: send me the login details please and ty
+[2026-06-20 10:24] 74874919862469@lid: 
+      <IMG MISSING non-image: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363429042034412@g.us/a/d/ad634717-71b5-4ff2-b646-6bf24a504d0f.mp4>
+[2026-06-20 10:24] 74874919862469@lid: i can get log ins for you
+[2026-06-20 19:50] DEREK: @197405874085999 do we need
+[2026-06-20 19:50] 197405874085999@lid: Yes
+[2026-06-22 01:22] 197405874085999@lid: hey
+[2026-06-22 01:22] 197405874085999@lid: bumping this
+[2026-06-22 03:41] 74874919862469@lid: maythe1nonly Auxglasshouse2305!
+[2026-06-22 03:41] 74874919862469@lid: do you need email?
+[2026-06-22 03:42] 74874919862469@lid: email is evelynrdecosta@gmail.com
+[2026-06-22 04:05] 197405874085999@lid: code sent to email
+[2026-06-22 04:11] 197405874085999@lid: @74874919862469
+[2026-06-22 10:10] 74874919862469@lid: oh shit ive been out all day
+[2026-06-22 10:10] 74874919862469@lid: just got home i can do this now
+[2026-06-22 10:10] 74874919862469@lid: will a new code be sent ?
+[2026-06-22 10:14] 197405874085999@lid: new code
+[2026-06-22 10:19] 74874919862469@lid: 756662
+[2026-06-22 10:21] 74874919862469@lid: is that all i need to do i’m just bout hop in the shower
+[2026-06-22 10:22] 197405874085999@lid: code is wrongh
+[2026-06-22 16:03] DEREK: h
+[2026-06-22 16:04] 197405874085999@lid: We texted
+[2026-06-22 16:04] 197405874085999@lid: On personal chat
+[2026-06-22 16:04] 197405874085999@lid: She’s perm disabled
+[2026-06-22 16:04] 197405874085999@lid: @74874919862469
+[2026-06-22 16:04] 197405874085999@lid: Can do this 4k
+[2026-06-22 16:10] 197405874085999@lid: LMK
+[2026-06-22 16:10] 197405874085999@lid: SUBMITTING\
+[2026-06-22 16:10] 197405874085999@lid: @74874919862469
+[2026-06-22 22:34] 74874919862469@lid: usd?
+[2026-06-23 00:58] DEREK: Yes
+[2026-06-23 03:50] 74874919862469@lid: okay let me check and get back to you thank you
+[2026-06-23 03:53] 197405874085999@lid: Ok
+[2026-07-03 18:47] 197405874085999@lid: Yo

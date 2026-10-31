@@ -1,0 +1,116 @@
+{
+  "client": "Kaitlynn",
+  "slug": "kaitlynn-x-altr",
+  "status": "active",
+  "status_reason": "Onboarded 2026-08-07; paid her first invoice, praised chat numbers twice, and was still messaging on 8/21 — but four substantive asks (voice memo, call, posting cadence, invoicing cadence) are unanswered and client message volume has fallen every week (9 -> 6 -> 5).",
+  "last_client_message": "2026-08-21",
+  "dimensions": {
+    "responsiveness": {
+      "severity": 2,
+      "internal_failure": "We reply fast to pleasantries (median 0.7h) but never actually answered her four substantive asks — each got a thank-you or a half-reply and then died.",
+      "evidence": [
+        {"quote": "Also if y’all want should I send out a voice memo or cute video being like I’m backkkkk baby blah blah blah", "who": "Kaitlynn Anderson Koda", "date": "2026-08-07"},
+        {"quote": "I will be available anytime after 12:30 Eastern time :)", "who": "Kaitlynn Anderson Koda", "date": "2026-08-14"},
+        {"quote": "For invoicing, is it weekly or bi-weekly typically? - just wondering!", "who": "Kaitlynn Anderson Koda", "date": "2026-08-17"}
+      ]
+    },
+    "follow_through": {
+      "severity": 2,
+      "internal_failure": "Mayson said yes to the call and never proposed a time; Mica promised weekly creative ideas and has not posted since her intro.",
+      "evidence": [
+        {"quote": "Hey Kaitlynn would love to hop on a call yes. Let me know what time works?", "who": "Mayson Chat", "date": "2026-08-14"},
+        {"quote": "And yes", "who": "Mayson Chat", "date": "2026-08-14"},
+        {"quote": "share creative ideas weekly to boost your content + engagement", "who": "Mica Vecco", "date": "2026-08-11"}
+      ]
+    },
+    "proactive_communication": {
+      "severity": 3,
+      "internal_failure": "In 19 days ALTR has never sent an unprompted performance update; the client is the one reporting numbers to us. Her single named milestone — the Aug 19 never-sold content drop — passed with zero mention from anyone before, on, or after the date. Longest team outbound silence: 5 days (8/21 to today); every unprompted message is a templated intro, invoice or brief.",
+      "evidence": [
+        {"quote": "all content uploaded aug 19th is brand new never sold. go crazy!!", "who": "Kaitlynn Anderson Koda", "date": "2026-08-07"},
+        {"quote": "Hi everyone! Great numbers this week. Would love to hop on a call with someone just to discuss a few things.", "who": "Kaitlynn Anderson Koda", "date": "2026-08-14"},
+        {"quote": "Thank you for the update", "who": "Ollie Mckinlay", "date": "2026-08-18"}
+      ]
+    },
+    "onboarding_handoff": {
+      "severity": 2,
+      "internal_failure": "Five separate intro messages but no kickoff call, no chatter FAQ/boundaries form (Mayson's intro here omitted the form other clients get), Mica's Calendly never booked or chased, and the client had to ask who her account manager was on day 2.",
+      "evidence": [
+        {"quote": "Hey Kaitlynn, I’m Mayson nice to meet you!", "who": "Mayson Chat", "date": "2026-08-07"},
+        {"quote": "no worries i unsent, remind me who my account manager is :)", "who": "Kaitlynn Anderson Koda", "date": "2026-08-08"},
+        {"quote": "there you will find my booking link to schedule a 1 on 1 call with me so we can get started on your socials.", "who": "Mica Vecco", "date": "2026-08-11"}
+      ]
+    },
+    "chatter_conduct": {
+      "severity": 1,
+      "internal_failure": "No conduct complaints — she praised chat twice — but chatters are selling with only her one inline brief; we never collected a boundaries/FAQ form from her.",
+      "evidence": [
+        {"quote": "please sell the f*uck out of content, don’t be afraid to be aggressive with selling or pricing, and always be like a gf to them", "who": "Kaitlynn Anderson Koda", "date": "2026-08-07"},
+        {"quote": "Impressed already with chat omg.. thanks guys. Kill it", "who": "Kaitlynn Anderson Koda", "date": "2026-08-07"}
+      ]
+    },
+    "platform_health": {
+      "severity": 0,
+      "internal_failure": "No IG/OF issues raised; Mayson delivered a custom domain unprompted. Note Vivek (Meta support) was never introduced in this group.",
+      "evidence": [
+        {"quote": "this is a custom domain built with the latest technology that will help you from shadow bans or account restrictions related to your link.", "who": "Mayson Chat", "date": "2026-08-14"},
+        {"quote": "Thank you so much for this I was going to request one so I appreciate it 🙏🏼🙏🏼 helps a lot!!", "who": "Kaitlynn Anderson Koda", "date": "2026-08-17"}
+      ]
+    },
+    "billing_ops": {
+      "severity": 2,
+      "internal_failure": "No terms or due date ever stated; her cadence question went unanswered 9 days; she hit wire friction and a $91 shortfall that nobody investigated (Derrek waived it ad hoc); then an owner mis-send into her Invoicing topic left her confused.",
+      "evidence": [
+        {"quote": "The last invoice was paid. Had to jump through a few hoops with the wire transfer. Not sure why. The 91.00$ wasn’t included but I can send that thru Zelle or just with the next wire. 😇", "who": "Kaitlynn Anderson Koda", "date": "2026-08-21"},
+        {"quote": "Kaitlynn hey! Could you clear this up when you had a chance", "who": "Derrek", "date": "2026-08-21"},
+        {"quote": "Did I not message about this today? I’m confused", "who": "Kaitlynn Anderson Koda", "date": "2026-08-21"}
+      ]
+    },
+    "ownership_escalation": {
+      "severity": 2,
+      "internal_failure": "The AM (Ollie) is present only for thank-yous; the call request was fielded by the chat lead and owned by nobody; the Aug 19 drop and the posting-cadence request had no owner.",
+      "evidence": [
+        {"quote": "Myself", "who": "Ollie Mckinlay", "date": "2026-08-08"},
+        {"quote": "would love a couple wall post a day - scheduled out an advance is totally fine - as well as story posts that is actually something that I was gonna talk about on the call💘💘", "who": "Kaitlynn Anderson Koda", "date": "2026-08-14"},
+        {"quote": "Thank you Kaitlynn, very happy to hear that - let’s keep pushing big numbers", "who": "Ollie Mckinlay", "date": "2026-08-17"}
+      ]
+    },
+    "disengagement_detection": {
+      "severity": 2,
+      "internal_failure": "She is agreeable, apologises for her own delays and quietly stops re-asking; client messages have fallen three weeks running and nobody has checked in or closed her open asks. Not yet disengaged, but nobody would notice if she were.",
+      "evidence": [
+        {"quote": "taking notes this week and I’ll circle back while y’all settle in :)", "who": "Kaitlynn Anderson Koda", "date": "2026-08-08"},
+        {"quote": "Hey y’all thank you :) sorry for the delay had a very busy weekend! 🙏🏼", "who": "Kaitlynn Anderson Koda", "date": "2026-08-17"}
+      ]
+    },
+    "security_hygiene": {
+      "severity": 0,
+      "internal_failure": "No credentials posted; banking details kept on the invoice PDF.",
+      "evidence": [
+        {"quote": "Please note all banking info is on the bottom of this document.", "who": "Stephski", "date": "2026-08-15"}
+      ]
+    }
+  },
+  "metrics": {
+    "client_questions_total": 7,
+    "unanswered_over_24h": 4,
+    "max_team_silence_days": 5,
+    "promises_made": 6,
+    "promises_kept": 4,
+    "promises_lapsed": 2,
+    "method": "Manual read of all 53 messages. Questions = distinct client asks (voice memo, AM name, call, posting cadence, invoice cadence, reels clarification, $91 shortfall). Unanswered = no substantive reply within 24h (a thank-you does not count). Team silence = longest gap between consecutive ALTR messages including through 2026-08-26. Promises = explicit commitments by ALTR (Ollie update [mooted], Mica weekly ideas, Mayson call, Michelle reels brief, Stephski invoicing, Derrek $91 waiver)."
+  },
+  "what_client_wanted": [
+    "Aggressive selling with a GF-experience chat style: \"don’t be afraid to be aggressive with selling or pricing, and always be like a gf to them\" (8/7)",
+    "Her Aug 19 never-sold drop pushed hard: \"all content uploaded aug 19th is brand new never sold. go crazy!!\" (8/7)",
+    "A couple of wall posts a day plus stories, scheduled in advance, and a call to discuss it: \"would love a couple wall post a day - scheduled out an advance is totally fine - as well as story posts\" (8/14)",
+    "Predictable billing: \"For invoicing, is it weekly or bi-weekly typically?\" (8/17)"
+  ],
+  "what_worked": [
+    "Chat quality from day one: \"Impressed already with chat omg.. thanks guys. Kill it\" (8/7) and \"really impressed with how well numbers showed out this week !!\" (8/14)",
+    "Mayson's unprompted kaitlynn.vip domain: \"Thank you so much for this I was going to request one so I appreciate it\" (8/17)",
+    "Michelle's reels brief with a 4-minute clarification reply converted into a client commitment: \"on my next content weekend I’ll try and bulk some\" (8/17)",
+    "Derrek waiving the $91 shortfall as a \"coupon for being such a great new client\": \"lmao I’ll accept 😂😇\" (8/21)"
+  ],
+  "top_fix": "Make the AM send a short weekly numbers + what-shipped update every Friday and keep a per-client open-asks list with an owner — the call, the posting cadence, the voice memo and the invoicing question all died because nobody owned the reply, and the Aug 19 drop she circled on day one got no mention at all."
+}

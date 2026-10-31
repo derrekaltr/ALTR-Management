@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
+<title>Mayson — Weekly Summary 2026-09-18</title>
+<style>
+:root {
+  color-scheme: light;
+  --page: #f9f9f7; --surface: #fcfcfb;
+  --ink: #0b0b0b; --ink-2: #52514e; --muted: #898781;
+  --grid: #e1e0d9; --baseline: #c3c2b7; --ring: rgba(11,11,11,0.10);
+  --series-1: #2a78d6;
+  --good: #0ca30c; --warning: #fab219; --serious: #ec835a;
+  --delta-good: #006300;
+  --good-bg: rgba(12,163,12,.10); --warning-bg: rgba(250,178,25,.14); --serious-bg: rgba(236,131,90,.14);
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: dark;
+    --page: #0d0d0d; --surface: #1a1a19;
+    --ink: #ffffff; --ink-2: #c3c2b7; --grid: #2c2c2a; --baseline: #383835;
+    --ring: rgba(255,255,255,0.10); --series-1: #3987e5; --delta-good: #0ca30c;
+  }
+}
+@media print { :root { color-scheme: light; --page: #ffffff; --surface: #ffffff; } }
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--page); color: var(--ink); font: 15px/1.55 system-ui, -apple-system, "Segoe UI", sans-serif; }
+.wrap { max-width: 760px; margin: 0 auto; padding: 32px 24px 64px; }
+.card { background: var(--surface); border: 1px solid var(--ring); border-radius: 12px; padding: 24px 26px; }
+h1 { font-size: 21px; margin: 0; display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+.sub { color: var(--ink-2); margin: 2px 0 16px; }
+.badge { display: inline-flex; align-items: center; gap: 5px; font-size: 12.5px; font-weight: 600; padding: 2px 9px; border-radius: 999px; border: 1px solid var(--ring); }
+.badge.good { background: var(--good-bg); } .badge.warning { background: var(--warning-bg); } .badge.serious { background: var(--serious-bg); }
+.dot { width: 8px; height: 8px; border-radius: 50%; display: inline-block; }
+.dot.good { background: var(--good); } .dot.warning { background: var(--warning); } .dot.serious { background: var(--serious); }
+.pill { font-size: 12px; border: 1px solid var(--ring); border-radius: 999px; padding: 1px 8px; color: var(--ink-2); }
+h2 { font-size: 13px; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); margin: 22px 0 8px; }
+table { width: 100%; border-collapse: collapse; font-size: 13.5px; }
+th { text-align: left; color: var(--muted); font-weight: 600; font-size: 12px; padding: 4px 8px 4px 0; border-bottom: 1px solid var(--grid); }
+td { padding: 6px 8px 6px 0; border-bottom: 1px solid var(--grid); vertical-align: top; font-variant-numeric: tabular-nums; }
+ul { margin: 0; padding-left: 20px; } li { margin: 5px 0; }
+.strength::marker { content: "✓  "; } .strength { color: var(--ink-2); }
+.flag::marker { content: "⚠  "; } .flag { color: var(--ink-2); }
+blockquote { margin: 8px 0 0; padding: 6px 12px; border-left: 3px solid var(--baseline); color: var(--ink-2); font-size: 13.5px; }
+.q-meta { color: var(--muted); font-size: 12px; }
+footer { color: var(--muted); font-size: 12.5px; margin-top: 20px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+<div class="card">
+  <h1>Mayson
+    <span class="pill">Chatter (queue account)</span>
+    
+    <span class="badge serious"><span class="dot serious"></span>76 open items</span>
+  </h1>
+  <div class="sub">ALTR weekly summary · week ending 2026-09-18</div>
+
+  <p>The most active person on the roster and the one carrying the most risk. Mayson appears in all 14 active client chats, routes escalations nobody else routes, and is repeatedly described by the client analysts as the only reason some accounts get answered at all. But he closed zero commitments this week against 32 overdue, and two patterns turned harmful. First, he ran an uncoordinated Facebook-access campaign: the identical message &#39;do you have a facebook account available to use?&#39; went to at least six clients on 2026-09-16 alone, including one two days after she warned she might leave, one 21 days post-surgery, and one who had already given ALTR that access in June. Second, and more seriously, he solicited live credentials and 2FA codes directly in group chats that contain outsourced vendor accounts. In Sarah Lloyd&#39;s chat he asked for a Snapchat 2FA code 3 hours 48 minutes after Mica posted a security advisory into that same thread telling the client never to send codes to anyone, including ALTR. He is not the cause of the credential policy gap, but he is its most frequent trigger, and that needs to stop this week.</p>
+
+  
+  <h2>By client</h2>
+  <table>
+    <thead><tr><th>Client</th><th>Reminders</th><th>Complaints</th><th>Commitments</th><th>Notes</th></tr></thead>
+    <tbody>
+    
+      <tr><td>Alanna</td><td>1</td><td>1</td>
+          <td>0 kept / 3 overdue</td>
+          <td style="font-size:12.5px">reminded: Asking for a Facebook account login — the client answered in 22 seconds and the follow-up ask has sat dead for 2 days; his fourth simultaneously orphaned request | [recurring] Delivered assets still producing nothing — alannasworld.vip unused at 35 days, and Mayson&#39;s 8/27 question about why was never answered or re-asked in 22 days | [pending] Close the Facebook login request — she answered in 22 seconds on 9/16 and the follow-up has sat for 2 days | [overdue] Get the @alannapow Instagram login credentials so the team can post on her second account | [overdue] Book or formally drop the trial-reels call requested for Monday 9/7 — 11 days past its own date, never re-asked | [overdue] Get an answer on why alannasworld.vip is unused, or retire the asset</td></tr>
+    
+      <tr><td>Alex Paige Moore</td><td>1</td><td>3</td>
+          <td>0 kept / 4 overdue</td>
+          <td style="font-size:12.5px">reminded: A brand-new platform demand — asking a 21-days-post-surgical client to hand over a Facebook account, with no context, no explanation of what it is for, and no reference to anything outstanding. It was his only message of the week. He did not chase the trial-reels strategy call he offered on Sep 4 (14 days dead, 11 days past the proposed Monday), did not follow up the 30-reels-a-month quota he imposed on Aug 30 (19 days), and did not mention the alexpaige.vip link-preview image he promised on 2026-07-26 with &#39;Yes 100%&#39; (54 days). She never answered the Facebook question; she resigned the next day. | [recurring] Persistently low OF earnings, asked at least five times since January and never once answered in writing — 248 days since her first ask, 177 days since Derrek promised a &#39;gameplan&#39; on 2026-03-25, 82 days since she last asked. The surgery-driven September dip was structurally certain and was never sized, never forecast and never discussed with her. The Aug 15-31 invoice total was never stated; the Sep 1-14 invoice total was never stated. She asked five times how to make more money on a platform she was paying ALTR a percentage of, and the file contains no written ans</td></tr>
+    
+      <tr><td>Amber Haze</td><td>11</td><td>3</td>
+          <td>0 kept / 4 overdue</td>
+          <td style="font-size:12.5px">reminded: A substantive answer to her 2026-09-02 Instagram-management complaint and staffing request: real numbers for @hazeyamberr and @amberhazey_, a named editor with a start date, and a decision on the 30-reels-a-month quota she refused. Sixteen days unanswered. The only thing that happened this window was a bare Google Meet link posted on Sept 11 with no message attached; she never responded and nobody followed up. Second consecutive call on this account to leave no outcome in the chat. | reminded: Proof and figures for the Facebook advertising. NEW CHASE IN WINDOW and the most important new event of the week: on 2026-09-15 she asked for &#39;updates and proof&#39; and said she feels &#39;none has been done for ages&#39;. Three days with no reply from anyone. The campaign she requested herself on Aug 20 and that Mayson announced on Aug 21 is 28 days old with zero data ever attached. | reminded: Mirroring her Instagram block list from her main account onto the two management-run accounts. First asked 2026-05-10 and flagged by her as &#39;very important&#39;. 131 days — the oldest unactioned item on the account. Not mentioned by anyone on either side in this window. | [recurring] NEW THIS WINDOW AND TH</td></tr>
+    
+      <tr><td>Barbara</td><td>3</td><td>5</td>
+          <td>0 kept / 6 overdue</td>
+          <td style="font-size:12.5px">reminded: The Instagram/traffic answer and the plan Barbara has now asked for three times (Aug 24, Sep 10 via his own question back to her, Sep 14). He committed to a call on Sep 15 within 38 minutes of her retention warning — the fastest response of the window — and there is no evidence in the chat that it took place, no plan was posted afterwards, and her numbers question is now 25 days old since the Aug 24 escalation and 46 days old since the issue was first raised. His next substantive message to her, the following morning, opened a new workstream instead: a Facebook account. | [new] EXPLICIT RETENTION WARNING — the client told ALTR in writing that the current situation is not sustainable for her, and it has not been answered. On Sep 14, prompted by being asked to withdraw funds for her invoice, she checked her own numbers, posted two screenshots and wrote a measured, non-angry churn message naming exactly what she needs. Mayson offered a call for Sep 15 within 38 minutes. There is no message anywhere in the chat confirming the call happened, no plan was posted, no numbers were ever provided, and the next thing she was asked for was a new Facebook account. Four days later this </td></tr>
+    
+      <tr><td>Haileigh Cox</td><td>2</td><td>2</td>
+          <td>0 kept / 4 overdue</td>
+          <td style="font-size:12.5px">reminded: Facebook access and login credentials. She answered the first question in four and a half hours; the login request is 33 hours unanswered at window end. Two problems with this ask. First, she was offered Facebook management by Sophie Logan on 9/17/25 and 9/18/25 and by Mica on 9/19/25 and 9/23/25, and she DECLINED it on 9/25/25 - 358 days ago - saying she runs it herself and it works. Nobody at ALTR carries that memory, so she is being asked to re-litigate a decision she already made, on the one channel she has told ALTR is her best traffic source. Second, this is ALTR asking a security-anxious client for a login in the same week Mica told her not to share credentials, and in the same 51-day span in which nobody has asked her for the Instagram login needed to investigate her own shadowban. | [recurring] The .vip custom domains ALTR built restricted two of her Instagram accounts and have never been fixed or formally retired - 97 days. Mayson pitched haleighsworld.vip on 6/11 as protection from shadow bans; she asked point-blank whether it would disable her account, citing her main&#39;s prior permanent disable; he said it was safe; she put it live on 6/13 and within hours repo</td></tr>
+    
+      <tr><td>Lauren Blake</td><td>0</td><td>2</td>
+          <td>1 kept / 1 overdue</td>
+          <td style="font-size:12.5px">[new] NEW AND URGENT - credential exposure. On Sep 11 Lauren posted her Instagram login (&#34;Login:\nLaurenblakeluxe\n[REDACTED-PASSWORD]&#34;) and her Snapchat login (&#34;Snapchat login:\n[REDACTED-RECOVERY-EMAIL]\n[REDACTED-PASSWORD]&#34;) as plaintext messages in this group chat, then relayed two 2FA codes in plaintext on Sep 12 and Sep 13. The same password is reused across both accounts. She did this because ALTR asked - Mayson wrote &#34;Direct login would work too&#34; on Sep 11 and &#34;And login for snapchat&#34; on Sep 12 - and nobody on the team redirected her to a private channel or a password manager. This chat has open membership churn: someone was added on Sep 10 and someone was removed and re-added on Sep 17 at 22:44 and 22:45. Anyone in the group at any point can scroll back to live credentials for the accounts ALTR&#39;s entire IG traffic strategy depends on. The irony is on the record: Mica Vecco&#39;s Sep 17 security advisory tells her &#34;Please do not send your backup codes to anyone, including our team&#34; - six days after the team collected her passwords in the open. | [recurring] Internal account confusion, fourth documented instance - this time ALTR did not know which Instagram account was its own. On Sep 11 Mayson sent a scre</td></tr>
+    
+      <tr><td>Lauryn</td><td>0</td><td>1</td>
+          <td>0 kept</td>
+          <td style="font-size:12.5px">[recurring] The content-Drive brief is still unexplained, still self-contradictory, and this window it was SILENTLY DROPPED. Nineteen days after Mayson demanded &#39;7 reels a week so 30 in total per month&#39; (2026-08-30) and answered her question with &#39;No separate instagram account!&#39;, and eight days after Michelle chased her for content for &#39;the management ran Instagram Reels account&#39; (2026-09-10), not one person mentioned it again. Nothing has been uploaded, nobody re-briefed it, nobody withdrew it. So the record now reads: we asked a paying client for thirty pieces of unpaid content a month, gave her two contradictory explanations from two different employees, chased her for not delivering, and then stopped talking about it. Same failure pattern as 2025-10-09 (folder videos vs reel inspo) and 2026-06-12 (lasworld.vip vs her existing juicy.bio link). Mayson&#39;s 2026-09-17 custom ask - &#39;Were you able to do this custom?&#39; with a bare spreadsheet link referring to nothing she has ever been sent in this chat - is the same failure again, four days old. | [pending] Re-brief in one paragraph, from one named owner, what the content Drive and the &#39;7 reels a week so 30 in total per month&#39; quota are</td></tr>
+    
+      <tr><td>Lilia</td><td>2</td><td>0</td>
+          <td>0 kept / 3 overdue</td>
+          <td style="font-size:12.5px">reminded: ALTR is asking her for more logins while the one she already promised is stuck and nobody offers to help. She told him on Sep 16 she could not figure out the Instagram login; his entire response over the next 17 hours was &#39;Okay thanks&#39; and &#39;And the facebook&#39; | [overdue] Help her actually hand over the management IG account login she promised on Sep 10. She said on Sep 16 she is stuck (&#39;need to figure it out&#39;) and got no offer of help. The Drive is 98 days old with zero files in it and the account is meant to go live &#39;in a few days&#39; as of Sep 10 | [overdue] Post a written recap of the Sep 8 trial-reels call - what the new posting feature is, what she has to do, by when. Ten days on, nothing has been written into the chat. On this client, verbally-conveyed workstreams go 98 days without landing | [overdue] Reconcile Mayson&#39;s Aug 30 content-drive instruction (upload everything unposted, then 7 reels a week / 30 a month into the New Content folder) with the high-spender OF folder workflow she already runs herself. Nineteen days, never acknowledged by her, and she is now being asked for a third channel (Facebook) on top</td></tr>
+    
+      <tr><td>Liza Kovalenko</td><td>8</td><td>3</td>
+          <td>0 kept / 2 overdue</td>
+          <td style="font-size:12.5px">reminded: Mayson escalating to other ALTR staff on the client&#39;s behalf. Fourth time in 16 days. On 09-14 he tagged Stephski 39 minutes after Liza reported a wire, before she had chased anything. He is still the only routing mechanism on this account, and the account still depends on a chatter noticing. | reminded: ALTR chasing the client and getting nothing back. Four separate ALTR questions went completely unanswered this window while she answered every billing message within an hour. This is the clearest disengagement signal on the account and it is invisible from the billing thread. | [new] CLIENT HAS NARROWED TO BILLING-ONLY AND IS NOT ANSWERING ALTR. All nine of Liza&#39;s messages this window are in the Invoicing thread. She answered every money message within the hour and ignored four consecutive service messages: Michelle&#39;s content chase (09-10, 8 days), Michelle&#39;s password question (09-12, 6 days), Mica&#39;s reel inspo (09-15, the sixth consecutive drop with zero client response - 06-09, 07-10, 07-29, 08-13, 08-31, 09-15) and Mayson&#39;s Facebook question (09-16, 2 days). Her tone stayed warm and she volunteered praise, which masks it. A client who pays instantly and engages with no</td></tr>
+    
+      <tr><td>Mila</td><td>1</td><td>0</td>
+          <td>0 kept / 2 overdue</td>
+          <td style="font-size:12.5px">reminded: A third consecutive ask opened without closing either of the previous two — asked for a Facebook account while the call she already accepted stays unbooked and crystalmila.vip stays unexplained | [overdue] Book and run the trial-reels feature call Mayson proposed. He offered a call &#39;on Monday&#39; on Sep 4, Callie agreed on Sep 6, he asked her to name a time early on Sep 7 — and eleven days after that Monday there is still no booking link, no proposed slots and no further mention of it. He wrote in the chat twice this window (Sep 16, Sep 18) and raised neither the call nor an alternative. | [overdue] Explain what &#39;crystalmila.vip&#39; is. Mayson dropped the bare domain into the OnlyFans topic at 02:53 on Aug 23 with no context. Twenty-six days on there is still no explanation and no client reply, and he has now written four times since (Sep 4, Sep 7, Sep 16, Sep 18) without ever addressing it. If it is a live VIP or free page it is a launch the client was never told about.</td></tr>
+    
+      <tr><td>Sarah</td><td>2</td><td>3</td>
+          <td>0 kept / 2 overdue</td>
+          <td style="font-size:12.5px">reminded: An urgent, out-of-hours request for help that went unanswered for four and a half hours and was then answered pointlessly. At 00:40 on Sep 13 she asked &#39;Hey Mason are you up?&#39; and a minute later escalated to the whole room: &#39;Or anyone that can help me lol, I have a video call in an hour and a half and I’m stressed bc I have no idea what to do😂😭&#39;. Nobody in a nineteen-participant chat replied. Mayson answered at 05:10 — four hours and thirty minutes later, roughly three hours after the call had already happened — with &#39;I’m awake now Sarah !!&#39;. She never mentioned the call again and nobody has ever asked her how it went or what it was. This is the same client who has repeatedly offered to take 4-5am Perth calls to accommodate ALTR&#39;s hours. | [new] NEW — she asked for urgent help before a video call and got nothing for four and a half hours. At 00:40 on Sep 13 she wrote &#39;Hey Mason are you up?&#39; and at 00:41 escalated to the room: &#39;Or anyone that can help me lol, I have a video call in an hour and a half and I’m stressed bc I have no idea what to do😂😭&#39;. Nineteen participants, zero replies. Mayson answered at 05:10 with &#39;I’m awake now Sarah !!&#39; — roughly three hours after the c</td></tr>
+    
+      <tr><td>Sarah Lloyd</td><td>6</td><td>1</td>
+          <td>0 kept / 3 overdue</td>
+          <td style="font-size:12.5px">reminded: THE CREDENTIAL ASKS. He is the most present ALTR person on this account — 24 of our 36 messages this week — and almost every one of them was a request for something from her, including five live credentials. On 09-10 he told her &#39;Okay great, just asked the team tho so will let you know&#39; about a proper Snapchat access route; that answer never came. Instead, at 17:58 on 09-11 he opened with &#39;Hey @sarahlloydd did you get the password?&#39; and she posted her Snapchat login in plaintext into the group chat. His reply was &#39;Perfect we&#39;ll try!!&#39; — no correction, no warning, no move to DM. He then asked for a Facebook login on 09-16 without ever saying what it was for (she asked &#39;Yes sure what for?&#39; and got &#39;One not connected to instagram&#39;), and asked for live 2FA codes twice, the first of them three hours and forty-eight minutes after Mica told her in this same chat not to send codes to anyone including our team. | reminded: The Monday trial-reels call, now fourteen days dead. He proposed it on 09-04, she accepted in 96 seconds and gave a twelve-hour availability window, he said &#39;Okay great!!&#39; on 09-05 and never proposed a time. Monday 09-07 passed. It has not been mentioned once si</td></tr>
+    
+      <tr><td>Shayna</td><td>0</td><td>1</td>
+          <td>0 kept / 1 overdue</td>
+          <td style="font-size:12.5px">[recurring] ALTR keeps asking her for things it already has, and the client&#39;s open questions keep piling up. On 9/16 Mayson asked &#39;Hey Shayna do you have a facebook account available to use?&#39; — she handed Mica her Facebook login on 2026-06-02 (&#39;Pass is [REDACTED-PASSWORD]&#39;) and Mica said she would grant access herself. Unanswered at window close. Still unanswered from prior windows: Mayson&#39;s @itsshaynaholt credentials request (21 days), his 9/9 Snapchat question (9 days), and his 9/16 Facebook question. Fred&#39;s own 9/17 question about what to tell VIP DEE was also left hanging when she went offline at the festival. | [overdue] Schedule and actually hold the monthly check-in call | [pending] Close out the social-account asks: @itsshaynaholt Instagram credentials (8/28), the Snapchat question (9/9) and the Facebook question (9/16) — and stop re-asking for the Facebook access she already handed over on 6/2</td></tr>
+    
+      <tr><td>Vale</td><td>4</td><td>1</td>
+          <td>0 kept / 2 overdue</td>
+          <td style="font-size:12.5px">reminded: Chasing the client for her deliverables while leaving her direct questions unanswered. He chased the Snapchat upload three times in 48 hours until Vale apologised for the delay, and then opened a Facebook request on Sep 16 — all while her Sep 10 questions (&#39;I have my personal and an of one&#39; / &#39;What’s its for ?&#39;) remain unanswered at 8 days. | [recurring] ALTR keeps opening new workstreams and asking the client for new assets while closing nothing old — and this week the direction of the chasing reversed. Mayson pressed Vale for the Snapchat upload on Sep 11, Sep 12 and Sep 13 until she apologised (&#39;No my bad will do today&#39;), then asked for a Facebook account on Sep 16. That is a third access request in eight days, while her own Sep 10 questions — which of her two Snapchat accounts, and what the team will do there — are 8 days unanswered, her Jul 28 &#39;Should I change my password?&#39; is 52 days unanswered, the Infloww unauthorized-access enquiry from the same day has never been closed, and the sexting-set template and content request promised &#39;in the morning&#39; on Jul 28 are 52 days late. | [overdue] Tell Vale which of her two Snapchat accounts the posting team needs admin on, a</td></tr>
+    
+    </tbody>
+  </table>
+  
+
+  
+  <h2>What went well</h2>
+  <ul><li class="strength">Present in all 14 active chats and the single most responsive ALTR voice on Sarah Lloyd, Lauren Blake and Vale; the analysts for those accounts independently called him &#39;the engine&#39; and &#39;the best worker on the account&#39;.</li><li class="strength">Does the internal escalation work nobody else does — four escalations on Liza&#39;s behalf in 16 days, one of them pre-emptive, and he chased Vivek on Barbara&#39;s account twice in twenty minutes.</li><li class="strength">Fast and warm when he does engage: Barbara got a call offer within 38 minutes of her retention warning.</li></ul>
+  
+
+  
+  <h2>Focus areas this week</h2>
+  <ul><li class="flag">CREDENTIAL SOLICITATION — the priority item. Asked for and received passwords and live 2FA codes in group chats across Sarah Lloyd, Lauren Blake, Sarah and Haileigh. Must move to role-based access and 1:1 channels immediately.</li><li class="flag">Opens workstreams and never closes them: the &#39;trial reels&#39; call was offered to at least seven clients and held with none of them, in several cases 11-14 days past its own proposed date.</li><li class="flag">The 2026-09-16 Facebook campaign went to six clients with no context, no stated purpose, and no coordination against access ALTR already held.</li><li class="flag">Asks clients for new assets while their own direct questions sit unanswered — explicit in Vale, Lilia, Shayna and Sarah Lloyd.</li><li class="flag">Zero commitments closed this week against 32 overdue.</li></ul>
+  
+
+  
+  <blockquote>“Hey @alannaapow do you have a facebook account available to use?” <span class="q-meta">— Alanna, 2026-09-16</span></blockquote>
+  
+  <blockquote>“Hey @sarahlloydd did you get the password?” <span class="q-meta">— Sarah Lloyd, 2026-09-11</span></blockquote>
+  
+  <blockquote>“Hey Mason are you up?” <span class="q-meta">— Sarah, 2026-09-13</span></blockquote>
+  
+  <blockquote>“Are you able to share us the login info so we can start posting Haleigh” <span class="q-meta">— Haileigh Cox, 2026-09-17</span></blockquote>
+  
+</div>
+<footer>Generated by ALTR client-chat reporting · confidential — for Mayson and management.</footer>
+</div>
+</body>
+</html>

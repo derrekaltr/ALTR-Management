@@ -1,0 +1,63 @@
+# Unbans 2.2k 7 Day TAT  [whatsapp #1329 GROUP]
+msgs=62 (in=54 out=8) window=2026-06-12..2026-06-16
+last_client=2026-06-16 (94d ago), last_derrek=2026-06-15 (95d ago)
+LAST MESSAGE FROM CLIENT — UNANSWERED: 'Yupp'
+
+  ...
+[2026-06-12 09:05] 120363428471948651@g.us: {"is_initially_empty":false,"subject":"Unbans 2.2k 7 Day TAT","should_use_identity_header":true,"auto_add_disabled":true,"parent_group_jid":null,"show_membership_string":true,"context_group":null,"author":"65300816998597@lid","is_open_group":true,"is_hidden_su…
+[2026-06-12 09:06] DEREK: Kartik this is Preet I’ve used him for years
+[2026-06-12 09:06] DEREK: Preet this is my partner kartik
+[2026-06-12 09:06] DEREK: He has cheaper portal options for unbans 100% success but 1-7 day TAT 2.2k any followers
+[2026-06-12 09:12] 96117777760289@lid: @197405874085999
+[2026-06-12 09:12] 96117777760289@lid: Abe
+[2026-06-12 09:12] 96117777760289@lid: Tu
+[2026-06-12 09:12] 96117777760289@lid: Yha
+[2026-06-12 09:12] 96117777760289@lid: 😭😭😭
+[2026-06-12 09:12] 96117777760289@lid: Tera itna budget kabb se huaa bhai
+[2026-06-12 09:12] 96117777760289@lid: @65300816998597 he is my friend kartik
+[2026-06-12 09:15] DEREK: Hahahah
+  ...
+[2026-06-12 09:16] 197405874085999@lid: thas my dawg
+[2026-06-12 09:19] DEREK: We should offer this to everyone who didn’t want to pay high
+[2026-06-12 09:28] 197405874085999@lid: yessir
+[2026-06-12 09:29] 197405874085999@lid: im gonna get back to all who didnt reach back after we quoted them
+[2026-06-12 09:29] 197405874085999@lid: derrek u free for call in a bit
+[2026-06-12 09:29] DEREK: Yes
+[2026-06-12 11:33] 197405874085999@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363428471948651@g.us/f/a/faca3347-daf4-4e8d-a618-79933ebe6485.jpg>
+[2026-06-12 11:33] 197405874085999@lid: here's your first case @96117777760289
+[2026-06-12 12:02] 96117777760289@lid: 950k
+[2026-06-12 12:02] 96117777760289@lid: Connected email
+  ...
+[2026-06-15 20:01] 197405874085999@lid: if youre going to be lazy and not inform us
+[2026-06-15 20:01] 197405874085999@lid: im not sending you more cases
+[2026-06-15 20:01] 197405874085999@lid: @65300816998597
+[2026-06-15 20:05] DEREK: ??
+[2026-06-15 20:05] 197405874085999@lid: gave him this to submit
+[2026-06-15 20:05] 197405874085999@lid: havent heard
+[2026-06-15 20:06] 197405874085999@lid: been 4 days today
+[2026-06-16 06:08] 96117777760289@lid: Yooo
+[2026-06-16 06:08] 96117777760289@lid: Yupp
+[2026-06-16 06:09] 197405874085999@lid: U submitted this correct
+[2026-06-16 06:09] 96117777760289@lid: Yaaa
+[2026-06-16 14:29] 197405874085999@lid: yo
+[2026-06-16 14:30] 96117777760289@lid: Yesss
+[2026-06-16 14:30] 96117777760289@lid: I submitted
+[2026-06-16 14:30] 96117777760289@lid: It
+[2026-06-16 14:30] 96117777760289@lid: And its 4/5th day
+[2026-06-16 14:31] 197405874085999@lid: high priority client
+[2026-06-16 14:31] 96117777760289@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363428471948651@g.us/7/a/7ab81a3e-aaa2-495e-9f04-d336f7f01f6e.webp>
+[2026-06-16 14:31] 197405874085999@lid: need this back bro ]
+[2026-06-16 14:31] 197405874085999@lid: dont fail please she is texting us every day
+[2026-06-16 14:31] 96117777760289@lid: Ik i have cases paying me 5k EURO per unban But it all depends on meta portal it self
+[2026-06-16 14:32] 96117777760289@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363428471948651@g.us/a/2/a281a74e-f2c6-47b5-a7f1-d9e8bf2a6335.jpg>
+[2026-06-16 14:32] 197405874085999@lid: bro idc how many cases u have we have 80 cases pending
+[2026-06-16 14:32] 96117777760289@lid: And i submitted your case in priority also
+[2026-06-16 14:32] 197405874085999@lid: do this if u want more please
+[2026-06-16 14:32] 96117777760289@lid: And you can find out any where on any forum no one doing unbans
+[2026-06-16 14:35] 197405874085999@lid: doesnt matter bro
+[2026-06-16 14:35] 197405874085999@lid: thats why we gave u this
+[2026-06-16 14:35] 197405874085999@lid: please deliver
+[2026-06-16 14:35] 96117777760289@lid: Yupp

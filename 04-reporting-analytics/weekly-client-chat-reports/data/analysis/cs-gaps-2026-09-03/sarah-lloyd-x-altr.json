@@ -1,0 +1,121 @@
+{
+  "client": "Sarah Lloyd",
+  "slug": "sarah-lloyd-x-altr",
+  "status": "at_risk",
+  "status_reason": "Still paying (7/7 cycles) and investing more (Chaturbate funnel, weekly uploads), but health has slid 68->42, she delivered a verdict on the core chat service on 08-24, and since 08-26 she has gone silent on chat quality entirely - on this account silence on a topic has preceded every escalation. Last client message 2026-09-01 (an invoicing question).",
+  "last_client_message": "2026-09-01",
+  "dimensions": {
+    "responsiveness": {
+      "severity": 3,
+      "internal_failure": "Chat-team issues routinely need 2-6 client nudges plus a Mayson '@natehei ^^' relay before anyone answers; several direct questions sat >24h, including a payment-blocking one on the Sept 1 invoice (36h).",
+      "evidence": [
+        {"quote": "Hey! Any confirmation that this has been seen pls?? @natehei @roflo1424", "who": "Sarah Lloyd", "date": "2026-07-17"},
+        {"quote": "Thanks, pls make sure they actually fix it this time too :) makes me feel lowkey crazy having to ask the same thing every day", "who": "Sarah Lloyd", "date": "2026-07-14"},
+        {"quote": "Thanks! Am I able to still send it to this account?", "who": "Sarah Lloyd (asked 09-01 22:14, answered by Stephski 09-03 10:38 - ~36h on a payment-blocking question)", "date": "2026-09-01"}
+      ]
+    },
+    "follow_through": {
+      "severity": 3,
+      "internal_failure": "Promises are made verbally and never confirmed done in writing; the 08-20 whale-monitoring promise failed publicly twice within 48h, the Aug 25 call produced no write-up, and the Phone Farm 'updates starting next week' is 33 days silent.",
+      "evidence": [
+        {"quote": "I’ll make sure to monitor him very closely so we can be sure to bring him back!", "who": "Nate (Noah) - whale then ignored all day on both 08-24 and 08-25", "date": "2026-08-20"},
+        {"quote": "Thank you for your understanding, we will have plenty of updates starting next week.", "who": "Derrek ($40k Phone Farm - zero updates since)", "date": "2026-08-01"},
+        {"quote": "Wait i will explain", "who": "Vivek (the IG 20M->4M explanation never came)", "date": "2026-08-08"}
+      ]
+    },
+    "proactive_communication": {
+      "severity": 2,
+      "internal_failure": "No revenue/chat stats have ever been sent unprompted - the first performance stat in 11 weeks came only under pressure on 08-25; the client monitors her own queue and stats daily. Michelle's weekly DMCA report is the lone consistent unprompted report. Longest all-team outbound silence: 4.8 days.",
+      "evidence": [
+        {"quote": "and let me know how the new release PPV goes", "who": "Sarah Lloyd (results never reported; livestream results 08-07/08-15 also never reported)", "date": "2026-06-12"},
+        {"quote": "Believe it or not ... More whales / bigger spender made in 2-3 months then Jan-may combined", "who": "Noah Chat (first stat ever shared, offered only mid-escalation)", "date": "2026-08-25"},
+        {"quote": "Hi love! Here’s your weekly update on the leak removal breakdown for the past 7 days", "who": "Michelle Queue (the one reliable unprompted report)", "date": "2026-09-01"}
+      ]
+    },
+    "onboarding_handoff": {
+      "severity": 2,
+      "internal_failure": "Onboarding-form instructions (no pre-Oct-2025 content, protect the whale) never reached the chat floor before go-live - the biggest whale was mishandled on night one; the vendor chat team then went silent after 06-15 with no explained handoff to ALTR AMs.",
+      "evidence": [
+        {"quote": "And guys I said so many times on onboarding forms to not send old tapes from before October!!", "who": "Sarah Lloyd (first night of chatting)", "date": "2026-06-09"},
+        {"quote": "yes please! Thanks, can’t afford to lose my biggest whale straight away because of the most basic reasons", "who": "Sarah Lloyd", "date": "2026-06-09"},
+        {"quote": "Hi Sarah, Nate here. Ronnie and I are the AMs for your chat team!", "who": "Nate (Noah) - vendor staff (Masa/Vladan/Maciej/Day) stopped posting days later with no explanation to the client", "date": "2026-06-15"}
+      ]
+    },
+    "chatter_conduct": {
+      "severity": 3,
+      "internal_failure": "Repeated wrong-content sends (BG mass-sent to the $25k whale on 06-09 AND 08-20, custom as PPV, pre-Oct content, GGG for BGG), sales-push-first chatting on new subs' first interaction, and top spenders ignored for whole days.",
+      "evidence": [
+        {"quote": "Guysss this is my biggest whale!! Ive asked so many times no BG! You’ll have lost him because of this, really upset", "who": "Sarah Lloyd", "date": "2026-08-20"},
+        {"quote": "why would they say nope to content i have ... that was the subs first interaction with me", "who": "Sarah Lloyd", "date": "2026-08-24"},
+        {"quote": "its just really frustrating seeing no whales long-term being built, my top spenders being ignored and in general no actual chatting but just MM bumps", "who": "Sarah Lloyd", "date": "2026-08-24"}
+      ]
+    },
+    "platform_health": {
+      "severity": 3,
+      "internal_failure": "Meta issues have no owner cadence: 18 days to get her a Meta rep, the FB non-recommendable/IG reach collapse (20M->4M) still unexplained 8 weeks on, and the $40k Phone Farm has had zero promised updates in 33 days. Credit: the 08-28 IG 'hacked account' lockout was picked up in 8 minutes and resolved same day by call/DM.",
+      "evidence": [
+        {"quote": "Main Facebook is non recommendable (no specific post & no option to appeal). Instagram ... trial reels have gone from consistently getting 100k+ views 2-3 times daily to getting 200-400 views.", "who": "Sarah Lloyd (no Meta owner existed until Vivek was added 07-29)", "date": "2026-07-11"},
+        {"quote": "It’s also made my Instagram that’s in the same accounts centre go from 20million profile views down to 4million, any advice on what to do there?", "who": "Sarah Lloyd (answered 'Wait i will explain' - never explained)", "date": "2026-08-08"},
+        {"quote": "Last Thing don’t use multiple devices", "who": "Vivek (entire written guidance after the 08-28 hacked-account lockout; substance moved to DM, nothing on record)", "date": "2026-08-28"}
+      ]
+    },
+    "billing_ops": {
+      "severity": 3,
+      "internal_failure": "Five consecutive invoices needed client-side correction, three receiving-bank changes in ten weeks bounced her wires twice, the owner chased money that physically could not arrive - and the Sept 1 invoice STILL went out on the account her bank rejects instead of defaulting to the working 4709 account, forcing her to ask permission to pay.",
+      "evidence": [
+        {"quote": "It keeps flagging as a suspicious transaction then last night it bounced back so I tried again", "who": "Sarah Lloyd", "date": "2026-08-21"},
+        {"quote": "does it say anything on your end about the status or has it bounced again by chance? we called our bank and haven't received anything", "who": "Derrek (third chase for a wire our own bank change was blocking)", "date": "2026-08-24"},
+        {"quote": "Yeah that’s fine! If at any point the new account allows you to send though, let’s swap over. till then you’re all good", "who": "Stephski (confirming the new invoice still carries the failing account)", "date": "2026-09-03"}
+      ]
+    },
+    "ownership_escalation": {
+      "severity": 2,
+      "internal_failure": "Mayson acts as a human router ('@natehei ^^' a dozen-plus times) because chat issues have no direct owner; the two contradictory root causes for the whale BG send (chatter error vs system bug) were left standing unreconciled; Derrek surfaces almost exclusively for payment collection.",
+      "evidence": [
+        {"quote": "@natehei can we get an explanation on this^", "who": "Mayson Chat (the explanation never came - she got a call invite instead)", "date": "2026-08-24"},
+        {"quote": "I just looked into it, the chatter responsible will be punished.", "who": "Nate (Noah)", "date": "2026-08-20"},
+        {"quote": "We checked and he is in the excused MM list ... It’s a bug in the system %100", "who": "Ronnie Chat (directly contradicts Noah minutes later; never reconciled - if true it exposes every excluded sub on every account)", "date": "2026-08-20"}
+      ]
+    },
+    "disengagement_detection": {
+      "severity": 2,
+      "internal_failure": "Her going quiet on a topic is read as satisfaction instead of resignation: sexting-sets (82 days), Meta reach, livestream results and chargebacks were all silently dropped, and since 08-26 she has raised zero chat-quality issues with no one on our side re-engaging after the 08-25 call. Credit: Noah did request that call unprompted.",
+      "evidence": [
+        {"quote": "Thanks! Let me know :)", "who": "Sarah Lloyd (her last Meta message for 3 weeks; nobody followed up until a lockout forced it)", "date": "2026-08-08"},
+        {"quote": "thanks! also when sexting subs ... could just one sexting set be used?", "who": "Sarah Lloyd (verbatim restatement of her 06-13 request; never answered, never raised again - abandoned)", "date": "2026-08-19"},
+        {"quote": "Can we set up a call @sarahlloydd", "who": "Noah Chat (the one genuine detection moment - but nothing was posted in writing afterwards)", "date": "2026-08-24"}
+      ]
+    },
+    "security_hygiene": {
+      "severity": 3,
+      "internal_failure": "Staff solicited her Facebook login in the group chat and she posted the credentials in clear (twice); the password has never been rotated or scrubbed in 36 days, in a chat containing outsourced vendor staff - and on 08-28 her IG was locked for 'hacked account' activity. The good early practice (DM logins privately) was not enforced later.",
+      "evidence": [
+        {"quote": "Share login", "who": "Vivek (in the group chat; she then posted her Facebook email and password in-chat, and re-posted the password minutes later - credentials not reproduced here)", "date": "2026-07-29"},
+        {"quote": "also, if you can pls dm your logins to @AlexBakalov instead of here on the gc that would be soo much better", "who": "Day | Account Executive (the standard existed on day 2 and was abandoned by 07-29)", "date": "2026-06-09"},
+        {"quote": "got locked out yesterday due to ‘hacked account’", "who": "Sarah Lloyd (IG lockout 30 days after the credential exposure; unexplained ChatDeleteUser events on 08-20 and 09-02 also unaddressed)", "date": "2026-08-28"}
+      ]
+    }
+  },
+  "metrics": {
+    "client_questions_total": 105,
+    "unanswered_over_24h": 9,
+    "max_team_silence_days": 4.8,
+    "promises_made": 36,
+    "promises_kept": 16,
+    "promises_lapsed": 13,
+    "method": "Counts over all 874 export lines (473 client / 384 team messages). client_questions_total = client messages containing an explicit question mark or please/pls request (multi-part asks counted once per message). unanswered_over_24h = distinct client asks with no substantive on-topic reply within 24h (e.g. 07-11 Meta ask -> 18 days; 08-08 IG collapse -> never; 08-19 sexting sets -> never; 08-24 screenshot trio -> never individually; 09-01 invoice account -> 36h). Promises = explicit team commitments ('will do/on it/I'll have the team...'); kept = confirmed done in-chat or verified by client silence on a previously flagged-daily issue; lapsed = no evidence of delivery after 7+ days; remainder pending. max_team_silence_days = longest gap between consecutive team-side messages (Jul 21-26)."
+  },
+  "what_client_wanted": [
+    "Whale and top-spender protection: 'It’s really really important this guy isn’t sent BG!! He’s my biggest whale' (06-09); 'the chatters need to just message him at 9am AEST saying good morning' (08-25, first given 06-14).",
+    "Actual chatting and relationship-building before sales: 'just really frustrating seeing no whales long-term being built, my top spenders being ignored and in general no actual chatting but just MM bumps' (08-24).",
+    "Her content used as built, with variety: 'I have soooo much content, there’s no need to be reusing the same photos and videos & text every single day for weeks' (07-13); one sexting set per session (06-13, 08-19).",
+    "Unhappy high spenders made whole to stop chargebacks: 'if subs have spent thousands and are unhappy please just give them what they want! Would be great to minimise some of the chargebacks' (08-19)."
+  ],
+  "what_worked": [
+    "The chatting itself, when done properly, earns explicit praise: 'Love the English & sales tactics of the chatters' (06-27), 'Loving the chatting from what I’ve seen!' (06-11) - the product is good; the wrapper of follow-through is what is failing.",
+    "The 08-25 call + one real stat instantly defused a two-day escalation: 'yeah great stats, apologies I hadn’t looked at that. I know you guys are great at sales' (08-25). Data shared proactively works on this client.",
+    "Fast mechanical ops build trust: weekly DMCA report ('Amazing thankyou!', 07-10), tracking domains delivered same day (08-24), CB free-pic protocol relayed in 5 minutes ('Done ✅', 08-26)."
+  ],
+  "top_fix": "Give the account one named owner (Noah) who posts a short weekly written status in-chat covering every open commitment - whale protocol and spend recovery, the Aug 25 call outcomes, chargebacks, Meta/Phone Farm, sexting sets - because this account's entire decline is driven by verbal promises that silently lapse while the client does the monitoring herself; her only leverage left is escalation or leaving.",
+  "changed_since_0826": "Since Aug 26 our side has posted only routine content (a reels demand for an unexplained new warm-up account, reel inspo, DMCA report, the invoice) while every open commitment stayed silent - no call write-up, no whale report, no chargeback/Phone Farm/Meta-reach follow-up; the two real events were a new IG hacked-account lockout Vivek fixed same-day (08-28, credentials exposure still unrotated) and the Sept 1 invoice going out still on the bank account her bank rejects (36h to answer her 'can I still pay the old account?'). She has raised zero chat-quality issues since 08-26 - the going-quiet pattern that has preceded every prior escalation."
+}

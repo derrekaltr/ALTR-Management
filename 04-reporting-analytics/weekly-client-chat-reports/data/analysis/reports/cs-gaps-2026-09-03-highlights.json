@@ -1,0 +1,62 @@
+{
+  "verdict": "The book is losing ~8 health points a week. Four churns in nine weeks, all preventable, all on-time payers. Every save this week came from one thing: a fast, specific, human answer. Every loss came from silence or pressure.",
+  "fires": [
+    {
+      "client": "Lauryn", "owner": "Derrek",
+      "why": "Hardest churn signal in the book: she has formally tied paying to delivery (\"invoices in increments as it drops\"), 6th carried balance, and the vendor team on her account hasn't posted in 85 days — but she pitched new content ideas today, so the door is open.",
+      "action": "Call her today. Reconcile the balances in writing, name who now runs her account, give one dated Facebook next-step. No payment chase until something ships.",
+      "draft": "Hey L — Derrek. I owe you straight talk: we've been chasing invoices while our side owes you delivery, and that's backwards. Today I'm doing three things: 1) a written breakdown of every invoice and payment so we're looking at the same numbers, 2) naming exactly who runs your account day-to-day going forward (you'll hear from them today), 3) a real answer on the Facebook review with a date, not another 'still in review'. Nothing to pay until you've seen all three. Your music-video idea is great — I want us earning that kind of energy from you again."
+    },
+    {
+      "client": "Liza Kovalenko", "owner": "Stephski",
+      "why": "First frustrated message in 13 months over the wires — and it turns out she OVERPAID ~$2,499.59. Her ALTR-run backup IGs got deleted, and she posted 3 passwords in the group after we asked. Highest-paying, lowest-maintenance client in the book.",
+      "action": "Send an itemized wire ledger (every wire: date, amount, received/bounced), apply the overpayment credit explicitly, move credentials to DM, and give a status on the deleted IGs — one message, today.",
+      "draft": "Hi Liza — I put together the full wire ledger so we're 100% on the same page: every wire you sent, the date, and what landed on our side, line by line [attach]. You actually overpaid by $2,499.59 — that's credited on your next invoice, already applied. That confusion was our fault (we changed bank details mid-cycle) and it won't happen again: your payment details are now frozen. Also — please never send passwords in this chat, that was wrongly asked of you; I'll DM you a secure way. IG status coming separately today."
+    },
+    {
+      "client": "Barbara", "owner": "Derrek",
+      "why": "\"Im very nervous with the situation\" is now 10 days without a real answer. She proposed her own fallback plan and got a reels quota instead. Still paying, still pitching ideas — this one is savable with one message.",
+      "action": "Answer her yourself: root cause of the IG flags in plain words, one number that's true, and a yes/no on her weekly-OFTV proposal.",
+      "draft": "Barbara — Derrek here. You said you were nervous 10 days ago and you deserved a proper answer then. Here it is straight: your IG keeps flagging because [root cause — fill from Vivek before sending], and here's where each account stands today: [1-line status per account]. Your weekly-OFTV idea: yes — let's run it starting this week, Olivia will own it. And you'll get a short written status from us every Friday from now on so you're never guessing again. That's a promise with my name on it."
+    },
+    {
+      "client": "Alex Paige Moore", "owner": "Derrek",
+      "why": "She told us she had surgery 8 days ago. Since then she got a reels mandate, a customs request and an invoice — and complied with all of it from recovery. Not one person acknowledged the surgery.",
+      "action": "A human message today. Pause content demands for two weeks. Then the $1,989 ledger.",
+      "draft": "Alex — just saw properly that you had surgery and I'm sorry nobody said anything sooner, that's on us. Please rest — consider content paused on our side for the next two weeks, we'll run with what's in the vault. When you're back on your feet I'll have the $1,989 question closed out with a proper ledger and a plan for the reels page waiting for you. Heal up. — Derrek"
+    }
+  ],
+  "this_week": [
+    {"client": "Shayna", "owner": "Fred", "action": "Answer the $4,700 private-live question (sold after her ban) and confirm her Aug 26 payment landed — she's home and auditing."},
+    {"client": "Sarah", "owner": "Vivek", "action": "530k main IG is 25 days down: give her a written status + ETA today, and stop asking for passwords in the group."},
+    {"client": "Lauren Blake", "owner": "Stephski", "action": "Fix the Chase fraud-flag/name mismatch on OUR receiving account; tell her proactively with the Meta ad report attached."},
+    {"client": "Sarah Lloyd", "owner": "Noah", "action": "Written whale protocol + weekly recap; stop invoicing on the bank account her bank rejects."},
+    {"client": "Lilia", "owner": "Fred", "action": "Answer the Teddi question from Sep 3; make the high-spender folder rule mechanical — she says the mishandling already cost her a whale."},
+    {"client": "Amber Haze", "owner": "Ollie", "action": "Answer her Sep 2 critique (editing quality, ~150 views/post, competitor at 40k) — it's 30+ hours stale and she nudged today."},
+    {"client": "Vale", "owner": "Ollie", "action": "Confirm John's $2,200 custom was delivered, confirm the Aug 17 payment, book the oldest owed call (151 days)."},
+    {"client": "Haileigh Cox", "owner": "Mayson", "action": "She asked for an account manager 165 days ago: name one in the chat, confirm the 8/20 wire, fix the .vip domains."},
+    {"client": "Mila", "owner": "Vivek", "action": "Her main IG is 72 days suspended on our 'don't appeal' advice — give her a plan; confirm the duplicate-wire check."}
+  ],
+  "monitor": [
+    {"client": "Kaitlynn", "note": "Saved last week by an 18h data-backed answer — keep the Friday numbers recap going; hold the kickoff call she booked herself."},
+    {"client": "Alanna", "note": "Re-engaged and paying; close the FAQ form and confirm drop results so she stays."}
+  ],
+  "churned": [
+    {"client": "Vicky", "money": "$1,700 fan money held against undelivered work + final figure never stated", "action": "State the figure on her TRC20 rail, verify the Infloww disconnect, rotate credentials — and find out who deleted the 9 messages."},
+    {"client": "Hannah", "money": "Final invoice unissued 50 days — write-off deadline is tomorrow", "action": "Issue from our own records today or write it off explicitly."},
+    {"client": "Chey Mai", "money": "2 invoices outstanding", "action": "One human non-billing message (answer her 44-day-old PayPal question) or clean offboarding."},
+    {"client": "Paige", "money": "Credentials still in group chat, unrotated", "action": "Rotate + purge regardless of churn; a 'show the work' win-back note is worth one try."}
+  ],
+  "delegate": [
+    {"person": "Derrek (you)", "tasks": ["Call Lauryn (fire #1)", "Answer Barbara yourself (fire #3)", "Surgery message to Alex Paige Moore (fire #4)", "Vicky: who deleted the 9 messages?", "Decide Paige/Chey Mai win-back vs offboard"]},
+    {"person": "Stephski", "tasks": ["Liza wire ledger + $2,499.59 credit (fire #2, with Derrek)", "Lauren Blake: fix fraud-flagged receiving account, then tell her", "Confirm Shayna + Mila + Haileigh payment receipts", "Hannah final invoice (deadline tomorrow)", "Stop pause-work threats where the blocker is ours"]},
+    {"person": "Vivek", "tasks": ["Sarah main IG written status + ETA", "Mila main IG plan (72 days)", "NO more credential requests in group chats — rotate everything exposed (9+ accounts)"]},
+    {"person": "Fred", "tasks": ["Shayna: $4,700 answer + boundary sheet into the chatter vault", "Lilia: Teddi answer + mechanical high-spender rule"]},
+    {"person": "Ollie", "tasks": ["Amber Haze Sep 2 critique answer", "Vale: custom/payment confirmations + book the oldest call", "Whale playbook across chat books"]},
+    {"person": "Mayson / Noah", "tasks": ["Haileigh: named AM announcement + open-items list", "Sarah Lloyd: weekly written recap + whale protocol"]}
+  ],
+  "systemic_fix": "If you change one process this week: give every account ONE named owner who sends a short written Friday update (numbers, what shipped, open items with dates). Both churn post-mortems, both saves, and 15 of 19 analyst top-fixes point at this same move. The team broadcast draft is ready below.",
+  "team_broadcast": "Team — three changes effective today. 1) Every client now has ONE named owner (list coming this afternoon) — if you see a client question, tag the owner, and owners: nothing sits unanswered past 24h, even if the answer is 'checking, back to you Thursday'. 2) Every Friday each owner posts a short written update in their client's chat: numbers, what shipped, open items with dates. Clients who can't see the work assume there isn't any — that's how we lost Paige. 3) Credentials NEVER go in group chats again — not asked for, not posted. Anything currently sitting in a chat gets rotated this week. No exceptions on any of the three.",
+  "pattern": "Pressure replaced service this week: Sep 1 invoices carried first-ever \"pay within 7 days to avoid pausing of work\" threats — including to clients whose payment blockers are OURS — while 7-reels/week content mandates landed on five accounts, one of them recovering from surgery. Quiet clients got demands instead of check-ins.",
+  "integrity": "~9 messages were deleted from Vicky's chat within 48h of her termination — including her posted OF password and her \"who did this?\" message about the unauthorized post. The password was never rotated: the record was removed without fixing the exposure. Worth finding out who deleted them and why."
+}

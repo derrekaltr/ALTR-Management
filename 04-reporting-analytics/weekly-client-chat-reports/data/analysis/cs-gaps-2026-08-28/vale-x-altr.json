@@ -1,0 +1,129 @@
+{
+  "client": "Vale",
+  "slug": "vale-x-altr",
+  "status": "at_risk",
+  "status_reason": "She is still doing everything asked of her (9-for-9 on invoices, delivered a $2,000 custom on Aug 22) but our side has effectively stopped working the account: the last human message from ALTR is Ollie's 'Thank you for letting me know' on Aug 20, her three delivery updates on Aug 22 have gone unacknowledged for six days, and she has stopped chasing a paid-order backlog she pursued nearly weekly from May 22 to Aug 9. Silence from a client who used to send 37 messages a week and now sends 3 is disengagement, not contentment.",
+  "last_client_message": "2026-08-22",
+  "dimensions": {
+    "responsiveness": {
+      "severity": 2,
+      "internal_failure": "Our typical lag is genuinely good (median 0.7h to the next our-side message), but the questions that actually block her or protect her get dropped: pre-call fan notes she asked for on Aug 7 were never sent (21 days), her Aug 3 pre-live prep questions were never answered, and a blocking question on a $2,200 order took ~37h and made her apologise for a delay that was ours.",
+      "evidence": [
+        {"quote": "I have a call with him tomorrow at 11 on only fans / Can you guys tell me what you have on him on your notes ?", "who": "Vale", "date": "2026-08-07"},
+        {"quote": "Anything I should know before the live ? / How many minutes and what he wants ?", "who": "Vale", "date": "2026-08-03"},
+        {"quote": "Ill find out for you now", "who": "Ollie Mckinlay", "date": "2026-08-18"},
+        {"quote": "Okay got it, will upload tomorrow morning i promise, sorry for the delay 😣😣", "who": "Vale", "date": "2026-08-20"}
+      ]
+    },
+    "follow_through": {
+      "severity": 3,
+      "internal_failure": "Scheduling promises for paid calls and lives have lapsed at least seven times across both account managers (May 5, May 22, Jul 1, Jul 19, Jul 31, Aug 9), and the two deliverables Ollie promised 'in the morning' on Jul 28 — the sexting-set template and a formal content request — never arrived, yet he criticised her set variety three weeks later.",
+      "evidence": [
+        {"quote": "Will push for it to be scheduled then - what times will you be available?", "who": "FRED | OFM (fred SPITFIRE)", "date": "2026-05-05"},
+        {"quote": "I think I have 3 video calls that I need booked, do you mind checking on those for me ? ... Pls let’s get those schedule they’ve been waiting for a minute", "who": "Vale", "date": "2026-07-30"},
+        {"quote": "I’ll send you a template over in the morning getting 3 good new sexting sets ... I’ll get a content request over in the morning", "who": "Ollie Mckinlay", "date": "2026-07-28"},
+        {"quote": "yes we can schedule them for this week / what is your availability like?", "who": "Ollie Mckinlay", "date": "2026-08-09"}
+      ]
+    },
+    "proactive_communication": {
+      "severity": 2,
+      "internal_failure": "Almost all unprompted contact is templated (Michelle's weekly leak-removal image, Mica's reel-link dumps, Stephski's invoices); in five months the only performance figure ever volunteered was Ollie's day-3 revenue note on Jul 12, and Vale had to ask five separate times (Apr 9, May 22, Jun 29, Jul 18, Jul 27) for a simple list of what she owed because no such list was ever pushed to her.",
+      "evidence": [
+        {"quote": "Hey guys I’m still sick but I’m feeling a lot better and wanna catch up on all the stuff i have to do so if you can send me a list of what I need to get done", "who": "Vale", "date": "2026-04-09"},
+        {"quote": "Sorry been dealing with some stuff / I’m making content today / Can you please tell me what customs I’m behind on ?", "who": "Vale", "date": "2026-06-29"},
+        {"quote": "Out of the 3 days we have been on, 2 of them have been your highest days in the last 3 months, with today at 2.5k", "who": "Ollie Mckinlay", "date": "2026-07-12"},
+        {"quote": "Thank you for understanding, we will have plenty of updates starting next week.", "who": "Derrek", "date": "2026-08-01"}
+      ]
+    },
+    "onboarding_handoff": {
+      "severity": 3,
+      "internal_failure": "Onboarding was a form nobody reviewed with her — it produced $250 1:1 lives and let chatters sell a full nude video for $30 — Michelle's Apr 2 IG content request went unseen until Jun 9, and the Fred-to-Ollie switch on Jul 10 lost the customs Google Drive, the custom-request log and the pricing guide, so three paid orders (Loven's 4-month-old custom, an April custom, John's $2k) surfaced only by accident.",
+      "evidence": [
+        {"quote": "Oh okay I haven’t even seen that", "who": "Vale", "date": "2026-06-09"},
+        {"quote": "I can’t even access the folder anymore ... There’s another custom I made from April / That never got uploaded either ... Yeah that’s kinda fucked", "who": "Vale", "date": "2026-07-28"},
+        {"quote": "I’m guessing this is the previous chat teams Google drive and they’ve now deleted it", "who": "Ollie Mckinlay", "date": "2026-07-28"},
+        {"quote": "Google sheets is acting weird but this fan paid 2k in may for a custom (so not when we were on the page) I don't know if you ever saw it", "who": "Ollie Mckinlay", "date": "2026-08-18"}
+      ]
+    },
+    "chatter_conduct": {
+      "severity": 3,
+      "internal_failure": "Five fan-trust breaches in 26 days that she caught, not us: 'broken phone/bills' lie-pushes that contradict her public IG, nude content sold at $30 against her stated minimums, a chatter telling a fan a girl-girl video was her best friend Shayna, and her paid private 1:1 live resold as PPV — including back to the fan who had bought it. Every incident was closed with a verbal word to one individual; no written account rulebook exists and nobody has confirmed the private recordings were pulled from PPV inventory.",
+      "evidence": [
+        {"quote": "Like you lie to him about my best friend eating me out and then send a video to a totally different girl ... I don’t want my fans to feel scammed !!!", "who": "Vale", "date": "2026-08-01"},
+        {"quote": "Why is the private live being sent out ? ... He payed to have a private conversation with me so why is being sold ? ... And selling the live to the guy that I had the live with", "who": "Vale", "date": "2026-08-11"},
+        {"quote": "Apologies spoke to the MM PPV specialist for your account and he knows now not to be doing this", "who": "Ollie Mckinlay", "date": "2026-08-12"},
+        {"quote": "I didn’t not approve for a full video of me naked touching myself and a full naked picture for $30", "who": "Vale", "date": "2026-05-11"}
+      ]
+    },
+    "platform_health": {
+      "severity": 1,
+      "internal_failure": "The IG side was handled well and staffed properly (Derrek's same-hour reassurance on the Apr 20 notice, Mica's don't-appeal-first rule, Vivek added as Meta rep on Jul 29, the Aug 1 phone-farm update), but the possible unauthorized access to her OF raised on Jul 28 was never closed out — no Infloww answer was ever posted back and the promised post-phone-farm IG updates never came.",
+      "evidence": [
+        {"quote": "Very common rn. Don’t worry you can have 1000 of these and they won’t do a thing", "who": "Derrek", "date": "2026-04-20"},
+        {"quote": "Also do you know if there is someone else on your page looking through chats? Last few days we are noticing conversations being opened, notifications disappearing and it’s causing issues", "who": "Ollie Mckinlay", "date": "2026-07-28"},
+        {"quote": "Potentially let me contact infloww as well", "who": "Ollie Mckinlay", "date": "2026-07-28"}
+      ]
+    },
+    "billing_ops": {
+      "severity": 2,
+      "internal_failure": "Four banking changes in five months (Apr 15 new bank, Jun 15 Mercury, Jul 1 Bank of America, Aug 15 new account number) — the Jul 1 change cost three days of failed Zelle/ACH attempts and drew an 18h reply that repeated advice she had already said did not work; we chased four already-paid invoices, addressed her by another client's name on a corrected invoice, and have still not acknowledged her Aug 17 payment eleven days on, against the very account number that changed.",
+      "evidence": [
+        {"quote": "Hi I’ve been trying to use Zelle but it doesn’t take that email / And when I set up ach payments it’s also not letting me for some reason / So is there another way I can pay ?", "who": "Vale", "date": "2026-07-03"},
+        {"quote": "Already sent it / Sent it the 16th", "who": "Vale", "date": "2026-04-20"},
+        {"quote": "Here you go Sofia", "who": "Stephski", "date": "2026-08-02"},
+        {"quote": "Sent", "who": "Vale", "date": "2026-08-17"}
+      ]
+    },
+    "ownership_escalation": {
+      "severity": 2,
+      "internal_failure": "No named owner for paid-order fulfilment: the queue account had to @-tag Ollie four separate times to get her seen, Derrek had to @-tag him on the Shayna incident, her management referral was tossed to an @-handle and never followed up, and Ollie treated pre-Jul-10 orders as somebody else's problem even while chasing her to deliver them.",
+      "evidence": [
+        {"quote": "@olkmck ^^", "who": "Mayson Chat", "date": "2026-08-11"},
+        {"quote": "@olkmck hey bro check on this asap", "who": "Derrek", "date": "2026-08-01"},
+        {"quote": "@ofwizz", "who": "Vivek", "date": "2026-08-03"},
+        {"quote": "this fan paid 2k in may for a custom (so not when we were on the page)", "who": "Ollie Mckinlay", "date": "2026-08-18"}
+      ]
+    },
+    "disengagement_detection": {
+      "severity": 3,
+      "internal_failure": "Every churn signal was visible and nobody acted: her nervous laugh and 'just seems odd' after the private-live resale got a one-line apology and no leadership check-in, the biweekly strategy call has not run since Jul 13 (46 days, three missed cycles) and the person who ran it went silent too, her weekly volume fell 37 -> 18 -> 11 -> 3 while she stopped chasing the backlog entirely, and her Aug 22 delivery of a $2,200 three-and-a-half-month-late order drew no acknowledgement from any human for six days.",
+      "evidence": [
+        {"quote": "Thank you ! If it was a sexy live or something like that I understand but like that live was personal with the guy so like just seems odd to try to sell that, specially cause it wasn’t a public live", "who": "Vale", "date": "2026-08-12"},
+        {"quote": "New feed posts are uploaded / Working on editing the custom so will upload soon", "who": "Vale", "date": "2026-08-22"},
+        {"quote": "John’s custom is uploaded", "who": "Vale", "date": "2026-08-22"},
+        {"quote": "Thank you for letting me know", "who": "Ollie Mckinlay", "date": "2026-08-20"}
+      ]
+    },
+    "security_hygiene": {
+      "severity": 2,
+      "internal_failure": "She posted her OnlyFans account password as plain text in the group on day one (2026-03-23) at our request for login details; the message was never deleted from the chat and no rotation was ever confirmed on record after the initial day-one change. Worse, when we ourselves flagged suspicious activity on her page on Jul 28 and she asked directly whether she should change her password, nobody answered her — the thread moved straight on to Google Drive links. (Ollie's unprompted login heads-ups on Jul 11 and Jul 31 are the one good habit here.)",
+      "evidence": [
+        {"quote": "@ofmfred can you please coordinate with her on pass change so we can go ahead and get started tonight🙏", "who": "Eric The Efficient", "date": "2026-03-23"},
+        {"quote": "Should I change my password?", "who": "Vale", "date": "2026-07-28"},
+        {"quote": "Hey Vale, I logged into your of page from my phone - you’ll get an email so nothing to worry about", "who": "Ollie Mckinlay", "date": "2026-07-11"}
+      ]
+    }
+  },
+  "metrics": {
+    "client_questions_total": 54,
+    "unanswered_over_24h": 7,
+    "max_team_silence_days": 5,
+    "promises_made": 45,
+    "promises_kept": 25,
+    "promises_lapsed": 20,
+    "method": "752 non-service messages over Mar 23 - Aug 25 (387 from Vale, 365 from our side across 9 staff). client_questions_total = Vale messages containing '?' (54). unanswered_over_24h is hand-checked for a SUBSTANTIVE our-side answer, not merely the next our-side message: the naive next-message method gives only 1 and a median lag of 0.7h. The 7 are Mar 29 video-call date (~4d, only closed by us re-asking), Jul 6 no-showed strategy call (37h to acknowledge), Jul 28 'Should I change my password?' (never), Jul 28 'Is there a way to check what's missing?' (deflected back to her, never answered), Aug 3 pre-live prep questions (never), Aug 7 fan-prep notes (never, 21d), Aug 18 panties/bra blocking question (~37h). Her Aug 3 referral and her three Aug 22 delivery updates were also never acknowledged but are not questions. max_team_silence_days = longest gap between consecutive our-side messages of any kind (5.2d May 5-10; 5.0d Aug 20-25) — note the current gap in HUMAN (non-templated) contact is 8 days and running, Aug 20 to Aug 28. Promises = explicit our-side commitments hand-tallied ('will send', 'will let you know', 'can schedule this week', 'in the morning', a stated cadence); kept = visible delivery or confirmation in chat."
+  },
+  "what_client_wanted": [
+    "Fans to believe they are talking to the real her, with no lies she can be caught in: \"If I send them pictures or voice notes it feels more real like they’re talking to me\" (Mar 28); \"I just live very openly on my ig so I feel like it’s easy to know that’s a lie\" (Apr 8); \"the lying is not good cause it fucks up the longevity of my fans / I don’t want my fans to feel scammed !!!\" (Aug 1)",
+    "Private paid interactions kept private, and content boundaries respected: \"He payed to have a private conversation with me so why is being sold ?\" (Aug 11); \"Only ones I have are with Mia sorety\" (Aug 2); \"Hi, I don’t do that kind of content\" (Jul 21)",
+    "One clear running list of what she owes, and paid calls actually booked so fans aren't left waiting: \"Cans I have a list of what you guys need from me\" (May 22); \"Can you please tell me what customs I’m behind on ?\" (Jun 29); \"Pls let’s get those schedule they’ve been waiting for a minute\" (Jul 30)",
+    "Her content priced at her minimums and her vault kept current: \"I just don’t want my stuff to be super cheap\" (Jul 12); \"a full video of me with a dildo would be around $250-$200\" (May 11); \"Some of the videos in there are really old and before my nose job lol so I want to update it\" (Jul 28)"
+  ],
+  "what_worked": [
+    "Fred's fan-prep notes before calls, and handling her sick day honestly instead of ghosting the fan: \"Video Call Notes: ... Names Dante, lives in New Jersey\" (Apr 2) drew \"Jesus 😭😭😭 ... Thank you\", and the voice-note apology he suggested kept a $1,500 fan warm. She asked for exactly this again on Aug 7 and never got it.",
+    "Showing her the revenue impact bought instant pricing trust: \"Out of the 3 days we have been on, 2 of them have been your highest days in the last 3 months, with today at 2.5k\" (Jul 12) turned \"I just don’t want my stuff to be super cheap\" into \"Okay I’ll let you guys handle it then\" within half an hour. It is the only performance stat we have ever volunteered.",
+    "Derrek stepping in personally on the Shayna incident — \"ill take care of this vale\" and \"@stephskiii remove $5720 from invoice for referrals please\" (Aug 1) — after which she referred another creator to ALTR two days later (\"I have a girl interested in management\", Aug 3). Owner-level ownership converts directly into referral revenue with this client.",
+    "Stephski's pre-invoice OF-withdrawal reminders plus prompt receipt confirmations (\"Recieved! thank you ❤️\", Apr 21) — Vale is 9-for-9, never late, and now usually pays before the nudge lands."
+  ],
+  "top_fix": "Give Vale one named account owner who maintains a single client-visible order ledger — every custom, video call and 1:1 live with fan handle, amount, date sold, status and booked time — that survives chatter and vendor handoffs, is reviewed with her in a fixed weekly touchpoint, and is paired with a written account rulebook (pricing minimums, no B/G, girl-girl only Mia Sorety, private lives never resold, no lie-pushes) that every chatter and PPV specialist signs off on before touching the page. Every one of her four repeat complaints — lost paid orders, unbooked calls, undersold content, resold private lives — is a symptom of that ledger and rulebook not existing; the cheapest first move today is one human message acknowledging her Aug 22 uploads and confirming John received the $2,000 custom he paid for in May."
+}

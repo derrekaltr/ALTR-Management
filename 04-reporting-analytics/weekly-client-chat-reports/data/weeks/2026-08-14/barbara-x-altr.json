@@ -1,0 +1,407 @@
+{
+  "client": "Barbara",
+  "slug": "barbara-x-altr",
+  "week_ending": "2026-08-14",
+  "summary": "Two things went right and one thing got materially worse. The first invoice was finally collected in full ($3,617.59 confirmed Aug 9) after three failed Zelle configurations across six days, ending with Barbara paying Derrek's personal phone number. Michelle sent her first proactive weekly leak-removal report (Aug 10) and Mica resumed weekly reel inspo (Aug 13). But the IG situation escalated from 'paused during the phone-farm rebuild' to active, repeating account loss: 'i'm having account issues every other day, i'm losing recovering losing recovering' (Aug 11). For the first time since onboarding Barbara voiced real worry ('i'm just getting worried about that') and asked for root cause; Derrek's answer was 'Dont worry about why, we got it and will have it fixed'. The backup IG @ name promised 'next week' on Aug 1 is now three weeks undelivered. Her Aug 11 TikTok link-in-bio question and her Aug 13 OFTV Dropbox drop both ended the week unanswered. She remains cooperative and is still shipping content, but the goodwill buffer is thinning and the next invoice lands Aug 15 on payment rails that have never worked cleanly.",
+  "health": {
+    "score": 64,
+    "trend": "down",
+    "rationale": "Down from 72 last week. Payment finally cleared and two proactive updates landed, but the core deliverable regressed: IG accounts are now cycling through suspension and recovery rather than merely paused, Barbara expressed genuine worry and asked for root cause for the first time and was told not to ask, the backup IG @ is three weeks overdue, and two of her asks (TikTok linkme decision, OFTV footage handoff) ended the week with no reply."
+  },
+  "reminders": [
+    {
+      "employee": "Vivek",
+      "topic": "Recurring IG account flags, suspensions and recoveries — client had to raise the same outage twice in four days and ask for root cause herself (Mayson routed both escalations to Vivek)",
+      "count": 2,
+      "first_date": "2026-08-08",
+      "last_date": "2026-08-11",
+      "days_outstanding": 6,
+      "quotes": [
+        {
+          "quote": "I’m having account issues again 🥺",
+          "who": "Barb Brazil",
+          "date": "2026-08-08"
+        },
+        {
+          "quote": "i’m having account issues every other day, i’m losing recovering losing recovering",
+          "who": "Barb Brazil",
+          "date": "2026-08-11"
+        },
+        {
+          "quote": "he fixed my secondary account a couple days ago but it went down the very next day, for the same thing so idk what else can be done i’m trying to trace what could be root cause",
+          "who": "Barb Brazil",
+          "date": "2026-08-11"
+        }
+      ]
+    },
+    {
+      "employee": "Michelle",
+      "topic": "Backup IG reels account @ name and restart of IG posting — third chase since the account was promised 'next week' on Aug 1; still not delivered",
+      "count": 3,
+      "first_date": "2026-08-03",
+      "last_date": "2026-08-08",
+      "days_outstanding": 13,
+      "quotes": [
+        {
+          "quote": "Hey good morning team!!!\n\nMichelle @sotom225 keep me posted on the new IG whenever you have that @ please :)",
+          "who": "Barb Brazil",
+          "date": "2026-08-03"
+        },
+        {
+          "quote": "hey guys just checking in any updates with all the new changes happening? 😊",
+          "who": "Barb Brazil",
+          "date": "2026-08-06"
+        },
+        {
+          "quote": "Hey you guys !! any update on this ?",
+          "who": "Barb Brazil",
+          "date": "2026-08-08"
+        }
+      ]
+    },
+    {
+      "employee": "Stephski",
+      "topic": "Chasing the Zelle payment request she was promised on Aug 6 so she could pay the first invoice, then reporting each failed rail back to ALTR",
+      "count": 3,
+      "first_date": "2026-08-04",
+      "last_date": "2026-08-08",
+      "days_outstanding": 5,
+      "quotes": [
+        {
+          "quote": "Is there another email?",
+          "who": "Barb Brazil",
+          "date": "2026-08-04"
+        },
+        {
+          "quote": "hey just letting you know i never received invoice request!",
+          "who": "Barb Brazil",
+          "date": "2026-08-08"
+        },
+        {
+          "quote": "it’s not working /:",
+          "who": "Barb Brazil",
+          "date": "2026-08-08"
+        }
+      ]
+    },
+    {
+      "employee": "Mayson",
+      "topic": "Asked for a recommendation on putting her linkme link back in her TikTok bio — asked Aug 11, clarified for Derrek Aug 12, never answered",
+      "count": 2,
+      "first_date": "2026-08-11",
+      "last_date": "2026-08-12",
+      "days_outstanding": 3,
+      "quotes": [
+        {
+          "quote": "@mmayson im thinking about putting my link back up on tiktok, i dont think it made a difference in views. at least until IG figured out",
+          "who": "Barb Brazil",
+          "date": "2026-08-11"
+        },
+        {
+          "quote": "let me know what you think",
+          "who": "Barb Brazil",
+          "date": "2026-08-11"
+        }
+      ]
+    }
+  ],
+  "complaints": [
+    {
+      "issue": "IG accounts are being flagged and suspended repeatedly — the client is losing and recovering accounts every other day, growth/traffic is stalled, and when she asked for a root cause she was told not to ask. Escalation of the IG posting pause first raised Aug 3.",
+      "status": "recurring",
+      "first_raised": "2026-08-03",
+      "owner": "Derrek / Vivek",
+      "severity": "high",
+      "quotes": [
+        {
+          "quote": "i’m having account issues every other day, i’m losing recovering losing recovering",
+          "who": "Barb Brazil",
+          "date": "2026-08-11"
+        },
+        {
+          "quote": "i don’t undertand how this can possibly keep happening, especially because we need to get traffic going i’m just getting worried about that",
+          "who": "Barb Brazil",
+          "date": "2026-08-11"
+        },
+        {
+          "quote": "this is happening to alot of people. Dont worry about why, we got it and will have it fixed",
+          "who": "Derrek",
+          "date": "2026-08-11"
+        },
+        {
+          "quote": "theres so much flags we keep taking off but they come right back up",
+          "who": "Derrek",
+          "date": "2026-08-11"
+        }
+      ]
+    },
+    {
+      "issue": "Backup IG reels account @ name promised 'next week' on Aug 1 is still undelivered three weeks later, despite three separate check-ins from the client",
+      "status": "recurring",
+      "first_raised": "2026-08-03",
+      "owner": "Michelle",
+      "severity": "medium",
+      "quotes": [
+        {
+          "quote": "Hey you guys !! any update on this ?",
+          "who": "Barb Brazil",
+          "date": "2026-08-08"
+        },
+        {
+          "quote": "Hi love, your backup account for IG reels is currently being warmed up as soon as it’s ready next week I will send you the @ name babes 💕",
+          "who": "Michelle Queue",
+          "date": "2026-08-01"
+        }
+      ]
+    },
+    {
+      "issue": "ALTR's Zelle payment rails failed three separate ways over six days (invoice email not recognized, 'altrpaymentsmgmt' tag not working, promised payment request never arrived); resolved only when Derrek gave out his personal phone number",
+      "status": "resolved",
+      "first_raised": "2026-08-04",
+      "owner": "Stephski",
+      "severity": "medium",
+      "resolved_date": "2026-08-09",
+      "quotes": [
+        {
+          "quote": "hey just letting you know i never received invoice request!",
+          "who": "Barb Brazil",
+          "date": "2026-08-08"
+        },
+        {
+          "quote": "it’s not working /:",
+          "who": "Barb Brazil",
+          "date": "2026-08-08"
+        },
+        {
+          "quote": "Zelle my phone number",
+          "who": "Derrek",
+          "date": "2026-08-08"
+        },
+        {
+          "quote": "Thank you so much ❤️ so sorry about the confusion",
+          "who": "Stephski",
+          "date": "2026-08-09"
+        }
+      ]
+    },
+    {
+      "issue": "adultsearch.com escort listing takedown requested Aug 7 — Derrek replied only 'yes' and no confirmation of filing or removal has ever been posted in the DMCA topic, including in Michelle's Aug 10 weekly leak-removal report",
+      "status": "in_progress",
+      "first_raised": "2026-08-07",
+      "owner": "Derrek / Nick (DMCA)",
+      "severity": "medium",
+      "quotes": [
+        {
+          "quote": "can someone handle pls",
+          "who": "Barb Brazil",
+          "date": "2026-08-07"
+        },
+        {
+          "quote": "yes",
+          "who": "Derrek",
+          "date": "2026-08-07"
+        }
+      ]
+    }
+  ],
+  "commitments": [
+    {
+      "what": "Move Barbara's IG accounts onto ALTR devices and swap out the flagged numbers/emails to stop the suspension cycle",
+      "who": "Derrek",
+      "date": "2026-08-11",
+      "status": "pending",
+      "quotes": [
+        {
+          "quote": "Were putting them on our devices tn, and changing up the flagged numbers or emails",
+          "who": "Derrek",
+          "date": "2026-08-11"
+        },
+        {
+          "quote": "this is happening to alot of people. Dont worry about why, we got it and will have it fixed",
+          "who": "Derrek",
+          "date": "2026-08-11"
+        }
+      ]
+    },
+    {
+      "what": "Get back to Barbara on the repeated account flags after she asked whether any engagement tool or external software had been added to her accounts",
+      "who": "Mayson",
+      "date": "2026-08-11",
+      "status": "overdue",
+      "quotes": [
+        {
+          "quote": "Yeah let me get back on this!",
+          "who": "Mayson Chat",
+          "date": "2026-08-11"
+        },
+        {
+          "quote": "did we add anything for like engagement or any sort of external software on any of my accounts",
+          "who": "Barb Brazil",
+          "date": "2026-08-11"
+        }
+      ]
+    },
+    {
+      "what": "Resume full posting/growth after the phone farm came back online — 'We proceed tomorrow. Full throttle' said Aug 8; no posting resumption or results were reported to the client by Aug 14",
+      "who": "Derrek",
+      "date": "2026-08-08",
+      "status": "overdue",
+      "quotes": [
+        {
+          "quote": "Yep it’s back up",
+          "who": "Derrek",
+          "date": "2026-08-08"
+        },
+        {
+          "quote": "We proceed tomorrow",
+          "who": "Derrek",
+          "date": "2026-08-08"
+        },
+        {
+          "quote": "Full throttle",
+          "who": "Derrek",
+          "date": "2026-08-08"
+        }
+      ]
+    },
+    {
+      "what": "Send Barbara the @ name of her warmed-up backup IG reels account (promised 'next week' on Aug 1)",
+      "who": "Michelle",
+      "date": "2026-08-01",
+      "status": "overdue",
+      "quotes": [
+        {
+          "quote": "Hi love, your backup account for IG reels is currently being warmed up as soon as it’s ready next week I will send you the @ name babes 💕",
+          "who": "Michelle Queue",
+          "date": "2026-08-01"
+        }
+      ]
+    },
+    {
+      "what": "Create 3 link-in-bio versions (TikTok / Twitter / Instagram) — promised Jul 31, still never delivered, and now blocking her TikTok bio decision",
+      "who": "Mayson",
+      "date": "2026-07-31",
+      "status": "overdue",
+      "quotes": [
+        {
+          "quote": "I’ll create you 3 different versions tiktok/twitter/instagram",
+          "who": "Mayson Chat",
+          "date": "2026-07-31"
+        }
+      ]
+    },
+    {
+      "what": "Find and send talking-to-camera reel examples that perform well for her niche",
+      "who": "Michelle",
+      "date": "2026-07-23",
+      "status": "overdue",
+      "quotes": [
+        {
+          "quote": "i’ll look for talking examples that do well and yess you can",
+          "who": "Michelle Queue",
+          "date": "2026-07-23"
+        }
+      ]
+    },
+    {
+      "what": "Handle the adultsearch.com listing takedown and report back that it was filed/removed",
+      "who": "Derrek",
+      "date": "2026-08-07",
+      "status": "pending",
+      "quotes": [
+        {
+          "quote": "yes",
+          "who": "Derrek",
+          "date": "2026-08-07"
+        }
+      ]
+    },
+    {
+      "what": "Fix the broken Zelle rail so Barbara could pay the July 9-31 invoice",
+      "who": "Stephski",
+      "date": "2026-08-06",
+      "status": "done",
+      "quotes": [
+        {
+          "quote": "Our zelle should be working now if you want to try again!",
+          "who": "Stephski",
+          "date": "2026-08-08"
+        },
+        {
+          "quote": "Perfecto",
+          "who": "Stephski",
+          "date": "2026-08-09"
+        }
+      ]
+    }
+  ],
+  "payments": [
+    {
+      "note": "First invoice (July 9-31) PAID IN FULL — $3,617.59 confirmed by Stephski on Aug 9. Barbara was never the blocker: she tried to pay the day the invoice arrived (Aug 3), then hit three consecutive ALTR-side failures — the invoice email wasn't Zelle-recognised (Aug 4), the promised Zelle request never arrived (Aug 8), and the 'altrpaymentsmgmt' Zelle tag also failed (Aug 8). It only cleared when Derrek gave out his personal phone number as the Zelle destination and she sent it in two parts across Aug 8-9. RISK: the next invoice is due Aug 15 (the day after this report window) and no repeatable, verified business payment rail has been established — routing agency revenue through the owner's personal number is not a fix.",
+      "date": "2026-08-09",
+      "amount": 3617.59,
+      "late": false,
+      "reason": "Six-day delay caused entirely by ALTR's Zelle configuration, not by the client",
+      "suggested_fix": "Before the Aug 15 invoice goes out, verify one working business Zelle/ACH destination end-to-end with a $1 test, print it on the invoice, and drop the personal-number workaround. Stephski should confirm receipt in the Invoicing topic within 24h.",
+      "quotes": [
+        {
+          "quote": "hey just letting you know i never received invoice request!",
+          "who": "Barb Brazil",
+          "date": "2026-08-08"
+        },
+        {
+          "quote": "Zelle my phone number",
+          "who": "Derrek",
+          "date": "2026-08-08"
+        },
+        {
+          "quote": "Sending remainder tomorrow!!",
+          "who": "Barb Brazil",
+          "date": "2026-08-08"
+        },
+        {
+          "quote": "3617.59",
+          "who": "Barb Brazil",
+          "date": "2026-08-09"
+        },
+        {
+          "quote": "Perfecto",
+          "who": "Stephski",
+          "date": "2026-08-09"
+        }
+      ]
+    }
+  ],
+  "client_priorities": [
+    "Account stability above all — she now wants a ROOT CAUSE, not reassurance: 'i’m trying to trace what could be root cause' (Aug 11). Being told 'Dont worry about why' is not landing.",
+    "Getting traffic and growth actually moving — she explicitly ties the account outages to lost traffic: 'we need to get traffic going i’m just getting worried about that' (Aug 11)",
+    "Knowing whether any third-party engagement tool or software was attached to her accounts (asked Aug 11, still unanswered)",
+    "Proactive content supply — 300+ reels in the drive plus new OFTV footage dropped via Dropbox on Aug 13",
+    "OFTV content pipeline (filmed a backflip video specifically for OFTV)",
+    "Content/likeness protection — DMCA takedowns and the outstanding adultsearch.com listing",
+    "Frictionless invoicing; she pays immediately when the rail works",
+    "Clarity on channel ownership (X/Twitter is NOT run by ALTR — confirmed on the Jul 31 call with Mica)"
+  ],
+  "suggestions": [
+    "URGENT — give Barbara a written root-cause answer on the IG suspensions this week, and directly answer her Aug 11 question about whether any engagement tool or external software was attached to her accounts. She asked twice; 'Dont worry about why' from Derrek on Aug 11 is the single biggest goodwill risk in this account.",
+    "Fix the payment rail BEFORE the Aug 15 invoice. Zelle failed three ways and only cleared via Derrek's personal cell. Verify one business destination end-to-end and print it on the invoice.",
+    "Deliver or formally retire the backup IG @ name (Michelle, promised Aug 1, three weeks late and chased three times). If the phone-farm situation means it isn't coming, say so plainly.",
+    "Answer her TikTok linkme question — open since Aug 11, and she clarified 'linkme' on Aug 12 with no reply since. This also unblocks Mayson's Jul 31 link-in-bio promise.",
+    "Acknowledge the Aug 13 Dropbox drop of her backflip/OFTV footage — nobody responded, and this is exactly the proactive behaviour ALTR wants to reinforce.",
+    "Close the adultsearch.com loop in the DMCA topic with a filed/removed status; Derrek's 'yes' on Aug 7 was never followed up and Michelle's Aug 10 leak report didn't mention it.",
+    "Institutionalise what worked: Michelle's Aug 10 weekly leak-removal report and Mica's Aug 13 reel inspo both drew warm replies. A matching weekly IG/growth status note would have prevented most of this week's chasing."
+  ],
+  "wins": [
+    "First invoice collected in full — $3,617.59 confirmed Aug 9, and Barbara volunteered the remainder proactively ('Sending remainder tomorrow!!')",
+    "Michelle delivered the first proactive weekly leak-removal breakdown on Aug 10 and Barbara replied 'Thank you Michelle!' — unprompted value the client visibly appreciated",
+    "Mica resumed weekly reel inspo drops on Aug 13 after the Jul 31 kickoff call",
+    "Derrek engaged personally and same-day on the Aug 11 account escalation rather than going quiet",
+    "Client is still shipping content on her own initiative — filmed and delivered backflip OFTV footage via Dropbox on Aug 13 ('ok i have backflip oftv footage')",
+    "Phone farm came back online Aug 8 ('Yep it’s back up'), removing the stated blocker on resuming posting"
+  ],
+  "week_stats": {
+    "messages": 69,
+    "client_messages": 40,
+    "team_messages": 29
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "client": "Liza Kovalenko",
+  "slug": "liza-kovalenko-x-altr",
+  "status": "at_risk",
+  "status_reason": "Still paying (early, unprompted) and still cordial, but the relationship has narrowed to invoice-out / wire-in for ~3 months; her #1 concern (IG safety) has had zero owner follow-up since 08-04, and tonight (08-26) she is in a live wire-reconciliation dispute on a bank account number that changed 6 weeks after 'last change I promise' - 'So out of all wires you only got 5k?' is the first frustrated tone in 13 months.",
+  "last_client_message": "2026-08-26",
+  "dimensions": {
+    "responsiveness": {
+      "severity": 2,
+      "internal_failure": "When someone answers, they answer fast (median ~1.6h), but ~19 of her ~66 questions waited >24h and at least 7 were never answered at all (call reschedule, 'what will Michelle do', Guada collab upload, IG 'maybe the link is the problem?', 'was it someone from the team that logged in?', OF-flag diagnosis, ads stats). She has had to nudge with 'hello?', '@ any updates?', 'Pls let me know', 'Pls confirm'.",
+      "evidence": [
+        {"quote": "Also, I texted regarding OF collab but no one replied, who I can arrange it with?", "who": "Eli", "date": "2026-01-16"},
+        {"quote": "Hi babe ! I have this problem with my insta again when they don't recommend my profile but won't tell me what's wrong or what content to remove... Maybe the link became the problem?", "who": "Eli", "date": "2026-03-17"},
+        {"quote": "Hey! I sent two wires from the same name as last time. One for 5.000$ and another for the rest 2.433$ [3 screenshots] Actually it's 3 wires sorry", "who": "Eli", "date": "2026-08-19"},
+        {"quote": "Hey! I have sent two more wires 7k total / Couple days ago / Pls confirm if you guys received those too thank you", "who": "Eli", "date": "2026-08-25"}
+      ]
+    },
+    "follow_through": {
+      "severity": 3,
+      "internal_failure": "Roughly 10 of ~24 explicit our-side promises silently lapsed, and the biggest ones are the owner's: the paid-ads statistics she was billed 5% extra for (promised 11-18, 'later tonight' 11-23, never delivered - 9 months), the Phone Farm 'plenty of updates starting next week' (08-01, none since), and 'last change I promise!' on bank details (07-01) broken on 08-15. Sub-team 'I'll look into it' promises (Nick Scott 01-26, Ronnie 08-09, Mayson's monthly call 07-20) all died without a report-back.",
+      "evidence": [
+        {"quote": "Also, guys, we increased the 5% for this month in order to try out the paid Instagram ads, I wanna know how it's going so far. Is there any statistics I can see?", "who": "Eli", "date": "2025-11-18"},
+        {"quote": "yes its going amazing / ill get you full summary", "who": "Derrek", "date": "2025-11-18"},
+        {"quote": "Glad to hear that! Would love to see the statistics on the promo. Any time you can, no rush. Thanks", "who": "Eli", "date": "2025-11-23"},
+        {"quote": "Want to let you know we have a new bank for you to send to (last change I promise!).", "who": "Stephski", "date": "2026-07-01"},
+        {"quote": "Please note an update to the account number, please try and send using the information on the invoice.", "who": "Stephski", "date": "2026-08-15"},
+        {"quote": "Thank you for your understanding, we will have plenty of updates starting next week.", "who": "Derrek", "date": "2026-08-01"}
+      ]
+    },
+    "proactive_communication": {
+      "severity": 3,
+      "internal_failure": "After Raw Agency (Sophie) vanished in Oct 2025, ALTR never once sent OF performance stats, a report, or a call recap; Michelle's promo updates stopped 10-03-2025 and the promised 'live results' system never appeared; Nick's weekly DMCA reports stopped after 03-04-2026 with no explanation. Since April 2026 our unprompted output is invoices plus Mica's reel-inspo list (which itself skipped 03-05 to 04-23 and 04-23 to 06-09). Longest stretch with zero our-side messages: 26 days (05-05 to 06-01), and the message that broke it was an invoice.",
+      "evidence": [
+        {"quote": "We're also finalizing a new system that will give you live results and visibility into upcoming promotions. Thank you for your patience as we put the finishing touches on this", "who": "Lauren Biz Assistant", "date": "2025-09-07"},
+        {"quote": "Hey Liza. Sending through your latest report and 14-day game plan. Your reels are looking incredible... The views are insane and your account is really growing because of it.", "who": "Sophie Logan (Raw Agency)", "date": "2025-09-23"},
+        {"quote": "Happy June 1st! Already halfway through the year. Attached below is your invoice for May 15th-31st.", "who": "Stephski", "date": "2026-06-01"}
+      ]
+    },
+    "onboarding_handoff": {
+      "severity": 2,
+      "internal_failure": "Loose ends never closed: Mica's kickoff 1:1 was never confirmed (her 08-08 'Any chance we do it tomorrow?' got no reply), contract/onboarding-form completion was never acknowledged in chat, Michelle's 'what exactly will we be doing?' was never answered, and the roster churned (Lauren->Stephski, Sophie/Olivia gone by Oct 2025, Joseph/Mayson/Ronnie/Vivek added later) with no 'who to contact for what' map - so she ends up asking who owns things and routing money/IG questions to Derrek off-chat.",
+      "evidence": [
+        {"quote": "I see in calendar closest day open is Monday but I'll be flying from la to Hawaii at the time / I'm not sure I'll be available / Amy chance we do it tomorrow?", "who": "Eli", "date": "2025-08-08"},
+        {"quote": "Hi Michelle! Nice to meet you exited to work together!! What is it exactly well gonna be doing ?", "who": "Eli", "date": "2025-09-08"},
+        {"quote": "if you would just put it in the takedown tab so the correct team can answer it", "who": "Derrek", "date": "2025-12-06"}
+      ]
+    },
+    "chatter_conduct": {
+      "severity": 2,
+      "internal_failure": "The OF chat team accepted and queued paid customs (with dirty-talk requirements) before ever asking the model whether she does customs; and gave a glib, unsupported assurance on OF account risk ('You can get 1000 flags, nothing will ever happen') instead of a diagnosis.",
+      "evidence": [
+        {"quote": "You have 2 that are currently pending", "who": "Ronnie Chat", "date": "2026-07-20"},
+        {"quote": "Hi Ronnie! I had never done custom videos before, I thought it's a topic for discussion with me first", "who": "Eli", "date": "2026-07-20"},
+        {"quote": "He just want a video wheree youu sayy HI KAREEMM and he wants some personal dirty talk", "who": "Ronnie Chat", "date": "2026-07-20"},
+        {"quote": "No / You can get 1000 flags / Nothing will ever happen", "who": "Noah Chat", "date": "2026-01-28"}
+      ]
+    },
+    "platform_health": {
+      "severity": 3,
+      "internal_failure": "IG flagging/shadowban/lock/deletion raised by her ~8 times since 10-10-2025 and never owned: advice was generic tips, sometimes contradictory (Sophie 'phishing scam, don't worry' vs Derrek off-chat 'new-device alert'), her 03-17 'not recommended... maybe the link is the problem?' got no reply from anyone, the Meta rep Vivek added 07-29 has never posted, and the owner's 08-01 Phone Farm fix has produced zero updates in 25 days. She has stopped raising IG issues - resignation, not resolution.",
+      "evidence": [
+        {"quote": "Hey babe idk what going on it's actually really concerning.. every time I delete the flagged posts they put there new posts, and there's like A LOT of them and as you can see it's even videos in clothes..", "who": "Eli", "date": "2025-10-10"},
+        {"quote": "So they randomly delete my photos / reels , they don't flat them, just delete straight away... Happens every 4-5 days... Do you know if there's something I can do about it ?", "who": "Eli", "date": "2026-02-01"},
+        {"quote": "hi @xanaduexpress! did this continue happening?", "who": "Mica Vecco", "date": "2026-02-05"},
+        {"quote": "Hey Ive added Vivek in here ( @fonta ). He is our Meta Support Rep that will help keep your IG accounts up and safe... simply @ him in the chat and he will help.", "who": "Derrek", "date": "2026-07-29"}
+      ]
+    },
+    "billing_ops": {
+      "severity": 3,
+      "internal_failure": "We changed receiving bank details 5 times in 11 months (OF Match Ent -> Social Depot -> 'new account' 04-15 -> Mercury -> Bank of America 'last change I promise' -> new account no. 08-15) on a client who can only wire in-branch in Mexico via third-party senders; side-channel payments to Derrek (crypto 02-14, 08-06; 'talking to Derek' 05-05) never reach billing so Stephski chases already-paid invoices; and every split-wire cycle since June has produced a discrepancy we made her resolve ($200 short 07-14, phantom '$1201 remaining' 07-27 that turned out 'all good' after she pushed twice, and now 08-26: only $5k of ~$14.4k in 5 wires acknowledged, wires bouncing off the new account, 7 days with no receipt confirmation).",
+      "evidence": [
+        {"quote": "Hi queen! checking in making sure you saw this", "who": "Stephski", "date": "2026-02-18"},
+        {"quote": "Hey babe I already sent / Derek knows / I did crypto to him", "who": "Eli", "date": "2026-02-18"},
+        {"quote": "@xanaduexpress we recieved $6300, still $1201 remaining", "who": "Stephski", "date": "2026-07-27"},
+        {"quote": "So I checked and she told me it was sent in two wires / You sure you only got one? Can you please double check?", "who": "Eli", "date": "2026-07-29"},
+        {"quote": "got the 5000! waiting for the others to show up", "who": "Stephski", "date": "2026-08-26"},
+        {"quote": "So out of all wires you only got 5k? ... Please check your account cause wires bounced back we did them from banking online they all bounce back and we had to resend them", "who": "Eli", "date": "2026-08-26"}
+      ]
+    },
+    "ownership_escalation": {
+      "severity": 2,
+      "internal_failure": "Nobody owns the account. Payment questions get bounced by @-tag (Mayson->Stephski 07-23 and 07-30, Derrek->Stephski 07-15 and 07-31, Mayson->Ronnie 08-06) instead of answered; the OF 'tag a creator' flag passed through Nick Scott, Noah, Ronnie and Mayson without a diagnosis; IG issues split across Mica, Sophie, Derrek (off-chat) and a silent Vivek; and the client's workaround is to deal with Derrek privately, which then blindsides the billing lead.",
+      "evidence": [
+        {"quote": "@stephskiii ^^", "who": "Mayson Chat", "date": "2026-07-23"},
+        {"quote": "@stephskiii", "who": "Derrek", "date": "2026-07-31"},
+        {"quote": "Hey! I've talked to Derek and we figured that it happened because I've logged into my account from two new devices via one month which had alerted the system", "who": "Eli", "date": "2025-10-27"},
+        {"quote": "Hey babe! Yes thank you sm. I was already talking to Derek about it", "who": "Eli", "date": "2026-05-05"}
+      ]
+    },
+    "disengagement_detection": {
+      "severity": 2,
+      "internal_failure": "Nobody reacted as her non-billing traffic went to zero: three consecutive reel-inspo drops (07-10, 07-29, 08-13) got no reply and Mica did not check in; Mayson's 'monthly call tomorrow?' (07-20) was dropped mid-thread and never rescheduled; her 'my twitter isn't doing great... I feel like I must be doing something wrong' (01-26) got 'we're working on bringing on a twitter team' and nothing after; and Mica re-pitched FB management on 03-11 two months after she had clearly declined it. The week of 08-11 had zero client messages and no one noticed.",
+      "evidence": [
+        {"quote": "Hi babe! So far I'm doing it myself and it's been amazing I grow 110k in 2 month cause all reels I'm post no to instagram also goes on FB and they get views from both platforms. It's been easy for me to manage", "who": "Eli", "date": "2026-01-09"},
+        {"quote": "hi girl! do you have time now to re-add us to your facebook access?", "who": "Mica Vecco", "date": "2026-03-11"},
+        {"quote": "Hey @xanaduexpress are you available for our monthly call tomorrow?", "who": "Mayson Chat", "date": "2026-07-20"},
+        {"quote": "My twitter isn't doing great / Been trying to grow it for a long time / But I feel like I must be doing something wrong", "who": "Eli", "date": "2026-01-26"}
+      ]
+    },
+    "security_hygiene": {
+      "severity": 2,
+      "internal_failure": "We asked her to paste her Facebook email + password into the group chat (10-27); the owner posted a personal ERC-20 wallet in-chat as a payment rail with no invoice trail (02-14); and her direct security question about an OnlyFans login alert - 'Was it someone from the team that logged in?' (03-18) - was never answered by anyone. Constantly changing bank details in a chat also erodes her ability to tell a real ALTR bank change from a phishing attempt.",
+      "evidence": [
+        {"quote": "We can definitely run your FB account for you! Just need a couple things: FB login / Username - Email/phone: / Password:", "who": "Mica Vecco", "date": "2025-10-27"},
+        {"quote": "Hey!! [screenshot] Was it someone from the team that logged in ?", "who": "Eli", "date": "2026-03-18"},
+        {"quote": "Erc20? / 0xceB86A7658bcd09E2C16AE336Eb690508424A69e", "who": "Derrek", "date": "2026-02-14"}
+      ]
+    }
+  },
+  "metrics": {
+    "client_questions_total": 66,
+    "unanswered_over_24h": 19,
+    "max_team_silence_days": 26,
+    "promises_made": 24,
+    "promises_kept": 13,
+    "promises_lapsed": 10,
+    "method": "Full history 2025-07-24..2026-08-26 (1004 lines, 977 sender messages). client_questions_total = Eli messages containing '?'. unanswered_over_24h = manual pass over those questions: no on-topic our-side reply within 24h (7 never answered; a naive 'any our-side message' script gives 10). max_team_silence_days = longest gap between consecutive messages from anyone not 'Eli' (team + vendor + Raw Agency): 05-05 to 06-01. Promises = explicit our-side commitments ('I'll get you', 'will send', 'I'll look into', 'last change I promise', 'updates next week'); kept counts late-but-delivered; 1 remaining is open (Stephski 'Checking these' 08-26)."
+  },
+  "what_client_wanted": [
+    "Clear content direction she can execute while travelling: \"I would like to receive the content ideas / scripts so it's easier for me to make content I know exactly what content you need!\" (2025-09-09); \"Please let me know what content you guys need\" (2025-10-03)",
+    "A real answer on platform flags, not a workaround: \"Pls let me know if you have an idea of what it is / Or if any of your models faced this\" (2025-12-18); \"Is it going to affect my account ? Or they just delete photos and that's it ?\" (2026-01-28)",
+    "Visibility into results she is paying for: \"I wanna know how it's going so far. Is there any statistics I can see? Would like to get more information on it\" (2025-11-18)",
+    "Written confirmation that her (hard-to-send) wires landed, and to be consulted before we sell on her behalf: \"Can you please confirm you received them\" (2026-04-03); \"I thought it's a topic for discussion with me first\" (2026-07-20)"
+  ],
+  "what_worked": [
+    "Nick | DMCA's fast, specific takedowns with a stated ETA and a closing update - \"Amazing thank you Nick great job\" (2025-12-11); \"Thank you amazing job\" (2025-09-15)",
+    "Sophie's strategy call plus same-day written debrief and 14-day game plan - \"Was a pleasure you so nice!! thank you for sending this over too xx\" (2025-09-18)",
+    "Mica's real-time shadowban triage on 10-10-2025 (checked her profile live, gave concrete tips) and ongoing reel inspo with encouragement - \"Perfect thank you babe! That's good news, my profile in green, and some reels are getting views yes\" (2025-10-22); \"wanted to thank a team for an amazing job let's continue crushing it\" (2026-01-01)"
+  ],
+  "top_fix": "Give this account one named owner (not the billing lead) who (a) confirms every payment in writing within 24h and reconciles side-channel/crypto payments with billing before any chase goes out, and (b) runs a fortnightly touchpoint that closes the loop on every open item - IG/OF flag diagnosis, the Phone Farm rollout, the paid-ads stats - so she is no longer the only person initiating contact, and only about money."
+}

@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
+<title>Stephski — Weekly Summary 2026-08-14</title>
+<style>
+:root {
+  color-scheme: light;
+  --page: #f9f9f7; --surface: #fcfcfb;
+  --ink: #0b0b0b; --ink-2: #52514e; --muted: #898781;
+  --grid: #e1e0d9; --baseline: #c3c2b7; --ring: rgba(11,11,11,0.10);
+  --series-1: #2a78d6;
+  --good: #0ca30c; --warning: #fab219; --serious: #ec835a;
+  --delta-good: #006300;
+  --good-bg: rgba(12,163,12,.10); --warning-bg: rgba(250,178,25,.14); --serious-bg: rgba(236,131,90,.14);
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: dark;
+    --page: #0d0d0d; --surface: #1a1a19;
+    --ink: #ffffff; --ink-2: #c3c2b7; --grid: #2c2c2a; --baseline: #383835;
+    --ring: rgba(255,255,255,0.10); --series-1: #3987e5; --delta-good: #0ca30c;
+  }
+}
+@media print { :root { color-scheme: light; --page: #ffffff; --surface: #ffffff; } }
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--page); color: var(--ink); font: 15px/1.55 system-ui, -apple-system, "Segoe UI", sans-serif; }
+.wrap { max-width: 760px; margin: 0 auto; padding: 32px 24px 64px; }
+.card { background: var(--surface); border: 1px solid var(--ring); border-radius: 12px; padding: 24px 26px; }
+h1 { font-size: 21px; margin: 0; display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+.sub { color: var(--ink-2); margin: 2px 0 16px; }
+.badge { display: inline-flex; align-items: center; gap: 5px; font-size: 12.5px; font-weight: 600; padding: 2px 9px; border-radius: 999px; border: 1px solid var(--ring); }
+.badge.good { background: var(--good-bg); } .badge.warning { background: var(--warning-bg); } .badge.serious { background: var(--serious-bg); }
+.dot { width: 8px; height: 8px; border-radius: 50%; display: inline-block; }
+.dot.good { background: var(--good); } .dot.warning { background: var(--warning); } .dot.serious { background: var(--serious); }
+.pill { font-size: 12px; border: 1px solid var(--ring); border-radius: 999px; padding: 1px 8px; color: var(--ink-2); }
+h2 { font-size: 13px; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); margin: 22px 0 8px; }
+table { width: 100%; border-collapse: collapse; font-size: 13.5px; }
+th { text-align: left; color: var(--muted); font-weight: 600; font-size: 12px; padding: 4px 8px 4px 0; border-bottom: 1px solid var(--grid); }
+td { padding: 6px 8px 6px 0; border-bottom: 1px solid var(--grid); vertical-align: top; font-variant-numeric: tabular-nums; }
+ul { margin: 0; padding-left: 20px; } li { margin: 5px 0; }
+.strength::marker { content: "✓  "; } .strength { color: var(--ink-2); }
+.flag::marker { content: "⚠  "; } .flag { color: var(--ink-2); }
+blockquote { margin: 8px 0 0; padding: 6px 12px; border-left: 3px solid var(--baseline); color: var(--ink-2); font-size: 13.5px; }
+.q-meta { color: var(--muted); font-size: 12px; }
+footer { color: var(--muted); font-size: 12.5px; margin-top: 20px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+<div class="card">
+  <h1>Stephski
+    <span class="pill">Invoicing</span>
+    
+    <span class="badge serious"><span class="dot serious"></span>8 open items</span>
+  </h1>
+  <div class="sub">ALTR weekly summary · week ending 2026-08-14</div>
+
+  <p>A genuinely good week on the things inside her control, and it should be said plainly. She collected Barbara&#39;s first invoice in full ($3,617.59) after three separate ALTR-side Zelle failures, closed Sarah Lloyd&#39;s $3,538 overpayment credit cleanly (client transferred within a minute), chased Chey Mai on day 1 and day 3 instead of day 10 — exactly the fix flagged in last week&#39;s rollup — halved Lauryn&#39;s outstanding balance, and collected Vicky&#39;s late invoice. Open items dropped from 11 to 8. The dominant problem on her desk is not hers: ALTR&#39;s receiving rails failed on three different clients this week (Barbara, Lauryn, Lilia), all three were actively trying to pay, and two of them could only pay by Zelling Derrek&#39;s personal phone number. That root cause is upstream of her and needs an owner above her. What is hers to fix is confirmation latency and putting a verified destination plus a due date on the invoice itself.</p>
+
+  
+  <h2>By client</h2>
+  <table>
+    <thead><tr><th>Client</th><th>Reminders</th><th>Complaints</th><th>Commitments</th><th>Notes</th></tr></thead>
+    <tbody>
+    
+      <tr><td>Chey Mai</td><td>0</td><td>0</td>
+          <td>0 kept / 2 overdue</td>
+          <td style="font-size:12.5px">Chased promptly on Aug 9 and again Aug 11 with a pause-in-work warning — the exact fix flagged last week. Client asked for 4 more days citing her OF payout. Open: the Jul 13 PayPal question is now 32 days unanswered, which matters because a faster rail is a plausible fix for three straight late invoices, and the combined Aug 15 invoice will stack two periods onto a cash-constrained client.</td></tr>
+    
+      <tr><td>Lilia</td><td>1</td><td>1</td>
+          <td>0 kept / 1 overdue</td>
+          <td style="font-size:12.5px">Client tried to pay and could not — &#39;I tried Zelleing u twice but it says u no longer have the ID&#39;. Fourth receiving-rail change since June (Mercury, Chase, Bank of America, now a dead Zelle ID). Stephski chased Aug 4/9/11 and supplied a replacement number the same day the failure was reported; no confirmation the funds landed by Aug 14. The client is not at fault and has never disputed an amount.</td></tr>
+    
+      <tr><td>Alex Paige Moore</td><td>0</td><td>1</td>
+          <td>1 kept</td>
+          <td style="font-size:12.5px">The $1,989 July reconciliation gap has still never been closed in writing, and two further deductions ($4,160 and $2,434) have now been applied on top of it. She chased the invoice politely on Aug 11 and apologised for the ALTR-side mess (&#39;Sorry about all that&#39;); the client paid $9,821 AUD in full on Aug 13. Needs one itemized running ledger from Jul 1 to date.</td></tr>
+    
+      <tr><td>Mila</td><td>4</td><td>0</td>
+          <td>0 kept / 1 overdue</td>
+          <td style="font-size:12.5px">Proactively checked for the missing wire on both Aug 9 and Aug 11 rather than leaving it — client replied &#39;Ahhh perf!! X&#39;. But &#39;Will update you shortly!&#39; on Aug 11 was never followed up, and Callie&#39;s Aug 8 question about whether the payment came through twice is 6 days unanswered. Fourth time across three cycles she has had to ask whether her money arrived.</td></tr>
+    
+      <tr><td>Hannah</td><td>0</td><td>0</td>
+          <td>0 kept / 1 overdue</td>
+          <td style="font-size:12.5px">Churned client, 39 days silent. Final 7/1-7/7 invoice still unissued and no collection attempt at all this window. This should not sit in a dead chat thread on her desk — it needs an owner and a decision date at management level.</td></tr>
+    
+      <tr><td>Lauryn</td><td>0</td><td>1</td>
+          <td>1 kept / 1 overdue</td>
+          <td style="font-size:12.5px">Closed last week&#39;s Zelle blocker with a working alternative on Aug 9 and handled the shortfall graciously; balance fell from $3,852.15 to $1,852.15 across two tranches with only light nudging. Complaint resolved. Open: the $1,852.15 rolls into a third consecutive invoice period, and the workaround was Derrek&#39;s personal Zelle, not a fixed rail.</td></tr>
+    
+      <tr><td>Barbara</td><td>3</td><td>1</td>
+          <td>1 kept</td>
+          <td style="font-size:12.5px">Best result of her week: first invoice collected in full, $3,617.59 confirmed Aug 9, complaint resolved. Barbara was never the blocker — she tried to pay the day it arrived and hit three consecutive ALTR-side failures over six days. Stephski apologised without deflecting (&#39;so sorry about the confusion&#39;). Risk carried forward: the Aug 15 invoice goes out with no verified business rail, only the owner&#39;s personal number.</td></tr>
+    
+      <tr><td>Sarah Lloyd</td><td>0</td><td>0</td>
+          <td>1 kept</td>
+          <td style="font-size:12.5px">Applied the $3,538 July 1-15 overpayment credit on Aug 9 and gave a clean corrected total of $10,931.86; Sarah transferred within the minute. Fair note: it took five days from her Aug 4 ask and only moved after Derrek tagged Stephski, and this was the fourth consecutive invoice the client had to audit.</td></tr>
+    
+      <tr><td>Vicky</td><td>0</td><td>0</td>
+          <td>1 kept</td>
+          <td style="font-size:12.5px">Jul 15-31 invoice collected Aug 11 and confirmed Aug 12, clearing the balance. Third invoice in a row that needed chasing — the invoice message carries no explicit due date or USDT TRC20 address, which is a cheap fix.</td></tr>
+    
+      <tr><td>Sarah</td><td>0</td><td>0</td>
+          <td>1 kept</td>
+          <td style="font-size:12.5px">Clean cycle, paid in two halves and receipt confirmed Aug 9, no chasing. Forward risk: no pre-invoice heads-up went out before Aug 15 and referral deductions are still computed after the invoice date, which slipped the last two cycles.</td></tr>
+    
+      <tr><td>Vale</td><td>0</td><td>0</td>
+          <td>0 kept</td>
+          <td style="font-size:12.5px">8-for-8 on on-time payments. Her standing pre-invoice &#39;do your OF withdrawal&#39; nudge did not go out ahead of Aug 15 — it is the cheapest thing protecting that record.</td></tr>
+    
+      <tr><td>Shayna</td><td>0</td><td>0</td>
+          <td>0 kept</td>
+          <td style="font-size:12.5px">Zero messages this week and no pre-invoice withdrawal nudge. She is in Africa for a month with a $1,000/day Zelle cap — the Aug 15 invoice needs a method agreed before it is issued.</td></tr>
+    
+      <tr><td>Alanna</td><td>0</td><td>0</td>
+          <td>0 kept</td>
+          <td style="font-size:12.5px">No contact since 8/4. Her very first invoice lands 8/15 and she has never been walked through amounts, split basis or payment method — it will land cold.</td></tr>
+    
+      <tr><td>Liza Kovalenko</td><td>0</td><td>0</td>
+          <td>0 kept</td>
+          <td style="font-size:12.5px">No payment activity in window. Her last two payments moved off-channel (crypto direct to Derrek, third-party wires) where Stephski cannot see them; she has now chased an already-paid invoice twice. Needs Derrek to confirm side-channel receipts in the Invoicing topic before the next send.</td></tr>
+    
+    </tbody>
+  </table>
+  
+
+  
+  <h2>What went well</h2>
+  <ul><li class="strength">Barbara: collected the first invoice in full ($3,617.59, confirmed Aug 9) after three consecutive ALTR-side Zelle failures, and owned the mess rather than pushing it onto the client — &#39;Thank you so much ❤️ so sorry about the confusion&#39;</li><li class="strength">Sarah Lloyd: applied the $3,538 overpayment credit and issued a clean corrected total of $10,931.86 on Aug 9 — the client transferred within a minute and the billing dispute closed</li><li class="strength">Chey Mai: chased on Aug 9 and again on Aug 11 rather than waiting until day 10, which is precisely the coaching point from last week&#39;s rollup</li><li class="strength">Lauryn: gave her a working payment route within two days of the Zelle failure and agreed to roll the shortfall onto the next invoice rather than making it a fight — balance cut from $3,852.15 to $1,852.15</li><li class="strength">Mila: proactively checked for the missing wire on both Aug 9 and Aug 11 instead of waiting to be asked</li><li class="strength">Vicky and Alex Paige Moore both settled in full inside the window after her chases; total open items fell from 11 to 8</li></ul>
+  
+
+  
+  <h2>Focus areas this week</h2>
+  <ul><li class="flag">ALTR&#39;s receiving rails failed on 3 clients this week — Barbara (invoice email not Zelle-recognised, the promised Zelle request never arrived, and the &#39;altrpaymentsmgmt&#39; tag failed; it only cleared when she Zelled Derrek&#39;s personal phone number), Lauryn (&#39;our zelle is having issues again&#39;, redirected to Derrek&#39;s personal Zelle), Lilia (&#39;I tried Zelleing u twice but it says u no longer have the ID&#39;). None of the three clients was at fault; all three were actively trying to hand ALTR money. The root cause is ALTR&#39;s banking/processor setup and sits upstream of Stephski — it needs an owner above her. What is hers: verify one business destination end-to-end with a test payment, print it on every invoice, and retire the personal-number workaround.</li><li class="flag">Payment-receipt confirmation still lags — 3 clients: Mila (has now asked 4 times across 3 cycles; &#39;Will update you shortly!&#39; on Aug 11 with nothing since, and her Aug 8 duplicate-payment question 6 days unanswered), Paige (no explicit &#39;wire landed&#39; post for her Aug 4 transfer), Sarah (halves confirmed 3 days later). A same-day one-line receipt would remove all of it.</li><li class="flag">Invoices go out without an explicit due date or a verified destination on the document — 3 clients: Vicky (no due date and no TRC20 address in the message; three invoices, three chases), Lilia (no due date on the PDF), Mila (USD-only invoicing to a GBP account with no stated due date). Put both on the document and send one reminder two days BEFORE the due date rather than three after it.</li><li class="flag">Client questions about how to pay go unanswered while the money problem compounds — 2 clients: Chey Mai (PayPal question open 32 days after &#39;Let me check on that for you&#39;, while she runs three straight late invoices) and Alex Paige Moore ($1,989 ledger gap never reconciled in writing, with $4,160 and $2,434 in deductions applied on top).</li><li class="flag">The pre-invoice heads-up — her own standing practice — was dropped across 4 books before the Aug 15 cycle: Vale, Shayna (abroad, $1,000/day Zelle cap), Sarah (referral deductions computed late two cycles running), Alanna (first ever invoice, no contact since Aug 4).</li></ul>
+  
+
+  
+  <blockquote>“Thank you so much ❤️ so sorry about the confusion” <span class="q-meta">— Barbara, 2026-08-09</span></blockquote>
+  
+  <blockquote>“LA can you please try and zelle derrek? our zelle is having issues again im so sorry” <span class="q-meta">— Lauryn, 2026-08-09</span></blockquote>
+  
+  <blockquote>“Can you try to zelle this number? it’s attached to that so should work” <span class="q-meta">— Lilia, 2026-08-12</span></blockquote>
+  
+  <blockquote>“you can subtract 3,538” <span class="q-meta">— Sarah Lloyd, 2026-08-09</span></blockquote>
+  
+  <blockquote>“I believe we got it, waiting for it to finalize processing so I can see sender info but it looks like your total” <span class="q-meta">— Mila, 2026-08-11</span></blockquote>
+  
+  <blockquote>“Okay no problem, just a heads up we have another invoice going out in 4 days so I will shoot you a new invoice with whatevers remaining at that point put all together” <span class="q-meta">— Chey Mai, 2026-08-11</span></blockquote>
+  
+</div>
+<footer>Generated by ALTR client-chat reporting · confidential — for Stephski and management.</footer>
+</div>
+</body>
+</html>

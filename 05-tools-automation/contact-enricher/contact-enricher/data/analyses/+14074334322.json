@@ -1,0 +1,32 @@
+{
+ "name": null,
+ "name_confidence": 0.0,
+ "category": "Unknown",
+ "category_confidence": 0.45,
+ "summary": "Unnamed contact who is a business associate of \"Alex\" (the phone owner's partner) and works as a longtime Google Ads specialist (self-described \"27 year Google ads guy\"). Over 6/17-6/19/2026 he coordinated emergency remediation of four hacked websites \u2014 two on GoDaddy hosting, two on Pressable (his server) \u2014 handing over credentials so Derrick's dev team could clear an IP/vendor blacklist and move the sites behind Cloudflare. GoDaddy claimed the sites were targeted in an attack and refused to remove malicious code because a GoDaddy template was used, so the plan shifted to buying two new domains and migrating the sites. As of 6/19 all four sites were reported down after the Cloudflare change and he was waiting on instruction for when to change DNS \u2014 needs follow-up to confirm the sites came back up.",
+ "key_facts": [
+  "Business associate of \"Alex\"; Derrick introduced himself as \"Alex's partner\" from a shared group chat",
+  "Self-described 27-year Google Ads specialist; limited technical/web knowledge (also does woodworking)",
+  "4 websites total: 2 hosted at GoDaddy, 2 at Pressable (his own server); the 2 WordPress sites were restored in a day",
+  "Shared login credentials in plain text over SMS (username 617393334 / password !Vacation5506) \u2014 credentials should be rotated",
+  "GoDaddy said the sites were targeted in an attack and would not remove malicious code because a GoDaddy template was used",
+  "Plan was to buy 2 new domains and migrate the sites off the compromised environment; \"support\" not allowed in one domain name",
+  "No SEO on the sites; pages set to nofollow",
+  "Open issue as of 2026-06-19: all 4 sites down after Cloudflare cutover; he was waiting to be told when to change DNS",
+  "Another party (\"Chandler\") and a Google call at 3pm were referenced"
+ ],
+ "services_discussed": [
+  "Cloudflare setup / proxy enabled on domains",
+  "Nameserver and DNS changes (GoDaddy domains)",
+  "Vendor/IP blacklist removal",
+  "Hacked site cleanup and malware/malicious code removal",
+  "Website migration to new domains and hosting",
+  "cPanel/hosting access for remediation",
+  "Google Ads (his own area of expertise)"
+ ],
+ "handle": "+14074334322",
+ "analyzed_rowid": 1438123,
+ "message_count": 90,
+ "first_date": "2026-06-17",
+ "last_date": "2026-06-19"
+}

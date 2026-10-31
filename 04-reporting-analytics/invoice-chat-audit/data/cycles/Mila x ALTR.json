@@ -1,0 +1,163 @@
+{
+ "cycles": [
+  {
+   "chat": "Mila x ALTR",
+   "period_key": "2026-06-21",
+   "period": "2026-06-21..06-30",
+   "period_start": "2026-06-21T00:00:00-05:00",
+   "issued_ts": "2026-07-01T15:26:03-05:00",
+   "issued_by": "Stephski",
+   "issue_msg_ids": [
+    55,
+    56
+   ],
+   "followups": [],
+   "escalations": [],
+   "payment_links": [],
+   "payment_claimed_ts": null,
+   "payment_claim_msg": null,
+   "payment_confirmed": false,
+   "evidence": "none",
+   "lag_days": null
+  },
+  {
+   "chat": "Mila x ALTR",
+   "period_key": "2026-07-01",
+   "period": "2026-07-01..07-14",
+   "period_start": "2026-07-01T00:00:00-05:00",
+   "issued_ts": "2026-07-15T15:38:21-05:00",
+   "issued_by": "Stephski",
+   "issue_msg_ids": [
+    106,
+    107,
+    114
+   ],
+   "followups": [],
+   "escalations": [],
+   "payment_links": [],
+   "payment_claimed_ts": "2026-08-08T02:15:21-05:00",
+   "payment_claim_msg": 130,
+   "payment_confirmed": false,
+   "evidence": "claimed_only",
+   "lag_days": 23.4
+  },
+  {
+   "chat": "Mila x ALTR",
+   "period_key": "2026-07-15",
+   "period": "2026-07-15..07-31",
+   "period_start": "2026-07-15T00:00:00-05:00",
+   "issued_ts": "2026-08-01T15:50:19-05:00",
+   "issued_by": "Stephski",
+   "issue_msg_ids": [
+    122,
+    123
+   ],
+   "followups": [],
+   "escalations": [],
+   "payment_links": [],
+   "payment_claimed_ts": "2026-08-04T22:26:24-05:00",
+   "payment_claim_msg": 126,
+   "payment_confirmed": true,
+   "evidence": "strong",
+   "lag_days": 3.3
+  }
+ ],
+ "events": [
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 55,
+   "ts": "2026-07-01T15:26:03-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 56,
+   "ts": "2026-07-01T15:26:08-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 71,
+   "ts": "2026-07-06T20:06:20-05:00",
+   "sender": "Michelle Queue"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 75,
+   "ts": "2026-07-07T06:48:11-05:00",
+   "sender": "Alex Camus"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 93,
+   "ts": "2026-07-12T11:32:38-05:00",
+   "sender": "Michelle Queue"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 106,
+   "ts": "2026-07-15T15:38:21-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 107,
+   "ts": "2026-07-15T15:38:25-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 113,
+   "ts": "2026-07-20T10:48:24-05:00",
+   "sender": "Michelle Queue"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 114,
+   "ts": "2026-07-20T20:56:00-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 117,
+   "ts": "2026-07-23T10:52:15-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 122,
+   "ts": "2026-08-01T15:50:19-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 123,
+   "ts": "2026-08-01T15:50:24-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 124,
+   "ts": "2026-08-01T19:08:45-05:00",
+   "sender": "Derrek"
+  },
+  {
+   "event": "PAYMENT_CLAIMED",
+   "id": 126,
+   "ts": "2026-08-04T22:26:24-05:00",
+   "sender": "Callie (Mila)"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 129,
+   "ts": "2026-08-07T01:10:12-05:00",
+   "sender": "Michelle Queue"
+  },
+  {
+   "event": "PAYMENT_CLAIMED",
+   "id": 130,
+   "ts": "2026-08-08T02:15:21-05:00",
+   "sender": "Callie (Mila)"
+  }
+ ]
+}

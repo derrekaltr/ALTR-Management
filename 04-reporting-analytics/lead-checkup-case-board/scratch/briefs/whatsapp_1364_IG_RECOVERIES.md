@@ -1,0 +1,54 @@
+# IG RECOVERIES  [whatsapp #1364 GROUP]
+msgs=45 (in=41 out=4) window=2026-06-19..2026-07-21
+last_client=2026-07-21 (59d ago), last_derrek=2026-07-21 (59d ago)
+LAST MESSAGE FROM CLIENT — UNANSWERED: ''
+
+  ...
+[2026-06-19 05:49] 120363425310679015@g.us: {"is_initially_empty":false,"reason":0,"auto_add_disabled":true,"context_group":null,"is_open_group":true,"show_membership_string":true,"is_hidden_sub_group":false,"is_parent_group_general_chat":false,"author":"65300816998597@lid","parent_group_name":null,"par…
+[2026-06-19 05:49] DEREK: Hey this is my Ig guy kartik
+[2026-06-19 05:49] 59709189005505@lid: hello
+[2026-06-19 05:49] DEREK: He can help you with your ban
+[2026-06-19 05:49] 59709189005505@lid: Thankyou so much
+[2026-06-19 05:51] 59709189005505@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363425310679015@g.us/7/e/7e25cea6-d5bb-4e1a-bada-21da42c1b90a.jpg>
+[2026-06-19 05:51] 59709189005505@lid: I didn’t receive any warnings I was straight up logged out and told it’s been disabled
+[2026-06-19 05:53] 197405874085999@lid: im sorry to hear that
+[2026-06-19 05:53] 59709189005505@lid: how can I get it back 🥹
+[2026-06-19 05:54] 59709189005505@lid: I think somebody was reporting me daily i added disclaimers to everything and was very careful what I posted
+[2026-06-19 05:55] 197405874085999@lid: we will have to get it submit it to an instagram rep
+[2026-06-19 05:55] 197405874085999@lid: how many followers on this?
+[2026-06-19 05:55] 59709189005505@lid: I think I’ve got around 1.5k followers
+[2026-06-19 05:55] 59709189005505@lid: The account was never verified with meta either
+[2026-06-19 05:56] 197405874085999@lid: ok okay
+[2026-06-19 05:57] 59709189005505@lid: there’s alot of people who are resharing that the account has been removed that are willing to back me up too
+[2026-06-19 05:57] 59709189005505@lid: I’ve built a brand around this and it’s all educational content
+[2026-06-19 07:08] 59709189005505@lid: Sorry for triple messaging but do you know how long this might take to resolve 🥹
+[2026-06-20 02:37] 197405874085999@lid: Sure we will look into this
+[2026-06-20 02:37] 197405874085999@lid: Give me until tonight thanks
+[2026-06-20 12:38] 59709189005505@lid: Thanks so much 🫶🏻
+[2026-06-22 01:23] 197405874085999@lid: hey do u happen to have facebook attached to that ig
+[2026-06-22 01:23] 59709189005505@lid: I don’t think it did no but if it was it’d only be Sinead corbett
+[2026-06-22 01:24] 197405874085999@lid: are you available for a call tommorow
+[2026-06-22 01:24] 197405874085999@lid: if its too late today
+[2026-06-22 01:24] 197405874085999@lid: ill tell u all i need
+[2026-06-22 01:24] 59709189005505@lid: yes I am!
+[2026-06-22 01:24] 59709189005505@lid: I’m free today to
+[2026-06-22 01:26] 197405874085999@lid: ok ill call u in 30
+[2026-06-22 01:27] 59709189005505@lid: sweet! Thankyou
+[2026-06-27 00:36] 59709189005505@lid: Hi
+[2026-06-27 04:37] 197405874085999@lid: Hey how are you
+[2026-06-27 04:37] 197405874085999@lid: Ill have a rep on mondah
+[2026-06-27 06:55] 59709189005505@lid: sure
+[2026-06-29 07:14] 59709189005505@lid: Hi
+[2026-07-03 18:47] 197405874085999@lid: Yo
+[2026-07-03 22:40] 59709189005505@lid: Yep hello
+[2026-07-05 15:11] 197405874085999@lid: We have a rep in office
+[2026-07-05 15:11] 197405874085999@lid: 5k
+[2026-07-21 01:17] 59709189005505@lid: No thanks
+[2026-07-21 02:21] 197405874085999@lid: Can u send screenshot of login again
+[2026-07-21 02:21] DEREK: are you able to click “read more about this rule”
+[2026-07-21 02:21] DEREK: depending on what this says it could be half that price
+[2026-07-21 02:22] 197405874085999@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363425310679015@g.us/b/d/bd30090d-0e17-48bb-b64b-65a7ae264ec9.jpg>
+[2026-07-21 02:22] 197405874085999@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363425310679015@g.us/1/3/13f68a13-6a83-4eaf-8b4a-cf805a8f7a88.jpg>

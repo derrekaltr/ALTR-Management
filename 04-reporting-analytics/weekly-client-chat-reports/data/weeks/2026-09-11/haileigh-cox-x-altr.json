@@ -1,0 +1,461 @@
+{
+  "client": "Haileigh Cox",
+  "slug": "haileigh-cox-x-altr",
+  "week_ending": "2026-09-11",
+  "summary": "TWO-WEEK WINDOW (8/28 09:03 -> 9/11 09:03), reported as one period because the 9/4 run crashed before delivery. Thirteen messages in fourteen days: 10 from ALTR, 2 from Hailey, 1 service event. The composition is the finding. ALTR's ten messages break down as four billing (Stephski's 9/1 invoice, its PDF, a 9/5 nudge, a 9/6 'Appreciate you!'), three demands (Mayson's 8/30 content Drive with a 7-reels-a-week / 30-a-month quota, Mayson's 9/4 call request, Michelle's 9/10 content chase), two scheduled broadcasts (Michelle's leak-removal recaps 9/1 and 9/8) and one recurring posting nudge (Mica, 8/31). Zero answered anything she has outstanding. Not one of the ten was a human closing an open item. Derrek did not post. Vivek did not post.\n\nHer two messages were both in the Invoicing topic and both about paying: 'Yesss ill send over!' (9/5, nine minutes after Stephski's nudge) and 'Just sent over to the wire that’s on the newest invoice' (9/7). That broke a 16-day silence - but it was broken by a collections nudge, not by outreach, and the asymmetry is stark: she answers a bill in nine minutes and has left four consecutive ALTR asks unanswered (the 8/27 .vip domain question, 15 days; the 8/30 Drive + quota, 12 days; the 9/4 call request, 7 days; the 9/10 content chase, 1 day). She is not gone. She is transacting and nothing else.\n\nPayment closed cleanly on the surface - invoice 9/1, 7-day terms, paid 9/7, one day inside terms, cycle 26 of 26. Underneath it got worse: on 8/20 she wired to last month's account on Derrek's verbal say-so ('thats fine'), on 9/7 she wired to 'the wire that’s on the newest invoice'. Two consecutive cycles to what may be two different destinations, and ALTR has confirmed receipt of NEITHER in writing - the 8/20 wire is 22 days unreconciled, the 9/7 wire 4 days.\n\nThe content quota is already failing: Mayson issued a 7-reels-a-week quota on 8/30 and 11 days later Michelle wrote 'I noticed there hasn’t been anything uploaded yet' - on a different thread, which is the sprawl problem restating itself. Everything else aged: .vip domains 90 days, shadowban 44 days, Derrek's own phone-farm update 41 days, named account manager 173 days. A ChatAddUser event fired at 21:01 on 9/10 - someone was added to the group and has not spoken.",
+  "health": {
+    "score": 51,
+    "trend": "down",
+    "rationale": "Sixth consecutive decline (80 -> 68 -> 65 -> 58 -> 54 -> 51), but the shallowest yet, and the composition of the score has changed. The acute churn signal eased: she returned after 16 days, answered in nine minutes, and paid inside terms for the 26th cycle in a row. That is real floor support and it is why this is a 3-point slip, not a collapse. What kept it falling is that fourteen days and ten ALTR messages produced zero answers to anything she has asked for, and two items actively worsened. First, there are now TWO consecutive wires - 8/20 and 9/7 - sent to what appear to be two different accounts, with no written confirmation of receipt for either; Stephski proved on 5/20 she can do this in one sentence ('Hi Haleigh we recieved your wire'). Second, the 8/30 content quota has zero compliance at 11 days and is now being chased by a second person on a third thread, which is the exact friction she complained about in February. Her behaviour is the clearest read available: nine-minute response to a bill, four unanswered asks. That is a client who has stopped expecting service from this chat but still expects the invoice to be right."
+  },
+  "reminders": [
+    {
+      "employee": "Mayson",
+      "topic": "Content submission - issued a brand-new Google Drive and a 7-reels-a-week / 30-a-month quota. At least the fifth intake channel she has been handed (Content Snare, the 2/15 Drive, a shared iPhone album with Michelle 6/17, a second with Ronnie 7/6, now this), against a 212-day-old standing request for ONE place to upload. As of 9/11 she has uploaded nothing and has not replied - 12 days.",
+      "count": 1,
+      "evidence": [
+        {
+          "quote": "Hi Haleigh this one is important!\n\nHere's your content Drive:",
+          "date": "2026-08-30"
+        },
+        {
+          "quote": "7 reels a week",
+          "date": "2026-08-30"
+        },
+        {
+          "quote": "It has to be fresh content. If it's already posted on your main account, it doesn't count we can't use it again.",
+          "date": "2026-08-30"
+        },
+        {
+          "quote": "Hiiii! So I just want to address my biggest issue - using the snare. You guys get zero content from me because it’s a pain. I’d like to do a shared album that I can upload all my content into. That way you guys can constantly have new stuff. It will be a win win for us all. ☺️",
+          "date": "2026-02-11"
+        }
+      ]
+    },
+    {
+      "employee": "Michelle",
+      "topic": "Content upload chase for the management-run IG Reels account - the SECOND person chasing the same content, on a different thread from the one Mayson issued the quota on, 11 days after it was set. Confirms compliance with the 30-reels-a-month quota is currently zero and that nobody has consolidated the intake.",
+      "count": 1,
+      "evidence": [
+        {
+          "quote": "Hey love! Just checking in on the new content for the management ran Instagram Reels account. I noticed there hasn’t been anything uploaded yet, so I just wanted to check in with you! The account is being warmed up right now, so I’d love to have some content ready to go once they’re ready for posting 💕",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    {
+      "employee": "Stephski",
+      "topic": "Aug 15-31 invoice plus one payment nudge four days later. The nudge worked in nine minutes and the money arrived 9/7. Note the 9/1 wording carries the 'to avoid any pausing of work' clause - still only the second appearance of that language in this chat, aimed at a client who has paid 26 of 26 cycles.",
+      "count": 2,
+      "evidence": [
+        {
+          "quote": "Hi love happy September! Here is your invoice for the period of August 15-31 ❤️ Please let me know if you have any questions, as always, all payment information is at the bottom. I ask that you please pay within 7 days to avoid any pausing of work 🙏 Thank you queen lmk if you need anything!",
+          "date": "2026-09-01"
+        },
+        {
+          "quote": "hi Haleigh did you see this?",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    {
+      "employee": "Mayson",
+      "topic": "Request for a call about a trial-reels feature. This is the FOURTH call Mayson has proposed since 6/6 (6/6, 6/11, 6/24, 9/4) and she has not replied to this one in 7 days. Context that matters: on 6/12 she showed up for a scheduled call and he answered eight hours later. The 'weekly call' he floated on 6/24 never happened once.",
+      "count": 1,
+      "evidence": [
+        {
+          "quote": "Hey Haleigh would you be available for a quick call on Monday to discuss a brand new feature for posting trial reels on instagram more effectively? \n\nIt’s very simple and should streamline the process while helping us get significantly more value out of them",
+          "date": "2026-09-04"
+        },
+        {
+          "quote": "Hey so sorry I’m ready now for call!",
+          "date": "2026-06-12"
+        },
+        {
+          "quote": "Hey Haleigh when do you wanna have our weekly call?",
+          "date": "2026-06-24"
+        }
+      ]
+    },
+    {
+      "employee": "Mica Vecco",
+      "topic": "Consistent IG posting / reels. A recurring broadcast-shaped nudge she has now run since 2025 (10/10/25, 10/28/25, 11/19/25, 1/26/26, 8/13/26, 8/31/26). It was the only non-billing, non-demand message ALTR sent in the entire fourteen days.",
+      "count": 1,
+      "evidence": [
+        {
+          "quote": "Hi love 💕 just wanted to reiterate how important consistent posting is for increasing social media engagement! This video is a great example:\n\nhttps://www.instagram.com/reel/DcrEuRqoXZu/?igsi=OW8xdDQ4eWF3aWRm",
+          "date": "2026-08-31"
+        }
+      ]
+    }
+  ],
+  "complaints": [
+    {
+      "issue": "The .vip custom domains ALTR built restricted two of her Instagram accounts and have never been fixed or formally retired - 90 days since the breakage, 89 since Mayson's last word on it. He pitched haleighsworld.vip on 6/11 as protection against shadow bans; she asked point-blank whether it would get her disabled, citing her main account's prior permanent disable; he said it was safe; she put it live on 6/13 and within hours reported restrictions on two accounts. Three more domains were issued the same day. His entire follow-up since 6/14 is 'Working on it'. On 8/27 he put the burden back on her by asking why she is not using the domain; she has not answered in 15 days, and in this window he posted two further asks (8/30 quota, 9/4 call) without ever chasing it. Nobody at ALTR has connected these domains (live 6/13) to her shadowban report (7/29).",
+      "status": "recurring",
+      "owner": "Mayson",
+      "first_raised": "2026-06-13",
+      "days_open": 90,
+      "evidence": [
+        {
+          "quote": "Hey Haleigh  this is a custom domain built with the latest technology that will help you from shadow bans or account restrictions related to your link. \n\nhaleighsworld.vip\n\nLet me know if you want any changes made to it or if  you have multiple instagrams so I create more domains",
+          "date": "2026-06-11"
+        },
+        {
+          "quote": "Yes It’s safe to put it in bio and yes I’ll add another one and send it to you",
+          "date": "2026-06-11"
+        },
+        {
+          "quote": "One of my accounts already hit a restriction with it",
+          "date": "2026-06-13"
+        },
+        {
+          "quote": "And my other one did too",
+          "date": "2026-06-13"
+        },
+        {
+          "quote": "Working on it",
+          "date": "2026-06-14"
+        },
+        {
+          "quote": "Hey Haleigh how come you’re not using the domain on instagram?",
+          "date": "2026-08-27"
+        }
+      ]
+    },
+    {
+      "issue": "Suspected IG shadowban / follower loss on her main account - 44 days open, six consecutive weeks with literally zero movement. This sits on her single most-stated priority. Vivek asked for the login on 7/29 and neither side has moved since; nobody at ALTR has chased her for it, including in this two-week window where she was active in the chat on 9/5 and 9/7 and could have been asked. Vivek has posted exactly one message in the entire 778-message history of this chat, and posted nothing this window.",
+      "status": "recurring",
+      "owner": "Vivek (escalate to Derrek)",
+      "first_raised": "2026-07-29",
+      "days_open": 44,
+      "evidence": [
+        {
+          "quote": "Amazing!! Thank you!! I do have a question for him actually. My account is losing followers and not gaining. I’m assuming i might have a shadow ban if he could potentially look into it?",
+          "date": "2026-07-29"
+        },
+        {
+          "quote": "Sure share login",
+          "date": "2026-07-29"
+        }
+      ]
+    },
+    {
+      "issue": "Chronic slow / no response to her direct questions and no named point of contact - 173 days. Raised explicitly on 3/22 and again on 4/22. No account manager has ever been named to her; Joseph H, who twice promised to route her, left the group in July 2026 and was never replaced. This window gave the clearest measurement yet of the damage: ten ALTR messages, zero answers, and a client who responds to a billing nudge in nine minutes while leaving four consecutive ALTR asks unanswered. She has stopped using this chat for anything except paying.",
+      "status": "recurring",
+      "owner": "unassigned - Derrek to decide",
+      "first_raised": "2026-03-22",
+      "days_open": 173,
+      "evidence": [
+        {
+          "quote": "Who do I reach out to for general messages here. I feel like every time i reach out it’s either super delayed or just no response at all.",
+          "date": "2026-03-22"
+        },
+        {
+          "quote": "Who should i address for these? Cause no one ever responds when i send them here",
+          "date": "2026-04-22"
+        },
+        {
+          "quote": "Yesss ill send over!",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    {
+      "issue": "ESCALATED THIS WINDOW. Repeated ALTR banking-detail changes have now produced two consecutive payment cycles sent to what appear to be two DIFFERENT accounts, with written confirmation of receipt for neither. Six banking changes since April, including a BofA wire address that failed outright on 7/7. The 8/15 invoice announced a new account number; she asked twice which to use; Stephski never answered; Derrek told her 'thats fine' to use last month's account, and she wired there on 8/20 - 22 days ago, still unconfirmed. On 9/7 she wired to a different target, the one printed on the 9/1 invoice - 4 days ago, also unconfirmed. Stephski demonstrated on 5/20 that one plain sentence closes this.",
+      "status": "recurring",
+      "owner": "Stephski (invoicing)",
+      "first_raised": "2026-05-20",
+      "days_open": 114,
+      "evidence": [
+        {
+          "quote": "Hi Haleigh we recieved your wire 🙂 just want to double check that next month you send to the new account instead of the old one, the new details are on the invoice ❤️",
+          "date": "2026-05-20"
+        },
+        {
+          "quote": "Hi!! The address for the new wire is not working.. idk what to do",
+          "date": "2026-07-07"
+        },
+        {
+          "quote": "Hi hun! Hope you had a great week. Below is your invoice for the period of August 1st-14th. Please note an update to the account number, please try and send using the information on the invoice. Have also attached updated Zelle info that should be easy to use now. Thanks so much!💘",
+          "date": "2026-08-15"
+        },
+        {
+          "quote": "I’m just going to send it to the one i sent it to last month?",
+          "date": "2026-08-20"
+        },
+        {
+          "quote": "thats fine",
+          "date": "2026-08-20"
+        },
+        {
+          "quote": "Just sent over to the wire that’s on the newest invoice",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    {
+      "issue": "Content-submission friction - 212 days. She named Content Snare as her biggest issue on 2/11 and asked for one shared album; Eric agreed on 2/12 to switch it off. She has since been given a Drive (2/15), a shared iPhone album with Michelle (6/17), a second with Ronnie (7/6), and on 8/30 a brand-new Drive carrying a 30-reels-a-month quota. This window proved the process is still broken, not just untidy: 11 days after the quota was set, Michelle had to chase on a separate thread because nothing had been uploaded. Two people, two threads, one unanswered ask - which is precisely what she asked ALTR to stop doing in February.",
+      "status": "recurring",
+      "owner": "Mayson (current); originally Eric",
+      "first_raised": "2026-02-11",
+      "days_open": 212,
+      "evidence": [
+        {
+          "quote": "Hey sorry for the delayed response! Yes 100% , let’s switch off the content snare.\n\nLet me confirm with our team on who to add into the shared album today & we will go from there🤝",
+          "date": "2026-02-12"
+        },
+        {
+          "quote": "New Content folder from now on. ",
+          "date": "2026-08-30"
+        },
+        {
+          "quote": "Hey love! Just checking in on the new content for the management ran Instagram Reels account. I noticed there hasn’t been anything uploaded yet, so I just wanted to check in with you! The account is being warmed up right now, so I’d love to have some content ready to go once they’re ready for posting 💕",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    {
+      "issue": "OnlyFans auto-tagging glitch adding dozens of tags to her wall posts. Raised 2025-09-08 and again 2026-03-22; she was told it was a platform glitch, that support had been contacted, and that she would be kept updated. Never confirmed fixed to her - 368 days formally unclosed. Dormant and low value, but it costs one sentence and nobody has spent it in almost six months.",
+      "status": "recurring",
+      "owner": "unassigned (Joseph H departed 2026-07); reassign",
+      "first_raised": "2025-09-08",
+      "days_open": 368,
+      "evidence": [
+        {
+          "quote": "Question, is there a reason why every video that gets sent out has sooooo many tags? It’s like giving these people free promos every day",
+          "date": "2026-03-22"
+        },
+        {
+          "quote": "This is a glitch in the system, it randomly adds the hashtags to random videos, we have contacted support to fix that error, others have experienced this too. Will definitely keep you updated",
+          "date": "2026-03-22"
+        }
+      ]
+    }
+  ],
+  "commitments": [
+    {
+      "what": "Fix or formally retire the .vip custom domains that restricted two of her IG accounts. The oldest live promise on the account and the only one with an ALTR-built product at the centre of it. Mayson's total follow-up in 89 days is two words. He had two opportunities to raise it in this window (8/30, 9/4) and used both for new asks instead.",
+      "who": "Mayson",
+      "status": "overdue",
+      "due": "not stated - promised 2026-06-14, 89 days ago",
+      "days_overdue": 89,
+      "evidence": [
+        {
+          "quote": "Working on it",
+          "date": "2026-06-14"
+        },
+        {
+          "quote": "Hey Haleigh how come you’re not using the domain on instagram?",
+          "date": "2026-08-27"
+        }
+      ]
+    },
+    {
+      "what": "Investigate the suspected shadowban / follower loss once the IG login is shared. The blocker has been 'we are waiting on her login' for 44 days and nobody has asked her for it. She was live in the chat on 9/5 and 9/7 this window - the ask was free and was not made.",
+      "who": "Vivek (escalate to Derrek)",
+      "status": "overdue",
+      "due": "not stated - opened 2026-07-29, 44 days ago",
+      "days_overdue": 44,
+      "evidence": [
+        {
+          "quote": "Sure share login",
+          "date": "2026-07-29"
+        }
+      ]
+    },
+    {
+      "what": "Post the promised updates on the $40k phone-farm IG rollout after the Monday shipment. Derrek set the deadline himself. Nothing has been posted in 41 days, and the 8/1 message is still the last strategic communication of any kind she has received from ALTR - now six weeks old.",
+      "who": "Derrek",
+      "status": "overdue",
+      "due": "week of 2026-08-03 (self-set); 41 days since the promise",
+      "days_overdue": 34,
+      "evidence": [
+        {
+          "quote": "Thank you for your understanding, we will have plenty of updates starting next week.",
+          "date": "2026-08-01"
+        }
+      ]
+    },
+    {
+      "what": "Confirm in writing that her wires landed - the 8/20 wire (22 days) and now the 9/7 wire (4 days) - stating the amount and WHICH account received each. Mayson promised her an answer on 8/19 and tagged Stephski three times; Stephski's only responses to date are 'Thank you!' (8/26) and 'Appreciate you!' (9/6), the latter sent a day BEFORE the money was actually wired. Neither confirms anything. Two invoices in a row have been the natural place to close this and neither did.",
+      "who": "Stephski (promised by Mayson)",
+      "status": "overdue",
+      "due": "promised 2026-08-19 ('shortly'), 23 days ago",
+      "days_overdue": 23,
+      "evidence": [
+        {
+          "quote": "I’ll get you an answer shortly",
+          "date": "2026-08-19"
+        },
+        {
+          "quote": "Thank you!",
+          "date": "2026-08-26"
+        },
+        {
+          "quote": "Appreciate you!",
+          "date": "2026-09-06"
+        },
+        {
+          "quote": "Just sent over to the wire that’s on the newest invoice",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    {
+      "what": "Assign and announce a named account manager / point of contact with a response SLA. Implicitly owed since her 3/22 and 4/22 asks; Joseph H said he would route it and then left the group. 173 days. Six open complaints spread across five nominal owners with nobody accountable is the direct reason fourteen days and ten messages produced zero answers. NOTE: a ChatAddUser event fired at 21:01 on 2026-09-10 - somebody was added to this group and has not introduced themselves. If that is the new AM, say so out loud.",
+      "who": "unassigned - Derrek to decide",
+      "status": "overdue",
+      "due": "not stated - owed since 2026-03-22, 173 days ago",
+      "days_overdue": 173,
+      "evidence": [
+        {
+          "quote": "Okay, I will relay this to them and they should reach out to you",
+          "date": "2026-03-22"
+        },
+        {
+          "quote": "Who should i address for these? Cause no one ever responds when i send them here",
+          "date": "2026-04-22"
+        }
+      ]
+    },
+    {
+      "what": "Consolidate content intake to ONE channel and tell her which ones are dead - owed since Eric agreed to switch off Content Snare on 2/12, 211 days. Instead the sprawl grew again this window: Mayson's 8/30 Drive plus quota, then Michelle chasing the same content on a separate thread on 9/10. Enforcing a 30-reels-a-month quota across five channels with no owner will not work; the 11-day result of zero uploads is the evidence.",
+      "who": "Eric (original); Mayson (current)",
+      "status": "overdue",
+      "due": "not stated - owed since 2026-02-12, 211 days ago",
+      "days_overdue": 211,
+      "evidence": [
+        {
+          "quote": "Hey sorry for the delayed response! Yes 100% , let’s switch off the content snare.\n\nLet me confirm with our team on who to add into the shared album today & we will go from there🤝",
+          "date": "2026-02-12"
+        },
+        {
+          "quote": "I noticed there hasn’t been anything uploaded yet",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    {
+      "what": "Confirm back to her that chatters have stopped using text emoticons (:pppp, xD) on her account and wall. Raised 3/6 and 3/26; Joseph H said he would forward it and then left the group. Compliance has never been confirmed to her - 168 days. No violations observable in this window because no chatter posted in the chat at all.",
+      "who": "Joseph H (departed); chat team",
+      "status": "overdue",
+      "due": "not stated - owed since 2026-03-26, 168 days ago",
+      "days_overdue": 168,
+      "evidence": [
+        {
+          "quote": "Amazing just saw!!!! Btwwww i hate to be annoying but whoever chats and post on my wall can we please please not do those lame ass emoji things :pppp xD .. i use only real emojis and it just isn’t me lol",
+          "date": "2026-03-26"
+        },
+        {
+          "quote": "Okay I will forward that message for you",
+          "date": "2026-03-26"
+        }
+      ]
+    },
+    {
+      "what": "Close the loop on the fan escalation she forwarded on 8/18. Ronnie picked it up in under seven hours - still the best service moment on this account in two months - but his message promised future action and completion has never been confirmed to her. 24 days. Cheapest open item on the board; one line clears it.",
+      "who": "Ronnie",
+      "status": "pending",
+      "due": "not stated - opened 2026-08-18, 24 days ago",
+      "days_overdue": 24,
+      "evidence": [
+        {
+          "quote": "Hey Haleigh! I got this taken care of we are gonna get him whatever is needed to make sure he is satisfied.",
+          "date": "2026-08-18"
+        }
+      ]
+    }
+  ],
+  "payments": [
+    {
+      "note": "Aug 15-31 invoice issued 9/1 with 7-day terms (due 9/8) and PAID 9/7 - day six, one day inside terms, after exactly one nudge on 9/5 to which she replied in nine minutes. This is cycle 26 of 26 paid. Her behaviour is textbook for her: she pays fast once nudged. Collection risk on this account remains close to zero.",
+      "amount": "not stated in chat (PDF attached)",
+      "date": "2026-09-07",
+      "late": false,
+      "evidence": [
+        {
+          "quote": "Hi love happy September! Here is your invoice for the period of August 15-31 ❤️ Please let me know if you have any questions, as always, all payment information is at the bottom. I ask that you please pay within 7 days to avoid any pausing of work 🙏 Thank you queen lmk if you need anything!",
+          "date": "2026-09-01"
+        },
+        {
+          "quote": "hi Haleigh did you see this?",
+          "date": "2026-09-05"
+        },
+        {
+          "quote": "Yesss ill send over!",
+          "date": "2026-09-05"
+        },
+        {
+          "quote": "Just sent over to the wire that’s on the newest invoice",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    {
+      "note": "RECONCILIATION RISK - the real payment story. Two consecutive cycles have now been wired to what appear to be two different destinations and ALTR has confirmed receipt of neither. On 8/20 she sent to last month's account after Derrek overrode the 8/15 invoice's new account number with 'thats fine'; that wire is 22 days unreconciled. On 9/7 she sent to the account printed on the 9/1 invoice; 4 days unreconciled. Stephski's only two responses in that span are 'Thank you!' (8/26) and 'Appreciate you!' (9/6) - and the second was sent a day before the money moved, so it cannot be a receipt. Precedent that this genuinely breaks: the 7/1 BofA wire address failed outright on 7/7. Precedent that it is easy to do right: 'Hi Haleigh we recieved your wire' on 5/20.",
+      "amount": "not stated in chat",
+      "date": "2026-09-07",
+      "late": false,
+      "unverified": true,
+      "evidence": [
+        {
+          "quote": "Hi! I’m confused. Do i wire it over to the same place i sent last month?",
+          "date": "2026-08-18"
+        },
+        {
+          "quote": "thats fine",
+          "date": "2026-08-20"
+        },
+        {
+          "quote": "Appreciate you!",
+          "date": "2026-09-06"
+        },
+        {
+          "quote": "Just sent over to the wire that’s on the newest invoice",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    {
+      "note": "Process note: Stephski's usual pre-invoice OF-withdrawal reminder (her habit on 8/14, 11/13, 11/30 and others) did not go out before either the 9/1 invoice or, previously, the 9/1 cycle. The next invoice is due to be issued 9/15 for the Sep 1-14 period. Given the account-destination ambiguity, that invoice is the deadline for stating one canonical set of banking details.",
+      "amount": "n/a",
+      "date": "2026-09-11",
+      "late": false
+    }
+  ],
+  "client_priorities": [
+    "IG main-account safety above everything: shadowbans, flagged links (juicy.bio, link.me, the ALTR-built .vip domains), impersonation bans on backups. She lost a main account to a permanent disable and says so repeatedly - 'I just got my main account back from a perm disable' (6/11). The 7/29 shadowban ask is 44 days unanswered and the .vip domains that restricted two accounts are 90 days unfixed.",
+    "Responsiveness and one named point of contact with a real SLA - complained explicitly on 3/22 and 4/22, lived it on the 8/18-8/20 payment question, and this window answered nothing across ten ALTR messages. Her nine-minute reply to a billing nudge versus four unanswered ALTR asks is the sharpest measure of where her trust now sits.",
+    "Payment clarity - she pays fast and reliably (26 of 26 cycles) when she knows where to send. Every piece of recent friction is ALTR-side banking churn, not her.",
+    "Revenue protection: chargebacks (a single $7,593.00 chargeback in June alarmed her - 'How is this legal?'), payout timing, strong PPV promotion on big drops, and fan escalations she forwards in expecting resolution.",
+    "Brand voice: she must approve customs before acceptance (Nick Scott agreed 2025-12-29), and no text emoticons from chatters.",
+    "Frictionless content submission - ONE place, one process. She called Content Snare 'my biggest issue' in February; she is now on her fifth intake channel, carries a 30-reels-a-month quota, and is being chased for the same content by two different people on two different threads."
+  ],
+  "suggestions": [
+    "Derrek, personally, this week: post the phone-farm update you promised on 8/1. It is 41 days late and it is the last strategic thing she ever heard from ALTR. She has just paid; the next thing she hears must not be another invoice. This is the single highest-leverage message available on the account.",
+    "Stephski, today: one message confirming both wires - that the 8/20 funds were received, the amount and the receiving account, and the same for the 9/7 wire. Then print ONE canonical set of banking details and state explicitly which account is live, because she has now sent two consecutive payments to two different targets on two different instructions. Push the Zelle option attached on 8/15; it sidesteps the wire-address failure that already bit on 7/7.",
+    "Answer Mayson's own 8/27 question for him before she does: tell her plainly what happened to the .vip domains, whether they are safe, and what she should put in her bio. At 90 days this is the oldest live promise on the account and the answer will otherwise arrive as a complaint.",
+    "Derrek to take the shadowban off Vivek and own it directly. She was in the chat on 9/5 and 9/7 and nobody asked her for the IG login - the blocker is not her, it is that nobody has spent one message on it in 44 days. Vivek has posted once in 778 messages.",
+    "Name an account manager out loud in the chat with a response-time commitment. Someone was added to the group at 21:01 on 9/10 and has not spoken - if that is the new owner, introduce them; if it is another chatter, that is the seventh person in a chat that still has nobody accountable.",
+    "Before enforcing the 30-reels quota, consolidate intake to one destination and say which channels are dead (Content Snare, the 2/15 Drive, the Michelle album, the Ronnie album). Eleven days of zero uploads with two people chasing on two threads is the predictable result of the fifth channel, not a client compliance problem.",
+    "Ronnie to post a one-line confirmation that the 8/18 fan issue is closed, and someone to spend one sentence formally closing the March OF auto-tagging item. Both are free goodwill going stale at 24 and 368 days.",
+    "Have Mayson re-offer the trial-reels call directly rather than in the group - four call proposals since 6/6 have produced zero calls, and the one she showed up for on 6/12 got an eight-hour-late reply. If a call is genuinely valuable, book it with a time and a link."
+  ],
+  "wins": [
+    "She came back and she paid. Sixteen days of silence broke on 9/5 with a nine-minute reply, and the Aug 15-31 invoice was paid on 9/7, one day inside terms - cycle 26 of 26. The churn alarm from the 9/4 read has eased; this is not a client heading for the exit this week.",
+    "Michelle's weekly leak-removal recap landed on schedule twice in the window (9/1 and 9/8). It remains the only deliverable on this account with a completely unbroken record across a full year.",
+    "Stephski's collections loop worked exactly as designed: invoice 9/1, single nudge 9/5, payment 9/7. One nudge, no friction, no chasing.",
+    "Mayson's 9/4 call offer on trial reels is the first forward-looking, value-shaped proposal anyone has put to her since Derrek's 8/1 message. The impulse is right even though it went unanswered and even though it came from the person owing her the oldest open item."
+  ],
+  "week_stats": {
+    "messages": 13,
+    "client_messages": 2,
+    "team_messages": 10,
+    "service_events": 1,
+    "window_start": "2026-08-28T09:03:11-04:00",
+    "window_end": "2026-09-11T09:03:48-04:00",
+    "window_days": 14,
+    "note": "Two-week window covering 8/28-9/11 as one period; the 2026-09-04 run crashed before delivery so its half was never reported. ALTR message mix: 4 billing (Stephski), 3 demands/asks (Mayson x2, Michelle x1), 2 automated broadcasts (Michelle leak recaps), 1 recurring posting nudge (Mica). Zero answers to open items. Derrek: 0 messages. Vivek: 0 messages."
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "client": "Lauren Blake",
+  "slug": "lauren-blake-x-altr",
+  "status": "active",
+  "status_reason": "Engaged and paying (40 client messages in the Aug 17-23 week, 'Bravo team!! That's what we love to see!!', invoice 2 wired Aug 21), but two live trust items are open: the Aug 24 bank notice on her wire is being bounced back to her, and the 5% paid-ads fee she queried on Aug 3 has never been evidenced. She is travelling Aug 25 to ~Sep 6 (LA then Mexico).",
+  "last_client_message": "2026-08-24",
+  "dimensions": {
+    "responsiveness": {
+      "severity": 2,
+      "internal_failure": "Quick on transactional asks (minutes to hours) but substantive questions slip for days and only get answered after she repeats them; the IG trial-reel question took 29 days and a re-ask.",
+      "evidence": [
+        {"quote": "Hi babe! What's the status of the IG page and the promos being posted? Also, I was told someone was going to be doing all the trial reel posting on my account. How do we get that going?", "who": "Lauren Blake", "date": "2026-07-20"},
+        {"quote": "And are we just posting regular reels on that page or are we doing the trial method?", "who": "Lauren Blake", "date": "2026-08-18"},
+        {"quote": "Did we do this?", "who": "Lauren Blake (re: livestream poll asked Aug 14, no acknowledgement for 4 days)", "date": "2026-08-18"}
+      ]
+    },
+    "follow_through": {
+      "severity": 3,
+      "internal_failure": "Promises are made in chat and never closed: ad-stats call (23 days), IG rollout updates (25 days, zero posted), chatter boundary fix ('Will get this sorted' then a topless-with-face custom was sold 12 days later), CodyBeebs proof screenshot (8 days), whale-reactivation report (19 days).",
+      "evidence": [
+        {"quote": "You're welcome! Derreks going to give you a ring and walk you through your current ad stats 🙂", "who": "Stephski", "date": "2026-08-03"},
+        {"quote": "Thank you for your understanding, we will have plenty of updates starting next week.", "who": "Derrek", "date": "2026-08-01"},
+        {"quote": "Yes Ill get that for you", "who": "Ollie Mckinlay (screenshot never sent as of Aug 26)", "date": "2026-08-18"}
+      ]
+    },
+    "proactive_communication": {
+      "severity": 2,
+      "internal_failure": "Our outbound is almost entirely asks (Snap adds, customs, upload more content); the only unprompted report line is Michelle's weekly DMCA breakdown. No revenue/whale/IG performance stats were ever volunteered; she initiates every status check. Longest full-team silence is only 3.1 days (Jul 14-17), but Derrek went 20 days (Aug 1-21) after promising weekly updates.",
+      "evidence": [
+        {"quote": "Hi babe! What's the status of the IG page and the promos being posted?", "who": "Lauren Blake", "date": "2026-07-20"},
+        {"quote": "Someone sent me this. Am I on suggested?", "who": "Lauren Blake", "date": "2026-07-25"},
+        {"quote": "Hi love! Here's your weekly update on the leak removal breakdown for the past 7 days 💕", "who": "Michelle Queue (the one reliable proactive line, 7 on-time reports)", "date": "2026-08-25"}
+      ]
+    },
+    "onboarding_handoff": {
+      "severity": 2,
+      "internal_failure": "No kickoff call until day 32 (Aug 7); the intake form she filled was not seen by Ollie ('could you maybe fill the rest of this out' after she had); three different drive links caused repeated 'which drive' confusion; paid ads she signed up for on day 3 were still not running on day 43; pricing floors and content boundaries were never captured before chatters started selling.",
+      "evidence": [
+        {"quote": "Where do I turn in the reels once I've filmed them? Do we have a drive to work with? Derrek mentioned that you guys will be taking over my trial reels", "who": "Lauren Blake (then 'Nvm I found it in another chat!')", "date": "2026-07-11"},
+        {"quote": "Oh weird I did fill it out", "who": "Lauren Blake", "date": "2026-07-10"},
+        {"quote": "I've signed up for paid ads so I would love to get those launched too", "who": "Lauren Blake (Michelle Aug 18: 'ads will be ran as well')", "date": "2026-07-06"}
+      ]
+    },
+    "chatter_conduct": {
+      "severity": 3,
+      "internal_failure": "Chatters sold outside her boundaries and price floors without a brief (porn/sex-tape/anal offers, $500 topless, later a topless-JOI-with-face custom after she banned it), blocked a $27k whale without telling her, and 13 of her 24 top spenders ghosted after takeover.",
+      "evidence": [
+        {"quote": "Also I'd like this changed. I don't have actual porn, sex tapes or anything anal. This message it outside of my comfort zone", "who": "Lauren Blake", "date": "2026-08-01"},
+        {"quote": "Unblock him / He's spent 27k.. what're we doing here / Is this a strategy?", "who": "Lauren Blake", "date": "2026-08-06"},
+        {"quote": "The second one is topless Joi with face. I already told yall anything topless is mute just music and faceless.", "who": "Lauren Blake", "date": "2026-08-14"}
+      ]
+    },
+    "platform_health": {
+      "severity": 2,
+      "internal_failure": "IG growth was her stated number-one goal and nobody owned it visibly: no status updates until a broadcast apology on Aug 1, the trial-reel method promised at onboarding never ran, Vivek was introduced as Meta support and never posted, and the reel page she is on was only shared on Aug 16 after she asked what happens next.",
+      "evidence": [
+        {"quote": "My ultimate goal is to get traffic picked up. Please let me know what you need from me to get started and getting momentum ☺️", "who": "Lauren Blake", "date": "2026-07-06"},
+        {"quote": "My apologies, for any lack of communication. As this has required us to swap out over 200 devices, and over 1000 accounts.", "who": "Derrek", "date": "2026-08-01"},
+        {"quote": "right now it's regular reels, ads will be ran as well so the page will kick off 🚀", "who": "Michelle Queue", "date": "2026-08-18"}
+      ]
+    },
+    "billing_ops": {
+      "severity": 2,
+      "internal_failure": "Invoice 1 was clean; invoice 2 changed the bank account number and still carried an unevidenced 5% ads fee, Derrek chased payment 6 days later (she wired that day), and when her bank flagged the wire on Aug 24 we replied 'are you able to check on this?' and 'Checking back in on this' - pushing a rails problem we likely caused back onto the client for 2 days.",
+      "evidence": [
+        {"quote": "Also, how do we account for the 5% that's going towards paid ads? / I'd like to see the ad reports of the 5% being spent on meta", "who": "Lauren Blake (never answered)", "date": "2026-08-03"},
+        {"quote": "Please note an update to the account number, please try and send using the information on the invoice.", "who": "Stephski", "date": "2026-08-15"},
+        {"quote": "Hey just fyi my bank sent me this just now from the wire on Friday", "who": "Lauren Blake (Derrek Aug 25: 'are you able to check on this?'; Stephski Aug 26: 'Checking back in on this 🙏 Lauren')", "date": "2026-08-24"}
+      ]
+    },
+    "ownership_escalation": {
+      "severity": 2,
+      "internal_failure": "Mayson acts as a human pager ('@olkmck ^^' four times) because the chat lead is not watching the group; the ad-report question bounced Stephski to Derrek to nobody; the wire issue bounced Derrek to Stephski to the client; she has to @-tag Ollie herself to get urgent custom questions seen.",
+      "evidence": [
+        {"quote": "@olkmck ^^", "who": "Mayson Chat (relaying her chargeback worry after 3 hours unanswered)", "date": "2026-07-17"},
+        {"quote": "Please clarify asap / @olkmck", "who": "Lauren Blake", "date": "2026-08-14"},
+        {"quote": "@olkmck can we let the team know^", "who": "Mayson Chat (her travel notice had sat 13 hours)", "date": "2026-08-22"}
+      ]
+    },
+    "disengagement_detection": {
+      "severity": 1,
+      "internal_failure": "Ollie did nudge during her quiet week ('Not sure if you saw this', Aug 13) and answered the Aug 6 whale frustration with a call the next day, but nobody logged that her 27k-whale outburst and the 'outside my comfort zone' message were trust hits, and her silence on invoice 2 was only noticed as a payment chase.",
+      "evidence": [
+        {"quote": "Lauren Not sure if you saw this", "who": "Ollie Mckinlay", "date": "2026-08-13"},
+        {"quote": "This was a strategy / Will explain it in more detail on the call - everything is under control", "who": "Ollie Mckinlay", "date": "2026-08-07"},
+        {"quote": "hey! Could you clear this up when you had a chance", "who": "Derrek (first owner message in 20 days, and it was a payment chase)", "date": "2026-08-21"}
+      ]
+    },
+    "security_hygiene": {
+      "severity": 2,
+      "internal_failure": "Michelle asked for IG login details in the group; Lauren posted the username and password in plaintext to a 10+ person chat and nobody moved it to DM, deleted it, or asked her to rotate it afterwards.",
+      "evidence": [
+        {"quote": "Hi babes, going to get an update for you. Send over the login details and we can get that going 💕", "who": "Michelle Queue", "date": "2026-07-21"},
+        {"quote": "Laurenblakeluxe / AbundantLauren444", "who": "Lauren Blake (IG username/password in group chat)", "date": "2026-07-21"},
+        {"quote": "thank you", "who": "Michelle Queue (no rotation or deletion request)", "date": "2026-07-21"}
+      ]
+    }
+  },
+  "metrics": {
+    "client_questions_total": 31,
+    "unanswered_over_24h": 8,
+    "max_team_silence_days": 3.1,
+    "promises_made": 17,
+    "promises_kept": 10,
+    "promises_lapsed": 7,
+    "method": "Manual read of all 322 non-service messages. Questions = client messages containing a '?' or a clear ask (26 with '?', plus 5 imperative asks such as 'let me know when it's updated', 'launch the paid ads', wire bank notice). Unanswered >24h = no substantive reply within 24h or needed a repeat nudge (reel examples, reels drive self-resolved, IG status/trial reels, paid-ads launch, 5% ad report, livestream poll, CodyBeebs screenshot, wire bank notice). Team silence = max gap between consecutive messages from any team.yaml sender (Jul 14-17). Promises = explicit future commitments from our side; kept includes late (reel examples, content requirements); lapsed = IG update, Derrek ad-stats call, ad report, boundary fix, 'plenty of updates', screenshot, whale-reactivation report."
+  },
+  "what_client_wanted": [
+    "Traffic growth on IG with visible progress: 'My ultimate goal is to get traffic picked up. Please let me know what you need from me to get started and getting momentum' (Jul 6) and 'I've signed up for paid ads so I would love to get those launched too' (Jul 6).",
+    "Hard content boundaries and price floors respected without repeating herself: 'When I do topless, it's no face, no sound. I don't do it any other way' (Aug 1); '$500 is wayyy too low for topless. I was only going that for diamond tiers who paid 8k' (Aug 1).",
+    "Financial transparency on what she is paying for: 'I'd like to see the ad reports of the 5% being spent on meta' (Aug 3); 'Also, do we account for the 6k in chargebacks?' (Aug 3).",
+    "Visibility and a say on whale handling and protection: 'Subjects: -24 whales, 13 ghosted since takeover. Strategy to wake them and keep them happy (they made 59% of rev)' (Aug 6); 'Can I see the screenshot of him sending my content please?' (Aug 17)."
+  ],
+  "what_worked": [
+    "Named-fan, named-number, specific-ask collaboration: Ollie flagged Joe at $6.3k in a day, she delivered pics and a video in 40 minutes while driving, Ollie confirmed 'he is officially farmed' and she replied 'Bravo team!! That's what we love to see!!' / 'Run it up fam' (Aug 18).",
+    "Michelle's weekly DMCA/leak-removal report, unprompted every week since Jul 17, plus a same-hour answer on takedown cadence: 'Hi team! I'm super happy with how my page is being ran so far 🥳' came right after the first report (Jul 17).",
+    "Fast, clean transactional support: Mayson turned the link-in-bio edits around overnight ('All done Lauren'), Stephski's chargeback explanation was accepted in minutes ('Awesome thanks sis', Aug 3), and the launch itself earned 'Great work on our launch I love to see those numbers! 👏🚀' (Jul 8)."
+  ],
+  "top_fix": "Give this account one named owner (not the chatting lead) who runs a promise ledger for the group chat: every commitment made to her (ad-stats call, ad report, IG updates, boundary confirmation, screenshot, whale report) gets an owner and a date and is closed in-chat in writing, and who confirms her content boundaries, price floors and VIP list to chatters in writing before they sell."
+}

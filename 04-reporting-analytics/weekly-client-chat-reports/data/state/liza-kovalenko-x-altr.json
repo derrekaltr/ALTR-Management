@@ -1,0 +1,362 @@
+{
+  "client": "Liza Kovalenko",
+  "slug": "liza-kovalenko-x-altr",
+  "as_of": "2026-10-30",
+  "window_covered": {
+    "start": "2026-10-16T09:06:40-04:00",
+    "end": "2026-10-30T09:05:30-04:00",
+    "length": "two weeks (no run on 10/23)"
+  },
+  "last_report_window": {
+    "start": "2026-10-16T09:06:40-04:00",
+    "end": "2026-10-30T09:05:30-04:00",
+    "length": "two weeks",
+    "note": "22 non-service msgs after excluding 6 Antonio Veritrade test posts (10-21) + 1 service event (ChatAddUser 10-21 21:12:08 = test account). Client 4; ALTR staff 16 (Jeremy Tarr 6, Mayson 4, Melissa 2, Spencer P 2, Stephski 1, Mica 1); vendor Theta SDX 2. Billing 1/16 (6%). CREDENTIAL HYGIENE: no new credentials this window; plaintext IG passwords (08-31 client, 09-12 Michelle) and live IG 2FA code (10-08 17:11 client) still in chat - always render [REDACTED]."
+  },
+  "churn_watch": {
+    "level": "high",
+    "signals_present": [
+      "Owner silent 30+ days: Derrek last posted 2026-08-04 (87 days at 10-30).",
+      "Long-promised deliverable with no written proof: Phone Farm updates (08-01, 90d), paid-ads stats (2025-11-18), written confirmation 09-24 customs delivered (35d). IG status now partly written (vendor 10-20) but not from ALTR and not for @Lizaakovalenk0.",
+      "Fast payment tell: Oct 1-14 paid ~28h after invoice, proof posted unprompted (10-16). Second consecutive fast settlement.",
+      "Record-low client volume: 4 msgs in 14 days (0.29/day vs 1.14/day prior window). No reaction to IG status, DMCA change, link-in-bio switch, or either inspo drop."
+    ],
+    "signals_absent": [
+      "Results question answered with call offer: 'Are the profiles currently recommended?' (10-20) got a written answer same day.",
+      "Majority ALTR msgs billing: 1/16 (6%), lowest on record.",
+      "Zero asks: 2 asks this window after 0 (both reactive status/clarification questions).",
+      "No export/login/data asks; no mention of other agencies or going solo."
+    ],
+    "trend": "Still high; marginally better. Two structural items closed in writing (DMCA reporting, IG status) and she asked two questions, but her volume is the lowest ever and both asks were reactive. Next window: if she delivers the voice note / customs and reacts to the 10-30 report, engagement is recovering; if the Oct 15-31 invoice is paid instantly and her only messages are payment proof, treat as active exit. Owner outreach still has not happened (87 days)."
+  },
+  "open_complaints": [
+    {
+      "issue": "Credential/2FA exposure. Plaintext passwords for 3 IG handles (client 08-31 at Vivek's request; Michelle re-posted one 09-12) + live 6-digit IG 2FA code posted by client 10-08 at the vendor's request. Never disclosed/deleted/rotated. Membership grew again 10-21 (test account). No new exposure 10-16..10-30.",
+      "owner": "Derrek / Vivek / Michelle / IG farm vendor",
+      "first_raised": "2026-08-31",
+      "worsened_on": ["2026-09-12", "2026-10-08"],
+      "status": "recurring",
+      "days_outstanding": 60,
+      "severity": "critical",
+      "escalation": "OWNER-LEVEL; termination-grade if she discovers it unprompted."
+    },
+    {
+      "issue": "NEW 10-20: vendor disclosed it 'created' a backup IG account in her name (@lizanaughty) and that one account 'was banned but we managed to restore it'. Neither previously mentioned to her; vendor still never introduced by ALTR (Mayson tagged @StardustNexus then @thetasdx). No client reaction.",
+      "owner": "Derrek / Vivek / IG farm vendor",
+      "first_raised": "2026-10-20",
+      "status": "new",
+      "days_outstanding": 10,
+      "severity": "medium",
+      "next_check": "Did anyone explain @lizanaughty / the ban-restore, and introduce the vendor by name and role?"
+    },
+    {
+      "issue": "NEW 10-16: customs communication. Four chases in 12 days (Jeremy 10-16, Spencer 10-22, 10-27, Jeremy 10-28) never naming fan/content/price; client had to ask what was pending; Jeremy answered wrong then corrected (2 customs: jose, Cammy + voice note); his 'do they show on your end' question unanswered at close. Sheet visibility unresolved.",
+      "owner": "Jeremy Tarr / Spencer P",
+      "first_raised": "2026-10-16",
+      "status": "new",
+      "days_outstanding": 14,
+      "severity": "medium",
+      "next_check": "Did Jeremy list the customs with price? Did she deliver? Can she see the customs tab?"
+    },
+    {
+      "issue": "NEW 10-23: weekly Friday earnings/performance/DMCA report promised 10-16 ('every Friday') was not posted on 10-23. 10-30 report falls after window close (not judged).",
+      "owner": "Melissa / Mayson",
+      "first_raised": "2026-10-23",
+      "status": "new",
+      "days_outstanding": 7,
+      "severity": "low",
+      "next_check": "Was a report posted 10-30 and 11-06?"
+    },
+    {
+      "issue": "09-24 customs delivery lost in Ronnie->Aroosha handoff; found 10-08 (implied) but never confirmed in writing as delivered to the fan. 10-08 top-spender price never given. Spencer P (3rd owner) posted twice this window, mentioned neither.",
+      "owner": "Spencer P / Aroosha",
+      "first_raised": "2026-09-25",
+      "status": "in_progress",
+      "days_outstanding": 35,
+      "severity": "medium"
+    },
+    {
+      "issue": "Content format question 'What exactly you need , reels/ picks?' (09-24) unanswered 36 days / five windows. Mica posted bare links in the same topic 10-14 and 10-28 without answering.",
+      "owner": "Mica Vecco / Spencer P",
+      "first_raised": "2026-09-25",
+      "status": "recurring",
+      "days_outstanding": 36,
+      "severity": "medium"
+    },
+    {
+      "issue": "Reel-inspo format regressed and stayed regressed: bare 8-link drops 10-14 and 10-28, no replies. 10-28 drop tagged '@yelikovaa' (also used by vendor 10-20) while Jeremy/Mayson tag '@xanaduexpress' - confirm her current Telegram handle.",
+      "owner": "Mica Vecco",
+      "first_raised": "2026-06-09",
+      "status": "recurring",
+      "days_outstanding": 143,
+      "severity": "low"
+    },
+    {
+      "issue": "Three deleted/suspended IG accounts (@Lizakovaal, @lizkovalenkoo, @Lizaakovalenk0) - IMPROVED 10-20: vendor wrote it posts daily on @lizkovalenkoo and @Lizakovaal, one banned account restored, profiles 'recommended'. Missing: @Lizaakovalenk0, which was banned/when, anything from Vivek (silent since 10-12) or Derrek.",
+      "owner": "Vivek / Derrek",
+      "first_raised": "2025-10-10",
+      "escalated_to_deleted": "2026-08-30",
+      "status": "recurring",
+      "days_outstanding": 385,
+      "days_since_credentials_handed_over": 60,
+      "severity": "high"
+    },
+    {
+      "issue": "Owner silence - Derrek last posted 2026-08-04 (87 days). Phone Farm update promise (08-01) undelivered; never introduced vendor; $5,000 under-credit unacknowledged; credential clean-up not done.",
+      "owner": "Derrek",
+      "first_raised": "2026-08-14",
+      "status": "recurring",
+      "days_silent": 87,
+      "severity": "high"
+    },
+    {
+      "issue": "$5,000 under-credit (found by the client with receipts; corrected silently 09-09) never acknowledged. 51 days.",
+      "owner": "Derrek / Stephski",
+      "first_raised": "2026-09-04",
+      "corrected_on": "2026-09-09",
+      "status": "in_progress",
+      "days_unacknowledged": 51,
+      "severity": "medium"
+    },
+    {
+      "issue": "Reconciliation: REGRESSED. Oct 1-14 wire confirmation posted by client 10-16; Stephski 'Thanks love!' 10-17, no amount, no 'received'. Still open: $420 (09-24) bounce cause; $3,189 vs $2,224.88 difference. No banking change this window.",
+      "owner": "Stephski",
+      "first_raised": "2026-10-01",
+      "status": "recurring",
+      "days_outstanding": 29,
+      "severity": "medium"
+    },
+    {
+      "issue": "Link-in-bio reversal (10-11 'completely safe' -> 10-15 taken down -> xli.ink). Client never reacted to the switch; nobody checked whether she updated her bio.",
+      "owner": "Mayson / Vivek",
+      "first_raised": "2026-10-11",
+      "status": "in_progress",
+      "days_outstanding": 19,
+      "severity": "low"
+    },
+    {
+      "issue": "Seventh-banking-change risk. Six ALTR banking changes since 2025-09-27; 3 bounce episodes since 08-15. No change 10-16..10-30.",
+      "owner": "Stephski / Derrek",
+      "first_raised": "2025-09-27",
+      "status": "in_progress",
+      "change_count": 6,
+      "severity": "low",
+      "change_log": [
+        "2025-09-27 OF Match Ent -> Social Depot LLC (JPMorgan Chase)",
+        "2026-04-15 new bank",
+        "2026-06-15 Mercury",
+        "2026-07-01 Bank of America ('last change I promise!')",
+        "2026-08-15 new account number",
+        "2026-09-15 beneficiary name change"
+      ],
+      "bounce_log": [
+        "2026-08 wires bounced after 08-15 account-number change, resent",
+        "2026-09-24 $420 wire (Jose M Munoz Linss) bounced, reported by client 10-08"
+      ]
+    },
+    {
+      "issue": "OF 'tag a creator' flag never diagnosed; 'So I just tag someone and that's it ?' (08-09) unanswered 82 days. Jeremy Tarr has not picked it up; Ronnie silent 37 days.",
+      "owner": "Jeremy Tarr / Ronnie",
+      "first_raised": "2026-01-26",
+      "status": "in_progress",
+      "days_outstanding": 277,
+      "severity": "low"
+    },
+    {
+      "issue": "Facebook access asks dead: Mica 03-11 (233d), Mayson 09-16 duplicate (44d). Client declined FB management Jan 2026.",
+      "owner": "Mica Vecco / Mayson",
+      "first_raised": "2026-03-11",
+      "status": "in_progress",
+      "days_outstanding": 233,
+      "severity": "low"
+    }
+  ],
+  "resolved_last_window": [
+    {
+      "issue": "DMCA/leak-takedown reporting dark in this chat since 2026-03-04 (226 days) - resolved: folded into the weekly earnings/performance report.",
+      "owner": "Mayson / Melissa",
+      "first_raised": "2026-03-04",
+      "resolved_on": "2026-10-16",
+      "evidence": "2026-10-16 Mayson Chat: 'From now on, your DMCA report will be included in your weekly earnings and performance report, sent in the General chat every Friday.' / Melissa Userfacing: 'Your DMCA report is incorporated in this report as well.'"
+    },
+    {
+      "issue": "IG account status never given in writing - PARTIALLY resolved: vendor status 10-20 after Mayson prompt; 'Are the profiles currently recommended?' answered 'yes they are'. Residual gaps carried under the IG-accounts complaint.",
+      "owner": "Mayson / IG farm vendor",
+      "first_raised": "2026-08-30",
+      "resolved_on": "2026-10-20",
+      "evidence": "2026-10-20 Theta SDX: 'yes they are. one of them was banned but we managed to restore it'"
+    }
+  ],
+  "open_commitments": [
+    {"what": "Confirm receipt of Oct 1-14 payment with a figure", "who": "Stephski", "date": "2026-10-16", "promised_due": "2026-10-19", "status": "overdue", "days_overdue": 11},
+    {"what": "Weekly earnings/performance/DMCA report every Friday", "who": "Melissa / Mayson", "date": "2026-10-16", "promised_due": "every Friday (missed 2026-10-23)", "status": "overdue", "days_overdue": 7},
+    {"what": "Explain @lizanaughty backup account + ban/restore; introduce vendor by name and role", "who": "Vivek / Derrek / IG farm vendor", "date": "2026-10-20", "promised_due": "not stated", "status": "pending", "days_open": 10},
+    {"what": "List the two pending customs (jose, Cammy) with content/price; confirm customs-tab visibility", "who": "Jeremy Tarr", "date": "2026-10-28", "promised_due": "2026-10-29", "status": "pending", "days_open": 2},
+    {"what": "CLIENT: deliver the 10-11 voice-note/video custom + the two customs (jose, Cammy)", "who": "Liza Kovalenko (client)", "date": "2026-10-12", "promised_due": "not stated", "status": "overdue", "days_overdue": 18},
+    {"what": "Tell Liza her plaintext IG password was re-posted by ALTR; delete the 08-31, 09-12 and 10-08 credential/2FA messages; rotate all three passwords; move 2FA/credential exchange (incl. vendor) to DM", "who": "Derrek / Vivek", "date": "2026-08-31", "promised_due": "2026-08-31", "status": "overdue", "days_overdue": 60},
+    {"what": "Recover or state outcome on the three IG accounts (ALTR-written; incl. @Lizaakovalenk0)", "who": "Vivek", "date": "2026-08-31", "promised_due": "not stated", "status": "overdue", "days_overdue": 60, "note": "Vendor gave partial written status 10-20."},
+    {"what": "Confirm in writing the 09-24 customs (first three) were received and delivered; give price on 10-08 top-spender request", "who": "Spencer P / Aroosha", "date": "2026-10-08", "promised_due": "not stated", "status": "overdue", "days_overdue": 22},
+    {"what": "Answer 'What exactly you need , reels/ picks?'", "who": "Mica Vecco / Spencer P", "date": "2026-09-24", "promised_due": "2026-09-24", "status": "overdue", "days_overdue": 36},
+    {"what": "CLIENT, blocked on ALTR: upload content to Drive. Do NOT chase until her format question is answered.", "who": "Liza Kovalenko (client) / Mica Vecco", "date": "2026-09-24", "promised_due": "2026-09-24", "status": "pending", "days_overdue": 0},
+    {"what": "Identify why the 09-24 $420 wire bounced; explain $3,189 vs $2,224.88", "who": "Stephski", "date": "2026-10-08", "promised_due": "not stated", "status": "overdue", "days_overdue": 22},
+    {"what": "Handle all customs, content uploads, backend chat assistance", "who": "Spencer P", "date": "2026-10-13", "promised_due": "ongoing", "status": "pending", "days_overdue": 0},
+    {"what": "Day-to-day AM, respond 'as quickly as possible'", "who": "Jeremy Tarr", "date": "2026-10-13", "promised_due": "ongoing", "status": "pending", "days_overdue": 0, "note": "Speed kept (3 min on 10-28); no inherited loop closed yet."},
+    {"what": "CLIENT: fill out Melissa's intake form ('Ok ill do', 10-02)", "who": "Liza Kovalenko (client)", "date": "2026-10-02", "promised_due": "not stated", "status": "pending", "days_overdue": 0},
+    {"what": "Acknowledge the $5,000 under-credit to the client", "who": "Derrek", "date": "2026-09-09", "promised_due": "2026-09-10", "status": "overdue", "days_overdue": 50},
+    {"what": "Phone Farm / backup-IG rollout updates", "who": "Derrek", "date": "2026-08-01", "promised_due": "week of 2026-08-09", "status": "overdue", "days_overdue": 82},
+    {"what": "Paid-IG-ads statistics summary", "who": "Derrek", "date": "2025-11-18", "promised_due": "2025-11-23", "status": "overdue", "days_overdue": 341},
+    {"what": "Investigate OF tag-a-creator flag", "who": "Jeremy Tarr / Ronnie", "date": "2026-08-09", "promised_due": "not stated", "status": "overdue", "days_overdue": 82},
+    {"what": "Trial-reels call follow-up", "who": "Mayson", "date": "2026-09-04", "promised_due": "2026-09-07", "status": "overdue", "days_overdue": 53},
+    {"what": "Monthly call (last real call 2026-06-07, 145 days)", "who": "Jeremy Tarr / Mayson / Derrek", "date": "2026-07-20", "promised_due": "2026-07-21", "status": "overdue", "days_overdue": 101},
+    {"what": "Close the Facebook access loop with one owner", "who": "Mica Vecco / Mayson", "date": "2026-03-11", "promised_due": "not stated", "status": "overdue", "days_overdue": 233},
+    {"what": "Keep concrete social tips like 10-06 on a weekly cadence (10-14 and 10-28 both bare links)", "who": "Mica Vecco", "date": "2026-10-06", "promised_due": "weekly", "status": "overdue", "days_overdue": 16},
+    {"what": "Repeat proactive IG security advisories like 09-17 (none since) - urgent given 2FA posted in chat", "who": "Mica Vecco", "date": "2026-09-17", "promised_due": "ongoing", "status": "pending", "days_overdue": 0},
+    {"what": "Check she switched her bio to xli.ink after the 10-15 domain take-down", "who": "Mayson", "date": "2026-10-15", "promised_due": "not stated", "status": "pending", "days_open": 15}
+  ],
+  "broken_commitments": [
+    {"what": "Weekly Friday report promised 10-16; no report 10-23", "who": "Melissa / Mayson", "promised": "2026-10-16", "broken_on": "2026-10-23"},
+    {"what": "Receipt confirmation with figure (practice established 10-15) not repeated for the Oct 1-14 wire", "who": "Stephski", "promised": "2026-10-16", "broken_on": "2026-10-19"},
+    {"what": "Weekly concrete tips (10-06 standard): 10-14 and 10-28 both bare-link drops", "who": "Mica Vecco", "promised": "2026-10-06", "broken_on": "2026-10-28"}
+  ],
+  "completed_recently": [
+    {"what": "DMCA reporting folded into the weekly report (ends 226-day blackout)", "who": "Mayson / Melissa", "date": "2026-10-16"},
+    {"what": "Weekly earnings/performance report incl. DMCA (first combined one)", "who": "Melissa", "date": "2026-10-16"},
+    {"what": "Prompted the IG farm vendor to update the client; first written IG status in 50 days", "who": "Mayson", "date": "2026-10-20"},
+    {"what": "Answered 'Are the profiles currently recommended?' in writing same day", "who": "IG farm vendor (Theta SDX)", "date": "2026-10-20"},
+    {"what": "Pre-warned client about system test messages", "who": "Mayson", "date": "2026-10-21"},
+    {"what": "Followed up on pending customs 'in a few days' as promised (bare bump)", "who": "Spencer P", "date": "2026-10-27"},
+    {"what": "Answered client's customs question in 3 min; self-corrected within 30 s", "who": "Jeremy Tarr", "date": "2026-10-28"}
+  ],
+  "payment_history": [
+    {"date": "2025-08-04", "note": "Jul 15-31 invoice: paid via 2 wires (Mexico + US) after weekend bank delay", "late": false, "receipt_verified": true},
+    {"date": "2025-08-18", "note": "Aug 1-14 invoice: bf wired ~15k; small delay confirming receipt while she was in Hawaii", "late": true, "receipt_verified": true},
+    {"date": "2025-11-06", "note": "Oct 15-31 invoice: confusion over totals (10,333), paid via wires + split fanbasis links", "late": true, "receipt_verified": true},
+    {"date": "2026-01-05", "note": "Dec 15-31 invoice: 6k wire + 5 split links, last link delayed by daily card limit", "late": false, "receipt_verified": true},
+    {"date": "2026-02-18", "note": "Feb 1-14 invoice: card processor down, paid USDT direct to Derrek; Stephski chased unaware", "late": false, "receipt_verified": true},
+    {"date": "2026-03-06", "note": "Feb 15-28 invoice: partial wires + 6k wire to cover remainder and next commission", "late": false, "receipt_verified": true},
+    {"date": "2026-04-04", "note": "Mar 15-31 invoice: two 7k wires, one from EDGARDO R CANALES; Stephski had to ask her to identify the sender", "late": false, "receipt_verified": true},
+    {"date": "2026-07-14", "note": "Jun 15-30 invoice: ~2 weeks late after chases Jul 11/13; third-party senders; $200 short, flagged by client", "late": true, "receipt_verified": true},
+    {"date": "2026-07-31", "note": "Jul 1-14 invoice: team initially saw only $6,300; resolved after client pushed for a double-check", "late": true, "receipt_verified": true},
+    {"date": "2026-08-06", "note": "Jul 15-31 invoice: paid in crypto directly to Derrek; Stephski pinged unaware", "late": false, "receipt_verified": true},
+    {"date": "2026-08-19", "note": "Aug 1-14 invoice (~$6,933.41): paid early; wires bounced on the 08-15 account-number change; resent; ~$14,433 total. ALTR under-credited by $5,000 until client proved it (corrected 09-09 to $7,499.59 credit).", "late": true, "receipt_verified": true, "altr_error": "$5,000 under-credit, found by the client"},
+    {"date": "2026-09-09", "note": "Aug 15-31 invoice (gross ~$11,731.28, net $4,231.69 after $7,499.59 credit): $5,000 wired, ~$768.31 overpaid. Treat as on time.", "late": false, "receipt_verified": true, "status": "receipt implied by later credit"},
+    {"date": "2026-09-14", "note": "$1,500 unprompted mid-cycle; credited in Sep 1-14 invoice.", "late": false, "receipt_verified": true, "status": "credited"},
+    {"date": "2026-09-16", "note": "Sep 1-14 invoice: $10,000 wire paid <24h. 10-01 roll-over of $3,537.95 overpayment implies it cleared (net due ~$6,462.05, inferred).", "late": false, "receipt_verified": true, "status": "cleared (inferred)"},
+    {"date": "2026-09-24", "note": "Wire #1: $1,500 'Towards next month commission' - received 09-28, credited in Sep 15-30 invoice.", "late": false, "receipt_verified": true, "amount": 1500},
+    {"date": "2026-09-24", "note": "Wire #2: sender Jose M Munoz Linss, $420 (client) / '$400' (Stephski) - BOUNCED; client reported 10-08, excluded from credit. Cause still unidentified at 10-30.", "late": false, "receipt_verified": false, "amount": 420, "status": "bounced", "altr_error": "offered credit for unreceived funds; bounce found by client"},
+    {"date": "2026-10-01", "note": "Sep 15-30 invoice issued 10-01, 7-day terms, credit $5,037.95. Net due inferred $8,224.88; gross ~$13,262.83 (inferred).", "late": false, "receipt_verified": true, "status": "paid in full (10-02 $6,000 + 10-15 $3,189)", "due": "2026-10-08", "net_due_inferred": 8224.88},
+    {"date": "2026-10-02", "note": "$6,000 wire, 1 day after invoice; confirmed received 10-07.", "late": false, "receipt_verified": true, "amount": 6000},
+    {"date": "2026-10-08", "note": "Remainder $2,224.88: re-sent from Leticia Linss; Stephski 10-12 'havent seen it come through'; 10-15 'we recieved! it was $3189'. ~1 week past 10-08 due. Overpaid ~$964.12, rolled into Oct 1-14 invoice. $3,189 vs $2,224.88 never explained.", "late": true, "receipt_verified": true, "amount": 2224.88, "status": "received as $3,189 - confirmed 2026-10-15"},
+    {"date": "2026-10-15", "note": "Oct 1-14 invoice issued 10-15 on schedule (heads-up 10-13); amount in PDF only, includes rolled-over credit. Client 'Will send shortly' within 1 min.", "late": false, "receipt_verified": null, "status": "issued; paid by client 10-16 (see next)", "due": "~2026-10-22"},
+    {"date": "2026-10-16", "note": "Oct 1-14 payment: client posted wire-confirmation screenshot 10-16 17:58 (~28h after invoice, 6 days before due). Stephski 10-17 'Thanks love!' only - no amount, no 'received'. Paid by client; receipt NOT verified by ALTR as of 10-30.", "late": false, "receipt_verified": false, "amount": "not stated in text", "status": "paid (client proof); unconfirmed by ALTR"},
+    {"date": "2026-10-30", "note": "Oct 15-31 invoice: not yet issued; expected ~11-01 with heads-up ~10-30 (none by 09:05 window close). Not late.", "late": null, "receipt_verified": null, "status": "not yet issued", "due": "~2026-11-08"}
+  ],
+  "payment_risk": {
+    "level": "low-medium",
+    "direction": "flat",
+    "summary": "Client pays fast and posts proof unprompted; ALTR's reconciliation slipped (no receipt figure for Oct 1-14 after setting that standard on 10-15). Residual: $420 bounce cause unidentified (22d); $3,189 vs $2,224.88 unexplained; 3 bounce episodes since 08-15; third-party senders. CHURN READ: second consecutive fast settlement in a near-silent window = settle-up pattern; the two questions she asked are the only counter-signal.",
+    "open_amount": "None known. Oct 1-14 paid by client 10-16 (unconfirmed by ALTR). Oct 15-31 invoice due ~11-01.",
+    "drivers": [
+      "Six banking changes since 2025-09-27; bounce history (08-15 change; 09-24 $420)",
+      "Third-party sender names (Leticia Linss, Jose M Munoz Linss, Edgardo R Canales)",
+      "Side-channel rails bypass Stephski (crypto to Derrek, Zelle, fanbasis 5% surcharge)",
+      "Mexican banks require in-person branch visits; partner sends wires",
+      "ALTR receipt confirmation inconsistent (figure given 10-15, none 10-17)"
+    ],
+    "next_event": "Oct 15-31 invoice (~11-01). Watch: heads-up timing, any 7th banking change, time-to-pay, and whether Stephski confirms with a figure. Instant payment + no other client messages = active exit signal."
+  },
+  "client_priorities": [
+    "Knowing whether her Instagram profiles are alive and recommended ('Are the profiles currently recommended?', 10-20). IG safety = #1 concern since 2025-10-10.",
+    "Knowing what ALTR wants from her before being chased ('what other customs are pending?' 10-28; 'reels/ picks?' 09-24 still unanswered).",
+    "Getting paid for customs and ALTR confirming receipt of what she delivers (09-24 customs 35d unconfirmed; 10-08 price never given).",
+    "Her money being seen to arrive, with real numbers (posted proof unprompted 10-16; got 'Thanks love!').",
+    "Her credentials and 2FA codes not sitting in a growing group chat (she has never raised it; ALTR put them there).",
+    "Being told who operates her accounts and what they do with them (vendor never introduced; backup account created in her name).",
+    "Visible written results: the weekly earnings/performance/DMCA report, when it arrives.",
+    "Concrete, specific asks with a named deliverable, destination and deadline."
+  ],
+  "asks_trend": [
+    {"week_ending": "2026-09-11", "client_asks": 4, "note": "reconstructed: deduction amount, wire bounce check, 'Which dms ?', 'Of all 3 accounts?' (two-week window)"},
+    {"week_ending": "2026-09-18", "client_asks": 0, "note": "reconstructed"},
+    {"week_ending": "2026-09-25", "client_asks": 1, "note": "'What exactly you need , reels/ picks?'"},
+    {"week_ending": "2026-10-02", "client_asks": 0, "published": false, "note": "first half of 10-09 window; billing replies only"},
+    {"week_ending": "2026-10-09", "client_asks": 3, "note": "two-week window; all 3 in second week: wire status (10-02), custom price (10-08), missing customs (10-08)"},
+    {"week_ending": "2026-10-16", "client_asks": 0, "billing_instructions": 1, "note": "All 8 client msgs acknowledgements/billing. CHURN ALARM: 3 -> 0."},
+    {"week_ending": "2026-10-30", "client_asks": 2, "window": "TWO weeks", "note": "'Are the profiles currently recommended?' (10-20, answered in writing by vendor same day) and 'what other customs are pending?' (10-28, answered by Jeremy in 3 min, wrong then corrected). Both reactive. Client msgs 4 in 14 days = record low."}
+  ],
+  "client_asks": [
+    {"week_ending": "2026-09-11", "client_asks": 4},
+    {"week_ending": "2026-09-18", "client_asks": 0},
+    {"week_ending": "2026-09-25", "client_asks": 1},
+    {"week_ending": "2026-10-02", "client_asks": 0, "published": false},
+    {"week_ending": "2026-10-09", "client_asks": 3},
+    {"week_ending": "2026-10-16", "client_asks": 0},
+    {"week_ending": "2026-10-30", "client_asks": 2, "window": "TWO weeks"}
+  ],
+  "health_history": [
+    {"week_ending": "2026-08-07", "score": 78, "trend": "flat"},
+    {"week_ending": "2026-08-14", "score": 70, "trend": "down"},
+    {"week_ending": "2026-08-21", "score": 66, "trend": "down"},
+    {"week_ending": "2026-08-28", "score": 57, "trend": "down"},
+    {"week_ending": "2026-09-04", "score": 66, "trend": "up", "published": false},
+    {"week_ending": "2026-09-11", "score": 58, "trend": "down", "window": "TWO weeks"},
+    {"week_ending": "2026-09-18", "score": 55, "trend": "down"},
+    {"week_ending": "2026-09-25", "score": 48, "trend": "down", "reason": "Client sent 17 messages 09-24, zero replies; ALTR silent 5 days; $10k unconfirmed."},
+    {"week_ending": "2026-10-02", "score": 45, "trend": "down", "published": false, "subsumed_by": "2026-10-09", "reason": "Mid-window low: client 2 billing msgs; 09-24 service messages unanswered a second window."},
+    {"week_ending": "2026-10-09", "score": 48, "trend": "flat", "window": "TWO weeks", "reason": "Flat vs last published 48. Client re-engaged (37 msgs, 3 asks), Aroosha owned customs, repost landed, $6k confirmed. Offset: lost 09-24 customs, 'reels/ picks?' 15d, $420 bounce found by client, vendor took live 2FA in-group, owner silent 66d."},
+    {"week_ending": "2026-10-16", "score": 43, "trend": "down", "reason": "Billing clean, Melissa written report. Offset: asks 3->0, 8 ack-only client msgs, overpayment (exit pattern); 3rd customs owner in 3 weeks; 09-24 customs unconfirmed; reels/picks 22d; link-in-bio reversal; creds 46d; owner 73d."},
+    {"week_ending": "2026-10-30", "score": 45, "trend": "up", "window": "TWO weeks", "reason": "+2, fragile. Up: DMCA reporting resumed after 226d (10-16); first written IG status in 50d (vendor 10-20, Mayson-prompted); results question answered in writing; Oct 1-14 paid in ~28h with proof; asks 0->2; billing 6% of ALTR msgs; Jeremy 3-min response. Down: client volume record low (4 msgs/14d); weekly report missed 10-23; no receipt figure from Stephski; 4 customs chases without naming the customs, Jeremy wrong-then-corrected; Mica 2nd bare-link drop; reels/picks 36d; 09-24 customs 35d; creds 60d + new member; $5k 51d; owner 87d. Churn signals 1+3 present, fast-payment tell present."}
+  ],
+  "week_stats_history": [
+    {"week_ending": "2026-07-17", "messages": 17, "client_messages": 11, "team_messages": 6},
+    {"week_ending": "2026-07-24", "messages": 17, "client_messages": 7, "team_messages": 10},
+    {"week_ending": "2026-07-31", "messages": 11, "client_messages": 4, "team_messages": 7},
+    {"week_ending": "2026-08-07", "messages": 16, "client_messages": 5, "team_messages": 11},
+    {"week_ending": "2026-08-14", "messages": 5, "client_messages": 2, "team_messages": 3},
+    {"week_ending": "2026-08-21", "messages": 7, "client_messages": 5, "team_messages": 2},
+    {"week_ending": "2026-08-28", "messages": 11, "client_messages": 9, "team_messages": 2},
+    {"week_ending": "2026-09-04", "messages": 36, "client_messages": 19, "team_messages": 17, "published": false, "subsumed_by": "2026-09-11"},
+    {"week_ending": "2026-09-11", "messages": 67, "client_messages": 39, "team_messages": 26, "window": "TWO weeks; second half only: 31/20/9"},
+    {"week_ending": "2026-09-18", "messages": 24, "client_messages": 9, "team_messages": 15},
+    {"week_ending": "2026-09-25", "messages": 21, "client_messages": 17, "team_messages": 4},
+    {"week_ending": "2026-10-02", "messages": 10, "client_messages": 2, "team_messages": 8, "published": false, "subsumed_by": "2026-10-09"},
+    {"week_ending": "2026-10-09", "messages": 64, "client_messages": 37, "team_messages": 27, "client_asks": 3, "window": "TWO weeks; halves 10/2/8 and 54/35/19", "note": "Team = ALTR staff 21 (Stephski 12, Melissa 4, Aroosha 4, Mica 1) + IG farm vendor 6. Billing 12/21 ALTR-staff msgs."},
+    {"week_ending": "2026-10-16", "messages": 29, "client_messages": 8, "team_messages": 21, "client_asks": 0, "note": "Stephski 8, Mayson 4, Melissa 2, Vivek 2, Spencer P 2, Aroosha 1, Jeremy Tarr 1, Mica 1; vendor 0. Billing 8/21."},
+    {"week_ending": "2026-10-30", "messages": 22, "client_messages": 4, "team_messages": 18, "client_asks": 2, "service_events": 1, "window": "TWO weeks; halves (10/16-10/23) 13/3/10 and (10/23-10/30) 9/1/8", "note": "Excludes 6 Antonio Veritrade test posts (10-21). ALTR staff 16 (Jeremy Tarr 6, Mayson 4, Melissa 2, Spencer P 2, Stephski 1, Mica 1) + IG farm vendor (Theta SDX) 2. Billing 1/16 (6%)."}
+  ],
+  "engagement_trend": [
+    {"week_ending": "2026-08-07", "messages": 16, "client_messages": 5, "health": 78},
+    {"week_ending": "2026-08-14", "messages": 5, "client_messages": 2, "health": 70},
+    {"week_ending": "2026-08-21", "messages": 7, "client_messages": 5, "health": 66},
+    {"week_ending": "2026-08-28", "messages": 11, "client_messages": 9, "health": 57},
+    {"week_ending": "2026-09-04", "messages": 36, "client_messages": 19, "health": 66},
+    {"week_ending": "2026-09-11", "messages": 31, "client_messages": 20, "health": 58},
+    {"week_ending": "2026-09-18", "messages": 24, "client_messages": 9, "health": 55},
+    {"week_ending": "2026-09-25", "messages": 21, "client_messages": 17, "health": 48},
+    {"week_ending": "2026-10-02", "messages": 10, "client_messages": 2, "health": 45, "published": false},
+    {"week_ending": "2026-10-09", "messages": 64, "client_messages": 37, "health": 48, "note": "Two weeks. Client 2 -> 35 between halves, driven by customs + billing; 3 asks."},
+    {"week_ending": "2026-10-16", "messages": 29, "client_messages": 8, "health": 43, "note": "Client 37 -> 8, asks 3 -> 0."},
+    {"week_ending": "2026-10-30", "messages": 22, "client_messages": 4, "health": 45, "note": "Two weeks. Client 8 (one week) -> 4 (two weeks) = 0.29/day, record low; asks 0 -> 2 (reactive). ALTR chased her 4x for customs."}
+  ],
+  "altr_silence_tracker": {
+    "as_of": "2026-10-30",
+    "people": [
+      {"name": "Derrek", "role": "Owner", "last_message": "2026-08-04", "days_silent": 87},
+      {"name": "Nick (DMCA)", "last_message": "2026-03-04", "days_silent": 240, "note": "Function moved into Melissa's weekly report 10-16; his own silence now moot."},
+      {"name": "Sophie Logan", "last_message": "2025-10-27", "days_silent": 368, "note": "Named by Jeremy 10-13 as a co-AM."},
+      {"name": "Noah / Nate", "last_message": "2026-01-21", "days_silent": 282, "note": "Named by Jeremy 10-13 as a co-AM."},
+      {"name": "Michelle", "last_message": "2026-09-12", "days_silent": 48},
+      {"name": "Ronnie", "last_message": "2026-09-23", "days_silent": 37, "note": "Named by Jeremy 10-13 as a co-AM."},
+      {"name": "Aroosha", "last_message": "2026-10-11", "days_silent": 19},
+      {"name": "Vivek", "last_message": "2026-10-12", "days_silent": 18},
+      {"name": "Melissa", "last_message": "2026-10-16", "days_silent": 14, "note": "Missed the 10-23 Friday report."},
+      {"name": "Stephski", "last_message": "2026-10-17", "days_silent": 13},
+      {"name": "IG farm vendor (Theta SDX / Stardust Nexus)", "last_message": "2026-10-20", "days_silent": 10},
+      {"name": "Mayson", "last_message": "2026-10-21", "days_silent": 9},
+      {"name": "Spencer P", "last_message": "2026-10-27", "days_silent": 3},
+      {"name": "Jeremy Tarr", "last_message": "2026-10-28", "days_silent": 2},
+      {"name": "Mica Vecco", "last_message": "2026-10-28", "days_silent": 2}
+    ]
+  },
+  "notes": "Client posts as 'Eli' (Liza). Timezone Mexico City; travels heavily. Warm tone ('Hi love!', 'Hi dear thank you so much xx'). Honest to a fault: refused a credit for her own bounced wire. HANDLE: tagged as @xanaduexpress through 10-21 (Jeremy, Mayson) but as @yelikovaa by the vendor (10-20) and Mica (10-28); her Telegram username may have changed - confirm, because tags to the wrong handle do not notify her.\n\nSTATUS (10-30): Two-week window, 4 client messages, 2 reactive asks, Oct 1-14 paid in ~28h. Two long-dead items closed in writing (DMCA reporting 226d; IG status 50d, from the vendor after a Mayson prompt). New problems: vendor disclosed a backup IG account created in her name (@lizanaughty) and a ban/restore with no detail; weekly report missed its first Friday (10-23); Stephski did not confirm receipt with a figure; customs needed 4 chases and Jeremy answered wrong before correcting. Unchanged: credentials in chat 60d (room grew again 10-21), reels/picks 36d, 09-24 customs 35d, $5k 51d, Derrek 87d. Jeremy Tarr (most active ALTR sender, 6 msgs) chased once and answered once; closed no inherited loop.\n\nPREDICTIONS TO CHECK NEXT WEEK (10-16 set, scored): (1) asks 0 again + fast pay = exit -> asks were 2, pay was fast: MIXED. (2) Derrek breaks silence -> NO (87d). (3) Spencer confirms 09-24 customs / price / 10-11 custom delivered -> NO on all three. (4) reels/picks answered -> NO (36d). (5) client reaction to xli.ink switch -> NONE. (6) Oct 1-14 payment speed / bounce -> ~28h, no bounce reported, receipt unconfirmed. (7) Jeremy closes an old loop -> NO. (8) further credentials/vendor activity -> no credentials; vendor posted status + disclosed @lizanaughty. (9) export/login/other-agency -> none.\n\nWATCH NEXT WEEK, IN ORDER: (1) Did the 10-30 Friday report go out, and did she react to it? (2) Did she deliver the voice note and the jose/Cammy customs, and did Jeremy describe them with price? (3) Oct 15-31 invoice: heads-up ~10-30, issued ~11-01, any 7th banking change, time-to-pay, and whether Stephski confirms with a figure. (4) Derrek breaks 87-day silence / credential disclosure+rotation / $5,000 ack / vendor introduction. (5) Anyone explains @lizanaughty and the ban/restore; Vivek posts an ALTR-written IG status incl. @Lizaakovalenk0. (6) 'reels/ picks?' answered (36d) and by whom. (7) 09-24 customs confirmed delivered; 10-08 price given. (8) Mica: concrete tip or third bare-link drop; which handle she tags. (9) Any export/login/data asks or mentions of other agencies.\n\nSENDERS: 'Aroosha s' = Aroosha (customs 10-05..10-11). 'Spencer P' = customs/content uploads/backend chat from 10-13. 'Jeremy Tarr' = AM from 10-13 'alongside Nate, Ronnie, and Sophie'. 'Stardust Nexus' / 'Theta SDX' = IG farm vendor (unconfirmed; Mayson tags @StardustNexus and @thetasdx); joined 10-02 / 10-08; never introduced. 'Antonio Veritrade' = system test account (joined 10-21 21:12:08, 6 test posts). Mayson tags Vivek as '@fonta'.\n\nFACTS: Banking changed 6x since 2025-09-27 (latest beneficiary name 2026-09-15). Card links carry 5% surcharge (fanbasis). Crypto rail USDT ERC20 direct to Derrek bypasses Stephski. Third-party senders: Leticia Linss, Jose M Munoz Linss, Edgardo R Canales. Custom tracking sheet: docs.google.com/spreadsheets/d/1oR5L3Ajngl-TiI-Smv0zdvpw2MUH7992Rdav9ydEELc (customs tab gid=1489920590). Pending customs at 10-28: voice note (10-11), 'jose', 'Cammy'. Content Drive: drive.google.com/drive/folders/1R21PSH_ekNWDMB1M_nSTIN99irWTRE7_. Link in bio: lizaswrld.com restored 10-11, taken down 10-15; now xli.ink/liza-kovalenko (client never confirmed switching). IG accounts per vendor 10-20: daily trials on @lizkovalenkoo and @Lizakovaal; reels on vendor-created backup @lizanaughty; @Lizaakovalenk0 not mentioned. Top fan behind 10-05/10-08 custom: $8.6k lifetime. Weekly combined earnings/performance/DMCA report promised every Friday from 10-16 (missed 10-23). Topics: Social Media (2), Invoicing (3), DMCA Takedowns (4, retired 10-16), Onlyfans Updates (5), Promo (100), Resources, Facebook. She declined FB management Jan 2026. Proven: specific named asks get fast delivery; concrete written tips get replies; bare inspo links and unnamed custom bumps get nothing. CREDENTIALS: plaintext IG passwords in chat messages of 2026-08-31 (client) and 2026-09-12 (Michelle Queue); live IG 2FA code 2026-10-08 17:11 (client) - always render as [REDACTED]."
+}

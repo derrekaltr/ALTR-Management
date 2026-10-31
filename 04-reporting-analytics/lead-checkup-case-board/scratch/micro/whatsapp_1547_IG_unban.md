@@ -1,0 +1,16 @@
+## IG unban [whatsapp#1547 GRP] msgs=20 win=2026-08-04..2026-08-04 lastClient=2026-08-04(45d) lastDerek=2026-08-04(45d) 
+...
+[2026-08-04 08:44]ASK| 45135995920614@lid: {"is_hidden_sub_group":false,"is_parent_group_general_chat":false,"is_open_group":true,"parent_group_jid":null,"parent_group_name":null,"is_initially_empty":false,"subject":"IG unban","auto_add_disabl
+...
+[2026-08-04 10:35]IMG-near-money| 14654445252740@lid: 
+   <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363430740919688@g.us/9/5/95544d1b-a66e-4d3f-8139-e56c5408f8c4.jpg>
+[2026-08-04 10:35]PAY|ASK| 14654445252740@lid: Would you be able to let me know how much restoration for this account would cost?
+...
+[2026-08-04 10:46]ASK| 14654445252740@lid: I did it was disabled
+...
+[2026-08-04 11:16]IMG-near-money| 14654445252740@lid: 
+   <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363430740919688@g.us/3/9/39cd82e9-a31a-4460-bbfb-fbf63888e289.jpg>
+[2026-08-04 11:16]IMG-near-money| 14654445252740@lid: 
+   <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363430740919688@g.us/6/4/649b6f10-a3b7-477c-979e-212b3be5583a.jpg>
+...
+[2026-08-04 11:19]$| DEREK: We can do this for $3500

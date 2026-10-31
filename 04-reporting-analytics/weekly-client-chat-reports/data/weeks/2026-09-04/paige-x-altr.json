@@ -1,0 +1,482 @@
+{
+  "client": "Paige",
+  "slug": "paige-x-altr",
+  "week_ending": "2026-09-04",
+  "summary": "Paige quit. On Sep 2 at 11:17 she wrote 'hey!! i just wanted to inform that i’m leaving the agency tomorrow! thank you for what you have been doing but its just not working for me I’m sorry! i appreciate the time support and help x'. Four consecutive reports called this exact outcome — a quiet referral client who never complains, absorbing failure after failure — and it landed in week 10. The five days before she quit are the whole case file. What ALTR asked of her: Vivek's 'need login code' (Aug 28), 'Drop the logins' (Aug 29) and 'Need approval for the account' (Aug 30) — the sixth and seventh credential asks of the relationship, producing a SIXTH plaintext password post in the group chat ('this is @xpaigex18 / [REDACTED-PASSWORD]', Aug 29); Mayson's Aug 30 content quota, 'keep it topped up with 7 reels a week so 30 in total per month'; Mica's Aug 31 reappearance after 18 days of silence, not with reel inspo but with a lecture — 'just wanted to reiterate how important consistent posting is' — to a client whose Instagram had been locked four times in 30 days; and Stephski's Sep 1 invoice carrying 'please pay within 7 days to avoid any pausing of work'. What ALTR delivered her: nothing. The Aug 26 lockout was never closed — Vivek's final message on this account, Aug 30, is another request from her, and she never replied. Then on Aug 31 she raised a brand-new and serious problem: 'ive got a leak. someone using my stuff on a swingers website x'. Michelle answered 'send me the link of this babes and we will take care of it' — her first message in 44 days — Paige supplied the URL at 03:59 on Sep 1, and nobody has said a single word about it since. Nick (DMCA), the dedicated takedown owner, was never brought in despite a DMCA topic existing in this chat since day one. Her last request to ALTR went unanswered, and roughly 31 hours later she left. The only reply to the churn notice came 72 minutes later from Mayson, a chatter: 'Hey Paige would you like to hop on a call today and go over it?'. As of the close of this window — 46 hours after she gave notice — Derrek has not said anything.",
+  "health": {
+    "score": 10,
+    "trend": "down",
+    "rationale": "Down 38 from 48. The client gave notice of termination on Sep 2; there is no lower-severity way to score a week. The 82 -> 66 -> 57 -> 48 -> 10 slide was continuous, entirely ALTR-caused, and flagged in writing every single week: the Aug 21 file predicted a fourth Instagram episode would be the escalation trigger, the Aug 28 file said 'an unstaffed relationship at week 10 is how a quiet referral client churns without ever complaining'. Both came true. Not one carry-forward item was closed this week: the Aug 26 lockout is 9 days open and Vivek's last act was to ask her for something else; the security remediation is 32 days old and gained a sixth plaintext credential post; Derrek's 'plenty of updates starting next week' is 34 days and five report weeks silent; Mica's 1-on-1 is 60 days unbooked. Meanwhile the week's outbound traffic was three credential demands, a 30-reels-a-month content quota, a posting-consistency lecture and an invoice with a work-pause clause — four asks and zero deliverables — and her one new request, a content leak on a swingers site, was left unanswered for the 53 hours between her posting the URL and the end of this window. The only points left on the board are that she exited without hostility ('i appreciate the time support and help x'), the notice period is 'tomorrow' rather than immediate, and Mayson offered a call inside 72 minutes. A save is still technically live, which is the only reason this is not lower.",
+    "score_delta": -38,
+    "previous_score": 48
+  },
+  "reminders": [
+    {
+      "employee": "Vivek",
+      "topic": "Asking Paige for logins, codes or approvals in the client group chat — seventh, eighth and ninth asks of the relationship, three of them inside this window (Aug 28, Aug 29, Aug 30). Every one of them is a request FROM the client; not one message from Vivek in this window tells her anything, confirms anything, or closes anything. His final message on the account, 'Need approval for the account' on Aug 30, was never answered and never followed up.",
+      "count": 7,
+      "first_date": "2026-07-29",
+      "last_date": "2026-08-30",
+      "chases_this_week": 3,
+      "evidence": [
+        {"quote": "Share login", "who": "Vivek", "date": "2026-07-29"},
+        {"quote": "Send login in dm", "who": "Vivek", "date": "2026-08-13"},
+        {"quote": "Send id password", "who": "Vivek", "date": "2026-08-20"},
+        {"quote": "Send logins", "who": "Vivek", "date": "2026-08-27"},
+        {"quote": "@paigeleighx need login code", "who": "Vivek", "date": "2026-08-28"},
+        {"quote": "Drop the logins", "who": "Vivek", "date": "2026-08-29"},
+        {"quote": "Need approval for the account", "who": "Vivek", "date": "2026-08-30"}
+      ],
+      "quotes": [
+        {"quote": "Share login", "who": "Vivek", "date": "2026-07-29"},
+        {"quote": "Send login in dm", "who": "Vivek", "date": "2026-08-13"},
+        {"quote": "Send id password", "who": "Vivek", "date": "2026-08-20"},
+        {"quote": "Send logins", "who": "Vivek", "date": "2026-08-27"},
+        {"quote": "@paigeleighx need login code", "who": "Vivek", "date": "2026-08-28"},
+        {"quote": "Drop the logins", "who": "Vivek", "date": "2026-08-29"},
+        {"quote": "Need approval for the account", "who": "Vivek", "date": "2026-08-30"}
+      ]
+    },
+    {
+      "employee": "Michelle",
+      "topic": "Paige having to chase her own DMCA takedown. She reported the leak on Aug 31, Michelle claimed it, Mayson had to bump her with '@paigeleighx ^' to get the link, and when she supplied the URL at 03:59 on Sep 1 the thread died. 53 hours to the end of this window with no acknowledgement, no takedown confirmation, and no involvement from Nick (DMCA), who owns this function and has never posted in this chat.",
+      "count": 1,
+      "first_date": "2026-08-31",
+      "last_date": "2026-09-01",
+      "chases_this_week": 1,
+      "evidence": [
+        {"quote": "send me the link of this babes and we will take care of it", "who": "Michelle", "date": "2026-08-31"},
+        {"quote": "@paigeleighx ^", "who": "Mayson", "date": "2026-08-31"},
+        {"quote": "ive asked for it hes not resent tho the website is called", "who": "Paige (Chey Ref)", "date": "2026-09-01"},
+        {"quote": "https://live.pushub.net/filter?q=fan+swingers&i=AJ0YIjzgq1I_0&ci=-1751194247205874075&t=662749722&h=4", "who": "Paige (Chey Ref)", "date": "2026-09-01"}
+      ],
+      "quotes": [
+        {"quote": "send me the link of this babes and we will take care of it", "who": "Michelle", "date": "2026-08-31"},
+        {"quote": "@paigeleighx ^", "who": "Mayson", "date": "2026-08-31"},
+        {"quote": "ive asked for it hes not resent tho the website is called", "who": "Paige (Chey Ref)", "date": "2026-09-01"},
+        {"quote": "https://live.pushub.net/filter?q=fan+swingers&i=AJ0YIjzgq1I_0&ci=-1751194247205874075&t=662749722&h=4", "who": "Paige (Chey Ref)", "date": "2026-09-01"}
+      ]
+    },
+    {
+      "employee": "Mayson",
+      "topic": "Content upload demand re-issued from scratch, 55 days after Michelle first sent it. Mayson posted the identical Google Drive folder on Aug 30 as 'this one is important!' with a new 30-reels-per-month quota, with no acknowledgement that Michelle had already run this request on Jul 6 or that Paige had already uploaded on Jul 18 and never received a reply. Two separate ALTR staff have now asked the same client for the same thing into the same folder without either of them closing the loop.",
+      "count": 2,
+      "first_date": "2026-07-06",
+      "last_date": "2026-08-30",
+      "chases_this_week": 1,
+      "evidence": [
+        {"quote": "Hi love, this is a content request for your management ran Instagram reels.", "who": "Michelle", "date": "2026-07-06"},
+        {"quote": "omg this whole time i thought they’d upload they’d uploaded and ive just gone on it again and they’re still uploading! im so sorry!!", "who": "Paige (Chey Ref)", "date": "2026-07-18"},
+        {"quote": "Please upload all the content you have that hasn't been posted yet, then keep it topped up with 7 reels a week so 30 in total per month", "who": "Mayson", "date": "2026-08-30"}
+      ],
+      "quotes": [
+        {"quote": "Hi love, this is a content request for your management ran Instagram reels.", "who": "Michelle", "date": "2026-07-06"},
+        {"quote": "omg this whole time i thought they’d upload they’d uploaded and ive just gone on it again and they’re still uploading! im so sorry!!", "who": "Paige (Chey Ref)", "date": "2026-07-18"},
+        {"quote": "Please upload all the content you have that hasn't been posted yet, then keep it topped up with 7 reels a week so 30 in total per month", "who": "Mayson", "date": "2026-08-30"}
+      ]
+    }
+  ],
+  "complaints": [
+    {
+      "issue": "CHURN. Paige gave notice on Sep 2 that she is leaving the agency 'tomorrow'. She gave a reason — 'its just not working for me' — and thanked the team on the way out. As of the end of this window, 46 hours later, the only response from ALTR is a call offer from Mayson, a chatter. No owner, no director, no retention conversation, no acknowledgement that anything went wrong. This is the terminal outcome of a five-week decline documented in every prior report.",
+      "status": "new",
+      "first_raised": "2026-09-02",
+      "owner": "Derrek",
+      "severity": "critical",
+      "days_open": 2,
+      "evidence": [
+        {"quote": "hey!! i just wanted to inform that i’m leaving the agency tomorrow! thank you for what you have been doing but its just not working for me I’m sorry! i appreciate the time support and help x", "who": "Paige (Chey Ref)", "date": "2026-09-02"},
+        {"quote": "Hey Paige would you like to hop on a call today and go over it?", "who": "Mayson", "date": "2026-09-02"}
+      ],
+      "quotes": [
+        {"quote": "hey!! i just wanted to inform that i’m leaving the agency tomorrow! thank you for what you have been doing but its just not working for me I’m sorry! i appreciate the time support and help x", "who": "Paige (Chey Ref)", "date": "2026-09-02"},
+        {"quote": "Hey Paige would you like to hop on a call today and go over it?", "who": "Mayson", "date": "2026-09-02"}
+      ]
+    },
+    {
+      "issue": "Content leak reported and then ignored. On Aug 31 Paige raised a brand-new, serious problem: her content is being used on a third-party swingers site. Michelle promised 'we will take care of it', Mayson chased her for the link, and Paige supplied the exact URL at 03:59 on Sep 1. Nothing has been said about it since — no acknowledgement, no takedown status, no ticket. Nick (DMCA) owns this function and a dedicated DMCA topic has existed in this chat since Jun 24; neither was used. This was her last request to ALTR and it went unanswered for the 31 hours before she quit.",
+      "status": "new",
+      "first_raised": "2026-08-31",
+      "owner": "Michelle / Nick (DMCA)",
+      "severity": "critical",
+      "days_open": 4,
+      "evidence": [
+        {"quote": "ive got a leak. someone using my stuff on a swingers website x", "who": "Paige (Chey Ref)", "date": "2026-08-31"},
+        {"quote": "send me the link of this babes and we will take care of it", "who": "Michelle", "date": "2026-08-31"},
+        {"quote": "https://live.pushub.net/filter?q=fan+swingers&i=AJ0YIjzgq1I_0&ci=-1751194247205874075&t=662749722&h=4", "who": "Paige (Chey Ref)", "date": "2026-09-01"}
+      ],
+      "quotes": [
+        {"quote": "ive got a leak. someone using my stuff on a swingers website x", "who": "Paige (Chey Ref)", "date": "2026-08-31"},
+        {"quote": "send me the link of this babes and we will take care of it", "who": "Michelle", "date": "2026-08-31"},
+        {"quote": "https://live.pushub.net/filter?q=fan+swingers&i=AJ0YIjzgq1I_0&ci=-1751194247205874075&t=662749722&h=4", "who": "Paige (Chey Ref)", "date": "2026-09-01"}
+      ]
+    },
+    {
+      "issue": "The Instagram lockout that began Aug 26 was never closed. It is the fourth episode since Jul 29 and the only one to span two report weeks. She stayed cooperative through it — 'hey im available now sorry was flying fell asleep soon as i got in' at 02:29 on Aug 29 — handed over her login again, and then Vivek's last message on this account, 'Need approval for the account' on Aug 30, was another request. She never answered it and he never followed up. Nine days open at window close, no diagnosis, no explanation, no closure message, and she left with her account issue still live. Previously raised Jul 29, Aug 13, Aug 21, Aug 26.",
+      "status": "recurring",
+      "first_raised": "2026-07-29",
+      "owner": "Vivek",
+      "severity": "critical",
+      "days_open": 37,
+      "evidence": [
+        {"quote": "hey @fonta ive just realised i cant share links xx", "who": "Paige (Chey Ref)", "date": "2026-07-29"},
+        {"quote": "i had to change my password again", "who": "Paige (Chey Ref)", "date": "2026-08-21"},
+        {"quote": "Okay", "who": "Vivek", "date": "2026-08-27"},
+        {"quote": "hey im available now sorry was flying fell asleep soon as i got in", "who": "Paige (Chey Ref)", "date": "2026-08-29"},
+        {"quote": "could you do this too please? x", "who": "Paige (Chey Ref)", "date": "2026-08-29"},
+        {"quote": "Need approval for the account", "who": "Vivek", "date": "2026-08-30"}
+      ],
+      "quotes": [
+        {"quote": "hey @fonta ive just realised i cant share links xx", "who": "Paige (Chey Ref)", "date": "2026-07-29"},
+        {"quote": "i had to change my password again", "who": "Paige (Chey Ref)", "date": "2026-08-21"},
+        {"quote": "Okay", "who": "Vivek", "date": "2026-08-27"},
+        {"quote": "hey im available now sorry was flying fell asleep soon as i got in", "who": "Paige (Chey Ref)", "date": "2026-08-29"},
+        {"quote": "could you do this too please? x", "who": "Paige (Chey Ref)", "date": "2026-08-29"},
+        {"quote": "Need approval for the account", "who": "Vivek", "date": "2026-08-30"}
+      ]
+    },
+    {
+      "issue": "Credential exposure in the client group chat, SIXTH plaintext post. On Aug 29 Paige posted 'this is @xpaigex18 / [REDACTED-PASSWORD]' (message id 151), joining ids 39, 54, 75, 85, 98, 100, 110, 120, 127, 128 and 144 in a chat that also carries ALTR's wire and Zelle details. 32 days since the first exposure, zero remediation, and now the client is leaving — meaning she departs with a live password of hers sitting in an ALTR-controlled group chat. Note the Aug 29 post also silently answered the Aug 27 identity question (the account is xpaigex18 and the password is '[REDACTED-PASSWORD]' after all) — but nobody ever asked, and the unexplained '@paigeeleighhxx' handle from Aug 27 was never clarified.",
+      "status": "recurring",
+      "first_raised": "2026-07-29",
+      "owner": "Vivek / Derrek",
+      "severity": "critical",
+      "days_open": 37,
+      "evidence": [
+        {"quote": "xpaigex18\n[REDACTED-RECOVERY-EMAIL]\n[REDACTED-PASSWORD]", "who": "Paige (Chey Ref)", "date": "2026-07-29"},
+        {"quote": "[REDACTED-PASSWORD]", "who": "Paige (Chey Ref)", "date": "2026-08-21"},
+        {"quote": "@paigeeleighhxx\n\npassword i think is [REDACTED-PASSWORD]\nor\n[REDACTED-PASSWORD]", "who": "Paige (Chey Ref)", "date": "2026-08-27"},
+        {"quote": "Drop the logins", "who": "Vivek", "date": "2026-08-29"},
+        {"quote": "this is @xpaigex18\n[REDACTED-PASSWORD]", "who": "Paige (Chey Ref)", "date": "2026-08-29"}
+      ],
+      "quotes": [
+        {"quote": "xpaigex18\n[REDACTED-RECOVERY-EMAIL]\n[REDACTED-PASSWORD]", "who": "Paige (Chey Ref)", "date": "2026-07-29"},
+        {"quote": "[REDACTED-PASSWORD]", "who": "Paige (Chey Ref)", "date": "2026-08-21"},
+        {"quote": "@paigeeleighhxx\n\npassword i think is [REDACTED-PASSWORD]\nor\n[REDACTED-PASSWORD]", "who": "Paige (Chey Ref)", "date": "2026-08-27"},
+        {"quote": "Drop the logins", "who": "Vivek", "date": "2026-08-29"},
+        {"quote": "this is @xpaigex18\n[REDACTED-PASSWORD]", "who": "Paige (Chey Ref)", "date": "2026-08-29"}
+      ]
+    },
+    {
+      "issue": "Every proactive message ALTR sent this week was an ASK, not a deliverable. In the five days before she quit she received: a 30-reels-per-month content quota from Mayson (Aug 30); Mica's first message in 18 days, which was a lecture on posting consistency rather than the reel inspo she had been missing since Aug 13, delivered to a client whose Instagram had locked four times in 30 days and was still broken; and an invoice on Sep 1 warning of 'pausing of work'. Against that: no posting report, no growth numbers, no OF or chatting update — in 72 days this chat has never once carried a result. This is the fifth consecutive report flagging it.",
+      "status": "recurring",
+      "first_raised": "2026-08-01",
+      "owner": "Derrek",
+      "severity": "critical",
+      "days_open": 34,
+      "evidence": [
+        {"quote": "Please upload all the content you have that hasn't been posted yet, then keep it topped up with 7 reels a week so 30 in total per month", "who": "Mayson", "date": "2026-08-30"},
+        {"quote": "Hi love 💕 just wanted to reiterate how important consistent posting is for increasing social media engagement! This video is a great example:", "who": "Mica Vecco", "date": "2026-08-31"},
+        {"quote": "I ask that you please pay within 7 days to avoid any pausing of work 🙏", "who": "Stephski", "date": "2026-09-01"}
+      ],
+      "quotes": [
+        {"quote": "Please upload all the content you have that hasn't been posted yet, then keep it topped up with 7 reels a week so 30 in total per month", "who": "Mayson", "date": "2026-08-30"},
+        {"quote": "Hi love 💕 just wanted to reiterate how important consistent posting is for increasing social media engagement! This video is a great example:", "who": "Mica Vecco", "date": "2026-08-31"},
+        {"quote": "I ask that you please pay within 7 days to avoid any pausing of work 🙏", "who": "Stephski", "date": "2026-09-01"}
+      ]
+    },
+    {
+      "issue": "Derrek's Aug 1 phone-farm promise was never kept. 'We will have plenty of updates starting next week' was posted 34 days and five report weeks ago; Paige replied with genuine excitement and then never chased it once. She has now left without ever receiving a single update on the system that was pitched to her as the reason her accounts were paused.",
+      "status": "recurring",
+      "first_raised": "2026-08-01",
+      "owner": "Derrek",
+      "severity": "high",
+      "days_open": 34,
+      "evidence": [
+        {"quote": "Thank you for your understanding, we will have plenty of updates starting next week.", "who": "Derrek", "date": "2026-08-01"},
+        {"quote": "oh wow! thats insane hopefully it works out thank you for updating me 💗 im excited to see where this goes. thank youu. xx", "who": "Paige (Chey Ref)", "date": "2026-08-01"}
+      ],
+      "quotes": [
+        {"quote": "Thank you for your understanding, we will have plenty of updates starting next week.", "who": "Derrek", "date": "2026-08-01"},
+        {"quote": "oh wow! thats insane hopefully it works out thank you for updating me 💗 im excited to see where this goes. thank youu. xx", "who": "Paige (Chey Ref)", "date": "2026-08-01"}
+      ]
+    }
+  ],
+  "commitments": [
+    {
+      "what": "Owner-level response to the churn notice. Paige gave notice at 11:17 on Sep 2 and said she is leaving 'tomorrow'. 46 hours later the only reply on record is Mayson's call offer. Derrek has said nothing. If a retention attempt is going to happen it is already late.",
+      "who": "Derrek",
+      "date": "2026-09-02",
+      "status": "overdue",
+      "days_outstanding": 2,
+      "evidence": [
+        {"quote": "hey!! i just wanted to inform that i’m leaving the agency tomorrow! thank you for what you have been doing but its just not working for me I’m sorry! i appreciate the time support and help x", "who": "Paige (Chey Ref)", "date": "2026-09-02"}
+      ],
+      "quotes": [
+        {"quote": "hey!! i just wanted to inform that i’m leaving the agency tomorrow! thank you for what you have been doing but its just not working for me I’m sorry! i appreciate the time support and help x", "who": "Paige (Chey Ref)", "date": "2026-09-02"}
+      ]
+    },
+    {
+      "what": "Mayson to get the exit call booked and held — 'would you like to hop on a call today and go over it?' offered Sep 2 at 12:29. No answer from Paige in the chat and no evidence a call happened. This is currently the only live retention thread.",
+      "who": "Mayson",
+      "date": "2026-09-02",
+      "status": "pending",
+      "days_outstanding": 2,
+      "evidence": [
+        {"quote": "Hey Paige would you like to hop on a call today and go over it?", "who": "Mayson", "date": "2026-09-02"}
+      ],
+      "quotes": [
+        {"quote": "Hey Paige would you like to hop on a call today and go over it?", "who": "Mayson", "date": "2026-09-02"}
+      ]
+    },
+    {
+      "what": "Michelle to action the leak takedown she claimed on Aug 31 — 'we will take care of it'. The URL was supplied at 03:59 on Sep 1 and there has been no acknowledgement, no status and no handoff to Nick (DMCA) in the 53 hours since. Highest-leverage unclosed item on the account: it is the one thing that would still visibly help her.",
+      "who": "Michelle",
+      "date": "2026-08-31",
+      "status": "overdue",
+      "days_outstanding": 4,
+      "evidence": [
+        {"quote": "send me the link of this babes and we will take care of it", "who": "Michelle", "date": "2026-08-31"},
+        {"quote": "https://live.pushub.net/filter?q=fan+swingers&i=AJ0YIjzgq1I_0&ci=-1751194247205874075&t=662749722&h=4", "who": "Paige (Chey Ref)", "date": "2026-09-01"}
+      ],
+      "quotes": [
+        {"quote": "send me the link of this babes and we will take care of it", "who": "Michelle", "date": "2026-08-31"},
+        {"quote": "https://live.pushub.net/filter?q=fan+swingers&i=AJ0YIjzgq1I_0&ci=-1751194247205874075&t=662749722&h=4", "who": "Paige (Chey Ref)", "date": "2026-09-01"}
+      ]
+    },
+    {
+      "what": "Close out the Aug 26 Instagram lockout. Paige gave Vivek her login again on Aug 29; he asked for an account approval on Aug 30 and then stopped. Nine days open, four episodes deep, and she has never received a message saying what broke, what was fixed, or what her credentials are now.",
+      "who": "Vivek",
+      "date": "2026-08-26",
+      "status": "overdue",
+      "days_outstanding": 9,
+      "evidence": [
+        {"quote": "Send logins", "who": "Vivek", "date": "2026-08-27"},
+        {"quote": "this is @xpaigex18\n[REDACTED-PASSWORD]", "who": "Paige (Chey Ref)", "date": "2026-08-29"},
+        {"quote": "Need approval for the account", "who": "Vivek", "date": "2026-08-30"}
+      ],
+      "quotes": [
+        {"quote": "Send logins", "who": "Vivek", "date": "2026-08-27"},
+        {"quote": "this is @xpaigex18\n[REDACTED-PASSWORD]", "who": "Paige (Chey Ref)", "date": "2026-08-29"},
+        {"quote": "Need approval for the account", "who": "Vivek", "date": "2026-08-30"}
+      ]
+    },
+    {
+      "what": "Security remediation and offboarding hygiene: rotate the credentials, revoke ALTR's access to her accounts, and DELETE the plaintext credential messages from this group chat — ids 39, 54, 75, 85, 98, 100, 110, 120, 127, 128, 144 and now 151. 37 days outstanding across two named owners, six exposures, and the client is now leaving with a live password of hers still sitting in an ALTR chat.",
+      "who": "Vivek / Derrek",
+      "date": "2026-07-29",
+      "status": "overdue",
+      "days_outstanding": 37,
+      "evidence": [
+        {"quote": "xpaigex18\n[REDACTED-RECOVERY-EMAIL]\n[REDACTED-PASSWORD]", "who": "Paige (Chey Ref)", "date": "2026-07-29"},
+        {"quote": "this is @xpaigex18\n[REDACTED-PASSWORD]", "who": "Paige (Chey Ref)", "date": "2026-08-29"}
+      ],
+      "quotes": [
+        {"quote": "xpaigex18\n[REDACTED-RECOVERY-EMAIL]\n[REDACTED-PASSWORD]", "who": "Paige (Chey Ref)", "date": "2026-07-29"},
+        {"quote": "this is @xpaigex18\n[REDACTED-PASSWORD]", "who": "Paige (Chey Ref)", "date": "2026-08-29"}
+      ]
+    },
+    {
+      "what": "Diagnose and state in writing why the Instagram account kept locking — four forced resets in 30 days, opened as a commitment on Aug 21, never attempted. This is the question that matters beyond Paige: if ALTR's own phone-farm login pattern is what tripped Meta's checks, the same failure is live on every client on that system.",
+      "who": "Vivek",
+      "date": "2026-08-21",
+      "status": "overdue",
+      "days_outstanding": 14,
+      "evidence": [
+        {"quote": "no i just got logged out made me confirm my details thinking i was hacled", "who": "Paige (Chey Ref)", "date": "2026-08-14"},
+        {"quote": "i had to change my password again", "who": "Paige (Chey Ref)", "date": "2026-08-21"}
+      ],
+      "quotes": [
+        {"quote": "no i just got logged out made me confirm my details thinking i was hacled", "who": "Paige (Chey Ref)", "date": "2026-08-14"},
+        {"quote": "i had to change my password again", "who": "Paige (Chey Ref)", "date": "2026-08-21"}
+      ]
+    },
+    {
+      "what": "Vivek to report back on the Aug 13-14 lockout — 'Will update shortly' said on Aug 14 and never delivered. 21 days, and in that time he asked her for credentials or approvals five more times without once closing the loop.",
+      "who": "Vivek",
+      "date": "2026-08-14",
+      "status": "overdue",
+      "days_outstanding": 21,
+      "evidence": [
+        {"quote": "Will update shortly", "who": "Vivek", "date": "2026-08-14"},
+        {"quote": "Drop the logins", "who": "Vivek", "date": "2026-08-29"}
+      ],
+      "quotes": [
+        {"quote": "Will update shortly", "who": "Vivek", "date": "2026-08-14"},
+        {"quote": "Drop the logins", "who": "Vivek", "date": "2026-08-29"}
+      ]
+    },
+    {
+      "what": "Explain the Aug 14 'Unfilteredlifiting' wrong-account approval request and the unexplained 'Hell nah', and reassure Paige nothing of hers was cross-linked. 21 days, never attempted, and she has now left without an answer.",
+      "who": "Vivek",
+      "date": "2026-08-14",
+      "status": "overdue",
+      "days_outstanding": 21,
+      "evidence": [
+        {"quote": "Unfilteredlifiting", "who": "Vivek", "date": "2026-08-14"},
+        {"quote": "what the hell hold on", "who": "Paige (Chey Ref)", "date": "2026-08-14"},
+        {"quote": "Hell nah", "who": "Vivek", "date": "2026-08-14"}
+      ],
+      "quotes": [
+        {"quote": "Unfilteredlifiting", "who": "Vivek", "date": "2026-08-14"},
+        {"quote": "what the hell hold on", "who": "Paige (Chey Ref)", "date": "2026-08-14"},
+        {"quote": "Hell nah", "who": "Vivek", "date": "2026-08-14"}
+      ]
+    },
+    {
+      "what": "Derrek to post phone-farm / IG rollout updates promised on Aug 1. 34 days, five report weeks, nothing delivered. Now permanently unfulfillable — the client left first.",
+      "who": "Derrek",
+      "date": "2026-08-01",
+      "status": "overdue",
+      "days_outstanding": 34,
+      "evidence": [
+        {"quote": "Thank you for your understanding, we will have plenty of updates starting next week.", "who": "Derrek", "date": "2026-08-01"}
+      ],
+      "quotes": [
+        {"quote": "Thank you for your understanding, we will have plenty of updates starting next week.", "who": "Derrek", "date": "2026-08-01"}
+      ]
+    },
+    {
+      "what": "Mica to get the 1-on-1 socials onboarding call booked and held — Paige said 'ill book now' on Jul 6. 60 days, never happened. Mica's only contribution in the final three weeks of the relationship was one posting-consistency lecture on Aug 31.",
+      "who": "Mica Vecco",
+      "date": "2026-07-06",
+      "status": "overdue",
+      "days_outstanding": 60,
+      "evidence": [
+        {"quote": "hii sorry im new to telegram still figuring it out 😂 ill book now xx", "who": "Paige (Chey Ref)", "date": "2026-07-06"},
+        {"quote": "no worries queen! speak soon 🤍", "who": "Mica Vecco", "date": "2026-07-06"},
+        {"quote": "Hi love 💕 just wanted to reiterate how important consistent posting is for increasing social media engagement! This video is a great example:", "who": "Mica Vecco", "date": "2026-08-31"}
+      ],
+      "quotes": [
+        {"quote": "hii sorry im new to telegram still figuring it out 😂 ill book now xx", "who": "Paige (Chey Ref)", "date": "2026-07-06"},
+        {"quote": "no worries queen! speak soon 🤍", "who": "Mica Vecco", "date": "2026-07-06"},
+        {"quote": "Hi love 💕 just wanted to reiterate how important consistent posting is for increasing social media engagement! This video is a great example:", "who": "Mica Vecco", "date": "2026-08-31"}
+      ]
+    },
+    {
+      "what": "Michelle to close out the Jul 6-18 reel and story upload request — 48 days. She reappeared on Aug 31 for the leak but never returned to the uploads, and Mayson re-issued the same request from scratch on Aug 30 as if it had never been made.",
+      "who": "Michelle",
+      "date": "2026-07-18",
+      "status": "overdue",
+      "days_outstanding": 48,
+      "evidence": [
+        {"quote": "awww lol it’s okay! also if you can upload a few pictures as well for story post that’ll be great babe 💕", "who": "Michelle", "date": "2026-07-18"},
+        {"quote": "Please upload all the content you have that hasn't been posted yet, then keep it topped up with 7 reels a week so 30 in total per month", "who": "Mayson", "date": "2026-08-30"}
+      ],
+      "quotes": [
+        {"quote": "awww lol it’s okay! also if you can upload a few pictures as well for story post that’ll be great babe 💕", "who": "Michelle", "date": "2026-07-18"},
+        {"quote": "Please upload all the content you have that hasn't been posted yet, then keep it topped up with 7 reels a week so 30 in total per month", "who": "Mayson", "date": "2026-08-30"}
+      ]
+    },
+    {
+      "what": "Stephski to acknowledge the Aug 26 payment screenshot for the Aug 1-14 invoice — DONE on Aug 29 with 'Amazing thank you!', 64 hours after the screenshot. Closing this as done, with the caveat that it is a thank-you, not a confirmed receipt: the amount and the destination account were never verified in chat and that invoice carried a changed account number.",
+      "who": "Stephski",
+      "date": "2026-08-29",
+      "status": "done",
+      "days_outstanding": 0,
+      "evidence": [
+        {"quote": "i already sent it babe x", "who": "Paige (Chey Ref)", "date": "2026-08-26"},
+        {"quote": "Amazing thank you!", "who": "Stephski", "date": "2026-08-29"}
+      ],
+      "quotes": [
+        {"quote": "i already sent it babe x", "who": "Paige (Chey Ref)", "date": "2026-08-26"},
+        {"quote": "Amazing thank you!", "who": "Stephski", "date": "2026-08-29"}
+      ]
+    },
+    {
+      "what": "Stephski to confirm the Aug 4 wire for the Jul 15-31 invoice actually landed — 31 days and still no explicit 'received' in chat, only 'thanks so much 🙂' on the day she said she had sent it.",
+      "who": "Stephski",
+      "date": "2026-08-04",
+      "status": "overdue",
+      "days_outstanding": 31,
+      "evidence": [
+        {"quote": "hey ive sent it should arrive tomorrow c", "who": "Paige (Chey Ref)", "date": "2026-08-04"},
+        {"quote": "thanks so much 🙂", "who": "Stephski", "date": "2026-08-04"}
+      ],
+      "quotes": [
+        {"quote": "hey ive sent it should arrive tomorrow c", "who": "Paige (Chey Ref)", "date": "2026-08-04"},
+        {"quote": "thanks so much 🙂", "who": "Stephski", "date": "2026-08-04"}
+      ]
+    }
+  ],
+  "payments": [
+    {
+      "note": "FINAL INVOICE AT RISK. Stephski sent the Aug 15-31 invoice on Sep 1 at 17:04 with a 7-day term and a work-pause clause. Paige gave notice of departure 18 hours later and has not responded to the invoice. This is now a final-balance collection against a departing client whose last three requests to ALTR (lockout closure, leak takedown, an explanation) all went unanswered. Also note: the Aug 31 pre-warning that last week's report explicitly recommended — the 'invoicing will start tomorrow, please withdraw from OF if needed' message that demonstrably works on this client — was NOT sent this cycle. The only thing she received on Aug 31 was a posting lecture.",
+      "amount": "not stated in chat (invoice sent as PDF)",
+      "date": "2026-09-01",
+      "invoice_period": "2026-08-15 to 2026-08-31",
+      "late": false,
+      "days_late": null,
+      "reason": "Not yet late — 7-day term runs to Sep 8. Risk is collection, not lateness: notice of departure landed the following day.",
+      "suggested_fix": "Do not chase this with a pause threat. Settle the leak takedown and the lockout first, then agree the final balance on the exit call. Restate the account number in the message body — the Aug 15 change was never confirmed as used.",
+      "evidence": [
+        {"quote": "I ask that you please pay within 7 days to avoid any pausing of work 🙏", "who": "Stephski", "date": "2026-09-01"},
+        {"quote": "hey!! i just wanted to inform that i’m leaving the agency tomorrow! thank you for what you have been doing but its just not working for me I’m sorry! i appreciate the time support and help x", "who": "Paige (Chey Ref)", "date": "2026-09-02"},
+        {"quote": "Hi love ❤️ just reaching out to remind you that invoicing will start tomorrow 🙏 Please withdraw from OF if needed. Will reach out to you tomorrow!", "who": "Stephski", "date": "2026-08-14"}
+      ],
+      "quotes": [
+        {"quote": "I ask that you please pay within 7 days to avoid any pausing of work 🙏", "who": "Stephski", "date": "2026-09-01"},
+        {"quote": "hey!! i just wanted to inform that i’m leaving the agency tomorrow! thank you for what you have been doing but its just not working for me I’m sorry! i appreciate the time support and help x", "who": "Paige (Chey Ref)", "date": "2026-09-02"},
+        {"quote": "Hi love ❤️ just reaching out to remind you that invoicing will start tomorrow 🙏 Please withdraw from OF if needed. Will reach out to you tomorrow!", "who": "Stephski", "date": "2026-08-14"}
+      ]
+    },
+    {
+      "note": "Aug 1-14 invoice: last week's open item is now acknowledged. Stephski replied 'Amazing thank you!' on Aug 29 at 15:22, 64 hours after Paige's 'i already sent it babe x' and screenshot. That closes the social loop but not the financial one — the amount was never stated, the destination account was never verified, and this is the invoice that carried the changed account number and new Zelle details. Two cycles (Aug 4 wire, Aug 26 screenshot) still have no explicit 'payment received' against a bank account that changed mid-relationship.",
+      "amount": "not stated in chat",
+      "date": "2026-08-29",
+      "invoice_period": "2026-08-01 to 2026-08-14",
+      "late": false,
+      "days_late": null,
+      "reason": "Paid; send date never stated so not provably late. ALTR needed a nudge on day 11 to discover it had been paid.",
+      "suggested_fix": "Before the account closes, reconcile both the Aug 4 wire and the Aug 26 payment against the bank and post one clean statement of what was received and what remains.",
+      "evidence": [
+        {"quote": "i already sent it babe x", "who": "Paige (Chey Ref)", "date": "2026-08-26"},
+        {"quote": "Amazing thank you!", "who": "Stephski", "date": "2026-08-29"}
+      ],
+      "quotes": [
+        {"quote": "i already sent it babe x", "who": "Paige (Chey Ref)", "date": "2026-08-26"},
+        {"quote": "Amazing thank you!", "who": "Stephski", "date": "2026-08-29"}
+      ]
+    },
+    {
+      "note": "Five-cycle pattern, for the record on exit: Paige always paid. Jun 25-30 went 20 days late while she was new to Telegram and needed two nudges; Jul 1-14 and Jul 15-31 were paid unprompted; Aug 1-14 was paid silently and surfaced by a nudge. She was never a credit risk — she was a communication gap that ALTR never closed from its side, with the Aug 4 wire now 31 days unconfirmed. She is leaving as a paying client, not a defaulting one, which matters for how the final conversation is handled.",
+      "amount": "not stated in chat",
+      "date": "2026-09-04",
+      "invoice_period": "history",
+      "late": false,
+      "days_late": null,
+      "reason": null,
+      "suggested_fix": "Treat the final balance as a relationship conversation, not a collections one.",
+      "evidence": [
+        {"quote": "hi ive sent x", "who": "Paige (Chey Ref)", "date": "2026-07-21"},
+        {"quote": "hey ive sent it should arrive tomorrow c", "who": "Paige (Chey Ref)", "date": "2026-08-04"},
+        {"quote": "i already sent it babe x", "who": "Paige (Chey Ref)", "date": "2026-08-26"}
+      ],
+      "quotes": [
+        {"quote": "hi ive sent x", "who": "Paige (Chey Ref)", "date": "2026-07-21"},
+        {"quote": "hey ive sent it should arrive tomorrow c", "who": "Paige (Chey Ref)", "date": "2026-08-04"},
+        {"quote": "i already sent it babe x", "who": "Paige (Chey Ref)", "date": "2026-08-26"}
+      ]
+    }
+  ],
+  "client_priorities": [
+    "Getting the leak taken down. This was her last live request — 'ive got a leak. someone using my stuff on a swingers website x' on Aug 31, URL supplied Sep 1, no reply since. It is the single most concrete thing ALTR could still do for her, whether or not she stays.",
+    "Keeping her Instagram accounts alive and accessible. Every client-initiated thread in 72 days was an IG problem, four lockouts in 30 days, and the fourth was still open when she left.",
+    "Being told what is actually wrong. She spent a month guessing ('thinking i was hacled'), lost track of her own password, and never once received a plain-English explanation of what broke or what was fixed.",
+    "Seeing any output at all — a posting report, a growth number, an OF update. In 72 days this chat has carried nothing but requests, invoices and reel links.",
+    "Fast, hand-held support. New to Telegram, does not know platform mechanics ('yeah how do i do it'); the one thing she ever praised twice was the 7-minute Aug 21 fix.",
+    "Not being made to feel like the problem. She apologised in nearly every message, absorbed four lockouts, seven credential requests and a 30-reel monthly quota without complaint, and even her resignation opens with thanks and an apology."
+  ],
+  "suggestions": [
+    "DERREK, TODAY — call her personally. She gave notice 46 hours ago and the only person who has responded is a chatter. She is not hostile ('i appreciate the time support and help x') and said she is leaving 'tomorrow', which has already passed, so the account may still be reachable. Lead with what went wrong on our side, in specifics, and do not ask her for anything on that call.",
+    "Do the DMCA takedown regardless of whether she stays. She gave us the exact URL on Sep 1 and got silence. Get Nick (DMCA) on it now and report back with a result — it is the only remaining act that proves the agency does what it says, and it costs nothing to do for a departing client.",
+    "OFFBOARDING SECURITY, NON-NEGOTIABLE: delete messages 39, 54, 75, 85, 98, 100, 110, 120, 127, 128, 144 and 151 from this chat, revoke every ALTR device and session from her Instagram, and tell her in writing that it has been done and that she should change '[REDACTED-PASSWORD]' herself. A departing client whose live password sits in our group chat next to our wire details is an unacceptable liability.",
+    "Run the post-mortem before the next client hits this. The unanswered 30-day question is whether ALTR's phone-farm login pattern is what kept tripping Meta's checks on her account — four forced resets in 30 days is not client error. If it is our system, it is damaging every client on it and Derrek needs the answer this week.",
+    "Fix the Vivek pattern at process level, not person level. Across five weeks his output on this account was seven credential requests, two abandoned threads, one 'Will update shortly' never delivered, one wrong-account approval request, and zero closure messages. Require: a written close-out on every ticket, a response SLA with a named backup, and credentials handled in a vault or DM — never in a client group chat.",
+    "Reset the ask-to-deliver ratio across the book. In her final week we sent a 30-reels-a-month quota, a posting-consistency lecture and a pay-or-we-pause invoice, and delivered nothing. Institute a rule that no new client demand goes out while that client has an unclosed ticket older than 48 hours.",
+    "Handle the final invoice as a relationship item. She has paid every cycle; do not chase the Sep 1 invoice with a work-pause threat. Reconcile the Aug 4 wire and Aug 26 payment first, then agree the final balance on the call.",
+    "Check the blast radius on Chey Mai. Paige is Chey Mai's referral. Assume Chey Mai hears about this within days and get ahead of it with an honest owner-level message rather than waiting for her to raise it.",
+    "Audit every other client on Vivek's Meta-support list and every account on the phone farm for the same lockout signature this week. If the pattern shows up elsewhere, this stops being one lost client and becomes a systemic risk."
+  ],
+  "wins": [
+    "Mayson responded to the resignation in 72 minutes with the right move — 'Hey Paige would you like to hop on a call today and go over it?'. It is the fastest and most appropriate reaction anyone has had on this account in ten weeks. That it came from a chatter rather than leadership is the problem, but the instinct was correct and it is the only retention thread currently open.",
+    "Michelle broke a 44-day silence within seven hours of the leak report and claimed it: 'send me the link of this babes and we will take care of it'. The follow-through never came, but the reflex was right and the client felt heard for a moment.",
+    "Stephski finally acknowledged the Aug 26 payment on Aug 29 ('Amazing thank you!'), closing last week's flagged item. Invoicing remained the only function on this account that consistently followed up on itself, right through to the end.",
+    "Paige is leaving without hostility and without a dispute. She thanked the team, apologised for leaving, paid every cycle, and gave notice rather than vanishing. The door is not slammed — a genuine owner-level apology and a completed takedown could still turn this, and even if it does not, she is not currently a reputational threat."
+  ],
+  "week_stats": {
+    "messages": 20,
+    "client_messages": 7,
+    "team_messages": 13
+  }
+}

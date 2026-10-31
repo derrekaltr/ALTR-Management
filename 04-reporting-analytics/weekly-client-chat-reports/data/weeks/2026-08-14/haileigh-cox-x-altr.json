@@ -1,0 +1,125 @@
+{
+  "client": "Haileigh Cox",
+  "slug": "haileigh-cox-x-altr",
+  "week_ending": "2026-08-14",
+  "summary": "A one-way week: only 2 messages in the chat, both from ALTR (Michelle's automated leak-removal recap on 8/10 and Mica's weekly reel-inspo drop on 8/13), and zero messages from Hailey. She has not spoken since 'Wire sent!' on 8/4, a 10-day silence. Her own quiet stretches of 10-16 days are not unprecedented (4/22-5/4, 5/4-5/18, 5/18-6/3 were all similar), so this reads as a low-touch lull rather than an active churn event. What makes it risky is what the silence is sitting on top of: her 7/29 shadowban / follower-loss request has now gone 16 days without anyone chasing her for the IG login Vivek asked for, and Derrek's 8/1 promise of 'plenty of updates starting next week' on the $40k phone-farm rollout is two weeks past due with nothing posted. Both are exactly the pattern that produced her twice-stated complaint that 'no one ever responds.' No one from ALTR reached out to her personally this week - the only two touches were scheduled broadcast deliverables. Her Aug 1-14 invoice is due to go out 8/15, immediately after the window, and she historically needs one nudge to pay.",
+  "health": {
+    "score": 68,
+    "trend": "down",
+    "rationale": "Down from 80. No complaints, no payment problem and deliverables still shipped on schedule, but the account went fully one-way: zero client messages, zero personal outreach, and the two things ALTR owes her (Vivek's shadowban check, 16 days stale; Derrek's phone-farm updates, 2 weeks overdue) both aged another week untouched. Her silence is within her normal range, so this is a disengagement warning rather than a churn cliff - but it is unanswered-ask silence, which is her single most reliable frustration trigger."
+  },
+  "reminders": [],
+  "complaints": [
+    {
+      "issue": "Suspected IG shadowban / follower loss on her main account. Raised 7/29 the moment Vivek was introduced as the Meta Support Rep; Vivek asked for the login and the thread has been dead ever since - she never posted it and nobody chased her for it. 16 days open as of week end, and Vivek has posted exactly one message in the entire chat history.",
+      "status": "recurring",
+      "first_raised": "2026-07-29",
+      "owner": "Vivek",
+      "quotes": [
+        {"quote": "Amazing!! Thank you!! I do have a question for him actually. My account is losing followers and not gaining. I’m assuming i might have a shadow ban if he could potentially look into it?", "who": "Hailey Client", "date": "2026-07-29"},
+        {"quote": "Sure share login", "who": "Vivek", "date": "2026-07-29"},
+        {"quote": "@fonta will assist when hes awake", "who": "Derrek", "date": "2026-07-29"}
+      ]
+    },
+    {
+      "issue": "Slow or absent responses when she raises something in the group, and no clear point of contact. Raised twice (3/22 and 4/22) and never structurally resolved. Nothing new said this week, but this week is a textbook instance of the underlying behaviour: two open asks aged another 7 days with no proactive contact from anyone.",
+      "status": "recurring",
+      "first_raised": "2026-03-22",
+      "owner": null,
+      "quotes": [
+        {"quote": "Who do I reach out to for general messages here. I feel like every time i reach out it’s either super delayed or just no response at all.", "who": "Hailey Client", "date": "2026-03-22"},
+        {"quote": "Who should i address for these? Cause no one ever responds when i send them here", "who": "Hailey Client", "date": "2026-04-22"}
+      ]
+    },
+    {
+      "issue": "OnlyFans auto-tagging glitch mass-tagging accounts on her wall posts. Raised 2025-09-08, explained away as a platform bug that 'should resolve soon' and never explicitly confirmed fixed in chat. Dormant, carried forward from prior state.",
+      "status": "recurring",
+      "first_raised": "2025-09-08",
+      "owner": "unassigned (Joseph H left the group in July)",
+      "quotes": [
+        {"quote": "I just noticed on my OF profile page that on every post of me - we are tagging everyone. Can we take that down ASAP", "who": "Hailey Client", "date": "2025-09-08"},
+        {"quote": "Yea the tagging system on OF is completely broken has been for ab the past 30 days but it should resolve soon I believe", "who": "Noah", "date": "2025-09-08"}
+      ]
+    }
+  ],
+  "commitments": [
+    {
+      "what": "Post the promised progress updates on the $40k phone-farm / Meta-safe IG rollout after the Monday shipment landed. 'Next week' meant the week of Aug 3; nothing has been posted through 8/14, making it two weeks overdue.",
+      "who": "Derrek",
+      "date": "2026-08-01",
+      "status": "overdue",
+      "quotes": [
+        {"quote": "We are waiting for a shipment that should land Monday that will be the final piece needed to begin and scale.", "who": "Derrek", "date": "2026-08-01"},
+        {"quote": "Thank you for your understanding, we will have plenty of updates starting next week.", "who": "Derrek", "date": "2026-08-01"}
+      ]
+    },
+    {
+      "what": "Investigate the suspected shadowban / follower loss on her IG. Escalated from pending to overdue: 16 days elapsed, and the blocker (getting the login from her) was never chased by anyone on the ALTR side.",
+      "who": "Vivek",
+      "date": "2026-07-29",
+      "status": "overdue",
+      "quotes": [
+        {"quote": "Sure share login", "who": "Vivek", "date": "2026-07-29"},
+        {"quote": "Hey Ive added Vivek in here ( @fonta ). He is our Meta Support Rep that will help keep your IG accounts up and safe. If you have any restrictions, shadowbans, or bans.... simply @ him in the chat and he will help.", "who": "Derrek", "date": "2026-07-29"}
+      ]
+    },
+    {
+      "what": "Pass on to the chat team that she does not want text emoticons (:pppp, xD) used on her wall or in chats. Joseph H said he would forward it and then left the group in July; compliance was never confirmed back to her.",
+      "who": "Joseph H (departed); chat team",
+      "date": "2026-03-26",
+      "status": "pending",
+      "quotes": [
+        {"quote": "Amazing just saw!!!! Btwwww i hate to be annoying but whoever chats and post on my wall can we please please not do those lame ass emoji things :pppp xD .. i use only real emojis and it just isn’t me lol", "who": "Hailey Client", "date": "2026-03-26"},
+        {"quote": "Okay I will forward that message for you", "who": "Joseph H", "date": "2026-03-26"}
+      ]
+    }
+  ],
+  "payments": [
+    {
+      "note": "No invoice and no payment activity fell inside the 8/8-8/14 window. The July 15-31 invoice was already settled on 8/4 (same day as Stephski's single nudge, inside the 7-day window). Her Aug 1-14 invoice is due to be sent 8/15 on the standard 1st/15th cadence.",
+      "date": null,
+      "late": false,
+      "reason": null,
+      "suggested_fix": null,
+      "quotes": [
+        {"quote": "Hi love! Hope you’re having an amazing weekend. Below is your invoice for the period of July 15th-31st. If you could please shoot over payment within the next 7 days that would be amazing! Let me know if I can help you with anything 💘", "who": "Stephski", "date": "2026-08-01"},
+        {"quote": "Wire sent!", "who": "Hailey Client", "date": "2026-08-04"}
+      ]
+    },
+    {
+      "note": "Forward-looking risk, low-to-moderate: she has paid every cycle for 12 months, but almost always 2-6 days out and typically only after one reminder ping. She is currently 10 days silent with two unresolved asks against ALTR, so the 8/15 invoice is the first real read on whether the disengagement is benign. Extra caution warranted because her BofA wire address failed on 7/7 ('The address for the new wire is not working') and bank details have now changed three times.",
+      "date": null,
+      "late": false,
+      "reason": "Historic causes of slippage: OF withdrawal timing, bank/recipient changes, and one IRS levy in Oct 2025 that froze her payouts.",
+      "suggested_fix": "Send the 8/15 invoice with the corrected BofA wire details restated in the message body, and schedule the day-2 nudge in advance - it reliably converts same-day. If she does not respond to the invoice at all, treat that as the disengagement confirmation and escalate to a direct call.",
+      "quotes": [
+        {"quote": "Hi!! The address for the new wire is not working.. idk what to do", "who": "Hailey Client", "date": "2026-07-07"},
+        {"quote": "Hi hun! Checking in on this payment above ❤️ Haleigh", "who": "Stephski", "date": "2026-07-20"}
+      ]
+    }
+  ],
+  "client_priorities": [
+    "Main IG account safety above everything else - shadowbans, flagged bio links, and banned backup accounts are her most repeated concern across the full history, and the currently open shadowban ask sits squarely here",
+    "Responsiveness and a clear named point of contact; she has explicitly complained twice that messages go unanswered",
+    "Revenue protection: chargebacks (a single $7,593 hit in June alarmed her), OF payout timing, and hard promotion behind big PPV drops",
+    "Brand voice and control: approving customs before acceptance, and no text emoticons from chatters",
+    "Frictionless content submission via shared iPhone albums and Google Drive, never Content Snare"
+  ],
+  "suggestions": [
+    "Break the silence with a personal, non-automated message this week - she has had zero human outreach since 8/6, and both touches in the window were scheduled broadcasts. A single 'checking in on you' from a named person is the cheapest possible churn insurance here.",
+    "Have Vivek (or Derrek on his behalf) proactively DM her for the IG login and close the 7/29 shadowban loop. Sixteen days of silence on an account-safety ask is her exact stated grievance and it is compounding.",
+    "Post the phone-farm rollout update Derrek promised for the week of Aug 3, even if the shipment slipped - she responds extremely well to proactive transparency and badly to the absence of it.",
+    "Assign and announce a named account manager with a response SLA. She asked who to contact in March and April and still has no standing answer; Joseph H, her de facto responsive contact, left the group in July and nobody replaced him.",
+    "Restate the BofA wire details in the 8/15 invoice message and pre-schedule the day-2 nudge, so a silent client does not become a late invoice."
+  ],
+  "wins": [
+    "Recurring deliverables kept shipping on schedule despite the silence: Michelle's weekly leak-removal breakdown landed 8/10 and Mica's weekly reel-inspo set landed 8/13.",
+    "The account enters the week fully paid - the July 15-31 invoice was settled 8/4 within terms after a single nudge, the smoothest payment cycle in months.",
+    "No complaints, no escalations and no negative sentiment were recorded in the window; the relationship is quiet, not damaged."
+  ],
+  "week_stats": {
+    "messages": 2,
+    "client_messages": 0,
+    "team_messages": 2
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "client": "Barbara",
+  "slug": "barbara-x-altr",
+  "status": "at_risk",
+  "status_reason": "Paying, polite and still trying — but on 2026-08-24 she escalated by name ('very nervous', traffic 'super down'), got a 2-minute holding reply and nothing since; 18 of ~31 commitments we made have lapsed, she has never been shown a single performance number in 39 days, and her weekly message volume has fallen 40 -> 22 -> 22 -> 14 over four weeks. She has not complained about price or threatened to leave, which is why this is at_risk and not churned.",
+  "last_client_message": "2026-08-27",
+  "history_window": "2026-07-20 to 2026-08-27 (320 records, 309 messages + 11 service events; 177 client, 132 our side)",
+  "dimensions": {
+    "responsiveness": {
+      "severity": 3,
+      "internal_failure": "We reply fast but answer slowly: roughly 17 of ~45 client asks went past 24h or were never answered at all, and she has had to nudge herself on almost every important one — the pattern is an instant acknowledgement from a chatter account followed by no substantive reply from the person who actually owns the topic.",
+      "evidence": [
+        {"quote": "Hey guys, if i have any questions regarding anything who would be the right person to reach out to from the group? ... Following up here", "who": "Barb Brazil (asked 16:27, had to self-nudge at 18:49; Derrek answered 20:27)", "date": "2026-07-26"},
+        {"quote": "hey guys just checking in any updates with all the new changes happening? 😊 -> Yo Ma'am", "who": "Barb Brazil / Vivek (the only reply she got)", "date": "2026-08-06"},
+        {"quote": "Lmk im very nervous with the situation @mmayson @ofwizz @sotom225 -> I'll get you an answer soon / Working on it!!", "who": "Barb Brazil / Mayson Chat (replied in 1 minute; no substantive answer in the 4 days since)", "date": "2026-08-24"}
+      ]
+    },
+    "follow_through": {
+      "severity": 3,
+      "internal_failure": "We made ~31 explicit commitments to this client and lapsed 18 of them; none was ever chased by us, every one that got closed got closed because she asked again. Nothing on this account is tracked outside the chat, so a promise dies the moment the message scrolls away.",
+      "evidence": [
+        {"quote": "I'll create you 3 different versions tiktok/twitter/instagram", "who": "Mayson Chat (never built; 28 days later she had to ask 'can u resend me the domain?' and was handed a bare domain)", "date": "2026-07-31"},
+        {"quote": "your backup account for IG reels is currently being warmed up as soon as it's ready next week I will send you the @ name babes 💕", "who": "Michelle Queue (27 days; she referenced it again on Aug 24 as 'a new IG')", "date": "2026-08-01"},
+        {"quote": "did we add anything for like engagement or any sort of external software on any of my accounts ... that's the last thing i can think of that could be causing constant flags -> Yeah let me get back on this!", "who": "Barb Brazil / Mayson Chat (17 days, never answered)", "date": "2026-08-11"}
+      ]
+    },
+    "proactive_communication": {
+      "severity": 3,
+      "internal_failure": "In 39 days we have never once sent this client a posting log, a view count, a follower number or an account-status update. The only unprompted outbound we produce is templated: a weekly leak-report screenshot, an irregular reel-inspo link dump, and invoices. Every single 'how are we doing' check-in in this chat was initiated by her.",
+      "evidence": [
+        {"quote": "I'll be ... checking in to make sure your accounts are set up for success and to share creative ideas weekly to boost your content + engagement 📈", "who": "Mica Vecco (promised weekly cadence at intro; delivered Jul 21, Jul 23 and Aug 13 only — nothing in the 15 days since)", "date": "2026-07-22"},
+        {"quote": "Thank you for your understanding, we will have plenty of updates starting next week.", "who": "Derrek (a broadcast-style phone-farm update; the promised 'plenty of updates' never arrived)", "date": "2026-08-01"},
+        {"quote": "i feel like my traffic has been super down and i know we talked about a new IG maybe some other solutions just wanted to check in because i definitely wanna see my numbers increase not keep going down 😭", "who": "Barb Brazil (she is the one reporting our performance to us, because we have never reported it to her)", "date": "2026-08-24"}
+      ]
+    },
+    "onboarding_handoff": {
+      "severity": 2,
+      "internal_failure": "Week 1 ended with no channel-ownership map, no posting schedule and no reporting rhythm — she had to ask who her point of contact was, the OFTV owner was only named after she asked, the kickoff call slipped 9 days across two missed bookings, and she had already handed social logins for a channel (X/Twitter) we do not even run.",
+      "evidence": [
+        {"quote": "Hey guys, if i have any questions regarding anything who would be the right person to reach out to from the group?", "who": "Barb Brazil (day 6; answered only after she followed up)", "date": "2026-07-26"},
+        {"quote": "heyyy is anyone running my X? i haven't had any new posts up so just wanna make sure u have my logins if that's missing :) -> he doesn't run twitter, maybe it was from your last management? -> to be honest, I'm very confused lol", "who": "Barb Brazil / Mica Vecco / Barb Brazil (took 3 days and ended in confusion)", "date": "2026-07-28"},
+        {"quote": "Hey Mica can you send meeting link in here i never got the email!", "who": "Barb Brazil (kickoff booking email never reached her; call finally happened Jul 31, day 11)", "date": "2026-07-23"}
+      ]
+    },
+    "chatter_conduct": {
+      "severity": 2,
+      "internal_failure": "No fan-facing misconduct is visible in this chat, but our two chatter-queue accounts are her primary contacts and both used reassurance in place of fact — a flat 'it was resolved' three days before she reported the same problem worse, and no written content-safety boundary despite three separate 'will this get flagged?' asks, so she is self-censoring and deleting her own posts.",
+      "evidence": [
+        {"quote": "Don't worry about it Barbara, it was resolved", "who": "Mayson Chat (Aug 21; on Aug 24 she reported traffic 'super down' and said she was 'very nervous')", "date": "2026-08-21"},
+        {"quote": "is this too risqué ... nvm i deleted i was paranoid lol", "who": "Barb Brazil (never answered; she pulled her own reel 3 minutes later)", "date": "2026-08-18"},
+        {"quote": "do you think these are too risky for trial reels -> no", "who": "Barb Brazil / Derrek (one word, an hour later, no reasoning and no written do/don't ever issued)", "date": "2026-08-11"}
+      ]
+    },
+    "platform_health": {
+      "severity": 3,
+      "internal_failure": "Her IG accounts have been cycling through flags, suspensions and recoveries for 25 days with no named owner, no root-cause finding and no status cadence; we told her not to ask why, we declared it fixed twice without verifying, and the single best root-cause lead on the account was found by the client herself and then sat unexamined.",
+      "evidence": [
+        {"quote": "i'm having account issues every other day, i'm losing recovering losing recovering", "who": "Barb Brazil", "date": "2026-08-11"},
+        {"quote": "this is happening to alot of people. Dont worry about why, we got it and will have it fixed", "who": "Derrek (in reply to 'i don't undertand how this can possibly keep happening ... i'm just getting worried')", "date": "2026-08-11"},
+        {"quote": "@fonta can u please review this ?? [her own domain] ... it keeps restricting my main still when i add it to my bio -> Yeah will do", "who": "Barb Brazil / Vivek (4 days, no report; she diagnosed this herself)", "date": "2026-08-24"}
+      ]
+    },
+    "billing_ops": {
+      "severity": 2,
+      "internal_failure": "Her first invoice failed on our payment rail three separate times over six days and only cleared when the owner gave out a personal phone number as the Zelle destination; the rail was then fixed, but cycle two regressed on service — six days to acknowledge payment with a bare thank-you, no total ever reconciled, the invoiced amount has never appeared in the chat, and after two split payments and a bank hold we still have not offered her an ACH or wire alternative.",
+      "evidence": [
+        {"quote": "hey just letting you know i never received invoice request! ... it's not working /:", "who": "Barb Brazil (third consecutive rail failure in six days; resolved only by the owner supplying a personal phone number as the destination)", "date": "2026-08-08"},
+        {"quote": "Hm thats weird! let me see whats going on and get back to you", "who": "Stephski (invoice email not recognised; two days before a working route was offered)", "date": "2026-08-04"},
+        {"quote": "remainder has been sent ❤️ -> Thank you!", "who": "Barb Brazil (Aug 20) / Stephski (Aug 26 — six days later, versus a same-minute 'Perfecto' the previous cycle, and no total confirmed)", "date": "2026-08-26"}
+      ]
+    },
+    "ownership_escalation": {
+      "severity": 3,
+      "internal_failure": "Nobody owns this account. Our default motion is a chatter tagging someone else with '^^' and then walking away — the tag counts as the work. When she escalated she had to name three people at once, and the one who was tagged internally posted four more times that week without ever answering.",
+      "evidence": [
+        {"quote": "@sotom225 any updates on instagrams?", "who": "Mayson Chat (tagged Michelle after the escalation; Michelle then posted on Aug 25, twice on Aug 26 and again on Aug 27 without answering it)", "date": "2026-08-24"},
+        {"quote": "Lmk im very nervous with the situation @mmayson @ofwizz @sotom225", "who": "Barb Brazil (she had to tag three separate people to try to get one answer)", "date": "2026-08-24"},
+        {"quote": "Is there an account we have that someone can collab a reel with me on ?? ... @sotom225 ^^ / Mica Derrek ^^", "who": "Barb Brazil / Mayson Chat (three people tagged, none answered — still open 36 days later)", "date": "2026-07-23"}
+      ]
+    },
+    "disengagement_detection": {
+      "severity": 3,
+      "internal_failure": "Her client-message volume halved over four weeks (40 -> 22 -> 22 -> 14), her language moved from 'worried' to 'very nervous', and she quietly stopped chasing items she had been chasing — and nobody on our side ran a single check-in, retention call or save motion. There is no evidence anyone noticed.",
+      "evidence": [
+        {"quote": "i don't undertand how this can possibly keep happening, especially because we need to get traffic going i'm just getting worried about that", "who": "Barb Brazil (first explicit distress signal; no check-in followed)", "date": "2026-08-11"},
+        {"quote": "or maybe we can just do like a very heavy OFTV focus like I shoot once a week to make an upload a video every week just until we figure this out?", "who": "Barb Brazil (offering to do more of her own work to cover for a failing service — a textbook pre-churn signal; unanswered 4 days)", "date": "2026-08-24"},
+        {"quote": "heyyy just checking in on this", "who": "Barb Brazil (every check-in on this account, all 39 days of it, was initiated by the client)", "date": "2026-08-20"}
+      ]
+    },
+    "security_hygiene": {
+      "severity": 2,
+      "internal_failure": "We actively invited account credentials into an 8-person group chat and then lost track of them: she was told yes when she asked to post her social logins there, a rep asked her to send a login in-chat, and the X/Twitter credentials she believes she handed over were never traced or rotated — we simply told her we don't run that channel. Meanwhile her direct access-control question, whether any external tool was ever attached to her accounts, has gone 17 days unanswered while those same accounts keep getting flagged.",
+      "evidence": [
+        {"quote": "hey! is this where i can send my logins for my socials? -> yess :)", "who": "Barb Brazil / Michelle Queue (we confirmed the group chat as the credential channel)", "date": "2026-07-21"},
+        {"quote": "For sure ma'am / Send login", "who": "Vivek (credentials requested in-thread; no rotation or secure-handoff step ever mentioned on this account)", "date": "2026-07-31"},
+        {"quote": "I thought we did all Twitter I had given him or maybe someone else from the team my logins ... to be honest, I'm very confused lol", "who": "Barb Brazil (credentials she believes she handed us are unaccounted for; never traced, never rotated)", "date": "2026-07-31"}
+      ],
+      "note": "Five messages (ids 183-185, 198, 204) are absent from the export, all inside the Aug 6-8 payment-troubleshooting window; they appear to have been deleted and cannot be audited. No password or credential string appears in any surviving message text."
+    }
+  },
+  "metrics": {
+    "client_questions_total": 45,
+    "unanswered_over_24h": 17,
+    "max_team_silence_days": 2.2,
+    "promises_made": 31,
+    "promises_kept": 12,
+    "promises_lapsed": 18,
+    "method": "Manual pass over all 320 records. 'Client questions' = messages from Barb Brazil containing an explicit question or request for action or decision (repeat nudges on the same item counted once). 'Unanswered >24h' = no substantive reply within 24h of the first ask, including still-open items; holding replies ('Yo Ma'am', 'I'll get you an answer soon', 'Working on it!!') and pure @-tags were not counted as answers. max_team_silence_days = longest calendar gap with zero outbound from any of Derrek/Stephski/Mayson/Michelle/Mica/Olivia/Vivek (2026-08-06 15:19 -> 2026-08-08 18:56); note this understates the real gap, since on the IG/traffic issue specifically we were silent 2026-08-12 -> 2026-08-21 and again 2026-08-24 -> present. Promises = explicit commitments by our side ('I will', 'let me get back to you', 'next week', or an accepted request); 1 further standing offer (Michelle's open leak-link offer, Aug 26) is not counted in either column."
+  },
+  "what_client_wanted": [
+    "Traffic and growth she can see going up, not down — 'i definitely wanna see my numbers increase not keep going down 😭' (2026-08-24). She has never been shown a single view count, posting log or growth number in 39 days.",
+    "A straight answer on why her IG accounts keep dying, and to be treated as a partner in diagnosing it — 'i'm trying to trace what could be root cause' (2026-08-11). She was told 'Dont worry about why' the same day.",
+    "To be told what is safe to post so she can stop guessing — 'do you guys think this would get flagged ... it's my first post back i'm nervous' (2026-07-24), 'is this too risqué' (2026-08-18). No written guidance ever issued.",
+    "Someone to actually use the content she keeps producing — 'I have over 300 reels of all sorts in this folder' (2026-07-30) and 'how are we doing with editing on the other video i had submitted to the team?' (2026-08-27, her third ask). Neither drop has ever been acknowledged as used."
+  ],
+  "what_worked": [
+    "Olivia turning the client's own idea into a delivered shoot in 10 days — Barbara pitched a gun-range OFTV on Aug 17, Olivia found the videographer, took her number and built the group chat, and the shoot happened Aug 27: 'I had the best time today shooting and shooting 🔫 / Ben is awesome' (2026-08-27). This is the first tangible outcome delivered on this account since onboarding.",
+    "Michelle's weekly DMCA leak-removal report — three consecutive weeks (Aug 10, 17, 25), the only reliable unprompted cadence on the account. The client thanks it every single time: 'Thank you Michelle!' (2026-08-10), 'Thanks Michelle !!' (2026-08-27). Proof that a small, dependable, repeating deliverable buys goodwill.",
+    "Fast, specific onboarding content help in week 1 — Michelle's reel inspo drop and her plain-language 'what does well on Reels' list drew the warmest reaction of the whole history: 'this is perfect i love this' (2026-07-22). We were good at this for about ten days and then stopped."
+  ],
+  "top_fix": "Give every client one named account owner who ships a short written update every week containing actual numbers — posts made, views, follower delta, account status, and the current open-promise list with dates. Nothing on this account failed for lack of goodwill; it failed because no unprompted status ever existed, so the client became our monitoring system. A weekly numbers update would have surfaced the traffic collapse before she did, forced the 18 lapsed promises into daylight while they were days old rather than weeks, and removed the need for her to tag three people to get one answer."
+}

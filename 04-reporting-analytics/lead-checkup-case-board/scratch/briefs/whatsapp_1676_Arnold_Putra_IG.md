@@ -1,0 +1,59 @@
+# Arnold Putra IG  [whatsapp #1676 GROUP]
+msgs=45 (in=35 out=10) window=2026-09-01..2026-09-17
+last_client=2026-09-17 (1d ago), last_derrek=2026-09-17 (1d ago)
+LAST MESSAGE from Derrek: 'Yes'
+
+  ...
+[2026-09-01 10:08] 120363413223924856@g.us: {"author":"65300816998597@lid","is_parent_group_general_chat":false,"should_use_identity_header":true,"show_membership_string":true,"parent_group_jid":null,"is_open_group":true,"reason":0,"is_initially_empty":false,"auto_add_disabled":true,"parent_group_name":…
+[2026-09-01 10:08] DEREK: Hey bro! This is my partner Daniel, and my rep Vivek
+[2026-09-01 10:09] DEREK: @bulabase for unban
+[2026-09-01 10:11] DEREK: @267478399729841 can you send screenshot of when you try to login?
+[2026-09-01 10:26] 53725762732108@lid: Yo
+[2026-09-01 13:41] 267478399729841@lid: Hey all, really appreocate you pulling through on my page🙏🏽 love to kick it when were in the same part of the world. Here is what it says on my cigar page (it was my exs dog page initially i think on the same phone was just a burner account that got taken down…
+[2026-09-01 13:42] DEREK: Got you bro
+[2026-09-01 13:42] 267478399729841@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363413223924856@g.us/8/9/89289cba-4121-4ab9-92b8-74270cf1bbac.jpg>
+[2026-09-01 13:42] 267478399729841@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363413223924856@g.us/1/8/183c328f-9f76-4530-a880-401004b89d75.jpg>
+[2026-09-01 13:43] 267478399729841@lid: I also have a friends account who i could refer to you guys hes looking to recover i could share the contact or info
+[2026-09-01 14:06] DEREK: Yea we can definitely help
+[2026-09-01 16:53] 267478399729841@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363413223924856@g.us/a/8/a818317e-7259-4fa0-a2b8-5b167e4fdb0b.jpg>
+[2026-09-01 16:53] 267478399729841@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363413223924856@g.us/5/7/5773eaeb-5117-4af2-b9a3-1f95f37cd28d.jpg>
+[2026-09-01 16:53] 267478399729841@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363413223924856@g.us/1/e/1e5ea991-99b6-4731-b473-01e841514fca.jpg>
+[2026-09-01 16:53] 267478399729841@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363413223924856@g.us/c/b/cbf01612-4cf4-468f-8225-30accae5c476.jpg>
+[2026-09-01 16:53] 267478399729841@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363413223924856@g.us/d/5/d5fa4c1d-ee71-4de6-ad8f-85d7bbe4e766.jpg>
+[2026-09-01 16:53] 267478399729841@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363413223924856@g.us/f/8/f8e6a9f9-8547-4fa0-8c70-76fe4ae86812.jpg>
+[2026-09-01 16:54] 267478399729841@lid: Here is the info on my friends account. Thanks guys!
+[2026-09-01 17:40] 53725762732108@lid: Okay sir will submit both
+[2026-09-02 04:12] 267478399729841@lid: Thanks guy keep me updated please🙏🏽
+[2026-09-02 11:08] 53725762732108@lid: Sir
+[2026-09-02 11:25] 267478399729841@lid: Hi
+[2026-09-02 11:26] 53725762732108@lid: Bro pricing for disabled accounts is much higher
+[2026-09-02 11:26] 53725762732108@lid: Because of agents getting fired
+[2026-09-02 11:31] 267478399729841@lid: How much for these 2 accounts? Thx
+[2026-09-02 11:32] 53725762732108@lid: Right now it 4.5k
+[2026-09-02 11:33] 53725762732108@lid: But if you can wait for 3 4 days maybe price will be normal
+[2026-09-02 11:33] 267478399729841@lid: Ok yeah lets wait
+[2026-09-02 11:33] 267478399729841@lid: Thank u and keep me updated please
+[2026-09-02 11:33] 53725762732108@lid: Yepp sir
+[2026-09-02 11:33] 53725762732108@lid: Will update you
+[2026-09-02 13:05] 53725762732108@lid: Bro
+[2026-09-02 13:05] 53725762732108@lid: @267478399729841
+[2026-09-02 13:16] 182279200600101@lid: Hey bro @267478399729841 we have rep available right now 3.5k per let us know if we’re confirmed to go ahead on those two
+[2026-09-02 13:39] 267478399729841@lid: Hey Daniel let me ask Sofi, i may wait for my dog page @bulabase haha
+[2026-09-02 17:17] 267478399729841@lid: Ok yeah for sofi shes down to do it
+[2026-09-07 06:04] 53725762732108@lid: @65300816998597 @182279200600101
+[2026-09-15 08:39] DEREK: Hey bro
+[2026-09-15 08:39] DEREK: Yo, because you sent us somebody we can take $500 off your dog case if you want us to do it
+[2026-09-16 05:48] 267478399729841@lid: Hey bro thank you how much would it be?
+[2026-09-16 05:49] DEREK: $2800 on the dog one ($700 off)
+[2026-09-16 09:02] 267478399729841@lid: Thank you bro. Would it be possible at some point to do $2k or less for this one? I think its not a serious ban as the phone it was on just had an account that i used for following ppl that got taken down together i think thats why its flagged
+[2026-09-16 19:49] DEREK: Maybe down the line but currently not right now my cost price is about $2500 without fees and other bullshit fees they add sometimes
+[2026-09-17 14:14] 267478399729841@lid: Ok got it i think my dog page got banned in february usually its like a year until deletion right..
+[2026-09-17 15:07] DEREK: Yes

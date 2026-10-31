@@ -1,0 +1,128 @@
+{
+  "client": "Chey Mai",
+  "slug": "chey-mai-x-altr",
+  "week_ending": "2026-08-14",
+  "summary": "The chat reopened after a fully silent week, but every message was about money. Stephski chased the July 15-31 invoice twice (Aug 9 and Aug 11, the second with a pause-in-work warning); Chey asked for a 4-day extension because she is waiting on her OnlyFans payout, making this the third consecutive late invoice and the latest one yet — 14 days out at week end with the extension landing on Aug 15, the same day the next invoice goes out, so two periods will stack into one bill. Michelle delivered the weekly leak-removal breakdown, the only piece of service delivery posted all week. Nothing at all was posted on the Social Media or Promo side: Derrek's Aug 1 promise of 'plenty of updates starting next week' on the $40k phone-farm rollout produced zero updates in the week it was due, so the client has now gone two weeks with a paused IG program, no status, and no visible restart. The Jul 13 PayPal question is still unanswered at 32 days, which is directly relevant now that payment friction is the account's main issue.",
+  "health": {
+    "score": 55,
+    "trend": "down",
+    "rationale": "Down from 62. The client re-engaged and stayed warm and transparent, and Stephski chased payment promptly this week (fixing last week's gap), but the invoice is now the latest of three straight late payments, the client cited cash flow, a pause-in-work warning has been issued, and two invoices are about to stack. Meanwhile the IG/promo side delivered nothing for a second week and the promised phone-farm rollout updates never appeared, so the only ALTR-initiated contact this client saw all week was a payment chase."
+  },
+  "reminders": [],
+  "complaints": [
+    {
+      "issue": "IG backup pages/posting still paused with no rollout update — Derrek acknowledged flagged/shadowbanned/deleted pages and a communication gap on Aug 1, promised updates would start this week, and no Social Media or Promo message was posted in the Aug 8-14 window",
+      "status": "recurring",
+      "first_raised": "2026-08-01",
+      "owner": "Derrek",
+      "note": "Carried over from last week's state as in_progress; now in its second week with zero follow-through, so the client has had no visibility on a paused service she is being invoiced for.",
+      "quotes": [
+        {"quote": "We have been working nonstop to find a solution and as of last week, we have a working solution that it will last long-term.", "who": "Derrek", "date": "2026-08-01"},
+        {"quote": "My apologies, for any lack of communication. As this has required us to swap out over 200 devices, and over 1000 accounts.", "who": "Derrek", "date": "2026-08-01"},
+        {"quote": "Thank you for your understanding, we will have plenty of updates starting next week.", "who": "Derrek", "date": "2026-08-01"}
+      ]
+    }
+  ],
+  "commitments": [
+    {
+      "what": "Post the promised phone-farm/IG rollout updates — the promised week (Aug 8-14) passed with no update posted",
+      "who": "Derrek",
+      "date": "2026-08-01",
+      "status": "overdue",
+      "days_overdue": 6,
+      "quotes": [
+        {"quote": "Thank you for your understanding, we will have plenty of updates starting next week.", "who": "Derrek", "date": "2026-08-01"}
+      ]
+    },
+    {
+      "what": "Check whether ALTR accepts PayPal and get back to the client — still unanswered after 32 days, while payment timing is now the account's main friction point",
+      "who": "Stephski",
+      "date": "2026-07-13",
+      "status": "overdue",
+      "days_overdue": 32,
+      "quotes": [
+        {"quote": "Do you guys have PayPal", "who": "Cheyene Burridge", "date": "2026-07-13"},
+        {"quote": "Let me check on that for you", "who": "Stephski", "date": "2026-07-13"}
+      ]
+    },
+    {
+      "what": "Pay the July 15-31 invoice — originally due Aug 8, client granted a 4-day extension on Aug 11 (new due date Aug 15), unpaid at week end",
+      "who": "Cheyene Burridge",
+      "date": "2026-08-11",
+      "status": "pending",
+      "quotes": [
+        {"quote": "Can you give me 4 more days please I’m just waiting for money to turn over from OF", "who": "Cheyene Burridge", "date": "2026-08-11"},
+        {"quote": "Okay no problem, just a heads up we have another invoice going out in 4 days so I will shoot you a new invoice with whatevers remaining at that point put all together", "who": "Stephski", "date": "2026-08-11"}
+      ]
+    },
+    {
+      "what": "Send a combined invoice on ~Aug 15 rolling the unpaid July 15-31 balance together with the Aug 1-15 period",
+      "who": "Stephski",
+      "date": "2026-08-11",
+      "status": "pending",
+      "quotes": [
+        {"quote": "Okay no problem, just a heads up we have another invoice going out in 4 days so I will shoot you a new invoice with whatevers remaining at that point put all together", "who": "Stephski", "date": "2026-08-11"}
+      ]
+    },
+    {
+      "what": "Onboarding items never confirmed in chat: sales-preferences form completion, unlink of the previous chat team, and IG reels uploads to the shared Google Drive",
+      "who": "Mayson / Michelle",
+      "date": "2026-06-25",
+      "status": "pending",
+      "quotes": [
+        {"quote": "@cheymai1 please let me know when you’re previous team can get off so we can assign our team!", "who": "Mayson", "date": "2026-06-23"},
+        {"quote": "The content you upload here will be used by the team to post consistently across your management IG account, driving traffic and growth 🚀✨", "who": "Michelle", "date": "2026-06-25"}
+      ]
+    }
+  ],
+  "payments": [
+    {
+      "note": "July 15-31 invoice (sent Aug 1, 7-day terms, due Aug 8) is unpaid at week end — 14 days out and the latest of three straight late invoices. Stephski chased on Aug 9 and again on Aug 11 with a pause-in-work warning; the client asked for 4 more days citing her OnlyFans payout timing, pushing the due date to Aug 15 — the same day the Aug 1-15 invoice is due to go out, so both periods will land as one combined bill.",
+      "date": null,
+      "late": true,
+      "amount_at_risk": "July 15-31 period plus the Aug 1-15 period, billed together",
+      "reason": "Client cash flow is gated on her OnlyFans payout cycle, which does not line up with ALTR's 1st/15th invoicing and 7-day terms",
+      "suggested_fix": "Confirm receipt on Aug 15 and, if it slips again, agree explicit terms tied to her OF payout date rather than granting rolling extensions; avoid combining two periods into one larger bill for a client who is already cash-constrained",
+      "quotes": [
+        {"quote": "@cheymai1 Hi just pinging payment for your latest invoice, can you send by tomorrow?", "who": "Stephski", "date": "2026-08-09"},
+        {"quote": "@cheymai1 Hi love, we still havent received your invoice payment. If you could please send it by end of the day today to avoid a pause in work that would be great 🙏", "who": "Stephski", "date": "2026-08-11"},
+        {"quote": "Can you give me 4 more days please I’m just waiting for money to turn over from OF", "who": "Cheyene Burridge", "date": "2026-08-11"}
+      ]
+    },
+    {
+      "note": "Pattern confirmed across all three invoices to date: every one has run late and none has been paid without a chase (Jun 23-30 paid Jul 13 after a Jul 11 nudge; Jul 1-14 paid Jul 21 after a Jul 20 nudge; Jul 15-31 still open after two nudges). The client also missed the invoice entirely this cycle, suggesting she does not reliably see the Invoicing topic.",
+      "date": "2026-08-11",
+      "late": true,
+      "reason": "No standing reminder cadence and no confirmed payment rail she finds convenient — her Jul 13 PayPal question is still unanswered",
+      "suggested_fix": "Set a fixed day-3 / day-6 reminder cadence, DM her directly rather than relying on the topic thread, and close out the PayPal question so there is a payment method she will actually use quickly",
+      "quotes": [
+        {"quote": "Oh I didn’t even see this was for 2nd of August! I’m so sorry", "who": "Cheyene Burridge", "date": "2026-08-11"},
+        {"quote": "Do you guys have PayPal", "who": "Cheyene Burridge", "date": "2026-07-13"}
+      ]
+    }
+  ],
+  "client_priorities": [
+    "Keeping her main IG account (@Cheymai_) safe from flags, targeting, and restrictions",
+    "Payment timing and convenience — needs terms that match her OnlyFans payout cycle, and asked about PayPal a month ago with no answer",
+    "Resumption of the IG promo/posting growth that was paused during the phone-farm migration, plus visibility on when it restarts"
+  ],
+  "suggestions": [
+    "Confirm the payment landed on Aug 15 and, if not, escalate the same day — this is the third consecutive late invoice and two billing periods are now stacked into one bill for a client who has already said she is short on cash",
+    "Post the phone-farm rollout update this week. Derrek promised updates would start Aug 8-14 and none went out; the client has now paid (or been asked to pay) for two weeks in which nothing was posted on Social Media or Promo",
+    "Answer the PayPal question from Jul 13 (32 days). It is no longer just a courtesy — a faster payment rail is a plausible fix for the recurring lateness",
+    "Consider offering payment terms aligned to her OF payout date instead of granting ad-hoc extensions; it removes the monthly chase and the pause-in-work threat",
+    "Make sure ALTR-initiated contact is not only invoicing. Four of the six messages this week were payment chases; the only delivery evidence was Michelle's leak-removal report",
+    "Close the open onboarding loop — confirm in chat that the sales-preferences form is done, the previous chat team is unlinked, and reels have been uploaded to the Drive; none has ever been confirmed since June"
+  ],
+  "wins": [
+    "Chat re-engaged after a fully silent week, and the client replied within 10 minutes on Aug 11 and was transparent and apologetic about the delay rather than going dark",
+    "Michelle delivered the weekly leak-removal breakdown proactively on Aug 10 — the one piece of visible service delivery this week",
+    "Stephski chased payment promptly on Aug 9 and Aug 11 instead of waiting until day 10 as with the first invoice, which is exactly the fix flagged in last week's report",
+    "Client remains a referral source for ALTR (she referred Paige), so the relationship is worth protecting through the cash-flow squeeze"
+  ],
+  "week_stats": {
+    "messages": 6,
+    "client_messages": 2,
+    "team_messages": 4
+  }
+}

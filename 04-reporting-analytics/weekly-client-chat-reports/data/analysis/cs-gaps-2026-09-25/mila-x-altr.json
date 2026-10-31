@@ -1,0 +1,240 @@
+{
+  "client": "Mila",
+  "slug": "mila-x-altr",
+  "status": "at_risk",
+  "status_reason": "Ninety-seven days in and the chat has now gone completely silent in BOTH directions for the first time in the relationship: last client message 2026-09-17, last ALTR message 2026-09-18 01:34 ('Okay'), 7.3 days of nothing as of today. She has never complained, never disputed a charge, never short-paid, and paid the latest invoice in two days from a national park with no phone signal. That is precisely what makes this dangerous rather than fine. She matches the ALTR churn signature on every limb: the owner has been effectively absent (one banking reply on 9/16 inside 55 days of silence on the thing she actually asked about), the long-promised deliverables have no written proof (phone-farm rollout 55 days, promo post links 79 days, 48 uploaded videos 39 days), most of what we send her is billing, and — the decisive tell — she has STOPPED ASKING. She chased her own money four times up to 8/10 and has chased zero times in the 46 days since, across three further invoices. On top of that our own 7-day invoice deadline (9/22, carrying a work-pausing threat) passed three days ago with no payment confirmation and no chase from us, meaning nobody at ALTR is tracking this account at all. She is not angry. She has stopped expecting us to close anything, and with zero in-window traffic she will drop off next week's dashboard entirely — carrying four unreconciled payment cycles with her.",
+  "last_client_message": "2026-09-17",
+  "dimensions": {
+    "responsiveness": {
+      "severity": 3,
+      "internal_failure": "We reply fast to anything that costs us nothing and go permanently silent on anything that costs us something. Median time to ANY reply is 2.9h and the owner personally answered a bank-account-name question in 6h39m — but 11 of her 20 substantive questions/requests went over 24h and several were never answered at all: her 6/23 report that her Instagram was suspended (asked in the context of an instruction WE gave her not to appeal) is 94 days unanswered by anybody; her 8/8 request to check whether a payment came through twice is 48 days unanswered; her 9/17 'have sent' has gone 8 days with no confirmation; and in the last 7 days we have not sent her a single message of any kind.",
+      "evidence": [
+        {
+          "quote": "Hey guys my accounts been suspended again, I haven’t clicked appeal this time as you said not to, so what happens now x",
+          "who": "Callie (Mila)",
+          "date": "2026-06-23"
+        },
+        {
+          "quote": "please let me know when you’ve received it and if you could just double check it doesn’t come through twice🙄 thank you! Xx",
+          "who": "Callie (Mila)",
+          "date": "2026-08-08"
+        },
+        {
+          "quote": "Thank you, have sent:)",
+          "who": "Callie (Mila)",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "follow_through": {
+      "severity": 3,
+      "internal_failure": "Twelve of the nineteen forward commitments we made on this account have lapsed, and the lapses belong to the most senior people on it. Michelle agreed on 7/8 to send links to what we post for her and has sent none in 79 days. Derrek promised phone-farm rollout updates 'starting next week' on 8/1 and has said nothing about it in 55 days. Vivek was introduced on 7/29 as the Meta Support escalation path and has never posted a single message in 58 days. The one commitment that looked repaired last week has already re-lapsed: Mica's weekly inspo drop resumed on 9/15 after a 33-day gap and the next weekly drop, due ~9/22, never came — so the recovery was a one-off, not a restored cadence.",
+      "evidence": [
+        {
+          "quote": "will do babes 🫶🏼",
+          "who": "Michelle Queue",
+          "date": "2026-07-08"
+        },
+        {
+          "quote": "We are waiting for a shipment that should land Monday that will be the final piece needed to begin and scale.",
+          "who": "Derrek",
+          "date": "2026-08-01"
+        },
+        {
+          "quote": "Will update you shortly!",
+          "who": "Stephski",
+          "date": "2026-08-11"
+        }
+      ]
+    },
+    "proactive_communication": {
+      "severity": 3,
+      "internal_failure": "Almost everything we send her is either an invoice or a request for more work from her — upload more reels, fill out the form, book a call, send payment, do your own FX conversion. Unprompted value is rare and templated: Mica's reel-inspo drops (six in 97 days, against a promise of 'weekly') and a copy-paste Instagram security broadcast on 9/17 that never once acknowledged that THIS client's own account has been gone for 94 days. Longest stretch with zero outbound from our side is 8.7 days (8/23 → 8/31); we are currently 7.3 days into the second-longest and it spans our own invoice deadline. In 97 days nobody has ever sent her a performance number, a revenue figure, a posting report, or a 'here is where everything stands'.",
+      "evidence": [
+        {
+          "quote": "Hi love 💕 just wanted to reiterate how important consistent posting is for increasing social media engagement!",
+          "who": "Mica Vecco",
+          "date": "2026-08-31"
+        },
+        {
+          "quote": "🚨 IMPORTANT — Instagram Security Update\nInstagram is currently experiencing a technical issue that is causing some creators to be randomly logged out of their accounts",
+          "who": "Mica Vecco",
+          "date": "2026-09-17"
+        },
+        {
+          "quote": "Hi babe! would you be able to upload more reels please? 💗",
+          "who": "Michelle Queue",
+          "date": "2026-08-06"
+        }
+      ]
+    },
+    "onboarding_handoff": {
+      "severity": 2,
+      "internal_failure": "Week one looked good — three intros and a call booked inside 48h — and then the rails were never finished. Billing appeared on day 11 with no prior word on cadence, currency or due date; she had to ask when payment was due and had to ask for GBP, despite telling us on day 16 that her currency is GBP. She was never given a 'who to contact for what' map: six ALTR names across five topics, a DMCA topic created on day one and never used once, and Nick | DMCA never introduced. Mayson sent her a form on day one whose stated purpose was to give the team 'the ability to sell in confidence' — she completed it the same day, and five days later he was asking her custom pricing in chat, which means the form was never read or distributed. Vivek was introduced on day 39 and never spoke.",
+      "evidence": [
+        {
+          "quote": "Hello! Yes so sorry I thought I’d replied as I actually had a question haha, when’s the due date unless I’m missing it hahaa x",
+          "who": "Callie (Mila)",
+          "date": "2026-07-05"
+        },
+        {
+          "quote": "When you’re able please fill out the form that will give the team everything they need to know about yourself AND the ability to sell in confidence.",
+          "who": "Mayson Chat",
+          "date": "2026-06-20"
+        },
+        {
+          "quote": "Hey @calliebullough what’s the minimum price for a custom?",
+          "who": "Mayson Chat",
+          "date": "2026-06-25"
+        }
+      ]
+    },
+    "chatter_conduct": {
+      "severity": 2,
+      "internal_failure": "No boundary breach is visible, but the OnlyFans side of this account is opaque to the client and to us. In 97 days she has received zero reporting on sales, fans or revenue — the OnlyFans topic contains 14 messages total, none of them a result. Worse, we have twice attached things to her brand without explaining them: Mayson dropped the bare domain 'crystalmila.vip' into the OnlyFans topic at 02:53 with no context (33 days, never explained), and on 9/16 asked her for a Facebook account with no stated purpose, then replied 'Okay' when she declined. Her one stated boundary — the pricing floor she gave on 6/25 — was collected in chat five days after she had already filled the briefing form built for exactly that.",
+      "evidence": [
+        {
+          "quote": "crystalmila.vip",
+          "who": "Mayson Chat",
+          "date": "2026-08-23"
+        },
+        {
+          "quote": "Hey @calliebullough do you have a facebook account available to use?",
+          "who": "Mayson Chat",
+          "date": "2026-09-16"
+        },
+        {
+          "quote": "I mean it depends what they are wanting really! I’m not too fussy just if they want bare boobs I usually say around 1k but would be happy doing for like £700 but don’t rly have a minimum for anything else just not crazy cheap hahaaa",
+          "who": "Callie (Mila)",
+          "date": "2026-06-25"
+        }
+      ]
+    },
+    "platform_health": {
+      "severity": 3,
+      "internal_failure": "The single largest thing this client cares about has been open, unowned and unanswered for 94 days. She told us on day three that her Instagram was suspended again and that she had not appealed because WE told her not to — and no one has ever replied to that message. Derrek's 8/1 explanation of the $40k phone farm with a shipment 'landing Monday' is the only substantive update in the entire relationship and it is 55 days old. Vivek, introduced specifically for 'restrictions, shadowbans, or bans', has never posted in 58 days. When she restated on 8/31 that she is still on a backup account waiting for her main one back, the reply was 'amazing! 🤍' and the disclosure was routed to nobody. Seventeen days later we broadcast generic IG security advice into the same chat.",
+      "evidence": [
+        {
+          "quote": "If you have any restrictions, shadowbans, or bans.... simply @ him in the chat and he will help.",
+          "who": "Derrek",
+          "date": "2026-07-29"
+        },
+        {
+          "quote": "Hiya, yeah I’m using my back up account atm while I wait to get my bigger account back but I aim to post 3x a day:) xx",
+          "who": "Callie (Mila)",
+          "date": "2026-08-31"
+        },
+        {
+          "quote": "amazing! 🤍",
+          "who": "Mica Vecco",
+          "date": "2026-08-31"
+        }
+      ]
+    },
+    "billing_ops": {
+      "severity": 3,
+      "internal_failure": "Five invoices issued, two receipts ever confirmed, and the last confirmation of any kind was 7/23 — 64 days ago. Four cycles are open on our books with nothing in writing to her: Jul 15-31 (duplicate-check request 48 days unanswered after 'Will update you shortly!'), Aug 1-14 (wire sent 8/17 against a changed account number, 39 days and never located — and on 9/16 Derrek himself volunteered that the abbreviated account name meant wires failed for some payers, a lead nobody has connected), Aug 15-31 (issued 9/1 with a work-pausing 7-day deadline, now 24 days and not mentioned once by either side), and Sep 1-14 (she sent it 9/17, unconfirmed 8 days, and our own 9/22 deadline passed with neither a confirmation nor a chase). On 9/15 we withdrew the GBP invoicing that produced the only two-day payment cycles this account has ever had, quantified OUR few-hundred-dollar FX loss to her, and moved the conversion work onto her — while sitting on two of her wires we cannot find.",
+      "evidence": [
+        {
+          "quote": "Noting I have changed the currency back to USD, as when you send in pounds we are losing a bit of money each time, its accounted for a few hundred dollars at this point, so if you could please do me a favor and see what the exchange rate is at the time of sending",
+          "who": "Stephski",
+          "date": "2026-09-15"
+        },
+        {
+          "quote": "I ask that you please pay within 7 days to avoid any pausing of work 🙏",
+          "who": "Stephski",
+          "date": "2026-09-01"
+        },
+        {
+          "quote": "So we can just repeat to the same account for this next period of invoicing coming up 🙂",
+          "who": "Stephski",
+          "date": "2026-07-13"
+        }
+      ]
+    },
+    "ownership_escalation": {
+      "severity": 3,
+      "internal_failure": "Nobody owns Mila. Six ALTR people have posted in this chat and every thread she opened died in a different person's lane — the suspended account with Derrek/Vivek, the promo links and 48 videos with Michelle, four payment cycles with Stephski, the trial-reels call and two unexplained assets with Mayson. The declared escalation route is fictional: Derrek told her to '@ him in the chat and he will help' about Vivek, she described the exact scenario on 8/31, and Vivek has still never written a word. Meanwhile Alex Camus — an entry still flagged `uncertain: true` in config/team.yaml — answered on ALTR's behalf before invoicing did, posted our full bank block, and committed us to a billing change that Stephski silently reversed 70 days later without reference to him; he has not posted in 80 days.",
+      "evidence": [
+        {
+          "quote": "Hey Ive added Vivek in here ( @fonta ). He is our Meta Support Rep that will help keep your IG accounts up and safe.",
+          "who": "Derrek",
+          "date": "2026-07-29"
+        },
+        {
+          "quote": "We will make sure the exchange is on the next invoice",
+          "who": "Alex Camus",
+          "date": "2026-07-07"
+        },
+        {
+          "quote": "Let me know what time works best @calliebullough ?",
+          "who": "Mayson Chat",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "disengagement_detection": {
+      "severity": 3,
+      "internal_failure": "Every churn signal this book produces is present and nobody has acted on one. Her client messages per week ran 9, 7, 10, 6, 3, 1, 2, 4, 2, 0, 2, 1, 4, 0 — she went 13.9 days silent from 8/17 to 8/31 and no one noticed or asked. Most importantly she STOPPED ASKING: she chased her own payments four times up to 8/10 and has chased zero times in the 46 days since, across three more invoices, which on this book is the exit tell, not health. She accepted a call on 9/6 and it was never booked; she accepted an FX cost transfer on 9/15 without argument. The chat has now been dead in both directions for 7.3 days, our own invoice deadline passed on 9/22, and not one person has sent a check-in. Nobody has asked her how she is doing since the 6/29 onboarding call.",
+      "evidence": [
+        {
+          "quote": "Yeah sureee :)",
+          "who": "Callie (Mila)",
+          "date": "2026-09-06"
+        },
+        {
+          "quote": "But yes I will just send the amount in USD and pay the fee to make it easier.",
+          "who": "Callie (Mila)",
+          "date": "2026-09-15"
+        },
+        {
+          "quote": "Okay",
+          "who": "Mayson Chat",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "security_hygiene": {
+      "severity": 2,
+      "internal_failure": "No client credentials were posted here — Mica's 9/17 advisory correctly told her never to send backup codes 'to anyone, including our team', which is the right standard. The exposure runs the other way. ALTR's full Bank of America account name, address, ACH routing, wire routing, account number and SWIFT code were pasted into a Telegram group by an account config/team.yaml still flags `uncertain: true`, those details have since changed three times in 70 days, and three membership changes happened in that same chat within eight days (add 9/10, delete 9/15 fifty seconds after the invoice was posted, add 9/17) with no introduction posted for any of them. A group where wire instructions change repeatedly and members appear unannounced is a wire-fraud surface, and we have never told her the details are now final.",
+      "evidence": [
+        {
+          "quote": "Account Name: ALTR Platform Services, LLC\nBank: Bank of America, N.A.\nACH Routing: [REDACTED-NUMBER]\nWire Routing: [REDACTED-NUMBER]\nAccount No.: [REDACTED-NUMBER]\nSWIFT Code for International Wires: BOFAUS3N",
+          "who": "Alex Camus",
+          "date": "2026-07-07"
+        },
+        {
+          "quote": "Is the account info going to change each time? Just because I have to change the entire payee and to do that I have to actually speak to my bank to verify.",
+          "who": "Callie (Mila)",
+          "date": "2026-09-15"
+        },
+        {
+          "quote": "Please do not send your backup codes to anyone, including our team. Keep the screenshot somewhere secure that only you can access.",
+          "who": "Mica Vecco",
+          "date": "2026-09-17"
+        }
+      ]
+    }
+  },
+  "metrics": {
+    "client_questions_total": 20,
+    "unanswered_over_24h": 11,
+    "max_team_silence_days": 8.7,
+    "promises_made": 19,
+    "promises_kept": 6,
+    "promises_lapsed": 12,
+    "method": "Full history 2026-06-20 → 2026-09-18 (163 messages, 12 service events; client side = alias 'Callie (Mila)' from config/clients.yaml, all other senders are ALTR staff per config/team.yaml — no vendor chat team appears in this chat). client_questions_total is a manual pass over all 61 client messages counting explicit questions plus explicit requests for a reply/confirmation (a bare '?' grep finds only 8 because most of her asks are phrased 'please let me know…'). unanswered_over_24h counts asks with no substantive ALTR answer within 24h — six of those eleven have never been answered at all. max_team_silence_days is the longest gap between consecutive ALTR messages (8.7d, 2026-08-23 02:53 → 2026-08-31 19:15); the current open streak is 7.3d (2026-09-18 01:34 → now) and is still running. Promises are forward-looking ALTR commitments; 1 of the 19 (the 9/15 'should help alleviate any bounce backs' account-name change) is still genuinely pending and is excluded from kept/lapsed. For reference, median time to ANY ALTR reply after a client message is 2.9h — speed is not the problem, closure is."
+  },
+  "what_client_wanted": [
+    "Her main Instagram account back, and to be told what happens next — she raised it on day three and has never been answered: 'Hey guys my accounts been suspended again, I haven’t clicked appeal this time as you said not to, so what happens now x' (2026-06-23), restated 'yeah I’m using my back up account atm while I wait to get my bigger account back but I aim to post 3x a day:) xx' (2026-08-31).",
+    "To see what we are actually posting on her behalf — 'Amazinggg, if you could send me links when you do just so I can be in the loop🫶🏼' (2026-07-08). She has had one page URL in 79 days, and 48 videos she uploaded on 2026-08-17 have never been mentioned again.",
+    "Invoices she can pay without doing our currency and banking work — 'Is it possible to get the invoice is GBP? So I can get it paid :)' (2026-07-07) and 'Is the account info going to change each time? Just because I have to change the entire payee and to do that I have to actually speak to my bank to verify.' (2026-09-15).",
+    "Plain confirmation that her money arrived — 'please let me know when you’ve received it and if you could just double check it doesn’t come through twice🙄 thank you! Xx' (2026-08-08), still unanswered 48 days later."
+  ],
+  "what_worked": [
+    "Mica's onboarding call and creative drops are the only thing on this account that has ever consistently earned thanks. The 6/29 Google Meet was booked and run inside nine days of kickoff, and every inspo drop gets a warm reply — 'Thank you🫶🏼🫶🏼' (2026-07-02), 'Thank you! Xxx' (2026-09-15). When we give her something she responds immediately; she is unattended, not disengaged.",
+    "Doing the reconciliation work ourselves and then explaining it visibly relieved her. Stephski on 2026-07-13: 'Ah okay, had to dick a bit but found your name in the system, we’re all good here!' and 'there was a fee deducted so the total didnt match thats why it was difficult to find' — she replied 'Oh thank god, and oh I see!'. That is the one time we closed a money loop out loud, and it is the behaviour that has since disappeared.",
+    "The pre-invoice heads-up is the single cheapest lever we have and it works every time we use it. 'Hi love! Just letting you know your invoice will be sent tomorrow, so it would be great if you could initiate a OF withdrawl today so the funds hit your account in time!' (2026-09-14) produced payment in two days from a client who was in Yosemite with no phone signal — no chasing required. Paired with Stephski's unprompted apology on 2026-09-16 ('I am so sorry for the back and forth, just want to make sure you have everything you need to make it smooth from here on out ❤️'), it shows the relationship register is right; only the follow-through is missing."
+  ],
+  "top_fix": "Give this account one named owner who posts a single written status message every week — money, platform, deliverables — and enforce one hard rule alongside it: no new invoice goes out while a previous cycle is unconfirmed. Mila had six ALTR staff and no owner, so her suspended-Instagram question (94 days), her promo links (79 days), her 48 uploaded videos (39 days) and four unreconciled payment cycles each died in a different person's lane while every individual person stayed polite and fast. One accountable weekly written status would have caught all of them, and blocking the fifth stacked invoice would have forced the reconciliation that is now the biggest single risk on the account."
+}

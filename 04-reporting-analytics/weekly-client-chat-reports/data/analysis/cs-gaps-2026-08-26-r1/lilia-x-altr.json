@@ -1,0 +1,308 @@
+{
+  "client": "Lilia",
+  "slug": "lilia-x-altr",
+  "status": "active",
+  "status_reason": "Highly engaged through 2026-08-26 (messaging daily, uploading content daily, paid to $0) — but retention is being carried by the client herself: she has personally repaired the same whale-mishandling failure four times (Jun 12, Jul 24, Aug 14, Aug 23) and ALTR has never delivered a durable fix, so a fifth incident that costs her Teddi or frumby is the realistic churn trigger.",
+  "last_client_message": "2026-08-26",
+  "dimensions": {
+    "responsiveness": {
+      "severity": 2,
+      "internal_failure": "Median reply lag is minutes, but the highest-risk messages (chatter instructions, embargoes, whale alerts) routinely sat 5-28h until Mayson @-pinged Fred, and several plain client questions were never answered at all; the TikTok shadowban ask has been open 8 days across 5 chases.",
+      "evidence": [
+        {
+          "quote": "Uploading pics and videos please don't let the chatters u lose anything just yet please there are about 87 pics to upload and 13 videos",
+          "who": "Lilia",
+          "date": "2026-08-17",
+          "note": "Fred acknowledged 28h later (Aug 18 16:44) only after Mayson's '@ofmfrederick ^^'"
+        },
+        {
+          "quote": "Did u find out if I was shadowbanned?",
+          "who": "Lilia",
+          "date": "2026-08-19",
+          "note": "asked Aug 18, 18, 19, 22, 23; Vivek's replies: 'Send login', 'On it', 'Not yet busy with instagram unbans', 'need login approval' - still unresolved Aug 26"
+        },
+        {
+          "quote": "Hey @Liliaanglex sorry on the late response - speaking to the management team they corrected this with the chatter.",
+          "who": "FRED | OFM",
+          "date": "2026-07-13",
+          "note": "reply to the Jul 11 23:22 'husband' complaint, ~31h later"
+        },
+        {
+          "quote": "I have two collabs coming up for insta and OF with these girls... so I just send u guys the photos for OF and do a mass message to sell them?",
+          "who": "Lilia",
+          "date": "2026-07-15",
+          "note": "never answered; likewise 'How do I make that group on telegram?' (Jun 5), 'Is there a custom for this guy.' (Jun 21), 'Is this just saying ur real?' (Jul 8)"
+        }
+      ]
+    },
+    "follow_through": {
+      "severity": 3,
+      "internal_failure": "Fred's default reply is 'informing the team' with no close-the-loop; the Jul 24 promise to remove the offending chatter was never named or confirmed and the exact failure recurred twice; 'last change I promise' on banking was broken; the Aug 10 organise, Aug 11 custom, Jun 9 VIP and Jun 26 chargeback promises all went silent.",
+      "evidence": [
+        {
+          "quote": "it's the same chatter who's letting the side down so I will take them off your account!",
+          "who": "FRED | OFM",
+          "date": "2026-07-24",
+          "note": "never confirmed; same content resold to frumby Aug 14 and again Aug 23"
+        },
+        {
+          "quote": "Want to let you know we have a new bank for you to send to (last change I promise!)",
+          "who": "Stephski",
+          "date": "2026-07-01",
+          "note": "Zelle ID stopped resolving Aug 12; new number issued, client capped at $500/day again"
+        },
+        {
+          "quote": "Aha yeah - let me know when it's all up and I'll organise :)",
+          "who": "FRED | OFM",
+          "date": "2026-08-10",
+          "note": "she said 'It's uploaded' Aug 17 18:30; no organising confirmation ever; she built and screenshotted the folder herself"
+        },
+        {
+          "quote": "Amazing - will inform team, thank you",
+          "who": "FRED | OFM",
+          "date": "2026-08-11",
+          "note": "$100/min shower custom accepted by client same minute; never mentioned again in 15 days"
+        }
+      ]
+    },
+    "proactive_communication": {
+      "severity": 2,
+      "internal_failure": "In 3 months the OF side has sent zero unprompted revenue/performance updates; all recurring outbound is templated (Michelle's weekly leak count, Mica's reel-link dumps, invoices). The client explicitly asked to be alerted when a whale goes quiet or gets upset and still finds out herself. Longest our-side silence: 4.4 days (Aug 4-9).",
+      "evidence": [
+        {
+          "quote": "Hey can u make sure ur chatters message me when this happens",
+          "who": "Lilia",
+          "date": "2026-07-22",
+          "note": "no alerting mechanism ever set up; she caught the Jul 24, Jul 29, Aug 14 and Aug 23 incidents herself"
+        },
+        {
+          "quote": "Chatters need to communicate of this happens so I can jump on ... Now my high spender left ... Not cool",
+          "who": "Lilia",
+          "date": "2026-07-29"
+        },
+        {
+          "quote": "Hi love! Here's your weekly update on the leak removal breakdown for the past 7 days",
+          "who": "Michelle Queue",
+          "date": "2026-08-17",
+          "note": "the only reliably scheduled outbound; no equivalent OF sales/whale report exists"
+        }
+      ]
+    },
+    "onboarding_handoff": {
+      "severity": 2,
+      "internal_failure": "Week 1 was improvised: an invoice for 5 days was sent on day 5 and retracted by the owner, Drive uploads failed for 4 days before a shared-album workaround, the social kickoff call took four attempts, there was no 'who owns what' map, and wall-post ownership had to be re-asked in August.",
+      "evidence": [
+        {
+          "quote": "Okay this is the invoice? I just signed on with u guys / So invoicing already?",
+          "who": "Lilia",
+          "date": "2026-06-01",
+          "note": "Derrek: 'no' / 'disregard' 16 minutes later"
+        },
+        {
+          "quote": "I'm going to try and post it myself onto the platform because Google Drive is not working for me at all.",
+          "who": "Lilia",
+          "date": "2026-05-27",
+          "note": "Fred's first troubleshooting reply came May 29 05:32; shared album agreed May 30"
+        },
+        {
+          "quote": "Are we still on for our meeting today?",
+          "who": "Lilia",
+          "date": "2026-05-28",
+          "note": "call requested May 27, chased May 28, rescheduled May 29, held Jun 1"
+        },
+        {
+          "quote": "Also do you want to keep up wall posts or would you like the team to do so?",
+          "who": "FRED | OFM",
+          "date": "2026-08-10",
+          "note": "she had already answered this on Jun 6 ('I been posting wall content myself')"
+        }
+      ]
+    },
+    "chatter_conduct": {
+      "severity": 3,
+      "internal_failure": "Whale protection never became a control: chatters sold Teddi/frumby content they already owned on four separate dates, were rude to a bereaved top spender, mixed up creator notes, told a fan she has a husband, sold a 4-min explicit video for $35, and wrote in a voice a fan flagged as 'did I get hacked'. Every fix was a verbal briefing.",
+      "evidence": [
+        {
+          "quote": "The chatters keep sending content he already has! It's a second account! I just don't want him leaving! ... Chatters are being so rude to him / I keep deleting messages / Idk who's on my account",
+          "who": "Lilia",
+          "date": "2026-07-24"
+        },
+        {
+          "quote": "Hey can u tell the chatters not to talk to frumby / They sold him content he already has! So I need to make him a video to make it up to him",
+          "who": "Lilia",
+          "date": "2026-08-14"
+        },
+        {
+          "quote": "Please sell the new red set idk why they are selling him old content",
+          "who": "Lilia",
+          "date": "2026-08-23",
+          "note": "4 days after she re-opened frumby with 'only sell in this folder please'"
+        },
+        {
+          "quote": "This guy is new and chatters were selling him super cheap stuff from the set that show everything ... playing with myself for 4 mins for 35 is crazzzzzyyyy",
+          "who": "Lilia",
+          "date": "2026-07-11"
+        },
+        {
+          "quote": "there is this other fan that the chatters keep talking to saying I have a husband but I don't ... Idk if chatters are not reading my notes",
+          "who": "Lilia",
+          "date": "2026-07-11"
+        }
+      ]
+    },
+    "platform_health": {
+      "severity": 2,
+      "internal_failure": "The Meta/TikTok support service Derrek sold on Jul 29 has produced 6 messages / ~15 words from Vivek and no answer in 8 days on a shadowban she says is stopping her posting; the IG bio-link takedown in June was fixed by the client herself; the Aug 1 phone-farm update promised follow-ups that never came.",
+      "evidence": [
+        {
+          "quote": "simply @ him in the chat and he will help",
+          "who": "Derrek",
+          "date": "2026-07-29"
+        },
+        {
+          "quote": "Not yet busy with instagram unbans",
+          "who": "Vivek",
+          "date": "2026-08-19",
+          "note": "client had supplied login within 28 min on Aug 18; Mayson/Mica @-pinged him 6 times Aug 18-24"
+        },
+        {
+          "quote": "I'm definitely shadowbanned on TikTok so I can't really post anything",
+          "who": "Lilia",
+          "date": "2026-08-22"
+        },
+        {
+          "quote": "I got it fixed they just needed to verify me'",
+          "who": "Lilia",
+          "date": "2026-06-27",
+          "note": "bio link taken down Jun 26 23:08; only ALTR reply was Mayson re-sending the same link"
+        }
+      ]
+    },
+    "billing_ops": {
+      "severity": 3,
+      "internal_failure": "ALTR's own rails failed five times (premature invoice, Mercury bounce, Chase new-recipient cap, dead Zelle ID, second $500/day cap), we chased her on Aug 4 and Aug 9 while our Zelle ID was actually broken, we asked her for her own OF statement to build an invoice, and on Aug 25-26 her running balance ('192') and our sheet ('$0') disagree with no reconciliation.",
+      "evidence": [
+        {
+          "quote": "Hi love! Wanted to let you know that if you paid via the Mercury link above, your transaction will bounce, can you please send to the Chase account",
+          "who": "Stephski",
+          "date": "2026-06-22"
+        },
+        {
+          "quote": "I tried Zelleing u twice but it says u no longer have the ID / Is there another Zelle u have",
+          "who": "Lilia",
+          "date": "2026-08-12",
+          "note": "Stephski had chased this invoice Aug 4 and Aug 9"
+        },
+        {
+          "quote": "Do u guys normally ch age ur Zelle accounts?",
+          "who": "Lilia",
+          "date": "2026-08-15"
+        },
+        {
+          "quote": "@Liliaanglex Are you able to send us your earning statement from Aug 1-14? having trouble acessing on my side",
+          "who": "Stephski",
+          "date": "2026-08-15"
+        },
+        {
+          "quote": "192 (keeping track) it's still giving me that limit...",
+          "who": "Lilia",
+          "date": "2026-08-25",
+          "note": "Stephski Aug 26: 'On our sheet it says you're paid up!' - unreconciled"
+        }
+      ]
+    },
+    "ownership_escalation": {
+      "severity": 2,
+      "internal_failure": "Mayson functions as a human router (7 '@ofmfrederick ^^', 6 '@fonta ^' pings, 1 '@stephskiii') because no one owns first response; chatter issues are always deferred to an unnamed 'team'; Vivek was added with no SLA or backup; the owner sold a service he then did not police.",
+      "evidence": [
+        {
+          "quote": "@ofmfrederick ^^",
+          "who": "Mayson Chat",
+          "date": "2026-08-14",
+          "note": "same pattern Jul 23, Jul 30, Aug 14, Aug 18, Aug 26; and '@fonta ^' Aug 18, 23, 24 x3"
+        },
+        {
+          "quote": "Can we do anything about it @fonta ?",
+          "who": "Mayson Chat",
+          "date": "2026-08-23"
+        },
+        {
+          "quote": "Hey @Liliaanglex I'll look into this with the team now - my apologies!",
+          "who": "FRED | OFM",
+          "date": "2026-08-23",
+          "note": "no named chatter, no result reported back"
+        }
+      ]
+    },
+    "disengagement_detection": {
+      "severity": 2,
+      "internal_failure": "She never went quiet, but her frustration signals ('kind of pissed', 'Not cool', 'I don't want to loose him', paying out of pocket with free make-up videos) got templated apologies only; nobody on our side called her or ran a recovery plan after Jul 24, Jul 29 or Aug 14, and the client absorbed the account-management work herself.",
+      "evidence": [
+        {
+          "quote": "Missed out on my highest spender kind of pissed about it when it took me ages to get him back",
+          "who": "Lilia",
+          "date": "2026-07-29",
+          "note": "Fred replied 17h later: 'will look into the fan ... My apologies.' - no follow-up"
+        },
+        {
+          "quote": "Sending frumby a free video since he got double already! I'm sending him a 200 plus video because he lost a bet!",
+          "who": "Lilia",
+          "date": "2026-08-19",
+          "note": "client paying to repair ALTR's error; no acknowledgement of the cost"
+        },
+        {
+          "quote": "I'm going to call teddi today to try and get him back on my account since he was my highest spender",
+          "who": "Lilia",
+          "date": "2026-08-19"
+        }
+      ]
+    },
+    "security_hygiene": {
+      "severity": 2,
+      "internal_failure": "OF password posted in plain text in the group on day 2 and echoed back by Fred; email/login screenshots, TikTok login and phone numbers (client's and Fred's personal number/Gmail) all sit in the shared chat; no one steered credentials to a private channel or confirmed rotation after the Jul 23 'am I hacked' scare or the Aug 4 login change.",
+      "evidence": [
+        {
+          "quote": "2027GetOfMyOF!? That's the new password for my first account second one is good!",
+          "who": "Lilia",
+          "date": "2026-05-26",
+          "note": "Eric had said 'Yes' to 'Do u want me to send my new password on this chat?'; Fred repeated it back in msg 42"
+        },
+        {
+          "quote": "Should I change my password / To make sure I'm not hacked",
+          "who": "Lilia",
+          "date": "2026-07-23",
+          "note": "Fred: 'you're not hacked' - no rotation guidance; Aug 4 Fred then found logins changed without notice"
+        },
+        {
+          "quote": "It's my phone number 15303182647 / For username I think",
+          "who": "Lilia",
+          "date": "2026-08-18",
+          "note": "TikTok login screenshot + number posted to the full group for Vivek"
+        }
+      ]
+    }
+  },
+  "metrics": {
+    "client_questions_total": 56,
+    "unanswered_over_24h": 10,
+    "unanswered_over_24h_mechanical": 2,
+    "max_team_silence_days": 4.4,
+    "promises_made": 22,
+    "promises_kept": 9,
+    "promises_lapsed": 11,
+    "promises_pending": 2,
+    "method": "903 non-service messages, 586 client / 317 ours. Questions = client messages containing '?'. Mechanical unanswered = no our-side message of any kind within 24h (2); manual = questions that got no substantive answer or >24h (Jun 5 telegram group x2, Jun 13 TikTok link follow-up, Jun 21 custom, Jun 22 bank transfer 29h, Jun 23 story link, Jul 8 script, Jul 15 collabs, Aug 17 embargo 28h, Aug 18-26 TikTok shadowban). Median first-reply lag to a question 7 min, p75 56 min. Max silence = longest gap between consecutive our-side messages (Aug 4-9). Promises tallied by hand from explicit 'I will / we'll / will inform' commitments; kept = visible delivery in chat, lapsed = no delivery or confirmation within 14 days, pending = Vivek TikTok check and Stephski 'should stay the same' rail."
+  },
+  "what_client_wanted": [
+    "Her two whales (Teddi, frumby) handled by name, gently, and never sold owned content: \"Just don't have him pay for insta photos that's it.... I don't want him leaving again\" (Jun 12); \"Only new content please let theme sell only\" (Jul 24)",
+    "To be alerted the moment a spender goes quiet or upset so she can step in: \"Hey can u make sure ur chatters message me when this happens\" (Jul 22); \"Chatters need to communicate of this happens so I can jump on\" (Jul 29)",
+    "Price discipline that matches her brand: \"sell to frumby 200 per video and as for pics sell 200 package of pics please nothing less\" (Aug 9); \"4 min video for 35? Is so cheap for my page?\" (Jul 11)",
+    "A payment rail she can clear in one send: \"Do u guys normally ch age ur Zelle accounts?\" (Aug 15); \"If this keeps happening I'll just go to the bank and do a transfer instead\" (Jun 29)"
+  ],
+  "what_worked": [
+    "The custom-domain link Mayson shipped fast and unprompted: \"No I love it! Thank you! I just put it up! / U guys are the best!\" (Jun 10)",
+    "Michelle's weekly DMCA takedown report - the one consistently scheduled outbound: \"U guys are seriously the best!\" (Jul 1); \"Sweet! Thanks so much\" (Aug 1)",
+    "Fred surfacing customs and fan requests she never got from her old agency: \"My other agency never told me about this custom! I'm getting it done today\" (Jun 10); and the invoice consolidation with zero chasing in the Aug 15 cycle (\"1,192 is what I owe! I'm keeping track!\")"
+  ],
+  "top_fix": "Make whale protection mechanical instead of verbal: a tool-enforced 'high-spender folder only' rule for Teddi/frumby plus a named chatter lead who confirms every client instruction in writing within 2 hours and reports back the outcome - the same failure hit Jun 12, Jul 24, Aug 14 and Aug 23, and every fix was 'informing the team'."
+}

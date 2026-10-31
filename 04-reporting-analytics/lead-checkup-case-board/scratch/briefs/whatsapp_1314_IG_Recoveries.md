@@ -1,0 +1,37 @@
+# IG Recoveries  [whatsapp #1314 GROUP]
+msgs=28 (in=25 out=3) window=2026-06-10..2026-06-17
+last_client=2026-06-17 (93d ago), last_derrek=2026-06-12 (98d ago)
+LAST MESSAGE FROM CLIENT — UNANSWERED: 'Hey guys, just checking in here! Hope everyone is off to a great start today! Talk soon!'
+
+  ...
+[2026-06-10 18:03] 120363427797132120@g.us: {"is_parent_group_general_chat":false,"show_membership_string":true,"is_open_group":true,"is_hidden_sub_group":false,"is_initially_empty":false,"parent_group_name":null,"auto_add_disabled":true,"reason":0,"should_use_identity_header":true,"context_group":null,…
+[2026-06-10 18:03] 150272382914763@lid: 187862523854905@lid
+[2026-06-10 18:06] 119232620712083@lid: 65300816998597@lid
+[2026-06-10 18:06] DEREK: Spencer, this is Kevin and Preme. They got you on whatever you need for IG Recovery.
+[2026-06-10 18:31] 119232620712083@lid: Thanks for the intro Derrek. Hey guys, I have a few of my accounts down. All the integrity issue. Some appealed already, others haven’t appealed. I also have students who would also need services so I could definitely push this if needed. We can start with two…
+[2026-06-10 18:33] 187862523854905@lid: Hey @119232620712083 pleasure to meet brother!
+[2026-06-10 18:34] 187862523854905@lid: How many followers @119232620712083 ?
+[2026-06-10 18:34] 187862523854905@lid: Can you send Screenshots of the ones you have not appealed yet
+[2026-06-10 18:34] 187862523854905@lid: And for the ones that were appealed but keep them seperate
+[2026-06-10 18:41] 119232620712083@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363427797132120@g.us/7/9/796279dc-37e2-4599-a0f3-f6cd88fe8396.jpg>
+[2026-06-10 18:41] 119232620712083@lid: Do you need the login?
+[2026-06-10 18:43] 119232620712083@lid: @Carrotsforlunch 150k followers (Is meta verified) (Non appeal)
+[2026-06-10 18:43] 119232620712083@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363427797132120@g.us/d/9/d92caf70-bb78-4f15-8567-7d75b4def8d4.jpg>
+[2026-06-10 18:43] 119232620712083@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363427797132120@g.us/2/2/22971f82-fcfa-48b0-b3a6-b487068e80d6.jpg>
+[2026-06-10 23:00] 150272382914763@lid: Hey fellas hope you're doing well! Just got to the office. Great to connect. We can definitely get these back. I've done 5 cases this week.
+[2026-06-11 10:45] 119232620712083@lid: Let me know the next steps
+[2026-06-11 16:51] 187862523854905@lid: Hey @119232620712083 do you have time for a call today?
+[2026-06-11 17:48] 119232620712083@lid: What time? I’m in Thailand it’s 12:48 am here I’ll sleep for a few hours
+[2026-06-11 19:18] 150272382914763@lid: We will be available pretty much the rest of the day just let us know
+[2026-06-12 05:28] 119232620712083@lid: Just woke up
+[2026-06-12 13:48] 150272382914763@lid: 3 flat near instant (0-5 days) best Rep
+[2026-06-12 13:48] 150272382914763@lid: 3 flat near instant (0-5 days) best Rep
+[2026-06-12 14:04] DEREK: for non appealed?
+[2026-06-12 14:04] DEREK: took 2 days to get that 🙄
+[2026-06-12 14:25] 150272382914763@lid: Non appealed much easier
+[2026-06-12 14:26] 150272382914763@lid: 1k for non appealed with my best portal
+[2026-06-12 14:26] 150272382914763@lid: I have cheaper options but prefer to use my best so it's high success
+[2026-06-17 14:52] 187862523854905@lid: Hey guys, just checking in here! Hope everyone is off to a great start today! Talk soon!

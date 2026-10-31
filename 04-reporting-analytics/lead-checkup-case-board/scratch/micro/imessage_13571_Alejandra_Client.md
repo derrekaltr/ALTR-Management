@@ -1,0 +1,6 @@
+## Alejandra Client [imessage#13571] msgs=30 win=2026-05-23..2026-05-29 lastClient=2026-05-28(113d) lastDerek=2026-05-29(112d) 
+...
+[2026-05-27 18:22]OUTCOME| DEREK: Yeah, it shouldn’t be any longer than 3 PM. I should be done before then anyways.
+[2026-05-27 18:22]OUTCOME| Alejandra Client: Liked “Yeah, it shouldn’t be any longer than 3 PM. I should be done before then anyways.”
+...
+[2026-05-29 03:05]PAY| DEREK: Yes we have 30% with full marketing 35% with full marketing + 5% put into paid ads

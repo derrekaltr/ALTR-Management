@@ -1,0 +1,176 @@
+{
+  "client": "Sarah Lloyd",
+  "slug": "sarah-lloyd-x-altr",
+  "week_ending": "2026-08-08",
+  "summary": "A quiet, mostly administrative week: Sarah chased Vivek (Meta support) about her non-recommendable Facebook and banned/collapsing Instagram, caught a billing error (invoiced at 35% instead of the agreed 30%) and asked for a July 1-15 overpayment credit that was still unanswered at week end, and gave the chat team notice for a Friday live. Her mood is polite and cooperative, but she is doing the chasing on both social recovery and invoicing accuracy, and she surfaced an alarming IG stat (profile views down from 20M to 4M).",
+  "health": {
+    "score": 68,
+    "trend": "new",
+    "rationale": "Client remains friendly and pays reliably, but recurring invoice errors, a still-unresolved Facebook/Instagram reach collapse, and a history of having to repeat requests keep friction real."
+  },
+  "reminders": [
+    {
+      "employee": "Vivek",
+      "topic": "Fixing Facebook non-recommendable status and 2x Instagram account bans (first raised 2026-07-29); Vivek admitted he forgot about the Facebook",
+      "count": 2,
+      "first_date": "2026-08-03",
+      "last_date": "2026-08-03",
+      "days_outstanding": 10,
+      "quotes": [
+        {"quote": "Hey\n@fonta\njust following up :)", "who": "Sarah Lloyd", "date": "2026-08-03"},
+        {"quote": "also any help with this IG\n@fonta\n?", "who": "Sarah Lloyd", "date": "2026-08-03"},
+        {"quote": "Sorry i forgot about Facebook", "who": "Vivek", "date": "2026-08-03"}
+      ]
+    },
+    {
+      "employee": "Stephski",
+      "topic": "Correcting the July 15th-31st invoice to the agreed 30% fee and crediting the July 1st-15th overpayment",
+      "count": 2,
+      "first_date": "2026-08-04",
+      "last_date": "2026-08-04",
+      "days_outstanding": 4,
+      "quotes": [
+        {"quote": "Thanks! Derek has confirmed that my fees for the last month passed will be 30% (not 35%). Could you please send through and adjusted invoice & take into account the start of July too? Thanks", "who": "Sarah Lloyd", "date": "2026-08-04"},
+        {"quote": "Thank you! And could you adjust for the overpayment 1-15th July too please?", "who": "Sarah Lloyd", "date": "2026-08-04"}
+      ]
+    }
+  ],
+  "complaints": [
+    {
+      "issue": "Facebook main page non-recommendable and Instagram bans / reach collapse (trial reels down from 100k+ views to 200-400; IG profile views down from 20M to 4M). Facebook now confirmed 'under watch' until September; IG drop still unexplained at week end.",
+      "status": "recurring",
+      "first_raised": "2026-07-11",
+      "owner": "Vivek",
+      "quotes": [
+        {"quote": "Hey guys! I need some help with my Facebook & Instagram. Main Facebook is non recommendable (no specific post & no option to appeal). Instagram has no account issues but trial reels have gone from consistently getting 100k+ views 2-3 times daily to getting 200-400 views. Any help would be great 🙏", "who": "Sarah Lloyd", "date": "2026-07-11"},
+        {"quote": "They put Facebook under watch", "who": "Vivek", "date": "2026-08-08"},
+        {"quote": "It’s also made my Instagram that’s in the same accounts centre go from 20million profile views down to 4million, any advice on what to do there? No account status issues", "who": "Sarah Lloyd", "date": "2026-08-08"}
+      ]
+    },
+    {
+      "issue": "Invoice accuracy: charged 35% instead of the agreed 30% on the July 15th-31st invoice, plus an uncredited overpayment for July 1st-15th. Follows an earlier miss where the agreed $100/week OFTV-editor deduction was left off every invoice until she flagged it.",
+      "status": "in_progress",
+      "first_raised": "2026-08-04",
+      "owner": "Stephski",
+      "quotes": [
+        {"quote": "Thanks! Derek has confirmed that my fees for the last month passed will be 30% (not 35%). Could you please send through and adjusted invoice & take into account the start of July too? Thanks", "who": "Sarah Lloyd", "date": "2026-08-04"},
+        {"quote": "Thank you! And could you adjust for the overpayment 1-15th July too please?", "who": "Sarah Lloyd", "date": "2026-08-04"},
+        {"quote": "Thanks Stephanie! When I signed we agreed on $100 weekly to cover what I pay my OFTV editor, I just noticed this hasn’t been taken off any invoices. Could this please be backdated & adjusted on this one? 😊", "who": "Sarah Lloyd", "date": "2026-07-15"}
+      ]
+    },
+    {
+      "issue": "Repetitive MM/PPV content reuse by the chat team (same photos, videos and wording daily for weeks) — her biggest historical complaint, requiring near-daily nudges from June 26 to July 17 before being fixed. Not raised this week, but high risk of resurfacing.",
+      "status": "resolved",
+      "first_raised": "2026-06-26",
+      "owner": "Sarah Lloyd chat team",
+      "quotes": [
+        {"quote": "I have soooo much content, there’s no need to be reusing the same photos and videos & text every single day for weeks", "who": "Sarah Lloyd", "date": "2026-07-13"},
+        {"quote": "Thanks, pls make sure they actually fix it this time too :) makes me feel lowkey crazy having to ask the same thing every day", "who": "Sarah Lloyd", "date": "2026-07-14"},
+        {"quote": "I just had another look and tomorrow does have a bit more variety than what it was these past few days so thankyou & hopefully they keep that up 🙏", "who": "Sarah Lloyd", "date": "2026-07-17"}
+      ]
+    }
+  ],
+  "commitments": [
+    {
+      "what": "Check and fix Sarah's non-recommendable Facebook (after admitting he forgot); delivered a diagnosis on Aug 8 that Facebook is under watch until September",
+      "who": "Vivek",
+      "date": "2026-08-03",
+      "status": "done",
+      "quotes": [
+        {"quote": "Checking today", "who": "Vivek", "date": "2026-08-03"},
+        {"quote": "@sarahlloydd\nhey update for your Facebook", "who": "Vivek", "date": "2026-08-08"}
+      ]
+    },
+    {
+      "what": "Explain the Instagram profile-views collapse (20M to 4M) and what Sarah should do about the Facebook watch status",
+      "who": "Vivek",
+      "date": "2026-08-08",
+      "status": "pending",
+      "quotes": [
+        {"quote": "Wait i will explain", "who": "Vivek", "date": "2026-08-08"}
+      ]
+    },
+    {
+      "what": "Reissue the July 15th-31st invoice at the corrected 30% fee",
+      "who": "Stephski",
+      "date": "2026-08-04",
+      "status": "done",
+      "quotes": [
+        {"quote": "Yes one moment!", "who": "Stephski", "date": "2026-08-04"},
+        {"quote": "Here it is updated for you\n@sarahlloydd\n❤️", "who": "Stephski", "date": "2026-08-04"}
+      ]
+    },
+    {
+      "what": "Adjust for the July 1st-15th overpayment (implicitly owned after Sarah's request; no response by week end, Derrek had to tag Stephski on Aug 8)",
+      "who": "Stephski",
+      "date": "2026-08-04",
+      "status": "overdue",
+      "quotes": [
+        {"quote": "Thank you! And could you adjust for the overpayment 1-15th July too please?", "who": "Sarah Lloyd", "date": "2026-08-04"},
+        {"quote": "@stephskiii", "who": "Derrek", "date": "2026-08-08"}
+      ]
+    },
+    {
+      "what": "Inform the chat team about Sarah's 8pm PST livestream so chatters can capitalize on it",
+      "who": "Noah",
+      "date": "2026-08-07",
+      "status": "done",
+      "quotes": [
+        {"quote": "Thank you Sarah! I’ll let them know🫶", "who": "Nate (Noah)", "date": "2026-08-07"}
+      ]
+    }
+  ],
+  "payments": [
+    {
+      "note": "July 15th-31st invoice sent Aug 1 with 7-day terms (due ~Aug 8). Payment not yet made at week end, but the delay is on our side: the invoice had to be reissued at the agreed 30% (was billed at 35%) and the July 1st-15th overpayment credit was still unresolved on Aug 8.",
+      "date": "2026-08-01",
+      "late": false,
+      "reason": "Client is waiting on a corrected invoice / overpayment credit before paying the balance",
+      "suggested_fix": "Have Stephski confirm the agreed fee % and all standing deductions (30% fee, $100/week OFTV editor credit, shoot costs) against the contract before each invoice goes out, and reply to the overpayment credit request within 24h so payment isn't blocked.",
+      "quotes": [
+        {"quote": "Hi love! Hope you’re having an amazing weekend. Below is your invoice for the period of July 15th-31st. I've deducted your shoot costs aswell. If you could please shoot over payment within the next 7 days that would be amazing! Let me know if I can help you with anything 💘", "who": "Stephski", "date": "2026-08-01"},
+        {"quote": "Thanks! Derek has confirmed that my fees for the last month passed will be 30% (not 35%). Could you please send through and adjusted invoice & take into account the start of July too? Thanks", "who": "Sarah Lloyd", "date": "2026-08-04"}
+      ]
+    },
+    {
+      "note": "Pattern across history: Sarah pays promptly and even sends small test wires ($10, then $100) because our banking details changed twice (Mercury issues, then switch to Bank of America). Every invoice cycle so far has had some agency-side friction (bank changes, missing free-page statement, missing $100/week deduction, wrong fee %). Stephski herself acknowledged Sarah is a reliably on-time payer.",
+      "date": "2026-07-05",
+      "late": false,
+      "reason": null,
+      "suggested_fix": "Lock in stable banking details and a pre-send invoice checklist; her payment behavior is excellent, so all friction here is removable on our side.",
+      "quotes": [
+        {"quote": "Okay here we are! Want to let you know we have a new bank for you to send to (last change I promise!). Thank you for being patient with us while we handle things on our side and continuing to be on time with your invoice payments. We are now with Bank of America, and all the new wire/zelle information is located at the bottom of this PDF. Let me know if you have any questions 🙂", "who": "Stephski", "date": "2026-07-05"},
+        {"quote": "Thanks! I just sent $100 as a test, could you let me know once you get it then I will send the rest :)", "who": "Sarah Lloyd", "date": "2026-07-05"},
+        {"quote": "Paid! That’s in AUD :)", "who": "Sarah Lloyd", "date": "2026-06-22"}
+      ]
+    }
+  ],
+  "client_priorities": [
+    "Content freshness and variety in MMs/PPVs — she has deep content and hates seeing the same photos, videos and captions recycled daily",
+    "Only selling content from October 2025 onward unless a sub specifically asks (repeated since onboarding)",
+    "Careful handling of her whale/big spenders: fast replies, aftercare, morning messages, never sending BG to the wrong sub",
+    "Maximizing daily MM/sales volume — she notices revenue dips within hours and nudges immediately",
+    "Instagram/Facebook reach and account safety (traffic engine for the OF page) — currently her most anxious topic",
+    "Accurate invoices honoring agreed terms (30% fee, $100/week OFTV editor credit) — she checks every line",
+    "DMCA/leak takedowns with the weekly removal reports"
+  ],
+  "suggestions": [
+    "Resolve the July 1st-15th overpayment credit within 24 hours and confirm the final amount due so she can pay the Aug 1 invoice — she is a proven on-time payer being blocked by our corrections.",
+    "Add a pre-send invoice checklist (fee %, OFTV editor credit, shoot costs, prior-period corrections) so she never has to audit us again — this is the third consecutive invoice she has had to correct.",
+    "Give her a concrete plan and timeline on the Instagram reach collapse (20M to 4M profile views); Vivek's 'Wait i will explain' should turn into a written explanation within a day, with proactive weekly Meta status updates so she stops having to follow up.",
+    "Proactively send her a weekly MM/queue variety snapshot so the June-July repetition complaint doesn't resurface — she explicitly said the daily chasing made her 'feel lowkey crazy'.",
+    "Report results from the Aug 7 livestream push (sales during/after) — she gave the team notice and closing that loop reinforces that heads-ups pay off."
+  ],
+  "wins": [
+    "Corrected 30% invoice was reissued within hours of her request on Aug 4",
+    "Vivek diagnosed the Facebook issue (under watch until September) and delivered an update on Aug 8",
+    "Noah/chat team confirmed livestream support within 15 minutes of her Aug 7 heads-up",
+    "Weekly DMCA leak-removal reports have been delivered consistently (most recent Aug 1), which she loves",
+    "Client tone remains warm and collaborative — every request this week ended with a thank-you"
+  ],
+  "week_stats": {
+    "messages": 29,
+    "client_messages": 11,
+    "team_messages": 18
+  }
+}

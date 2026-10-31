@@ -1,0 +1,139 @@
+{
+  "client": "Vicky",
+  "slug": "vicky-x-altr",
+  "week_ending": "2026-08-08",
+  "summary": "A quiet, cooperative week. Vicky checked in (for the third time since June) on the long-promised replacement traffic; Derrek said it would be live within 48 hours of Aug 4, with no confirmation posted by week's end. The team sold a $1k custom plus Snapchat add and Vicky executed the snap add same day. The July 15-31 invoice went out Aug 1 and was nudged once on Aug 4, with no payment confirmed yet. Client mood was calm and agreeable, but she is clearly still waiting on marketing/traffic results.",
+  "health": {
+    "score": 70,
+    "trend": "new",
+    "rationale": "Cooperative and responsive this week, but traffic promised since mid-June still isn't confirmed live, the current invoice is unpaid, and older trust issues (chatter persona, unbriefed call sales) remain unresolved."
+  },
+  "reminders": [
+    {
+      "employee": "Derrek",
+      "topic": "Replacement traffic/marketing going live after she shut off her own SFS traffic",
+      "count": 3,
+      "first_date": "2026-06-28",
+      "last_date": "2026-08-04",
+      "days_outstanding": 41,
+      "quotes": [
+        {"quote": "Do you have other traffic ready?", "who": "Valerie", "date": "2026-06-28"},
+        {"quote": "Hello, is there any updates on marketing side?", "who": "Valerie", "date": "2026-07-27"},
+        {"quote": "Hey, how is it going with traffic, any news?", "who": "Valerie", "date": "2026-08-04"}
+      ]
+    }
+  ],
+  "complaints": [
+    {
+      "issue": "Promised replacement traffic still not live — Derrek said traffic would 'kick in by end of week one' (Jun 19) after she stopped her paid SFS traffic, and she is still asking for updates six weeks later",
+      "status": "recurring",
+      "first_raised": "2026-06-28",
+      "owner": "Derrek",
+      "quotes": [
+        {"quote": "So the page will not go yo 0 fans", "who": "Valerie", "date": "2026-06-28"},
+        {"quote": "Hey, how is it going with traffic, any news?", "who": "Valerie", "date": "2026-08-04"},
+        {"quote": "Setting everything up as we speak. Will be up and running in the next 48 hrs", "who": "Derrek", "date": "2026-08-04"}
+      ]
+    },
+    {
+      "issue": "Video calls / big tips sold to fans without briefing her on what was promised (Jake's $700 call from Jul 3 still undelivered; he resurfaced Aug 1 asking what the money was for)",
+      "status": "recurring",
+      "first_raised": "2026-07-03",
+      "owner": "Ollie Mckinlay",
+      "quotes": [
+        {"quote": "Can you please answer whats going on??😥", "who": "Valerie", "date": "2026-07-03"},
+        {"quote": "And also, if you’re selling calls, I need to have all  information beforehand. Otherwise , I’m not going to do the calls. 🙏🏻\nI need to know exactly what has been promised or what he requested before I get on the call.", "who": "Valerie", "date": "2026-07-09"},
+        {"quote": "And also Jake who sent tip for call asking me what we gonna do with that money", "who": "Valerie", "date": "2026-08-01"}
+      ]
+    },
+    {
+      "issue": "Chatters breaking her persona and eroding top-fan (whale) trust — mass DMs like 'are you single', aggressive tone with spenders; she asked for a whale list to send voice notes and for mass DMs to them to pause",
+      "status": "recurring",
+      "first_raised": "2026-06-26",
+      "owner": "Ollie Mckinlay",
+      "quotes": [
+        {"quote": "A lot of fans texted me and ask if its me talking on OF", "who": "Valerie", "date": "2026-06-26"},
+        {"quote": "Why chatters so aggressive?", "who": "Valerie", "date": "2026-07-06"},
+        {"quote": "Can you please send me list of Wales that doesn’t believe that it is me talking i will send them voice notes", "who": "Valerie", "date": "2026-07-01"}
+      ]
+    }
+  ],
+  "commitments": [
+    {
+      "what": "Get the new traffic/phone-farm setup live within 48 hours",
+      "who": "Derrek",
+      "date": "2026-08-04",
+      "status": "overdue",
+      "quotes": [
+        {"quote": "Setting everything up as we speak. Will be up and running in the next 48 hrs", "who": "Derrek", "date": "2026-08-04"}
+      ]
+    },
+    {
+      "what": "Create a whale list and stop sending them the organic mass messages (client also asked for the list so she can send voice notes — never visibly delivered)",
+      "who": "Ollie Mckinlay",
+      "date": "2026-06-30",
+      "status": "overdue",
+      "quotes": [
+        {"quote": "Okay thank you for this, I’ll create a list for whales and not send them the organic MM’s that everyone else receives", "who": "Ollie Mckinlay", "date": "2026-06-30"}
+      ]
+    },
+    {
+      "what": "Send her the new management-run IG handle once the warmed-up account starts posting",
+      "who": "Michelle",
+      "date": "2026-07-24",
+      "status": "pending",
+      "quotes": [
+        {"quote": "Hi love, the account is currently being warmed up and almost ready as soon as posting start I will send you IG handle 💕", "who": "Michelle Queue", "date": "2026-07-24"}
+      ]
+    }
+  ],
+  "payments": [
+    {
+      "note": "Invoice for July 15-31 sent Aug 1 with a 7-day payment request; Stephski nudged once on Aug 4; no payment confirmed in chat by Aug 8 (due date is roughly now — watch closely)",
+      "date": "2026-08-01",
+      "late": false,
+      "reason": null,
+      "suggested_fix": "Include the USDT TRC20 address and explicit due date on every invoice message so Vicky can pay immediately without a back-and-forth, and confirm receipt same day.",
+      "quotes": [
+        {"quote": "Hi love! Hope you’re having an amazing weekend. Below is your invoice for the period of July 15th-31st. If you could please shoot over payment within the next 7 days that would be amazing! Let me know if I can help you with anything 💘", "who": "Stephski", "date": "2026-08-01"},
+        {"quote": "Just pinging this incase you didnt see it 🙏", "who": "Stephski", "date": "2026-08-04"}
+      ]
+    },
+    {
+      "note": "Pattern: client pays in USDT TRC20 crypto and past invoices took 7-12 days with nudges. The first invoice (June 17-30) was delayed partly on our side — she asked for USDT TRC20 and was initially given a wrong (0x/ERC-style) address, then waited 2+ days for test-transaction confirmation.",
+      "date": "2026-07-13",
+      "late": true,
+      "reason": "Client requested crypto rails; team sent the wrong address first and was slow to confirm her test transaction",
+      "suggested_fix": "Keep a verified TRC20 address on file, respond to payment confirmations within hours, and send a reminder 2 days before due instead of after.",
+      "quotes": [
+        {"quote": "Hello, I asked USDT trc 20", "who": "Valerie", "date": "2026-07-06"},
+        {"quote": "Hello, can you please confirm that you responded test transaction 🙏🏻", "who": "Valerie", "date": "2026-07-09"},
+        {"quote": "Yes recieved, can you send rest", "who": "Stephski", "date": "2026-07-11"}
+      ]
+    }
+  ],
+  "client_priorities": [
+    "Protecting trust with her top fans/whales — persona consistency, voice notes, no aggressive or off-brand chatting",
+    "Being fully briefed before any call/custom is sold (fan, amount, duration, exactly what was promised)",
+    "Replacement traffic and social growth actually going live so her pages don't shrink after she stopped SFS",
+    "Account access and security — infloww access, timely password changes, knowing who controls her logins",
+    "Smooth crypto payments (USDT TRC20) and keeping all her content organized in her own Google Drive"
+  ],
+  "suggestions": [
+    "Post proof that the new traffic is live (Derrek's 48-hour promise from Aug 4 lapsed with no update) and share first metrics proactively each week",
+    "Adopt a standard 'sale brief' template for every call/custom sold: fan name, amount, duration, exact promises — she has said she won't do calls without it",
+    "Close out Jake's $700 call: schedule it right after her travel (~Aug 11) or refund, and tell her the plan",
+    "Deliver the whale list promised Jun 30 and set a voice-note cadence for top spenders to rebuild fan trust",
+    "Confirm receipt of the July 15-31 invoice payment same day it lands and pre-share the TRC20 address with every invoice"
+  ],
+  "wins": [
+    "Team sold a $1k custom plus paid Snapchat add on Aug 4-5, with a fan flagged as strong repeat-custom potential",
+    "Vicky completed the Snapchat add same day she was asked ('Done', Aug 5) — fast, cooperative turnaround",
+    "Client reacted positively to the traffic update ('Great') — she is still engaged and giving the team runway"
+  ],
+  "week_stats": {
+    "messages": 21,
+    "client_messages": 7,
+    "team_messages": 14
+  }
+}

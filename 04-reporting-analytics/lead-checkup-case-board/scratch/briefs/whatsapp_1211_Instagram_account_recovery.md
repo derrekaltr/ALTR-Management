@@ -1,0 +1,46 @@
+# Instagram account recovery  [whatsapp #1211 GROUP]
+msgs=37 (in=27 out=10) window=2026-05-27..2026-07-03
+last_client=2026-07-03 (77d ago), last_derrek=2026-06-15 (95d ago)
+LAST MESSAGE FROM CLIENT — UNANSWERED: 'Yo'
+
+  ...
+[2026-05-27 19:08] 146291048902867@lid: {"auto_add_disabled":true,"context_group":null,"parent_group_name":null,"is_parent_group_general_chat":false,"is_initially_empty":false,"subject":"Instagram account recovery","is_hidden_sub_group":false,"author":"146291048902867@lid","is_open_group":true,"reas…
+[2026-05-27 19:08] 120363407723392848@g.us: 146291048902867@lid
+[2026-05-27 19:12] 146291048902867@lid: Jay this is Derek he’ll be able to help with the account in instagram
+[2026-05-27 19:25] DEREK: Hey I’ll reach out in a sec finishing some meetings
+[2026-05-27 19:28] 187162528108713@lid: Hi Derek. Just got off a flight. Hit me up when your free
+[2026-05-27 23:18] DEREK: I’m free
+[2026-05-28 07:42] 187162528108713@lid: Was asleep by then. I’m in Ireland. What time zone are you in?
+[2026-05-29 02:06] 197405874085999@lid: 15618011087@s.whatsapp.net
+[2026-05-29 02:06] DEREK: Added my partner Kartik in here
+[2026-05-29 02:07] DEREK: I need: @: Email: Take a screenshot when you login and click “read more about this rule” A Screenshot of the email you received if you got one when it went down Follower Count:
+[2026-05-29 02:07] DEREK: Will need this to get you a quote
+[2026-05-29 02:26] 197405874085999@lid: Nice to meet everyone!
+[2026-05-29 02:28] 187162528108713@lid: Will do
+[2026-05-29 12:42] 187162528108713@lid: My IG wasn’t banned
+[2026-05-29 12:42] 187162528108713@lid: It’s just been hacked it seems
+[2026-05-29 12:42] 187162528108713@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363407723392848@g.us/c/1/c170d103-34eb-408e-b95b-dd8c419957b2.jpg>
+[2026-05-29 12:42] 187162528108713@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363407723392848@g.us/8/a/8a6317e0-ac45-48da-a823-411de16c73ba.jpg>
+[2026-05-29 12:42] 187162528108713@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363407723392848@g.us/6/b/6b65e54d-287e-448b-bee2-099bd3143e57.jpg>
+[2026-05-29 12:43] 187162528108713@lid: I don’t know the email ja@me.com
+[2026-05-29 18:25] 197405874085999@lid: So this is hacked?
+[2026-05-29 18:25] 187162528108713@lid: Not sure to be honest
+[2026-05-29 18:30] 197405874085999@lid: What’s the goal here brother so i know
+[2026-05-29 19:23] DEREK: Can you not login?
+[2026-06-01 18:37] 197405874085999@lid: send links of all accounts you wish to submit please price is 2.8k submitting rn
+[2026-06-02 04:41] DEREK: yo yo
+[2026-06-02 19:15] 197405874085999@lid: ??
+[2026-06-06 11:00] 197405874085999@lid: Rep available 6k instant. Lmk if you want to move forward send payment to Derrek. Needs to be with MM to proceed
+[2026-06-06 14:36] 197405874085999@lid: More reps coming in market Updated price 4.5k
+[2026-06-11 06:04] 197405874085999@lid: hey brother
+[2026-06-12 14:15] DEREK: Hey I see they still havent been recovered. We have another option available for a more cost effective price, but the timeframe is 7-10 days. Price is around 3k
+[2026-06-13 12:56] 187162528108713@lid: 3k usd?
+[2026-06-13 12:56] 187162528108713@lid: I don’t really care about the account that much to be honest
+[2026-06-13 12:56] 187162528108713@lid: Been bliss being off it the last few months 😂
+[2026-06-15 23:36] DEREK: Hahah I feel that
+[2026-06-15 23:36] DEREK: Yeah, sorry prices are crazy right now cause unbans have been down
+[2026-06-15 23:39] 197405874085999@lid: Hey
+[2026-07-03 18:45] 197405874085999@lid: Yo

@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
+<title>Stephski — Weekly Summary 2026-08-08</title>
+<style>
+:root {
+  color-scheme: light;
+  --page: #f9f9f7; --surface: #fcfcfb;
+  --ink: #0b0b0b; --ink-2: #52514e; --muted: #898781;
+  --grid: #e1e0d9; --baseline: #c3c2b7; --ring: rgba(11,11,11,0.10);
+  --series-1: #2a78d6;
+  --good: #0ca30c; --warning: #fab219; --serious: #ec835a;
+  --delta-good: #006300;
+  --good-bg: rgba(12,163,12,.10); --warning-bg: rgba(250,178,25,.14); --serious-bg: rgba(236,131,90,.14);
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: dark;
+    --page: #0d0d0d; --surface: #1a1a19;
+    --ink: #ffffff; --ink-2: #c3c2b7; --grid: #2c2c2a; --baseline: #383835;
+    --ring: rgba(255,255,255,0.10); --series-1: #3987e5; --delta-good: #0ca30c;
+  }
+}
+@media print { :root { color-scheme: light; --page: #ffffff; --surface: #ffffff; } }
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--page); color: var(--ink); font: 15px/1.55 system-ui, -apple-system, "Segoe UI", sans-serif; }
+.wrap { max-width: 760px; margin: 0 auto; padding: 32px 24px 64px; }
+.card { background: var(--surface); border: 1px solid var(--ring); border-radius: 12px; padding: 24px 26px; }
+h1 { font-size: 21px; margin: 0; display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+.sub { color: var(--ink-2); margin: 2px 0 16px; }
+.badge { display: inline-flex; align-items: center; gap: 5px; font-size: 12.5px; font-weight: 600; padding: 2px 9px; border-radius: 999px; border: 1px solid var(--ring); }
+.badge.good { background: var(--good-bg); } .badge.warning { background: var(--warning-bg); } .badge.serious { background: var(--serious-bg); }
+.dot { width: 8px; height: 8px; border-radius: 50%; display: inline-block; }
+.dot.good { background: var(--good); } .dot.warning { background: var(--warning); } .dot.serious { background: var(--serious); }
+.pill { font-size: 12px; border: 1px solid var(--ring); border-radius: 999px; padding: 1px 8px; color: var(--ink-2); }
+h2 { font-size: 13px; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); margin: 22px 0 8px; }
+table { width: 100%; border-collapse: collapse; font-size: 13.5px; }
+th { text-align: left; color: var(--muted); font-weight: 600; font-size: 12px; padding: 4px 8px 4px 0; border-bottom: 1px solid var(--grid); }
+td { padding: 6px 8px 6px 0; border-bottom: 1px solid var(--grid); vertical-align: top; font-variant-numeric: tabular-nums; }
+ul { margin: 0; padding-left: 20px; } li { margin: 5px 0; }
+.strength::marker { content: "✓  "; } .strength { color: var(--ink-2); }
+.flag::marker { content: "⚠  "; } .flag { color: var(--ink-2); }
+blockquote { margin: 8px 0 0; padding: 6px 12px; border-left: 3px solid var(--baseline); color: var(--ink-2); font-size: 13.5px; }
+.q-meta { color: var(--muted); font-size: 12px; }
+footer { color: var(--muted); font-size: 12.5px; margin-top: 20px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+<div class="card">
+  <h1>Stephski
+    <span class="pill">Invoicing</span>
+    
+    <span class="badge serious"><span class="dot serious"></span>11 open items</span>
+  </h1>
+  <div class="sub">ALTR weekly summary · week ending 2026-08-08</div>
+
+  <p>Payment rails and invoice accuracy were this week&#39;s friction: two clients tried to pay and couldn&#39;t (Zelle email not recognized), Sarah Lloyd&#39;s invoice needed its third consecutive correction, Mila&#39;s &#39;did you get it?&#39; went unanswered, Alex Paige Moore has an unclosed $1,989 ledger dispute, and Chey Mai&#39;s PayPal question is 26 days old. None of these clients are bad payers — the friction is on our side. Hannah (churned) needs collections escalation, not more chat nudges.</p>
+
+  
+  <h2>By client</h2>
+  <table>
+    <thead><tr><th>Client</th><th>Reminders</th><th>Complaints</th><th>Commitments</th><th>Notes</th></tr></thead>
+    <tbody>
+    
+      <tr><td>Lauryn</td><td>2</td><td>1</td>
+          <td>0 kept</td>
+          <td style="font-size:12.5px">Client actively trying to pay; Zelle email not working, no reply by week end</td></tr>
+    
+      <tr><td>Barbara</td><td>0</td><td>1</td>
+          <td>1 kept</td>
+          <td style="font-size:12.5px">Same Zelle failure; payment-request receipt still unconfirmed</td></tr>
+    
+      <tr><td>Sarah Lloyd</td><td>2</td><td>1</td>
+          <td>1 kept / 1 overdue</td>
+          <td style="font-size:12.5px">35% vs 30% billing error (3rd invoice needing correction); overpayment credit unanswered</td></tr>
+    
+      <tr><td>Mila</td><td>3</td><td>0</td>
+          <td>0 kept</td>
+          <td style="font-size:12.5px">Payment-received confirmation + duplicate check still owed</td></tr>
+    
+      <tr><td>Sarah</td><td>0</td><td>0</td>
+          <td>1 kept</td>
+          <td style="font-size:12.5px">Clean cycle, paid without chasing</td></tr>
+    
+      <tr><td>Vale</td><td>0</td><td>0</td>
+          <td>1 kept</td>
+          <td style="font-size:12.5px">Invoice + $5,720 referral credit handled cleanly — but nudged an invoice she&#39;d already paid (Aug 4)</td></tr>
+    
+      <tr><td>Shayna</td><td>0</td><td>0</td>
+          <td>1 kept</td>
+          <td style="font-size:12.5px">Fastest payment in the book — issued Aug 1, paid Aug 2, receipt confirmed</td></tr>
+    
+      <tr><td>Alex Paige Moore</td><td>5</td><td>1</td>
+          <td>0 kept</td>
+          <td style="font-size:12.5px">$1,989 reconciliation dispute unclosed before the chat went silent; client chased payment links 5x in July</td></tr>
+    
+      <tr><td>Chey Mai</td><td>0</td><td>0</td>
+          <td>0 kept / 1 overdue</td>
+          <td style="font-size:12.5px">&#39;Let me check on that for you&#39; re: PayPal — 26 days unanswered; Aug 8 invoice due with no reminder sent</td></tr>
+    
+      <tr><td>Hannah</td><td>0</td><td>0</td>
+          <td>0 kept</td>
+          <td style="font-size:12.5px">Churned client; final invoice blocked a month on her statements — escalate to Derrek/collections</td></tr>
+    
+      <tr><td>Paige</td><td>0</td><td>0</td>
+          <td>1 kept</td>
+          <td style="font-size:12.5px">Clean cycle; client paid unprompted in 3 days — confirm the wire landed</td></tr>
+    
+    </tbody>
+  </table>
+  
+
+  
+  <h2>What went well</h2>
+  <ul><li class="strength">Reissued Sarah Lloyd&#39;s corrected invoice same day; Sarah, Vale and Shayna cycles were clean end-to-end</li></ul>
+  
+
+  
+  <h2>Focus areas this week</h2>
+  <ul><li class="flag">The Zelle rail is broken for at least 2 clients (Lauryn, Barbara) — clients are chasing US to take their money; verify and publish one working payment-details block</li><li class="flag">Recurring invoice errors (wrong fee %, wrong totals, unapplied credits) across Sarah Lloyd and Amber Haze — a pre-send checklist (fee %, credits, prior corrections) would stop clients auditing us</li><li class="flag">Payment confirmations lag: acknowledge receipt within 24h (Mila asked 3 times)</li><li class="flag">Check payment status before chasing: nudged already-paid invoices for Vale and Liza (crypto side-channel) — a paid-log shared with Derrek would stop phantom chases</li></ul>
+  
+
+  
+  <blockquote>“That Zelle email isn&#39;t working” <span class="q-meta">— Lauryn, 2026-08-07</span></blockquote>
+  
+</div>
+<footer>Generated by ALTR client-chat reporting · confidential — for Stephski and management.</footer>
+</div>
+</body>
+</html>

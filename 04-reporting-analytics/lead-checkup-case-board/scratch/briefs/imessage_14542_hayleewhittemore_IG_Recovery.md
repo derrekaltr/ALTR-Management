@@ -1,0 +1,59 @@
+# @hayleewhittemore IG Recovery  [imessage #14542 GROUP]
+msgs=54 (in=42 out=12) window=2026-08-11..2026-08-12
+last_client=2026-08-12 (37d ago), last_derrek=2026-08-12 (37d ago)
+LAST MESSAGE from Derrek: 'Of course!'
+
+  ...
+[2026-08-11 18:18] Elliott Dermond: Hey Haylee, this is the guy who’s gonna help us get your Instagram back. Absolutely amazing Guy and so grateful to have his help. This is Haylee. Let her know whatever you need from her and we will be happy to provide.
+[2026-08-11 18:32] DEREK: Hi
+[2026-08-11 18:33] Haylee Whittemore: Thank you so much for your help! I really appreciate everything you are doing.
+[2026-08-11 18:39] DEREK: Of course
+[2026-08-11 18:39] DEREK: hayleewhittemore Imissfluffer1! This is username and password as well
+[2026-08-11 18:39] DEREK: Vivek this is a non-appeal case
+[2026-08-11 18:41] DEREK: Let’s go ahead and get it started
+[2026-08-11 18:42] Haylee Whittemore: Loved “Let’s go ahead and get it started”
+[2026-08-11 18:42] Haylee Whittemore: Thank you!
+[2026-08-11 18:42] DEREK: Also guys, I lost some of my contacts because I didn’t have a recent backup. Could you remind me both of your names
+[2026-08-11 18:42] Elliott Dermond: Elliott Dermond
+[2026-08-11 18:43] Haylee Whittemore: Haylee Whittemore
+  ...
+[2026-08-12 02:44] Vivek Unban: Can you share Login screenshot
+[2026-08-12 02:45] Haylee Whittemore: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/f0/00/at_0_9932258F-B6ED-4116-BED7-92C96DE4AB62/IMG_4970.png>
+[2026-08-12 02:47] Vivek Unban: hayleewhittemore Imissfluffer1!
+[2026-08-12 02:47] Haylee Whittemore: ￼￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/d5/05/at_0_CEEFEE6B-132C-4190-A882-06D6171B7B20/IMG_4971.png>
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/d6/06/at_1_CEEFEE6B-132C-4190-A882-06D6171B7B20/IMG_4972.png>
+[2026-08-12 02:47] Haylee Whittemore: Yes correct
+[2026-08-12 02:47] Vivek Unban: Login code
+[2026-08-12 02:48] Vivek Unban: Check your WhatsApp
+[2026-08-12 02:49] Vivek Unban: Received any login code?
+[2026-08-12 02:50] Haylee Whittemore: i just had to make a whatsapp and i haven’t received anything
+[2026-08-12 02:50] Vivek Unban: Hold on
+[2026-08-12 02:50] Vivek Unban: Check text messages
+[2026-08-12 02:50] Haylee Whittemore: 404931
+[2026-08-12 02:50] Vivek Unban: Received any text message?
+[2026-08-12 02:50] Haylee Whittemore: Here it is!
+[2026-08-12 02:51] Vivek Unban: Thank you sir
+[2026-08-12 02:51] Vivek Unban: I need one more login code
+[2026-08-12 02:51] Vivek Unban: Sending just give me a minute
+[2026-08-12 02:52] Haylee Whittemore: Sounds good, thank you
+[2026-08-12 02:53] Vivek Unban: Check text messages
+[2026-08-12 02:53] Haylee Whittemore: 124671
+[2026-08-12 02:54] Haylee Whittemore: Here it is!
+[2026-08-12 02:57] Vivek Unban: Hey bro
+[2026-08-12 02:57] Vivek Unban: Need one selfie
+[2026-08-12 02:57] Vivek Unban: And photo of your passport
+[2026-08-12 02:57] Haylee Whittemore: ￼￼￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/d4/04/at_0_49B1ADD1-9422-40B1-A3F2-A66EBA67E168/C1E21E33-6D86-4BB1-BB88-3D2CB3192FC3.JPG>
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/d5/05/at_1_49B1ADD1-9422-40B1-A3F2-A66EBA67E168/IMG_4947.heic>
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/d6/06/at_2_49B1ADD1-9422-40B1-A3F2-A66EBA67E168/IMG_4948.heic>
+[2026-08-12 03:08] Vivek Unban: Unbanned
+[2026-08-12 03:08] Vivek Unban: 🫡🫡🫡
+[2026-08-12 03:08] Vivek Unban: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/d9/09/at_0_4771E328-A28A-416C-A3ED-4E160EFAE246/80819691929__9E305051-4BB1-4838-8373-127BBCC57B8F.heic>
+[2026-08-12 03:08] Vivek Unban: Derrek done
+[2026-08-12 03:09] Haylee Whittemore: Thank you SO MUCH! Thank you thank you! You guys are the BEST!
+[2026-08-12 03:09] Vivek Unban: Loved “Thank you SO MUCH! Thank you thank you! You guys are the BEST!”
+[2026-08-12 03:29] DEREK: Loved “Thank you SO MUCH! Thank you thank you! You guys are the BEST!”
+[2026-08-12 03:29] DEREK: Of course!

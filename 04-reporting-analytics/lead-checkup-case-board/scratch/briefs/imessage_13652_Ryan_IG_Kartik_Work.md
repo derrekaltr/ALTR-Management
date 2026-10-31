@@ -1,0 +1,43 @@
+# Ryan IG, Kartik Work  [imessage #13652 GROUP]
+msgs=37 (in=34 out=3) window=2026-05-31..2026-07-29
+last_client=2026-07-29 (51d ago), last_derrek=2026-07-29 (51d ago)
+LAST MESSAGE FROM CLIENT — UNANSWERED: 'Just to add to what Derrek said, I’m done with social media recoveries as well. I won’t be taking on any pending or future recovery cases. If you still need these services, you’ll have to find another…'
+
+  ...
+[2026-05-31 23:20] DEREK: Yo ryan! This is Kartik. I’m connecting you directly to my rep. Let him know what you need.
+[2026-05-31 23:22] Kartik Sighroha: Hey 👋
+[2026-05-31 23:22] Ryan IG: Is it Kartik from Miami?
+[2026-05-31 23:23] Kartik Sighroha: Yooo
+[2026-05-31 23:23] Kartik Sighroha: Yes
+[2026-05-31 23:24] Kartik Sighroha: Long time bro how are you haha
+[2026-05-31 23:24] Ryan IG: Haha it’s Ryan from tree house content crib we used to own
+[2026-05-31 23:24] Kartik Sighroha: SGO house right?
+[2026-05-31 23:24] Kartik Sighroha: Ik
+[2026-05-31 23:24] Ryan IG: What’s good g!
+[2026-05-31 23:24] Ryan IG: Yes sir
+[2026-05-31 23:24] Kartik Sighroha: Good brotha and u
+[2026-05-31 23:26] Ryan IG: Been chillin bro! Been mad busy with my page but I have another weed page that’s been disabled since 2024 and I can still log into so It’s not permed but never tried to actually get it back
+[2026-05-31 23:26] Kartik Sighroha: Let’s take a look
+[2026-05-31 23:26] Kartik Sighroha: Send me a screenshot
+[2026-05-31 23:26] Ryan IG: But unbans have been working again I know they weren’t for a little bit
+[2026-05-31 23:27] Kartik Sighroha: Yes meta fired alot of reps on may 20th and disabled the tools to unban for some time but it’s back now
+[2026-05-31 23:28] Ryan IG: Yea that’s what I heard wild but yea here let me find the info I also have 2 other people disabled rn I’m working with the flowery the dispensary out there they need there Florida and new York one back to
+[2026-05-31 23:28] Kartik Sighroha: Liked “Yea that’s what I heard wild but yea here let me find the info I also have 2 other people disabled rn I’m working with the flowery the dispensary out there they need there Florida and new York one back to”
+[2026-05-31 23:28] Kartik Sighroha: Sounds good brother
+[2026-05-31 23:28] Kartik Sighroha: Lmk
+[2026-06-01 18:40] Kartik Sighroha: Submitting cases send link of account
+[2026-06-01 18:40] Kartik Sighroha: 2.8k
+[2026-06-06 11:02] Kartik Sighroha: Rep available 6k instant. Lmk if you want to move forward send payment to Derrek. Needs to be with MM to proceed For permanently disabled accounts
+[2026-06-06 14:39] Kartik Sighroha: More reps coming in market Updated price 4.5k
+[2026-06-06 16:24] Ryan IG: It’s not permed
+[2026-06-06 16:24] Ryan IG: And I have 2 integrity bans also
+[2026-06-06 16:24] Kartik Sighroha: Send
+[2026-06-06 16:24] Kartik Sighroha: 2.5k
+[2026-06-07 09:43] Kartik Sighroha: hey brother rep is in office let me know if we still need this done, reps come for few days and then disappear for weeks or months. let me know if our services are still needed thanks
+[2026-06-07 13:39] Kartik Sighroha: I can get a better price now if youre still interested, i submitted alot of cases so can lookout for oyu
+[2026-06-22 16:19] Kartik Sighroha: REP IN OFFICE, let us know if you need help with anything Ig related thanks
+[2026-07-11 10:34] Kartik Work: Hey current price is 4k let us know if any accounts are banned
+[2026-07-11 16:24] Ryan IG: Forsure I found a little method how to bring back some pages myself rn working on that but if it stops working I’ll let ya know if I need some !
+[2026-07-11 18:31] DEREK: Loved “Forsure I found a little method how to bring back some pages myself rn working on that but if it stops working I’ll let ya know if I need some !”
+[2026-07-29 20:58] DEREK: Hey, just wanted to give a quick update. I’ve parted ways with Kartik for the social media recoveries. He’s still going to be working on them, so if you have a pending case that’s owed or any future cases, feel free to send to him. Just wanna clarify moving fo…
+[2026-07-29 22:35] Kartik Work: Just to add to what Derrek said, I’m done with social media recoveries as well. I won’t be taking on any pending or future recovery cases. If you still need these services, you’ll have to find another provider. Thanks everyone.

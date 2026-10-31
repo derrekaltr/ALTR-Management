@@ -1,0 +1,120 @@
+{
+  "client": "Sarah",
+  "slug": "sarah-x-altr",
+  "status": "at_risk",
+  "status_reason": "Still at risk, but the trend moved a little from 'pre-churn' toward 're-engaging'. What changed since 2026-09-25: (1) she went quiet for 10.9 days (09-20 to 10-01), her longest silence on record. Nobody on our side checked in. The only things we sent her were a templated DMCA screenshot, an intake-form link and a list of reel links. (2) She came back on her own with a forward-looking ask ('could we have a call soon to go over new content strategies'). That is a good sign, but we answered it with a relay tag ('Mica Derrek') and took 5.5 days to reply with substance. We never offered a fixed time, and the call had still not happened when the export ends (10-07). (3) Some good news: the weekly DMCA breakdown came back (Melissa, 09-25 and 10-02), and the Sep 15-30 invoice went out on time with the referral deduction shown. (4) Not fixed: her ~530k main IG is now 61 days down with no written status from us. Her 10-06 mention of a 'new ig name' is the first sign it was replaced, and we have not said a word about it. Derrek has been silent to her for 21 days despite being tagged on 10-01. She made 11 messages and 3 asks in the window, still pays, still signs off 'x'.",
+  "last_client_message": "2026-10-07",
+  "dimensions": {
+    "responsiveness": {
+      "severity": 2,
+      "internal_failure": "Our first touch is fast (median 43 min to her questions) but it is usually a relay tag, not an answer. Her one strategic ask in two weeks got 'Mica Derrek' in 6 minutes, then 5.5 days of nothing, and the questions that cost her money (chargeback, earnings drop) are still the ones we let sit.",
+      "evidence": [
+        {"quote": "Hey Mica! Do you think we could have a call soon to go over new content strategies ect? X  → 'Mica Derrek' (Mayson, 6 min later) → 'yes of course! are you free later today or tomorrow? 🤍' (Mica, 10-06 15:46, 5d13h later)", "who": "Sarah H / Mayson Chat / Mica Vecco", "date": "2026-10-01"},
+        {"quote": "Hiiii I really don't want this one back charged😁 (chargeback screenshot) → 'damn OF Is on their shit' → nothing since, 21 days", "who": "Sarah H / Derrek", "date": "2026-09-18"},
+        {"quote": "Hey liv I'm so sorry it's still not working o think you may have to change the settings in the folder to editor so I can add videos in xx (no reply by export end)", "who": "Sarah H", "date": "2026-10-07"}
+      ]
+    },
+    "follow_through": {
+      "severity": 3,
+      "internal_failure": "We restarted one recurring promise (the DMCA weekly) but closed none of the ~17 lapsed items. We also took on new ones ('On it right now!', the strategy call) and confirmed neither one in writing. This is now the fifth reporting period in a row where no carried item was closed.",
+      "evidence": [
+        {"quote": "Could you also please with leaks do my full name [surname redacted] and also my new ig name sarah Harvey? 😊 / Also I have a lot of leaked videos under Sarah.h44 → 'On it right now !' → no confirmation in the following 3+ days", "who": "Sarah H / Mayson Chat", "date": "2026-10-06"},
+        {"quote": "Thank you for your understanding, we will have plenty of updates starting next week. (Phone Farm rollout — now 69 days, zero updates)", "who": "Derrek", "date": "2026-08-01"},
+        {"quote": "Thoughts on me starting up a Fansly page also, do you guys run that? X → 'Let me check on this & get back to you! 🙏' (195 days, never answered)", "who": "Sarah H / Eric The Efficient", "date": "2026-03-28"}
+      ]
+    },
+    "proactive_communication": {
+      "severity": 2,
+      "internal_failure": "Down from 3 to 2. We now send things without being asked again: the DMCA weekly (back for 2 weeks), reel inspo and an intake form. But all of it is a template or a link list. Nothing personal reached her during her record 10.9-day silence, and she has had no account-specific performance report for 358 days.",
+      "evidence": [
+        {"quote": "Hey Sarah! Here's your weekly update on the leak removal breakdown for the past 7 days 🤍 (DMCA cadence restored 09-25 and 10-02 after missing 09-15 and 09-22)", "who": "Melissa Userfacing", "date": "2026-10-02"},
+        {"quote": "hi Sarah! here's your reel inspo for the week 💕 (link list only; with the DMCA screenshot and an intake-form link, this was the only ALTR contact during her 10.9-day silence)", "who": "Mica Vecco", "date": "2026-09-29"},
+        {"quote": "30 days before you came on with ALTR / just about to hit 30 days with ALTR / my jaw is on the flooorrr (still the last account-specific performance report she has been sent)", "who": "Sophie Logan (Raw Agency)", "date": "2025-10-16"}
+      ]
+    },
+    "onboarding_handoff": {
+      "severity": 2,
+      "internal_failure": "After week 1 nobody ever posted a 'who to contact for what' map. A new user-facing person (Melissa) was added on 09-25 without being introduced. We asked her to fill in yet another intake form, which repeats info she has already given us. Her Drive folder still doesn't let her upload.",
+      "evidence": [
+        {"quote": "we're centralizing everything onto our new private platform so the team's all on the same page… can you please fill out this intake so we (and whoever's on your chats) really understand you and rep you properly? (intake link withheld) — sent 3 days after an unannounced member was added", "who": "Melissa Userfacing", "date": "2026-09-28"},
+        {"quote": "Hi babe, added Raw folders to OFTV drive folder → 'it's still not working… change the settings in the folder to editor' (10-07)", "who": "Olivia / Sarah H", "date": "2026-10-06"},
+        {"quote": "My names Sophie, I'm the Client Relations Manager here at ALTR! I work with you on a day to day basis… (gone since 2026-05, never replaced or announced)", "who": "Sophie Logan (Raw Agency)", "date": "2025-09-16"}
+      ]
+    },
+    "chatter_conduct": {
+      "severity": 3,
+      "internal_failure": "No new incidents this window, and nobody has told her the earlier ones were fixed. We sold customs that break limits she set in writing, and put an AI voice clone she rejected on a free page fed by her OFTV audience. 41 days later nobody has told her in writing whether the clone is still live.",
+      "evidence": [
+        {"quote": "I also wanted to let you know that I don't want to do anymore type of pussy play in customs ect using fingers or toys… I would prefer to not do it please! → 'Got it I will let the team know right now.'", "who": "Sarah H / Nate (Noah)", "date": "2026-01-19"},
+        {"quote": "Also I'm not comfortable doing Anthony's custom, is there something else I could do instead? (against an already-paid custom batch)", "who": "Sarah H", "date": "2026-07-20"},
+        {"quote": "Maybe you shouldn't use the voice for me … that account is all traffic from my OFTV so people definitely will know what I actually sound like → 'I'll try to fix it if possible' (Olivia) → no written status since", "who": "Sarah H / Olivia", "date": "2026-08-29"}
+      ]
+    },
+    "platform_health": {
+      "severity": 3,
+      "internal_failure": "Her ~530k main IG has been down 61 days with not one written status sentence from us (9th window in a row). She is now talking about a 'new ig name' that we never announced, confirmed or verified in the chat. Two backup accounts have been down 64 days, and the work is still hidden in a DM between her and Vivek.",
+      "evidence": [
+        {"quote": "also my new ig name sarah Harvey? 😊 / Also I have a lot of leaked videos under Sarah.h44 (first sign the main was renamed or replaced; nobody on our side has written a word about it)", "who": "Sarah H", "date": "2026-10-06"},
+        {"quote": "Yo Ma'am check dm (last written word from the Meta rep about her main; nothing in-group since, 25 days)", "who": "Vivek", "date": "2026-09-14"},
+        {"quote": "Sarah hi ma'am send the password for suspended account (singular and unnamed; both backups still down)", "who": "Vivek", "date": "2026-09-02"}
+      ]
+    },
+    "billing_ops": {
+      "severity": 2,
+      "internal_failure": "Down from 3 to 2. The Sep 15-30 invoice went out on time with the referral deduction shown, and receipt was confirmed the next day. Still open: we never named which account received her money after the 09-15 payee/rail change, the banking details are still not pinned, and the chargeback has been unanswered for 21 days.",
+      "evidence": [
+        {"quote": "Good afternoon queen! Here is your invoice for September 15-30th ❤️ Let me know if you need anything / referral deduction (photo) → 'Thank you so much queen!' (10-02, receipt confirmed in <17h)", "who": "Stephski", "date": "2026-10-01"},
+        {"quote": "Please note a slight name change to the account, but the same account and wire info. … It is very important that you send to this Bank of America account instead of the Chase (two conflicting instructions 1 minute apart, never pinned)", "who": "Stephski", "date": "2026-09-15"},
+        {"quote": "Hey Steph the amount you've invoiced me for is wrong. It should be about 17.5 🫶🏻 (third ALTR billing error in four months)", "who": "Sarah H", "date": "2026-08-22"}
+      ]
+    },
+    "ownership_escalation": {
+      "severity": 3,
+      "internal_failure": "When she asks something, our default is still to tag a colleague instead of owning it. Her strategy-call request was handed to two names with no owner. Derrek has been silent to her for 21 days after being tagged. Nobody covering Perth hours has been named, so even scheduling one call has dragged on for 6 days.",
+      "evidence": [
+        {"quote": "Mica Derrek (the entire reply to her call request)", "who": "Mayson Chat", "date": "2026-10-01"},
+        {"quote": "hi love! let me know when you wake up:) we have a bit of a time difference → 'I'm awake now however I have a really really busy day today so maybe we can push it to tomorrow? X' → 'no problem! let me know when you're up tomorrow 💕' (no fixed time ever proposed)", "who": "Mica Vecco / Sarah H", "date": "2026-10-07"},
+        {"quote": "Hey Ive added Vivek in here ( @fonta ). He is our Meta Support Rep… simply @ him in the chat and he will help. (72 days later her main is still unaccounted for in writing)", "who": "Derrek", "date": "2026-07-29"}
+      ]
+    },
+    "disengagement_detection": {
+      "severity": 3,
+      "internal_failure": "She set a new longest-silence record (10.9 days, right after the window where she asked us for nothing) and nobody on our side noticed or checked in. She came back on her own. Her asking for a strategy call is the exact moment to win her back, and we let it slip for 6+ days.",
+      "evidence": [
+        {"quote": "Also the guy in my vids is in the release form section under Justin. Thanks heaps x (start of her record 10.9-day silence; release form never acknowledged)", "who": "Sarah H", "date": "2026-09-20"},
+        {"quote": "Hey Sarah, we're centralizing everything onto our new private platform… can you please fill out this intake (the only non-template, non-link message we sent during her silence was a request TO her)", "who": "Melissa Userfacing", "date": "2026-09-28"},
+        {"quote": "Hey guys!! I'm not trying to be that annoying hassling client but why have I gone down to 3k days😭 what's happened, what should I be doing to get back up? (her only performance complaint; 62 days with no written plan)", "who": "Sarah H", "date": "2026-08-08"}
+      ]
+    },
+    "security_hygiene": {
+      "severity": 3,
+      "internal_failure": "Her main IG password, a 2FA code and her recovery email posted on 09-13/14 are still in the group's scrollback 26 days later. Nothing has been rotated. Another participant joined on 09-25, and she has now also posted her full legal name in the ~19-person group.",
+      "evidence": [
+        {"quote": "Send logins / Send desire name (asked in the open group; she complied within hours)", "who": "Vivek", "date": "2026-09-13"},
+        {"quote": "My login is / [REDACTED credential: IG username + password; a second password, a live 2FA code and her recovery email were posted the same day] — still in scrollback, none rotated", "who": "Sarah H", "date": "2026-09-14"},
+        {"quote": "Please do not send your backup codes to anyone, including our team. (broadcast three days after we asked her to do the opposite; scrollback never purged)", "who": "Mica Vecco", "date": "2026-09-17"}
+      ]
+    }
+  },
+  "metrics": {
+    "client_questions_total": 155,
+    "unanswered_over_24h": 16,
+    "max_team_silence_days": 8.99,
+    "promises_made": 36,
+    "promises_kept": 18,
+    "promises_lapsed": 16,
+    "method": "Script src/_tmp_sarah-x-altr.py over the full history 2025-09-16 → 2026-10-07 (1,873 rows: 1,041 client messages from 'Sarah H', 798 ALTR-side messages across 18 senders, 34 service events). Client side = client_aliases ['Sarah H']; everyone else who typed is our side. client_questions_total = client messages containing '?'. unanswered_over_24h = client questions with no ALTR-side message of any kind in the next 24h. This is a LOWER BOUND, because a relay tag counts as a reply (e.g. 'Mica Derrek' counted as answering her 10-01 call request, which got its real answer 5d13h later). Lag to first ALTR message: median 0.71h, mean 7.53h, p90 28.1h. max_team_silence_days = longest gap between consecutive ALTR-side messages (2026-03-19 → 03-28). The client's own longest silence is a NEW record of 10.94d (2026-09-20 → 10-01). Since the previous run: 11 client messages, 16 ALTR messages (~191 words) from 5 senders. Promises are hand-counted explicit commitments, carried from the 09-25 run (34/17/17) with these changes: the weekly DMCA breakdown flipped back to kept (resumed 09-25, 10-02). Added two new promises still pending, not yet lapsed: Mayson 'On it right now!' (leak keywords, 10-06) and Mica's strategy call (10-06). The 2 pending promises are counted in made but in neither kept nor lapsed."
+  },
+  "what_client_wanted": [
+    "A real strategy conversation about growth, not link dumps: 'Hey Mica! Do you think we could have a call soon to go over new content strategies ect? X' (2026-10-01). This follows her unanswered 'why have I gone down to 3k days😭 what's happened, what should I be doing to get back up?' (2026-08-08).",
+    "Leaks actually removed, including under her new identity: 'Could you also please with leaks do my full name … and also my new ig name sarah Harvey? 😊 / Also I have a lot of leaked videos under Sarah.h44' (2026-10-06). Earlier: 'I have sooo many and it makes me sick looking at them all😅😭' (2026-02-25).",
+    "Her Instagram protected and restored fast, with someone telling her the status: 'I just wish the turnover time for getting accounts back were quicker! 🤣😩' (2025-12-04). The main has been down 61 days with no written status.",
+    "Tools that let her deliver without friction, and her own numbers visible to her: 'you may have to change the settings in the folder to editor so I can add videos in xx' (2026-10-07); 'is there any chance of me being able to track my referrals?' (2026-09-16)."
+  ],
+  "what_worked": [
+    "Unprompted revenue numbers in week one: '10k+ in 36 hours so great start' (Noah, 2025-09-19) → 'I am absolutely in shock!! … Your chatting is INSANE!!'. Dated before/after screenshots (Sophie, 2025-10-16) → 'Girl it's INSANE😭😭😭😭😭'.",
+    "Reliable weekly DMCA reports. When the cadence ran she said so: 'Thanks heaps I've noticed a huge difference with leaks!' (2025-10-08). It resumed under Melissa on 09-25 and 10-02 and she replied 'Thankyou xx' (10-03). Keep it going, and add the new name keywords to it.",
+    "Clean, on-time invoicing with the referral deduction shown (Stephski, 2026-10-01) → 'Thankyou so much Steph! Xx' and payment the same day. That is the first billing touch in months without a dispute. Named people visibly owning things also built trust: Mica in Nov 2025 said 'I'm staying on it so will let you know of any more updates 🤍' → 'Thankyou so much for everything 🩷🩷'."
+  ],
+  "top_fix": "Give the account one named owner who covers Perth hours. That owner should turn every ask into a dated written answer in the group, never a relay tag or a DM. Start now: book her strategy call at a fixed time, and post a written recap covering the main IG (is 'sarah Harvey' the replacement? verified?), the earnings plan with numbers, the leak-keyword update and the chargeback. Her 10-01 call request after a record silence is the clearest win-back opening this account has had in two months. The same pattern that has failed her all year is now slowly wasting it: tag a colleague, wait for her to wake up, write nothing down."
+}

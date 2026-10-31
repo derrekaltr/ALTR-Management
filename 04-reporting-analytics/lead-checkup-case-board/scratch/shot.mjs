@@ -1,0 +1,10 @@
+import { chromium } from 'playwright';
+const b = await chromium.launch(); const pg = await b.newPage({viewport:{width:1440,height:1000}});
+await pg.goto('file:///Users/locklyjailbreak/conductor/workspaces/lead-check-up/dakar/ALTR_Case_Board_Dashboard.html');
+await pg.waitForTimeout(600);
+const errs=[]; pg.on('pageerror',e=>errs.push(String(e)));
+await pg.screenshot({path:'shot_overview.png'});
+const tabs = await pg.locator('nav button').all();
+await tabs[1].click(); await pg.waitForTimeout(400); await pg.screenshot({path:'shot_board.png'});
+await tabs[4].click(); await pg.waitForTimeout(400); await pg.screenshot({path:'shot_dep.png'});
+console.log('errors:', errs); await b.close();

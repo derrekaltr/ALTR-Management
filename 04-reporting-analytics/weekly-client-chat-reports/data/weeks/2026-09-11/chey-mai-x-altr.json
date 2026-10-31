@@ -1,0 +1,298 @@
+{
+  "client": "Chey Mai",
+  "slug": "chey-mai-x-altr",
+  "week_ending": "2026-09-11",
+  "summary": "Two messages in fourteen days, both ALTR-side, both internal, both on the same afternoon — and between them they say this client is gone. On 2026-09-05 Stephski wrote in the DMCA topic '@sotom225 shes not with us anymore' and Michelle ([REDACTED-RECOVERY-EMAIL]) replied 'yes we removed already'. That is the entire window. Nobody has addressed Cheyene herself since Stephski's payment chase on 2026-08-26 — 16 days ago. Cheyene has not written a word since 2026-08-11 — 31 days ago. The last genuine two-way exchange of any kind was the Aug 11 payment thread where she asked for four more days; the last two-way exchange about actual service was 2026-07-23, 50 days ago, when Mayson checked her account status and told her 'Looks all good'. Three corroborating signals confirm the offboarding is real and not a misread: Michelle's weekly leak-removal breakdown ran Aug 10, Aug 17 and Aug 25 and then stopped dead — nothing on Sep 1 or Sep 8; the Aug 15-31 invoice that was due to go out on 2026-09-01 was never sent, so billing stopped too; and no ALTR message of any kind has been directed at the client in 16 days. This account was not lost this window — it was lost weeks ago and only recorded this window, in a two-line side conversation between two staff members, in a topic the client can read. Two invoices are still unpaid and were never resolved before the removal: the July 15-31 invoice, 41 days from send and 34 days past its Aug 8 due date, and the combined Aug 15 bill (July balance plus Aug 1-14, the largest of the relationship), 27 days from send and 20 days past its implied Aug 22 due date. No termination message was ever sent to her, no final statement, no collections handoff, and no answer to the question of whether she stopped paying because she could not pay or because she never acknowledged the bank account number that changed on Aug 15 — 27 days unverified and now probably unverifiable. Every prior week's headline recommendation, above all 'phone or SMS her on [REDACTED-NUMBER]', went unactioned right up to the removal.",
+  "health": {
+    "score": 8,
+    "trend": "down",
+    "rationale": "Down 25 from 33, the fifth consecutive decline (62 -> 55 -> 44 -> 33 -> 8). This is no longer a distressed account, it is a closed one: ALTR staff stated internally on 2026-09-05 that the client 'is not with us anymore' and confirmed she had already been removed from the service. Service delivery has stopped (leak-removal reports ended Aug 25, 17 days), billing has stopped (the Sep 1 invoice was never sent), and client-facing communication has stopped (16 days since anyone spoke to her, 31 days since she spoke to us). It is not zero for two reasons only: the departure was never formally communicated to the client, so a reversal is technically still possible if someone reaches her; and two unpaid invoices remain live, meaning there is still money on the table and therefore still a reason to act. Nothing in this window was a recovery attempt."
+  },
+  "reminders": [
+    {
+      "employee": "Stephski",
+      "topic": "Payment chasing on the two outstanding invoices — four chases between Aug 9 and Aug 26, then nothing at all for the whole two-week window even though both invoices remain unpaid and the client was quietly offboarded mid-window",
+      "count": 4,
+      "first_date": "2026-08-09",
+      "last_date": "2026-08-26",
+      "chases_this_window": 0,
+      "days_since_last_chase": 16,
+      "days_outstanding": 41,
+      "note": "The chase sequence simply stopped. Four messages went out over 17 days, the client answered none of them after Aug 11, and then collections went silent for 16 days while the same person wrote internally that the client was gone. An unpaid balance spanning two billing periods was never escalated, never phoned, never put in writing as a final demand, and never handed to anyone.",
+      "quotes": [
+        {"quote": "@cheymai1 Hi just pinging payment for your latest invoice, can you send by tomorrow?", "who": "Stephski", "date": "2026-08-09"},
+        {"quote": "@cheymai1 Hi love, we still havent received your invoice payment. If you could please send it by end of the day today to avoid a pause in work that would be great 🙏", "who": "Stephski", "date": "2026-08-11"},
+        {"quote": "Please note I combined your remaining invoice amount from last period to this and totaled everything at the bottom, please get this paid in a timely manner so we dont have to pause work due to non payment 🙏", "who": "Stephski", "date": "2026-08-15"},
+        {"quote": "@cheymai1 Hi love we haven’t heard back from you regarding payment, please respond asap", "who": "Stephski", "date": "2026-08-26"}
+      ]
+    },
+    {
+      "employee": "Derrek",
+      "topic": "The phone-farm / IG rollout update promised for the week of Aug 8-14 — 41 days later it has never been posted, and Derrek has not written to this client since Aug 1",
+      "count": 1,
+      "first_date": "2026-08-01",
+      "last_date": "2026-08-01",
+      "days_outstanding": 41,
+      "chases_this_window": 0,
+      "note": "This is a reminder ALTR owed the client, not one she owed us. It was the client's strongest reason to withhold payment on two billing periods, and it went unanswered right through her departure. It can no longer be delivered as a service update, only as part of an explanation if anyone tries to win her back.",
+      "quotes": [
+        {"quote": "Thank you for your understanding, we will have plenty of updates starting next week.", "who": "Derrek", "date": "2026-08-01"},
+        {"quote": "We are waiting for a shipment that should land Monday that will be the final piece needed to begin and scale.", "who": "Derrek", "date": "2026-08-01"}
+      ]
+    },
+    {
+      "employee": "Stephski",
+      "topic": "Whether ALTR accepts PayPal — the only billing question the client ever asked, 60 days without a yes or a no, and now never going to be answered",
+      "count": 1,
+      "first_date": "2026-07-13",
+      "last_date": "2026-07-13",
+      "days_outstanding": 60,
+      "chases_this_window": 0,
+      "note": "Carried since Jul 13 and closing unanswered. Worth keeping on the record as a process finding, not a client finding: a payment-friction question on a client whose entire failure mode was payment friction sat open for two months.",
+      "quotes": [
+        {"quote": "Do you guys have PayPal", "who": "Cheyene Burridge", "date": "2026-07-13"},
+        {"quote": "Let me check on that for you", "who": "Stephski", "date": "2026-07-13"}
+      ]
+    }
+  ],
+  "complaints": [
+    {
+      "issue": "The client has been offboarded and nobody told her — or told anyone else. On 2026-09-05 Stephski stated in the DMCA topic that the client is no longer with ALTR and Michelle confirmed she had already been removed from the service. That two-line exchange is the only record of the decision anywhere, it was posted in a topic the client can read, no termination or wind-down message was ever sent to her, and no final invoice or account statement followed.",
+      "status": "new",
+      "first_raised": "2026-09-05",
+      "owner": "Derrek",
+      "severity": "critical",
+      "days_open": 6,
+      "note": "There is no message in the entire 45-message history in which anyone tells Cheyene the relationship is ending, pauses her service formally, or settles her balance. She was dropped by attrition and the paperwork happened sideways. Corroboration that the removal is real: Michelle's weekly leak-removal report ran Aug 10, Aug 17 and Aug 25 and has not appeared since (17 days, breaking a three-week streak), and the Aug 15-31 invoice due to go out around Sep 1 was never sent.",
+      "evidence": "Message id 51 at 2026-09-05T15:12:08-04:00 (Stephski) and id 52 at 2026-09-05T16:28:01-04:00 (Michelle), both in the DMCA topic (reply_to 4). These are the only two messages in the entire 2026-08-28 to 2026-09-11 window. @sotom225 is Michelle's handle — she posted 'here’s my email: [REDACTED-RECOVERY-EMAIL]' in another client chat on 2026-05-07.",
+      "quotes": [
+        {"quote": "@sotom225 shes not with us anymore", "who": "Stephski", "date": "2026-09-05"},
+        {"quote": "yes we removed already", "who": "Michelle", "date": "2026-09-05"}
+      ]
+    },
+    {
+      "issue": "Total client dormancy: 31 days since Cheyene last wrote anything (2026-08-11), and 16 days since any ALTR person addressed her at all (Stephski's 2026-08-26 chase). Three payment chases went unanswered before she stopped being chased, and every prior chase in the relationship had been answered the same day or within minutes.",
+      "status": "recurring",
+      "first_raised": "2026-08-15",
+      "owner": "Stephski / Derrek",
+      "severity": "critical",
+      "days_open": 31,
+      "note": "Escalated from 17 days to 31. The silence ran in both directions for the whole window: she did not write, and after Aug 26 nobody wrote to her either. The last genuinely two-way exchange of any kind was the Aug 11 payment thread. The last two-way exchange about actual service delivery was 2026-07-23 — 50 days ago — when Mayson checked her account status. Her prior response times for comparison: Jul 13 same day, Jul 21 same day, Aug 11 within ten minutes of the chase.",
+      "evidence": "Last message from Cheyene Burridge is id 43 at 2026-08-11T11:06:21-04:00. Last ALTR message addressed to the client is id 50 at 2026-08-26T19:16:41-04:00. Nothing client-facing exists in the 2026-08-28 to 2026-09-11 window at all.",
+      "quotes": [
+        {"quote": "Can you give me 4 more days please I’m just waiting for money to turn over from OF", "who": "Cheyene Burridge", "date": "2026-08-11"},
+        {"quote": "Oh I didn’t even see this was for 2nd of August! I’m so sorry", "who": "Cheyene Burridge", "date": "2026-08-11"},
+        {"quote": "@cheymai1 Hi love we haven’t heard back from you regarding payment, please respond asap", "who": "Stephski", "date": "2026-08-26"}
+      ]
+    },
+    {
+      "issue": "Two invoices were left unpaid and unresolved when the client was removed. The July 15-31 invoice is 41 days from send and 34 days past its Aug 8 due date; the combined Aug 15 bill (that July balance plus Aug 1-14, the largest of the relationship) is 27 days from send and 20 days past its implied Aug 22 due date. No final demand, no payment plan, no write-off decision and no handoff exists anywhere in the chat.",
+      "status": "recurring",
+      "first_raised": "2026-08-08",
+      "owner": "Stephski / Derrek",
+      "severity": "critical",
+      "days_open": 34,
+      "note": "Four invoices were issued in this relationship. All four were late, none was ever paid without a chase, and the last two were never paid at all. Chasing stopped 16 days ago and the offboarding happened without any of it being settled.",
+      "evidence": "Invoice for Jul 15-31 sent 2026-08-01 (id 35/36); combined Aug 1-14 invoice sent 2026-08-15 (id 45/46/47). No payment confirmation appears after Stephski's 'Recieved!' on 2026-07-13 and 'thank you so much 😊' on 2026-07-23.",
+      "quotes": [
+        {"quote": "Hi love! Hope you’re having an amazing weekend. Below is your invoice for the period of July 15th-31st. If you could please shoot over payment within the next 7 days that would be amazing! Let me know if I can help you with anything 💘", "who": "Stephski", "date": "2026-08-01"},
+        {"quote": "Please note I combined your remaining invoice amount from last period to this and totaled everything at the bottom, please get this paid in a timely manner so we dont have to pause work due to non payment 🙏", "who": "Stephski", "date": "2026-08-15"}
+      ]
+    },
+    {
+      "issue": "The bank account number on the invoice changed on 2026-08-15 and the client never once acknowledged it. Twenty-seven days on, with her now removed, we still cannot tell whether she stopped paying because she could not pay or because a payment was misrouted to the old account she described as 'my normal bank'.",
+      "status": "recurring",
+      "first_raised": "2026-08-15",
+      "owner": "Stephski",
+      "severity": "high",
+      "days_open": 27,
+      "note": "Escalated from 13 days to 27, and it was never ruled out before she was offboarded. The Aug 26 chase did not restate the new details. This was the single cheapest thing on the account to check for four straight weeks and it was never checked — it should be checked before any write-off is signed, because a bounced or misrouted transfer would change the conclusion entirely.",
+      "quotes": [
+        {"quote": "Please note an update to the account number, please try and send using the information on the invoice.", "who": "Stephski", "date": "2026-08-15"},
+        {"quote": "Money should have gone in thou! I paid thru my normal bank ☺️", "who": "Cheyene Burridge", "date": "2026-07-13"}
+      ]
+    },
+    {
+      "issue": "Service promises that expired with the client: Derrek's phone-farm/IG rollout update (promised Aug 1 for the week of Aug 8-14, 41 days, never posted), Vivek introduced as the dedicated Meta Support rep on Jul 29 (44 days, never posted a single message, Copyright Ban Protection never set up), and the onboarding items from Jun 22-25 (form, previous-team unlink, reels Drive uploads) never confirmed in 78 days.",
+      "status": "recurring",
+      "first_raised": "2026-06-25",
+      "owner": "Derrek",
+      "severity": "high",
+      "days_open": 78,
+      "note": "The client's only unprompted service concern in the entire relationship was her main IG account being targeted, on 2026-07-22. She was assigned a named specialist for exactly that on Jul 29 and he never spoke. Her last four weeks of paid service produced one recurring leak-removal screenshot and nothing else. Keep this as the post-mortem record of why she left, not as an action item on her account.",
+      "evidence": "No message from Vivek exists anywhere in the 45-message history; he was added by the ChatAddUser event id 33 at 2026-07-29T00:59:38-04:00. Promo topic (reply_to 5) has had no message since Derrek's 2026-08-01 post, 41 days. Social Media topic (reply_to 3) has had none since 2026-07-29, 44 days.",
+      "quotes": [
+        {"quote": "My Cheymai_ account is being targeted now", "who": "Cheyene Burridge", "date": "2026-07-22"},
+        {"quote": "Hey Ive added Vivek in here ( @fonta ). He is our Meta Support Rep that will help keep your IG accounts up and safe. If you have any restrictions, shadowbans, or bans.... simply @ him in the chat and he will help. To start, if you want your accounts setup for Copyright Ban Protection he can assist.", "who": "Derrek", "date": "2026-07-29"},
+        {"quote": "Thank you for your understanding, we will have plenty of updates starting next week.", "who": "Derrek", "date": "2026-08-01"}
+      ]
+    }
+  ],
+  "commitments": [
+    {
+      "what": "Tell the client, in writing, that the relationship has ended — and settle the outstanding balance one way or the other. Neither has happened; the departure exists only as an internal aside on 2026-09-05.",
+      "who": "Derrek",
+      "date": "2026-09-05",
+      "status": "overdue",
+      "days_outstanding": 6,
+      "note": "NEW AND THE ONLY ACTION THAT STILL MATTERS ON THIS ACCOUNT. She was removed from service without notice while owing two billing periods. She also referred Paige to ALTR ('Paige (Chey Ref)'), so how this ends affects a live referral relationship. A single message closes it properly either way.",
+      "quotes": [
+        {"quote": "@sotom225 shes not with us anymore", "who": "Stephski", "date": "2026-09-05"},
+        {"quote": "yes we removed already", "who": "Michelle", "date": "2026-09-05"}
+      ]
+    },
+    {
+      "what": "Pay the combined Aug 15 invoice (Aug 1-14 plus the unpaid July 15-31 balance) — implied due ~2026-08-22",
+      "who": "Cheyene Burridge",
+      "date": "2026-08-22",
+      "status": "overdue",
+      "days_outstanding": 20,
+      "note": "Escalated from 6 days overdue to 20. Largest bill of the relationship, never acknowledged by the client at any point, never chased after Aug 26, and now attached to a client who has been removed from service.",
+      "quotes": [
+        {"quote": "Hi hun! Hope you had a great week. Below is your invoice for the period of August 1st-14th. Please note an update to the account number, please try and send using the information on the invoice. Have also attached updated Zelle info that should be easy to use now. Thanks so much!💘", "who": "Stephski", "date": "2026-08-15"}
+      ]
+    },
+    {
+      "what": "Pay the July 15-31 invoice — sent 2026-08-01, due 2026-08-08, extended by her own request to 2026-08-15",
+      "who": "Cheyene Burridge",
+      "date": "2026-08-15",
+      "status": "overdue",
+      "days_outstanding": 41,
+      "note": "Escalated from 27 days to 41: 41 days from send, 34 past the original due date, 27 past the extension she asked for herself. Four chases, no answer after Aug 11, then chasing stopped entirely.",
+      "quotes": [
+        {"quote": "Can you give me 4 more days please I’m just waiting for money to turn over from OF", "who": "Cheyene Burridge", "date": "2026-08-11"},
+        {"quote": "Okay no problem, just a heads up we have another invoice going out in 4 days so I will shoot you a new invoice with whatevers remaining at that point put all together", "who": "Stephski", "date": "2026-08-11"}
+      ]
+    },
+    {
+      "what": "Make off-thread contact with the client (SMS or call to [REDACTED-NUMBER]) — the headline recommendation of the 2026-08-21 and 2026-08-28 reports",
+      "who": "Stephski / Derrek",
+      "date": "2026-08-21",
+      "status": "overdue",
+      "days_outstanding": 21,
+      "note": "Recommended three weeks running, never evidenced, and the account has now closed. If it was ever going to change the outcome, this was the action; it is the clearest process failure of the whole relationship. It is still the only route left to reach her about the balance.",
+      "quotes": [
+        {"quote": "Hi happy July 1st! ❤️ My name is Stephanie and I will be handling all things invoice related with you. my phone number is [REDACTED-NUMBER] if you ever need to reach me.", "who": "Stephski", "date": "2026-07-01"},
+        {"quote": "Oh I didn’t even see this was for 2nd of August! I’m so sorry", "who": "Cheyene Burridge", "date": "2026-08-11"}
+      ]
+    },
+    {
+      "what": "Confirm the client received the changed bank account details from the 2026-08-15 invoice before treating non-payment as a cash-flow or churn decision",
+      "who": "Stephski",
+      "date": "2026-08-15",
+      "status": "overdue",
+      "days_outstanding": 27,
+      "note": "Never done in 27 days, and it is now the one open question that materially affects whether the outstanding balance is collectable. Check the new account for an inbound transfer from her before writing anything off.",
+      "quotes": [
+        {"quote": "Please note an update to the account number, please try and send using the information on the invoice.", "who": "Stephski", "date": "2026-08-15"}
+      ]
+    },
+    {
+      "what": "Decide and communicate whether work actually pauses for non-payment — two pause warnings were issued (Aug 11, Aug 15) and neither was ever enforced or retracted; service instead stopped silently, without notice, around the removal",
+      "who": "Derrek / Stephski",
+      "date": "2026-08-28",
+      "status": "overdue",
+      "days_outstanding": 14,
+      "note": "Carried from last window and answered in the worst possible way: the threat was never enforced, then delivery stopped anyway with no announcement. This is a policy gap that will repeat on every other account unless it is fixed at the agency level.",
+      "quotes": [
+        {"quote": "@cheymai1 Hi love, we still havent received your invoice payment. If you could please send it by end of the day today to avoid a pause in work that would be great 🙏", "who": "Stephski", "date": "2026-08-11"},
+        {"quote": "Please note I combined your remaining invoice amount from last period to this and totaled everything at the bottom, please get this paid in a timely manner so we dont have to pause work due to non payment 🙏", "who": "Stephski", "date": "2026-08-15"}
+      ]
+    },
+    {
+      "what": "Post the promised phone-farm / IG rollout update ('plenty of updates starting next week', promised 2026-08-01 for the week of Aug 8-14)",
+      "who": "Derrek",
+      "date": "2026-08-01",
+      "status": "overdue",
+      "days_outstanding": 41,
+      "note": "Escalated from 27 to 41 days. Now dead as a deliverable — closing it out as a post-mortem finding. Zero Promo output in the client's final six weeks while she was billed across two periods.",
+      "quotes": [
+        {"quote": "Thank you for your understanding, we will have plenty of updates starting next week.", "who": "Derrek", "date": "2026-08-01"}
+      ]
+    },
+    {
+      "what": "Set up the client's accounts for Copyright Ban Protection via Vivek, the Meta Support rep introduced on 2026-07-29",
+      "who": "Derrek / Vivek",
+      "date": "2026-07-29",
+      "status": "overdue",
+      "days_outstanding": 44,
+      "note": "Escalated from 30 to 44 days. Vivek never posted a single message in the chat in the 44 days between being introduced and the client being removed, on the one topic she had raised herself.",
+      "quotes": [
+        {"quote": "To start, if you want your accounts setup for Copyright Ban Protection he can assist.", "who": "Derrek", "date": "2026-07-29"}
+      ]
+    },
+    {
+      "what": "Answer whether ALTR accepts PayPal (asked 2026-07-13, answered with 'Let me check on that for you')",
+      "who": "Stephski",
+      "date": "2026-07-13",
+      "status": "overdue",
+      "days_outstanding": 60,
+      "note": "Escalated from 46 to 60 days and closing unanswered. Keep as a process finding: the one billing convenience request made by a client whose whole failure mode was billing friction went two months without a reply.",
+      "quotes": [
+        {"quote": "Do you guys have PayPal", "who": "Cheyene Burridge", "date": "2026-07-13"},
+        {"quote": "Let me check on that for you", "who": "Stephski", "date": "2026-07-13"}
+      ]
+    }
+  ],
+  "payments": [
+    {
+      "note": "Two invoices are outstanding and the client has been removed from service without either being settled. July 15-31: sent 2026-08-01, due 2026-08-08, extension to 2026-08-15 requested by the client and missed — 41 days from send, 34 days past due. Aug 1-14 combined with that July balance: sent 2026-08-15, implied due ~2026-08-22 — 27 days from send, 20 days past due, never acknowledged by the client in any form. Exposure is two full billing periods, the largest ever on this account.",
+      "date": "2026-09-11",
+      "invoice_period": "2026-07-15 to 2026-07-31 and 2026-08-01 to 2026-08-14 (billed together on 2026-08-15)",
+      "late": true,
+      "days_late": 34,
+      "amount_at_risk": "Two full billing periods, billed as one combined invoice",
+      "reason": "Client cash flow gated on her OnlyFans payout cycle against 1st/15th invoicing on 7-day terms; two periods stacked into one demand immediately after she said she was short; invoices posted to a topic she had admitted she misses; a bank account number change she never acknowledged; and chasing that stopped 16 days ago",
+      "suggested_fix": "Before any write-off: check the new bank account for an inbound transfer from her (the account number changed on Aug 15 and she never confirmed she saw it). Then make one direct contact on [REDACTED-NUMBER] with a final statement and an offer to split the balance across two OF payouts. If there is no answer inside seven days, make a formal write-off decision and record it — do not leave it sitting as an open receivable with no owner.",
+      "quotes": [
+        {"quote": "Please note I combined your remaining invoice amount from last period to this and totaled everything at the bottom, please get this paid in a timely manner so we dont have to pause work due to non payment 🙏", "who": "Stephski", "date": "2026-08-15"},
+        {"quote": "@cheymai1 Hi love we haven’t heard back from you regarding payment, please respond asap", "who": "Stephski", "date": "2026-08-26"}
+      ]
+    },
+    {
+      "note": "Billing stopped without a decision. The Aug 15-31 invoice was due to go out around 2026-09-01 and was never sent — there is no invoice message from Stephski after 2026-08-15 anywhere in the file. Whether that reflects a deliberate stop-billing call or simply the same drift that lost the client is not recorded anywhere; the only related statement in the window is the two-line internal exchange on Sep 5.",
+      "date": "2026-09-01",
+      "invoice_period": "2026-08-15 to 2026-08-31 (never issued)",
+      "late": false,
+      "reason": "Client had already been removed from service; no invoice, no stop-billing notice and no final statement was ever issued",
+      "suggested_fix": "Record the stop-billing date formally and reconcile what service was actually delivered in Aug 1-14 before pursuing that invoice — the client received one recurring leak-removal screenshot and no IG output across the period she is being asked to pay for. That materially weakens any collection attempt and should be priced into the decision.",
+      "quotes": [
+        {"quote": "Hi love! Here’s your weekly update on the leak removal breakdown for the past 7 days 💕", "who": "Michelle", "date": "2026-08-25"},
+        {"quote": "yes we removed already", "who": "Michelle", "date": "2026-09-05"}
+      ]
+    },
+    {
+      "note": "Final payment record for the relationship: four invoices issued, all four late, none ever paid without a chase, and the last two never paid at all. Jun 23-30 sent Jul 1, paid Jul 13 after the Jul 11 nudge (12 days late). Jul 1-14 sent Jul 15, paid Jul 21 after the Jul 20 nudge (6 days late). Jul 15-31 sent Aug 1, never paid (41 days). Aug 1-14 sent Aug 15, never paid, never acknowledged (27 days). The deterioration was linear and visible from the second invoice onward.",
+      "date": "2026-09-11",
+      "late": true,
+      "reason": "No fixed reminder cadence, no confirmed payment rail the client found convenient (PayPal question 60 days unanswered), invoices posted to a group topic she said she missed, and a mid-relationship bank detail change that was never confirmed",
+      "suggested_fix": "Agency-level, not client-level: every one of these four invoices required a chase to get paid, which means the billing process never worked on this account from day one and nobody flagged it until the balance hit two periods. Apply the fix to the remaining roster — direct reminders rather than topic posts, a due date after the client's payout cycle, and one confirmed payment method in writing at onboarding.",
+      "quotes": [
+        {"quote": "@cheymai1 Hey we're still missing payment 🙂", "who": "Stephski", "date": "2026-07-11"},
+        {"quote": "Hi hun! Checking in on this payment above ❤️ @cheymai1", "who": "Stephski", "date": "2026-07-20"},
+        {"quote": "Oh I didn’t even see this was for 2nd of August! I’m so sorry", "who": "Cheyene Burridge", "date": "2026-08-11"}
+      ]
+    }
+  ],
+  "client_priorities": [
+    "Protecting her main IG account (@Cheymai_) from targeting, flags and restrictions — the only thing she ever raised unprompted (2026-07-22), assigned to Vivek on 2026-07-29, who never posted a single message in the 44 days before she was removed",
+    "Payment timing and convenience — cash flow gated on her OnlyFans payout cycle, asked about PayPal on 2026-07-13 and never got an answer in 60 days, and admitted she misses invoices posted in the Invoicing topic",
+    "Seeing the IG promo/posting program restart after the phone-farm migration with a concrete date — she never got one; the Promo topic had zero messages in her final 41 days"
+  ],
+  "suggestions": [
+    "Derrek needs to personally decide, this week, whether this account is being written off or chased — and then send the client one message either way. She was removed from service on or before 2026-09-05 with two billing periods unpaid and has never been told anything. Right now there is no notice, no final statement and no owner.",
+    "Check the new bank account for an inbound transfer from her before signing off any write-off. The account number changed on 2026-08-15, she never acknowledged it, and 'she never saw the new details' has been the unexcluded explanation for 27 days. It is one lookup.",
+    "Call [REDACTED-NUMBER] once, properly, with a final statement and an offer to split the balance across two OF payouts. This was the number-one recommendation of the last three reports and has never been evidenced. It is now the only channel likely to reach her.",
+    "Protect the Paige referral. Cheyene referred Paige to ALTR ('Paige (Chey Ref)'). If Chey leaves feeling she was billed for two periods with no IG output and then dropped without a word, that lands in the referred account too. Make sure whoever owns Paige knows this happened before Paige hears it from Chey.",
+    "Fix the two process failures this account exposed, agency-wide, because neither is specific to Chey: (1) a client can be offboarded with no notice, no final invoice and no record beyond a two-line staff aside; (2) pause-for-non-payment was threatened twice, never enforced, and then service stopped silently anyway. Write down what actually happens at 14 and 30 days past due, and who signs it off.",
+    "Close this slug out in the weekly run. With no service, no billing and no client-facing contact, continuing to score it every week produces noise. Carry it as a receivable and a post-mortem, not as a live account, unless contact is re-established."
+  ],
+  "wins": [
+    "None this window. For the record, the last positive thing that happened on this account was Michelle's leak-removal breakdown on 2026-08-25 — her third consecutive week and the only service this client visibly received in her final month. That streak ended with her removal."
+  ],
+  "week_stats": {
+    "messages": 2,
+    "client_messages": 0,
+    "team_messages": 2
+  }
+}

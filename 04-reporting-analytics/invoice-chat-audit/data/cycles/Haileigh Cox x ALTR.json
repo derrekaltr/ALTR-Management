@@ -1,0 +1,1015 @@
+{
+ "cycles": [
+  {
+   "chat": "Haileigh Cox x ALTR",
+   "period_key": "2025-08-15",
+   "period": "2025-08-15..08-31",
+   "period_start": "2025-08-15T00:00:00-05:00",
+   "issued_ts": "2025-09-01T13:36:14-05:00",
+   "issued_by": "Lauren Biz Assistant",
+   "issue_msg_ids": [
+    24
+   ],
+   "followups": [
+    27
+   ],
+   "escalations": [],
+   "payment_links": [],
+   "payment_claimed_ts": "2025-10-06T11:03:47-05:00",
+   "payment_claim_msg": 226,
+   "payment_confirmed": false,
+   "evidence": "claimed_only",
+   "lag_days": 34.9
+  },
+  {
+   "chat": "Haileigh Cox x ALTR",
+   "period_key": "2025-09-01",
+   "period": "2025-09-01..09-14",
+   "period_start": "2025-09-01T00:00:00-05:00",
+   "issued_ts": "2025-09-15T12:55:45-05:00",
+   "issued_by": "Lauren Biz Assistant",
+   "issue_msg_ids": [
+    138
+   ],
+   "followups": [
+    140
+   ],
+   "escalations": [],
+   "payment_links": [],
+   "payment_claimed_ts": "2025-09-18T12:37:57-05:00",
+   "payment_claim_msg": 148,
+   "payment_confirmed": true,
+   "evidence": "strong",
+   "lag_days": 3.0
+  },
+  {
+   "chat": "Haileigh Cox x ALTR",
+   "period_key": "2025-09-15",
+   "period": "2025-09-15..09-30",
+   "period_start": "2025-09-15T00:00:00-05:00",
+   "issued_ts": "2025-10-01T15:21:29-05:00",
+   "issued_by": "Lauren Biz Assistant",
+   "issue_msg_ids": [
+    215
+   ],
+   "followups": [],
+   "escalations": [],
+   "payment_links": [],
+   "payment_claimed_ts": "2025-10-06T11:03:47-05:00",
+   "payment_claim_msg": 226,
+   "payment_confirmed": true,
+   "evidence": "strong",
+   "lag_days": 4.8
+  },
+  {
+   "chat": "Haileigh Cox x ALTR",
+   "period_key": "2025-10-01",
+   "period": "2025-10-01..10-14",
+   "period_start": "2025-10-01T00:00:00-05:00",
+   "issued_ts": "2025-10-15T15:48:04-05:00",
+   "issued_by": "Lauren Biz Assistant",
+   "issue_msg_ids": [
+    259
+   ],
+   "followups": [],
+   "escalations": [],
+   "payment_links": [],
+   "payment_claimed_ts": null,
+   "payment_claim_msg": null,
+   "payment_confirmed": false,
+   "evidence": "none",
+   "lag_days": null
+  },
+  {
+   "chat": "Haileigh Cox x ALTR",
+   "period_key": "2025-10-15",
+   "period": "2025-10-15..10-31",
+   "period_start": "2025-10-15T00:00:00-05:00",
+   "issued_ts": "2025-11-02T10:41:31-05:00",
+   "issued_by": "Lauren Biz Assistant",
+   "issue_msg_ids": [
+    282
+   ],
+   "followups": [],
+   "escalations": [],
+   "payment_links": [],
+   "payment_claimed_ts": null,
+   "payment_claim_msg": null,
+   "payment_confirmed": false,
+   "evidence": "none",
+   "lag_days": null
+  },
+  {
+   "chat": "Haileigh Cox x ALTR",
+   "period_key": "2025-11-01",
+   "period": "2025-11-01..11-14",
+   "period_start": "2025-11-01T00:00:00-05:00",
+   "issued_ts": "2025-11-15T15:49:47-05:00",
+   "issued_by": "Stephski",
+   "issue_msg_ids": [
+    301,
+    302
+   ],
+   "followups": [],
+   "escalations": [],
+   "payment_links": [],
+   "payment_claimed_ts": null,
+   "payment_claim_msg": null,
+   "payment_confirmed": false,
+   "evidence": "none",
+   "lag_days": null
+  },
+  {
+   "chat": "Haileigh Cox x ALTR",
+   "period_key": "2025-11-15",
+   "period": "2025-11-15..11-30",
+   "period_start": "2025-11-15T00:00:00-05:00",
+   "issued_ts": "2025-12-01T12:44:54-05:00",
+   "issued_by": "Stephski",
+   "issue_msg_ids": [
+    311,
+    312
+   ],
+   "followups": [],
+   "escalations": [],
+   "payment_links": [],
+   "payment_claimed_ts": null,
+   "payment_claim_msg": null,
+   "payment_confirmed": false,
+   "evidence": "none",
+   "lag_days": null
+  },
+  {
+   "chat": "Haileigh Cox x ALTR",
+   "period_key": "2025-12-01",
+   "period": "2025-12-01..12-14",
+   "period_start": "2025-12-01T00:00:00-05:00",
+   "issued_ts": "2025-12-15T12:23:01-05:00",
+   "issued_by": "Stephski",
+   "issue_msg_ids": [
+    319,
+    320
+   ],
+   "followups": [],
+   "escalations": [],
+   "payment_links": [],
+   "payment_claimed_ts": null,
+   "payment_claim_msg": null,
+   "payment_confirmed": false,
+   "evidence": "none",
+   "lag_days": null
+  },
+  {
+   "chat": "Haileigh Cox x ALTR",
+   "period_key": "2025-12-15",
+   "period": "2025-12-15..12-31",
+   "period_start": "2025-12-15T00:00:00-05:00",
+   "issued_ts": "2026-01-01T10:35:56-05:00",
+   "issued_by": "Stephski",
+   "issue_msg_ids": [
+    331,
+    332
+   ],
+   "followups": [],
+   "escalations": [],
+   "payment_links": [],
+   "payment_claimed_ts": null,
+   "payment_claim_msg": null,
+   "payment_confirmed": false,
+   "evidence": "none",
+   "lag_days": null
+  },
+  {
+   "chat": "Haileigh Cox x ALTR",
+   "period_key": "2026-01-01",
+   "period": "2026-01-01..01-14",
+   "period_start": "2026-01-01T00:00:00-05:00",
+   "issued_ts": "2026-01-15T11:47:25-05:00",
+   "issued_by": "Stephski",
+   "issue_msg_ids": [
+    339,
+    340
+   ],
+   "followups": [],
+   "escalations": [],
+   "payment_links": [],
+   "payment_claimed_ts": null,
+   "payment_claim_msg": null,
+   "payment_confirmed": false,
+   "evidence": "none",
+   "lag_days": null
+  },
+  {
+   "chat": "Haileigh Cox x ALTR",
+   "period_key": "2026-01-15",
+   "period": "2026-01-15..01-31",
+   "period_start": "2026-01-15T00:00:00-05:00",
+   "issued_ts": "2026-02-01T13:12:30-05:00",
+   "issued_by": "Stephski",
+   "issue_msg_ids": [
+    353,
+    354
+   ],
+   "followups": [],
+   "escalations": [],
+   "payment_links": [],
+   "payment_claimed_ts": null,
+   "payment_claim_msg": null,
+   "payment_confirmed": false,
+   "evidence": "none",
+   "lag_days": null
+  },
+  {
+   "chat": "Haileigh Cox x ALTR",
+   "period_key": "2026-02-01",
+   "period": "2026-02-01..02-14",
+   "period_start": "2026-02-01T00:00:00-05:00",
+   "issued_ts": "2026-02-16T14:05:48-05:00",
+   "issued_by": "Stephski",
+   "issue_msg_ids": [
+    373,
+    374
+   ],
+   "followups": [],
+   "escalations": [],
+   "payment_links": [],
+   "payment_claimed_ts": null,
+   "payment_claim_msg": null,
+   "payment_confirmed": false,
+   "evidence": "none",
+   "lag_days": null
+  },
+  {
+   "chat": "Haileigh Cox x ALTR",
+   "period_key": "2026-02-15",
+   "period": "2026-02-15..02-28",
+   "period_start": "2026-02-15T00:00:00-05:00",
+   "issued_ts": "2026-03-01T14:20:19-05:00",
+   "issued_by": "Stephski",
+   "issue_msg_ids": [
+    386,
+    387
+   ],
+   "followups": [
+    400
+   ],
+   "escalations": [],
+   "payment_links": [],
+   "payment_claimed_ts": null,
+   "payment_claim_msg": null,
+   "payment_confirmed": false,
+   "evidence": "none",
+   "lag_days": null
+  },
+  {
+   "chat": "Haileigh Cox x ALTR",
+   "period_key": "2026-03-01",
+   "period": "2026-03-01..03-14",
+   "period_start": "2026-03-01T00:00:00-05:00",
+   "issued_ts": "2026-03-15T21:21:14-05:00",
+   "issued_by": "Stephski",
+   "issue_msg_ids": [
+    407,
+    408
+   ],
+   "followups": [],
+   "escalations": [],
+   "payment_links": [],
+   "payment_claimed_ts": "2026-03-17T16:40:29-05:00",
+   "payment_claim_msg": 411,
+   "payment_confirmed": false,
+   "evidence": "claimed_only",
+   "lag_days": 1.8
+  },
+  {
+   "chat": "Haileigh Cox x ALTR",
+   "period_key": "2026-03-15",
+   "period": "2026-03-15..03-31",
+   "period_start": "2026-03-15T00:00:00-05:00",
+   "issued_ts": "2026-04-01T14:27:09-05:00",
+   "issued_by": "Stephski",
+   "issue_msg_ids": [
+    515,
+    516
+   ],
+   "followups": [
+    530
+   ],
+   "escalations": [],
+   "payment_links": [],
+   "payment_claimed_ts": "2026-04-06T15:16:17-05:00",
+   "payment_claim_msg": 531,
+   "payment_confirmed": true,
+   "evidence": "strong",
+   "lag_days": 5.0
+  },
+  {
+   "chat": "Haileigh Cox x ALTR",
+   "period_key": "2026-04-01",
+   "period": "2026-04-01..04-15",
+   "period_start": "2026-04-01T00:00:00-05:00",
+   "issued_ts": "2026-04-15T13:01:37-05:00",
+   "issued_by": "Stephski",
+   "issue_msg_ids": [
+    544,
+    545
+   ],
+   "followups": [],
+   "escalations": [],
+   "payment_links": [],
+   "payment_claimed_ts": "2026-04-15T13:04:08-05:00",
+   "payment_claim_msg": 546,
+   "payment_confirmed": true,
+   "evidence": "strong",
+   "lag_days": 0.0
+  },
+  {
+   "chat": "Haileigh Cox x ALTR",
+   "period_key": "2026-04-15",
+   "period": "2026-04-15..04-30",
+   "period_start": "2026-04-15T00:00:00-05:00",
+   "issued_ts": "2026-05-01T15:28:48-05:00",
+   "issued_by": "Stephski",
+   "issue_msg_ids": [
+    570,
+    573
+   ],
+   "followups": [],
+   "escalations": [],
+   "payment_links": [],
+   "payment_claimed_ts": "2026-05-04T12:21:20-05:00",
+   "payment_claim_msg": 574,
+   "payment_confirmed": true,
+   "evidence": "strong",
+   "lag_days": 2.9
+  },
+  {
+   "chat": "Haileigh Cox x ALTR",
+   "period_key": "2026-05-01",
+   "period": "2026-05-01..05-14",
+   "period_start": "2026-05-01T00:00:00-05:00",
+   "issued_ts": "2026-05-15T17:17:44-05:00",
+   "issued_by": "Stephski",
+   "issue_msg_ids": [
+    585,
+    586
+   ],
+   "followups": [],
+   "escalations": [],
+   "payment_links": [],
+   "payment_claimed_ts": "2026-06-16T15:45:09-05:00",
+   "payment_claim_msg": 648,
+   "payment_confirmed": false,
+   "evidence": "claimed_only",
+   "lag_days": 31.9
+  },
+  {
+   "chat": "Haileigh Cox x ALTR",
+   "period_key": "2026-05-15",
+   "period": "2026-05-15..05-31",
+   "period_start": "2026-05-15T00:00:00-05:00",
+   "issued_ts": "2026-06-01T14:27:02-05:00",
+   "issued_by": "Stephski",
+   "issue_msg_ids": [
+    593,
+    594
+   ],
+   "followups": [],
+   "escalations": [],
+   "payment_links": [],
+   "payment_claimed_ts": "2026-06-04T13:10:20-05:00",
+   "payment_claim_msg": 598,
+   "payment_confirmed": true,
+   "evidence": "strong",
+   "lag_days": 2.9
+  },
+  {
+   "chat": "Haileigh Cox x ALTR",
+   "period_key": "2026-06-15",
+   "period": "2026-06-15..06-30",
+   "period_start": "2026-06-15T00:00:00-05:00",
+   "issued_ts": "2026-07-01T14:08:46-05:00",
+   "issued_by": "Stephski",
+   "issue_msg_ids": [
+    697,
+    699
+   ],
+   "followups": [],
+   "escalations": [],
+   "payment_links": [],
+   "payment_claimed_ts": null,
+   "payment_claim_msg": null,
+   "payment_confirmed": false,
+   "evidence": "none",
+   "lag_days": null
+  },
+  {
+   "chat": "Haileigh Cox x ALTR",
+   "period_key": "2026-07-01",
+   "period": "2026-07-01..07-14",
+   "period_start": "2026-07-01T00:00:00-05:00",
+   "issued_ts": "2026-07-15T15:28:19-05:00",
+   "issued_by": "Stephski",
+   "issue_msg_ids": [
+    721,
+    722
+   ],
+   "followups": [
+    724
+   ],
+   "escalations": [],
+   "payment_links": [],
+   "payment_claimed_ts": null,
+   "payment_claim_msg": null,
+   "payment_confirmed": false,
+   "evidence": "none",
+   "lag_days": null
+  },
+  {
+   "chat": "Haileigh Cox x ALTR",
+   "period_key": "2026-07-15",
+   "period": "2026-07-15..07-31",
+   "period_start": "2026-07-15T00:00:00-05:00",
+   "issued_ts": "2026-08-01T15:53:20-05:00",
+   "issued_by": "Stephski",
+   "issue_msg_ids": [
+    735,
+    736
+   ],
+   "followups": [],
+   "escalations": [],
+   "payment_links": [],
+   "payment_claimed_ts": "2026-08-04T15:50:47-05:00",
+   "payment_claim_msg": 739,
+   "payment_confirmed": true,
+   "evidence": "strong",
+   "lag_days": 3.0
+  }
+ ],
+ "events": [
+  {
+   "event": "PRE_REMINDER",
+   "id": 23,
+   "ts": "2025-08-29T16:15:47-05:00",
+   "sender": "Lauren Biz Assistant"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 23,
+   "ts": "2025-08-29T16:15:47-05:00",
+   "sender": "Lauren Biz Assistant"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 24,
+   "ts": "2025-09-01T13:36:14-05:00",
+   "sender": "Lauren Biz Assistant"
+  },
+  {
+   "event": "FOLLOW_UP",
+   "id": 27,
+   "ts": "2025-09-03T14:27:37-05:00",
+   "sender": "Lauren Biz Assistant"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 31,
+   "ts": "2025-09-03T15:15:28-05:00",
+   "sender": "Lauren Biz Assistant"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 138,
+   "ts": "2025-09-15T12:55:45-05:00",
+   "sender": "Lauren Biz Assistant"
+  },
+  {
+   "event": "FOLLOW_UP",
+   "id": 140,
+   "ts": "2025-09-17T13:38:10-05:00",
+   "sender": "Lauren Biz Assistant"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 144,
+   "ts": "2025-09-18T12:36:27-05:00",
+   "sender": "Lauren Biz Assistant"
+  },
+  {
+   "event": "PAYMENT_CLAIMED",
+   "id": 148,
+   "ts": "2025-09-18T12:37:57-05:00",
+   "sender": "Hailey Client"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 149,
+   "ts": "2025-09-18T12:38:12-05:00",
+   "sender": "Lauren Biz Assistant"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 179,
+   "ts": "2025-09-27T12:17:32-05:00",
+   "sender": "Lauren Biz Assistant"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 185,
+   "ts": "2025-09-28T23:07:16-05:00",
+   "sender": "Nick Scott"
+  },
+  {
+   "event": "PRE_REMINDER",
+   "id": 206,
+   "ts": "2025-09-29T15:42:26-05:00",
+   "sender": "Lauren Biz Assistant"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 206,
+   "ts": "2025-09-29T15:42:26-05:00",
+   "sender": "Lauren Biz Assistant"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 215,
+   "ts": "2025-10-01T15:21:29-05:00",
+   "sender": "Lauren Biz Assistant"
+  },
+  {
+   "event": "PAYMENT_CLAIMED",
+   "id": 226,
+   "ts": "2025-10-06T11:03:47-05:00",
+   "sender": "Hailey Client"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 227,
+   "ts": "2025-10-06T11:04:15-05:00",
+   "sender": "Lauren Biz Assistant"
+  },
+  {
+   "event": "PAYMENT_CLAIMED",
+   "id": 240,
+   "ts": "2025-10-08T14:37:16-05:00",
+   "sender": "Hailey Client"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 245,
+   "ts": "2025-10-08T15:21:36-05:00",
+   "sender": "Lauren Biz Assistant"
+  },
+  {
+   "event": "PRE_REMINDER",
+   "id": 258,
+   "ts": "2025-10-13T17:08:06-05:00",
+   "sender": "Lauren Biz Assistant"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 258,
+   "ts": "2025-10-13T17:08:06-05:00",
+   "sender": "Lauren Biz Assistant"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 259,
+   "ts": "2025-10-15T15:48:04-05:00",
+   "sender": "Lauren Biz Assistant"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 267,
+   "ts": "2025-10-17T12:13:24-05:00",
+   "sender": "Lauren Biz Assistant"
+  },
+  {
+   "event": "PRE_REMINDER",
+   "id": 279,
+   "ts": "2025-10-29T17:20:33-05:00",
+   "sender": "Lauren Biz Assistant"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 282,
+   "ts": "2025-11-02T10:41:31-05:00",
+   "sender": "Lauren Biz Assistant"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 286,
+   "ts": "2025-11-04T06:55:26-05:00",
+   "sender": "Derrek"
+  },
+  {
+   "event": "PRE_REMINDER",
+   "id": 300,
+   "ts": "2025-11-13T18:12:03-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 300,
+   "ts": "2025-11-13T18:12:03-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 301,
+   "ts": "2025-11-15T15:49:47-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 302,
+   "ts": "2025-11-15T15:49:51-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 304,
+   "ts": "2025-11-17T21:16:56-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PRE_REMINDER",
+   "id": 309,
+   "ts": "2025-11-30T14:37:34-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 309,
+   "ts": "2025-11-30T14:37:34-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 311,
+   "ts": "2025-12-01T12:44:54-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 312,
+   "ts": "2025-12-01T12:44:59-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 319,
+   "ts": "2025-12-15T12:23:01-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 320,
+   "ts": "2025-12-15T12:23:33-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 323,
+   "ts": "2025-12-17T14:34:30-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 331,
+   "ts": "2026-01-01T10:35:56-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 332,
+   "ts": "2026-01-01T10:36:01-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 335,
+   "ts": "2026-01-05T17:36:14-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 339,
+   "ts": "2026-01-15T11:47:25-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 340,
+   "ts": "2026-01-15T11:47:28-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 342,
+   "ts": "2026-01-20T11:46:46-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 353,
+   "ts": "2026-02-01T13:12:30-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 354,
+   "ts": "2026-02-01T13:12:34-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PRE_REMINDER",
+   "id": 365,
+   "ts": "2026-02-13T19:36:04-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 373,
+   "ts": "2026-02-16T14:05:48-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 374,
+   "ts": "2026-02-16T14:08:08-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 381,
+   "ts": "2026-02-19T19:07:35-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 386,
+   "ts": "2026-03-01T14:20:19-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 387,
+   "ts": "2026-03-01T14:20:22-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 391,
+   "ts": "2026-03-01T20:35:29-05:00",
+   "sender": "Derrek"
+  },
+  {
+   "event": "FOLLOW_UP",
+   "id": 400,
+   "ts": "2026-03-05T17:00:41-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 404,
+   "ts": "2026-03-06T12:39:37-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 407,
+   "ts": "2026-03-15T21:21:14-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 408,
+   "ts": "2026-03-15T21:21:18-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CLAIMED",
+   "id": 411,
+   "ts": "2026-03-17T16:40:29-05:00",
+   "sender": "Hailey Client"
+  },
+  {
+   "event": "PRE_REMINDER",
+   "id": 512,
+   "ts": "2026-03-31T16:03:04-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 515,
+   "ts": "2026-04-01T14:27:09-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 516,
+   "ts": "2026-04-01T14:27:15-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "FOLLOW_UP",
+   "id": 530,
+   "ts": "2026-04-06T15:14:29-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CLAIMED",
+   "id": 531,
+   "ts": "2026-04-06T15:16:17-05:00",
+   "sender": "Hailey Client"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 533,
+   "ts": "2026-04-06T15:19:06-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 544,
+   "ts": "2026-04-15T13:01:37-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 545,
+   "ts": "2026-04-15T13:01:40-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CLAIMED",
+   "id": 546,
+   "ts": "2026-04-15T13:04:08-05:00",
+   "sender": "Hailey Client"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 547,
+   "ts": "2026-04-15T14:27:00-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 570,
+   "ts": "2026-05-01T15:28:48-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 573,
+   "ts": "2026-05-01T19:06:59-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CLAIMED",
+   "id": 574,
+   "ts": "2026-05-04T12:21:20-05:00",
+   "sender": "Hailey Client"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 575,
+   "ts": "2026-05-04T12:25:25-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 577,
+   "ts": "2026-05-05T01:29:36-05:00",
+   "sender": "Joseph H"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 585,
+   "ts": "2026-05-15T17:17:44-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 586,
+   "ts": "2026-05-15T17:17:47-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 589,
+   "ts": "2026-05-18T23:01:45-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 593,
+   "ts": "2026-06-01T14:27:02-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 594,
+   "ts": "2026-06-01T14:27:08-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CLAIMED",
+   "id": 598,
+   "ts": "2026-06-04T13:10:20-05:00",
+   "sender": "Hailey Client"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 599,
+   "ts": "2026-06-04T20:05:55-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 646,
+   "ts": "2026-06-15T11:20:05-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CLAIMED",
+   "id": 648,
+   "ts": "2026-06-16T15:45:09-05:00",
+   "sender": "Hailey Client"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 697,
+   "ts": "2026-07-01T14:08:46-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 697,
+   "ts": "2026-07-01T14:08:46-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 699,
+   "ts": "2026-07-01T14:11:31-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 701,
+   "ts": "2026-07-06T16:04:20-05:00",
+   "sender": "Ronnie Chat"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 721,
+   "ts": "2026-07-15T15:28:19-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 722,
+   "ts": "2026-07-15T15:28:24-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "FOLLOW_UP",
+   "id": 724,
+   "ts": "2026-07-20T21:26:40-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 735,
+   "ts": "2026-08-01T15:53:20-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 736,
+   "ts": "2026-08-01T15:53:29-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 737,
+   "ts": "2026-08-01T19:08:10-05:00",
+   "sender": "Derrek"
+  },
+  {
+   "event": "PAYMENT_CLAIMED",
+   "id": 739,
+   "ts": "2026-08-04T15:50:47-05:00",
+   "sender": "Hailey Client"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 741,
+   "ts": "2026-08-04T17:46:25-05:00",
+   "sender": "Derrek"
+  }
+ ]
+}

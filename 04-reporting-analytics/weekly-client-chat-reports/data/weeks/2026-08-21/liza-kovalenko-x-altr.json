@@ -1,0 +1,201 @@
+{
+  "client": "Liza Kovalenko",
+  "slug": "liza-kovalenko-x-altr",
+  "week_ending": "2026-08-21",
+  "summary": "Second consecutive near-silent week, and this one is worse than it looks: 7 messages, and 100% of them were about the invoice. ALTR's only outbound contact all week was Stephski's Aug 1-14 invoice on Aug 15 plus the attached PDF - no Derrek, no Mica reel inspo (first skipped week after Jul 29 and Aug 13 drops), no follow-up on the OnlyFans flag. Liza carried the entire client side herself and, importantly, she paid without being chased: on Aug 19, four days after the invoice, she confirmed 'I sent two wires from the same name as last time. One for 5.000$ and another for the rest 2.433$', posted three screenshots, then corrected herself with 'Actually it's 3 wires sorry'. As of the end of the window nobody at ALTR had replied to confirm the money landed - two days of silence on a split third-party wire that was sent into a bank account number Stephski changed in that very same invoice message ('Please note an update to the account number'). That is the exact setup that produced the '$1201 remaining' phantom shortfall on Jul 27 and the $200 short on Jul 14. Meanwhile the two things she was actually promised remain undelivered: Derrek's 'plenty of updates starting next week' on the $40k Phone Farm / IG rebuild (promised Aug 1 for the week of Aug 9, now 13 days past the promised window with zero Derrek messages since Aug 4), and Ronnie's 'will keep an eye if it happens again will look more into it' on the OF tag-a-creator flag (12 days, never reported back). The relationship has now fully narrowed to billing: she pays on time, and gets an invoice in return.",
+  "health": {
+    "score": 66,
+    "trend": "down",
+    "rationale": "Down from 70. The client did the right thing - paid the Aug 1-14 invoice unprompted within 4 days - but ALTR's entire outbound for the week was one invoice and one PDF. Derrek's Aug 1 Phone Farm update is now 13 days past its promised window with no owner contact since Aug 4, Ronnie's OF-flag investigation commitment aged to 12 days with no report-back, Mica skipped the weekly reel inspo for the first time in three cycles, and her split third-party wire into a newly-changed account number sat unacknowledged for the last 2 days of the window. Two straight weeks where the only proactive touch is an invoice is a churn pattern, not a quiet patch."
+  },
+  "reminders": [
+    {
+      "employee": "Stephski",
+      "topic": "Confirming receipt of split third-party wires - Liza has now had to ask ALTR to check/double-check where her money landed on three consecutive wire cycles, and this week's payment went unacknowledged entirely",
+      "count": 4,
+      "first_date": "2026-07-14",
+      "last_date": "2026-08-19",
+      "days_outstanding": 2,
+      "quotes": [
+        {"quote": "It should be from Leticia Linss or Jose Munoz", "who": "Eli", "date": "2026-07-14"},
+        {"quote": "It was sent from the same name as last time", "who": "Eli", "date": "2026-07-21"},
+        {"quote": "You sure you only got one? Can you please double check?", "who": "Eli", "date": "2026-07-29"},
+        {"quote": "Hey! I sent two wires from the same name as last time. One for 5.000$ and another for the rest 2.433$", "who": "Eli", "date": "2026-08-19"},
+        {"quote": "Actually it’s 3 wires sorry", "who": "Eli", "date": "2026-08-19"}
+      ]
+    },
+    {
+      "employee": "Derrek",
+      "topic": "Instagram account safety / the promised Phone Farm + backup-IG rollout updates - her #1 stated priority, promised on Aug 1 and silent ever since",
+      "count": 2,
+      "first_date": "2026-08-01",
+      "last_date": "2026-08-21",
+      "days_outstanding": 13,
+      "quotes": [
+        {"quote": "Thank you for your understanding, we will have plenty of updates starting next week.", "who": "Derrek", "date": "2026-08-01"},
+        {"quote": "We are waiting for a shipment that should land Monday that will be the final piece needed to begin and scale.", "who": "Derrek", "date": "2026-08-01"}
+      ],
+      "note": "Not a reminder from the client - she has stopped asking, which is the concerning part. Derrek's last message in the chat of any kind was 2026-08-04 ('has to match the account owners info'). No Derrek message in either the Aug 8-14 or Aug 15-21 windows."
+    },
+    {
+      "employee": "OF chat team (Ronnie / Mayson / Nick Scott)",
+      "topic": "OnlyFans 'tag a creator' flag - what triggers it, whether it endangers the account. Third incident since January, still no diagnosis, and the promised follow-up never came",
+      "count": 5,
+      "first_date": "2026-01-26",
+      "last_date": "2026-08-09",
+      "days_outstanding": 12,
+      "quotes": [
+        {"quote": "What does this mean does anyone has idea??", "who": "Eli", "date": "2026-01-26"},
+        {"quote": "@Atxnickkk  any updates on this?", "who": "Eli", "date": "2026-01-26"},
+        {"quote": "Hey!! I see this message in my only fans , needs to tag a creator, but there’s no other people in my content , I think it’s a mistake :/", "who": "Eli", "date": "2026-08-06"},
+        {"quote": "I think there was an arm of a person in the selfie , but completely normal selfie. And I deleted it. But now it marks the entire message, other photos too.", "who": "Eli", "date": "2026-08-09"},
+        {"quote": "So I just tag someone and that’s it ?", "who": "Eli", "date": "2026-08-09"}
+      ]
+    }
+  ],
+  "complaints": [
+    {
+      "issue": "Engagement collapse, now two consecutive weeks. 7 messages this week (5 client, 2 team) after 6 last week, on an account that ran 10-25/week through June and July. Worse than the raw number: every single message in the window was invoice-related, so ALTR's proactive surface this week was literally one invoice. Mica's weekly reel inspo - the only non-billing touchpoint left - did not go out at all (last drop Aug 13), and the previous two drops (Jul 29, Aug 13) both went unanswered.",
+      "status": "recurring",
+      "first_raised": "2026-08-14",
+      "owner": "Derrek / Mica Vecco",
+      "quotes": [
+        {"quote": "Hi hun! Hope you had a great week. Below is your invoice for the period of August 1st-14th. Please note an update to the account number, please try and send using the information on the invoice. Have also attached updated Zelle info that should be easy to use now. Thanks so much!💘", "who": "Stephski", "date": "2026-08-15"},
+        {"quote": "hi @xanaduexpress! here’s your reel inspo for the week 🩷", "who": "Mica Vecco", "date": "2026-08-13"},
+        {"quote": "Hey! I sent two wires from the same name as last time. One for 5.000$ and another for the rest 2.433$", "who": "Eli", "date": "2026-08-19"}
+      ],
+      "note": "Partial alternative explanation: she historically travels in late August (Hawaii Aug 2025, Burning Man late Aug). But travel does not explain ALTR going billing-only for two straight weeks."
+    },
+    {
+      "issue": "Instagram flagging / shadowbans / deletions - open since Oct 2025. Derrek announced the $40k Phone Farm fix and Meta rep Vivek on Aug 1 and promised updates 'starting next week'. Two full weeks have now passed with no update and no Derrek message since Aug 4. She has stopped raising it herself, which on her #1 priority reads as resignation rather than resolution.",
+      "status": "recurring",
+      "first_raised": "2025-10-10",
+      "owner": "Derrek / Vivek",
+      "quotes": [
+        {"quote": "Thank you for explaining this, it is really really frustrating, as even my clothes posts and all my recent posts getting flagged every day. I delete all flagged content and the next day bunch of new contents gets flagged. At this point looks like I have to delete everything I’ve been posting, this algorithm doesn’t make sense..", "who": "Eli", "date": "2025-10-20"},
+        {"quote": "Hi babe ! I have this problem with my insta again when they don’t recommend my profile but won’t tell me what’s wrong or what content to remove… 🫩", "who": "Eli", "date": "2026-03-17"},
+        {"quote": "Thank you for your understanding, we will have plenty of updates starting next week.", "who": "Derrek", "date": "2026-08-01"}
+      ]
+    },
+    {
+      "issue": "OnlyFans 'tag a creator' flag (third occurrence since 2026-01-26). She was given a workaround, never a diagnosis, and the flag had already spread beyond the deleted photo when she last reported it. Ronnie promised to look into it if it recurred; it had already recurred in the same message thread and nothing has been reported back in 12 days. Not re-raised by her this week.",
+      "status": "recurring",
+      "first_raised": "2026-01-26",
+      "owner": "OF chat team (Ronnie / Mayson / Nick Scott)",
+      "quotes": [
+        {"quote": "I think there was an arm of a person in the selfie , but completely normal selfie. And I deleted it. But now it marks the entire message, other photos too.", "who": "Eli", "date": "2026-08-09"},
+        {"quote": "That's very strange.. There is nobody else in the content and it's doing this? If it's a one off just this time tag a creator on the post that you can comfortably tag on your post and will keep an eye if it happens again will look more into it", "who": "Ronnie", "date": "2026-08-09"},
+        {"quote": "Yes!", "who": "Mayson", "date": "2026-08-13"}
+      ]
+    },
+    {
+      "issue": "Banking details changed AGAIN in the Aug 15 invoice ('an update to the account number' plus updated Zelle info), only six weeks after the Jul 1 change that Stephski labelled the last one. This is the 5th banking change she has been asked to absorb since Sep 2025, and she is the client least able to absorb them - she pays by in-branch Mexican wires from third-party senders while travelling.",
+      "status": "new",
+      "first_raised": "2026-08-15",
+      "owner": "Stephski / Derrek",
+      "quotes": [
+        {"quote": "Please note an update to the account number, please try and send using the information on the invoice. Have also attached updated Zelle info that should be easy to use now.", "who": "Stephski", "date": "2026-08-15"},
+        {"quote": "Want to let you know we have a new bank for you to send to (last change I promise!). Thank you for being patient", "who": "Stephski", "date": "2026-07-01"},
+        {"quote": "Hi love!! \n\nI hope you are enjoying your weekend!! We’ve recently updated our banking details, and we kindly ask that you use the information below for all future payments:", "who": "Lauren (Biz Assistant)", "date": "2025-09-27"}
+      ]
+    }
+  ],
+  "commitments": [
+    {
+      "what": "Confirm receipt of the Aug 1-14 payment. Liza reported 3 wires totalling $7,433 on Aug 19 with three screenshots and an immediate self-correction on the wire count; no one at ALTR acknowledged, confirmed or reconciled it before the window closed on Aug 21. Given the new account number in the same invoice and two consecutive cycles of wire reconciliation errors, this needs an explicit 'all received, $X of $X' reply.",
+      "who": "Stephski",
+      "date": "2026-08-19",
+      "status": "pending",
+      "days_outstanding": 2,
+      "quotes": [
+        {"quote": "Hey! I sent two wires from the same name as last time. One for 5.000$ and another for the rest 2.433$", "who": "Eli", "date": "2026-08-19"},
+        {"quote": "Actually it’s 3 wires sorry", "who": "Eli", "date": "2026-08-19"},
+        {"quote": "@xanaduexpress we recieved $6300, still $1201 remaining", "who": "Stephski", "date": "2026-07-27"}
+      ]
+    },
+    {
+      "what": "Phone Farm / backup-IG rollout updates - Derrek promised 'plenty of updates starting next week' on Aug 1, meaning the week of Aug 9. Two windows have now passed (Aug 8-14 and Aug 15-21) with no Derrek message of any kind since Aug 4 and no update delivered, on the client's single highest-priority issue.",
+      "who": "Derrek",
+      "date": "2026-08-01",
+      "status": "overdue",
+      "days_overdue": 13,
+      "quotes": [
+        {"quote": "We are waiting for a shipment that should land Monday that will be the final piece needed to begin and scale.", "who": "Derrek", "date": "2026-08-01"},
+        {"quote": "Thank you for your understanding, we will have plenty of updates starting next week.", "who": "Derrek", "date": "2026-08-01"},
+        {"quote": "I’m extremely excited for this to roll out, as just the testing alone in two weeks has generated over 400 million views across the Accounts.", "who": "Derrek", "date": "2026-08-01"}
+      ]
+    },
+    {
+      "what": "ESCALATED pending -> overdue: Ronnie committed on Aug 9 to monitor the OF tag-a-creator flag and investigate if it recurred. It had already recurred and spread in the very next message. 12 days later there has been no investigation, no diagnosis and no report-back - only Mayson's one-word 'Yes!' on Aug 13.",
+      "who": "Ronnie (OF chat team)",
+      "date": "2026-08-09",
+      "status": "overdue",
+      "days_overdue": 12,
+      "quotes": [
+        {"quote": "That's very strange.. There is nobody else in the content and it's doing this? If it's a one off just this time tag a creator on the post that you can comfortably tag on your post and will keep an eye if it happens again will look more into it", "who": "Ronnie", "date": "2026-08-09"},
+        {"quote": "But now it marks the entire message, other photos too.", "who": "Eli", "date": "2026-08-09"}
+      ]
+    },
+    {
+      "what": "STALE since Nov 2025 (276 days): statistics / summary on the paid Instagram ads she paid an extra 5% for. Asked twice, never delivered. This is money she was billed for with nothing shown in return, and it has now survived three quarterly report cycles.",
+      "who": "Derrek",
+      "date": "2025-11-18",
+      "status": "overdue",
+      "days_overdue": 276,
+      "quotes": [
+        {"quote": "Also, guys, we increased the 5% for this month in order to try out the paid Instagram ads, I wanna know how it’s going so far. \nIs there any statistics I can see? Would like to get more information on it thank you", "who": "Eli", "date": "2025-11-18"},
+        {"quote": "Glad to hear that! Would love to see the statistics on the promo. Any time you can, no rush. Thanks", "who": "Eli", "date": "2025-11-23"}
+      ]
+    },
+    {
+      "what": "DONE: Aug 1-14 invoice issued on schedule. Stephski pre-warned her on Aug 14 ('invoicing will start tomorrow') and delivered the invoice plus PDF on Aug 15 with the updated banking details. Billing execution remains the one reliably on-time function in this account.",
+      "who": "Stephski",
+      "date": "2026-08-15",
+      "status": "done",
+      "quotes": [
+        {"quote": "Hi love ❤️ just reaching out to remind you that invoicing will start tomorrow 🙏 Please withdraw from OF if needed. Will reach out to you tomorrow!", "who": "Stephski", "date": "2026-08-14"},
+        {"quote": "Hi hun! Hope you had a great week. Below is your invoice for the period of August 1st-14th.", "who": "Stephski", "date": "2026-08-15"}
+      ]
+    }
+  ],
+  "payments": [
+    {
+      "note": "Aug 1-14 invoice: sent Aug 15, paid Aug 19 - ON TIME and unprompted, no chasing required. She reported $5,000 + $2,433 = $7,433 across what she first called two wires and then corrected to three, from the same third-party sender name as the Jul 1-14 cycle (Leticia Linss / Jose Munoz), with three screenshots as proof. This is her cleanest wire cycle since Jun 15-30. THE RISK IS ON ALTR'S SIDE, NOT HERS: the payment went into an account number Stephski changed in the same invoice message, it is split across three transfers from a name that is not hers, and nobody had confirmed receipt by Aug 21. The last two split-wire cycles both went wrong ($200 short on Jul 14, and a '$1201 remaining' phantom shortfall on Jul 27 that took until Jul 31 to clear only because she pushed back).",
+      "date": "2026-08-19",
+      "late": false,
+      "amount": "$7,433 across 3 wires ($5,000 + $2,433 stated)",
+      "reason": "She travels constantly, Mexican banks require in-branch wires, and card links carry a 5% surcharge - so payment arrives split across multiple third-party wires or as crypto direct to Derrek, both of which bypass Stephski's visibility.",
+      "suggested_fix": "Reply in the Invoicing topic within 24h with an explicit reconciliation: 'received 3 wires totalling $7,433 against the $X invoice, nothing outstanding.' Then stop changing bank details mid-cycle - this was the 5th change since Sep 2025 and the second in six weeks, and it is the single largest reconciliation risk on this account.",
+      "quotes": [
+        {"quote": "Hey! I sent two wires from the same name as last time. One for 5.000$ and another for the rest 2.433$", "who": "Eli", "date": "2026-08-19"},
+        {"quote": "Actually it’s 3 wires sorry", "who": "Eli", "date": "2026-08-19"},
+        {"quote": "Please note an update to the account number, please try and send using the information on the invoice.", "who": "Stephski", "date": "2026-08-15"}
+      ]
+    }
+  ],
+  "client_priorities": [
+    "Instagram account safety and growth - shadowbans, false flags, random deletions and locks. Still her #1 concern, and it has now had zero ALTR communication for two straight weeks despite an explicit promise of updates",
+    "Definitive answers when OnlyFans/Instagram send warning notifications - what the flag means and whether her account is at risk, not a workaround. Three tag-a-creator incidents since January, still no diagnosis",
+    "Frictionless payment logistics - she pays willingly and early, but she needs stable banking details and prompt written confirmation that split third-party wires landed",
+    "Fast takedowns of leaks, scam pages and impersonators (consistently appreciative of Nick | DMCA)",
+    "Visibility into results she has paid for - weekly reel inspo she can execute while travelling, plus the paid-ads statistics outstanding since November"
+  ],
+  "suggestions": [
+    "TODAY: Stephski confirms the 3 wires totalling $7,433 landed against the Aug 1-14 invoice, with the exact figure. She paid early into a brand-new account number and has heard nothing for 2 days; the last two split-wire cycles both produced errors she had to chase herself.",
+    "URGENT - owner level: Derrek has not sent a message since Aug 4 and his Aug 1 promise of 'plenty of updates starting next week' is 13 days past its window on her top priority. Send a concrete Phone Farm status this week (accounts live, views, restrictions cleared) or explicitly reset the timeline. Silence after a $40k announcement is worse than a delay.",
+    "Two consecutive billing-only weeks is a churn signal. Book a non-transactional check-in call - the last monthly-call ask was Mayson on Jul 20 and was never followed up. If she is travelling (late August is historically Burning Man/vacation for her), a 10-minute call still resets the relationship before the Sep 1 invoice.",
+    "Close the OF tag-a-creator loop with a real answer, not a workaround: what triggers the flag, whether it can harm the account, and a one-line SOP. Ronnie owns this and is 12 days past his own commitment; the client has stopped asking, which is not the same as being satisfied.",
+    "Restore the reel inspo cadence - Mica skipped this week after Jul 29 and Aug 13. It is the last non-billing touchpoint on the account. Pair the next drop with a direct question ('did any of these work for you?') so it stops being a broadcast she can ignore.",
+    "Freeze banking changes. Five changes since Sep 2025, two in the last six weeks, on the client with the most fragile payment rail. If a change is unavoidable, send it as a standalone message a week before the invoice, not buried in the invoice itself."
+  ],
+  "wins": [
+    "She paid the Aug 1-14 invoice in 4 days with zero chasing and volunteered screenshots plus a self-correction on the wire count - the most cooperative payment behaviour on this account since June, and strong evidence she is not disengaging over money",
+    "Stephski's billing operation ran clean: heads-up on Aug 14, invoice plus PDF on Aug 15, updated Zelle details proactively supplied to make payment easier",
+    "No complaints, no negative sentiment and no escalations from the client all week - the relationship is cool and transactional rather than damaged, so there is still runway to re-engage"
+  ],
+  "week_stats": {
+    "messages": 7,
+    "client_messages": 5,
+    "team_messages": 2
+  }
+}

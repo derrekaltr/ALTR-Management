@@ -1,0 +1,10 @@
+import { chromium } from 'playwright';
+const b = await chromium.launch();
+const pg = await b.newPage({viewport:{width:1440,height:1000}});
+const errs=[]; pg.on('pageerror',e=>errs.push(String(e)));
+pg.on('console',m=>{ if(m.type()==='error') errs.push('console: '+m.text()); });
+await pg.goto('file:///Users/locklyjailbreak/conductor/workspaces/Starter%20project/chennai/dashboard/index.html');
+await pg.waitForTimeout(900);
+await pg.screenshot({path:'chennai.png'});
+console.log('errors:', JSON.stringify(errs.slice(0,5), null, 1));
+await b.close();

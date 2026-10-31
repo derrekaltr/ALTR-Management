@@ -1,0 +1,116 @@
+{
+  "client": "Paige",
+  "slug": "paige-x-altr",
+  "status": "active",
+  "status_reason": "Still initiating same-day (last message 8/26, an IG issue for Vivek) and always thanks us — but the relationship has narrowed to IG lockout triage and invoices; the Aug 15 invoice is unacknowledged 11 days (first time she has not replied to one) and no OF/promo output has reached her in over a month.",
+  "last_client_message": "2026-08-26",
+  "dimensions": {
+    "responsiveness": {
+      "severity": 1,
+      "internal_failure": "Vivek answers within minutes; the lag is mostly hers (new to Telegram, asleep for login-approval requests). Minor: login approvals are requested at times she is asleep with no fallback.",
+      "evidence": [
+        {"quote": "@paigeleighx need login approval", "who": "Vivek", "date": "2026-08-13"},
+        {"quote": "oh sorry i was asleep can you try again", "who": "Paige (Chey Ref)", "date": "2026-08-14"},
+        {"quote": "Ma’am can you click on read more about this rule and take a screenshot", "who": "Vivek", "date": "2026-08-26"}
+      ]
+    },
+    "follow_through": {
+      "severity": 2,
+      "internal_failure": "Derrek's 'plenty of updates starting next week' produced none in 25 days; Mica's 'weekly' creative ideas came twice in nine weeks; Mayson's 'always online' OF lead has not posted since 6/29.",
+      "evidence": [
+        {"quote": "I'm always online so I will get a response to your promptly... ALWAYS!!!", "who": "Mayson Chat", "date": "2026-06-25"},
+        {"quote": "Thank you for your understanding, we will have plenty of updates starting next week.", "who": "Derrek", "date": "2026-08-01"},
+        {"quote": "share creative ideas weekly to boost your content and engagement.", "who": "Mica Vecco", "date": "2026-06-24"}
+      ]
+    },
+    "proactive_communication": {
+      "severity": 3,
+      "internal_failure": "No OF numbers in 63 days; Michelle silent since 7/18 (39 days) with no posting links ever shared; the only unprompted outreach is invoices, two reel-inspo lists and a mass-template update. Longest team silences: 8 days (7/7-7/15, 8/4-8/13).",
+      "evidence": [
+        {"quote": "perfect! let me know if you have any questions babes 💕 let me know once you upload as well", "who": "Michelle Queue", "date": "2026-07-07"},
+        {"quote": "awww lol it’s okay! also if you can upload a few pictures as well for story post that’ll be great babe 💕", "who": "Michelle Queue", "date": "2026-07-18"},
+        {"quote": "hi @paigeleighx! here’s your reel inspo for the week 🩷", "who": "Mica Vecco", "date": "2026-08-13"}
+      ]
+    },
+    "onboarding_handoff": {
+      "severity": 3,
+      "internal_failure": "Client did not see the group for 12 days after onboarding and nobody noticed until an invoice ping; the Mica kickoff ('ill book now') was never confirmed; form completion was never confirmed; no account manager was ever named.",
+      "evidence": [
+        {"quote": "oh i didnt see this sorry im new to telegram ill do this now x", "who": "Paige (Chey Ref)", "date": "2026-07-06"},
+        {"quote": "hii sorry im new to telegram still figuring it out 😂 ill book now xx", "who": "Paige (Chey Ref)", "date": "2026-07-06"},
+        {"quote": "Hey @paigeleighx just making sure you saw this 🙂", "who": "Stephski", "date": "2026-07-06"}
+      ]
+    },
+    "chatter_conduct": {
+      "severity": 1,
+      "internal_failure": "No complaints and no evidence either way; the do-not-sell form was sent but never confirmed received.",
+      "evidence": [
+        {"quote": "Making sure that nothing you DO NOT want sold is ever sold... with that being said here is the form link for the form", "who": "Mayson Chat", "date": "2026-06-25"}
+      ]
+    },
+    "platform_health": {
+      "severity": 3,
+      "internal_failure": "Four IG lockouts/resets in 28 days (7/29, 8/13-14, 8/20-21, 8/26), each fixed by re-logging in with no root cause, no hardening and no explanation — including an episode where she approved a login on the wrong account.",
+      "evidence": [
+        {"quote": "hey @fonta ive just realised i cant share links xx", "who": "Paige (Chey Ref)", "date": "2026-07-29"},
+        {"quote": "No you give me on wrong page approval", "who": "Vivek", "date": "2026-08-14"},
+        {"quote": "no i just got logged out made me confirm my details thinking i was hacled", "who": "Paige (Chey Ref)", "date": "2026-08-14"}
+      ]
+    },
+    "billing_ops": {
+      "severity": 2,
+      "internal_failure": "First invoice went 20 days unpaid because she never saw the group; the 8/4 wire was never confirmed received in chat; the 8/15 invoice changed the bank account number and sat unacknowledged 11 days before a nudge.",
+      "evidence": [
+        {"quote": "hey ive sent it should arrive tomorrow c", "who": "Paige (Chey Ref)", "date": "2026-08-04"},
+        {"quote": "Please note an update to the account number, please try and send using the information on the invoice.", "who": "Stephski", "date": "2026-08-15"},
+        {"quote": "@paigeleighx Making sure you saw this", "who": "Stephski", "date": "2026-08-26"}
+      ]
+    },
+    "ownership_escalation": {
+      "severity": 2,
+      "internal_failure": "Only Vivek and Stephski interact with her; the OF lead has been absent since day 5; a recurring lockout has no escalation beyond 'send login'.",
+      "evidence": [
+        {"quote": "Hey Ive added Vivek in here ( @fonta ). He is our Meta Support Rep that will help keep your IG accounts up and safe.", "who": "Derrek", "date": "2026-07-29"},
+        {"quote": "Send login", "who": "Vivek", "date": "2026-07-29"},
+        {"quote": "Send id password", "who": "Vivek", "date": "2026-08-20"}
+      ]
+    },
+    "disengagement_detection": {
+      "severity": 2,
+      "internal_failure": "Her 12-day post-onboarding silence was not noticed by anyone (first chase was a bill), and in nine weeks nobody has asked how the service is going — her engagement today is IG firefighting, not the product.",
+      "evidence": [
+        {"quote": "oh perfect sorry i didn’t see these ill have a look now xx", "who": "Paige (Chey Ref)", "date": "2026-07-06"},
+        {"quote": "please help 😂💞", "who": "Paige (Chey Ref)", "date": "2026-08-13"}
+      ]
+    },
+    "security_hygiene": {
+      "severity": 3,
+      "internal_failure": "IG username/email/password posted in the group chat five times, plus SMS/WhatsApp codes, a backup code and her phone number; Vivek asked for DM once, she posted in-group anyway, nobody deleted or rotated, and the password degraded to 'Password1123' — all sitting next to ALTR's own wire details.",
+      "evidence": [
+        {"quote": "xpaigex18 / paigelgrogan4@icloud.com / Tylerthomas2014", "who": "Paige (Chey Ref)", "date": "2026-07-29"},
+        {"quote": "Send login in dm", "who": "Vivek", "date": "2026-08-13"},
+        {"quote": "Password1123", "who": "Paige (Chey Ref)", "date": "2026-08-21"}
+      ]
+    }
+  },
+  "metrics": {
+    "client_questions_total": 5,
+    "unanswered_over_24h": 0,
+    "max_team_silence_days": 8,
+    "promises_made": 6,
+    "promises_kept": 3,
+    "promises_lapsed": 3,
+    "method": "Manual read of all 127 messages. Client asks (all IG/Vivek): can't share links (7/29), please help (8/13), how do I approve (8/14), password changed (8/21), screenshot @fonta (8/26) — all answered within hours. Promises: Vivek 'will update' x3 (kept); Derrek weekly updates, Mica weekly ideas, Mayson always-online (lapsed). Team silence = longest gap between consecutive ALTR messages."
+  },
+  "what_client_wanted": [
+    "Her IG to work and stay logged in: \"hey @fonta ive just realised i cant share links xx\" (7/29); \"please help 😂💞\" (8/13)",
+    "Patience with the platform: \"sorry im new to telegram still figuring it out 😂\" (7/6)",
+    "To be kept informed: \"thank you for updating me 💗 im excited to see where this goes\" (8/1)"
+  ],
+  "what_worked": [
+    "Vivek's fast, hands-on fixes: \"thank you so much x\" (7/29), \"perfect thank you so much\" (8/21)",
+    "Derrek's 8/1 transparency on the IG phone-farm rebuild: \"oh wow! thats insane hopefully it works out thank you for updating me 💗\" (8/1)",
+    "Michelle's gentle handling of her upload confusion kept her engaged: \"awww lol it’s okay!\" (7/18)"
+  ],
+  "top_fix": "Move all IG credential and 2FA handling out of the group into a private channel and have Vivek do a one-time hardening (strong password on her own number, 2FA, backup codes) instead of re-logging in weekly — then give her a named AM who sends OF numbers so the relationship is about more than lockouts and invoices."
+}

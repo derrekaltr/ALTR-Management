@@ -1,0 +1,220 @@
+{
+  "client": "Chey Mai",
+  "slug": "chey-mai-x-altr",
+  "as_of": "2026-09-11",
+  "account_status": {
+    "state": "churned / offboarded, not formally communicated to the client",
+    "declared_internally_on": "2026-09-05",
+    "declared_by": "Stephski, confirmed by Michelle",
+    "evidence": "Message id 51 2026-09-05T15:12:08-04:00 Stephski: '@sotom225 shes not with us anymore'; message id 52 2026-09-05T16:28:01-04:00 Michelle: 'yes we removed already'. @sotom225 is Michelle (she posted 'here’s my email: [REDACTED-RECOVERY-EMAIL]' in another client chat 2026-05-07).",
+    "corroboration": [
+      "Weekly leak-removal breakdown ran 2026-08-10, 2026-08-17, 2026-08-25 then stopped — nothing on Sep 1 or Sep 8 (17 days, streak broken)",
+      "The Aug 15-31 invoice due out ~2026-09-01 was never sent; no invoice message exists after 2026-08-15",
+      "No ALTR message addressed to the client since 2026-08-26 (16 days)"
+    ],
+    "never_done": "No termination or wind-down message was ever sent to the client, no final statement, no stop-billing notice, no collections handoff. The removal exists only as a two-line staff aside in the DMCA topic, posted in a topic the client can read.",
+    "client_silent_days": 31,
+    "last_client_message": "2026-08-11T11:06:21-04:00",
+    "last_altr_message_to_client": "2026-08-26T19:16:41-04:00",
+    "last_two_way_exchange_any": "2026-08-11 (payment thread, Stephski <-> Cheyene)",
+    "last_two_way_exchange_about_service": "2026-07-23 (Mayson checked her IG account status — 'Looks all good')"
+  },
+  "open_complaints": [
+    {
+      "issue": "Client was offboarded with no notice to her and no record beyond a two-line internal exchange on 2026-09-05. No termination message, no final statement, no balance settlement, no owner.",
+      "status": "new",
+      "first_raised": "2026-09-05",
+      "owner": "Derrek",
+      "severity": "critical",
+      "days_outstanding": 6,
+      "note": "THE headline item. Two billing periods remain unpaid at the point of removal. She also referred Paige to ALTR, so the exit affects a live referral relationship."
+    },
+    {
+      "issue": "Total dormancy — 31 days since the client last wrote (2026-08-11), 16 days since anyone at ALTR addressed her (2026-08-26). Three payment chases unanswered, then chasing stopped entirely. Every prior chase in the relationship was answered same-day or within minutes.",
+      "status": "recurring",
+      "first_raised": "2026-08-15",
+      "owner": "Stephski / Derrek",
+      "severity": "critical",
+      "days_outstanding": 31,
+      "note": "Escalated from 17 days. The silence ran both directions for the whole 08-28 -> 09-11 window. Prior response times for contrast: Jul 13 same day, Jul 21 same day, Aug 11 within ten minutes."
+    },
+    {
+      "issue": "Two invoices left unpaid and unresolved at the point of removal: Jul 15-31 (41 days from send, 34 past due) and the combined Aug 15 bill (27 days from send, 20 past due, never acknowledged by the client in any form).",
+      "status": "recurring",
+      "first_raised": "2026-08-08",
+      "owner": "Stephski / Derrek",
+      "severity": "critical",
+      "days_outstanding": 34,
+      "note": "No final demand, no payment plan, no write-off decision, no handoff exists anywhere."
+    },
+    {
+      "issue": "Bank account number changed on the 2026-08-15 invoice and the client never acknowledged it. 27 days unverified and never ruled out before she was removed — we still cannot distinguish 'could not pay' from 'payment misrouted to the old account'.",
+      "status": "recurring",
+      "first_raised": "2026-08-15",
+      "owner": "Stephski",
+      "severity": "high",
+      "days_outstanding": 27,
+      "note": "Escalated from 13 days. She paid the June invoice 'thru my normal bank'. CHECK THE NEW ACCOUNT FOR AN INBOUND TRANSFER BEFORE ANY WRITE-OFF — this is one lookup and it is still unexcluded."
+    },
+    {
+      "issue": "Service promises that expired with the client: Derrek's phone-farm/IG rollout update (41 days, never posted); Vivek introduced 2026-07-29 as dedicated Meta Support rep and never posted a single message in 44 days, Copyright Ban Protection never set up; onboarding items from Jun 22-25 (sales form, previous-team unlink, reels Drive uploads) never confirmed in 78 days.",
+      "status": "recurring",
+      "first_raised": "2026-06-25",
+      "owner": "Derrek",
+      "severity": "high",
+      "days_outstanding": 78,
+      "note": "POST-MORTEM RECORD, not an action item on this account. Promo topic had zero messages in her final 41 days; Social Media zero in 44. Her only unprompted service concern in the whole relationship was account safety (2026-07-22) and that is exactly what Vivek was assigned to and never touched."
+    }
+  ],
+  "resolved_last_week": [],
+  "open_commitments": [
+    {
+      "what": "Tell the client in writing that the relationship has ended, and settle or formally write off the outstanding balance",
+      "who": "Derrek",
+      "date": "2026-09-05",
+      "status": "overdue",
+      "days_outstanding": 6,
+      "note": "NEW. The only action that still matters on this account. Owner-level decision — do not leave it in the collections queue."
+    },
+    {
+      "what": "Check the new bank account (changed 2026-08-15) for an inbound transfer from the client before any write-off decision",
+      "who": "Stephski",
+      "date": "2026-08-15",
+      "status": "overdue",
+      "days_outstanding": 27,
+      "note": "The one open question that materially affects whether the balance is collectable."
+    },
+    {
+      "what": "Pay the combined Aug 15 invoice (Aug 1-14 plus the unpaid Jul 15-31 balance) — implied due ~2026-08-22",
+      "who": "Cheyene Burridge",
+      "date": "2026-08-22",
+      "status": "overdue",
+      "days_outstanding": 20,
+      "note": "Escalated from 6 days. Largest bill of the relationship, never acknowledged by the client at any point, no chase since 2026-08-26."
+    },
+    {
+      "what": "Pay the Jul 15-31 invoice (sent 2026-08-01, due 2026-08-08, extended by her own request to 2026-08-15)",
+      "who": "Cheyene Burridge",
+      "date": "2026-08-15",
+      "status": "overdue",
+      "days_outstanding": 41,
+      "note": "Escalated from 27 days: 41 from send, 34 past original due, 27 past her own extension. Four chases (Aug 9, 11, 15, 26), unanswered since Aug 11, then chasing stopped."
+    },
+    {
+      "what": "Make off-thread contact with the client (SMS/call to [REDACTED-NUMBER]) — headline recommendation of the 2026-08-21 and 2026-08-28 reports",
+      "who": "Stephski / Derrek",
+      "date": "2026-08-21",
+      "status": "overdue",
+      "days_outstanding": 21,
+      "note": "Recommended three weeks running, never evidenced, account closed in the meantime. Clearest single process failure of the relationship. Still the only channel likely to reach her about the balance."
+    },
+    {
+      "what": "Decide and communicate whether work actually pauses for non-payment",
+      "who": "Derrek / Stephski",
+      "date": "2026-08-28",
+      "status": "overdue",
+      "days_outstanding": 14,
+      "note": "Answered in the worst way: two pause warnings (Aug 11, Aug 15) never enforced, then service stopped silently at removal with no announcement. AGENCY-WIDE POLICY GAP — will repeat on other accounts. Write down what happens at 14 and 30 days past due, and who signs it off."
+    },
+    {
+      "what": "Post the promised phone-farm/IG rollout update ('plenty of updates starting next week', promised 2026-08-01 for the week of Aug 8-14)",
+      "who": "Derrek",
+      "date": "2026-08-01",
+      "status": "overdue",
+      "days_outstanding": 41,
+      "note": "Escalated from 27 days. Dead as a deliverable; retained as post-mortem evidence of why she left. She was billed across two periods with zero IG output."
+    },
+    {
+      "what": "Set up the client's accounts for Copyright Ban Protection via Vivek",
+      "who": "Derrek / Vivek",
+      "date": "2026-07-29",
+      "status": "overdue",
+      "days_outstanding": 44,
+      "note": "Escalated from 30 days. Vivek never posted once between being introduced and the client being removed."
+    },
+    {
+      "what": "Answer whether ALTR accepts PayPal (asked 2026-07-13, 'Let me check on that for you')",
+      "who": "Stephski",
+      "date": "2026-07-13",
+      "status": "overdue",
+      "days_outstanding": 60,
+      "note": "Escalated from 46 days, closing unanswered. Process finding: the one billing-convenience request from a client whose entire failure mode was billing friction went two months without a reply."
+    },
+    {
+      "what": "Confirm the open onboarding items: sales-preferences form, previous chat team unlink, IG reels uploads to the shared Drive",
+      "who": "Cheyene Burridge / Mayson / Michelle",
+      "date": "2026-06-25",
+      "status": "overdue",
+      "days_outstanding": 78,
+      "note": "Escalated from 64 days. Never confirmed, never re-chased in the entire relationship."
+    }
+  ],
+  "completed_recently": [],
+  "payment_history": [
+    {"invoice_period": "2026-06-23 to 2026-06-30", "sent": "2026-07-01", "paid": "2026-07-13", "late": true, "days_late": 12, "notes": "Paid via bank transfer after the Jul 11 reminder; client asked about PayPal the same day and was never answered."},
+    {"invoice_period": "2026-07-01 to 2026-07-14", "sent": "2026-07-15", "paid": "2026-07-21", "late": true, "days_late": 6, "notes": "Paid after the Jul 20 reminder."},
+    {"invoice_period": "2026-07-15 to 2026-07-31", "sent": "2026-08-01", "paid": null, "late": true, "days_outstanding": 41, "days_late": 34, "notes": "NEVER PAID. Due 2026-08-08, missed. Chased Aug 9, Aug 11 (with pause warning), Aug 15 (inside the combined invoice), Aug 26. Client asked for 4 more days on Aug 11 citing her OF payout; extension expired 2026-08-15 unpaid. 41 days from send, 34 past due, 27 past her own extension. No chase since 2026-08-26."},
+    {"invoice_period": "2026-08-01 to 2026-08-14 (combined with the Jul 15-31 balance)", "sent": "2026-08-15", "paid": null, "late": true, "days_outstanding": 27, "days_late": 20, "notes": "NEVER PAID, NEVER ACKNOWLEDGED IN ANY FORM. Largest bill of the relationship. Carried a CHANGED BANK ACCOUNT NUMBER plus updated Zelle info that the client never confirmed receiving. Implied due ~2026-08-22, passed unpaid and unchased. Only one chase followed (Aug 26) and it did not restate the new bank details."},
+    {"invoice_period": "2026-08-15 to 2026-08-31", "sent": null, "paid": null, "late": false, "notes": "NEVER ISSUED. Was due to go out ~2026-09-01. No invoice message exists after 2026-08-15. Billing stopped without any recorded decision; the only related statement is the 2026-09-05 internal 'shes not with us anymore'."}
+  ],
+  "payment_risk": {
+    "level": "critical — receivable on a churned account with no owner",
+    "invoices_overdue": 2,
+    "oldest_days_outstanding": 41,
+    "consecutive_late_invoices": 4,
+    "invoices_never_paid": 2,
+    "paid_without_chase": 0,
+    "client_response_to_chases": "none since 2026-08-11; chasing stopped 2026-08-26 (16 days ago)",
+    "exposure": "two full billing periods, billed together on 2026-08-15",
+    "drivers": [
+      "OF payout cycle never aligned with 1st/15th invoicing on 7-day terms",
+      "Two billing periods stacked into one demand immediately after she said she was short",
+      "Invoices posted to the Invoicing topic she admitted she misses",
+      "No confirmed convenient payment rail — PayPal question 60 days unanswered",
+      "Unverified bank account change on 2026-08-15 — still cannot rule out a misrouted payment",
+      "Pause-in-work warnings issued twice, never enforced, then service stopped silently anyway",
+      "Chasing abandoned entirely after 2026-08-26 with the balance still open"
+    ],
+    "collectability_note": "Weakened by delivery: the Aug 1-14 period she is being asked to pay for produced one recurring leak-removal screenshot and zero IG output. Reconcile delivered service before pursuing.",
+    "next_action": "Check the new bank account for an inbound transfer, then one direct contact on [REDACTED-NUMBER] with a final statement and a split-payment offer. If no answer in 7 days, make and RECORD a formal write-off decision."
+  },
+  "client_priorities": [
+    "Protecting her main IG account (@Cheymai_) from targeting, flags and restrictions — the only thing she ever raised unprompted (2026-07-22); assigned to Vivek 2026-07-29, who never posted once in 44 days",
+    "Payment timing and convenience — cash flow gated on her OnlyFans payout cycle; asked about PayPal 2026-07-13, never answered in 60 days; admitted she misses invoices posted in the Invoicing topic",
+    "Seeing the IG promo/posting program restart after the phone-farm migration with a concrete date — never given one; Promo had zero messages in her final 41 days"
+  ],
+  "health_history": [
+    {"week_ending": "2026-08-08", "score": 62, "trend": "down"},
+    {"week_ending": "2026-08-14", "score": 55, "trend": "down"},
+    {"week_ending": "2026-08-21", "score": 44, "trend": "down"},
+    {"week_ending": "2026-08-28", "score": 33, "trend": "down"},
+    {"week_ending": "2026-09-11", "score": 8, "trend": "down", "note": "Covers the two-week window 2026-08-28 -> 2026-09-11; no report was scored for 2026-09-04 (the run crashed and too few messages existed to write findings)."}
+  ],
+  "week_stats_history": [
+    {"week_ending": "2026-08-08", "messages": 0, "client_messages": 0, "team_messages": 0},
+    {"week_ending": "2026-08-14", "messages": 6, "client_messages": 2, "team_messages": 4},
+    {"week_ending": "2026-08-21", "messages": 4, "client_messages": 0, "team_messages": 4},
+    {"week_ending": "2026-08-28", "messages": 2, "client_messages": 0, "team_messages": 2},
+    {"week_ending": "2026-09-11", "messages": 2, "client_messages": 0, "team_messages": 2, "note": "Two-week window. Both messages were internal staff chatter on 2026-09-05; zero client-facing messages in fourteen days."}
+  ],
+  "engagement_trend": [
+    {"week_ending": "2026-08-08", "messages": 0, "client_messages": 0, "health": 62},
+    {"week_ending": "2026-08-14", "messages": 6, "client_messages": 2, "health": 55},
+    {"week_ending": "2026-08-21", "messages": 4, "client_messages": 0, "health": 44},
+    {"week_ending": "2026-08-28", "messages": 2, "client_messages": 0, "health": 33},
+    {"week_ending": "2026-09-11", "messages": 2, "client_messages": 0, "health": 8}
+  ],
+  "assets_and_handles": {
+    "client_telegram": "@cheymai1",
+    "client_name": "Cheyene Burridge",
+    "client_ig": "@Cheymai_",
+    "custom_domain": "cheyennesworld.vip",
+    "stephski_phone": "[REDACTED-NUMBER]",
+    "vivek_handle": "@fonta",
+    "michelle_handle": "@sotom225 ([REDACTED-RECOVERY-EMAIL])",
+    "reels_drive": "https://drive.google.com/drive/folders/1sH_ShNmT-ffJ6q0nW77ZSjJGXPQsaWKh",
+    "sales_form": "https://docs.google.com/document/d/1Jh01aJamqXm-XELpaq8EfuZ6QjZmjt3sLlUXSCgUKhY",
+    "referral": "She referred Paige to ALTR — the 'Paige (Chey Ref)' alias in config/clients.yaml. Churn here touches a live referral relationship."
+  },
+  "notes": "ACCOUNT IS GONE. This window (2026-08-28 -> 2026-09-11, two weeks) contained exactly two messages, both ALTR-side, both internal, both on 2026-09-05: Stephski wrote '@sotom225 shes not with us anymore' in the DMCA topic and Michelle replied 'yes we removed already'. That is the entire fortnight and it is the whole story. Fifth consecutive decline, 62 -> 55 -> 44 -> 33 -> 8. DORMANCY MATH AS OF 2026-09-11: client silent 31 days (last message 2026-08-11); nobody from ALTR has addressed her in 16 days (last was Stephski's 2026-08-26 chase); last two-way exchange of any kind 2026-08-11 (billing); last two-way exchange about actual service 2026-07-23, 50 days ago, when Mayson said 'Looks all good' about her account status. Derrek last spoke to her 2026-08-01 (41 days); Mayson 2026-07-23 (50 days); Vivek never, in 44 days since being added; Eric since 2026-06-22. THREE INDEPENDENT SIGNALS CONFIRM THE REMOVAL IS REAL: Michelle's weekly leak-removal report ran Aug 10 / Aug 17 / Aug 25 and then stopped dead (nothing Sep 1 or Sep 8); the Aug 15-31 invoice due ~2026-09-01 was never sent; and zero client-facing messages exist in the window. WHAT WAS NEVER DONE: she was never told. There is no message anywhere in the 45-message history informing her the relationship ended, pausing service formally, issuing a final statement, or handing the balance to anyone. She was removed while owing two full billing periods. MONEY STILL OPEN: Jul 15-31 invoice 41 days from send / 34 past due / 27 past the extension she asked for herself; combined Aug 15 invoice 27 days from send / 20 past due, never acknowledged in any form. Four invoices total in the relationship, all four late, none ever paid without a chase, the last two never paid at all. THE UNEXCLUDED EXPLANATION: the bank account number changed on the 2026-08-15 invoice and she never confirmed she saw it — 27 days and nobody ever checked the new account for an inbound transfer. Do that before signing any write-off, because 'she never saw the new details' would change the conclusion. COLLECTABILITY CAVEAT: the Aug 1-14 period she is being billed for produced one recurring leak-removal screenshot and zero IG output, with Derrek's promised phone-farm update 41 days overdue. That weakens any collection attempt. PROCESS FAILURES TO FIX AGENCY-WIDE, NOT CLIENT-SPECIFIC: (1) a client can be offboarded here with no notice, no final invoice and no record beyond a two-line staff aside in a topic the client can read; (2) pause-for-non-payment was threatened twice (Aug 11, Aug 15), never enforced, and then delivery stopped silently anyway; (3) the same off-thread-contact recommendation was made three weeks running and never actioned before the account closed. FOR NEXT RUN: unless someone re-establishes contact, do not score this as a live account — carry it as a receivable and a post-mortem. If it is still being scored, check in order: (1) was she ever formally told; (2) did anyone check the new bank account; (3) was a write-off decision recorded and by whom; (4) does Paige's account show any spillover."
+}

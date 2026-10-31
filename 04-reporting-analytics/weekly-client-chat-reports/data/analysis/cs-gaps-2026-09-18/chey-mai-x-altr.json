@@ -1,0 +1,155 @@
+{
+  "client": "Chey Mai",
+  "slug": "chey-mai-x-altr",
+  "status": "churned",
+  "status_reason": "Removed as a client on 2026-09-05 and never told. The entire record of the decision is a two-line staff aside posted in the DMCA topic she can still read — Stephski: 'shes not with us anymore', Michelle: 'yes we removed already'. No termination message, no final statement, no write-off decision, and two full billing periods left unpaid. Her last message was 2026-08-11 (38 days ago); the last time anyone at ALTR addressed her at all was 2026-08-26 (23 days ago); the last two-way exchange about actual service was 2026-07-23 (57 days ago). Three independent signals confirm the removal is real: the weekly leak-removal report ran 2026-08-10 / 08-17 / 08-25 and then stopped dead (nothing on Sep 1, Sep 8 or Sep 15), the Aug 15-31 invoice due out ~2026-09-01 was never sent, and there have been zero client-facing messages in 23 days.",
+  "last_client_message": "2026-08-11",
+  "dimensions": {
+    "responsiveness": {
+      "severity": 2,
+      "internal_failure": "Only four inbound messages in eleven weeks actually needed a response and we mishandled two of them: her account-safety report sat about 30 hours, and her PayPal question got 'Let me check on that for you' and then nothing, ever — 67 days and counting. Billing chases, by contrast, went out within hours. We were fast at asking and slow at answering.",
+      "evidence": [
+        {"quote": "Do you guys have PayPal", "who": "Cheyene Burridge (client)", "date": "2026-07-13"},
+        {"quote": "Let me check on that for you", "who": "Stephski", "date": "2026-07-13"},
+        {"quote": "My Cheymai_ account is being targeted now", "who": "Cheyene Burridge (client)", "date": "2026-07-22"}
+      ]
+    },
+    "follow_through": {
+      "severity": 3,
+      "internal_failure": "Eight of the twelve explicit commitments we made to this client expired unmentioned: the PayPal answer, the previous-team unlink Eric assigned on day one and nobody ever chased, the sales-preferences form never confirmed returned, the reels Drive never confirmed used, Vivek introduced as her dedicated Meta Support rep who posted zero messages in the 38 days before she was removed, and Derrek's 'plenty of updates starting next week' that produced no updates in the 48 days since.",
+      "evidence": [
+        {"quote": "@mmayson  can you please coordinate with start time so she can unlink her current team :)", "who": "Eric The Efficient", "date": "2026-06-22"},
+        {"quote": "Hey Ive added Vivek in here ( @fonta ). He is our Meta Support Rep that will help keep your IG accounts up and safe. [...] To start, if you want your accounts setup for Copyright Ban Protection he can assist.", "who": "Derrek", "date": "2026-07-29"},
+        {"quote": "Thank you for your understanding, we will have plenty of updates starting next week.", "who": "Derrek", "date": "2026-08-01"}
+      ]
+    },
+    "proactive_communication": {
+      "severity": 3,
+      "internal_failure": "In eleven weeks she received exactly one recurring unprompted deliverable — a weekly leak-removal screenshot — and nothing else. Not one OnlyFans revenue figure, subscriber count, chatter report or IG posting update was ever sent to her. Of the 38 ALTR messages in the entire history, 20 are Stephski's and most of those are invoices or payment chases; the Social Media topic produced one message in eleven weeks and the Promo topic three.",
+      "evidence": [
+        {"quote": "Hi love! Here’s your weekly update on the leak removal breakdown for the past 7 days 🫶🏼", "who": "Michelle Queue", "date": "2026-08-10"},
+        {"quote": "Hi love 💕 I’m Michelle, part of the promo team, we will be handling IG repurposing and promo coordination for your page. ✨ Our goal is to maximize your visibility, keep everything running seamlessly, and make sure your content gets the best possible exposure.", "who": "Michelle Queue", "date": "2026-06-22"},
+        {"quote": "@cheymai1 Hi love we haven’t heard back from you regarding payment, please respond asap", "who": "Stephski", "date": "2026-08-26"}
+      ]
+    },
+    "onboarding_handoff": {
+      "severity": 3,
+      "internal_failure": "Week one opened four threads and closed none of them, and nobody noticed for 85 days: the sales-preferences form was sent and never confirmed returned, the previous chat team was never confirmed unlinked, the reels Drive was never confirmed used, and no kickoff call was ever offered or held. There is no evidence anywhere in the history that we verified we actually controlled the OnlyFans page we then billed against for four periods.",
+      "evidence": [
+        {"quote": "When you're able please fill out the form that will give the team everything they need to know about yourself AND the ability to sell in confidence. Making sure that nothing you DO NOT want sold is ever sold...", "who": "Mayson Chat", "date": "2026-06-22"},
+        {"quote": "@cheymai1 please let me know when you’re previous team can get off so we can assign our team!", "who": "Mayson Chat", "date": "2026-06-23"},
+        {"quote": "dropping your google drive here just in case 💕", "who": "Michelle Queue", "date": "2026-06-25"}
+      ]
+    },
+    "chatter_conduct": {
+      "severity": 1,
+      "internal_failure": "No misconduct is visible — but only because the OnlyFans topic went completely silent after the second day and there is no evidence in eleven weeks that any selling, briefing or boundary confirmation ever happened. We promised 'the ability to sell in confidence' on a form we never confirmed she returned, then never discussed her page again, so we cannot actually assert her content boundaries were respected.",
+      "evidence": [
+        {"quote": "My names Mayson, I handle all things OnlyFans so if you've ever got any questions then pleeeeease do not hesitate to ask!!! I'm always online so I will get a response to your promptly... ALWAYS!!!", "who": "Mayson Chat", "date": "2026-06-22"},
+        {"quote": "@cheymai1 please let me know when you’re previous team can get off so we can assign our team!", "who": "Mayson Chat", "date": "2026-06-23"},
+        {"quote": "Looks all good", "who": "Mayson Chat", "date": "2026-07-23"}
+      ]
+    },
+    "platform_health": {
+      "severity": 3,
+      "internal_failure": "Account safety was the only thing this client ever raised on her own initiative in eleven weeks, and we answered it about 30 hours later with a glance at a screenshot — 'Looks all good', 'Don’t worry' — and a suggestion that she archive her own content. Six days later Derrek assigned her a dedicated Meta rep for exactly that problem who then never posted once, and Copyright Ban Protection was never set up.",
+      "evidence": [
+        {"quote": "My Cheymai_ account is being targeted now", "who": "Cheyene Burridge (client)", "date": "2026-07-22"},
+        {"quote": "Looks all good [...] Don’t worry [...] The content that needs to be removed you can archive it", "who": "Mayson Chat", "date": "2026-07-23"},
+        {"quote": "we have had pages constantly flagged, shadowbanned or deleted [...] if you noticed that we may have paused in the last week or so, it is due to us, making sure your accounts are completely secure [...] My apologies, for any lack of communication.", "who": "Derrek", "date": "2026-08-01"}
+      ]
+    },
+    "billing_ops": {
+      "severity": 3,
+      "internal_failure": "Four invoices, all four late, none ever paid without a chase, the last two never paid at all — and every cause was ours: we invoiced on the 1st/15th with 7-day terms against an OnlyFans payout cycle we never aligned to, posted invoices into a topic she admitted she misses, left her one payment-convenience question unanswered for 67 days, stacked two periods into a single larger demand four days after she said she was short, and changed the bank account number on the 2026-08-15 invoice without ever confirming she saw it.",
+      "evidence": [
+        {"quote": "Can you give me 4 more days please I’m just waiting for money to turn over from OF", "who": "Cheyene Burridge (client)", "date": "2026-08-11"},
+        {"quote": "Oh I didn’t even see this was for 2nd of August! I’m so sorry", "who": "Cheyene Burridge (client)", "date": "2026-08-11"},
+        {"quote": "Please note an update to the account number, please try and send using the information on the invoice. Have also attached updated Zelle info that should be easy to use now.", "who": "Stephski", "date": "2026-08-15"}
+      ]
+    },
+    "ownership_escalation": {
+      "severity": 3,
+      "internal_failure": "Nobody owned this account. Eric introduced it and left after one message; Mayson stopped speaking to her on 2026-07-23; Michelle only ever posted templates; Vivek never posted at all; Derrek spoke to her twice in eleven weeks. By August the only person still in contact was the invoicing coordinator, so the relationship reduced to a collections thread — and then even that stopped, with no one deciding it had.",
+      "evidence": [
+        {"quote": "Hi @cheymai1 this will be the main group super excited to begin working with you!", "who": "Eric The Efficient", "date": "2026-06-22"},
+        {"quote": "@cheymai1 Hi just pinging payment for your latest invoice, can you send by tomorrow?", "who": "Stephski", "date": "2026-08-09"},
+        {"quote": "@sotom225 shes not with us anymore", "who": "Stephski", "date": "2026-09-05"}
+      ]
+    },
+    "disengagement_detection": {
+      "severity": 3,
+      "internal_failure": "A client who had replied same-day or within minutes to every previous chase went silent after 2026-08-11 and nobody treated the break in her own pattern as a signal — we sent two more chases, stopped on 2026-08-26, never tried the phone number we had, and on 2026-09-05 quietly deleted her from the workflow in a two-line staff aside posted in a topic she can read. She was never told the relationship had ended, and 13 days later still has not been.",
+      "evidence": [
+        {"quote": "@cheymai1 Hi love we haven’t heard back from you regarding payment, please respond asap", "who": "Stephski", "date": "2026-08-26"},
+        {"quote": "@sotom225 shes not with us anymore", "who": "Stephski", "date": "2026-09-05"},
+        {"quote": "yes we removed already", "who": "Michelle Queue", "date": "2026-09-05"}
+      ]
+    },
+    "security_hygiene": {
+      "severity": 1,
+      "internal_failure": "No credentials were ever posted in this chat, which is the one thing that went right — but access hygiene was never handled either: a staff member's personal mobile number was published in-thread as the client support route, a shared Drive and a custom domain were created on her behalf, and when she was removed on 2026-09-05 no access, asset or share was revoked, returned or even listed.",
+      "evidence": [
+        {"quote": "my phone number is 4079217561 if you ever need to reach me", "who": "Stephski", "date": "2026-07-01"},
+        {"quote": "Hey @cheymai1  this is a custom domain built with the latest technology that will help you from shadow bans or account restrictions related to your link. \n\ncheyennesworld.vip", "who": "Mayson Chat", "date": "2026-06-29"},
+        {"quote": "yes we removed already", "who": "Michelle Queue", "date": "2026-09-05"}
+      ]
+    }
+  },
+  "metrics": {
+    "client_questions_total": 4,
+    "unanswered_over_24h": 2,
+    "max_team_silence_days": 23,
+    "promises_made": 12,
+    "promises_kept": 4,
+    "promises_lapsed": 8,
+    "method": "Manual pass over all 52 lines of data/chats/chey-mai-x-altr.jsonl (45 messages + 7 service events). The client sent only 7 messages in the entire 75-day relationship; 'client questions' counts the 4 that required a response — PayPal availability (2026-07-13), the payment-already-sent reconciliation (2026-07-13), the account-targeting report (2026-07-22), and the 4-day extension request (2026-08-11). 'Unanswered >24h' = the PayPal question (holding reply only, still unanswered after 67 days) and the account-targeting report (~29.7h to first substantive reply). 'Max team silence' = 23 days and still running, measured from the last ALTR message addressed to her (2026-08-26) to today; the longest silence during the live relationship was 10 days (2026-07-01 to 2026-07-11). 'Promises' = explicit forward commitments by ALTR staff: 12 made, 4 kept (custom domain delivered 06-29, invoicing ownership established 07-01, combined invoice issued as promised 08-15, 'will reach out to you tomorrow' honoured 08-15), 8 lapsed. CAVEAT: with a client this quiet, low question counts reflect OUR absence of contact, not a healthy account — the OnlyFans topic carried 2 messages in eleven weeks and the Social Media topic 1."
+  },
+  "what_client_wanted": [
+    "Her main Instagram protected. The only thing she ever raised unprompted in eleven weeks: 'My Cheymai_ account is being targeted now' (2026-07-22), sent with a screenshot. It was assigned to Vivek a week later and he never posted once in the 38 days before she was removed.",
+    "Payment timing that matched her OnlyFans payout cycle rather than our 1st/15th calendar: 'Can you give me 4 more days please I’m just waiting for money to turn over from OF' (2026-08-11).",
+    "An easier way to pay: 'Do you guys have PayPal' (2026-07-13) — the single convenience request from a client whose entire failure mode was billing friction, answered with 'Let me check on that for you' and then never again in 67 days.",
+    "Invoices she would actually see. She was not dodging them, she was missing them: 'Oh I didn’t even see this was for 2nd of August! I’m so sorry' (2026-08-11)."
+  ],
+  "what_worked": [
+    "She pays when she is reminded warmly and understands the ask. Stephski's gentle chases produced same-day results twice — 'Money should have gone in thou! I paid thru my normal bank ☺️' (2026-07-13) and 'Paid xx' (2026-07-21). Tone was never the problem; cadence and payment rail were.",
+    "Michelle's weekly leak-removal breakdown was the only cadence the account ever had, running 2026-08-10, 08-17 and 08-25 unprompted — 'Hi love! Here’s your weekly update on the leak removal breakdown for the past 7 days 🫶🏼'. It is the one piece of recurring evidence-of-work this client ever received and should have been paired with an equivalent OnlyFans and IG number.",
+    "Stephski flagging the invoicing calendar before it landed — 'just reaching out to remind you that invoicing will start tomorrow 🙏 Please withdraw from OF if needed' (2026-08-14) — is exactly the right instinct: it works with her payout cycle instead of against it. It arrived two months too late and happened only once."
+  ],
+  "churn_timeline": [
+    {"date": "2026-06-22", "event": "Last clearly-healthy moment: onboarding day. Eric opens the group, Mayson introduces himself and sends the sales-preferences form, Michelle introduces the promo team. Four commitments made in one day; not one is ever confirmed closed.", "quote": "My names Mayson, I handle all things OnlyFans so if you've ever got any questions then pleeeeease do not hesitate to ask!!! I'm always online so I will get a response to your promptly... ALWAYS!!!"},
+    {"date": "2026-06-23", "event": "The previous-team unlink request goes unanswered and is never chased again. On day 2 we lose the thread on whether we actually control the page we are about to bill for.", "quote": "@cheymai1 please let me know when you’re previous team can get off so we can assign our team!"},
+    {"date": "2026-06-25", "event": "Michelle sends the reels content request and Drive link. No upload is ever confirmed, and the Social Media topic produces nothing further for the rest of the relationship.", "quote": "dropping your google drive here just in case 💕"},
+    {"date": "2026-06-29", "event": "Mayson delivers the cheyennesworld.vip custom domain — the last actual service deliverable in the whole history.", "quote": "this is a custom domain built with the latest technology that will help you from shadow bans or account restrictions related to your link. \n\ncheyennesworld.vip"},
+    {"date": "2026-07-01", "event": "Stephski introduces herself and invoicing, publishing her personal mobile as the contact route. From here the invoicing topic carries the entire relationship.", "quote": "My name is Stephanie and I will be handling all things invoice related with you. my phone number is 4079217561 if you ever need to reach me."},
+    {"date": "2026-07-11", "event": "First payment friction, 10 days after the invoice — and the first outbound message from our side in 10 days of total silence.", "quote": "@cheymai1 Hey we're still missing payment 🙂"},
+    {"date": "2026-07-13", "event": "Signal missed. She asks for an easier payment rail, gets a holding reply and never an answer. She pays anyway, via her normal bank, the same day.", "quote": "Do you guys have PayPal"},
+    {"date": "2026-07-22", "event": "Her only unprompted service concern in the entire relationship, sent with a screenshot.", "quote": "My Cheymai_ account is being targeted now"},
+    {"date": "2026-07-23", "event": "Answered ~30 hours later with a glance rather than an investigation. This is the last two-way exchange about actual service in the whole history — 57 days ago, and 44 days before she was removed. She never raised anything again.", "quote": "Looks all good [...] Don’t worry [...] The content that needs to be removed you can archive it"},
+    {"date": "2026-07-29", "event": "Vivek is introduced as her dedicated Meta Support rep for exactly the problem she raised a week earlier. He never posts a single message.", "quote": "Hey Ive added Vivek in here ( @fonta ). He is our Meta Support Rep that will help keep your IG accounts up and safe."},
+    {"date": "2026-08-01", "event": "Derrek's phone-farm explanation — an apology for the silence plus a promise of updates that never arrive. The Jul 15-31 invoice goes out the same day. From this point we are billing against undelivered work.", "quote": "My apologies, for any lack of communication. [...] Thank you for your understanding, we will have plenty of updates starting next week."},
+    {"date": "2026-08-09", "event": "Chase 1 on the Jul 15-31 invoice. No reply.", "quote": "@cheymai1 Hi just pinging payment for your latest invoice, can you send by tomorrow?"},
+    {"date": "2026-08-11", "event": "Chase 2 carries a pause-in-work warning. She replies within 10 minutes explaining the problem is cash-flow timing and invoice visibility — then sends what turns out to be the LAST MESSAGE SHE EVER WRITES. Our response is to tell her another invoice lands in 4 days and will be combined.", "quote": "Can you give me 4 more days please I’m just waiting for money to turn over from OF"},
+    {"date": "2026-08-15", "event": "The combined invoice — the largest bill of the relationship — arrives four days after she said she was short, carrying a CHANGED bank account number and new Zelle details. She never acknowledges it in any form.", "quote": "Please note an update to the account number, please try and send using the information on the invoice."},
+    {"date": "2026-08-25", "event": "Last leak-removal breakdown. The weekly streak then stops dead — nothing on Sep 1, Sep 8 or Sep 15.", "quote": "Hi love! Here’s your weekly update on the leak removal breakdown for the past 7 days 💕"},
+    {"date": "2026-08-26", "event": "Chase 4 and the last message ALTR ever addresses to her. Chasing then stops entirely, with no decision recorded. The phone number we hold for her is never used.", "quote": "@cheymai1 Hi love we haven’t heard back from you regarding payment, please respond asap"},
+    {"date": "2026-09-05", "event": "Removed. Two lines in the DMCA topic — a topic the client can read — are the entire record of the decision. She was never told, never sent a final statement, and owed two full billing periods.", "quote": "@sotom225 shes not with us anymore"},
+    {"date": "2026-09-18", "event": "13 days after removal and 38 days after her last message, she still has not been informed, the balance has not been settled or written off, the changed bank account has still not been checked for an inbound transfer, and no asset or access has been revoked or returned.", "quote": ""}
+  ],
+  "warning_signs_missed": [
+    "2026-06-23 — 'please let me know when you’re previous team can get off so we can assign our team!' went unanswered and was never chased. On day 2 we lost the thread on whether we actually controlled the page we were about to bill for, and nobody checked for 85 days. One follow-up message would have closed it.",
+    "2026-06-22 to 2026-06-25 — four onboarding commitments (sales form, previous-team unlink, reels Drive uploads, promo coordination) opened in three days and not one was ever confirmed complete. An onboarding checklist with no close-out step is exactly how an account becomes invisible.",
+    "2026-07-13 — 'Do you guys have PayPal' from a client whose only recurring problem was paying us on time. A solvable, revenue-protecting question that has now sat 67 days. Answering it would have cost one message and might have collected two invoices.",
+    "2026-07-13 — 'Money should have gone in thou! I paid thru my normal bank' told us plainly which rail was working for her. We later changed the account number on that rail and never confirmed she saw it.",
+    "2026-07-22/23 — a self-reported account-safety threat answered in ~30 hours with 'Looks all good' and 'Don’t worry', and no follow-up check afterwards. When the one thing a client cares about gets a glance instead of an investigation, she stops raising things — and she never did again.",
+    "2026-07-23 onward — that was the last service conversation of the relationship. From that day the only topic anyone wrote in was invoicing. An account whose entire outbound traffic is bills should flag itself within two weeks; this one ran six and nothing in our process looks for it.",
+    "2026-07-29 to 2026-09-05 — Vivek was introduced as the dedicated specialist for her exact problem and posted zero messages in 38 days. Nobody audits whether an introduced specialist ever actually engages.",
+    "2026-08-01 — the owner promised 'plenty of updates starting next week' and delivered none, while she was simultaneously billed for two periods that produced one recurring screenshot and zero IG output. We were invoicing against undelivered work and nobody reconciled delivery against billing.",
+    "2026-08-11 — 'I’m just waiting for money to turn over from OF' and 'I didn’t even see this was for 2nd of August'. She told us exactly what was wrong: cash-flow timing and invoice visibility. Our response four days later was to stack both periods into a single larger demand. That message, on that day, is the last thing she ever wrote to us.",
+    "2026-08-15 — changing the bank account number on the biggest invoice of the relationship, sent to a client who had just said she was short, with no read-receipt or confirmation step. 34 days later we still cannot distinguish 'could not pay' from 'paid into the old account'. One bank lookup would settle it and it has still not been done.",
+    "2026-08-11 to 2026-08-26 — a client with a 100% same-day reply record went silent for 15 days across three chases. That break in her own established pattern is the single cleanest churn signal in this history, and no process on our side watches for it.",
+    "2026-08-26 to 2026-09-05 — we stopped chasing without making a decision, then removed her without telling her. The gap between 'we gave up' and 'we made a call' was never closed by anyone, and the off-thread phone contact recommended in three consecutive weekly reports was never attempted.",
+    "2026-09-05 to 2026-09-18 — the removal itself generated no action: 13 days on, there is still no termination notice, no final statement, no write-off, no access revocation and no check on the referral relationship with Paige, whom she introduced."
+  ],
+  "top_fix": "Write down and enforce a non-payment and offboarding policy — what happens at 14 and 30 days past due, who signs it off, and the absolute rule that a client is TOLD before she is removed — because the defining failure here is that a paying client was deleted from the workflow in a two-line staff aside posted in a topic she can read, owing two billing periods, having never been informed the relationship ended. STILL DANGLING AS OF 2026-09-18: (1) MONEY — two invoices unpaid and unresolved: Jul 15-31 (sent 2026-08-01, 48 days out, 41 past due, 34 past the extension she asked for herself) and the combined Aug 1-14 bill (sent 2026-08-15, 34 days out, ~27 past due, never acknowledged in any form). The Aug 15-31 invoice due ~2026-09-01 was never issued; billing simply stopped with no recorded decision. BEFORE any write-off, check the NEW bank account for an inbound transfer — the account number changed on the 2026-08-15 invoice, she never confirmed she saw it, and 'she paid into the old account' has still not been excluded after 34 days. Weigh also that the period being billed produced one recurring leak-removal screenshot and zero IG output, which materially weakens collectability. (2) ACCOUNT ACCESS AND ASSETS — the cheyennesworld.vip custom domain we built and control was never handed back or retired; the shared reels Google Drive folder and the sales-preferences form document were never revoked or returned; the management-run IG account and any content she uploaded for it were never addressed; no chatter cutoff date was ever set or confirmed on her OnlyFans page; and we never confirmed the previous chat team was unlinked in the first place, so our access position on her page has been unverified since day 2. Nothing was revoked, returned or even listed when she was removed on 2026-09-05. (3) CREDENTIALS — none were posted in this chat at any point, which is genuinely clean; the only sensitive item in-thread is a staff member's personal mobile number published as her support route, which is now the only realistic channel left to reach her. ACTION: one owner-signed contact on that number stating the relationship has ended, a final statement with both periods itemised and a split-payment offer, an explicit list of what we are retiring and handing back, and if there is no answer within 7 days a formally RECORDED write-off. Note that she referred Paige, who is also now churned — handle the exit as a referral-chain post-mortem, not a collections ticket."
+}

@@ -1,0 +1,120 @@
+{
+  "client": "Shayna",
+  "slug": "shayna-x-altr",
+  "status": "at_risk",
+  "status_reason": "Still warm and engaged (messaging through 9/3) and pays every invoice, but health fell 4 straight weeks (58->46->42->40), the only QC on the account is her own OF inbox, and her post-Africa audit (9/1) surfaced a $4,700 private live sold AFTER her 7/27 ban - Fred admitted 9/3 the internal notes still said she does 1:1s. Every recurring breach traces to us not writing her rules down.",
+  "last_client_message": "2026-09-03",
+  "dimensions": {
+    "responsiveness": {
+      "severity": 3,
+      "internal_failure": "Fred answers sales asks in minutes but client problems in days or never; she had to ask Mayson to get the chat answered at all, and her Aug 7 custom question is still unanswered 27 days later.",
+      "evidence": [
+        {"quote": "Can someone answer in the chat all my messages are just left on seen 🥲", "who": "Shayna Holt", "date": "2026-08-11"},
+        {"quote": "Hi, please look into this if this guy has a custom", "who": "Shayna Holt", "date": "2026-08-07"},
+        {"quote": "Also an update on this when you can would be appreciated", "who": "Shayna Holt (chasing the 8/7 question; never answered as of 9/3)", "date": "2026-08-09"}
+      ]
+    },
+    "follow_through": {
+      "severity": 3,
+      "internal_failure": "Promises silently lapse: vault-notes rule (8/6) never confirmed, PG media folder (8/5) never built, time-waster filter (7/28) never confirmed, replacement chatter (8/11) never named, and the customs tracker she asked for 7/20 was finally created 39 days later - by her.",
+      "evidence": [
+        {"quote": "Relaying to the team - will add this to the vault notes as well!", "who": "fred SPITFIRE (never confirmed done; free-content breaches recurred 8/9)", "date": "2026-08-06"},
+        {"quote": "I will bring on someone who will not be using these strategies to monetize your fan base.", "who": "fred SPITFIRE (replacement never named as of 9/3)", "date": "2026-08-11"},
+        {"quote": "Hii I just set up notion", "who": "Shayna Holt (doing herself the tracker she requested 7/20)", "date": "2026-08-28"}
+      ]
+    },
+    "proactive_communication": {
+      "severity": 2,
+      "internal_failure": "Zero unprompted earnings/strategy updates from the OF side after week 1; Fred's outbound is almost entirely custom-request asks; longest all-team silence 5.7 days (8/17-8/23) and it was broken by another ask. Michelle's weekly leak report is the only reliable proactive heartbeat.",
+      "evidence": [
+        {"quote": "Hey Shayna hope you're well - do you have an idea of what date you're back and able to do requests again. No rush we had a big push on Jim  for one", "who": "fred SPITFIRE (only OF-side message in a 10-day stretch, and it is an ask)", "date": "2026-08-23"},
+        {"quote": "Hi love! Here’s your weekly update on the leak removal breakdown for the past 7 days 💕", "who": "Michelle Queue (the one dependable proactive report)", "date": "2026-09-01"},
+        {"quote": "we will have plenty of updates starting next week.", "who": "Derrek (phone-farm update 8/1; zero updates in this chat in the 33 days since)", "date": "2026-08-01"}
+      ]
+    },
+    "onboarding_handoff": {
+      "severity": 2,
+      "internal_failure": "We sold a full-frontal-nude custom on day 3 off a misread questionnaire before establishing her boundaries; the Mica kickoff call and FB access dragged for weeks (Apr 22 -> Jun 2+) and ended with her posting her password in chat instead of a working handoff flow.",
+      "evidence": [
+        {"quote": "Hi I don’t do full nude. No vagina. I always have panties on", "who": "Shayna Holt (reacting to a $150 custom already sold day 3)", "date": "2026-04-15"},
+        {"quote": "Hey Shayna the team are going purely off your questionnaire in which you put that you'd do $30 per pic for a nude picture", "who": "fred SPITFIRE", "date": "2026-04-15"},
+        {"quote": "hi bb! can you please send me your FB login i’m just going to try and go in and grant the access myself so it’s easier", "who": "Mica Vecco (access handoff still unresolved 6 weeks in)", "date": "2026-05-08"}
+      ]
+    },
+    "chatter_conduct": {
+      "severity": 3,
+      "internal_failure": "Her three hard rules (no vagina promises, nothing explicit free on a free page, no private lives) were each breached repeatedly for months; the 9/1 audit revealed a $4,700 private live sold after her 7/27 ban, and Fred admitted 9/3 the internal notes never recorded the ban.",
+      "evidence": [
+        {"quote": "Why are people paying and are promised they’ll see pussy? I don’t want charge backs or upset fans", "who": "Shayna Holt (same issue first raised 4/15)", "date": "2026-08-11"},
+        {"quote": "Hi did this guy spend $4700 on a private live? ... Also guys i’m not doing private lives anymore. I can’t remember if we talked about this I think we might have", "who": "Shayna Holt (post-Africa audit; lives banned 7/27, reminded 8/3)", "date": "2026-09-01"},
+        {"quote": "I am not sure if we did I still have internal notes with the team that you do 1:1 on OnlyFans", "who": "fred SPITFIRE (admitting the standing rule was never written down)", "date": "2026-09-03"}
+      ]
+    },
+    "platform_health": {
+      "severity": 2,
+      "internal_failure": "Derrek's 8/1 message admitted weeks of quietly paused IG work, promised 'plenty of updates starting next week', and 33 days later there have been none in this chat; Mica has been silent since 8/13 and the IG repurposing thread has produced nothing since 5/1.",
+      "evidence": [
+        {"quote": "My apologies, for any lack of communication. ... we will have plenty of updates starting next week.", "who": "Derrek", "date": "2026-08-01"},
+        {"quote": "hi Shayna! here’s your reel inspo for the week 🩷", "who": "Mica Vecco (her last message in the chat; 21 days of silence since)", "date": "2026-08-13"},
+        {"quote": "Hey love, just checking in about the reels for the backup IG account. Have you had a chance to start working on any content yet?", "who": "Michelle Queue (repurposing thread then went dormant)", "date": "2026-05-01"}
+      ]
+    },
+    "billing_ops": {
+      "severity": 3,
+      "internal_failure": "Three bank changes in three months; her 8/18 Zelle-cap question was never answered so the Aug invoice went 4 days late; her 8/26 payment has NEVER been receipt-confirmed, yet the 9/1 invoice arrived with a threat to pause work - the exact confirmation gap she halted payment over on 7/5.",
+      "evidence": [
+        {"quote": "Will send right now, if it’s a new Zelle I may only be able to do 1000 at a time. Let me check", "who": "Shayna Holt (implicit question; no reply for 8 days)", "date": "2026-08-18"},
+        {"quote": "Hope you’re having a great trip! Checking back in on this", "who": "Stephski (only follow-up, 11 days later; no total, no rail help)", "date": "2026-08-26"},
+        {"quote": "I ask that you please pay within 7 days to avoid any pausing of work 🙏", "who": "Stephski (new invoice with pause threat while the 8/26 payment remains unacknowledged)", "date": "2026-09-01"}
+      ]
+    },
+    "ownership_escalation": {
+      "severity": 2,
+      "internal_failure": "OF issues have a single point of failure (Fred) with Mayson reduced to a human router repeatedly @-tagging him; the client twice had to escalate (Derrek 4/26, Mayson 8/11) just to get the group answered, and Mayson had to demand the Notion invite 'asap' after she chased.",
+      "evidence": [
+        {"quote": "@frederickspitfire can you check on this please", "who": "Derrek (owner pulled in to get a chatter-conduct answer)", "date": "2026-04-26"},
+        {"quote": "@fspitfire can we get this handled asap", "who": "Mayson Chat (after client chased her own Notion invite 2 days on)", "date": "2026-08-30"},
+        {"quote": "@ofmfrederick ^^", "who": "Mayson Chat (one of 10+ router tags across the history)", "date": "2026-08-11"}
+      ]
+    },
+    "disengagement_detection": {
+      "severity": 2,
+      "internal_failure": "Health fell four straight weeks and her daily life-updates stopped, but nobody on our side changed behaviour; while she was in Africa our only outbound was an invoice chase and a custom ask. Mayson did book a check-in 8/28 - she deferred and no one has rebooked it.",
+      "evidence": [
+        {"quote": "Hey Shayna are you free today for our monthly check in call?", "who": "Mayson Chat (good catch, but no rebook after she deferred to 'next week')", "date": "2026-08-28"},
+        {"quote": "Hi I get home the 26th. Please let chatters know this", "who": "Shayna Holt (Fred never acknowledged; chatters possibly still running the Africa story)", "date": "2026-08-24"},
+        {"quote": "I really wanna make sure the things that I’m saying are being heard please 🙏", "who": "Shayna Holt (explicit frustration signal, third repeat of feed-post rule)", "date": "2026-07-28"}
+      ]
+    },
+    "security_hygiene": {
+      "severity": 2,
+      "internal_failure": "We solicited and normalized credentials in plain group chat: Mica asked for her FB login (password posted 6/2, never rotated or deleted), Mica posted her Link.me password 5/6, and on 8/28 Mayson asked for another IG's login credentials in-chat - no secure channel ever offered.",
+      "evidence": [
+        {"quote": "hi bb! can you please send me your FB login", "who": "Mica Vecco (client then posted the password in chat 6/2; still there, unrotated)", "date": "2026-05-08"},
+        {"quote": "Would you be willing to share the login credentials with us so our team can get started on posting content on the account?", "who": "Mayson Chat (requesting credentials via group chat again)", "date": "2026-08-28"},
+        {"quote": "Your login info: / User: shaynaholt / Pass: [posted in chat]", "who": "Mica Vecco (Link.me credentials posted in plain text)", "date": "2026-05-06"}
+      ]
+    }
+  },
+  "metrics": {
+    "client_questions_total": 68,
+    "unanswered_over_24h": 7,
+    "max_team_silence_days": 5.7,
+    "promises_made": 18,
+    "promises_kept": 7,
+    "promises_lapsed": 8,
+    "method": "Scripted over full 869-msg history: questions = client messages containing '?' (68). Unanswered>24h = manual review of question threads for no on-topic reply within 24h or requiring repeat nudges (lives-earnings 4/19, customs list 4/30, live-schedule 6/18, lives availability 7/12-7/18, Aug-7 custom Q still open at 27d, Zelle cap 8/18 never answered, 9/3 live-price Q open). Max silence = longest gap between consecutive team messages (8/17-8/23, broken by a content ask). Promises = manually tallied explicit team commitments; 'lapsed' = never confirmed done and/or breached (vault-notes, PG folder, TW filter, replacement chatter, phone-farm updates, tracker, no-lives rule, chatter-briefing on return); remainder recurred or partially done."
+  },
+  "what_client_wanted": [
+    "Hard content boundaries enforced: \"A big thing on my page is I never agree to show pussy. ... please be mindful to never promise people that\" (4/15) and \"My page is free. I have so many freeloaders. Absolutely everything is paid for always\" (7/27)",
+    "Every custom approved and tracked so fans never surprise her: \"Yeah this guy has a custom waiting, i need to be informed of this stuff please. If I didn’t look through my messages i wouldn’t have known\" (6/23)",
+    "To be heard without repeating herself: \"I really wanna make sure the things that I’m saying are being heard please\" (7/28) and \"Can someone answer in the chat all my messages are just left on seen\" (8/11)",
+    "Chatters synced with her real life and voice: \"Hi hi can we make sure English is better please\" (7/26); constant unprompted life updates for chatters, e.g. \"Please let chatters know Val and I are headed to Yookie\" (4/16)"
+  ],
+  "what_worked": [
+    "Michelle's weekly leak-removal reports - 9 consecutive on-time weeks, repeatedly praised: \"Thank you for being so on top of this\" (5/21), \"Wow thank you!\" (6/26), \"Hi amazing thank you!\" (8/18)",
+    "Stephski's fast payment confirmations when they happen: her 7/5 \"please just confirm that you have received those\" got \"Yes received!\" in 90 minutes and she immediately sent the rest - proof that confirmation speed directly unlocks payment",
+    "Mayson's minutes-fast responsiveness and proactive check-in calls (6/6, 7/13, 8/28) - he is the only ALTR person who reliably answers her same-hour, and she keeps engaging with him"
+  ],
+  "top_fix": "Make her rules and our promises mechanically binding: every rule she states gets written into the chatter-facing internal notes/vault within 24h with confirmation posted back in the chat, and every commitment gets a dated owner on the Notion board she built. Fred's 9/3 admission - internal notes still said she does 1:1 lives five weeks after she banned them, while a fan paid $4,700 for one - shows verbal 'I'll speak to the team' is the root cause of every recurring breach on this account."
+}

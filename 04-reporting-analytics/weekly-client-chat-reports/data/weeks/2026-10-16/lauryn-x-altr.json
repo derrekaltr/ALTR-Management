@@ -1,0 +1,384 @@
+{
+  "client": "Lauryn",
+  "slug": "lauryn-x-altr",
+  "week_ending": "2026-10-16",
+  "summary": "Quiet, mostly positive week with one open question that matters. 13 messages, 6 from the client. DELIVERED: Melissa posted the DMCA update on time (10-09). The repost network went live on the promised date (Melissa, 10-12: 'Your reel is now live across all 23 accounts'), though with no links or screenshots. Mayson came back to her directly for the first time since 09-22 with the link-in-bio domain restored ('Your domain is back', 10-11). She was pleased ('Great!!!') and asked if it was safe; he answered within 11 hours. Stephski sent the OF-withdrawal heads-up two days before the invoice (10-13), the step that has reliably produced on-time payment, then sent the Oct 1-14 invoice on 10-15. THE KEY ISSUE: 21 seconds after that invoice landed, she asked 'What are the results ??' / 'Thus far ?' / 'Do we have that' about the repost push. Nobody had answered by window close (about 19.5 hours). This is a value-for-money question timed to the invoice. How ALTR answers it (written numbers vs a call offer vs silence) is the most important thing next week. STILL BROKEN: Facebook (flagged 385 days) had zero messages from anyone this week. Vivek has been silent 17 days and she has not raised it for 18 days, which looks like her 22-day September withdrawal again. The call she agreed to on 09-22 is still not rebooked (23 days). Stephski never acknowledged the 10-08 'It’s done' payment, said whether it was full or partial, or withdrew the 10-07 pause threat. She just moved on to the next invoice. Last dollar figure in chat: 2026-08-11 (66 days). No chat team has been named for 128 days. Jeremy Tarr and Spencer P introduced themselves in other client chats on 10-13 but not here. CHURN WATCH: owner silent 64 days, PRESENT. Long-promised deliverable without written proof, PRESENT (Facebook; repost 'live' claim with no proof). Results question answered with a call offer: not yet. It is unanswered, so watch the reply. Billing as most ALTR messages: NOT PRESENT (3 of 7, though Stephski is the most frequent ALTR poster). Client asks are 2 this week, up from about 1 a week, so she is still engaged. No credentials were posted this window; the August ones are still in scrollback.",
+  "health": {
+    "score": 34,
+    "trend": "up",
+    "rationale": "Up 4 from 30. UP: three concrete deliverables landed on time and in writing: DMCA (10-09), repost network live on the promised date (10-12), and the link-in-bio domain restored (10-11, Mayson's first direct message to her since 09-22, answered her follow-up within 11h). The OF-withdrawal heads-up went out before the invoice (10-13), as recommended last week. The pause threat was not enforced and work continued. Tone is warm ('Great!!!'). Client asks rose to 2 this week (link safety; repost results), from 2 across the previous two weeks. Warm tone is not counted as health by itself. DOWN / HOLDING IT LOW: (1) Her 10-15 'What are the results ??' about the repost push, asked right as the invoice landed, is unanswered at window close. The repost 'now live' message had no links or screenshots, and she never confirmed she could open the account list. (2) Facebook: no word from anyone for 17 days; she has stopped raising it (18 days), the same withdrawal she showed in September. (3) Call still not rebooked (23 days; regular calls dead 114 days). (4) The 10-08 payment is still unacknowledged and unreconciled. ALTR still does not know if it was full or partial after she said she'd send 'what’s available until further notice'. The Oct 1-14 invoice is now out, due ~10-22. (5) Structural gaps unchanged: no named chat team (128 days), August credentials still in chat (70 days), owner silent. CHURN SIGNALS: (1) owner silent 30+ days, PRESENT (Derrek, 64 days). (2) Results question answered with a call offer, NOT YET: 'What are the results ??' is open and unanswered; a call offer instead of written numbers would trigger it. (3) Long-promised deliverable with no written proof, PRESENT (Facebook 385 days with no case number; repost 'live' with no proof). (4) Most ALTR messages billing, NOT PRESENT (3/7). Asks are not falling (2 vs ~1/week), so the 'stops asking' alarm is not firing overall. It is firing on Facebook specifically."
+  },
+  "reminders": [
+    {
+      "employee": "Melissa",
+      "topic": "Repost-network results. She asked for results on 10-15 (three messages in a row, sent right after the Oct 1-14 invoice). Unanswered at window close (~19.5h). The 10-12 'now live' message had no account links or screenshots, and she never confirmed she could open the re-sent 23-account list (10-08). This is the second time she has had to chase this deliverable ('???' 10-08).",
+      "count": 2,
+      "evidence": [
+        {"quote": "Hey LA! Your reel is now live across all 23 accounts🫶🏽", "date": "2026-10-12", "sender": "Melissa Userfacing"},
+        {"quote": "What are the results ??", "date": "2026-10-15", "sender": "LA Client"},
+        {"quote": "Thus far ?", "date": "2026-10-15", "sender": "LA Client"},
+        {"quote": "Do we have that", "date": "2026-10-15", "sender": "LA Client"},
+        {"quote": "???", "date": "2026-10-08", "sender": "LA Client"}
+      ]
+    },
+    {
+      "employee": "Vivek",
+      "topic": "Facebook appeal. Nothing from him since 09-29 (17 days), and no update this week from anyone. Every word he has posted since mid-August came after a tag. 'Keep me updated pls' (2026-08-18) has never been honoured unprompted. She stopped raising it after 09-28 (18 days).",
+      "count": 0,
+      "evidence": [
+        {"quote": "Keep me updated pls", "date": "2026-08-18", "sender": "LA Client"},
+        {"quote": "So we have no time line", "date": "2026-09-28", "sender": "LA Client"},
+        {"quote": "Right now meta stops operations in many departments", "date": "2026-09-29", "sender": "Vivek"}
+      ]
+    },
+    {
+      "employee": "Mayson",
+      "topic": "The call she agreed to on 2026-09-22 (he offered 11am EST on 09-23) is still not booked, 23 days on. He messaged her directly on 10-11 about the link-in-bio domain but did not mention the call. She has not chased it.",
+      "count": 0,
+      "evidence": [
+        {"quote": "How’s tomorrow ??", "date": "2026-09-22", "sender": "LA Client"},
+        {"quote": "Morning, would tomorrow 11am EST work?", "date": "2026-09-22", "sender": "Mayson Chat"}
+      ]
+    },
+    {
+      "employee": "Stephski",
+      "topic": "Payment reconciliation. The 10-08 'It’s done' screenshot was never acknowledged. Nobody said whether Sep 15-30 is paid in full, the amount, or where it landed, and the 10-07 pause threat was never withdrawn. She moved straight to the next invoice cycle. Last dollar figure in chat: 2026-08-11 (66 days).",
+      "count": 0,
+      "evidence": [
+        {"quote": "Tomorrow I’ll send over what’s available until further notice", "date": "2026-10-07", "sender": "LA Client"},
+        {"quote": "It’s done", "date": "2026-10-08", "sender": "LA Client"},
+        {"quote": "hi love! just writing to inform you that your next invoice will be sent out in 2 days. today is a great day to withdrawl your funds from OF to avoid any delays ❤️", "date": "2026-10-13", "sender": "Stephski"}
+      ]
+    }
+  ],
+  "complaints": [
+    {
+      "issue": "Repost network: there is no proof and no results yet, and she is asking what she is paying for. The reel went live on the promised date (10-12), but the message had no links or screenshots, and she never confirmed she could open the 23-account list (10-06 'I don’t see the accounts', file re-sent 10-08). On 10-15, 21 seconds after the Oct 1-14 invoice arrived, she asked for results. Unanswered at window close. Answer in writing with numbers (views/reach per account, link clicks, subs). A call offer instead would trigger churn signal #2.",
+      "status": "in_progress",
+      "owner": "Melissa",
+      "first_raised": "2026-10-06",
+      "days_open": 10,
+      "severity": "high",
+      "evidence": [
+        {"quote": "I don’t see the accounts", "date": "2026-10-06", "sender": "LA Client"},
+        {"quote": "Hey LA! Your reel is now live across all 23 accounts🫶🏽", "date": "2026-10-12", "sender": "Melissa Userfacing"},
+        {"quote": "Happy thursday! Here is your invoice for October 1st-14th. Please use the invoicing information at the bottom of the PDF to ensure a smooth process ❤️ Here if you need anything or have any questions!", "date": "2026-10-15", "sender": "Stephski"},
+        {"quote": "What are the results ??", "date": "2026-10-15", "sender": "LA Client"},
+        {"quote": "Do we have that", "date": "2026-10-15", "sender": "LA Client"}
+      ]
+    },
+    {
+      "issue": "Facebook page still flagged 'not recommended': 385 days since she first raised it, 70 with Vivek on it. No message from anyone about it this week. Vivek silent 17 days since blaming Meta, with no case number, date or next step. She has not raised it for 18 days, approaching her 22-day September withdrawal. Reassign it or post a dated plan with the case number.",
+      "status": "recurring",
+      "owner": "Vivek",
+      "first_raised": "2025-09-27",
+      "days_open": 385,
+      "severity": "critical",
+      "evidence": [
+        {"quote": "Can we see what’s going on with this ?", "date": "2025-09-27", "sender": "LA Client"},
+        {"quote": "So we have no time line", "date": "2026-09-28", "sender": "LA Client"},
+        {"quote": "Is this normal to be slow like this ??", "date": "2026-09-28", "sender": "LA Client"},
+        {"quote": "Right now meta stops operations in many departments", "date": "2026-09-29", "sender": "Vivek"}
+      ]
+    },
+    {
+      "issue": "Vivek only speaks when tagged, and this week nobody tagged him, so there was nothing. Tenth reporting period in a row. Silent since 09-29.",
+      "status": "recurring",
+      "owner": "Vivek",
+      "first_raised": "2026-08-12",
+      "days_open": 65,
+      "severity": "critical",
+      "evidence": [
+        {"quote": "Keep me updated pls", "date": "2026-08-18", "sender": "LA Client"},
+        {"quote": "Will do my part", "date": "2026-08-18", "sender": "Vivek"},
+        {"quote": "@fonta", "date": "2026-09-29", "sender": "Mayson Chat"}
+      ]
+    },
+    {
+      "issue": "Cash strain and billing tone. Last cycle ALTR set a deadline a day early and threatened to pause work 'until its fully paid' after she said 'Full monies are still pending'. She paid something on day 7. The threat was never enforced or withdrawn; it simply lapsed. This cycle went better: heads-up two days ahead (10-13), and the 10-15 invoice message has no countdown or pause language. The Oct 1-14 invoice is due ~10-22. Watch for tranche payments ('until further notice').",
+      "status": "recurring",
+      "owner": "Stephski",
+      "first_raised": "2026-08-27",
+      "days_open": 50,
+      "severity": "high",
+      "evidence": [
+        {"quote": "Hey , Steph! Full monies are still pending", "date": "2026-10-07", "sender": "LA Client"},
+        {"quote": "Okay understood, we can give a 24 hour extention but if it goes beyond that we will have to pause work until its fully paid, I'll hang tight till then just lmk 🙂", "date": "2026-10-07", "sender": "Stephski"},
+        {"quote": "hi love! just writing to inform you that your next invoice will be sent out in 2 days. today is a great day to withdrawl your funds from OF to avoid any delays ❤️", "date": "2026-10-13", "sender": "Stephski"}
+      ]
+    },
+    {
+      "issue": "ALTR still cannot say what it has been paid. The 10-08 'It’s done' was never acknowledged; full vs partial, amount and destination are unknown. Same for 09-22. The 10-15 invoice message states no total. Last dollar figure in chat: 2026-08-11 (66 days).",
+      "status": "recurring",
+      "owner": "Stephski",
+      "first_raised": "2026-09-09",
+      "days_open": 37,
+      "severity": "high",
+      "evidence": [
+        {"quote": "Thank you! Can you please include totals you send in these screenshots so I can track easier on our side ❤️", "date": "2026-09-13", "sender": "Stephski"},
+        {"quote": "It’s done", "date": "2026-10-08", "sender": "LA Client"}
+      ]
+    },
+    {
+      "issue": "Weekly call dropped, now 23 days since the agreed 09-23 slot with no link or rebooking. Mayson resurfaced on 10-11 with the domain fix, which is good, but did not raise the call. Regular calls stopped 2026-06-24 (114 days).",
+      "status": "recurring",
+      "owner": "Mayson",
+      "first_raised": "2026-09-22",
+      "days_open": 24,
+      "severity": "high",
+      "evidence": [
+        {"quote": "How’s tomorrow ??", "date": "2026-09-22", "sender": "LA Client"},
+        {"quote": "Morning, would tomorrow 11am EST work?", "date": "2026-09-22", "sender": "Mayson Chat"}
+      ]
+    },
+    {
+      "issue": "Nobody is named as running her OnlyFans chats. The 'Lauryn chat team' vendor has been silent since 2026-06-10 (128 days), and the replacement was never introduced. New AM Jeremy Tarr and Spencer P (customs/uploads) introduced themselves in other client chats on 10-13 but not in this one. Intake form (09-28) not completed and not followed up (18 days).",
+      "status": "recurring",
+      "owner": "Leadership",
+      "first_raised": "2026-06-10",
+      "days_open": 128,
+      "severity": "critical",
+      "evidence": [
+        {"quote": "Hey @lxnselot we are putting on a different team", "date": "2026-06-10", "sender": "Mayson Chat"},
+        {"quote": "can you please fill out this intake so we (and whoever’s on your chats) really understand you and rep you properly?", "date": "2026-09-28", "sender": "Melissa Userfacing"}
+      ]
+    },
+    {
+      "issue": "Plaintext credentials still visible in the group after 70 days: two Facebook passwords (2026-08-07, 2026-08-09), her FB-linked phone number (2026-08-15) and an SMS 2FA code (2026-08-16). Not rotated or deleted. No new credentials were posted this window. Quotes redacted.",
+      "status": "recurring",
+      "owner": "Leadership",
+      "first_raised": "2026-08-07",
+      "days_open": 70,
+      "severity": "high",
+      "evidence": [
+        {"quote": "PW: [REDACTED]", "date": "2026-08-07", "sender": "LA Client"},
+        {"quote": "New FB Password: [REDACTED]", "date": "2026-08-09", "sender": "LA Client"}
+      ]
+    },
+    {
+      "issue": "Old asks still open without context. The 09-17 custom is still unpriced and undated, with no check against her limits ('No Naked'; topless 'Typically No'). She accepted it 09-21 and nobody has mentioned it for 25 days. The 30-reels/month content-Drive ask (08-30) has had no follow-up for 47 days.",
+      "status": "recurring",
+      "owner": "Mayson",
+      "first_raised": "2026-08-30",
+      "days_open": 47,
+      "severity": "medium",
+      "evidence": [
+        {"quote": "keep it topped up with 7 reels a week so 30 in total per month", "date": "2026-08-30", "sender": "Mayson Chat"},
+        {"quote": "Gotcha an actual video", "date": "2026-09-21", "sender": "LA Client"}
+      ]
+    }
+  ],
+  "commitments": [
+    {
+      "what": "Repost her reel across 23 repost-network accounts on Monday 2026-10-12. Delivered on the date per Melissa, but with no links or screenshots. Results were requested on 10-15 and are outstanding.",
+      "who": "Melissa",
+      "date": "2026-10-06",
+      "due": "2026-10-12",
+      "status": "done",
+      "verified": false,
+      "evidence": [
+        {"quote": "Hey LA, this reel is going out across our repost network on Monday, October 12:", "date": "2026-10-06", "sender": "Melissa Userfacing"},
+        {"quote": "Hey LA! Your reel is now live across all 23 accounts🫶🏽", "date": "2026-10-12", "sender": "Melissa Userfacing"}
+      ]
+    },
+    {
+      "what": "Answer 'What are the results ??' on the repost push in writing, with numbers.",
+      "who": "Melissa",
+      "date": "2026-10-15",
+      "due": "2026-10-16",
+      "days_outstanding": 1,
+      "status": "pending",
+      "evidence": [
+        {"quote": "What are the results ??", "date": "2026-10-15", "sender": "LA Client"},
+        {"quote": "Thus far ?", "date": "2026-10-15", "sender": "LA Client"}
+      ]
+    },
+    {
+      "what": "Link-in-bio custom domain restored and confirmed safe; offered changes on request.",
+      "who": "Mayson",
+      "date": "2026-10-11",
+      "due": "2026-10-11",
+      "status": "done",
+      "evidence": [
+        {"quote": "Your domain is back, same one as before, but with new technology running behind it.", "date": "2026-10-11", "sender": "Mayson Chat"},
+        {"quote": "So this link won’t have any problems ?", "date": "2026-10-11", "sender": "LA Client"},
+        {"quote": "No not at all", "date": "2026-10-12", "sender": "Mayson Chat"}
+      ]
+    },
+    {
+      "what": "Weekly DMCA leak-removal update. Delivered 10-09; next due ~10-16.",
+      "who": "Melissa",
+      "date": "2026-10-09",
+      "due": "2026-10-16",
+      "status": "pending",
+      "evidence": [
+        {"quote": "Hey LA! Here’s your weekly update on the leak removal breakdown for the past 7 days 🫶🏼", "date": "2026-10-09", "sender": "Melissa Userfacing"}
+      ]
+    },
+    {
+      "what": "Pay the Oct 1-14 invoice (sent 2026-10-15). Presumed 7-day terms, due ~10-22.",
+      "who": "Lauryn (client)",
+      "date": "2026-10-15",
+      "due": "2026-10-22",
+      "days_outstanding": 1,
+      "status": "pending",
+      "evidence": [
+        {"quote": "Happy thursday! Here is your invoice for October 1st-14th. Please use the invoicing information at the bottom of the PDF to ensure a smooth process ❤️ Here if you need anything or have any questions!", "date": "2026-10-15", "sender": "Stephski"}
+      ]
+    },
+    {
+      "what": "Get the Facebook page out of 'not recommended'. A case was forwarded to Meta: no reply, no timeline, no case number.",
+      "who": "Vivek",
+      "date": "2026-08-07",
+      "due": "no date ever given",
+      "days_outstanding": 70,
+      "status": "overdue",
+      "evidence": [
+        {"quote": "I tried to forward a case", "date": "2026-09-28", "sender": "Vivek"},
+        {"quote": "They haven't replied yet", "date": "2026-09-28", "sender": "Vivek"}
+      ]
+    },
+    {
+      "what": "Proactive Facebook status updates without being tagged first.",
+      "who": "Vivek",
+      "date": "2026-08-18",
+      "due": "2026-08-18",
+      "days_outstanding": 59,
+      "status": "overdue",
+      "evidence": [
+        {"quote": "Will do my part", "date": "2026-08-18", "sender": "Vivek"}
+      ]
+    },
+    {
+      "what": "Send the link for, or rebook, the call proposed for 2026-09-23 11am EST.",
+      "who": "Mayson",
+      "date": "2026-09-22",
+      "due": "2026-09-23",
+      "days_outstanding": 23,
+      "status": "overdue",
+      "evidence": [
+        {"quote": "Morning, would tomorrow 11am EST work?", "date": "2026-09-22", "sender": "Mayson Chat"}
+      ]
+    },
+    {
+      "what": "Acknowledge the 10-08 payment: state the amount, whether Sep 15-30 is fully paid, and the account it went to (also 09-22). Withdraw the 10-07 pause threat explicitly.",
+      "who": "Stephski",
+      "date": "2026-09-09",
+      "due": "2026-10-09",
+      "days_outstanding": 37,
+      "status": "overdue",
+      "evidence": [
+        {"quote": "It’s done", "date": "2026-10-08", "sender": "LA Client"},
+        {"quote": "Okay understood, we can give a 24 hour extention but if it goes beyond that we will have to pause work until its fully paid, I'll hang tight till then just lmk 🙂", "date": "2026-10-07", "sender": "Stephski"}
+      ]
+    },
+    {
+      "what": "Put a working chat team on the page, or tell her who is covering it.",
+      "who": "Leadership",
+      "date": "2026-06-10",
+      "due": "2026-06-10",
+      "days_outstanding": 128,
+      "status": "overdue",
+      "evidence": [
+        {"quote": "Hey @lxnselot we are putting on a different team", "date": "2026-06-10", "sender": "Mayson Chat"}
+      ]
+    },
+    {
+      "what": "Rotate the exposed Facebook passwords, delete the credential/2FA messages, and post a written no-credentials-in-chat rule.",
+      "who": "Leadership",
+      "date": "2026-08-07",
+      "due": "2026-08-07",
+      "days_outstanding": 70,
+      "status": "overdue",
+      "evidence": [
+        {"quote": "PW: [REDACTED]", "date": "2026-08-07", "sender": "LA Client"}
+      ]
+    },
+    {
+      "what": "Client to fill out the private-platform intake form. Not done after 18 days, with no follow-up.",
+      "who": "Lauryn (client)",
+      "date": "2026-09-28",
+      "due": "no date given",
+      "days_outstanding": 18,
+      "status": "pending",
+      "evidence": [
+        {"quote": "can you please fill out this intake so we (and whoever’s on your chats) really understand you and rep you properly?", "date": "2026-09-28", "sender": "Melissa Userfacing"}
+      ]
+    },
+    {
+      "what": "Finish the custom brief: fan, price, length, deadline, content-limit check. Accepted by the client 09-21.",
+      "who": "Mayson",
+      "date": "2026-09-17",
+      "due": "2026-09-18",
+      "days_outstanding": 29,
+      "status": "overdue",
+      "evidence": [
+        {"quote": "Gotcha an actual video", "date": "2026-09-21", "sender": "LA Client"}
+      ]
+    },
+    {
+      "what": "Re-brief or withdraw the content-Drive / 30-reels-a-month ask.",
+      "who": "Mayson",
+      "date": "2026-08-30",
+      "due": "no date given",
+      "days_outstanding": 47,
+      "status": "overdue",
+      "evidence": [
+        {"quote": "keep it topped up with 7 reels a week so 30 in total per month", "date": "2026-08-30", "sender": "Mayson Chat"}
+      ]
+    }
+  ],
+  "payments": [
+    {
+      "note": "Oct 1-14 invoice sent 2026-10-15 13:31 as a PDF, preceded by an OF-withdrawal heads-up on 10-13. The message has no total, no stated due date and no pause language, and points her to 'the invoicing information at the bottom of the PDF' (likely the business-account destination). The client did not acknowledge it; 21 seconds later she asked for repost results instead. Presumed due ~2026-10-22 (7-day terms as before).",
+      "date": "2026-10-15",
+      "due": "2026-10-22",
+      "status": "open"
+    },
+    {
+      "note": "Sep 15-30 invoice: client posted a screenshot and 'It’s done' 2026-10-08 (day 7, in term), the day after saying she'd send 'what’s available until further notice'. Still unacknowledged by ALTR 8 days later. Full vs partial, amount and destination UNKNOWN. The 10-07 pause threat was neither enforced nor withdrawn; work continued (reposts 10-12, domain 10-11). Stephski moved on to the next cycle without chasing a balance, which suggests it was settled, but this is unconfirmed.",
+      "date": "2026-10-08",
+      "late": false,
+      "amount_known": false,
+      "verified": false
+    },
+    {
+      "note": "Risk MEDIUM (unchanged). Two in-term payments in a row (09-22, 10-08) after nine months of late or split payments, but she reported cash strain on 10-07 ('Full monies are still pending'). The heads-up went out on time this cycle. Watch whether the Oct 1-14 invoice is paid whole by ~10-22 or in pieces. Last dollar figure in chat: 2026-08-11 (66 days)."
+    }
+  ],
+  "client_priorities": [
+    "Seeing results for what she pays: 'What are the results ??' / 'Thus far ?' (2026-10-15), asked as the invoice landed.",
+    "Getting the Facebook page out of 'not recommended', with a real timeline ('So we have no time line', 2026-09-28). 385 days open; she has stopped raising it (18 days).",
+    "A safe, working link in bio ('So this link won’t have any problems ?', 2026-10-11).",
+    "Visible growth work with proof she can open: she couldn't see the repost account list (10-06) and had to chase it (10-08).",
+    "Paying as her OnlyFans money clears ('what’s available until further notice', 10-07). Invoices timed to OF withdrawals.",
+    "Proactive updates without chasing ('Keep me updated pls', 2026-08-18).",
+    "Key details typed into the chat, not behind attachments; content limits respected ('No Naked'; topless 'Typically No').",
+    "Account security and confidentiality (her management ruled out sharing passwords, 2026-08-15).",
+    "Weekly DMCA leak-takedown visibility."
+  ],
+  "suggestions": [
+    "Melissa/Mayson, today: answer 'What are the results ??' in writing in the chat, with per-account views/reach, profile visits or link clicks, and any sub uptick since 10-12. Type the 23 handles in as text. Do NOT answer with a call offer; that is the churn pattern.",
+    "Stephski: acknowledge the 10-08 payment with the amount and whether Sep 15-30 is fully settled, and say plainly that the pause warning is withdrawn. Put the invoice total and due date in the message text.",
+    "Facebook: reassign it or have leadership take it, and post a dated plan with the Meta case number this week. She has gone quiet for 18 days, which is how she behaved before the September withdrawal.",
+    "Mayson: rebook the call with a specific slot and a link, and use it to walk through the repost and link-in-bio results after the written numbers are posted, not instead of them.",
+    "Introduce whoever runs her chats by name. If Jeremy Tarr or Spencer P now cover her, have them introduce themselves here as they did in the Haileigh and Liza chats on 10-13.",
+    "Rotate and delete the August credentials in the scrollback (70 days)."
+  ],
+  "wins": [
+    "Repost network went live on the promised date: 'Your reel is now live across all 23 accounts' (Melissa, 10-12).",
+    "Link-in-bio domain restored (Mayson, 10-11). The client responded 'Great!!!', and her safety question was answered within 11h. Mayson's first direct message to her since 09-22.",
+    "DMCA weekly update delivered on time (Melissa, 10-09), the third week in a row.",
+    "The OF-withdrawal heads-up went out two days before the invoice (Stephski, 10-13), and the invoice message dropped the pause-countdown language.",
+    "No pause was enforced on a client who paid within her written term."
+  ],
+  "week_stats": {
+    "messages": 13,
+    "client_messages": 6,
+    "team_messages": 7,
+    "service_events": 0,
+    "vendor_messages": 0,
+    "client_asks": 2,
+    "note": "Window 2026-10-09 09:05:57 to 2026-10-16 09:06:40. Team: Stephski 3 (heads-up, invoice text, invoice PDF; all billing), Melissa Userfacing 2 (DMCA 10-09, repost live 10-12), Mayson Chat 2 (domain restored, safety answer). Billing 3/7 ALTR messages. Zero from Derrek, Vivek, Mica, Michelle, Jeremy Tarr, Spencer P or the Lauryn chat team vendor. Client asks (distinct): 2, namely link safety (10-11, answered) and repost results (10-15, unanswered at close). Trend: ~4, 0, 0, 1, 2 (two-week), 2 this week. All senders attributed; no credentials posted in window."
+  }
+}

@@ -1,0 +1,3 @@
+## Jamie Client, Liam Fitzgerald [imessage#6657 GRP] msgs=33 win=2026-03-25..2026-03-26 lastClient=2026-03-26(176d) lastDerek=2026-03-25(177d) UNANSWERED
+...
+[2026-03-25 23:11]OUTCOME| Liam Fitzgerald: I was shadow banned this morning, got it fixed with preet, then gotta this hours later

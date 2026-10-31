@@ -1,0 +1,1018 @@
+{
+ "week_ending": "2026-09-18",
+ "employees": [
+  {
+   "name": "Mayson",
+   "role": "Chatter (queue account)",
+   "summary": "The most active person on the roster and the one carrying the most risk. Mayson appears in all 14 active client chats, routes escalations nobody else routes, and is repeatedly described by the client analysts as the only reason some accounts get answered at all. But he closed zero commitments this week against 32 overdue, and two patterns turned harmful. First, he ran an uncoordinated Facebook-access campaign: the identical message 'do you have a facebook account available to use?' went to at least six clients on 2026-09-16 alone, including one two days after she warned she might leave, one 21 days post-surgery, and one who had already given ALTR that access in June. Second, and more seriously, he solicited live credentials and 2FA codes directly in group chats that contain outsourced vendor accounts. In Sarah Lloyd's chat he asked for a Snapchat 2FA code 3 hours 48 minutes after Mica posted a security advisory into that same thread telling the client never to send codes to anyone, including ALTR. He is not the cause of the credential policy gap, but he is its most frequent trigger, and that needs to stop this week.",
+   "open_issues": 76,
+   "trend": "down",
+   "clients": [
+    {
+     "client": "Alanna",
+     "reminders": 1,
+     "complaints_owned": 1,
+     "commitments_kept": 0,
+     "commitments_overdue": 3,
+     "commitments_pending": 1,
+     "notes": "reminded: Asking for a Facebook account login — the client answered in 22 seconds and the follow-up ask has sat dead for 2 days; his fourth simultaneously orphaned request | [recurring] Delivered assets still producing nothing — alannasworld.vip unused at 35 days, and Mayson's 8/27 question about why was never answered or re-asked in 22 days | [pending] Close the Facebook login request — she answered in 22 seconds on 9/16 and the follow-up has sat for 2 days | [overdue] Get the @alannapow Instagram login credentials so the team can post on her second account | [overdue] Book or formally drop the trial-reels call requested for Monday 9/7 — 11 days past its own date, never re-asked | [overdue] Get an answer on why alannasworld.vip is unused, or retire the asset"
+    },
+    {
+     "client": "Alex Paige Moore",
+     "reminders": 1,
+     "complaints_owned": 3,
+     "commitments_kept": 0,
+     "commitments_overdue": 4,
+     "commitments_pending": 0,
+     "notes": "reminded: A brand-new platform demand — asking a 21-days-post-surgical client to hand over a Facebook account, with no context, no explanation of what it is for, and no reference to anything outstanding. It was his only message of the week. He did not chase the trial-reels strategy call he offered on Sep 4 (14 days dead, 11 days past the proposed Monday), did not follow up the 30-reels-a-month quota he imposed on Aug 30 (19 days), and did not mention the alexpaige.vip link-preview image he promised on 2026-07-26 with 'Yes 100%' (54 days). She never answered the Facebook question; she resigned the next day. | [recurring] Persistently low OF earnings, asked at least five times since January and never once answered in writing — 248 days since her first ask, 177 days since Derrek promised a 'gameplan' on 2026-03-25, 82 days since she last asked. The surgery-driven September dip was structurally certain and was never sized, never forecast and never discussed with her. The Aug 15-31 invoice total was never stated; the Sep 1-14 invoice total was never stated. She asked five times how to make more money on a platform she was paying ALTR a percentage of, and the file contains no written ans"
+    },
+    {
+     "client": "Amber Haze",
+     "reminders": 11,
+     "complaints_owned": 3,
+     "commitments_kept": 0,
+     "commitments_overdue": 4,
+     "commitments_pending": 0,
+     "notes": "reminded: A substantive answer to her 2026-09-02 Instagram-management complaint and staffing request: real numbers for @hazeyamberr and @amberhazey_, a named editor with a start date, and a decision on the 30-reels-a-month quota she refused. Sixteen days unanswered. The only thing that happened this window was a bare Google Meet link posted on Sept 11 with no message attached; she never responded and nobody followed up. Second consecutive call on this account to leave no outcome in the chat. | reminded: Proof and figures for the Facebook advertising. NEW CHASE IN WINDOW and the most important new event of the week: on 2026-09-15 she asked for 'updates and proof' and said she feels 'none has been done for ages'. Three days with no reply from anyone. The campaign she requested herself on Aug 20 and that Mayson announced on Aug 21 is 28 days old with zero data ever attached. | reminded: Mirroring her Instagram block list from her main account onto the two management-run accounts. First asked 2026-05-10 and flagged by her as 'very important'. 131 days — the oldest unactioned item on the account. Not mentioned by anyone on either side in this window. | [recurring] NEW THIS WINDOW AND TH"
+    },
+    {
+     "client": "Barbara",
+     "reminders": 3,
+     "complaints_owned": 5,
+     "commitments_kept": 0,
+     "commitments_overdue": 6,
+     "commitments_pending": 1,
+     "notes": "reminded: The Instagram/traffic answer and the plan Barbara has now asked for three times (Aug 24, Sep 10 via his own question back to her, Sep 14). He committed to a call on Sep 15 within 38 minutes of her retention warning — the fastest response of the window — and there is no evidence in the chat that it took place, no plan was posted afterwards, and her numbers question is now 25 days old since the Aug 24 escalation and 46 days old since the issue was first raised. His next substantive message to her, the following morning, opened a new workstream instead: a Facebook account. | [new] EXPLICIT RETENTION WARNING — the client told ALTR in writing that the current situation is not sustainable for her, and it has not been answered. On Sep 14, prompted by being asked to withdraw funds for her invoice, she checked her own numbers, posted two screenshots and wrote a measured, non-angry churn message naming exactly what she needs. Mayson offered a call for Sep 15 within 38 minutes. There is no message anywhere in the chat confirming the call happened, no plan was posted, no numbers were ever provided, and the next thing she was asked for was a new Facebook account. Four days later this "
+    },
+    {
+     "client": "Haileigh Cox",
+     "reminders": 2,
+     "complaints_owned": 2,
+     "commitments_kept": 0,
+     "commitments_overdue": 4,
+     "commitments_pending": 0,
+     "notes": "reminded: Facebook access and login credentials. She answered the first question in four and a half hours; the login request is 33 hours unanswered at window end. Two problems with this ask. First, she was offered Facebook management by Sophie Logan on 9/17/25 and 9/18/25 and by Mica on 9/19/25 and 9/23/25, and she DECLINED it on 9/25/25 - 358 days ago - saying she runs it herself and it works. Nobody at ALTR carries that memory, so she is being asked to re-litigate a decision she already made, on the one channel she has told ALTR is her best traffic source. Second, this is ALTR asking a security-anxious client for a login in the same week Mica told her not to share credentials, and in the same 51-day span in which nobody has asked her for the Instagram login needed to investigate her own shadowban. | [recurring] The .vip custom domains ALTR built restricted two of her Instagram accounts and have never been fixed or formally retired - 97 days. Mayson pitched haleighsworld.vip on 6/11 as protection from shadow bans; she asked point-blank whether it would disable her account, citing her main's prior permanent disable; he said it was safe; she put it live on 6/13 and within hours repo"
+    },
+    {
+     "client": "Lauren Blake",
+     "reminders": 0,
+     "complaints_owned": 2,
+     "commitments_kept": 1,
+     "commitments_overdue": 1,
+     "commitments_pending": 3,
+     "notes": "[new] NEW AND URGENT - credential exposure. On Sep 11 Lauren posted her Instagram login (\"Login:\\nLaurenblakeluxe\\n[REDACTED-PASSWORD]\") and her Snapchat login (\"Snapchat login:\\n[REDACTED-RECOVERY-EMAIL]\\n[REDACTED-PASSWORD]\") as plaintext messages in this group chat, then relayed two 2FA codes in plaintext on Sep 12 and Sep 13. The same password is reused across both accounts. She did this because ALTR asked - Mayson wrote \"Direct login would work too\" on Sep 11 and \"And login for snapchat\" on Sep 12 - and nobody on the team redirected her to a private channel or a password manager. This chat has open membership churn: someone was added on Sep 10 and someone was removed and re-added on Sep 17 at 22:44 and 22:45. Anyone in the group at any point can scroll back to live credentials for the accounts ALTR's entire IG traffic strategy depends on. The irony is on the record: Mica Vecco's Sep 17 security advisory tells her \"Please do not send your backup codes to anyone, including our team\" - six days after the team collected her passwords in the open. | [recurring] Internal account confusion, fourth documented instance - this time ALTR did not know which Instagram account was its own. On Sep 11 Mayson sent a scre"
+    },
+    {
+     "client": "Lauryn",
+     "reminders": 0,
+     "complaints_owned": 1,
+     "commitments_kept": 0,
+     "commitments_overdue": 0,
+     "commitments_pending": 2,
+     "notes": "[recurring] The content-Drive brief is still unexplained, still self-contradictory, and this window it was SILENTLY DROPPED. Nineteen days after Mayson demanded '7 reels a week so 30 in total per month' (2026-08-30) and answered her question with 'No separate instagram account!', and eight days after Michelle chased her for content for 'the management ran Instagram Reels account' (2026-09-10), not one person mentioned it again. Nothing has been uploaded, nobody re-briefed it, nobody withdrew it. So the record now reads: we asked a paying client for thirty pieces of unpaid content a month, gave her two contradictory explanations from two different employees, chased her for not delivering, and then stopped talking about it. Same failure pattern as 2025-10-09 (folder videos vs reel inspo) and 2026-06-12 (lasworld.vip vs her existing juicy.bio link). Mayson's 2026-09-17 custom ask - 'Were you able to do this custom?' with a bare spreadsheet link referring to nothing she has ever been sent in this chat - is the same failure again, four days old. | [pending] Re-brief in one paragraph, from one named owner, what the content Drive and the '7 reels a week so 30 in total per month' quota are"
+    },
+    {
+     "client": "Lilia",
+     "reminders": 2,
+     "complaints_owned": 0,
+     "commitments_kept": 0,
+     "commitments_overdue": 3,
+     "commitments_pending": 0,
+     "notes": "reminded: ALTR is asking her for more logins while the one she already promised is stuck and nobody offers to help. She told him on Sep 16 she could not figure out the Instagram login; his entire response over the next 17 hours was 'Okay thanks' and 'And the facebook' | [overdue] Help her actually hand over the management IG account login she promised on Sep 10. She said on Sep 16 she is stuck ('need to figure it out') and got no offer of help. The Drive is 98 days old with zero files in it and the account is meant to go live 'in a few days' as of Sep 10 | [overdue] Post a written recap of the Sep 8 trial-reels call - what the new posting feature is, what she has to do, by when. Ten days on, nothing has been written into the chat. On this client, verbally-conveyed workstreams go 98 days without landing | [overdue] Reconcile Mayson's Aug 30 content-drive instruction (upload everything unposted, then 7 reels a week / 30 a month into the New Content folder) with the high-spender OF folder workflow she already runs herself. Nineteen days, never acknowledged by her, and she is now being asked for a third channel (Facebook) on top"
+    },
+    {
+     "client": "Liza Kovalenko",
+     "reminders": 8,
+     "complaints_owned": 3,
+     "commitments_kept": 0,
+     "commitments_overdue": 2,
+     "commitments_pending": 1,
+     "notes": "reminded: Mayson escalating to other ALTR staff on the client's behalf. Fourth time in 16 days. On 09-14 he tagged Stephski 39 minutes after Liza reported a wire, before she had chased anything. He is still the only routing mechanism on this account, and the account still depends on a chatter noticing. | reminded: ALTR chasing the client and getting nothing back. Four separate ALTR questions went completely unanswered this window while she answered every billing message within an hour. This is the clearest disengagement signal on the account and it is invisible from the billing thread. | [new] CLIENT HAS NARROWED TO BILLING-ONLY AND IS NOT ANSWERING ALTR. All nine of Liza's messages this window are in the Invoicing thread. She answered every money message within the hour and ignored four consecutive service messages: Michelle's content chase (09-10, 8 days), Michelle's password question (09-12, 6 days), Mica's reel inspo (09-15, the sixth consecutive drop with zero client response - 06-09, 07-10, 07-29, 08-13, 08-31, 09-15) and Mayson's Facebook question (09-16, 2 days). Her tone stayed warm and she volunteered praise, which masks it. A client who pays instantly and engages with no"
+    },
+    {
+     "client": "Mila",
+     "reminders": 1,
+     "complaints_owned": 0,
+     "commitments_kept": 0,
+     "commitments_overdue": 2,
+     "commitments_pending": 0,
+     "notes": "reminded: A third consecutive ask opened without closing either of the previous two — asked for a Facebook account while the call she already accepted stays unbooked and crystalmila.vip stays unexplained | [overdue] Book and run the trial-reels feature call Mayson proposed. He offered a call 'on Monday' on Sep 4, Callie agreed on Sep 6, he asked her to name a time early on Sep 7 — and eleven days after that Monday there is still no booking link, no proposed slots and no further mention of it. He wrote in the chat twice this window (Sep 16, Sep 18) and raised neither the call nor an alternative. | [overdue] Explain what 'crystalmila.vip' is. Mayson dropped the bare domain into the OnlyFans topic at 02:53 on Aug 23 with no context. Twenty-six days on there is still no explanation and no client reply, and he has now written four times since (Sep 4, Sep 7, Sep 16, Sep 18) without ever addressing it. If it is a live VIP or free page it is a launch the client was never told about."
+    },
+    {
+     "client": "Sarah",
+     "reminders": 2,
+     "complaints_owned": 3,
+     "commitments_kept": 0,
+     "commitments_overdue": 2,
+     "commitments_pending": 2,
+     "notes": "reminded: An urgent, out-of-hours request for help that went unanswered for four and a half hours and was then answered pointlessly. At 00:40 on Sep 13 she asked 'Hey Mason are you up?' and a minute later escalated to the whole room: 'Or anyone that can help me lol, I have a video call in an hour and a half and I’m stressed bc I have no idea what to do😂😭'. Nobody in a nineteen-participant chat replied. Mayson answered at 05:10 — four hours and thirty minutes later, roughly three hours after the call had already happened — with 'I’m awake now Sarah !!'. She never mentioned the call again and nobody has ever asked her how it went or what it was. This is the same client who has repeatedly offered to take 4-5am Perth calls to accommodate ALTR's hours. | [new] NEW — she asked for urgent help before a video call and got nothing for four and a half hours. At 00:40 on Sep 13 she wrote 'Hey Mason are you up?' and at 00:41 escalated to the room: 'Or anyone that can help me lol, I have a video call in an hour and a half and I’m stressed bc I have no idea what to do😂😭'. Nineteen participants, zero replies. Mayson answered at 05:10 with 'I’m awake now Sarah !!' — roughly three hours after the c"
+    },
+    {
+     "client": "Sarah Lloyd",
+     "reminders": 6,
+     "complaints_owned": 1,
+     "commitments_kept": 0,
+     "commitments_overdue": 3,
+     "commitments_pending": 1,
+     "notes": "reminded: THE CREDENTIAL ASKS. He is the most present ALTR person on this account — 24 of our 36 messages this week — and almost every one of them was a request for something from her, including five live credentials. On 09-10 he told her 'Okay great, just asked the team tho so will let you know' about a proper Snapchat access route; that answer never came. Instead, at 17:58 on 09-11 he opened with 'Hey @sarahlloydd did you get the password?' and she posted her Snapchat login in plaintext into the group chat. His reply was 'Perfect we'll try!!' — no correction, no warning, no move to DM. He then asked for a Facebook login on 09-16 without ever saying what it was for (she asked 'Yes sure what for?' and got 'One not connected to instagram'), and asked for live 2FA codes twice, the first of them three hours and forty-eight minutes after Mica told her in this same chat not to send codes to anyone including our team. | reminded: The Monday trial-reels call, now fourteen days dead. He proposed it on 09-04, she accepted in 96 seconds and gave a twelve-hour availability window, he said 'Okay great!!' on 09-05 and never proposed a time. Monday 09-07 passed. It has not been mentioned once si"
+    },
+    {
+     "client": "Shayna",
+     "reminders": 0,
+     "complaints_owned": 1,
+     "commitments_kept": 0,
+     "commitments_overdue": 1,
+     "commitments_pending": 1,
+     "notes": "[recurring] ALTR keeps asking her for things it already has, and the client's open questions keep piling up. On 9/16 Mayson asked 'Hey Shayna do you have a facebook account available to use?' — she handed Mica her Facebook login on 2026-06-02 ('Pass is [REDACTED-PASSWORD]') and Mica said she would grant access herself. Unanswered at window close. Still unanswered from prior windows: Mayson's @itsshaynaholt credentials request (21 days), his 9/9 Snapchat question (9 days), and his 9/16 Facebook question. Fred's own 9/17 question about what to tell VIP DEE was also left hanging when she went offline at the festival. | [overdue] Schedule and actually hold the monthly check-in call | [pending] Close out the social-account asks: @itsshaynaholt Instagram credentials (8/28), the Snapchat question (9/9) and the Facebook question (9/16) — and stop re-asking for the Facebook access she already handed over on 6/2"
+    },
+    {
+     "client": "Vale",
+     "reminders": 4,
+     "complaints_owned": 1,
+     "commitments_kept": 0,
+     "commitments_overdue": 2,
+     "commitments_pending": 1,
+     "notes": "reminded: Chasing the client for her deliverables while leaving her direct questions unanswered. He chased the Snapchat upload three times in 48 hours until Vale apologised for the delay, and then opened a Facebook request on Sep 16 — all while her Sep 10 questions ('I have my personal and an of one' / 'What’s its for ?') remain unanswered at 8 days. | [recurring] ALTR keeps opening new workstreams and asking the client for new assets while closing nothing old — and this week the direction of the chasing reversed. Mayson pressed Vale for the Snapchat upload on Sep 11, Sep 12 and Sep 13 until she apologised ('No my bad will do today'), then asked for a Facebook account on Sep 16. That is a third access request in eight days, while her own Sep 10 questions — which of her two Snapchat accounts, and what the team will do there — are 8 days unanswered, her Jul 28 'Should I change my password?' is 52 days unanswered, the Infloww unauthorized-access enquiry from the same day has never been closed, and the sexting-set template and content request promised 'in the morning' on Jul 28 are 52 days late. | [overdue] Tell Vale which of her two Snapchat accounts the posting team needs admin on, a"
+    }
+   ],
+   "strengths": [
+    "Present in all 14 active chats and the single most responsive ALTR voice on Sarah Lloyd, Lauren Blake and Vale; the analysts for those accounts independently called him 'the engine' and 'the best worker on the account'.",
+    "Does the internal escalation work nobody else does — four escalations on Liza's behalf in 16 days, one of them pre-emptive, and he chased Vivek on Barbara's account twice in twenty minutes.",
+    "Fast and warm when he does engage: Barbara got a call offer within 38 minutes of her retention warning."
+   ],
+   "coaching_flags": [
+    "CREDENTIAL SOLICITATION — the priority item. Asked for and received passwords and live 2FA codes in group chats across Sarah Lloyd, Lauren Blake, Sarah and Haileigh. Must move to role-based access and 1:1 channels immediately.",
+    "Opens workstreams and never closes them: the 'trial reels' call was offered to at least seven clients and held with none of them, in several cases 11-14 days past its own proposed date.",
+    "The 2026-09-16 Facebook campaign went to six clients with no context, no stated purpose, and no coordination against access ALTR already held.",
+    "Asks clients for new assets while their own direct questions sit unanswered — explicit in Vale, Lilia, Shayna and Sarah Lloyd.",
+    "Zero commitments closed this week against 32 overdue."
+   ],
+   "quotes": [
+    {
+     "quote": "Hey @alannaapow do you have a facebook account available to use?",
+     "client": "Alanna",
+     "date": "2026-09-16"
+    },
+    {
+     "quote": "Hey @sarahlloydd did you get the password?",
+     "client": "Sarah Lloyd",
+     "date": "2026-09-11"
+    },
+    {
+     "quote": "Hey Mason are you up?",
+     "client": "Sarah",
+     "date": "2026-09-13"
+    },
+    {
+     "quote": "Are you able to share us the login info so we can start posting Haleigh",
+     "client": "Haileigh Cox",
+     "date": "2026-09-17"
+    }
+   ]
+  },
+  {
+   "name": "Stephski",
+   "role": "Invoicing",
+   "summary": "Best process week of the quarter on effort and cadence, undermined by two control failures. She restored the pre-invoice OnlyFans-withdrawal heads-up across the roster and the effect is measurable and large: Amber Haze paid in 2 hours 1 minute, Shayna in 4 hours 36 minutes, Vale and Lauren Blake inside a day — against six days on the one cycle where the reminder was skipped. That practice should be made standard policy. Against that: she shipped another change of receiving-account details — the fourth to sixth change depending on the client, and the second time in ten weeks it moved a client off an account that was working — and she still does not confirm in writing when money arrives. Multiple clients are now several cycles deep with no receipt ever acknowledged, and two overpayments have gone uncaught. The one material error this week was Barbara's invoice, understated by $1,683.12; she caught it and disclosed it herself with full arithmetic, which is the right behaviour and should be said out loud.",
+   "open_issues": 54,
+   "trend": "up",
+   "clients": [
+    {
+     "client": "Alanna",
+     "reminders": 3,
+     "complaints_owned": 1,
+     "commitments_kept": 1,
+     "commitments_overdue": 2,
+     "commitments_pending": 1,
+     "notes": "reminded: Billing follow-up — three in-window messages, none of which mentioned the overdue invoice #2; the chase she did send landed one day after issuing invoice #3 | [recurring] Invoice #3 was issued on 9/15 on top of an unpaid, unchased invoice #2 — two invoices now outstanding at once, exactly the condition defined last week as critical payment risk | [overdue] Collect payment on invoice #2 (period Aug 15-31, issued 9/1) — 10 days past the stated 7-day term, 17 days from issue, and unmentioned by anyone for 13 days | [pending] Collect payment on invoice #3 (period Sept 1-14, issued 9/15) and confirm she has updated the payee to the new account name | [overdue] Get her phone number and push the Zelle request — asked 9/3, re-asked once on 9/5, now 15 days unanswered and dropped | [done] Warn the client before invoicing so she can time an OnlyFans withdrawal — DONE 9/14, new and genuinely useful practice"
+    },
+    {
+     "client": "Alex Paige Moore",
+     "reminders": 4,
+     "complaints_owned": 2,
+     "commitments_kept": 0,
+     "commitments_overdue": 1,
+     "commitments_pending": 1,
+     "notes": "reminded: Payment chasing on the Aug 15-31 balance and the new Sep 1-14 invoice — four separate pushes in four days, and 10 of ALTR's 13 messages this week. The chase on Sep 13 came two days after the client explained her payment terms for the third time in 12 months; Stephski proposed a weekly Thursday cadence (the first constructive attempt anyone has made to align terms with her payout cycle) but then on Sep 14 asked her to 'initiate a OF withdrawl today', which is the one thing her stated cycle makes impossible — OF funds sit a week in primary balance, a week pending and four days in transit — and labelled the gap a 'missed payment last week' rather than an instalment schedule ALTR has never written down. Billing was the dominant relationship ALTR had with this client in her final week. | [recurring] Billing ledger still unreconciled — and the client has now left owing an amount neither side can state. Progress this week was real but partial: on 2026-09-14 Stephski put the first figure in the chat since 2026-08-13, 'We are currently still at $7,582.74 owed from last invoice due to missed payment last week'. That is the first time in 32 days anyone at ALTR quantified anything. B"
+    },
+    {
+     "client": "Amber Haze",
+     "reminders": 0,
+     "complaints_owned": 0,
+     "commitments_kept": 1,
+     "commitments_overdue": 0,
+     "commitments_pending": 0,
+     "notes": "[done] Stephski's pre-invoice withdrawal reminder ahead of the Sept 15 invoice. DONE — sent 2026-09-14 13:40, exactly the date the last report specified, after being skipped for the Sept 1 cycle. The result was the fastest payment of the entire engagement: invoice out Sept 15 13:54, paid Sept 15 15:55. Two hours and one minute. The hypothesis that the reminder drives the cycle speed is now as close to proven as this dataset allows."
+    },
+    {
+     "client": "Barbara",
+     "reminders": 2,
+     "complaints_owned": 4,
+     "commitments_kept": 1,
+     "commitments_overdue": 1,
+     "commitments_pending": 0,
+     "notes": "reminded: Invoice accuracy and the receiving-account details. The Sep 15 invoice understated the total by $1,683.12 — a 143% error she caught and disclosed herself the next day, after Barbara had already paid. It also carried the fourth change to ALTR's receiving details in six weeks (Aug 4 email not recognised, Aug 8 'altrpaymentsmgmt' tag failure, Aug 15 'an update to the account number', Sep 15 'a slight name change to the account'), and repeated the pausing-of-work clause introduced on Sep 1 — now twice running, so it is policy, not an accident. ACH/wire alongside Zelle and reconciled totals for invoices #2 and #3 remain unoffered at 17 days. | [new] NEW: ALTR under-invoiced Barbara by $1,683.12 and asked for the difference after she had already paid. The Sep 15 invoice stated $1,176.60; the correct figure was $2,859.72, a 143% error. Stephski caught it herself, disclosed it openly with the full working the next day, and reissued — that transparency is the right behaviour — but the client had already transferred the wrong amount within 20 hours of receipt and now owes a balance she was never billed for. Her reply, 'Heyyy ok will look this over in a sec', is the first time in fo"
+    },
+    {
+     "client": "Haileigh Cox",
+     "reminders": 3,
+     "complaints_owned": 1,
+     "commitments_kept": 0,
+     "commitments_overdue": 1,
+     "commitments_pending": 0,
+     "notes": "reminded: Invoicing for Sep 1-14 plus banking instructions. Three messages: the pre-invoice OF-withdrawal reminder on 9/14 (a habit that lapsed before the 9/1 invoice and is now restored), the invoice itself on 9/15, and an eleven-minute follow-up stressing that the destination has changed AGAIN. The follow-up is the finding: 'send to this bank account vs the one you sent to last period' explicitly supersedes the account ALTR's own 9/1 invoice told her to use on 9/7. This is the third different wire target in three consecutive cycles. The phrase 'should help alleviate any bounce backs' is also the first written hint from ALTR that wires have been bouncing. | [recurring] ESCALATED FOR THE THIRD CONSECUTIVE CYCLE. ALTR's banking churn has now produced three consecutive payments to three different destinations with written confirmation of receipt for NONE of them. On 8/20 she wired to last month's account because Derrek said 'thats fine', overriding the 8/15 invoice - 29 days unreconciled. On 9/7 she wired to the account printed on the 9/1 invoice - 11 days unreconciled. On 9/15 Stephski told her that account is now wrong too ('send to this bank account vs the one you sent to last per"
+    },
+    {
+     "client": "Lauren Blake",
+     "reminders": 3,
+     "complaints_owned": 4,
+     "commitments_kept": 0,
+     "commitments_overdue": 1,
+     "commitments_pending": 1,
+     "notes": "reminded: Complete corrected receiving-bank details in one standalone message (beneficiary name as registered, routing/SWIFT, registered address) AND acknowledgement of the Chase fraud flag - the name half was finally fixed on Sep 15, the rest never was | [recurring] The Chase fraud/scam flag on ALTR's receiving account has now gone EIGHTEEN DAYS without a single ALTR person acknowledging it. Lauren phoned her own bank on Aug 31 and reported it verbatim in this chat. Since then ALTR has issued two invoices, changed its account name, chased her twice and thanked her four times - and never once addressed the sentence where a major US bank told a paying client that this agency's account is associated with scam transactions. Worse, this window ALTR had the perfect moment to close it and did not: the Sep 15 name change appears to have unblocked the rail, she paid invoice 4 in a single transaction on Sep 16, and nobody at ALTR asked whether the wire went through, confirmed the rail works again, or told her the flag had been dealt with. The fix, if it is a fix, is unverified by the people who made it. This remains company-level exposure, not client-level: every US client wiring from Chase"
+    },
+    {
+     "client": "Lauryn",
+     "reminders": 2,
+     "complaints_owned": 2,
+     "commitments_kept": 1,
+     "commitments_overdue": 1,
+     "commitments_pending": 1,
+     "notes": "reminded: The client is still the only person in this chat keeping track of what she has paid, and this window we asked her to formalise that. She sent a tranche plus a screenshot of the remaining total on 2026-09-12 and waited 32 hours for a reply; when it came on 2026-09-13 it was a request that she do our bookkeeping - 'Can you please include totals you send in these screenshots so I can track easier on our side'. She then announced her own closeout on 2026-09-17 ('Closed out') and was thanked, but still never told what we received or what, if anything, remained. Across four tranches (2026-09-09, 09-11, 09-12, 09-17) ALTR has never once stated an amount. The last dollar figure in this thread is Stephski's own 'Just missing last $1,852.15' on 2026-08-11 - 38 days ago, three invoices back. | [in_progress] ALTR cannot state what it has been paid - carried from 2026-09-09, nine days open, PARTIALLY addressed and then made worse. The acknowledgment gap did close: Stephski replied on 2026-09-13 (32 hours after the Sep 12 tranche, four days after the Sep 9 one) and again on 2026-09-17. But no acknowledgment has ever carried a number. Four tranches have now landed (2026-09-09, 2026-09-1"
+    },
+    {
+     "client": "Lilia",
+     "reminders": 3,
+     "complaints_owned": 1,
+     "commitments_kept": 0,
+     "commitments_overdue": 2,
+     "commitments_pending": 2,
+     "notes": "reminded: She has now had to query ALTR's receiving details in three separate cycles. The Sep 15 invoice announced a sixth change and she reacted within 70 seconds - the owner had to step in personally to reassure her | [recurring] ALTR's receiving details changed for a SIXTH time and she noticed instantly. The Sep 15 invoice said 'Please note a slight name change to the account, but the same account and wire info' and within 70 seconds of acknowledging the invoice she wrote 'Wait a different Zelle again?'. The owner had to answer personally at 01:33 to reassure her. Five months in, this client now reads every invoice for a banking surprise - Mercury link bounced in June, then Chase, then Bank of America, then the Zelle ID stopped existing in August, then a replacement number, now an account name change. The same message also introduced a service-suspension line she has never been sent before - 'we appreciate you paying within the next 7 days to avoid any pausing in work!' - aimed at a client who has never once disputed an amount and self-reports her own running balance. | [overdue] Confirm in writing that the Aug 15-31 invoice (issued Sep 3) was actually received. Fifteen days aft"
+    },
+    {
+     "client": "Liza Kovalenko",
+     "reminders": 6,
+     "complaints_owned": 3,
+     "commitments_kept": 0,
+     "commitments_overdue": 1,
+     "commitments_pending": 1,
+     "notes": "reminded: Being told a real number for what ALTR is holding, without asking. She asked in six consecutive cycles (07-14, 07-29, 08-25, 09-02, 09-08, 09-09). This window she asked ZERO times - and got zero numbers. The 09-15 invoice credit was again described in words only: 'I've deducted the overpayment from last period + the 1500 you sent earlier'. Seventh cycle of the same defect, and the first one she has not audited. | [recurring] THE SIXTH ALTR BANKING CHANGE SINCE 2025-09-27, DELIVERED INSIDE AN INVOICE, AND THE WIRE THAT FOLLOWED IS ON HOLD. Stephski's 09-15 invoice message carried 'Please note a slight name change to the account, but the same account and wire info. This should help alleviate any bounce backs or issues moving forward.' It is only a beneficiary-name change and it is framed as a fix, but the last time banking details moved inside an invoice - the 2026-08-15 account-number change - it caused the bounce-backs that produced a 21-day reconciliation and a $5,000 error. It is also 76 days after 'last change I promise!' (07-01). Liza wired $10,000 on 09-16 against the new details and Stephski's own words at window close are 'Its currently in processing on hold ill le"
+    },
+    {
+     "client": "Mila",
+     "reminders": 7,
+     "complaints_owned": 3,
+     "commitments_kept": 0,
+     "commitments_overdue": 3,
+     "commitments_pending": 1,
+     "notes": "reminded: Invoice and payment-window prompts — a fifth consecutive request cycle issued while four cycles sit unconfirmed, plus a new instruction moving the currency-conversion burden onto the client | reminded: Client chasing for confirmation her payments were received — now six consecutive weeks with zero chases, while a fourth and fifth invoice were issued | [recurring] Unreconciled money, now four cycles deep and one cycle actively lost. The Sep 1-14 invoice went out on Sep 15 — on schedule, with the pause-work condition intact, and without one word about any of the three open cycles behind it. The Aug 15-31 invoice, issued Sep 1 with a 7-day window, hit its deadline on Sep 8 and has now gone 17 days without being mentioned by anyone on either side; there is no payment message, no confirmation, and no chase, and it has effectively dropped out of the relationship. The Aug 17 wire is 32 days unverified. The Jul 15-31 duplicate-payment question Callie asked on Aug 8 is 41 days unanswered. ALTR has issued five invoices to this client and confirmed receipt of two; the last confirmation of any kind was Stephski's 'You're the best 💘 thank you' on Jul 23, 57 days ago. She has paid ever"
+    },
+    {
+     "client": "Sarah",
+     "reminders": 0,
+     "complaints_owned": 1,
+     "commitments_kept": 2,
+     "commitments_overdue": 0,
+     "commitments_pending": 1,
+     "notes": "[new] NEW AND THE TOP PAYMENT RISK ON THE ACCOUNT — the Sep 15 invoice shipped with two contradictory banking instructions thirty-five seconds apart, and it included a change to the PAYEE NAME. At 13:50 Stephski wrote 'Please note a slight name change to the account, but the same account and wire info'; at 13:51 she wrote 'It is very important that you send to this Bank of America account instead of the Chase you’ve sent to in the past because we no longer have that account open'. Those two statements cannot both be true — one says nothing has changed but the name, the other says the account she has been paying into is closed. This is the SIXTH change of payment instructions in twelve months (2025-09-27 JPMorgan Chase / Social Depot LLC; 2026-04-15 'we recently changed banks'; 2026-06-15 a Mercury payment link; 2026-06-22 revert to Chase because 'your transaction will bounce'; 2026-07-01 Bank of America with 'last change I promise!'; 2026-09-15 Bank of America with a name change and Chase declared closed). It was delivered as chat messages inside a nineteen-participant group, with no advance notice, no voice confirmation step and no explanation of why the payee name changed. Sarah "
+    },
+    {
+     "client": "Sarah Lloyd",
+     "reminders": 1,
+     "complaints_owned": 3,
+     "commitments_kept": 1,
+     "commitments_overdue": 0,
+     "commitments_pending": 1,
+     "notes": "reminded: The reminder ran the wrong way this week. She was chased for payment one day after the invoice was issued — 'Hi @sarahlloydd just making sure you saw this ❤️' on 09-16, with six days still left on the 7-day term — by the same person who never told her that her previous payment had arrived. The Aug 15-31 receipt was never confirmed in chat; she learned she had paid (and overpaid) only from a line inside the next invoice. She answered the chase in 37 minutes with 'Hey, thankyou! Will get this paid today :)'. Credit where due: Stephski pre-warned her to initiate an OF withdrawal before invoicing, issued the invoice on time, and proactively deducted the overpayment rather than making her ask for it as she had to in July. | [recurring] THE FOURTH CHANGE TO OUR RECEIVING ACCOUNT IN TEN WEEKS, AND THE FIRST PAYMENT-PAUSE THREAT IN THE ACCOUNT'S HISTORY. On 09-15 Stephski issued the Sept 1-14 invoice with 'Please note a slight name change to the account, but the same account and wire info. This should help alleviate any bounce backs or issues moving forward' and then, in a separate message, 'It's very important that you send to the ALTR Management account listed at the bottom of "
+    },
+    {
+     "client": "Shayna",
+     "reminders": 0,
+     "complaints_owned": 1,
+     "commitments_kept": 1,
+     "commitments_overdue": 1,
+     "commitments_pending": 0,
+     "notes": "[recurring] PAYMENT OPS — the client's half fixed itself, ALTR's half did not. She paid the Sept 1-14 invoice in 4 hours 36 minutes on 9/15, the fastest on record. But the Aug 15-31 invoice, issued 9/1 with 7-day terms and due ~9/8, was never chased, never acknowledged and never reconciled in the chat — Stephski issued the next invoice on 9/15 as though it did not exist, and there is still no written confirmation anywhere that those funds landed. The Aug 1-14 payment she completed unaided on 8/26 has now gone 23 days without an explicit receipt confirmation; Stephski's 'You're the best ❤️' on 9/16 is warm but is not the thing the client asked for on 7/5. Three cycles running, the one unblocker she has ever named — written confirmation that funds arrived — has not been given. The 9/15 invoice also carried a FIFTH change to the account details in five months ('a slight name change to the account'); every previous change has cost a cycle. | [overdue] Confirm in writing that the Aug 1-14 payment (completed 8/26) and the Aug 15-31 invoice (issued 9/1, due ~9/8) were actually received, and reconcile the account | [done] Send the pre-invoice OF withdrawal reminder before invoicing"
+    },
+    {
+     "client": "Vale",
+     "reminders": 3,
+     "complaints_owned": 1,
+     "commitments_kept": 1,
+     "commitments_overdue": 2,
+     "commitments_pending": 1,
+     "notes": "reminded: Confirming that Vale's payments have actually landed. Three consecutive transfers are now unreconciled — Aug 17 (32 days, never acknowledged at all), Sep 5 ('Perf thank you love') and Sep 16 ('Thank you love!') — against an account that has changed details twice in that period and an invoice that now openly refers to 'bounce backs'. | [new] ALTR's banking details have now changed five times in six months and the Sep 15 invoice used the phrase 'bounce backs' for the first time — while two earlier payments remain unreconciled. Apr 15 new bank, Jun 15 Mercury, Jul 1 Bank of America, Aug 15 account number change, Sep 15 account name change. The Jul 1 change alone cost three days of failed Zelle and ACH attempts and needed the client to troubleshoot it herself. Vale has absorbed every one of these without complaint and paid on time every time, but she is now three payments deep into an account nobody has confirmed works, and ALTR's own invoice copy implies transfers have been failing. | [overdue] Confirm receipt of Vale's Aug 17 payment against the account number that changed on the Aug 15 invoice | [overdue] Verify that the Sep 5 payment against the Sep 1 invoice actually lan"
+    }
+   ],
+   "strengths": [
+    "Invented and then restored the pre-invoice withdrawal reminder, the single highest-leverage billing practice ALTR has: payment turnaround collapsed from days to hours on every account where it ran.",
+    "Self-disclosed her own $1,683.12 under-invoice to Barbara with the full arithmetic rather than quietly re-billing.",
+    "Invoices went out on cadence across the roster; turned Sarah's referral-tracking request around in four hours, closing the root cause of three consecutive late invoices.",
+    "Warm, human register that clients respond to — Haileigh's warmest exchange in months was with her."
+   ],
+   "coaching_flags": [
+    "Does not confirm receipt in writing. Haileigh is three cycles unconfirmed, Vale three consecutive payments, Mila five invoices with two receipts ever. Two client overpayments went uncaught as a direct result.",
+    "Banking details have now changed 4-6 times per client in under twelve months, twice announced as a clause inside an invoice message rather than standalone and in advance.",
+    "The 'to avoid any pausing in work' clause is going to clients who have never missed a payment — Lilia, Sarah Lloyd, Barbara and Haileigh all received it this week.",
+    "Chases the newest invoice while the oldest ages out: Alanna's invoice #2 is 10 days past term and unmentioned for 13 days while #3 was chased the day after issue."
+   ],
+   "quotes": [
+    {
+     "quote": "Please note a slight name change to the account, but the same account and wire info",
+     "client": "Sarah",
+     "date": "2026-09-15"
+    },
+    {
+     "quote": "It is very important that you send to this Bank of America account instead of the Chase you've sent to in the past because we no longer have that account open",
+     "client": "Sarah",
+     "date": "2026-09-15"
+    },
+    {
+     "quote": "Can you please include totals you send in these screenshots so I can track easier on our side",
+     "client": "Lauryn",
+     "date": "2026-09-13"
+    }
+   ]
+  },
+  {
+   "name": "Ollie Mckinlay",
+   "role": "Account lead",
+   "summary": "Four accounts, 26 overdue commitments, zero closed. The pattern across Lauren Blake, Vale, Alanna and Amber Haze is identical: he is present, polite and responsive in tone, and nothing moves. On Lauren Blake he sent one message in seven days — 3.7% of ALTR's output there — and closed none of seven open items, the oldest 47 days. On Alanna he broke an 18-day silence with three words and stepped straight over the 5,000+ photos she had uploaded four days earlier for the exact service he manages. On Vale his responsiveness genuinely improved, but he guaranteed 'you won't lose your account' to a client who had just disclosed losing OnlyFans access for nine days after a chatter told a fan she was 16 — without pulling the alert log or opening a ticket. He also still requires Mayson to @-tag him before he answers his own clients, now the sixth such instance. Three of the four analysts framed this as a staffing decision rather than a coaching note.",
+   "open_issues": 48,
+   "trend": "down",
+   "clients": [
+    {
+     "client": "Alanna",
+     "reminders": 2,
+     "complaints_owned": 5,
+     "commitments_kept": 0,
+     "commitments_overdue": 8,
+     "commitments_pending": 1,
+     "notes": "reminded: Chatter FAQ form — 46 days open, last chased 8/5, and he was back in the chat on 9/14 without touching it | [recurring] Ollie Mckinlay returned after 18 days of silence and posted three words, then went quiet again — he was in the chat on 9/14 and still did not acknowledge the 5000+ photos from 9/10 | [recurring] Client handed over 5000+ photos for her OnlyFans wall on 9/10 and it is still unacknowledged at 8 days — including by the manager who was in the chat on 9/14 | [recurring] Three consecutive pinned scene drops (Aug 17, Aug 24, Aug 29) still uncovered, and her release calendar has now been empty for 20 days with nobody asking for new dates | [recurring] Client's 8/19 live-stream instruction to pause chatting has still never been acknowledged — 30 days and five reporting cycles | [recurring] Client volunteered to shoot customs twice and was refused twice; the 'push heavy' selling promise is 34 days old with no number ever reported, and she has not offered again"
+    },
+    {
+     "client": "Amber Haze",
+     "reminders": 4,
+     "complaints_owned": 2,
+     "commitments_kept": 0,
+     "commitments_overdue": 4,
+     "commitments_pending": 0,
+     "notes": "reminded: Everything still owed on the OnlyFans side — Wesley's anniversary flowers video (38 days) and five-part custom/sexting session (35 days), the Moggy damage control (42 days), and the two dildo counter-offers (39 and 29 days). His only message in the entire window was a fourth request for wall photos on the last morning, 2026-09-18. | [recurring] Chat team still not demonstrably working from her written 2026-07-14 boundary brief, 66 days on. Three documented breaches of the same written rule (Jul 14, Aug 10, Aug 20), plus Ollie commissioning a titjob custom she already had 'loads' of in the vault. No new breach in this window, but for the FOURTH consecutive reporting period that is only because almost no chatting traffic reached her at all — Ollie sent one message in seven days and it was a content request. The pinned-brief plus one-page vault index has now been recommended in five consecutive reports and never actioned. | [recurring] Chatters overpromising/lying to fans (video calls, showing explicit content), open since 2026-07-29 — 51 days. Unchanged: no new incident reported, no structural fix, and effectively no chatting traffic reached her again this window, so this i"
+    },
+    {
+     "client": "Lauren Blake",
+     "reminders": 8,
+     "complaints_owned": 6,
+     "commitments_kept": 1,
+     "commitments_overdue": 6,
+     "commitments_pending": 0,
+     "notes": "reminded: Her content boundaries - topless is faceless and mute only, diamond-tier pricing, no porn/sex tapes/anal - stated three separate times, violated once, never confirmed back in writing | reminded: Being told what is happening without having to ask - takedown visibility, IG page status, the livestream poll, whether OnlyFans stories are posted, and now whether the team actually has the account access she handed over | [recurring] Account-management vacuum - fifth consecutive week and now effectively total. Ollie Mckinlay sent ONE message in the entire seven-day window: \"Hey Lauren - faisal_m1989\\n\\nSnapchat add please\". She added the fan the same day. That is the complete account-management output for a client paying five-figure invoices: one fan-add request. He owns chatting, customs, whale strategy, the livestream, the CodyBeebs case and the boundary confirmation, and every one of those items aged another seven days with zero movement - 47, 42, 34, 31, 28 and 27 days respectively. He has still never once chased the third custom that has been outstanding since Aug 15. Meanwhile Mayson (12 messages) and Michelle (8) did the actual account work this week - untangling the two I"
+    },
+    {
+     "client": "Vale",
+     "reminders": 16,
+     "complaints_owned": 5,
+     "commitments_kept": 0,
+     "commitments_overdue": 11,
+     "commitments_pending": 0,
+     "notes": "reminded: Confirming to Vale that John's $2,000 custom reached the fan and that the $200 ASAP-delivery fee he collected on Aug 18 was honoured. She uploaded it on Aug 22. Twenty-seven days and five Ollie messages later he has still never mentioned it, in the fifth consecutive report where this is the largest single live exposure on the account. | reminded: Identifying what the recurring OnlyFans alerts are that Vale keeps screenshotting. Four rounds now — Aug 29, Sep 10 (two images, 'Again' / 'And this one'), Sep 13 ('Again'), Sep 14 ('What is going on ?') — plus three more uncaptioned photos on Sep 17. When he finally answered on day 16 his answer was that he does not know what they are. | reminded: Needing an internal @-tag from Mayson before replying to his own client. The sixth escalation since Jul 28: Mayson tagged him four minutes after Vale's Sep 13 screenshot and Ollie answered the following morning. Every substantive Ollie reply in the last seven weeks has followed a colleague's tag rather than the client's message. | [new] Vale is frightened of losing her OnlyFans account and ALTR answered her with a promise instead of a control. She has been screenshotting unexplained On"
+    }
+   ],
+   "strengths": [
+    "Tone is warm and clients do not dislike him; Vale's analyst noted his first substantive reply since Aug 18 was well-pitched.",
+    "Ran a vault scan on Vale unprompted on 2026-09-14."
+   ],
+   "coaching_flags": [
+    "26 overdue commitments across only four accounts, none closed this week; several 34-47 days old and never once chased.",
+    "Guaranteed account safety he had not verified on Vale, against a documented precedent of a nine-day OnlyFans loss caused by chatter conduct.",
+    "Requires Mayson's @-tag to respond to his own clients — sixth occurrence, now a routing problem rather than an availability one.",
+    "His appearances are consistently asks rather than reports: a fourth wall-photo request to Amber Haze while her anniversary sends, damage control and two counter-offers sit unclosed."
+   ],
+   "quotes": [
+    {
+     "quote": "And then I'll do the damage control on OF",
+     "client": "Amber Haze",
+     "date": "2026-08-07"
+    },
+    {
+     "quote": "Will get this sorted",
+     "client": "Lauren Blake",
+     "date": "2026-08-02"
+    },
+    {
+     "quote": "Hey Alanna, could you fill out this FAQ form for us please",
+     "client": "Alanna",
+     "date": "2026-08-03"
+    }
+   ]
+  },
+  {
+   "name": "Michelle",
+   "role": "Promo / DMCA (queue account)",
+   "summary": "The weekly DMCA leak-removal report stopped everywhere at once. It last ran on 2026-09-08 across Amber Haze, Barbara, Haileigh, Sarah Lloyd and Sarah, and on 2026-09-01 for Lauryn — and then did not run again in any chat. That report is the one ALTR deliverable multiple clients thank us for unprompted and never have to chase; it had unbroken streaks of eight, nine, ten, eleven and twelve weeks depending on the account. It broke in Shayna's chat the week she was thanked for it, in Barbara's the week she threatened to leave, in Alex Paige Moore's the week she resigned, and in Amber Haze's the week she asked ALTR to prove it does any work. Because it stopped simultaneously across ten chats rather than degrading in one, this reads as an availability or capacity event rather than ten separate lapses — worth establishing what happened before it is treated as a performance issue. Separately and independently of the cadence break, she re-posted a client's live plaintext Instagram password back into Liza's 20-person group chat on 2026-09-12, having copied it out of the scrollback.",
+   "open_issues": 46,
+   "trend": "down",
+   "clients": [
+    {
+     "client": "Alanna",
+     "reminders": 4,
+     "complaints_owned": 1,
+     "commitments_kept": 1,
+     "commitments_overdue": 2,
+     "commitments_pending": 0,
+     "notes": "reminded: Promo content uploads — a fourth ask on 9/11 that declined the client's own workaround, then 7 days of silence and still zero uploads at 32 days | [new] The client proposed her own workaround to a 32-day blocker and was told no on grounds of ALTR's internal preference, with no alternative offered — and the only healthy thread on the account died the same day | [overdue] Give her a workable route to get reels into the promo pipeline after declining her Dropbox proposal — 32 days from the original ask, four requests, still zero uploads | [overdue] Launch the new Instagram account promised on 9/1 and report back when it starts posting — 'ready in a few days' as of 9/10, no update in 7 days | [done] Answer whether the promo team could pull content from her Dropbox instead of the Google Drive — CLOSED 9/11, answered no"
+    },
+    {
+     "client": "Alex Paige Moore",
+     "reminders": 0,
+     "complaints_owned": 2,
+     "commitments_kept": 0,
+     "commitments_overdue": 2,
+     "commitments_pending": 0,
+     "notes": "[recurring] Management-run IG reels/promo posting never happened — 108 days after she first asked, 52 days after Michelle Queue promised posting would 'start this week' on @paigealexxo, 37 days after Derrek declared the phone-farm blocker cleared. Zero proof has ever been shown, and the page was not mentioned by a single person in this window or the previous two-week window — 21 straight days of silence on her most-repeated request. It was the one deliverable that needed nothing from her body while she recovered, and ALTR spent the same period sending her reel links and posting lectures. The client has now left without it ever being delivered. | [new] The weekly leak-removal report — the only unbroken cadence on this account — broke in the churn week. Michelle Queue had delivered eight consecutive on-time weekly reports (Jul 1, Jul 10, Jul 17, Jul 26, Aug 1, Aug 10, Aug 17, Aug 25, Sep 1, Sep 8). Nothing arrived on or around Sep 15, and nothing arrived before the window closed on Sep 18 — 10 days since the last send. The one service ALTR performed reliably stopped in the exact week the client decided to leave. It has also never drawn a single client reply in its entire history, whi"
+    },
+    {
+     "client": "Amber Haze",
+     "reminders": 0,
+     "complaints_owned": 1,
+     "commitments_kept": 0,
+     "commitments_overdue": 1,
+     "commitments_pending": 1,
+     "notes": "[new] NEW: Michelle's weekly leak-removal report missed for the first time since the cadence began on 2026-07-01, and Michelle sent zero messages in the entire window. The reports landed Jul 1, Jul 10, Jul 17, Jul 26, Aug 1, Aug 10, Aug 17, Aug 25, Sept 1 and Sept 8 — every 7 to 9 days without exception, and it was described in the last two reports as the longest-running proactive deliverable on the account and the one thing that never missed. It is now 10 days since Sept 8. She has not complained about it, which is precisely why it matters: the only unbroken piece of proactive proof-of-work this client received has broken in the same window in which she asked us to prove we are doing any work at all. | [overdue] Restore Michelle's weekly leak-removal report. It ran every 7 to 9 days from 2026-07-01 through 2026-09-08 without a single miss and did not land this window — 10 days and counting, the first break in the cadence. Michelle sent zero messages in the entire window. | [pending] Publish one authoritative upload map and delete the dead links. She has been pointed at the abandoned 2026-05-07 content Drive twice in eleven days (Aug 30, Sept 10) despite using a shared iPhone album"
+    },
+    {
+     "client": "Barbara",
+     "reminders": 1,
+     "complaints_owned": 3,
+     "commitments_kept": 0,
+     "commitments_overdue": 5,
+     "commitments_pending": 0,
+     "notes": "reminded: Total absence. Michelle sent ZERO messages in this window. The weekly DMCA leak-removal breakdown — delivered without fail on Aug 10, Aug 17, Aug 25, Sep 1 and Sep 8, and the only ALTR service Barbara thanks someone for every single week — did not go out. The streak broke at 10 days and counting, in the week the client said the relationship is not sustainable. Her two ancient promises also aged another seven days: the backup IG reels @ name ('next week', Aug 1) is now 48 days, and talking-to-camera reel examples (Jul 23) is now 57 days — the oldest open promise on the account. | [new] NEW: the weekly leak-removal report stopped. Michelle delivered it six weeks running (Aug 10, Aug 17, Aug 25, Sep 1, Sep 8) and Barbara thanked her for it every single time — it is the only ALTR service on this account with a perfect record and the only one she has ever volunteered praise for. Nothing went out in this window; Michelle sent zero messages of any kind. The streak broke at 10 days in the exact week the client issued a retention warning and lost her main Instagram account. If she notices, the last thing she trusts about ALTR goes with it. | [recurring] Backup IG reels account @ n"
+    },
+    {
+     "client": "Haileigh Cox",
+     "reminders": 1,
+     "complaints_owned": 1,
+     "commitments_kept": 0,
+     "commitments_overdue": 0,
+     "commitments_pending": 1,
+     "notes": "reminded: NOTABLE ABSENCE, not a reminder. Michelle posted ZERO messages in this window. Her weekly leak-removal recap - the single deliverable on this account with a clean record across a full year (6/25, 7/1, 7/10, 7/17, 7/26, 8/1, 8/10, 8/17, 8/25, 9/1, 9/8) - has now gone 10 days without landing against a 7-day cadence. She is also the person who chased the content quota on 9/10, so the quota went entirely unchased this window at 19 days and zero uploads. | [recurring] Content-submission friction - 219 days. She named Content Snare as 'my biggest issue' on 2/11 and asked for ONE shared album; Eric agreed on 2/12 to switch it off. She has since been handed the 2/15 Drive, a shared iPhone album with Michelle (6/17), a second with Ronnie (7/6), and on 8/30 a brand-new Drive carrying a 7-reels-a-week / 30-a-month quota. NEW FACT THIS WINDOW: at 19 days into that quota, uploads are still zero and NOBODY CHASED IT AT ALL - Mayson posted three times about other things, and Michelle, who chased it on 9/10, posted nothing all week. A quota that is issued, chased once on the wrong thread, and then abandoned is worse than no quota: it teaches her that ALTR's asks do not mean anything. Quo"
+    },
+    {
+     "client": "Lauren Blake",
+     "reminders": 5,
+     "complaints_owned": 3,
+     "commitments_kept": 0,
+     "commitments_overdue": 2,
+     "commitments_pending": 2,
+     "notes": "reminded: Being told what is happening without having to ask - takedown visibility, IG page status, the livestream poll, whether OnlyFans stories are posted, and now whether the team actually has the account access she handed over | [new] NEW AND URGENT - credential exposure. On Sep 11 Lauren posted her Instagram login (\"Login:\\nLaurenblakeluxe\\n[REDACTED-PASSWORD]\") and her Snapchat login (\"Snapchat login:\\n[REDACTED-RECOVERY-EMAIL]\\n[REDACTED-PASSWORD]\") as plaintext messages in this group chat, then relayed two 2FA codes in plaintext on Sep 12 and Sep 13. The same password is reused across both accounts. She did this because ALTR asked - Mayson wrote \"Direct login would work too\" on Sep 11 and \"And login for snapchat\" on Sep 12 - and nobody on the team redirected her to a private channel or a password manager. This chat has open membership churn: someone was added on Sep 10 and someone was removed and re-added on Sep 17 at 22:44 and 22:45. Anyone in the group at any point can scroll back to live credentials for the accounts ALTR's entire IG traffic strategy depends on. The irony is on the record: Mica Vecco's Sep 17 security advisory tells her \"Please do not send your backup codes to anyone, including our "
+    },
+    {
+     "client": "Lauryn",
+     "reminders": 0,
+     "complaints_owned": 1,
+     "commitments_kept": 0,
+     "commitments_overdue": 1,
+     "commitments_pending": 0,
+     "notes": "[new] NEW: the DMCA leak-removal update - the only service ALTR has delivered reliably on this account - was MISSED. Michelle's weekly update ran unbroken for ten deliveries (2026-07-01, 07-10, 07-17, 07-26, 08-01, 08-10, 08-17, 08-25, 09-01, 09-08); the next was due on or about 2026-09-15 and never arrived. Michelle has not posted anything in this chat since 2026-09-10 - eight days. Nobody flagged the miss to the client. This matters out of proportion to its size: the DMCA cadence was the single piece of evidence that ALTR does anything at all for her, it is the thing she names as a priority, and it broke in the same week she cleared her balance in full. If it is missed again next window she will have paid us off and received literally nothing visible in return. | [overdue] NEW: restore the weekly DMCA leak-removal update and tell her why it slipped. The run was unbroken for ten weeks (2026-07-01 through 2026-09-08); the 2026-09-15 update never arrived and Michelle has not posted since 2026-09-10. Nobody has acknowledged the miss. This is the only service she can actually see, and it stopped in the week she paid us off."
+    },
+    {
+     "client": "Lilia",
+     "reminders": 0,
+     "complaints_owned": 1,
+     "commitments_kept": 0,
+     "commitments_overdue": 1,
+     "commitments_pending": 1,
+     "notes": "[in_progress] The management-run Instagram Reels account she did not know existed is still empty - 98 days since Michelle handed her the Drive on Jun 12 and 19 days since Mayson re-handed it with a 7-reels-a-week / 30-a-month quota. She agreed on Sep 10 to send the login 'now' and to upload after her LA shoot; six days later she wrote 'I still need to get u the insta login... need to figure it out' - a client telling ALTR she is blocked - and the reply was 'Okay thanks' followed by a request for yet another account. Nobody has sent her the written map of every account ALTR runs for her that last week's report called for, so the confusion she expressed on Sep 10 ('how many accounts are being run for me?') has never actually been answered in writing. | [overdue] Send her one written map of every account ALTR runs or is building for her, which Drive feeds which, and what she owes each - then have ALTR track the reel quota instead of the client. Promised implicitly on Sep 10 when she asked 'how many accounts are being run for me?'; eight days later nothing has been written into the chat | [pending] Deliver the weekly DMCA leak-removal breakdown. The last one landed Sep 8; it is now 10 "
+    },
+    {
+     "client": "Liza Kovalenko",
+     "reminders": 4,
+     "complaints_owned": 2,
+     "commitments_kept": 0,
+     "commitments_overdue": 0,
+     "commitments_pending": 0,
+     "notes": "reminded: ALTR chasing the client and getting nothing back. Four separate ALTR questions went completely unanswered this window while she answered every billing message within an hour. This is the clearest disengagement signal on the account and it is invisible from the billing thread. | [recurring] ALTR RE-PUBLISHED THE CLIENT'S PLAINTEXT INSTAGRAM PASSWORD INTO THE GROUP CHAT. On 08-31 Liza posted logins for three accounts at Vivek's request. In the 18 days since, nobody has asked her to delete that message or rotate anything. On 2026-09-12 Michelle copied one of those credentials straight back out of the scrollback and posted it again as a fresh message: 'hey babes this login below doesn’t work, can you check on password when you get a chance pls 💕' / '@Lizakovaal' / '[REDACTED-PASSWORD]'. The room now contains that password twice. Membership has changed three times since it was first posted - ChatDeleteUser 09-03, ChatAddUser 09-10, ChatAddUser 09-17 - and the room includes vendor chat-team accounts. On 09-17 Mica then told her 'Please do not send your backup codes to anyone, including our team.' ALTR is now giving her credential-hygiene advice in a chat where ALTR has leaked her cre"
+    },
+    {
+     "client": "Mila",
+     "reminders": 0,
+     "complaints_owned": 1,
+     "commitments_kept": 0,
+     "commitments_overdue": 2,
+     "commitments_pending": 0,
+     "notes": "[recurring] No visibility into what is being posted on her behalf — 72 days, and a seventh consecutive window with zero movement. Callie asked on Jul 8 for links to promo posts so she could 'be in the loop'; Michelle agreed, sent only the sugarcrystalll page URL on Jul 11, and has sent no individual post links since. Michelle has not written a message in this chat since Aug 17 — 32 days — and the 48 videos Callie uploaded that day still have nothing against them but one emoji reply. Nobody else picked either thread up this week, including in a window where Mica, Stephski, Derrek and Mayson all posted. | [overdue] Send Callie links to the promo content posted on her behalf so she is 'in the loop' — agreed Jul 8. Only the sugarcrystalll page URL was ever shared (Jul 11). Seventy-two days, zero individual post links, and a seventh consecutive window with no movement. | [overdue] Do something visible with the 48 videos Callie uploaded on Aug 17 after a 30-day, three-nudge chase — a posting schedule, confirmation the content is usable, or an honest statement that the programme is paused and the content is banked. Thirty-two days on, the only response in existence is 'yayyy perfect babes"
+    },
+    {
+     "client": "Sarah",
+     "reminders": 1,
+     "complaints_owned": 1,
+     "commitments_kept": 0,
+     "commitments_overdue": 2,
+     "commitments_pending": 0,
+     "notes": "reminded: The ~20 leak URLs she hand-collected and posted on 2026-07-18 at Michelle's own invitation — now 62 days old, and this window Michelle did not post in this chat AT ALL. Sarah did not chase, which is why this is listed with a count of zero: the silence is the finding, not the reminder. The last word she ever received on those links was 'their being worked on babes 💕' on Sep 4, with no count, no site list and no date, and only after Mayson tagged Michelle internally. Fifteen days on there is nothing further. This is her longest-running recurring complaint on the account — seven documented chases for leak-removal status in eleven months (2025-12-18, 2026-01-04, 2026-01-11, 2026-02-25, 2026-02-27, 2026-06-22, 2026-09-03). | [new] NEW — the only ALTR service on this account that had never once failed has now failed. Michelle Queue's weekly leak-removal breakdown posted on Jul 26, Aug 1, Aug 10, Aug 17, Aug 25, Sep 1 and Sep 8 — seven consecutive weeks, called out as the reliability benchmark in the last four reports — and then did not post at all in this window. Ten days since the last one, with no explanation and no message from Michelle of any kind. It lapses in the same wee"
+    },
+    {
+     "client": "Sarah Lloyd",
+     "reminders": 1,
+     "complaints_owned": 1,
+     "commitments_kept": 0,
+     "commitments_overdue": 1,
+     "commitments_pending": 0,
+     "notes": "reminded: The weekly DMCA leak-removal report did not arrive. It had landed every single week since 2026-07-10 — 07-10, 07-17, 07-26, 08-01, 08-10, 08-17, 08-25, 09-01, 09-08 — and was named in the last two reports as the most reliable service on this account. The 09-15 slot passed in silence and Michelle wrote zero messages across the entire window. Sarah did not chase, because in ten weeks she has never had to. She also replied to Michelle's 09-10 content chase on 09-16 with a real explanation of why nothing has been uploaded, and Michelle never came back on it. | [new] THE ONE SERVICE THAT NEVER FAILED, FAILED. Michelle's weekly DMCA leak-removal report has landed every week without a gap since 2026-07-10 — 07-10, 07-17, 07-26, 08-01, 08-10, 08-17, 08-25, 09-01, 09-08. The 09-15 slot passed with nothing, and Michelle wrote zero messages in the whole window. This is the service the last two reports singled out as the most reliable thing on the account and the only unambiguous evidence that anything we promise actually runs. Sarah has not chased it, because in ten weeks she has never had to. She has DMCA takedowns as a named standing priority and has submitted leak links herself t"
+    },
+    {
+     "client": "Shayna",
+     "reminders": 0,
+     "complaints_owned": 1,
+     "commitments_kept": 0,
+     "commitments_overdue": 2,
+     "commitments_pending": 0,
+     "notes": "[new] THE DMCA HEARTBEAT STOPPED. Michelle has delivered a weekly leak-removal report every 7-9 days without fail since 7/1 — 7/1, 7/10, 7/17, 7/26, 8/1, 8/10, 8/17, 8/25, 9/1, 9/8 — and has been thanked every single time. Nothing arrived on or around 9/15 and she sent ZERO messages this window. That is 10 days at window close and the first missed report in eleven weeks, on the one workstream the client has never had to chase. She also never came back on the management-run IG account after the client's 9/10 question showed she does not know what it is; that is now 8 days with the client still in the dark about a workstream ALTR is warming up for her. | [overdue] Deliver the weekly leak-removal report — none arrived on ~9/15, breaking an eleven-week unbroken streak | [overdue] Explain to her what the management-run Instagram reels account is and what it is for"
+    },
+    {
+     "client": "Vale",
+     "reminders": 1,
+     "complaints_owned": 0,
+     "commitments_kept": 0,
+     "commitments_overdue": 0,
+     "commitments_pending": 1,
+     "notes": "reminded: The weekly leak-removal breakdown, the single most reliable service on this account, did not land this window. Last report Sep 8; ten days of silence at window close, past the longest gap in the entire five-month history of the cadence. | [pending] Resume the weekly leak-removal breakdown — last delivered Sep 8, nothing in the ten days since"
+    }
+   ],
+   "strengths": [
+    "Until 2026-09-08 she ran the most reliable service line in the agency — five unbroken multi-month cadences across different clients, delivered without ever being reminded.",
+    "The leak report is the single most-thanked ALTR deliverable across the whole roster."
+   ],
+   "coaching_flags": [
+    "AVAILABILITY — the weekly leak report stopped in ten chats simultaneously after 2026-09-08 and has not resumed. Establish cause before treating as performance.",
+    "Re-posted a client's live plaintext Instagram password into a 20-person group chat on 2026-09-12, and asked the client to troubleshoot an account ALTR had already been told was deleted.",
+    "Zero messages in several chats this window, including two where she held the oldest open promises (Barbara's backup IG at 48 days, talking-to-camera examples at 57 days)."
+   ],
+   "quotes": [
+    {
+     "quote": "Hey love! Here's your weekly update on the leak removal breakdown for the past 7 days 🫶🏼",
+     "client": "Sarah Lloyd",
+     "date": "2026-09-08"
+    },
+    {
+     "quote": "hey babes this login below doesn't work, can you check on password when you get a chance pls 💕",
+     "client": "Liza Kovalenko",
+     "date": "2026-09-12"
+    },
+    {
+     "quote": "dropping your google drive here just in case 💕",
+     "client": "Alanna",
+     "date": "2026-08-17"
+    }
+   ]
+  },
+  {
+   "name": "Fred",
+   "role": "OFM",
+   "summary": "Two accounts, Lilia and Shayna, and the same root cause on both: nothing he promises gets written down anywhere the chat team will see it. On Shayna he pitched a VIP DEE private live on 2026-09-17 — 51 days after she banned them, 14 days after he admitted in writing that the team's internal notes still say she does 1:1s, and 8 days after he wrote 'No more for sure!'. Her reply settles it: 'His name says do not sell lives' — the instruction is written on the fan's own OnlyFans display name, inside the platform the chatters use every day, and they pitched him anyway. On Lilia the old-content rule broke for the eleventh time since June 12, four days after last week's state file warned in capitals not to de-escalate it. He was silent 13 hours and answered only after Mayson's @-tag at 01:35, the ninth internal escalation. Credit where due: his response speed was his best in months and he did deliver the $4,700 VIP DEE live, clearing Shayna's largest fan-money exposure. The problem is mechanical, not attitudinal — 'I'll speak to the team' needs replacing with a named control.",
+   "open_issues": 34,
+   "trend": "flat",
+   "clients": [
+    {
+     "client": "Lilia",
+     "reminders": 4,
+     "complaints_owned": 5,
+     "commitments_kept": 0,
+     "commitments_overdue": 8,
+     "commitments_pending": 1,
+     "notes": "reminded: Stop selling a high spender content he already owns - the ELEVENTH time she has issued this rule since 2026-06-12, and the first repeat since Teddi returned at $200+/video. She had pre-emptively re-issued it on Sep 3 and been ignored; 11 days later it happened again | reminded: A queue account still has to tag him before he sees a client complaint. Mayson's @fspitfire at 01:35 on Sep 15 is the ninth internal escalation on this account since Jul 23, and Fred's reply came 13 hours 3 minutes after she posted | [recurring] THE HEADLINE: chatters sold a high spender content he already owns, AGAIN. Sep 14 at 20:30 she posted a screenshot and wrote 'Ur chatters have to stop doing this please' / 'He doesn't want old content'. Eleventh occurrence since Jun 12 and the first since Teddi came back at $200+/video, which is the maximum-exposure scenario she has been warning about since June. She had pre-emptively re-issued the rule on Sep 3 and received no reply. Fred did not respond for 13 hours and only after Mayson tagged him at 01:35; his answer added a tool excuse - the content 'appears as not sent before on Infloww' - and another verbal briefing 'in the mean time'. The chatter he"
+    },
+    {
+     "client": "Shayna",
+     "reminders": 6,
+     "complaints_owned": 8,
+     "commitments_kept": 3,
+     "commitments_overdue": 11,
+     "commitments_pending": 1,
+     "notes": "reminded: Stop selling private 1:1 lives — she said it three more times on 9/17 after Fred pitched another one; sixth separate occasion since the 2026-07-27 ban (7/27, 8/3, 9/1, 9/9, 9/17) | reminded: Tell the chatters where she is — she gave the Lost Lands festival dates on 9/14 and had to confirm a second time on 9/17 that it had actually reached the team, despite Fred saying on 9/14 that it had | reminded: Price topless content off the actual content, not off a flat questionnaire rate — she restated the principle on 9/14 for the fourth time (4/22, 5/13, 9/6, 9/14) | [recurring] PRIVATE 1:1 LIVES ARE STILL BEING PITCHED 51 DAYS AFTER SHE BANNED THEM, AND WE NOW HAVE PROOF THE RULE WAS NEVER WRITTEN DOWN ANYWHERE. Banned 2026-07-27, re-stated 8/3, 9/1 and 9/9. On 9/9 Fred wrote 'No more for sure!'. Eight days later, on 9/17, he came back with another VIP DEE live and asked whether it matched her availability. She answered four times in ninety seconds, and then gave the detail that settles it: the fan's own OnlyFans display name reads as an instruction not to sell him lives, and the chat team pitched him anyway. Fred's explanation was that the team 'may just be confused on when the"
+    }
+   ],
+   "strengths": [
+    "Delivered the $4,700 VIP DEE live, clearing the largest single fan-money exposure on Shayna's account.",
+    "Best response-speed week in months on Shayna — no late-response apology and questions closed in hours, against six @-tags the prior fortnight."
+   ],
+   "coaching_flags": [
+    "Chat-team instructions never reach the chatters: the same client rule has now broken 11 times on Lilia since June 12 and Shayna's live ban was violated 51 days after she set it.",
+    "19 overdue commitments across only two accounts, the oldest 119 days.",
+    "The chatter he promised to remove from Lilia's account on 2026-07-24 is 56 days unnamed.",
+    "Only responds to client complaints after an internal @-tag — ninth escalation on Lilia."
+   ],
+   "quotes": [
+    {
+     "quote": "Ur chatters have to stop doing this please",
+     "client": "Lilia",
+     "date": "2026-09-14"
+    },
+    {
+     "quote": "He doesn't want old content",
+     "client": "Lilia",
+     "date": "2026-09-14"
+    },
+    {
+     "quote": "I'm not doing any lives anymore",
+     "client": "Shayna",
+     "date": "2026-09-17"
+    }
+   ]
+  },
+  {
+   "name": "Vivek",
+   "role": "Platform & Meta support",
+   "summary": "CONTEXT FIRST: Vivek is in hospital. That was surfaced in Amber Haze's chat this week, and it explains an absence that five separate client analysts independently flagged and recommended reassignment for, none of them knowing why. The finding here is not his performance — it is that he went out and nobody backfilled his accounts or told his clients. He is the named owner of platform recovery work across nine chats, and every one of those workstreams has simply stopped: Lilia's TikTok shadowban dead 31 days, Haileigh's shadowban 51 days, Barbara's backup-account recovery 25 days and the only root-cause lead anyone has, Liza's three deleted Instagram accounts with no status ever issued, Sarah's ~530k main account 40 days with not one written sentence. On Sarah he also moved the conversation into DMs, so ALTR now has no record at all of what is happening to her most valuable asset. Action is a cover arrangement and a written handover, not a coaching conversation.",
+   "open_issues": 34,
+   "trend": "down",
+   "clients": [
+    {
+     "client": "Amber Haze",
+     "reminders": 1,
+     "complaints_owned": 2,
+     "commitments_kept": 0,
+     "commitments_overdue": 1,
+     "commitments_pending": 1,
+     "notes": "reminded: Confirming the Instagram 'can't go live' restriction is actually cleared. Vivek reported 'Fixed' on 2026-09-07; on 2026-09-13 she reported the restriction still in place and tagged him. He is in hospital, no cover was named, and the answer she got came from Derrek rather than the Meta rep: 'Nope it won’t'. Reopened after 6 days. | [in_progress] NEW: the Instagram restriction thread that was closed on Sept 7 and reported as last week's headline win did not actually close. On 2026-09-13 she reported that the 'can't go live' restriction is still on the account and tagged @fonta directly. Vivek is in hospital; Derrek relayed that and answered her substantive question himself with 'Nope it won’t' — an unverified reassurance from someone who is not the Meta rep, with no figure, no check and no timeline attached. No cover for Vivek has been named on an account whose entire complaint history for four months has been Instagram. Handled warmly and fast (four minutes, and she replied 'Hope he’s okay!'), but the item is reopened and unowned. | [in_progress] Credential hygiene — PARTIALLY FIXED, and the fix came from an unexpected direction. The Instagram password she pasted in plain "
+    },
+    {
+     "client": "Barbara",
+     "reminders": 4,
+     "complaints_owned": 2,
+     "commitments_kept": 0,
+     "commitments_overdue": 2,
+     "commitments_pending": 1,
+     "notes": "reminded: Recovery of Barbara's Instagram accounts. Chased twice inside this window alone by Mayson, plus Barbara naming him directly in her retention warning. He has now promised the same deliverable on two separate dates and produced nothing: 'Will do tomorrow' on Sep 10 (due Sep 11, 8 days ago) and 'Will do it today' on Sep 15 (3 days ago). Separately, the barbarasilva.vip domain review she personally handed him on Aug 24 — her own root-cause hypothesis — is 25 days untouched and he has still never once mentioned the domain. His entire contribution this window was three messages totalling six words of substance. | [recurring] Instagram accounts flagged/suspended and traffic collapsing — first raised 2026-08-03 (46 days), escalated 2026-08-24 (25 days), and this window it reached its endpoint: her MAIN account @thebrazilianfitbarbie was banned on Sep 17. The two secondary accounts have been confirmed gone since Sep 10 and were never recovered. She now has no working Instagram presence at all. Her panic messages ran 15:10–15:12 on Sep 17; Derrek answered in 6 minutes and Olivia in 14, both well, but the thread stops dead at 15:46 and she was left overnight to window close with no "
+    },
+    {
+     "client": "Haileigh Cox",
+     "reminders": 0,
+     "complaints_owned": 1,
+     "commitments_kept": 0,
+     "commitments_overdue": 1,
+     "commitments_pending": 0,
+     "notes": "[recurring] Suspected IG shadowban / follower loss on her main account - 51 days open, SEVEN consecutive weeks of literally zero movement, on her single most-stated priority. Vivek asked for the login on 7/29 and has posted nothing since; he has now contributed one message to an 808-message chat. What makes this window the worst of the seven is not the silence but the contrast: Mayson asked her for a FACEBOOK login on 9/17 so ALTR could start posting, while the Instagram login needed to diagnose her own problem has gone un-requested for 51 days. She was present and talking in this chat on 9/13, 9/14, 9/16 and 9/17. Mica also posted a general Instagram security advisory on 9/17 without connecting it to the open shadowban report sitting above it in the same topic. | [overdue] Investigate the suspected shadowban / follower loss once the IG login is shared. The blocker has been 'waiting on her login' for 51 days and nobody has asked her for it in either direction. She was active in this chat on four separate days this window. In the same window a colleague asked her for a different social login. The ask is free; it has not been made for seven consecutive weeks."
+    },
+    {
+     "client": "Lauryn",
+     "reminders": 1,
+     "complaints_owned": 3,
+     "commitments_kept": 0,
+     "commitments_overdue": 2,
+     "commitments_pending": 1,
+     "notes": "reminded: Still has to be tagged by a colleague before he says anything. Mayson chased him on the client's behalf on 2026-09-14 ('Hey @fonta can we do anything about LAs facebook?') and got a four-word burst inside seventeen minutes - his first words in nineteen days. That is the THIRD internal tag in four weeks (2026-08-21, 2026-09-03, 2026-09-14); the first two were ignored outright. THE TELLING CHANGE: the client did not chase him at all this window. She has not raised the Facebook page herself since 2026-09-03 - fifteen days - after raising it unprompted in every window for a year. She is still interested ('👀👀👀' / 'Fingers crossed', 2026-09-14), she has just stopped asking us. Four days on from 'Let me check' there has been no follow-up. | [recurring] Facebook page still flagged 'not recommended' - 356 days after she first raised it on 2025-09-27, 42 days into the Vivek escalation, 33 days after she handed over full account access on 2026-08-16. MOVEMENT, BUT ONLY MOTION: after nineteen days of total silence Vivek answered a colleague's tag on 2026-09-14 with 'Yeah' / 'On it' / 'Support is up' / 'Let me check' - four fragments in twenty seconds, no status, no plan, no date - an"
+    },
+    {
+     "client": "Lilia",
+     "reminders": 0,
+     "complaints_owned": 1,
+     "commitments_kept": 0,
+     "commitments_overdue": 2,
+     "commitments_pending": 0,
+     "notes": "[recurring] The TikTok shadowban workstream is dead and has now gone THREE consecutive windows with zero mentions from any human being on either side. She supplied her login on Aug 18 (tied to phone [REDACTED-NUMBER]), diagnosed the shadowban herself on Aug 22, and offered a login code inside 60 seconds on Aug 24. Vivek's last message in the entire chat history is 2026-08-24 12:47 - 25 days - and his lifetime output in this chat is six messages. The three screenshots plus the single word 'Facebook' she posted at 23:31-23:50 on Aug 24 are 25 days unread, and the sharp detail this week is that Mayson asked her on Sep 16 whether she has 'a facebook account available to use' - ALTR asking her for Facebook while her own Facebook flag sits unopened. She has stopped asking entirely, which on this client has historically preceded escalation rather than contentment. An entire acquisition channel is offline and this is the only use ever made of the Meta support service she was sold on Jul 29. | [overdue] Check whether her TikTok is shadowbanned. Login supplied Aug 18, login code offered inside 60 seconds on Aug 24. Thirty-one days old, three consecutive windows with zero TikTok messages from anyon"
+    },
+    {
+     "client": "Liza Kovalenko",
+     "reminders": 3,
+     "complaints_owned": 2,
+     "commitments_kept": 0,
+     "commitments_overdue": 2,
+     "commitments_pending": 0,
+     "notes": "reminded: Status on the three deleted/suspended Instagram accounts (@Lizakovaal, @lizkovalenkoo, @Lizaakovalenk0). She asked three times between 08-30 and 08-31 and has now asked ZERO times in 18 days. The count below is historic; the finding this window is the silence on both sides. She stopped asking, Vivek never answered, and on 09-12 Michelle demonstrated that ALTR still does not know the accounts are gone. | [recurring] ALTR RE-PUBLISHED THE CLIENT'S PLAINTEXT INSTAGRAM PASSWORD INTO THE GROUP CHAT. On 08-31 Liza posted logins for three accounts at Vivek's request. In the 18 days since, nobody has asked her to delete that message or rotate anything. On 2026-09-12 Michelle copied one of those credentials straight back out of the scrollback and posted it again as a fresh message: 'hey babes this login below doesn’t work, can you check on password when you get a chance pls 💕' / '@Lizakovaal' / '[REDACTED-PASSWORD]'. The room now contains that password twice. Membership has changed three times since it was first posted - ChatDeleteUser 09-03, ChatAddUser 09-10, ChatAddUser 09-17 - and the room includes vendor chat-team accounts. On 09-17 Mica then told her 'Please do not send your backu"
+    },
+    {
+     "client": "Mila",
+     "reminders": 0,
+     "complaints_owned": 1,
+     "commitments_kept": 0,
+     "commitments_overdue": 1,
+     "commitments_pending": 0,
+     "notes": "[recurring] Instagram suspension and the paused backup-IG posting programme — 87 days open, and this week the failure changed character. For six weeks the finding was that Derrek was absent. On Sep 16 he was present: he read the chat and replied to the client inside 2h20m, breaking 46 days of silence — to answer a question about a bank account name. He did not mention the phone-farm rollout he promised updates on 48 days ago, did not mention her main account, and did not respond to her Aug 31 statement that she is still waiting to get her bigger account back, now 18 days unanswered by anyone at ALTR. Vivek, introduced Jul 29 as the named Meta Support escalation route for exactly this, has been in the chat 51 days and has still never posted a single message. The only Instagram-related message anyone sent this week was Mica's Sep 17 broadcast about protecting account access, which did not acknowledge that this client has already lost hers. | [overdue] Vivek (Meta Support) was introduced on Jul 29 as the named escalation route for restrictions, shadowbans and bans, with an offer to set up Copyright Ban Protection. Fifty-one days later he has still never posted a single message in this"
+    },
+    {
+     "client": "Sarah",
+     "reminders": 2,
+     "complaints_owned": 2,
+     "commitments_kept": 0,
+     "commitments_overdue": 2,
+     "commitments_pending": 0,
+     "notes": "reminded: Her main Instagram @sarah.h44 — 40 days down, and SHE re-opened it, not us. After 35 days in which the username did not appear once in this chat from either side, Sarah tagged him directly on Sep 13 and asked for a rename plus verification. Vivek's complete written output across the whole window was nine words across four messages: 'Yes', 'Send logins', 'Send desire name', 'Yo Ma’am check dm'. He has still never, at any point since 2026-08-09, written a single sentence telling her what happened to the account, whether it was recovered, or when. He also never mentioned @onlysarahh_xx or @sarah.hxx, which are 43 days down and which he last asked her for a password for on Sep 2. Moving the conversation to DM on Sep 14 is the right channel and the first good instinct he has shown — but it happened AFTER she had already typed the main account's password into the group chat, and it means the only record of what is being done to her ~530k account is now invisible to everyone including us. | [recurring] HER MAIN INSTAGRAM @sarah.h44 (~530k) IS 40 DAYS DOWN AND ALTR HAS STILL NEVER WRITTEN ONE SENTENCE ABOUT ITS STATUS. The change this window is that SHE broke the silence, not us."
+    },
+    {
+     "client": "Sarah Lloyd",
+     "reminders": 1,
+     "complaints_owned": 1,
+     "commitments_kept": 0,
+     "commitments_overdue": 1,
+     "commitments_pending": 1,
+     "notes": "reminded: Meta — a new ticket opened this window and immediately dropped, on top of an explanation that is now 41 days late. On 09-17 she raised a fresh problem: 'I have another Facebook as well that's down at the moment if I can please have your help @fonta I'll be home in an hour and will send details'. His reply was 'Okay share the details' — another request for credentials in the group chat — and then, after she explained, 'No problem'. That is the entire response. Nothing since, and the Facebook is still down at window close. Meanwhile 'Wait i will explain' from 08-08 — why her Instagram profile views collapsed from 20M to 4M and what 'post content on time' means for a Facebook under Meta watch — remains unanswered at 41 days. This is the sixth Meta problem she has had to bring to him (07-11, 07-29, 08-03, 08-08, 08-28, 09-17). To his credit he did volunteer one piece of proactive advice unprompted this week. | [recurring] Meta. Facebook non-recommendable and under watch until September, the linked Instagram down from 20M to 4M profile views, trial reels from 100k+ to 200-400 views, that Instagram then actually hacked on 08-27/28 — and now a SECOND Facebook down as of 09-17 wi"
+    },
+    {
+     "client": "Vale",
+     "reminders": 0,
+     "complaints_owned": 0,
+     "commitments_kept": 0,
+     "commitments_overdue": 1,
+     "commitments_pending": 0,
+     "notes": "[overdue] Route and follow up on Vale's referral of a creator interested in management — tagged to @ofwizz on Aug 3 with nothing ever coming back to her"
+    }
+   ],
+   "strengths": [
+    "Responded within 17 minutes to Mayson's tag on Lauryn's account on 2026-09-14 despite being unwell."
+   ],
+   "coaching_flags": [
+    "NOT A PERFORMANCE FLAG — he is hospitalised. No cover was named and no client was told, so nine accounts' platform work has been silently stalled for 25-51 days.",
+    "Account recovery work has no written status anywhere; on Sarah it moved to DMs, leaving ALTR with no record.",
+    "Marked Amber Haze's 'can't go live' restriction as Fixed on 2026-09-07; it was still live when she checked on 2026-09-13.",
+    "ACTION: name cover for all nine accounts today and write a status line into each chat. Do not route new work to him."
+   ],
+   "quotes": [
+    {
+     "quote": "@fonta hey bro can we get Barbara an update on her backup account recovery",
+     "client": "Barbara",
+     "date": "2026-09-15"
+    },
+    {
+     "quote": "All Instagram I gave you guys got deleted. Any news with recovery's?",
+     "client": "Liza Kovalenko",
+     "date": "2026-08-30"
+    },
+    {
+     "quote": "Fixed",
+     "client": "Amber Haze",
+     "date": "2026-09-07"
+    }
+   ]
+  },
+  {
+   "name": "Ronnie",
+   "role": "Chatter (queue account)",
+   "summary": "Five accounts, largely absent. The pattern is that his few contributions are good and then nothing follows them. On Haileigh he gave the best single answer anyone gave a client this week — two concrete revenue levers inside two hours, on the day she asked what she could do to help — she said yes to private lives, and his entire follow-through was the word 'Awesome.' He is 35 days absent on Sarah holding two open commitments, 23 days on Sarah Lloyd, and 15 days on Alex Paige Moore with paid customs unresolved at the point she resigned. He also owes Haileigh a 31-day-old fan-escalation close.",
+   "open_issues": 14,
+   "trend": "down",
+   "clients": [
+    {
+     "client": "Alex Paige Moore",
+     "reminders": 0,
+     "complaints_owned": 1,
+     "commitments_kept": 0,
+     "commitments_overdue": 1,
+     "commitments_pending": 0,
+     "notes": "[recurring] Content drought never got a plan, and the already-sold customs were never resolved. Twenty-three days after 'a few weeks unfortunately' there was still no recovery timeline, no return-to-shoot date, no vault audit, no shoot-ahead bank and no revenue forecast. Ronnie has not written in this chat since 2026-09-03 — 15 days — and the customs sold off the 2026-08-25 spreadsheet are now 24 days old with no refund, no substitute and no dated delivery promise. The only action ALTR ever took was to have the creator personally stall her own fans in her own voice. She has now left, which means those customs are sold, unfulfilled, and no longer fulfillable. This account has chargeback history: Derrek, 2025-12-15, '$1560 chargeback in 24hrs'. | [overdue] Decide the fate of the already-sold customs from Ronnie's Aug 25 spreadsheet: refund, substitute, or a dated delivery promise"
+    },
+    {
+     "client": "Haileigh Cox",
+     "reminders": 0,
+     "complaints_owned": 1,
+     "commitments_kept": 0,
+     "commitments_overdue": 0,
+     "commitments_pending": 3,
+     "notes": "[new] NEW THIS WINDOW, and the most commercially serious item on the file: revenue is down, the CLIENT is the one who noticed, and ALTR has never published a revenue or performance figure into this chat in 2026. The only recurring numbers she receives are leak-takedown counts from Michelle and reel links from Mica. The last actual performance report she got was Sophie Logan's bi-weekly report and 14-day game plan, which stopped around October 2025 - roughly eleven months ago. So on 9/13 she did ALTR's job for it: she diagnosed the decline and asked what ALTR needed FROM HER to fix it. Mayson's response 19 seconds later was to tag @natehei, who has not replied in five days - the second time this year Mayson has routed one of her escalations to that handle and got silence (8/18 was the first). Ronnie answered in two hours with two concrete levers, she accepted one, and nothing has been scheduled. Two days after she raised a down month, ALTR sent her an invoice with 'to avoid any pausing in work' terms language. | [pending] Come back to her with an actual plan for the down revenue month she flagged on 9/13, and schedule the private lives she agreed to on 9/14. She volunteered new reve"
+    },
+    {
+     "client": "Liza Kovalenko",
+     "reminders": 0,
+     "complaints_owned": 1,
+     "commitments_kept": 0,
+     "commitments_overdue": 1,
+     "commitments_pending": 0,
+     "notes": "[recurring] OnlyFans 'tag a creator' flag - fourth report window with no diagnosis. First occurrence 2026-01-26 (235 days). Ronnie promised on 08-09 to look into it if it recurred; it had already recurred and spread in her very next message ('now it marks the entire message, other photos too'). 40 days later there is still no diagnosis and Ronnie has not posted in this chat since 2026-08-09. Not re-raised by her this window either - she has given up on it. | [overdue] Ronnie: investigate the recurring OnlyFans 'tag a creator' flag. Committed 2026-08-09, the flag had already recurred and spread in her next message, and Ronnie has not posted in this chat since. 40 days, no diagnosis, no report-back, no movement this window."
+    },
+    {
+     "client": "Sarah",
+     "reminders": 1,
+     "complaints_owned": 2,
+     "commitments_kept": 0,
+     "commitments_overdue": 2,
+     "commitments_pending": 0,
+     "notes": "reminded: The earnings/ranking plan (41 days) and the 'mt cook hike' OFTV file confirmation (35 days). Ronnie has not typed a word in this chat since 16:38 on 2026-08-14 — thirty-five days. Two open commitments, both his, both untouched, and the person holding them has been gone for five weeks. Sarah has not chased either since Aug 8. She raised the earnings question exactly once, in eleven months, with an apology pre-attached, and has never brought it up again. | [in_progress] Her earnings/ranking drop is 41 days old, still has no plan, no date and no named owner, and the person nominally holding it has now been absent from this chat for 35 days. Ronnie's last message of any kind was at 16:38 on 2026-08-14. Nothing earnings-related happened this window except more asks of her: fill the Snapchat Drive, supply b/g and g/g tags, produce a Facebook account. She has never re-raised it since Aug 8 — she asked once, in eleven months, with an apology attached, and let it go. Two consecutive single-transfer payments (Aug 25, Sep 2) already indicate her invoices have fallen under her 50k AUD/day bank cap for the first time in eleven months; this window produced no third data point because s"
+    },
+    {
+     "client": "Sarah Lloyd",
+     "reminders": 0,
+     "complaints_owned": 1,
+     "commitments_kept": 0,
+     "commitments_overdue": 0,
+     "commitments_pending": 1,
+     "notes": "[in_progress] Customs pulled into the PPV/MM queue, caught by her on 2026-08-10 during a queue skim. Ronnie said he had spoken with the team; no mechanical safeguard was ever built and Ronnie has not posted in this chat since 2026-08-26. No recurrence reported, but she has not audited the queue in 39 days, so she is no longer acting as the control layer she used to be. Standing pattern of wrong-content sends on this account: pre-October-2025 content (06-10, 06-17), GGG instead of BGG (06-25), a custom sent as a PPV (08-10), BG to the whale (06-09, 08-20). | [pending] Prevent customs being pulled into the PPV/MM queue. Ronnie said on 2026-08-10 he had spoken with the team. Thirty-nine days, no mechanical safeguard, and Ronnie has not posted in this chat since 2026-08-26."
+    }
+   ],
+   "strengths": [
+    "Gave Haileigh two actionable revenue levers within two hours of her asking how she could help — the fastest substantive answer to a client question all week."
+   ],
+   "coaching_flags": [
+    "Converts nothing: Haileigh agreed to private lives and the follow-through was a single word.",
+    "Long absences while holding live commitments — 35 days on Sarah (earnings plan 41 days, OFTV file 35 days), 23 days on Sarah Lloyd, 15 days on Alex Paige Moore.",
+    "Paid customs left unresolved on Alex Paige Moore's account through the week she churned."
+   ],
+   "quotes": [
+    {
+     "quote": "Attached are some custom request we need from. Let me know when you'd be able to get these done. 🫶",
+     "client": "Alex Paige Moore",
+     "date": "2026-08-25"
+    },
+    {
+     "quote": "Hey guys I know revenue this month is down so what do you guys need from me to help boost this months sale",
+     "client": "Haileigh Cox",
+     "date": "2026-09-13"
+    }
+   ]
+  },
+  {
+   "name": "Mica Vecco",
+   "role": "Social / reels",
+   "summary": "The standout of the week, and by some distance the best ratio on the roster: 6 commitments kept against 2 overdue across 10 clients. On 2026-09-17 she pushed an unprompted Instagram security advisory into client chats across the roster, ending with 'Please do not send your backup codes to anyone, including our team.' Every single client analyst that saw it called it out as the best proactive work on their account — and she wrote it unasked, in the same week three clients posted live passwords and 2FA codes into group chats. It is a direct, unrequested fix to the agency's largest open risk and it should be made standard onboarding policy immediately. Her reel-inspo cadence also recovered sharply: an 11-link drop for Amber Haze and Mila, the largest ever and the first full one in 33 days, and resumed weekly drops for Alex Paige Moore, Sarah Lloyd and Haileigh. Two real coaching notes remain, both about targeting rather than effort: on Alanna she sent eleven other people's reels to a creator doing 32M views, repeating the exact error that drew that client's only-ever pushback, and on Vale she opened with 'how is everything going?', ignored the answer 'Been struggling to get new followers', and sent a mass template.",
+   "open_issues": 13,
+   "trend": "up",
+   "clients": [
+    {
+     "client": "Alanna",
+     "reminders": 1,
+     "complaints_owned": 1,
+     "commitments_kept": 0,
+     "commitments_overdue": 1,
+     "commitments_pending": 0,
+     "notes": "reminded: Social-media kickoff call — still one chase in 46 days, zero chases this window, and both in-window posts drew no client response | [recurring] Social media remains effectively unstaffed — Mica Vecco broke another 15-day silence with eleven unexplained reel links and a copy-paste security notice; kickoff call unbooked at 46 days | [overdue] Get Alanna booked on the Calendly social-media kickoff call"
+    },
+    {
+     "client": "Alex Paige Moore",
+     "reminders": 2,
+     "complaints_owned": 0,
+     "commitments_kept": 0,
+     "commitments_overdue": 0,
+     "commitments_pending": 0,
+     "notes": "reminded: Broadcast content prompts and account-security instructions — two sends, both one-way, neither acknowledging the surgery she disclosed 20 and 22 days earlier. The Sep 15 reel-ideas drop is genuinely the first real inspo since 2026-08-13 (33-day gap) and a return to her proper cadence after the Aug 31 posting-consistency lecture; the Sep 17 Instagram security notice is proactive and useful. But both are templated broadcasts, both landed in a week where ALTR's own management-run reels page had still never posted, and neither drew a reply. The Sep 17 notice went out nine hours before she resigned."
+    },
+    {
+     "client": "Amber Haze",
+     "reminders": 0,
+     "complaints_owned": 1,
+     "commitments_kept": 1,
+     "commitments_overdue": 0,
+     "commitments_pending": 0,
+     "notes": "[resolved] RESOLVED IN WINDOW: Mica Vecco's absence and the ill-judged consistency lecture. Last week she was the worst performer on the account — one message in 29 days, a lecture about consistent posting delivered to the client who is the consistent one, and four missed weekly reel drops. This window she delivered a full 11-link reel-inspo drop on Sept 15, her largest ever and the first proper drop since Aug 13 (33 days), with no lecture attached; the client replied 'Thank you'. She then followed it on Sept 17 with a proactive security advisory that fixed a live process risk nobody had asked her to fix. Two messages, both genuinely useful. Cadence needs to hold for another two weeks before this is called durable, but the behaviour change is real and should be acknowledged to her. | [done] Restore Mica Vecco's weekly reel-inspo drop at full substance. DONE — 2026-09-15 delivered 11 curated reels, the largest drop ever sent on this account and the first full one since Aug 13 (33 days), with no consistency lecture attached. She replied 'Thank you'. Hold the cadence for two more weeks before treating it as durable."
+    },
+    {
+     "client": "Barbara",
+     "reminders": 0,
+     "complaints_owned": 2,
+     "commitments_kept": 1,
+     "commitments_overdue": 1,
+     "commitments_pending": 0,
+     "notes": "[recurring] No written content-safety guidance, 31 days after the last 'will this get flagged?' ask went unanswered and she deleted her own post three minutes later out of anxiety. Mica's Sep 17 security bulletin is adjacent but not the same thing — it covers account recovery hygiene, not what is safe to post. She has now stopped asking, and her main account went down anyway. | [resolved] Social Media Director cadence — RESOLVED and now confirmed. Last window flagged Mica Vecco's Sep 9 inspo drop as provisional and said it only closes if a second one lands. It did: an eight-link set on Sep 15, six days later, and Barbara replied 'Thanks girly!' the next morning — her first reply to an inspo drop since Sep 1. Mica also ran the one genuinely proactive piece of work on the account this window, an unprompted Instagram security bulletin on Sep 17 telling her to generate 2FA backup codes and complete selfie verification, explicitly warning her not to share the codes with anyone including ALTR. | [overdue] Issue a written content-safety do/don't so she stops guessing and self-deleting posts. Thirty-one days since the last unanswered ask. Mica's Sep 17 security bulletin covers recovery hyg"
+    },
+    {
+     "client": "Haileigh Cox",
+     "reminders": 2,
+     "complaints_owned": 0,
+     "commitments_kept": 0,
+     "commitments_overdue": 0,
+     "commitments_pending": 0,
+     "notes": "reminded: Weekly reel inspo (11 links, 9/15) and an unprompted Instagram security advisory (9/17). The security post is the better ALTR message of the week - proactive, specific, aimed directly at her stated number-one priority, and correctly instructing her not to hand backup codes to anyone including ALTR. It is worth noting that it is still a broadcast: it speaks to a generic platform-wide issue while her own 51-day-old shadowban report remains untouched, and it was posted hours after a colleague asked her for a social login."
+    },
+    {
+     "client": "Liza Kovalenko",
+     "reminders": 4,
+     "complaints_owned": 2,
+     "commitments_kept": 0,
+     "commitments_overdue": 1,
+     "commitments_pending": 1,
+     "notes": "reminded: ALTR chasing the client and getting nothing back. Four separate ALTR questions went completely unanswered this window while she answered every billing message within an hour. This is the clearest disengagement signal on the account and it is invisible from the billing thread. | [new] CLIENT HAS NARROWED TO BILLING-ONLY AND IS NOT ANSWERING ALTR. All nine of Liza's messages this window are in the Invoicing thread. She answered every money message within the hour and ignored four consecutive service messages: Michelle's content chase (09-10, 8 days), Michelle's password question (09-12, 6 days), Mica's reel inspo (09-15, the sixth consecutive drop with zero client response - 06-09, 07-10, 07-29, 08-13, 08-31, 09-15) and Mayson's Facebook question (09-16, 2 days). Her tone stayed warm and she volunteered praise, which masks it. A client who pays instantly and engages with nothing else is not happy, she is transacting. | [recurring] TWO SEPARATE ALTR PEOPLE ARE ASKING FOR FACEBOOK ACCESS WITHOUT KNOWING ABOUT EACH OTHER. Mica asked 'do you have time now to re-add us to your facebook access?' on 2026-03-11 and never received a reply or sent a follow-up - 191 days. On 09-16 May"
+    },
+    {
+     "client": "Mila",
+     "reminders": 1,
+     "complaints_owned": 0,
+     "commitments_kept": 1,
+     "commitments_overdue": 0,
+     "commitments_pending": 0,
+     "notes": "reminded: Broadcast account-security instructions sent to a client whose main Instagram has been gone for 87 days, without referencing her case | [done] Restore the weekly reel-inspo drop. Mica's cadence ran Jun 25, Jul 2, Jul 10, Jul 29, Aug 13 and then stopped for 33 days. On Sep 15 she sent a full 11-link drop — the first genuine deliverable anyone at ALTR has sent this client since Aug 13, and the first ALTR message in six weeks that gave her something instead of asking her for something. Callie thanked her the same evening."
+    },
+    {
+     "client": "Sarah Lloyd",
+     "reminders": 0,
+     "complaints_owned": 0,
+     "commitments_kept": 2,
+     "commitments_overdue": 0,
+     "commitments_pending": 0,
+     "notes": "[done] Post proactive account-security guidance to the client. Mica did exactly the right thing on 09-17 — a clear, actionable Instagram security advisory covering backup codes and selfie verification, with an explicit instruction not to share codes with anyone including ALTR. It is the single best piece of client protection posted in this chat in three months. The agency then contradicted it within four hours. | [done] Resume the weekly reel-inspo batch Mica committed to on 2026-06-09 ('i'm going to be sending a new batch weekly to keep ideas flowing and posting consistent'). Delivered 09-15 with eleven references, her first batch since 08-13."
+    },
+    {
+     "client": "Shayna",
+     "reminders": 0,
+     "complaints_owned": 1,
+     "commitments_kept": 1,
+     "commitments_overdue": 0,
+     "commitments_pending": 0,
+     "notes": "[in_progress] Social-media workstream: partially revived, still not explained. Mica broke 33 days of silence on 9/15 with reel inspo and was thanked warmly ('Thanks girl 🤍'), then sent a generic Instagram security broadcast on 9/17. That is the first output from the Social Media Director since 8/13. But nobody has yet explained the management-run IG account she asked about on 9/10, and Derrek's 8/1 promise of 'plenty of updates starting next week' on the $40,000 phone farm is 48 days old with nothing in this chat. | [done] Send reel inspo / social-media output"
+    },
+    {
+     "client": "Vale",
+     "reminders": 2,
+     "complaints_owned": 1,
+     "commitments_kept": 0,
+     "commitments_overdue": 1,
+     "commitments_pending": 0,
+     "notes": "reminded: Closing the Instagram reach loop she opened herself on Aug 31. She asked for comparative reel insights, prescribed a three-variant hook test, went silent for 15 days, came back on Sep 15 with a generic 'how is everything going?', and when the client answered that she is still struggling Mica did not reply at all. The insights have never been collected, no hook has been declared the winner, and nobody has told Vale whether reach recovered. | [recurring] Instagram reach has been collapsed for 18 days, the client says it is still bad, and the social lead who diagnosed it has never come back to it. Mica went silent for 15 days after prescribing the three-variant hook test on Aug 31, reappeared on Sep 15 with 'hi bb! how is everything going?', and when Vale answered 'Been struggling to get new followers' she did not reply. The comparative reel insights Mica herself asked for have never been collected, no hook has been named the winner, and nobody has told Vale whether reach recovered. The unresolved half — the 'not shown to below 18' age flag she believes is the cause, contradicting advice given at owner level — is Meta-support territory, and Vivek, introduced Jul 29 as her Me"
+    }
+   ],
+   "strengths": [
+    "Wrote and shipped the unprompted Instagram security advisory across the roster on 2026-09-17 — unasked, correctly pitched, and a direct fix to ALTR's biggest live risk. Standardise it.",
+    "Best kept-to-overdue ratio of anyone on the team: 6 kept, 2 overdue, across 10 clients.",
+    "Reel-inspo cadence restored after a 33-day gap, including the largest drop ever sent; Amber Haze's analyst moved her from worst performer to best-improved in seven days.",
+    "Clients respond to her: Liza's analyst called the advisory the best non-billing communication on that account in months, and Amber Haze complied within ten minutes."
+   ],
+   "coaching_flags": [
+    "Sent eleven other creators' reels to Alanna, who does 32M views — the same mismatch that produced that client's only-ever complaint.",
+    "Asked Vale an open question, got a real answer ('Been struggling to get new followers'), and replied with a mass template.",
+    "Introduced on Lilia as covering TikTok/Facebook but has never touched the 31-day shadowban beyond one @-tag.",
+    "Keep the inspo drops weekly rather than in bursts — six consecutive drops to Liza have drawn no response, which points at format rather than cadence."
+   ],
+   "quotes": [
+    {
+     "quote": "Please do not send your backup codes to anyone, including our team. Keep the screenshot somewhere secure that only you can access.",
+     "client": "Sarah Lloyd",
+     "date": "2026-09-17"
+    },
+    {
+     "quote": "hi @alexpaigem ! here are more reel ideas for you ❤️",
+     "client": "Alex Paige Moore",
+     "date": "2026-09-15"
+    },
+    {
+     "quote": "I noticed there hasn't been anything uploaded yet, so I just wanted to check in with you!",
+     "client": "Liza Kovalenko",
+     "date": "2026-09-10"
+    }
+   ]
+  },
+  {
+   "name": "Olivia",
+   "role": "Team",
+   "summary": "Two accounts and low visibility. On Sarah she was silent 15 days and returned only to ask the client for something, with the AI voice fix 20 days open and the OFTV call write-up 16 days open. On Barbara she answered quickly — 14 minutes during the account-ban crisis — which is worth noting because it shows the responsiveness is there when she is engaged. The gap is ownership between appearances rather than speed within them.",
+   "open_issues": 9,
+   "trend": "down",
+   "clients": [
+    {
+     "client": "Barbara",
+     "reminders": 3,
+     "complaints_owned": 2,
+     "commitments_kept": 0,
+     "commitments_overdue": 3,
+     "commitments_pending": 1,
+     "notes": "reminded: The missing fourth OFTV video (13 days), the YouTube repurposing question (18 days) and the recurring Ben shoot calendar (22 days). She was the best ALTR performer in the emergency on Sep 17 and immediately opened two new commitments (free-page chatting, an account audit plus a content-ideas list), but none of the three items she already owed were touched, and she has now added two more to her own ledger on the same day. | [recurring] The missing fourth OFTV video from the Sep 2 delivery — 13 days with no reply from anyone. Barbara flagged it herself on Sep 5 in the same breath as thanking Olivia. Olivia sent one message in this entire window and it was about the emergency, not this. This is the same unacknowledged-submission failure that took 20 days to close last month, reopened and now aging past the two-week mark. | [recurring] Disintermediation on the only channel that works. Barbara told Olivia on Aug 27 that she and videographer Ben (@benamarephoto) were already discussing a standing arrangement between themselves. Twenty-two days later ALTR still has no calendar around it. With Instagram now entirely gone, OFTV is the sole delivering workstream on this account — a"
+    },
+    {
+     "client": "Sarah",
+     "reminders": 1,
+     "complaints_owned": 1,
+     "commitments_kept": 0,
+     "commitments_overdue": 2,
+     "commitments_pending": 0,
+     "notes": "reminded: The AI voice clone on her free-page autochat — 20 days open, no update — and the Sep 2 OFTV call, 16 days and still not written up anywhere. Olivia broke fifteen days of silence at 19:56 on Sep 17 and used it to ask Sarah for something: 'Hi babe what are the tags for the people in your b/g and g/g content?'. No voice-clone status, no OFTV outcome, no acknowledgement of the gap. Sarah has not replied. She has never chased either item, which is exactly consistent with her pattern of letting our failures drop while she answers every one of our requests within hours. | [in_progress] The AI voice clone on her free-page autochat is 20 days open with no update, and nobody has ever confirmed in writing whether it is live on her page right now. She tried four times on Aug 29 to get an Australian accent, got English, Scottish and British, and explicitly told us not to use it. Olivia committed to look at it, went silent for fifteen days, and returned on Sep 17 to ask Sarah for content tags rather than close the loop. Her stated reason for objecting is a brand risk we should have caught ourselves: the free page is fed entirely by her OFTV audience, who know her real voice. Running it"
+    }
+   ],
+   "strengths": [
+    "Answered in 14 minutes during Barbara's Instagram ban crisis on 2026-09-17."
+   ],
+   "coaching_flags": [
+    "Silent 15 days on Sarah and returned only with an ask.",
+    "AI voice fix 20 days open; OFTV call write-up 16 days open."
+   ],
+   "quotes": []
+  },
+  {
+   "name": "Sarah Lloyd chat team",
+   "role": "Vendor chat team",
+   "summary": "Fourth consecutive week of total absence from the client chat — 95 days silent. Sarah Lloyd's sexting sets have gone 97 days unanswered and the whale good-morning routine 96 days. She has now gone 24 days without mentioning her $25k whale and three full periods without raising a single service complaint, which her analyst reads as disengagement rather than satisfaction.",
+   "open_issues": 2,
+   "trend": "down",
+   "clients": [
+    {
+     "client": "Sarah Lloyd",
+     "reminders": 0,
+     "complaints_owned": 1,
+     "commitments_kept": 0,
+     "commitments_overdue": 1,
+     "commitments_pending": 0,
+     "notes": "[recurring] Sexting sessions built from multiple sets instead of one set per session. Asked 2026-06-13 and acknowledged exactly once by the vendor chat team ('yeah, mistake on chatters part, I labelled how they should be created'), asked again verbatim on 2026-08-19, bumped internally by Mayson on 08-20. NINETY-SEVEN DAYS, and no person has ever replied to it on the second occasion. Fourth consecutive reporting period in which she has not raised it. She has over 50 purpose-built sexting sets in the vault made specifically for this. This remains the single most damning item on the account: the longest-open request, and the only one with a literal zero-response record. | [overdue] Answer the sexting-set consistency request — one set, one outfit, per sexting session. Ninety-seven days from the original 2026-06-13 ask, thirty from the verbatim restatement. Never acknowledged by any person on the second occasion. This is the longest-open and least-answered item on the account."
+    }
+   ],
+   "strengths": [],
+   "coaching_flags": [
+    "95 days with no presence in the client chat; four consecutive reporting periods.",
+    "Sexting sets 97 days unanswered, whale good-morning routine 96 days.",
+    "Client has stopped complaining entirely — historically the last signal before churn on this roster."
+   ],
+   "quotes": [
+    {
+     "quote": "Hey guys! Can you please stick to one outfit for these? There's no need to be swapping outfits for these sort of live sexting bundles",
+     "client": "Sarah Lloyd",
+     "date": "2026-06-13"
+    }
+   ]
+  }
+ ]
+}

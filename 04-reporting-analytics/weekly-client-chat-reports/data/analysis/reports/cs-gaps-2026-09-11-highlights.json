@@ -1,0 +1,164 @@
+{
+  "verdict": "The trajectory is down, and this is the week it stopped being theoretical: Kaitlynn terminated on 9/8 — 34 days after signing — in the same sentence as a rejected wire, making five churned clients against fourteen still live, and every one of those fourteen is at_risk. follow_through now scores a flat 3.00 across all nineteen accounts: there is not a single client we are keeping our promises to, with 341 commitments made and 350 lapsed or unclosed across the book. The through-line is that nothing is owned — work is assigned by @-tag in a group chat, so when the tagged person goes quiet the commitment dies silently and the client, not us, is the one who notices.",
+  "fires": [
+    {
+      "client": "Agency-wide (banking rail)",
+      "owner": "Derrek",
+      "why": "Our payment rail is broken and it just cost us a client. Lauren Blake phoned Chase herself and diagnosed it for us on 8/31 — a beneficiary-name mismatch plus a fraud/scam flag on ALTR's own account — and eleven days later nobody has acknowledged the flag. Kaitlynn's wire was rejected on its 9/8 due date and she terminated in the same sentence. Haileigh sent two consecutive wires to what appear to be two different accounts on two contradictory instructions, neither confirmed. Mila wired 8/17 against an account number that changed silently. Vicky and Chey Mai both got unexplained account changes mid-engagement. Six clients, one defect, and in every case the client absorbed the confusion while we kept sending chases.",
+      "action": "Clear the Chase fraud flag on ALTR MANAGEMENT LLC personally today, then publish ONE canonical set of banking details (exact registered name, routing, SWIFT, address) and have Stephski confirm in writing to every client which account their last payment landed in. Freeze all payment chases until that is done.",
+      "draft": "Hey [client] — Derrek. Before anything else: the problem with your last payment was on our end, not yours. Our bank flagged our own account and our invoice had the wrong beneficiary name on it, which is why your wire bounced/stalled. I'm sorry — you shouldn't have had to work that out yourself. Here are the correct and final details, and these will not change again: [paste canonical banking block]. [Stephski/name] will confirm in writing today exactly what we've received from you and what's outstanding, with dates. We're not sending you another invoice or chase until that reconciliation is in your hands."
+    },
+    {
+      "client": "Agency-wide (credential exposure)",
+      "owner": "Derrek + Vivek",
+      "why": "Live client credentials are sitting in plaintext in group chats on at least seven accounts — Liza, Sarah, Sarah Lloyd, Vale, Amber Haze, Lilia, Paige — and nothing has been rotated. Vale asked us directly 45 days ago whether she should change her password and never got an answer; her OF password has been in the chat 172 days. Amber Haze's live IG password went in on 9/07. Paige's and Hannah's are still live after they churned. This is actively getting worse, not decaying: unidentified members were added to four client groups at 21:01 on 9/10 with full scrollback, a vendor was granted Snapchat admin on Sarah's account on 9/10, and Mayson asked three separate clients for direct Snapchat logins in open chats on 9/10–9/11. We also sold Sarah a $40k account-security story on 8/1 while doing this.",
+      "action": "Stop the intake today: one message to the whole team that credentials never go in a client group, then an audit of every chat for exposed logins, a rotation request to each affected client, and removal of anyone added to those groups who has no reason to be there. Vivek owns the rotation list; nobody asks a client for a login in-channel again.",
+      "draft": "[client] — Derrek. Housekeeping that's overdue and it's our fault, not yours. Some of your account logins were put into this group chat by our team over the last few months, and they should never have been — a group chat isn't a safe place for them and we've had people join this chat since. Nothing has gone wrong that we know of, and I'd rather tell you and fix it than sit on it. Two asks: please change the passwords on [list accounts — describe, do not paste anything], and please delete the messages where they appear. Going forward [Vivek/name] will collect anything like this privately, never here. New rule as of today, on our side: no member of my team will ever ask you for a login in this chat again."
+    },
+    {
+      "client": "Sarah Lloyd",
+      "owner": "Derrek + Fred",
+      "why": "Nine of ten dimensions at severity 3 — the worst account in the book — and she has gone quiet in exactly the way that precedes leaving. Zero service complaints in 17 days from a client who wrote 34 repeat-nudge messages, she has stopped mentioning her $25k whale after raising him nearly weekly since June, and she missed a content deliverable for the first time ever. Nobody noticed any of it. BG content was sent to that whale twice, 72 days apart, never unsent, and she got two contradictory explanations three minutes apart — one blaming a chatter, one calling it a system bug. She has paid nine cycles where every single delay was caused by us, and twice funded test wires out of her own pocket. Her entire vendor chat team vanished on 6/15, the same evening two new AMs introduced themselves, and she was never told.",
+      "action": "Call her today — not a message. Own the whale incident with one true explanation, tell her what happened to her original team, and get a straight answer on whether the $25k whale is still spending. Then Fred writes her standing rules into the vault notes and confirms the edit back to her the same day.",
+      "draft": "Sarah — Derrek. I'd like to call you today or tomorrow, whenever suits, because you deserve a voice and not another message. Three things I want to say up front. Your BG content reached [whale name] twice and you got two different explanations from us in the space of three minutes — the truth is [one true explanation], and I'm sorry, both for the breach and for the muddle after it. Second, the chat team you started with was swapped out on June 15 and nobody told you that happened; that's not how I want this run. Third, you've paid nine cycles where every delay was ours and you've twice covered test wires yourself — I haven't acknowledged that and I should have. What I want from the call is to hear what you actually need from us now, and then you'll get it in writing with dates on it by [day]."
+    },
+    {
+      "client": "Liza Kovalenko",
+      "owner": "Derrek + Stephski",
+      "why": "We told her the credit was $2,499.59 when it was $7,499.59 — wrong by $5,000 in our own favour, closed twice before it was right, and only corrected because she audited us against her own wire receipts. That's the sixth straight cycle she's had to ask where her money went, and her 9/09 $5,000 wire is still unconfirmed. Meanwhile all three of her backup IG accounts were deleted 29 days after the $40k phone farm was sold to her as the fix, and 336 days of IG problems have produced no resolution. The tell: she has stopped asking about the deleted accounts entirely — and instead of noticing, Michelle chased her for content on 9/10, the second content chase in eleven days while those accounts are dead.",
+      "action": "Name and apologise for the $5,000 error yourself today, confirm the 9/09 wire in writing, and give her a real status on the three dead handles even if the answer is 'unrecoverable'. Freeze all content chasing on this account until she has that answer.",
+      "draft": "Liza — Derrek. Two things I owe you directly. The credit we told you about was wrong: we said $2,499.59 when it was $7,499.59. That's a $5,000 error in our favour, we closed it twice before it was right, and it took you checking your own wire receipts to catch it. That should never be your job and I'm sorry. Your $5,000 wire from the 9th landed — confirmed, [Stephski/name] is sending you a full written ledger by [day]. Second: your three backup Instagram accounts. Here's the honest position — [status, including 'unrecoverable' if that's the truth] — and [name] owns it from today with an update to you every [day], with a number or a date in it, until it's closed. We're not asking you for content again until you have that answer. One favour: please change the passwords you sent into this chat and delete those messages — they've been sitting here too long and that's our failure, not yours."
+    },
+    {
+      "client": "Shayna + Vale + Vicky (fan money)",
+      "owner": "Fred",
+      "why": "We are holding roughly $13,300 of fans' money against work that was never delivered, and in every case the client found it, not us. Shayna: ~$6,300 against three undelivered 1:1 lives that chatters sold after she had banned them outright — no refunds, no audit, and Fred's internal notes still said she does 1:1s six weeks after she stopped. Vale: ~$5,300 of paid fan orders she chased almost weekly from 5/22 to 8/9 and then stopped chasing entirely, plus a paid private live of hers resold as PPV back to the fan who had bought it. Vicky: $1,700 from two named fans, still held after she terminated on 8/18. This is fan-facing, it is refundable money, and it is the kind of thing that ends up public.",
+      "action": "Fred produces one dated line per outstanding paid fan order across all three accounts by Monday 9/14 — delivered, scheduled for X, or refunded — and refunds anything sold against a stated boundary. Add a purchase-history check before any PPV to a named whale, and make the price floor and 'ask the creator before quoting or taking payment for a custom' hard CRM gates, not verbal briefings.",
+      "draft": "[client] — Derrek. I've been through your account myself and you were right to keep raising this. There is fan money sitting against orders we took and didn't deliver — by my count [$X] across [N] orders, listed here: [paste the dated list]. Every one of those is either being delivered by [date] or refunded to the fan this week, your call on which. Where something was sold that you'd already told us not to sell, that's being refunded regardless and I'm sorry it happened at all. From today, nothing gets quoted or paid for on your account without your yes first — that's now a hard block in our system, not a note someone has to remember. [Fred/name] will send you that list updated every [day] until it's empty."
+    }
+  ],
+  "this_week": [
+    {"client": "Barbara", "owner": "Derrek", "action": "Her 8/24 named escalation is now 18 days unanswered and on 9/10 we asked HER whether we'd recovered her accounts. Answer it with a real status, and get someone into the OnlyFans topic — it has carried zero messages in 53 days on an OF management account."},
+    {"client": "Haileigh Cox", "owner": "Stephski", "action": "Confirm both the 8/20 and 9/7 wires in writing with one canonical account, and retract the pause-work language. She returned from 16 days silent nine minutes after a collections nudge — every message we've sent her since 8/20 has been a bill or a demand."},
+    {"client": "Alex Paige Moore", "owner": "Derrek", "action": "Ask how she is. She disclosed surgery twice 16 days ago and nobody has, and four days after the second disclosure we handed her a 30-reels-a-month quota. Then answer the $1,989 dispute, 45 days open with four unrecorded payments stacked on it."},
+    {"client": "Amber Haze", "owner": "Mayson", "action": "Send her actual follower/view/reach numbers for the two IGs we run — in 134 days we have never sent one, so on 9/02 she measured us herself at ~150 views a post and asked for different staff."},
+    {"client": "Lauryn", "owner": "Stephski", "action": "She paid unprompted on 9/09 and 9/11 and nobody replied. Quote her a total and a due date in-chat — we cannot currently state what she has paid us. Rebook the weekly call dropped on 6/24."},
+    {"client": "Mila", "owner": "Vivek", "action": "Answer 'my accounts been suspended again… so what happens now x' — 80 days unanswered by anyone, asked only because we told her not to appeal herself. Confirm her three open payment cycles in writing before the next invoice issues."},
+    {"client": "Alanna", "owner": "Michelle", "action": "Day 39 and her chatter FAQ form is still blank, the kickoff call was never booked, and the impersonator she flagged on day one was never confirmed removed. Her release calendar has been empty since 8/29 — ask her for the next dates."},
+    {"client": "Lilia", "owner": "Fred", "action": "Acknowledge the 8/29 sequence, 13 days silent, and name the reselling chatter she was promised would be removed on 7/24 — 49 days. She learned on 9/10 that a management-run IG Reels account exists: 91 days, zero uploads."},
+    {"client": "Sarah", "owner": "Derrek", "action": "Her ~530k main IG has been down 33 days and she's stopped asking. Give her a dated written status, and reinstate the before/after stats screenshot Sophie sent at day 30 — it was the highest-trust moment in twelve months and was never repeated."},
+    {"client": "Lauren Blake", "owner": "Stephski", "action": "Reissue the defective invoice with the correct registered name before invoice 4 goes out ~9/16, with the Meta ad report attached. Stop chasing her for installments of our own workaround — she has paid ~$27,103 in nine actions over 21 days."}
+  ],
+  "monitor": [
+    {"client": "Alanna", "note": "The only client leaning IN — paid, apologised, asked us to run MORE Instagram accounts, and volunteered the only unprompted praise on any account this month ('Loving the chatting so far'). Michelle's third chase on 9/10 is the one fully-managed loop in the book. Keep chasing like that."},
+    {"client": "Lauren Blake", "note": "Nothing on her side is failing — 70 days, never missed a content request, advance travel notice twice, ~$27k paid through a rail we broke. Every open item is ours. Protect her from our own billing before she runs out of patience."},
+    {"client": "Vale", "note": "10-for-10 on time since March, still uploading unbriefed content, still executing our advice within two days. Compliance without expectation is not health — but the raw material is still there."},
+    {"client": "Alex Paige Moore", "note": "Mayson closed a 331-day-old Drive upload failure in 24 minutes with an apology on 9/4 — the single best piece of service in the whole book this month. That is the standard; the only miss was nobody chasing the strategy call she didn't reply to."},
+    {"client": "Lauryn", "note": "The weekly DMCA update is the one promise unbroken in twelve months across any account — Nick's cadence is the proof the model works. Also: Stephski's soft check-in on 9/05 produced two payments where the 9/01 pause threat produced none."}
+  ],
+  "churned": [
+    {"client": "Kaitlynn", "money": "Final invoice never correctly issued; Derrek's $91 waiver was reversed in writing at the wrong amount and charged to a departing client. Paid out 9/10.", "action": "Fix the $91 reversal and send a corrected final statement with an apology. She churned 34 days in over a wire we broke — she is worth one honest exit call, and three unreconciled Drives are still outstanding."},
+    {"client": "Paige", "money": "Resigned 9/02; our only two messages since were payment chases, one threatening to pause work — sent 7 days AFTER she quit.", "action": "Stop all collection contact. Her credentials are still live and unrotated in the group — ask her to rotate and delete, then close the chat. Note she was Chey Mai's referral; both are now gone."},
+    {"client": "Vicky", "money": "$1,700 of fan money we hold against undelivered work (two named fans). Final 8/1–8/18 balance never stated to her; 8/1–8/14 invoice unpaid — use her verified TRC20 rail, not the unexplained 8/15 account change.", "action": "She terminated asking for exactly two things: a final figure and her OF accounts disconnected. Neither happened in 24 days. Give her both this week, refund the $1,700, release editor rights on her personal Drive, and hand back vickysworld.vip and the managed IG."},
+    {"client": "Hannah", "money": "7/1–7/7 invoice (~$400–500) never issued; exit balance never communicated.", "action": "She resigned in writing on 7/06 and nobody ever replied — then we sent templates and a paperwork request. Close it cleanly: state the balance, confirm her OF/IG credentials are presumed live and must be rotated, and get her content out of a staff member's personal iCloud."},
+    {"client": "Chey Mai", "money": "Two unpaid periods (41 and 27 days) plus an unissued 8/15–8/31 invoice. Check the new bank account for an inbound transfer BEFORE any write-off — that explanation has never been excluded.", "action": "We removed her as a client on 9/05 and never told her; the only record is a two-line staff aside in a topic she can read. Tell her, properly. Then retire cheyennesworld.vip, the shared reels Drive, the managed IG and the chatter cutoff."}
+  ],
+  "delegate": [
+    {
+      "person": "Derrek (you)",
+      "tasks": [
+        "Clear the Chase fraud/scam flag on ALTR MANAGEMENT LLC — it has blocked or confused six clients' payments and caused Kaitlynn's churn.",
+        "Send the team broadcast on credentials today, then personally approve the rotation list before it goes to clients.",
+        "Call Sarah Lloyd — voice, not message. Whale breach, the June 15 team swap she was never told about, and what she needs now.",
+        "Message Liza: name the $5,000 error, confirm the 9/09 wire, give a real status on the three dead IG handles.",
+        "Answer Barbara's 8/24 escalation — 18 days.",
+        "Ask Alex Paige Moore how she is after surgery. Nobody has in 16 days.",
+        "Give Sarah a dated status on her ~530k IG, down 33 days.",
+        "Your own 8/1 phone-farm promise ('plenty of updates starting next week') is 41 days overdue and was flagged independently on five accounts — Sarah, Lilia, Mila, Amber Haze, Lauren Blake. Close it or retract it.",
+        "Decide the offboarding policy: a client gets told before they are removed. Chey Mai wasn't."
+      ]
+    },
+    {
+      "person": "Stephski",
+      "tasks": [
+        "Freeze every payment chase until the canonical banking block is published.",
+        "Confirm in writing, per client, exactly what we have received and what is outstanding — start with Lauryn, Haileigh, Alex Paige Moore, Mila and Liza, none of whom we can currently give a straight number to.",
+        "Reissue Lauren Blake's defective invoice with the correct registered name before invoice 4 (~9/16), Meta ad report attached.",
+        "Confirm Haileigh's 8/20 and 9/7 wires and retract the pause-work language.",
+        "Fix Kaitlynn's $91 waiver reversal and issue a corrected final statement.",
+        "Issue Hannah's unissued 7/1–7/7 invoice and Chey Mai's 8/15–8/31 — and check the new bank account for Chey Mai's inbound before any write-off."
+      ]
+    },
+    {
+      "person": "Vivek",
+      "tasks": [
+        "Own the credential rotation list across all seven exposed accounts — Liza, Sarah, Sarah Lloyd, Vale, Amber Haze, Lilia, Paige (plus Hannah and Vicky, churned but presumed live).",
+        "Audit who was added to the Alanna, Mila, Liza and Lilia groups at 21:01 on 9/10 and remove anyone without a reason to be there.",
+        "Answer Mila's suspension question — 80 days, and she only asked because we told her not to appeal.",
+        "Liza's three deleted backup IGs: post a status, even if the answer is 'unrecoverable'. You have had her passwords since 8/31 and posted nothing in 12 days.",
+        "Haileigh's .vip domain question (89 days) and her 7/29 shadowban request (44 days).",
+        "Lilia's TikTok shadowban — 24 days untouched.",
+        "Barbara's barbarasilva.vip root-cause lead — 18 days with you."
+      ]
+    },
+    {
+      "person": "Fred",
+      "tasks": [
+        "One dated line per outstanding paid fan order for Shayna, Vale and Vicky by Monday 9/14 — delivered, scheduled, or refunded. ~$13,300 total.",
+        "Refund anything sold against a stated client boundary, no exceptions — starting with Shayna's three post-ban 1:1 lives.",
+        "Write every standing client instruction into the chat team's vault notes and confirm the edit back to the client the same day. Your internal notes still said Shayna does 1:1s six weeks after she banned them.",
+        "Make the price floor and 'ask the creator before quoting or taking payment for a custom' hard CRM gates, not verbal briefings.",
+        "Add a purchase-history check before any PPV goes to a named whale.",
+        "Acknowledge Lilia's 8/29 sequence (13 days) and name the reselling chatter promised removed on 7/24 (49 days).",
+        "Your own 8/31 pause-and-verify rule has held 11 days with zero violations — roll it out to every account."
+      ]
+    },
+    {
+      "person": "Mayson",
+      "tasks": [
+        "Stop asking clients for logins in group chats — you did it on Sarah, Sarah Lloyd, Lauren Blake and Vale on 9/10–9/11. Route every credential privately through Vivek.",
+        "Send Amber Haze real follower/view/reach numbers for both IGs we run — she has never had one in 134 days.",
+        "Chase the trial-reels strategy call Alex Paige Moore never replied to.",
+        "Your 9/4 Drive fix for Alex Paige Moore — 331-day-old problem closed in 24 minutes with an apology — is the best service on any account this month. Keep doing exactly that.",
+        "You have @-tagged the real account owners 19 times on Shayna and 16 times on Sarah Lloyd to get them to read their own chats. Send me that list instead of tagging into the void."
+      ]
+    },
+    {
+      "person": "Ollie Mckinlay",
+      "tasks": [
+        "Lauren Blake: close your six open items or say plainly which ones are dead. You sent 4 messages in 14 days, all requests of her, and closed none.",
+        "Confirm her content boundary in writing — stated three times, breached once, still unconfirmed at 40 days, with the post-travel customs batch about to land.",
+        "Vale: the 8/29 and 9/10 escalations to you are image-only in the export — confirm whether either is a further chatter incident.",
+        "You spotted Kaitlynn's credential revocation on 9/7 and never escalated it; her notice came 19 hours later. Escalate that signal next time — it is the clearest churn tell we have."
+      ]
+    },
+    {
+      "person": "Michelle",
+      "tasks": [
+        "Stop content-chasing Liza until she has an answer on her dead accounts — 9/10 was the second chase in eleven days.",
+        "Alanna: book the kickoff call, get the chatter FAQ form filled, confirm the impersonator takedown, and ask her for the next release dates — her calendar has been empty since 8/29.",
+        "Confirm receipt of Alanna's two content handovers (the day-one library and the 5,000+ photos on 9/10) — neither has ever been acknowledged as ingested."
+      ]
+    },
+    {
+      "person": "Olivia",
+      "tasks": [
+        "Barbara trusts you more than anyone else here — you are the right person to carry her IG/traffic status, weekly, with a number in it good or bad.",
+        "Get someone into Barbara's OnlyFans topic: zero messages in 53 days on an OF management account.",
+        "Barbara's oldest lapsed items: talking-to-camera examples (50d), three link-in-bio versions (42d), backup IG (41d), adultsearch takedown (35d). Close or kill each one in writing."
+      ]
+    },
+    {
+      "person": "Noah / Ronnie (Sarah Lloyd AMs)",
+      "tasks": [
+        "Read your own chat. Mayson has relayed '@natehei ^^' 16 times to get one of you to respond to your own client.",
+        "Sarah Lloyd's one-outfit-per-sexting-set request is 90 days old and has never been answered by anyone, on either occasion she raised it.",
+        "37 of her 76 commitments have lapsed with no delivery and no retraction — bring me the list with a date or a 'we're not doing this' against every line."
+      ]
+    }
+  ],
+  "systemic_fix": "Kill @-tag assignment. Every client gets ONE named owner, published in their chat by name, and every commitment made to that client gets written into a dated in-chat ledger with an owner and a due date — closed with 'done, here's the result' or killed with 'we're not doing this, here's why'. Nothing is allowed to simply age out. That single mechanism sits underneath all ten dimensions: follow_through is 3.00 across all nineteen accounts because work assigned by tag in a group chat dies silently the moment the tagged person goes quiet, and the client is the only one who notices. Pair it with two hard gates — no credential ever enters a client group chat, and no fan payment is taken for anything the creator hasn't approved — and one standing weekly outbound per account that contains a number and contains no ask.",
+  "team_broadcast": "Team — three changes, effective today, no exceptions.\n\n1. CREDENTIALS. Nobody asks a client for a password, login, or 2FA code in a client group chat, ever again. Not 'send login', not 'direct login would work too'. If you need access, you tell Vivek and he collects it privately. We have live client passwords sitting in seven group chats right now, some of them for months, and people have been added to those chats since. This one is not negotiable.\n\n2. ONE OWNER PER CLIENT. You will be told this week which accounts are yours by name. If it's yours, you read that chat daily and you answer it — no @-tagging someone else and walking away. If you can't own it, say so now and I'll reassign it. Mayson has had to tag colleagues 35 times across two accounts to get them to read their own clients' messages. That stops.\n\n3. PROMISES GET WRITTEN DOWN. Anything you tell a client you'll do goes into that chat with a date on it, and it gets closed out — either 'done, here's the result' or 'we're not doing this, here's why'. Right now we have 350 promises across the book that just quietly died. Not one client in nineteen has a clean record with us on this.\n\nOne more thing, and I mean it as praise: Mayson closed a 331-day-old problem for a client in 24 minutes last Friday and apologised for it taking that long. Fred's pause-and-verify rule has run eleven days with zero breaches. Nick has never once missed a weekly DMCA update in twelve months. It works when we do it. We just aren't doing it anywhere near often enough.\n\nNothing in this message is about working harder. It's about finishing what we start and writing it down. — Derrek",
+  "pattern": "Speed masks abandonment. Median first reply across the book is minutes — Sarah Lloyd ~7 minutes, Amber Haze ~15, Lauryn ~2 — and responsiveness is the LOWEST-scoring gap dimension at 2.26. But follow_through is a perfect 3.00 across all nineteen clients: we acknowledge instantly and close nothing. The clients themselves have adapted to it in the same way every time — they raise a thing, chase it two or three times, then stop raising it. That stopping is the actual churn signal, and we read it as calm. Liza stopped asking about three deleted accounts. Sarah stopped asking about a 530k IG down 33 days. Sarah Lloyd stopped mentioning a $25k whale. Vale stopped chasing $5,300 of fan orders. Lauryn stopped chasing a Facebook problem she had raised for 349 consecutive days. Every one of them is still paying, which is why nobody noticed. And when the account finally goes, our only reflex is a collections chase — we sent one to Paige seven days after she resigned, and in two of the three earlier churns nobody on our side ever registered the client had left.",
+  "integrity": "Owner-only, not for any team-facing surface:\n\n1. LIZA / $5,000. We told her the credit was $2,499.59 when it was $7,499.59 — wrong by $5,000 in our favour, closed twice before it was right, and corrected only because she audited us against her own wire receipts. Whatever the cause, from her side this is indistinguishable from being shorted and then covered up. Own it explicitly and by name before she works that out.\n\n2. KAITLYNN / $91. Your waiver was reversed in writing at the wrong amount and charged to a client who was already leaving. Small money, bad look, and she has it in writing.\n\n3. PAIGE. We sent collection threats — including 'pause work in the morning' — seven days after she resigned in writing. If she posts that screenshot anywhere it is genuinely damaging.\n\n4. CHEY MAI. We removed her as a client on 9/05 and never told her. The only record of the decision is a two-line staff aside posted in a topic she can still read. She may be reading it. Also: check the new bank account for her inbound transfer before writing anything off — we changed her rail and never excluded the possibility she paid into it.\n\n5. FAN MONEY, ~$13,300. Shayna ~$6,300 against 1:1 lives chatters sold after she banned them; Vale ~$5,300 of paid orders plus a private live of hers resold as PPV to the fan who bought it; Vicky $1,700 held after termination. This is third-party money against undelivered work, and in all three cases the creator found it and we did not. Treat the refunds as urgent on their own merits.\n\n6. THE $40k SECURITY STORY. Sarah got a letter on 8/1 citing $40k spent on account security. In the same period we were taking her OF login, her free-page login three times over because we kept losing it, two IG passwords, a live 2FA code and her passport photos into a ~19-person chat with churning membership — and on 9/10 granted an unnamed vendor Snapchat admin. Liza was sold the same $40k phone farm as the fix for her IG problems and lost all three backup accounts 29 days later. If either of them ever lines those two things up, that is the conversation that ends the relationship.\n\n7. YOUR OWN LAPSE. The 8/1 'plenty of updates starting next week' on the phone farm is 41 days overdue and five separate analysts surfaced it independently on five different accounts — Sarah, Lilia, Mila, Amber Haze, Lauren Blake. It is the single most-cited broken promise in the book and it is yours, not the team's. Anything you ask of them on follow-through lands differently until this one is closed or retracted.\n\n8. CONDUCT. Vivek told Lauryn 'Ma'am that's on you completely' on 8/16 about a platform problem she was paying us to solve. Worth addressing directly."
+}

@@ -1,0 +1,134 @@
+{
+  "client": "Chey Mai",
+  "slug": "chey-mai-x-altr",
+  "week_ending": "2026-08-08",
+  "summary": "Completely silent week: zero messages from either side between Aug 2-8, with the client quiet since Jul 23 and the team's last touches being Stephski's Jul 15-31 invoice and Derrek's IG phone-farm update on Aug 1. The invoice's 7-day window ran out Aug 8 with no payment confirmation and no reminder sent, despite Chey needing nudges to pay both prior invoices. Derrek promised 'plenty of updates starting next week' on the IG rollout but none were posted, and core onboarding items (sales form, previous-team unlink, IG reels uploads to Drive) were never confirmed in chat.",
+  "health": {
+    "score": 62,
+    "trend": "new",
+    "rationale": "No open complaints and she referred a new client (Paige), but a full week of two-way silence, an unconfirmed invoice at its due date, an undelivered update promise, and unverified onboarding steps add real friction risk."
+  },
+  "reminders": [
+    {
+      "employee": "Stephski",
+      "topic": "Chasing invoice payments (June 23-30 and July 1-14 invoices)",
+      "count": 2,
+      "first_date": "2026-07-11",
+      "last_date": "2026-07-20",
+      "days_outstanding": null,
+      "quotes": [
+        {"quote": "@cheymai1 Hey we're still missing payment 🙂", "who": "Stephski", "date": "2026-07-11"},
+        {"quote": "Hi hun! Checking in on this payment above ❤️ @cheymai1", "who": "Stephski", "date": "2026-07-20"}
+      ]
+    }
+  ],
+  "complaints": [
+    {
+      "issue": "Client's main IG account (@Cheymai_) being targeted/flagged",
+      "status": "resolved",
+      "first_raised": "2026-07-22",
+      "owner": "Mayson",
+      "quotes": [
+        {"quote": "My Cheymai_ account is being targeted now", "who": "Cheyene Burridge", "date": "2026-07-22"},
+        {"quote": "Looks all good", "who": "Mayson", "date": "2026-07-23"},
+        {"quote": "The content that needs to be removed you can archive it", "who": "Mayson", "date": "2026-07-23"}
+      ]
+    },
+    {
+      "issue": "IG backup pages/posting paused due to Instagram guideline changes; team acknowledged flagged/shadowbanned/deleted pages and a communication gap while migrating to a new phone farm",
+      "status": "in_progress",
+      "first_raised": "2026-08-01",
+      "owner": "Derrek",
+      "quotes": [
+        {"quote": "We have been working nonstop to find a solution and as of last week, we have a working solution that it will last long-term.", "who": "Derrek", "date": "2026-08-01"},
+        {"quote": "My apologies, for any lack of communication. As this has required us to swap out over 200 devices, and over 1000 accounts.", "who": "Derrek", "date": "2026-08-01"}
+      ]
+    }
+  ],
+  "commitments": [
+    {
+      "what": "Post ongoing updates on the new phone-farm/IG rollout ('plenty of updates starting next week') — no update was posted during the Aug 2-8 week",
+      "who": "Derrek",
+      "date": "2026-08-01",
+      "status": "overdue",
+      "quotes": [
+        {"quote": "Thank you for your understanding, we will have plenty of updates starting next week.", "who": "Derrek", "date": "2026-08-01"}
+      ]
+    },
+    {
+      "what": "Check whether ALTR can accept PayPal and get back to the client — never answered in chat (26+ days)",
+      "who": "Stephski",
+      "date": "2026-07-13",
+      "status": "overdue",
+      "quotes": [
+        {"quote": "Do you guys have PayPal", "who": "Cheyene Burridge", "date": "2026-07-13"},
+        {"quote": "Let me check on that for you", "who": "Stephski", "date": "2026-07-13"}
+      ]
+    },
+    {
+      "what": "Pay the July 15-31 invoice within 7 days (due 2026-08-08) — no payment or confirmation in chat as of week end",
+      "who": "Cheyene Burridge",
+      "date": "2026-08-01",
+      "status": "pending",
+      "quotes": [
+        {"quote": "Below is your invoice for the period of July 15th-31st. If you could please shoot over payment within the next 7 days that would be amazing!", "who": "Stephski", "date": "2026-08-01"}
+      ]
+    }
+  ],
+  "payments": [
+    {
+      "note": "June 23-30 invoice sent Jul 1; paid via bank transfer only after a Jul 11 reminder; received Jul 13 (~12 days after invoicing)",
+      "date": "2026-07-13",
+      "late": true,
+      "reason": "Client asked about PayPal and paid through her bank; no reminder until day 10",
+      "suggested_fix": "Confirm the client's preferred payment method up front and send a reminder within 3-4 days of invoicing",
+      "quotes": [
+        {"quote": "@cheymai1 Hey we're still missing payment 🙂", "who": "Stephski", "date": "2026-07-11"},
+        {"quote": "Money should have gone in thou! I paid thru my normal bank ☺️", "who": "Cheyene Burridge", "date": "2026-07-13"},
+        {"quote": "Recieved!", "who": "Stephski", "date": "2026-07-13"}
+      ]
+    },
+    {
+      "note": "July 1-14 invoice sent Jul 15; paid Jul 21 after a Jul 20 nudge",
+      "date": "2026-07-21",
+      "late": true,
+      "reason": "Client pays only after a reminder; no proactive reminder before day 5",
+      "suggested_fix": "Build a standing reminder cadence (day 3 and day 6) for this client",
+      "quotes": [
+        {"quote": "Hi hun! Checking in on this payment above ❤️ @cheymai1", "who": "Stephski", "date": "2026-07-20"},
+        {"quote": "Paid xx", "who": "Cheyene Burridge", "date": "2026-07-21"}
+      ]
+    },
+    {
+      "note": "July 15-31 invoice sent Aug 1 with a 7-day window (due Aug 8); no payment, acknowledgment, or reminder as of week end",
+      "date": null,
+      "late": false,
+      "reason": "Due date fell on the last day of the report week; given her pattern, it will slip without a nudge",
+      "suggested_fix": "Send a payment reminder immediately (Aug 8-9) rather than waiting until day 10 like the first invoice",
+      "quotes": [
+        {"quote": "If you could please shoot over payment within the next 7 days that would be amazing!", "who": "Stephski", "date": "2026-08-01"}
+      ]
+    }
+  ],
+  "client_priorities": [
+    "Keeping her main IG account (@Cheymai_) safe from flags, targeting, and restrictions",
+    "Convenient payment options (asked about PayPal; pays through her regular bank)",
+    "Resumption of IG promo/posting growth that Derrek paused during the platform migration"
+  ],
+  "suggestions": [
+    "Break the silence: post the promised phone-farm rollout update — Derrek said updates would start this week and none went out, right after apologizing for a communication gap",
+    "Send the July 15-31 invoice reminder now; both prior invoices were only paid after a nudge",
+    "Close the PayPal loop from Jul 13 — a 26-day unanswered question on payment method for a client who pays late is an easy fix",
+    "Audit onboarding: confirm in chat that the sales-preferences form was completed, the previous chat team was unlinked, and reels content was uploaded to the Google Drive — none of these were ever confirmed"
+  ],
+  "wins": [
+    "Both prior invoices were paid in full and the client stayed warm and friendly throughout ('Paid xx', 'thank you so much')",
+    "Client referred another model to ALTR (Paige, onboarded as 'Paige (Chey Ref)') — strong trust signal",
+    "Mayson resolved the account-targeting scare within a day, and Derrek added a dedicated Meta Support rep (Vivek) for IG safety"
+  ],
+  "week_stats": {
+    "messages": 0,
+    "client_messages": 0,
+    "team_messages": 0
+  }
+}

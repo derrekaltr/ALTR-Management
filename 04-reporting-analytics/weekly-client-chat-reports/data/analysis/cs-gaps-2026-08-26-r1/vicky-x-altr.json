@@ -1,0 +1,378 @@
+{
+  "client": "Vicky",
+  "slug": "vicky-x-altr",
+  "client_display_name": "Valerie",
+  "status": "churned",
+  "status_reason": "Terminated 2026-08-18 00:00 ('I would like to stop this collaboration'); 54 days after first asking when our traffic would replace the paid SFS she was told to stop, having never been shown a single number. Eight days later the only team follow-up is an invoice chase (8/26).",
+  "last_client_message": "2026-08-18",
+  "onboarded": "2026-06-17",
+  "churn_date": "2026-08-18",
+  "tenure_days": 62,
+  "dimensions": {
+    "responsiveness": {
+      "severity": 2,
+      "internal_failure": "Ollie was usually fast once engaged, but she had to send 'Hello?' / 'Any updates?' / '@olkmck' nudges at least 9 times, several asks went >24h, and a handful were never answered (whale list, 'selfie in arch', the full traffic update, the termination itself).",
+      "evidence": [
+        {
+          "quote": "what about this? / Why when i ask no one answer 👀",
+          "who": "Valerie",
+          "date": "2026-06-27",
+          "note": "Re her 6/26 07:47 whale voice-note request — 30h with no reply."
+        },
+        {
+          "quote": "Can you please answer whats going on??😥",
+          "who": "Valerie",
+          "date": "2026-07-03",
+          "note": "Fan Jake calling her 100 times over a $700 call the team sold; 11-min gap felt like abandonment mid-crisis."
+        },
+        {
+          "quote": "Hey guys, I would like to stop this collaboration, can we please count how much money I need to send and disconnect my accounts from Infloww?",
+          "who": "Valerie",
+          "date": "2026-08-18",
+          "note": "Holding reply after 10h; no substantive answer in 8 days; Derrek never replied."
+        }
+      ]
+    },
+    "follow_through": {
+      "severity": 3,
+      "internal_failure": "Traffic was promised four separate times ('end of week one', 'Yes there will be', 'next 48 hrs', 'its live') with no evidence ever produced; the whale list, password change, IG handle, 'another hour' update and 'answer shortly' all silently lapsed.",
+      "evidence": [
+        {
+          "quote": "oh traffic should kick in by end of week one",
+          "who": "Derrek",
+          "date": "2026-06-19",
+          "note": "Client stopped paying for SFS on 6/28 on our instruction; still asking for traffic on 8/10."
+        },
+        {
+          "quote": "Okay thank you for this, I'll create a list for whales and not send them the organic MM's that everyone else receives",
+          "who": "Ollie Mckinlay",
+          "date": "2026-06-30",
+          "note": "She asked for the list 7/1; never delivered, never mentioned again (49 days to churn)."
+        },
+        {
+          "quote": "give me another hour and ill answer you and update you on all of this",
+          "who": "Derrek",
+          "date": "2026-08-10",
+          "note": "Update never came; she quit 8 days later."
+        }
+      ]
+    },
+    "proactive_communication": {
+      "severity": 3,
+      "internal_failure": "In 62 days we never volunteered one stat, screenshot or weekly summary. Every 'update' was a reply to her chasing; the one unprompted message (Derrek 8/1) was a bulk phone-farm template that apologised for 'any lack of communication'. Outbound was invoices, reel inspo, Snap-add and custom requests — asks, not updates. Longest zero-outbound stretch pre-churn: 4 days (8/5-8/9); post-churn 8 days.",
+      "evidence": [
+        {
+          "quote": "Hello, is there any updates on marketing side?",
+          "who": "Valerie",
+          "date": "2026-07-27",
+          "note": "Routed by Mayson to Michelle; answer 20h later: 'the new account takes a few days for warm up'."
+        },
+        {
+          "quote": "My apologies, for any lack of communication. As this has required us to swap out over 200 devices, and over 1000 accounts.",
+          "who": "Derrek",
+          "date": "2026-08-01",
+          "note": "Templated; promised 'plenty of updates starting next week' — none followed."
+        },
+        {
+          "quote": "Can I ask what's going on with the traffic? The results have been getting worse and worse, and it's already been 2 months. When do you think you'll be able to fix this ?",
+          "who": "Valerie",
+          "date": "2026-08-10"
+        }
+      ]
+    },
+    "onboarding_handoff": {
+      "severity": 2,
+      "internal_failure": "Start time was 'in an hour' with no plan; Infloww read-access took 10 days and an email mix-up; the SFS stop-date question sat 9 days; Mayson had to ask Fred in-chat to explain how comms would work; Fred vanished after ~6/22 and Ollie took over 6/26 with no handover announced; fans immediately learned 'you have a team'.",
+      "evidence": [
+        {
+          "quote": "Can you explain to Vicky how does communication between her and the chatters/managers work if they need something from me, such as content, a video, or a voice message on short notice?",
+          "who": "Mayson Chat",
+          "date": "2026-06-19",
+          "note": "Day 3 — comms model not defined at kickoff."
+        },
+        {
+          "quote": "let me know which day you want me to stop my traffic",
+          "who": "Valerie",
+          "date": "2026-06-19",
+          "note": "Answered 6/28 by Ollie ('Yes no more SFS'); queued posts then deleted without warning."
+        },
+        {
+          "quote": "Or you disconnect my accounts from infloww and now we are connecting it again?",
+          "who": "Valerie",
+          "date": "2026-06-27",
+          "note": "Unannounced move to a new Infloww; 'there will be no chatting on the page until then'."
+        }
+      ]
+    },
+    "chatter_conduct": {
+      "severity": 3,
+      "internal_failure": "Mass 'are you single' DMs went to long-standing (some married) whales and broke the persona; a $700 video call was sold with unclear terms and no brief, leaving a fan calling her '100 times' and concluding she has a team; she asked why chatters were 'so aggressive' to her spenders; a chatter no-showed a full day (6/30).",
+      "evidence": [
+        {
+          "quote": "I say you sent them massage \"are you single\" / Some of them i know for a long time and some of them married, so when you ask this they understand that this is not me talking",
+          "who": "Valerie",
+          "date": "2026-06-30"
+        },
+        {
+          "quote": "And also, if you're selling calls, I need to have all information beforehand. Otherwise , I'm not going to do the calls. 🙏🏻 / I need to know exactly what has been promised or what he requested before I get on the call.",
+          "who": "Valerie",
+          "date": "2026-07-09",
+          "note": "Ollie: 'So now he thinks you have a team' (7/3). Call still undelivered at churn; fan asked again 8/1."
+        },
+        {
+          "quote": "Why chatters so aggressive? / To my spenders especially 🙈",
+          "who": "Valerie",
+          "date": "2026-07-06",
+          "note": "Ollie: 'They are old spenders we are pushing again and it's been working well' — no adjustment offered."
+        }
+      ]
+    },
+    "platform_health": {
+      "severity": 2,
+      "internal_failure": "The management IG was 'warming up' from 7/24 and never reported as posting; the whole IG program paused for the phone-farm rebuild (8/1); Vivek was added 7/29 but never engaged; her second OF page (mermaidua) sat at zero new fans for a week and each complaint was closed with a bare 'solved' and no data.",
+      "evidence": [
+        {
+          "quote": "Hi love, the account is currently being warmed up and almost ready as soon as posting start I will send you IG handle 💕",
+          "who": "Michelle Queue",
+          "date": "2026-07-24",
+          "note": "Handle never sent (25 days to churn)."
+        },
+        {
+          "quote": "Hello, on my second page many days no fans @mermaidua",
+          "who": "Valerie",
+          "date": "2026-08-11",
+          "note": "No reply until she re-sent the screenshot 8/12: 'Looking into this for you'."
+        },
+        {
+          "quote": "Hello, is this complaint solved ? → Yes all solved",
+          "who": "Valerie / Ollie Mckinlay",
+          "date": "2026-08-17",
+          "note": "Same-minute assertion, no evidence; she terminated ~18h later."
+        }
+      ]
+    },
+    "billing_ops": {
+      "severity": 2,
+      "internal_failure": "She asked for USDT TRC20 and was given an ERC20 (0x…) address; test-transaction confirmation took 2 days and an @; the Aug 1 invoice needed 3 nudges; the 8/15 invoice changed the account number inline; the final-balance request was answered with a bare file; and the only post-termination message from us is 'please finish out your last invoice'.",
+      "evidence": [
+        {
+          "quote": "Hello, I asked USDT trc 20 / This is not the right one",
+          "who": "Valerie",
+          "date": "2026-07-06",
+          "note": "Stephski had posted '0xceB86A…' — an Ethereum-format address."
+        },
+        {
+          "quote": "Hello, can you please confirm that you responded test transaction 🙏🏻 / And i will send the rest",
+          "who": "Valerie",
+          "date": "2026-07-09",
+          "note": "Confirmed 7/11 15:15 after '@stephskiii' nudge (61h)."
+        },
+        {
+          "quote": "Please note an update to the account number, please try and send using the information on the invoice. Have also attached updated Zelle info",
+          "who": "Stephski",
+          "date": "2026-08-15",
+          "note": "Rail change three days before she quit, to a client who pays crypto."
+        }
+      ]
+    },
+    "ownership_escalation": {
+      "severity": 2,
+      "internal_failure": "Mayson acted as a router ('@ofmfrederick ^^', '@sotom225 ^', '@olkmck ^^', '@stephskiii ^') rather than an owner; traffic — the thing she was leaving over — had no named owner and Derrek answered it only 3 times in 54 days; the Fred→Ollie switch was never announced; the termination was forwarded to billing, not to the owner.",
+      "evidence": [
+        {
+          "quote": "@ofmfrederick ^^",
+          "who": "Mayson Chat",
+          "date": "2026-06-19",
+          "note": "Her 6/18 customs question; Fred replied next day after 'Hello?': 'my apologies I've pinned the chat in a folder now'."
+        },
+        {
+          "quote": "@stephskiii ^",
+          "who": "Mayson Chat",
+          "date": "2026-08-18",
+          "note": "Response to the termination message = tag the invoicing person."
+        },
+        {
+          "quote": "hey love the new account takes a few days for warm up. I reached out to derrek for the baby one to get that posting started on there as well",
+          "who": "Michelle Queue",
+          "date": "2026-07-28",
+          "note": "Internal dependency on Derrek surfaced to the client, then never closed."
+        }
+      ]
+    },
+    "disengagement_detection": {
+      "severity": 3,
+      "internal_failure": "She chased traffic five times (6/28, 7/27, 8/4, 8/10 x2), said results were 'worse and worse', asked 'is this complaint solved?' three times in a week, and her message volume collapsed — no one escalated, no call was offered, and after she quit no owner-level reply was ever made. The follow-up 8 days later is a collections message.",
+      "evidence": [
+        {
+          "quote": "Do you have other traffic ready? / So the page will not go yo 0 fans",
+          "who": "Valerie",
+          "date": "2026-06-28",
+          "note": "First explicit fear of exactly what happened; Ollie: 'Yes there will be'."
+        },
+        {
+          "quote": "Hello, when the traffic is going to work?",
+          "who": "Valerie",
+          "date": "2026-08-10",
+          "note": "Fifth chase; Derrek 'its live … you will see fans coming in late tn' — then mermaidua showed zero fans for a week."
+        },
+        {
+          "quote": "@vallume Hi can you please finish out your last invoice",
+          "who": "Stephski",
+          "date": "2026-08-26",
+          "note": "First message from our side since 8/18; no acknowledgement of the exit, no thank-you, no debrief."
+        }
+      ]
+    },
+    "security_hygiene": {
+      "severity": 3,
+      "internal_failure": "Full OF logins for BOTH accounts were posted in the group in plain text on 7/18 and never rotated; an unexplained third-party login (7/17) and an unexplained Infloww disconnect (7/24) were never investigated or explained; her requests to change passwords (7/5, 7/7, 7/9) were promised 'today' and took 11 days.",
+      "evidence": [
+        {
+          "quote": "@vickycutiee / Login: emmamayn8@gmail.com / Password: / DontPlay285104(?qs",
+          "who": "Valerie",
+          "date": "2026-07-18",
+          "note": "Second account 'mermaidua / vickymerm@gmail.com / !MakingMoney_}*$4825' three minutes later. Still in chat."
+        },
+        {
+          "quote": "Its strange but who did this, you know? / I already deleted it yesterday / Because of it we need to change the passwords for both accounts",
+          "who": "Valerie",
+          "date": "2026-07-17",
+          "note": "Ollie: 'okay when would you like to change them?' — no investigation of the unknown action."
+        },
+        {
+          "quote": "And when can i change password? / Is it possible today or now ? → We will do today",
+          "who": "Valerie / Ollie Mckinlay",
+          "date": "2026-07-07",
+          "note": "Not done; she asked again 7/9 with no reply; finally done 7/18 after the 7/17 incident."
+        }
+      ]
+    }
+  },
+  "metrics": {
+    "method": "Full history 6/17-8/26 (515 non-service msgs, 249 client). client_questions = client messages containing '?'. unanswered_over_24h: automated = next non-client message >24h later (0 — Ollie's snap-add/custom asks mask real gaps); manual = questions with no substantive answer within 24h or never answered (9: 6/26 whale voice notes 30h, 7/1 whale list never, 7/5 USDT correct address 2d, 7/7-7/9 password change 11d, 7/9 test-tx confirm 61h, 7/9 'selfie in arch' never, 8/10 full traffic update never, 8/11 mermaidua 26h, 8/18 termination never substantively). max_team_silence_days = longest gap between consecutive non-client messages. Promises = explicit commitments by our side, judged kept/lapsed by later evidence.",
+    "client_questions_total": 66,
+    "unanswered_over_24h": 9,
+    "unanswered_over_24h_automated": 0,
+    "client_nudges_hello_any_updates": 9,
+    "max_team_silence_days": 8,
+    "max_team_silence_days_pre_churn": 4,
+    "promises_made": 16,
+    "promises_kept": 5,
+    "promises_lapsed": 11,
+    "traffic_chases_by_client": 5,
+    "days_first_traffic_ask_to_termination": 54,
+    "typical_response_lag": "minutes-to-hours when Ollie is online; 20-30h when it needs Fred/Michelle/Derrek; never for anything requiring data",
+    "client_share_of_messages": 0.48
+  },
+  "what_client_wanted": [
+    {
+      "want": "To be shown actual traffic results after she stopped paying for SFS on our instruction",
+      "quote": "Can I ask what's going on with the traffic? The results have been getting worse and worse, and it's already been 2 months. When do you think you'll be able to fix this ?",
+      "date": "2026-08-10"
+    },
+    {
+      "want": "Full briefing before any call or custom is sold on her behalf",
+      "quote": "if you're selling calls, I need to have all information beforehand. Otherwise , I'm not going to do the calls. 🙏🏻 / I need to know exactly what has been promised or what he requested before I get on the call.",
+      "date": "2026-07-09"
+    },
+    {
+      "want": "Her long-time whales protected and the persona kept believable",
+      "quote": "Can you please send me list of Wales that doesn't believe that it is me talking i will send them voice notes / It helps / And can you stop sending mas dms to them for some time, so we can build the trust again",
+      "date": "2026-07-01"
+    },
+    {
+      "want": "Control of her own content and payment rails (Drive in one place, USDT TRC20)",
+      "quote": "I want to keep my content all at one place",
+      "date": "2026-07-20"
+    }
+  ],
+  "what_worked": [
+    {
+      "moment": "Same-hour Infloww face-verification on day 1 — she was live within 3 hours of the intro",
+      "quote": "Success / Let me know if you in",
+      "who": "Valerie",
+      "date": "2026-06-17"
+    },
+    {
+      "moment": "Ollie turned a $500 spender's request into a delivered voice note inside 20 minutes",
+      "quote": "Can you send him a voicenote or video doing as he asked please 🙏🏼 → [voice] → Don't worry I've sent it now → Thank you",
+      "who": "Ollie Mckinlay / Valerie",
+      "date": "2026-07-05"
+    },
+    {
+      "moment": "Derrek's one long, honest, specific update was received well — proof that detail buys patience",
+      "quote": "Thank you for an update",
+      "who": "Valerie",
+      "date": "2026-08-01"
+    },
+    {
+      "moment": "She stayed cooperative and paid every invoice (3/3) despite everything, and even volunteered to settle up on exit",
+      "quote": "can we please count how much money I need to send",
+      "who": "Valerie",
+      "date": "2026-08-18"
+    }
+  ],
+  "churn_timeline": [
+    {
+      "date": "2026-06-19",
+      "event": "She asks how long to keep paying for SFS; Derrek: 'traffic should kick in by end of week one'. She asks which day to stop — no answer for 9 days.",
+      "internal_failure_or_signal": "First traffic promise: no owner, no date, no metric."
+    },
+    {
+      "date": "2026-06-26",
+      "event": "Fans on Snap doubt it's her; she asks for voice notes to top fans; 30h later 'Why when i ask no one answer 👀'. 6/28 Ollie tells her to stop SFS and deletes her queued posts; 'Do you have other traffic ready? So the page will not go yo 0 fans' → 'Yes there will be'.",
+      "internal_failure_or_signal": "Persona break plus first 'nobody answers' complaint (day 9); we removed her only traffic source with nothing shown in its place."
+    },
+    {
+      "date": "2026-06-30",
+      "event": "No chatters on the page all day; she reports 'are you single' DMs to married whales; Ollie promises a whale list (asked for again 7/1).",
+      "internal_failure_or_signal": "Coverage gap plus whale damage; the whale list was never delivered and never mentioned again."
+    },
+    {
+      "date": "2026-07-03",
+      "event": "Fan Jake calls her '100 times' over a $700 call the team sold without briefing her; 'So now he thinks you have a team'. 7/9: 'if you're selling calls, I need to have all information beforehand. Otherwise, I'm not going to do the calls.'",
+      "internal_failure_or_signal": "Sales without briefing; conditional refusal of core service; call never delivered (fan still asking 8/1)."
+    },
+    {
+      "date": "2026-07-06",
+      "event": "Wrong-format crypto address; 'Why chatters so aggressive? To my spenders especially 🙈'; password change promised 'today' (7/7), done 7/18 only after an unexplained third-party login on 7/17 — both OF passwords then posted in chat.",
+      "internal_failure_or_signal": "Billing error, tone complaint dismissed, commitment lapsed, no security incident review — trust hits stacking with no owner noticing."
+    },
+    {
+      "date": "2026-07-27",
+      "event": "'any updates on marketing side?' → 'takes a few days for warm up… reached out to derrek'. 8/1 Derrek's phone-farm template ('apologies for any lack of communication', 'plenty of updates starting next week'). 8/4 'how is it going with traffic, any news?' → 'up and running in the next 48 hrs'.",
+      "internal_failure_or_signal": "Chases 2 and 3; two more dates, still zero data; the promised updates never arrived."
+    },
+    {
+      "date": "2026-08-10",
+      "event": "'The results have been getting worse and worse, and it's already been 2 months.' Derrek: 'give me another hour… its live… you will see fans coming in late tn'.",
+      "internal_failure_or_signal": "Chases 4-5 with explicit frustration; the 'another hour' update never came; nobody offered a call."
+    },
+    {
+      "date": "2026-08-11",
+      "event": "mermaidua screenshot 'many days no fans' — no reply until re-sent 8/12 ('Looking into this'); 8/14 'Is this one been solved?' → 'Yes that one was solved'. 8/15 invoice arrives with a changed account number and new Zelle info.",
+      "internal_failure_or_signal": "Complaint closed by assertion the day after 'its live'; a rail change lands on a frustrated crypto-paying client."
+    },
+    {
+      "date": "2026-08-17",
+      "event": "05:51 'Hello, is this complaint solved ?' → same minute 'Yes all solved'. 23:58 'is it possible for you to count from 1st- 18th ?'",
+      "internal_failure_or_signal": "Third 'is it solved' in 6 days answered with no evidence; the recut-period request was the exit tell and nobody read it."
+    },
+    {
+      "date": "2026-08-18",
+      "event": "00:00 'Hey guys, I would like to stop this collaboration…'. Mayson tags Stephski; 'I'll get you an answer shortly'; Stephski 'one sec' + file. Next team message is 8/26: 'can you please finish out your last invoice'.",
+      "internal_failure_or_signal": "Termination routed to billing; no owner reply, no call, no retention attempt; $1,700 of fan money (Jake $700, pfizzington $1,000) still sits against undelivered work."
+    }
+  ],
+  "warning_signs_missed": [
+    "Day 9: 'Why when i ask no one answer 👀' — the client had already diagnosed our responsiveness problem in week two.",
+    "6/28: 'So the page will not go yo 0 fans' — she named the exact failure mode two days after being told to cut paid traffic; nobody put a date, owner or number against the replacement.",
+    "Five traffic chases (6/28, 7/27, 8/4, 8/10 x2), each answered with a new date and never a figure; on 8/10 she explicitly said 'worse and worse… 2 months'.",
+    "7/9: 'Otherwise, I'm not going to do the calls' — a conditional refusal of core service is a churn signal, not a process note.",
+    "Whale-trust requests (6/26, 6/30, 7/1) — the single promise that would have protected her revenue base was made and dropped.",
+    "'Is this one been solved?' (8/14) then 'Hello, is this complaint solved ?' (8/17): a client asking for the third time is checking whether to stay; both were answered with 'solved' and no screenshot.",
+    "Message volume fell from 36→10/week and hers from 14→3 in the final week; 8/17 23:58 'count from 1st- 18th' was a two-minute-warning that the period was being closed out.",
+    "Derrek's last message before the exit was 'Perfect thank you' (8/12) — the owner was absent from the account's final week."
+  ],
+  "top_fix": "Never remove a client's existing traffic source without a written replacement plan that names an owner, a start date and the number we will report weekly — and then report that number every week whether it is good or bad. Vicky chased five times over 54 days and was given four dates and zero data; a single honest weekly 'new fans this week: X' (even X=0) with a call offer would have either fixed the problem or let her leave with trust intact."
+}

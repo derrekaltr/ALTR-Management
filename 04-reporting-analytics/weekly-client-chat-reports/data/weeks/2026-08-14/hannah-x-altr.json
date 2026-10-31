@@ -1,0 +1,73 @@
+{
+  "client": "Hannah",
+  "slug": "hannah-x-altr",
+  "week_ending": "2026-08-14",
+  "summary": "Zero messages in the chat this week from either side — the first fully silent week since the group was created. Hannah (Bella) churned on 2026-07-06 and has now been silent for 39 days. ALTR also stopped chasing: after Stephski's two unanswered requests for final earning statements on 8/2 and 8/4, nobody followed up at all during this window, so the final 7/1-7/7 invoice is still unissued and the remaining balance she promised on exit is still uncollected. This is no longer a client-care account; it is an open collections item that went untouched for a week.",
+  "health": {
+    "score": 8,
+    "trend": "down",
+    "rationale": "Client churned 7/6 and remains unresponsive at 39 days. Score drops from 10 because ALTR made no collection attempt at all this week, letting the only remaining recoverable value (final invoice + promised balance) age another 7 days with no owner driving it."
+  },
+  "reminders": [],
+  "complaints": [
+    {
+      "issue": "Client churn: announced on 7/6 she was taking her account independent, and has not sent a single message since. Carried forward unresolved; no win-back or exit conversation has been attempted.",
+      "status": "recurring",
+      "first_raised": "2026-07-06",
+      "owner": null,
+      "quotes": [
+        {"quote": "Hey guys I really appreciate working with you but I’m going to take over my account and work independently, I just sent the most recent wire and I’m going to wait for the rest of the money to transfer to pending for the next payout & will send that your way.", "who": "Bells Vale Referral", "date": "2026-07-06"}
+      ]
+    }
+  ],
+  "commitments": [
+    {
+      "what": "Send remaining balance owed to ALTR once final OF payout clears",
+      "who": "Hannah (client)",
+      "date": "2026-07-06",
+      "status": "overdue",
+      "days_overdue": 39,
+      "quotes": [
+        {"quote": "I just sent the most recent wire and I’m going to wait for the rest of the money to transfer to pending for the next payout & will send that your way.", "who": "Bells Vale Referral", "date": "2026-07-06"}
+      ]
+    },
+    {
+      "what": "Issue final invoice for 7/1-7/7 (blocked on client providing earning statements; no further attempt made this week)",
+      "who": "Stephski",
+      "date": "2026-08-02",
+      "status": "overdue",
+      "quotes": [
+        {"quote": "can you shoot over your final earning statements for 7/1-7/7? So we can issue our final invoice for you ❤️", "who": "Stephski", "date": "2026-08-02"},
+        {"quote": "Just making sure you saw this 🙏", "who": "Stephski", "date": "2026-08-04"}
+      ]
+    }
+  ],
+  "payments": [
+    {
+      "note": "No movement this week. Final invoice for 7/1-7/7 still unissued and the remaining balance promised on exit is still unpaid at 39 days. Two chat nudges (8/2, 8/4) went unanswered and no further contact was attempted in this window — the chat channel is effectively dead and nobody has escalated off it.",
+      "date": null,
+      "late": true,
+      "reason": "Client churned 2026-07-06 and is unresponsive; ALTR made no collection attempt during this window",
+      "suggested_fix": "Stop treating this as a chat thread. Reconstruct 7/1-7/7 earnings from ALTR-side records (the team held OF access until handover), issue the final invoice unilaterally, and have Derrek contact her directly or route through Vale, who referred her. Set a decision date after which it is written off.",
+      "quotes": [
+        {"quote": "Just making sure you saw this 🙏", "who": "Stephski", "date": "2026-08-04"}
+      ]
+    }
+  ],
+  "client_priorities": [
+    "Clean exit: she said she would pay the remaining balance after her final OF payout",
+    "Pre-churn: leak/DMCA takedowns, growing TikTok/IG, and not being billed on earnings from her self-run lives"
+  ],
+  "suggestions": [
+    "Assign a named owner and a deadline to this collection — it has now aged a full week with nobody on it. Unowned collections do not collect themselves.",
+    "Issue the final 7/1-7/7 invoice from ALTR's own earnings records rather than waiting on statements she is never going to send.",
+    "Escalate off Telegram: direct contact from Derrek, or an intro through Vale (her referrer), is the only channel with a realistic chance of a reply.",
+    "Capture the exit reasons for the retention playbook — slow week-1 subs, a billing dispute over self-run live earnings, three bank/rail changes in five weeks, and slow leak takedowns. Three of those four recur in this week's other accounts."
+  ],
+  "wins": [],
+  "week_stats": {
+    "messages": 0,
+    "client_messages": 0,
+    "team_messages": 0
+  }
+}

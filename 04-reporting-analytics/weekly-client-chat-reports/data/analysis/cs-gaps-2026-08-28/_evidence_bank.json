@@ -1,0 +1,3158 @@
+{
+  "responsiveness": [
+    {
+      "client": "Alanna",
+      "severity": 2,
+      "failure": "We answer fast when the client asks a question that flatters us and slowly or never when she gives us an instruction — her 8/19 'stop chatting' has now gone 9 days unanswered through five subsequent ALTR messages.",
+      "evidence": [
+        {
+          "quote": "Forgot to say I’m on live on my vip page so maybe stop chatting",
+          "who": "Alanna<3",
+          "date": "2026-08-19"
+        },
+        {
+          "quote": "Sorry for the late notice but I had planned to release this scene today Monday 7pm with the other creator so if someone can send it out whenever that’ll be great",
+          "who": "Alanna<3",
+          "date": "2026-08-03"
+        }
+      ]
+    },
+    {
+      "client": "Alex Paige Moore",
+      "severity": 2,
+      "failure": "Our median first-reply time is under an hour and 72% of her questions get some response within 6 hours — but the questions that actually matter to her (revenue, payment receipts, chatter safety, promo status) are the ones that need three and four nudges, and she has had to escalate to bare punctuation and 'I need a response' to get attention. Six questions went past 24h with no substantive reply and at least three were never answered at all.",
+      "evidence": [
+        {
+          "quote": "Guys? / I need a response / I would like a response",
+          "who": "Alex Paige",
+          "date": "2026-05-26"
+        },
+        {
+          "quote": "Did you recieve the above transactions … ?? … Have you received it … ??",
+          "who": "Alex Paige",
+          "date": "2026-05-05"
+        }
+      ]
+    },
+    {
+      "client": "Amber Haze",
+      "severity": 3,
+      "failure": "We answer fast and answer nothing. Median first-touch is quick (Mayson replied to 'Campaign ?' in 22 seconds) but ~11 substantive questions across the history went >24h or were never answered on-topic, and she has typed 12 bare nudges ('?', '??', 'Hey?', 'Hello anyone going to reply?') to get a human. Two Aug 2 questions — both about her money and both asked in direct reply to Derrek's own offer — are 26 days old with nobody from ALTR having typed a word about them.",
+      "evidence": [
+        {
+          "quote": "Roughly how much would my share of the cost be if I ever needed a higher level rep? What exactly does it cover, and do you think it’s something that’s important or worthwhile for my account, or is it more of an optional extra?",
+          "who": "Kirsten (amber Haze)",
+          "date": "2026-08-02"
+        },
+        {
+          "quote": "Hello anyone going to reply?",
+          "who": "Kirsten (amber Haze)",
+          "date": "2026-07-24"
+        }
+      ]
+    },
+    {
+      "client": "Barbara",
+      "severity": 3,
+      "failure": "We reply fast but answer slowly: roughly 17 of ~45 client asks went past 24h or were never answered at all, and she has had to nudge herself on almost every important one — the pattern is an instant acknowledgement from a chatter account followed by no substantive reply from the person who actually owns the topic.",
+      "evidence": [
+        {
+          "quote": "Hey guys, if i have any questions regarding anything who would be the right person to reach out to from the group? ... Following up here",
+          "who": "Barb Brazil (asked 16:27, had to self-nudge at 18:49; Derrek answered 20:27)",
+          "date": "2026-07-26"
+        },
+        {
+          "quote": "hey guys just checking in any updates with all the new changes happening? 😊 -> Yo Ma'am",
+          "who": "Barb Brazil / Vivek (the only reply she got)",
+          "date": "2026-08-06"
+        }
+      ]
+    },
+    {
+      "client": "Chey Mai",
+      "severity": 2,
+      "failure": "Her direct question about payment rails was answered with 'let me check' and then never answered at all in 46 days, and the one platform problem she ever raised unprompted sat 29 hours before anyone looked at it.",
+      "evidence": [
+        {
+          "quote": "Do you guys have PayPal",
+          "who": "Cheyene Burridge",
+          "date": "2026-07-13"
+        },
+        {
+          "quote": "Let me check on that for you",
+          "who": "Stephski",
+          "date": "2026-07-13"
+        }
+      ]
+    },
+    {
+      "client": "Haileigh Cox",
+      "severity": 3,
+      "failure": "We routinely let her direct questions die: at least 13 questions over the history got no substantive answer ever (2/16 'no one has been on my account', 3/25 outdoor-scene price, 3/26 and 4/8 and 4/12 fan/account screenshots, 6/4 and 6/16 and 7/9 payment-receipt asks, 6/17 OF album, 7/29 shadowban), and the ones we do answer often need two or three nudges from her plus an internal @tag before someone picks them up.",
+      "evidence": [
+        {
+          "quote": "Who do I reach out to for general messages here. I feel like every time i reach out it's either super delayed or just no response at all.",
+          "who": "Hailey Client",
+          "date": "2026-03-22"
+        },
+        {
+          "quote": "Who should i address for these? Cause no one ever responds when i send them here",
+          "who": "Hailey Client",
+          "date": "2026-04-22"
+        }
+      ]
+    },
+    {
+      "client": "Hannah",
+      "severity": 2,
+      "failure": "Whoever was online acknowledged fast, but anything that needed a second person took 1-6 days or died on the vine: the paid-promo question was never answered at all, the Zelle email took ~26h and was then wrong, and the billing dispute sat 6 days after 'let me work with the team'.",
+      "evidence": [
+        {
+          "quote": "Hey! Derrek had mentioned some paid promo that you guys do and I see there's a folder for that, what do I put in there and what is being promoted?",
+          "who": "Bells Vale Referral (client)",
+          "date": "2026-06-02",
+          "note": "Mica answered with a hand-off tag, '@sotom225 will reach out to you soon on how to get started on that :)'. Nobody ever did, in the remaining 34 days."
+        },
+        {
+          "quote": "I don't see an email",
+          "who": "Bells Vale Referral (client)",
+          "date": "2026-06-03",
+          "note": "Answered 2026-06-04 20:03 (~26h) with 'Apologies here it is' + the ALTR payments address. On 6/10 she reported that address did not work either."
+        }
+      ]
+    },
+    {
+      "client": "Kaitlynn",
+      "severity": 3,
+      "failure": "We reply within minutes when she praises us and never when she asks us for something: her offer of an 'I'm back' voice memo has gone 21 days without a yes or a no, her request for a call got 'let me know what time works', she gave her availability the same minute, and no time was ever proposed in the 14 days since; her invoicing-cadence question is 11 days unanswered even though two people replied to the adjacent praise message that same hour.",
+      "evidence": [
+        {
+          "quote": "Also if y’all want should I send out a voice memo or cute video being like I’m backkkkk baby blah blah blah",
+          "who": "Kaitlynn Anderson Koda",
+          "date": "2026-08-07"
+        },
+        {
+          "quote": "I will be available anytime after 12:30 Eastern time :)",
+          "who": "Kaitlynn Anderson Koda",
+          "date": "2026-08-14"
+        }
+      ]
+    },
+    {
+      "client": "Lauren Blake",
+      "severity": 2,
+      "failure": "Transactional asks get answered in minutes, but every substantive question either sits past 24h or only moves after she repeats it or after Mayson pages the account manager; nine of her asks over the full history went >24h without a substantive answer and the trial-reel question took 29 days and a re-ask.",
+      "evidence": [
+        {
+          "quote": "Hi babe! What's the status of the IG page and the promos being posted? Also, I was told someone was going to be doing all the trial reel posting on my account. How do we get that going?",
+          "who": "Lauren Blake (answered 'going to get an update for you' the next day; the actual answer came 29 days later)",
+          "date": "2026-07-20"
+        },
+        {
+          "quote": "Did we do this?",
+          "who": "Lauren Blake (re: the livestream poll she requested on Aug 14; no acknowledgement for 3.9 days until she re-asked)",
+          "date": "2026-08-18"
+        }
+      ]
+    },
+    {
+      "client": "Lauryn",
+      "severity": 2,
+      "failure": "Day-to-day reply speed is genuinely good (usually minutes to a few hours), but the messages that actually mattered - direct tags to the owner, and her final payment/churn message - were left hanging for days or never answered at all.",
+      "evidence": [
+        {
+          "quote": "Great Morning @ofwizz / All the steps are completed / Let me know about login",
+          "who": "LA Client",
+          "date": "2026-08-15"
+        },
+        {
+          "quote": "Kk @ofwizz chime in / Followed those steps that were given",
+          "who": "LA Client",
+          "date": "2026-08-15"
+        }
+      ]
+    },
+    {
+      "client": "Lilia",
+      "severity": 2,
+      "failure": "Our median first reply is fast (~17 min), but on the categories that carry money and risk we go silent until a queue-account chatter escalates internally or the client nudges three or four times.",
+      "evidence": [
+        {
+          "quote": "Dir u check!! / Did u",
+          "who": "Lilia",
+          "date": "2026-08-18"
+        },
+        {
+          "quote": "Did I end up being shadowbanned",
+          "who": "Lilia",
+          "date": "2026-08-23"
+        }
+      ]
+    },
+    {
+      "client": "Liza Kovalenko",
+      "severity": 3,
+      "failure": "Median first reply is fast (~1.6h) but we are slowest exactly where it matters most: her 2026-08-19 report of $7,433 in wires with three screenshots sat unacknowledged for 6 days until she chased, her chase then waited another 31h, and her final three messages disclosing that the wires bounced were still unanswered 37h later. Non-billing questions in the OF and Social topics routinely go 2-7 days or are never answered at all, forcing '?', 'hello？' and '@Atxnickkk any updates?' nudges.",
+      "evidence": [
+        {
+          "quote": "Hey! I have sent two more wires 7k total / Couple days ago / Pls confirm if you guys received those too thank you",
+          "who": "Eli",
+          "date": "2026-08-25"
+        },
+        {
+          "quote": "Also, I texted regarding OF collab but no one replied, who I can arrange it with?",
+          "who": "Eli",
+          "date": "2026-01-16"
+        }
+      ]
+    },
+    {
+      "client": "Mila",
+      "severity": 3,
+      "failure": "The first service question she ever asked us was never answered at all, and on money she has repeatedly had to chase us — a 25-hour wait for a due date, a 28-hour wait after asking whether her payment arrived, and a bare '?' to restart a stalled thread.",
+      "evidence": [
+        {
+          "quote": "Hey guys my accounts been suspended again, I haven’t clicked appeal this time as you said not to, so what happens now x",
+          "who": "Callie (Mila)",
+          "date": "2026-06-23"
+        },
+        {
+          "quote": "Has it been received ??",
+          "who": "Callie (Mila)",
+          "date": "2026-07-12"
+        }
+      ]
+    },
+    {
+      "client": "Paige",
+      "severity": 2,
+      "failure": "Meta support replies in five to seven minutes on a good day and 97 minutes plus an overnight stall on a bad one, with no SLA and no backup — and on 8/27 a chatter had to publicly tag him to restart a ticket that had been sitting since the previous morning. The one commitment to come back to her ('will update shortly', 8/14) was never honoured.",
+      "evidence": [
+        {
+          "quote": "@fonta",
+          "who": "Paige (Chey Ref)",
+          "date": "2026-08-26"
+        },
+        {
+          "quote": "@fonta ^",
+          "who": "Mayson Chat",
+          "date": "2026-08-27"
+        }
+      ]
+    },
+    {
+      "client": "Sarah Lloyd",
+      "severity": 2,
+      "failure": "Acknowledgement is genuinely fast when an AM is online (median first reply ~10 minutes), but roughly eleven asks never got an on-topic answer inside 24h and three were never answered at all — the Jul 11 Meta request (18 days), the Aug 14 livestream-promo MM, and the one-set-per-sexting-session request first made Jun 13 and repeated verbatim Aug 19 (76 days, never once acknowledged by anyone). The MM-variety complaint took roughly eight nudges across three weeks, and she had to invent her own escalation ritual of tagging two AMs at once.",
+      "evidence": [
+        {
+          "quote": "Hey! Any confirmation that this has been seen pls?? @natehei @roflo1424",
+          "who": "Sarah Lloyd",
+          "date": "2026-07-17"
+        },
+        {
+          "quote": "Thanks, pls make sure they actually fix it this time too :) makes me feel lowkey crazy having to ask the same thing every day",
+          "who": "Sarah Lloyd",
+          "date": "2026-07-14"
+        }
+      ]
+    },
+    {
+      "client": "Sarah",
+      "severity": 2,
+      "failure": "Median first reply is fast (well under an hour) but roughly 1 in 6 of her questions sat past 24h, several needed two or three bumps, and she has learned to pre-apologise before asking - which is the real cost.",
+      "evidence": [
+        {
+          "quote": "Heard anything? So sorry to keep pestering I just wish the turnover time for getting accounts back were quicker! 🤣😩",
+          "who": "Sarah H",
+          "date": "2025-12-04"
+        },
+        {
+          "quote": "Hey guys sorry to be annoying! Any update on the where to put the custom videos. I don’t want the subs to get mad!",
+          "who": "Sarah H",
+          "date": "2026-07-25"
+        }
+      ]
+    },
+    {
+      "client": "Shayna",
+      "severity": 3,
+      "failure": "Our replies are bimodal - minutes when Fred is at his desk, days-to-never when he is not - so she routinely has to nudge two or three times for the same answer, and 16 of ~112 client asks waited over 24h or were never answered at all, including her 8/7 'does this fan have a custom' question (21 days, chased twice, still open) and her 8/18 question about the new Zelle daily cap (8 days, never answered, and it made the invoice late).",
+      "evidence": [
+        {
+          "quote": "Hi, please look into this if this guy has a custom (chased 8/9 'Also an update on this when you can would be appreciated' and 8/10 'Hi, I please have updates on these things?' - never answered, 21 days)",
+          "who": "Shayna Holt",
+          "date": "2026-08-07"
+        },
+        {
+          "quote": "Can someone answer in the chat all my messages are just left on seen 🥲 (Fred's fix, 45 min later: 'I've re-worked my Telegram organisation so it's easier to navigate to the group')",
+          "who": "Shayna Holt",
+          "date": "2026-08-11"
+        }
+      ]
+    },
+    {
+      "client": "Vale",
+      "severity": 2,
+      "failure": "Our typical lag is genuinely good (median 0.7h to the next our-side message), but the questions that actually block her or protect her get dropped: pre-call fan notes she asked for on Aug 7 were never sent (21 days), her Aug 3 pre-live prep questions were never answered, and a blocking question on a $2,200 order took ~37h and made her apologise for a delay that was ours.",
+      "evidence": [
+        {
+          "quote": "I have a call with him tomorrow at 11 on only fans / Can you guys tell me what you have on him on your notes ?",
+          "who": "Vale",
+          "date": "2026-08-07"
+        },
+        {
+          "quote": "Anything I should know before the live ? / How many minutes and what he wants ?",
+          "who": "Vale",
+          "date": "2026-08-03"
+        }
+      ]
+    },
+    {
+      "client": "Vicky",
+      "severity": 2,
+      "failure": "Reply speed was fine; answer speed was not. Someone almost always responded within hours, which is why the automated >24h test returns zero - but she still had to write 'Hello?', 'Are you here?' and 'Why when i ask no one answer' to get movement on the things that mattered, and several questions were replied to without ever being answered.",
+      "evidence": [
+        {
+          "quote": "what about this? Why when i ask no one answer",
+          "who": "Valerie (client)",
+          "date": "2026-06-27",
+          "note": "Her 6/26 whale/persona question had sat for over a day across a silent staff handover. She had to re-point at her own message to get it read."
+        },
+        {
+          "quote": "Hey / @olkmck / Are you here?",
+          "who": "Valerie (client)",
+          "date": "2026-07-17",
+          "note": "Three messages, six hours, then 'Apologies been on a flight'. There was no cover for the account manager at any point in the engagement."
+        }
+      ]
+    }
+  ],
+  "follow_through": [
+    {
+      "client": "Alanna",
+      "severity": 3,
+      "failure": "Five explicit promises silently lapsed — the 8/4 release send-out was never confirmed, Derrek's weekly DMCA reports have delivered 0 of 2 cycles in 16 days, Ollie's 'push heavy' on customs was never reported back, the IG takedown was never closed out, and Mica's promised weekly creative ideas never started.",
+      "evidence": [
+        {
+          "quote": "Absolutely ill get this sent out in the next few hours - just cleaning up your OF page with the campaigns",
+          "who": "Ollie Mckinlay",
+          "date": "2026-08-04"
+        },
+        {
+          "quote": "You will get weekly reports",
+          "who": "Derrek",
+          "date": "2026-08-12"
+        }
+      ]
+    },
+    {
+      "client": "Alex Paige Moore",
+      "severity": 3,
+      "failure": "We routinely answer with an intention rather than a commitment — 'let me check', 'I'll reach back shortly', 'gameplan coming', 'posting will start this week' — and then nothing happens and nobody tracks it. Of 38 promises our side made in this chat, 26 lapsed silently. The single worst is the Adelaide content day we told her was booked and confirmed; it never happened and she had to ask about it three separate times over three months before it was quietly dropped.",
+      "evidence": [
+        {
+          "quote": "Also confirming your content day in Adelaide is locked in for Monday, 3rd November from 10 a.m.–2 p.m.. We'll have a videographer working with you for 3 hours to collate around 200 IG reels",
+          "who": "Sophie Logan (Raw Agency)",
+          "date": "2025-09-23"
+        },
+        {
+          "quote": "Have you guys found a videographer to do the bulk content in Australia so you have plenty. I don't have a PA anymore to film me so it makes it harder",
+          "who": "Alex Paige",
+          "date": "2025-12-11"
+        }
+      ]
+    },
+    {
+      "client": "Amber Haze",
+      "severity": 3,
+      "failure": "21 of 36 trackable commitments lapsed, and the pattern is that a promise is made in the moment to close a conversation and then never revisited. The growth commitments sold at signing and restated 2026-05-21 (paid push on every third reel, a few thousand into month-end boosting, 'should move very quickly') never produced a visible number in 120 days; 'plenty of updates starting next week' (Aug 1) is 27 days old with one uncaptioned screenshot as its entire output; the Moggy damage control promised twice on Aug 7 was never confirmed in 21 days; Vivek's 'Will check' is 14 days old; the Wesley anniversary flowers video (due Aug 11) and 5-part custom/sexting session (due Aug 14) have zero trace in the chat 17 and 14 days later.",
+      "evidence": [
+        {
+          "quote": "Thank you for your understanding, we will have plenty of updates starting next week.",
+          "who": "Derrek",
+          "date": "2026-08-01"
+        },
+        {
+          "quote": "The third reel will have paid ads / and then every 3 reels / will have a paid push. Unless one is doing really good",
+          "who": "Derrek",
+          "date": "2026-05-21"
+        }
+      ]
+    },
+    {
+      "client": "Barbara",
+      "severity": 3,
+      "failure": "We made ~31 explicit commitments to this client and lapsed 18 of them; none was ever chased by us, every one that got closed got closed because she asked again. Nothing on this account is tracked outside the chat, so a promise dies the moment the message scrolls away.",
+      "evidence": [
+        {
+          "quote": "I'll create you 3 different versions tiktok/twitter/instagram",
+          "who": "Mayson Chat (never built; 28 days later she had to ask 'can u resend me the domain?' and was handed a bare domain)",
+          "date": "2026-07-31"
+        },
+        {
+          "quote": "your backup account for IG reels is currently being warmed up as soon as it's ready next week I will send you the @ name babes 💕",
+          "who": "Michelle Queue (27 days; she referenced it again on Aug 24 as 'a new IG')",
+          "date": "2026-08-01"
+        }
+      ]
+    },
+    {
+      "client": "Chey Mai",
+      "severity": 3,
+      "failure": "Almost every commitment made to this client has lapsed: the 'always online, always a prompt response' pledge, the previous-team unlink coordination, the PayPal answer, the Copyright Ban Protection setup via Vivek, and Derrek's promised phone-farm rollout updates — 27 days past the week he named.",
+      "evidence": [
+        {
+          "quote": "I'm always online so I will get a response to your promptly... ALWAYS!!!",
+          "who": "Mayson Chat",
+          "date": "2026-06-22"
+        },
+        {
+          "quote": "Thank you for your understanding, we will have plenty of updates starting next week.",
+          "who": "Derrek",
+          "date": "2026-08-01"
+        }
+      ]
+    },
+    {
+      "client": "Haileigh Cox",
+      "severity": 3,
+      "failure": "Our house reply is 'let me check / working on it / will keep you updated' and then nothing — roughly 28 of ~42 commitments in the history lapsed with no closure, including the account-manager reach-out, the OF tag glitch, the girthmaster teaser, the .vip domain fix, three separate payment-receipt confirmations, the promised weekly call, the bi-weekly performance report, and the phone-farm rollout updates.",
+      "evidence": [
+        {
+          "quote": "Working on it  [Mayson's only reply to 'One of my accounts already hit a restriction with it'; he then said nothing for 75 days until 8/27]",
+          "who": "Mayson Chat",
+          "date": "2026-06-14"
+        },
+        {
+          "quote": "This is a glitch in the system, it randomly adds the hashtags to random videos, we have contacted support to fix that error, others have experienced this too. Will definitely keep you updated  [first raised 2025-09-08; never updated, still formally open 354 days later]",
+          "who": "Joseph H",
+          "date": "2026-03-22"
+        }
+      ]
+    },
+    {
+      "client": "Hannah",
+      "severity": 3,
+      "failure": "We made small, easy promises constantly and dropped roughly half of them silently. The client, not us, discovered the failures: she caught that 13 voice notes had never been processed, and she twice had to report that leaks we had declared removed were still live.",
+      "evidence": [
+        {
+          "quote": "Hey @ofmfrederick were you able to get those voice memos in!",
+          "who": "Bells Vale Referral (client)",
+          "date": "2026-06-11",
+          "note": "Fred: 'Just checked the voice notes didn't process, redone them now so they're all up, thanks for pointing out!!!' Three days of dead assets, found by the client."
+        },
+        {
+          "quote": "hi Bella! we've reached out to some photographers in orlando so we can get you covered on that end - following up with them now :)",
+          "who": "Mica Vecco",
+          "date": "2026-06-08",
+          "note": "Response to her 6/4 request for the Miami/Orlando shoot Derrek had pitched. Never mentioned again by anyone, by either side, for the remaining 28 days."
+        }
+      ]
+    },
+    {
+      "client": "Kaitlynn",
+      "severity": 3,
+      "failure": "The call was accepted and never scheduled, her named Aug 19 content milestone was never acknowledged before, on, or after the date, the owner's 'coupon' for the $91 wire shortfall was never issued or referenced again, and the Social Media Director's promised weekly creative ideas have produced exactly zero sends since her 8/11 introduction.",
+      "evidence": [
+        {
+          "quote": "Hey Kaitlynn would love to hop on a call yes. Let me know what time works?",
+          "who": "Mayson Chat",
+          "date": "2026-08-14"
+        },
+        {
+          "quote": "all content uploaded aug 19th is brand new never sold. go crazy!!",
+          "who": "Kaitlynn Anderson Koda",
+          "date": "2026-08-07"
+        }
+      ]
+    },
+    {
+      "client": "Lauren Blake",
+      "severity": 3,
+      "failure": "Eleven of the twenty-two commitments we made in this chat were never closed, and the oldest is 27 days: phone-farm updates (Derrek, 27d), written chatter-boundary confirmation (Ollie, 26d), Meta ad-stats call (Derrek, 25d), whale-reactivation report (Ollie, 21d), corrected banking details (Stephski, 13d), CodyBeebs proof screenshot (Ollie, 10d), livestream re-booking (7d), OnlyFans-stories confirmation (Michelle, 6d). Nobody on our side has ever gone back and closed a promise in writing unprompted.",
+      "evidence": [
+        {
+          "quote": "Thank you for your understanding, we will have plenty of updates starting next week.",
+          "who": "Derrek (zero updates posted in the 27 days since)",
+          "date": "2026-08-01"
+        },
+        {
+          "quote": "You're welcome! Derreks going to give you a ring and walk you through your current ad stats",
+          "who": "Stephski (she replied 'Tell him to call tomorrow pls'; the call has never happened, 25 days)",
+          "date": "2026-08-03"
+        }
+      ]
+    },
+    {
+      "client": "Lauryn",
+      "severity": 3,
+      "failure": "We promised recurring deliverables at onboarding - a fortnightly report and 14-day game plan, Facebook monetisation, a live-results dashboard, bi-weekly content ideas, weekly calls - and shipped most of them exactly once, then let them silently die without ever telling her.",
+      "evidence": [
+        {
+          "quote": "This is your first report and game plan with us... Moving forward, you'll receive a report every two weeks along with a tailored 14-day game plan.",
+          "who": "Sophie Logan (Raw Agency)",
+          "date": "2025-09-23"
+        },
+        {
+          "quote": "The team will enable FB monetisation in the next few weeks-one month",
+          "who": "Sophie Logan (Raw Agency)",
+          "date": "2025-09-17"
+        }
+      ]
+    },
+    {
+      "client": "Lilia",
+      "severity": 3,
+      "failure": "Fred answers instructions with 'will inform the team' and then nothing happens and nothing is reported back; roughly 20 of ~34 commitments made to this client silently lapsed, including the top one, 35 days old.",
+      "evidence": [
+        {
+          "quote": "it's the same chatter who's letting the side down so I will take them off your account!",
+          "who": "fred SPITFIRE (chatter never named, removal never confirmed, and the same failure recurred on Aug 14 and Aug 23)",
+          "date": "2026-07-24"
+        },
+        {
+          "quote": "Amazing - will inform team, thank you",
+          "who": "fred SPITFIRE (accepted shower/dildo custom at $100/min - never priced, never sold, never mentioned again by anyone in 17 days)",
+          "date": "2026-08-11"
+        }
+      ]
+    },
+    {
+      "client": "Liza Kovalenko",
+      "severity": 3,
+      "failure": "We promise freely and close nothing: 17 of ~29 explicit commitments lapsed with no delivery and no follow-up. The paid Instagram ads summary Derrek promised twice — for a service she paid an extra 5% for — is 283 days overdue; 'last change I promise!' on banking broke six weeks later; 'plenty of updates starting next week' on the $40k Phone Farm produced zero messages in 27 days; Ronnie's promise to investigate the OF flag was never actioned even though the flag recurred in her very next message.",
+      "evidence": [
+        {
+          "quote": "yes its going amazing / ill get you full summary",
+          "who": "Derrek",
+          "date": "2025-11-18"
+        },
+        {
+          "quote": "Want to let you know we have a new bank for you to send to (last change I promise!).",
+          "who": "Stephski",
+          "date": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "client": "Mila",
+      "severity": 3,
+      "failure": "Eight commitments lapsed: the promo post links she asked for and Michelle agreed to send, the GBP conversion Alex Camus promised would be on the next invoice (she had to ask again 12 days later), Stephski's 'will update you shortly' on the possible duplicate wire (17 days of nothing), the instruction to reuse the same bank account (contradicted a month later without explanation), Derrek's phone-farm updates 'starting next week' (27 days), Vivek's Meta support (never posted once), and Mayson's 'always a prompt response'.",
+      "evidence": [
+        {
+          "quote": "if you could send me links when you do just so I can be in the loop🫶🏼",
+          "who": "Callie (Mila)",
+          "date": "2026-07-08"
+        },
+        {
+          "quote": "will do babes 🫶🏼",
+          "who": "Michelle Queue",
+          "date": "2026-07-08"
+        }
+      ]
+    },
+    {
+      "client": "Paige",
+      "severity": 3,
+      "failure": "Eight commitments lapsed across 65 days: the sales-preferences form was never confirmed returned, the social-media kickoff call she agreed to book was never chased or held, the promo team's reels programme produced nothing and went silent 41 days ago, the Copyright Ban Protection setup offered on 7/29 was never done (four lockouts followed), Derrek's phone-farm updates never came, and the 8/14 'will update shortly' was replaced by two further requests for her password instead of a resolution.",
+      "evidence": [
+        {
+          "quote": "hii sorry im new to telegram still figuring it out 😂 ill book now xx",
+          "who": "Paige (Chey Ref)",
+          "date": "2026-07-06"
+        },
+        {
+          "quote": "To start, if you want your accounts setup for Copyright Ban Protection he can assist.",
+          "who": "Derrek",
+          "date": "2026-07-29"
+        }
+      ]
+    },
+    {
+      "client": "Sarah Lloyd",
+      "severity": 3,
+      "failure": "We treat acknowledgement as delivery: MM repetition was declared fixed five separate times (Jun 26, Jul 6, Jul 8, Jul 12, Jul 13) before it held and then relapsed on Aug 12; 'adjusted rules for unhappy subs' (Jun 25) preceded 'ZERO conflict resolution' (Aug 20); the whale win-back promised on Aug 20 lapsed within four days and again within five; and Derrek's 'Looking into this now' on chargebacks and 'plenty of updates starting next week' on the $40k Phone Farm have produced nothing in 9 and 27 days.",
+      "evidence": [
+        {
+          "quote": "Ofc, I have penalized them for not handing in a timely manner. Should be fixed now. If you see any more that are getting repetitive moving forward, please send me a screenshot and we will handle asap.",
+          "who": "Nate (Noah)",
+          "date": "2026-07-13"
+        },
+        {
+          "quote": "I see you are currently chatting with him. I’ll make sure to monitor him very closely so we can be sure to bring him back!",
+          "who": "Nate (Noah)",
+          "date": "2026-08-20"
+        }
+      ]
+    },
+    {
+      "client": "Sarah",
+      "severity": 3,
+      "failure": "We make casual 'I'll get back to you / keep you posted / tomorrow' commitments and then let them die silently - the weekly DMCA update promised in week one stopped for ~16 weeks, the Miami collab list has been promised twice and never sent, the Oct 20 WA content day was cancelled and never rebooked, and the Aug 1 Phone Farm updates are now 27 days overdue with zero posts.",
+      "evidence": [
+        {
+          "quote": "Scans and takedowns are ran daily and we will be shooting weekly updates here every Wednesday 🦾",
+          "who": "Nick | DMCA",
+          "date": "2025-09-19"
+        },
+        {
+          "quote": "I will let you know ASAP once they confirm days and times and make sure it works for you x",
+          "who": "Sophie Logan (Raw Agency)",
+          "date": "2025-10-20"
+        }
+      ]
+    },
+    {
+      "client": "Shayna",
+      "severity": 3,
+      "failure": "Our OFM lead answers almost every request with 'I'll speak to the team / will keep you updated' and then nothing is written down, chased or confirmed back: of ~45 explicit commitments made to her, ~21 silently lapsed, including a private-lives schedule promised eight separate times over six weeks and never delivered (she killed the product herself on 7/27), a customs tracker promised 7/20 that she ended up building herself 39 days later, and a PG mass-message folder, a vault-notes rule, a time-waster filter and a named replacement chatter all still outstanding at 17-31 days.",
+      "evidence": [
+        {
+          "quote": "Heyyy absoloutely will update you on schedule when we have it from them (repeated 6/18, 6/19, 6/21, 7/1, 7/10, 7/12, 7/18 - no live was ever scheduled; on 7/27 she said 'private lives are not something I can push anymore')",
+          "who": "fred SPITFIRE",
+          "date": "2026-06-16"
+        },
+        {
+          "quote": "Relaying to the team - will add this to the vault notes as well! (never confirmed; the same free-content rule was broken again on 8/9 - 22 days later no written artefact exists)",
+          "who": "fred SPITFIRE",
+          "date": "2026-08-06"
+        }
+      ]
+    },
+    {
+      "client": "Vale",
+      "severity": 3,
+      "failure": "Scheduling promises for paid calls and lives have lapsed at least seven times across both account managers (May 5, May 22, Jul 1, Jul 19, Jul 31, Aug 9), and the two deliverables Ollie promised 'in the morning' on Jul 28 — the sexting-set template and a formal content request — never arrived, yet he criticised her set variety three weeks later.",
+      "evidence": [
+        {
+          "quote": "Will push for it to be scheduled then - what times will you be available?",
+          "who": "FRED | OFM (fred SPITFIRE)",
+          "date": "2026-05-05"
+        },
+        {
+          "quote": "I think I have 3 video calls that I need booked, do you mind checking on those for me ? ... Pls let’s get those schedule they’ve been waiting for a minute",
+          "who": "Vale",
+          "date": "2026-07-30"
+        }
+      ]
+    },
+    {
+      "client": "Vicky",
+      "severity": 3,
+      "failure": "The central promise of the engagement - replacement traffic after we told her to switch off the paid traffic she was funding herself - was re-promised five times over two months and never delivered or measured once. Around it, at least eight other named commitments lapsed with nobody ever mentioning them again.",
+      "evidence": [
+        {
+          "quote": "oh traffic should kick in by end of week one",
+          "who": "Derrek",
+          "date": "2026-06-19",
+          "note": "Day 3. The only date ever given. Nothing was ever put in place to check it."
+        },
+        {
+          "quote": "Okay thank you for this, I'll create a list for whales and not send them the organic MM's that everyone else receives",
+          "who": "Ollie Mckinlay",
+          "date": "2026-06-30",
+          "note": "Agreed same-day, never delivered, never mentioned again by anyone on either side in the following 49 days of the engagement."
+        }
+      ]
+    }
+  ],
+  "proactive_communication": [
+    {
+      "client": "Alanna",
+      "severity": 3,
+      "failure": "New account, zero unprompted performance reporting in 25 days: she has never been sent a sales number, a drop result, a DMCA report or a growth stat. She pinned a five-date release schedule on day one; Aug 10 and Aug 12 got same-day check-ins, Aug 17 and Aug 24 got nothing from anyone, and Aug 29 has never been mentioned since she posted it. Longest stretch with zero outbound from our side: 9 days (8/17 19:31 to 8/26 19:17), and it was broken by a payment chase.",
+      "evidence": [
+        {
+          "quote": "Some scenes that need to be scheduled / 10th August 3some lily and Francis / 12th August Ass worship lola / 17th August 3some Nico / 24th August Bgg brady yasmina / 29th August Lola second scene",
+          "who": "Alanna<3",
+          "date": "2026-08-03"
+        },
+        {
+          "quote": "@alannaapow Hi love checking in on this",
+          "who": "Stephski",
+          "date": "2026-08-26"
+        }
+      ]
+    },
+    {
+      "client": "Alex Paige Moore",
+      "severity": 3,
+      "failure": "In 11 months we have sent this client exactly one unprompted performance report — Sophie's first-week stats on 2025-09-23. Since Sophie left on 2025-11-12 (289 days), every piece of outbound has been templated cadence (reel-inspo link dumps, leak-removal screenshots, invoices) and every substantive explanation she has received — the shadowban, the phone farm, the promo-account status — was extracted from us only after she complained. Longest stretch with zero outbound of any kind: 8.7 days (2026-08-01 to 2026-08-10); longest stretch with no non-templated outbound: 11.5 days (2026-08-14 to 2026-08-25). She is effectively auditing us instead of us reporting to her.",
+      "evidence": [
+        {
+          "quote": "Congrats on an incredible first week with us 🥳 Your account is already up 27.4%, messages are up 28%, and overall subscription earnings are up 33.6%",
+          "who": "Sophie Logan (Raw Agency)",
+          "date": "2025-09-23"
+        },
+        {
+          "quote": "How's the management social media accounts for me going? Xx",
+          "who": "Alex Paige",
+          "date": "2025-10-26"
+        }
+      ]
+    },
+    {
+      "client": "Amber Haze",
+      "severity": 3,
+      "failure": "In 120 days we have never once sent this client an unprompted performance number. No IG follower delta, no FB page stats, no ad spend or reach, no monthly report despite her saying one was promised at signing. Every genuinely proactive message on the account is a template (Michelle's weekly leak-removal photo, Mica's weekly reel-inspo link dump, Stephski's invoice and withdrawal reminders); every substantive owner update (May 21, Jun 2, Aug 1) arrived only after she chased. Longest zero-outbound stretch from our side is 4.6 days (Jun 16-20), but the more damning number is the last seven days: two team messages total, one of them a template, on an account with six overdue items.",
+      "evidence": [
+        {
+          "quote": "I would have preferred regular updates explaining what was happening and why things weren’t being done, rather than me constantly having to chase for answers and ask why things haven’t been completed.",
+          "who": "Kirsten (amber Haze)",
+          "date": "2026-06-04"
+        },
+        {
+          "quote": "I was also told at the beginning that I would be shown and given monthly updates on exactly what had been posted, what had been done on the account, and how everything was performing.",
+          "who": "Kirsten (amber Haze)",
+          "date": "2026-06-04"
+        }
+      ]
+    },
+    {
+      "client": "Barbara",
+      "severity": 3,
+      "failure": "In 39 days we have never once sent this client a posting log, a view count, a follower number or an account-status update. The only unprompted outbound we produce is templated: a weekly leak-report screenshot, an irregular reel-inspo link dump, and invoices. Every single 'how are we doing' check-in in this chat was initiated by her.",
+      "evidence": [
+        {
+          "quote": "I'll be ... checking in to make sure your accounts are set up for success and to share creative ideas weekly to boost your content + engagement 📈",
+          "who": "Mica Vecco (promised weekly cadence at intro; delivered Jul 21, Jul 23 and Aug 13 only — nothing in the 15 days since)",
+          "date": "2026-07-22"
+        },
+        {
+          "quote": "Thank you for your understanding, we will have plenty of updates starting next week.",
+          "who": "Derrek (a broadcast-style phone-farm update; the promised 'plenty of updates' never arrived)",
+          "date": "2026-08-01"
+        }
+      ]
+    },
+    {
+      "client": "Chey Mai",
+      "severity": 2,
+      "failure": "The only genuinely proactive thing she receives is Michelle's weekly leak-removal screenshot; in nine weeks she has never been sent an OF sales number, a chatting update or an IG posting result, and the one substantive update she did get was a copy-paste block sent verbatim to at least three clients within thirty seconds. Longest stretch with zero outbound from our side: 10 days (7/1 to 7/11).",
+      "evidence": [
+        {
+          "quote": "Hi love! Here’s your weekly update on the leak removal breakdown for the past 7 days 🫶🏼",
+          "who": "Michelle Queue",
+          "date": "2026-08-10"
+        },
+        {
+          "quote": "we had to invest over $40,000 into a new Phone Farm to be able to handle all of our clients with the proper quality needed... My apologies, for any lack of communication.",
+          "who": "Derrek",
+          "date": "2026-08-01"
+        }
+      ]
+    },
+    {
+      "client": "Haileigh Cox",
+      "severity": 2,
+      "failure": "Unprompted contact is high in volume but almost entirely templated broadcast — weekly DMCA/leak recaps, weekly reel-inspo link dumps, invoice pre-reminders. She has not received a performance or revenue report since 2025-09-22; the bi-weekly report + 14-day game plan she explicitly loved was discontinued without a word when Sophie Logan stopped posting on 2025-10-09, and the 'new system that will give you live results and visibility into upcoming promotions' promised on 2025-09-07 was never delivered.",
+      "evidence": [
+        {
+          "quote": "In the past week we have seen an increase in revenue by 35.7% and new subs are up 257.7%  [the last time anyone sent her a number about her own business, 11 months ago]",
+          "who": "Sophie Logan (Raw Agency)",
+          "date": "2025-09-15"
+        },
+        {
+          "quote": "We're also finalizing a new system that will give you live results and visibility into upcoming promotions. Thank you for your patience as we put the finishing touches on this  [never shipped, never mentioned again]",
+          "who": "Lauren Biz Assistant",
+          "date": "2025-09-07"
+        }
+      ]
+    },
+    {
+      "client": "Hannah",
+      "severity": 2,
+      "failure": "Cadence existed but content did not. Weekly reel inspo, weekly takedown graphics and invoice reminders all went out on schedule, while not a single subscriber, revenue or growth number was reported to her after day 3. The templates were so automatic that two of them fired four days AFTER she quit.",
+      "evidence": [
+        {
+          "quote": "the main reason we're not making as much money as usual is because we're on 4 subs today so far (based of UK time), yesterday and days before there's been an average of 60-70 subscribers a day",
+          "who": "fred SPITFIRE",
+          "date": "2026-05-30",
+          "note": "The only unprompted performance number in 39 days of chat, delivered on day 3. She responded well to it. Nothing comparable followed."
+        },
+        {
+          "quote": "hi Bella ! here's some more reel inspo",
+          "who": "Mica Vecco",
+          "date": "2026-07-10",
+          "note": "Sent four days after her resignation. Michelle's weekly leak report followed 2h later the same day. Neither sender had registered that the client had left."
+        }
+      ]
+    },
+    {
+      "client": "Kaitlynn",
+      "severity": 3,
+      "failure": "In 21 days we have never sent her a single number. She is reading her own OF dashboard and reporting the results to us — twice — and the closest we have come to reporting is the account manager asking her on 8/27 where her subscribers are coming from. Longest stretch with zero outbound from our side: 6 days (8/21 to 8/27), during which her Aug 19 content drop came and went unmentioned.",
+      "evidence": [
+        {
+          "quote": "Hi everyone! Great numbers this week.",
+          "who": "Kaitlynn Anderson Koda",
+          "date": "2026-08-14"
+        },
+        {
+          "quote": "really impressed with how well numbers showed out this week !!",
+          "who": "Kaitlynn Anderson Koda",
+          "date": "2026-08-14"
+        }
+      ]
+    },
+    {
+      "client": "Lauren Blake",
+      "severity": 2,
+      "failure": "We do send unprompted contact, but almost all of it is either a request from her (Snap adds, customs, upload more content) or templated (Michelle's leak report, Mica's reel-inspo link dumps). In 53 days we have never once volunteered a performance number - no revenue, whale, IG-growth or Meta ad-spend report has ever been sent, on a service she pays a 5% ads fee for. Longest full-team silence is 3.1 days (Jul 14-17), but Derrek went 20 days (Aug 1-21) after promising weekly updates and Ollie sent one message in the final 7 days.",
+      "evidence": [
+        {
+          "quote": "Hi love! Here's your weekly update on the leak removal breakdown for the past 7 days",
+          "who": "Michelle Queue (the ONLY unprompted recurring report on this account - unbroken weekly since Jul 17, never once chased)",
+          "date": "2026-08-25"
+        },
+        {
+          "quote": "I'd like to see the ad reports of the 5% being spent on meta",
+          "who": "Lauren Blake (asked once, never volunteered since, now riding a second invoice)",
+          "date": "2026-08-03"
+        }
+      ]
+    },
+    {
+      "client": "Lauryn",
+      "severity": 3,
+      "failure": "Exactly one strategy report was ever sent (2025-09-23) and no revenue or performance reporting has ever been sent; after Sophie left on 2025-10-08 the client's #1 issue went 303 days with zero unprompted update from us, and by August 2026 our entire outbound consists of a templated invoice and an automated leak screenshot.",
+      "evidence": [
+        {
+          "quote": "Also when do you think this will be lifted ?? It's really making algorithm decline",
+          "who": "LA Client",
+          "date": "2025-10-07"
+        },
+        {
+          "quote": "Keep me updated pls / Well I'm periodically checking on my end as well",
+          "who": "LA Client",
+          "date": "2026-08-18"
+        }
+      ]
+    },
+    {
+      "client": "Lilia",
+      "severity": 2,
+      "failure": "The only unprompted contact she reliably gets is two templates - Michelle's weekly DMCA count and Mica's weekly reel-link dump; in three months we have never once sent her a revenue, sales or performance update, so she reports numbers to us instead of the reverse.",
+      "evidence": [
+        {
+          "quote": "Thank you for your understanding, we will have plenty of updates starting next week.",
+          "who": "Derrek (IG phone-farm update promised for the week of Aug 3; nothing posted in the 27 days since)",
+          "date": "2026-08-01"
+        },
+        {
+          "quote": "Easy 2,000 dollars / Well 4,000 in total! I’ve done 5 3-4 min videos on each sexting set sin / Sell 200 each",
+          "who": "Lilia (the client forecasting her own revenue because we never report it)",
+          "date": "2026-07-29"
+        }
+      ]
+    },
+    {
+      "client": "Liza Kovalenko",
+      "severity": 3,
+      "failure": "The invoice is now the only reliable outbound message on the account. Sophie's bi-weekly reports and 14-day game plans stopped after 2025-10-27 (305 days) and were never replaced or explained; DMCA takedown reports stopped after 2026-03-04 (177 days) with no announcement; the 'live results and visibility into upcoming promotions' system promised in Sept 2025 never shipped; Mica's reel inspo — the last non-billing touchpoint — has been skipped two straight weeks since 2026-08-13. Longest stretch with zero outbound from our side: 27 days (2026-05-05 to 2026-06-01).",
+      "evidence": [
+        {
+          "quote": "Also, guys, we increased the 5% for this month in order to try out the paid Instagram ads, I wanna know how it’s going so far. Is there any statistics I can see? Would like to get more information on it thank you",
+          "who": "Eli",
+          "date": "2025-11-18"
+        },
+        {
+          "quote": "We’re also finalizing a new system that will give you live results and visibility into upcoming promotions. Thank you for your patience as we put the finishing touches on this 💗",
+          "who": "Lauren Biz Assistant",
+          "date": "2025-09-07"
+        }
+      ]
+    },
+    {
+      "client": "Mila",
+      "severity": 2,
+      "failure": "Mica's weekly reel-inspo sends are the one real unprompted cadence on this account, but they stopped on 8/13 and they are the only proactive thing she has ever received — no OF sales numbers, no chatting stats, no promo post links, no DMCA or leak reports have ever been posted here, and the one substantive service update was a copy-paste block sent verbatim to at least three clients within thirty seconds. Longest stretch with zero outbound from our side: 6 days (7/23 to 7/29), with a further 5-day silence running from 8/23 to now.",
+      "evidence": [
+        {
+          "quote": "hi @calliebullough ! here’s your reel inspo for this week 🤍",
+          "who": "Mica Vecco",
+          "date": "2026-07-02"
+        },
+        {
+          "quote": "Hiya, what’s the plan for promos for the time being :)",
+          "who": "Callie (Mila)",
+          "date": "2026-07-08"
+        }
+      ]
+    },
+    {
+      "client": "Paige",
+      "severity": 3,
+      "failure": "In 65 days ALTR has never posted a single stat, posting report, growth number, leak report or OF/chatting update in this chat. The only unprompted contact she receives is invoicing and a block of reel links copy-pasted verbatim to at least one other client the same day — and even that has now stopped (nothing from social since 8/13, nothing from promo since 7/18, and the chatting lead's only August contribution was tagging a colleague). Longest stretch with zero outbound from our side: 9 days (8/4 to 8/13), and it ended only because she reported a lockout herself.",
+      "evidence": [
+        {
+          "quote": "hi @paigeleighx! here’s your new reel inspo 💕",
+          "who": "Mica Vecco",
+          "date": "2026-07-29"
+        },
+        {
+          "quote": "oh wow! thats insane hopefully it works out thank you for updating me 💗 im excited to see where this goes. thank youu. xx",
+          "who": "Paige (Chey Ref)",
+          "date": "2026-08-01"
+        }
+      ]
+    },
+    {
+      "client": "Sarah Lloyd",
+      "severity": 2,
+      "failure": "In eleven and a half weeks the chat side has never once sent an unprompted performance, sales or livestream-result update — she reports our own numbers back to us. The only reliable unprompted contact is templated: Michelle's weekly leak-removal graphic, Mica's weekly reel-link dump, Stephski's invoice reminders. Worst of all, the whale-growth stat that instantly defused her on Aug 25 had existed all along and only surfaced once she was angry. Longest stretch with zero non-templated outbound: 7.3 days (Jul 21 - Jul 29).",
+      "evidence": [
+        {
+          "quote": "Thank you! ... and let me know how the new release PPV goes",
+          "who": "Sarah Lloyd",
+          "date": "2026-06-12"
+        },
+        {
+          "quote": "Hey guys! Bumping the MMs again, page is down 50% today and I’m certain that if MMs are sent that are either PPVs or sexting set bumps it’ll really increase sales 🙏",
+          "who": "Sarah Lloyd",
+          "date": "2026-06-12"
+        }
+      ]
+    },
+    {
+      "client": "Sarah",
+      "severity": 3,
+      "failure": "We have not sent this client an unprompted performance update since 2025-10-16 - over 10 months. Everything outbound since is templated (weekly reel-inspo link dumps, invoice reminders, automated leak counts), and in the worst month of her account we volunteered nothing at all about her earnings, her main IG or OFTV. Longest zero-outbound stretch: 9 days (Mar 19-28); most damaging: 7 days of no human ALTR message (Aug 14-21) while she sat on withdrawn funds waiting for an invoice we never mentioned again.",
+      "evidence": [
+        {
+          "quote": "Creeping up to your 14 day review and damn these stats are looking goood",
+          "who": "Sophie Logan (Raw Agency)",
+          "date": "2025-09-29"
+        },
+        {
+          "quote": "we have been pushing more custom forms and will continue to do so since we are seeing reach go down across the board the las week with all creators",
+          "who": "Ronnie Chat",
+          "date": "2026-07-20"
+        }
+      ]
+    },
+    {
+      "client": "Shayna",
+      "severity": 2,
+      "failure": "In 4.5 months as her OnlyFans manager we have never once sent her an unprompted earnings, sales or page-performance report - the only substantive performance line in the whole history is 'no peak in earnings first day' on day one; our reliable outbound is DMCA reports, reel links and invoice reminders, all templated, and the OFM lead's outbound is almost entirely asks (his only three messages in the last two weeks were all requests for content), leaving a 6-day stretch with zero contact from anyone on our side.",
+      "evidence": [
+        {
+          "quote": "How's everything going ? (day 4 - she had to ask; the reply was the only earnings commentary ever volunteered: 'although no peak in earnings first day')",
+          "who": "Shayna Holt",
+          "date": "2026-04-14"
+        },
+        {
+          "quote": "Hey Shayna hope you're well - do you have an idea of what date you're back and able to do requests again. No rush we had a big push on Jim for one (his only message in 7 days, and another ask; second consecutive week where our OFM lead's sole output to this client is a request)",
+          "who": "fred SPITFIRE",
+          "date": "2026-08-23"
+        }
+      ]
+    },
+    {
+      "client": "Vale",
+      "severity": 2,
+      "failure": "Almost all unprompted contact is templated (Michelle's weekly leak-removal image, Mica's reel-link dumps, Stephski's invoices); in five months the only performance figure ever volunteered was Ollie's day-3 revenue note on Jul 12, and Vale had to ask five separate times (Apr 9, May 22, Jun 29, Jul 18, Jul 27) for a simple list of what she owed because no such list was ever pushed to her.",
+      "evidence": [
+        {
+          "quote": "Hey guys I’m still sick but I’m feeling a lot better and wanna catch up on all the stuff i have to do so if you can send me a list of what I need to get done",
+          "who": "Vale",
+          "date": "2026-04-09"
+        },
+        {
+          "quote": "Sorry been dealing with some stuff / I’m making content today / Can you please tell me what customs I’m behind on ?",
+          "who": "Vale",
+          "date": "2026-06-29"
+        }
+      ]
+    },
+    {
+      "client": "Vicky",
+      "severity": 3,
+      "failure": "In 62 days she was never shown one performance number. Every substantive update in the file was extracted by her asking, usually more than once; the only reliably unprompted outbound was templated reel inspo and invoice chases. The one big proactive message, Derrek's 8/1 phone-farm broadcast, was an agency-wide apology that promised 'plenty of updates starting next week' and was followed by none.",
+      "evidence": [
+        {
+          "quote": "Hello, is there any updates on marketing side?",
+          "who": "Valerie (client)",
+          "date": "2026-07-27",
+          "note": "Pattern for the whole engagement: she chases, we route ('@sotom225 ^'), someone answers with a status word. Traffic alone was chased on 6/28, 8/4, 8/10 (twice) and 8/11."
+        },
+        {
+          "quote": "My apologies, for any lack of communication. As this has required us to swap out over 200 devices, and over 1000 accounts... Thank you for your understanding, we will have plenty of updates starting next week.",
+          "who": "Derrek",
+          "date": "2026-08-01",
+          "note": "A broadcast, not an account update - no number specific to her two pages. She replied 'Thank you for an update', which shows how cheaply goodwill could have been bought. No updates followed in the next week."
+        }
+      ]
+    }
+  ],
+  "onboarding_handoff": [
+    {
+      "client": "Alanna",
+      "severity": 3,
+      "failure": "Week-1 loose ends are all still open at week 4: the chatter FAQ form was asked on 8/3, bumped once on 8/5, then abandoned — chatters have represented her for 25 days without her brief; Mica's social-media kickoff call was never booked or chased (one message from her in 25 days); her entire content library was handed over on day one with no acknowledgement of what was done with it; and no single owner or reporting cadence was ever named to her.",
+      "evidence": [
+        {
+          "quote": "Hey Alanna, could you fill out this FAQ form for us please / Will give the chatters everything they need to know about you, so we can represent you best",
+          "who": "Ollie Mckinlay",
+          "date": "2026-08-03"
+        },
+        {
+          "quote": "Hey @alannaapow just bumping this",
+          "who": "Ollie Mckinlay",
+          "date": "2026-08-05"
+        }
+      ]
+    },
+    {
+      "client": "Alex Paige Moore",
+      "severity": 2,
+      "failure": "Week 1 was genuinely strong — same-day intros, two calls, voice memos, link-in-bio, a written call recap — but nothing from that recap was carried forward, and the entire week-1 cast had vanished by 2025-11-12 with no goodbye and no handover. The bulk-film document was never sent, the Facebook-page check never happened, the videographer day never happened, and she was never told who replaced Sophie, Lauren or Olivia. Nine months later she still does not have a named owner: she asks 'guys' in a room of eighteen.",
+      "evidence": [
+        {
+          "quote": "Sophie Logan here, Client Relations Manager for ALTR ❤️ I'll be working with you on day to day operations, reporting, strategies and more",
+          "who": "Sophie Logan (Raw Agency)",
+          "date": "2025-09-15"
+        },
+        {
+          "quote": "I'll also send through a document outlining how you and your assistant can bulk film 100–200 reels in a couple of hours … We'll check in with the team about the FB link for extra security and reach.",
+          "who": "Sophie Logan (Raw Agency)",
+          "date": "2025-09-25"
+        }
+      ]
+    },
+    {
+      "client": "Amber Haze",
+      "severity": 2,
+      "failure": "Week-1 loose ends that were never closed and kept resurfacing for four months. The IG takeover was improvised live in chat with the old agency still holding the authenticator; two competing upload systems (Google Drive, then a shared iPhone album) were set up in the same week and she had to ask which one was real; nobody told her who owns what, so she was corrected for asking the group a payment question; and the chat team was swapped mid-engagement with no handover file — Ollie could not find her content drive on Jul 3, re-requested an FAQ she had already completed on Jul 12, and on Aug 6 did not know about the Wesley anniversary plan that had been posted in this same chat on May 16.",
+      "evidence": [
+        {
+          "quote": "I’m the only person in here that deals with this other than our invoicing team. The reason they didn’t answer is because none of them have anything to do with payments.",
+          "who": "Derrek",
+          "date": "2026-05-11"
+        },
+        {
+          "quote": "Okay sorry are we still using Google drive? Confused now 🤣",
+          "who": "Kirsten (amber Haze)",
+          "date": "2026-05-13"
+        }
+      ]
+    },
+    {
+      "client": "Barbara",
+      "severity": 2,
+      "failure": "Week 1 ended with no channel-ownership map, no posting schedule and no reporting rhythm — she had to ask who her point of contact was, the OFTV owner was only named after she asked, the kickoff call slipped 9 days across two missed bookings, and she had already handed social logins for a channel (X/Twitter) we do not even run.",
+      "evidence": [
+        {
+          "quote": "Hey guys, if i have any questions regarding anything who would be the right person to reach out to from the group?",
+          "who": "Barb Brazil (day 6; answered only after she followed up)",
+          "date": "2026-07-26"
+        },
+        {
+          "quote": "heyyy is anyone running my X? i haven't had any new posts up so just wanna make sure u have my logins if that's missing :) -> he doesn't run twitter, maybe it was from your last management? -> to be honest, I'm very confused lol",
+          "who": "Barb Brazil / Mica Vecco / Barb Brazil (took 3 days and ended in confusion)",
+          "date": "2026-07-28"
+        }
+      ]
+    },
+    {
+      "client": "Chey Mai",
+      "severity": 3,
+      "failure": "Nothing from week 1 was ever closed: the sales-preferences form was sent on 6/22 and never confirmed returned in 67 days, the handover from her previous chatting team was asked about twice and never confirmed, the reels Drive was handed over and never followed up, no account manager was ever named to her, and the Social Media Director never posted in this chat once.",
+      "evidence": [
+        {
+          "quote": "When you're able please fill out the form that will give the team everything they need to know about yourself AND the ability to sell in confidence.",
+          "who": "Mayson Chat",
+          "date": "2026-06-22"
+        },
+        {
+          "quote": "@cheymai1 please let me know when you’re previous team can get off so we can assign our team!",
+          "who": "Mayson Chat",
+          "date": "2026-06-23"
+        }
+      ]
+    },
+    {
+      "client": "Haileigh Cox",
+      "severity": 2,
+      "failure": "Week 1 was well staffed but three loose ends were never closed and are still costing us: the content-submission tool was broken from day 14 and we never fixed it (she abandoned it for five months and finally told us in February it was her biggest issue), no 'who to contact for what' map was ever published so she had to ask staff to route her, and the kickoff strategy call took six weeks to happen and happened exactly once.",
+      "evidence": [
+        {
+          "quote": "I guess my question is how do i know what kind of custom to do? This is all it shows  [Sophie: 'let me touch base with the team asap and get back to you' / 'team are working on the custom error as we speak, we'll be proactive and get this fixed asap' — never resolved or confirmed]",
+          "who": "Hailey Client",
+          "date": "2025-09-08"
+        },
+        {
+          "quote": "Hi Michelle! Nice to meet you and look forward to working with you as well!!! are you someone i can reach out to in regards to social media?  [answer: 'Mica is your girl for that' — she was routing herself from week 2]",
+          "who": "Hailey Client",
+          "date": "2025-09-08"
+        }
+      ]
+    },
+    {
+      "client": "Hannah",
+      "severity": 2,
+      "failure": "Introductions were done well and fast, but nothing sold in the pitch was handed to a delivery owner. Paid promo and the Orlando/Miami shoot - both things Derrek promised before signing - had no owner, no date and no tracking. Invoicing was only introduced on day 4, the day the first invoice was already due.",
+      "evidence": [
+        {
+          "quote": "Hannah chambers ALTR hi Bella! This will be the main groupchat! Super excited for you, everyone will begin to introduce themselves here shortly!",
+          "who": "Eric The Efficient",
+          "date": "2026-05-28",
+          "note": "Five staff did introduce themselves over four days - the good half. No 'who owns what' summary and no owner for the two things she had been sold on."
+        },
+        {
+          "quote": "I had scheduled a call with you at 2PM today just making sure you had gotten that, I didn't get a verification email",
+          "who": "Bells Vale Referral (client)",
+          "date": "2026-05-29",
+          "note": "Mica: 'i actually didn't get that email either i'm so sorry'. The kickoff call only happened because the client chased her own booking."
+        }
+      ]
+    },
+    {
+      "client": "Kaitlynn",
+      "severity": 3,
+      "failure": "This client was never onboarded, only welcomed. The sales-preferences/FAQ form that every other new account receives on day one was never sent to her at all; she had to ask on day two who her account manager was; the Social Media Director's intro landed four days late and was her only message; the kickoff call has never been held; and nobody ever told her who to contact for what, which is why she addresses every request to 'y'all' and 'everyone'.",
+      "evidence": [
+        {
+          "quote": "no worries i unsent, remind me who my account manager is :)",
+          "who": "Kaitlynn Anderson Koda",
+          "date": "2026-08-08"
+        },
+        {
+          "quote": "whatever you need from me lmk! I have full faith everyone is going to crush it🙏🏼🥹",
+          "who": "Kaitlynn Anderson Koda",
+          "date": "2026-08-07"
+        }
+      ]
+    },
+    {
+      "client": "Lauren Blake",
+      "severity": 2,
+      "failure": "Week 1 shipped an intro round and three separate drive links but no substance: her intake doc was filled and then not read, no kickoff strategy call happened until day 32, the paid ads she signed up for on day 3 still had not launched on day 53, the trial-reel method promised at signup was never set up, and her content boundaries and price floors were never captured before chatters started selling - which is what caused the boundary breach three weeks later.",
+      "evidence": [
+        {
+          "quote": "Oh weird I did fill it out",
+          "who": "Lauren Blake (after Ollie asked her mid-holiday to 'fill the rest of this out')",
+          "date": "2026-07-10"
+        },
+        {
+          "quote": "I've signed up for paid ads so I would love to get those launched too",
+          "who": "Lauren Blake (day 3; on Aug 18 the answer was still 'ads will be ran as well')",
+          "date": "2026-07-06"
+        }
+      ]
+    },
+    {
+      "client": "Lauryn",
+      "severity": 2,
+      "failure": "Week 1 was fast and warm but left loose ends we never closed: we made her fill the same intake form twice, the named point of contact from the kickoff roster ('Tivo - Account executive, point of contact') has never posted a single message in 12 months, no 'who to contact for what' was ever written down, and the Client Relations manager who ran the relationship simply stopped appearing with no handoff.",
+      "evidence": [
+        {
+          "quote": "Hey, Paulo I have recently a few days ago filed out form / Looks the exact same far as questions",
+          "who": "LA Client",
+          "date": "2025-08-27"
+        },
+        {
+          "quote": "Tivo- Account executive (Point of contact, night shift management)",
+          "who": "Ana M | General Manager",
+          "date": "2025-08-25"
+        }
+      ]
+    },
+    {
+      "client": "Lilia",
+      "severity": 2,
+      "failure": "Week 1 left three loose ends we never closed: the Google Drive upload path never worked for her and we let her fall back to doing our job manually, the kickoff call needed three client chases, and nobody ever told her who owns what - so she posts fan issues into a topic and a chatter has to forward them.",
+      "evidence": [
+        {
+          "quote": "I’m going to try and post it myself onto the platform because Google Drive is not working for me at all. It just says can’t upload can",
+          "who": "Lilia (day 3; she has uploaded and organised everything herself ever since)",
+          "date": "2026-05-27"
+        },
+        {
+          "quote": "Are we still on for our meeting today?",
+          "who": "Lilia (kickoff call with Mica chased on May 28, May 29 and Jun 1 before it happened)",
+          "date": "2026-05-28"
+        }
+      ]
+    },
+    {
+      "client": "Liza Kovalenko",
+      "severity": 2,
+      "failure": "Seven people introduced themselves in the first seven weeks with no single point of contact and no map of who handles what. Lissy was named 'your main point of contact' and then vanished from the account; Michelle introduced herself as the promo lead, was asked a direct question about her own role, never answered it, and never posted again; the first strategy call took seven weeks to happen (Mica asked 2025-07-29, call landed 2025-09-17) and was double-booked in the wrong timezone; the content-snare portal never loaded on her phone and she was left to 'figure it out'.",
+      "evidence": [
+        {
+          "quote": "Hi Michelle! Nice to meet you exited to work together!! What is it exactly well gonna be doing ?",
+          "who": "Eli",
+          "date": "2025-09-08"
+        },
+        {
+          "quote": "I would like to receive the content ideas / scripts so it’s easier for me to make content I know exactly what content you need!",
+          "who": "Eli",
+          "date": "2025-09-09"
+        }
+      ]
+    },
+    {
+      "client": "Mila",
+      "severity": 2,
+      "failure": "Week 1 was actually run well — form returned same day, previous team unlinked with coordination, kickoff call held on 6/29 — but the handoff never converted into an operating relationship: no account manager was ever named, no reporting cadence was ever set, the DMCA topic created on day one has never carried a single message in 69 days, and her day-one IG suspension fell straight through the gap between social, chatting and Meta support.",
+      "evidence": [
+        {
+          "quote": "Done :)",
+          "who": "Callie (Mila)",
+          "date": "2026-06-20"
+        },
+        {
+          "quote": "They are disconnected xx",
+          "who": "Callie (Mila)",
+          "date": "2026-06-21"
+        }
+      ]
+    },
+    {
+      "client": "Paige",
+      "severity": 3,
+      "failure": "Nothing from week 1 was ever closed. The sales-preferences form sent on 6/25 has never been confirmed returned in 65 days and was never chased once. She said 'ill book now' for the social kickoff call on 7/6 and it has never been booked, held or mentioned again. She told us twice she was new to Telegram and nobody walked her through the topics, gave her a named account manager, or told her who to contact for what — which is why she posts account problems into whichever topic she happens to be in.",
+      "evidence": [
+        {
+          "quote": "When you're able please fill out the form that will give the team everything they need to know about yourself AND the ability to sell in confidence.",
+          "who": "Mayson Chat",
+          "date": "2026-06-25"
+        },
+        {
+          "quote": "oh i didnt see this sorry im new to telegram ill do this now x",
+          "who": "Paige (Chey Ref)",
+          "date": "2026-07-06"
+        }
+      ]
+    },
+    {
+      "client": "Sarah Lloyd",
+      "severity": 2,
+      "failure": "The intake form she filled in on day one never reached the people doing the work — three of her written instructions (no BG to the whale, nothing pre-October 2025, OFTV traffic routes to VIP) were all broken within two hours of chatting starting. Ownership then changed silently: the vendor team fronted the account until Jun 15, Nate and Ronnie were introduced as AMs, and the vendor supervisors never posted again with no handover note or 'who to contact for what'. Mica's kickoff call took three attempts across eleven days.",
+      "evidence": [
+        {
+          "quote": "And guys I said so many times on onboarding forms to not send old tapes from before October!!",
+          "who": "Sarah Lloyd",
+          "date": "2026-06-09"
+        },
+        {
+          "quote": "It’s really really important this guy isn’t sent BG!! He’s my biggest whale",
+          "who": "Sarah Lloyd",
+          "date": "2026-06-09"
+        }
+      ]
+    },
+    {
+      "client": "Shayna",
+      "severity": 2,
+      "failure": "We let the intake questionnaire become a selling licence without ever reviewing it with her, so on day 5 the chat team sold a full-frontal nude custom on the strength of a form answer she had not been walked through - the exact breach that has now recurred for four months; on top of that the social kickoff call took 8 days and four client chases to happen, the invoicing lead was not introduced until week 3, Facebook access took 6 weeks and ended with her handing over a password, and she was never given a 'who to contact for what' map ('Where do I put the new content by the way?', 'Hiii is this for leak takedowns ?').",
+      "evidence": [
+        {
+          "quote": "the team are going purely off your questionnaire in which you put that you'd do $30 per pic for a nude picture... As the request was 5 x pictures they've sold for $150. Would you like me to mark nude as no?",
+          "who": "fred SPITFIRE",
+          "date": "2026-04-15"
+        },
+        {
+          "quote": "Hey girl you still good for the call? / Lmk if you need to reschedule:) (kickoff booked 4/14, missed, then chased by her on 4/15, 4/20, 4/21 before it finally ran 4/22)",
+          "who": "Shayna Holt",
+          "date": "2026-04-14"
+        }
+      ]
+    },
+    {
+      "client": "Vale",
+      "severity": 3,
+      "failure": "Onboarding was a form nobody reviewed with her — it produced $250 1:1 lives and let chatters sell a full nude video for $30 — Michelle's Apr 2 IG content request went unseen until Jun 9, and the Fred-to-Ollie switch on Jul 10 lost the customs Google Drive, the custom-request log and the pricing guide, so three paid orders (Loven's 4-month-old custom, an April custom, John's $2k) surfaced only by accident.",
+      "evidence": [
+        {
+          "quote": "Oh okay I haven’t even seen that",
+          "who": "Vale",
+          "date": "2026-06-09"
+        },
+        {
+          "quote": "I can’t even access the folder anymore ... There’s another custom I made from April / That never got uploaded either ... Yeah that’s kinda fucked",
+          "who": "Vale",
+          "date": "2026-07-28"
+        }
+      ]
+    },
+    {
+      "client": "Vicky",
+      "severity": 2,
+      "failure": "Introductions and logins were fast, but the two things that decided the account were never set up: a written traffic-transition plan (she asked for one on day 3) and her own Infloww access, which took ten days, three rounds of email confusion, and then silently broke again on 7/24. Her existing obligations from the previous agency were absorbed ad hoc with no inventory.",
+      "evidence": [
+        {
+          "quote": "I also wanted to clarify the SFS traffic. Since it's a paid traffic I would like to understand what your plans are regarding it. Do you want me to keep it running while we are building up the social media side, and if so, for approximately how long? And in that case, would you expect me to continue covering those costs, or is that something you would be taking over?",
+          "who": "Valerie (client)",
+          "date": "2026-06-19",
+          "note": "A precise, well-formed onboarding question on day 3. Answered with a sentence about philosophy and a one-line date. No plan, no owner, no measurement - and this is the root of the churn."
+        },
+        {
+          "quote": "Can you explain to Vicky how does communication between her and the chatters/managers work if they need something from me, such as content, a video, or a voice message on short notice?",
+          "who": "Mayson Chat",
+          "date": "2026-06-19",
+          "note": "A staff member had to ask, on the client's behalf, for the basic 'who to contact for what' - on day 3, unprompted by any process."
+        }
+      ]
+    }
+  ],
+  "chatter_conduct": [
+    {
+      "client": "Alanna",
+      "severity": 2,
+      "failure": "Chatters have been selling her for 25 days with no completed limits/FAQ form on file, they kept chatting through her VIP live stream after she asked them to stop, and her volunteered custom-content supply was refused twice in twelve days without any briefing on why.",
+      "evidence": [
+        {
+          "quote": "Any new customs or try to sell heaps I’ll do them in the next few days",
+          "who": "Alanna<3",
+          "date": "2026-08-15"
+        },
+        {
+          "quote": "No new customs for now",
+          "who": "Ollie Mckinlay",
+          "date": "2026-08-15"
+        }
+      ]
+    },
+    {
+      "client": "Alex Paige Moore",
+      "severity": 3,
+      "failure": "She gave us one hard, repeated safety boundary — chatters must never suggest she will meet a fan in person — and we broke it twice with the same local Adelaide spender, then reversed our own correction and told him she hadn't meant it. She also told us a fan was threatening self-harm and asked us to stop offering him calls; the last word on record from our side is 'Let me get back to you'. Separately, a nude was posted to her public wall against her stated boundary, and her content limits were never propagated into the customs templates, so she kept receiving requests for acts she had already told us she does not do.",
+      "evidence": [
+        {
+          "quote": "The chatters have just gone back on everything and told him I'll see him soon and I didn't mean what I said about never seeing him / What the fuck",
+          "who": "Alex Paige",
+          "date": "2026-06-18"
+        },
+        {
+          "quote": "Please can we not offer this guy calls. He's freaking me out now saying he's going to shoot himself … He's scaring me. Just sell him vids if he wants I don't want this guy thinking we are ever calling or meeting up",
+          "who": "Alex Paige",
+          "date": "2026-05-21"
+        }
+      ]
+    },
+    {
+      "client": "Amber Haze",
+      "severity": 3,
+      "failure": "We have breached this client's stated boundaries repeatedly and defended it as strategy. Another creator's explicit content was sent from her vault to her fans twice (May 13, May 20); chatters were cold with her top spender in week 1 and he noticed; chatters told fans she would show explicit content (Jul 29) and sold Moggy a video call she does not do (Aug 6), which she had to end by blocking him. Her written boundary brief of Jul 14 was answered with 'Will pass this along' and never became a working document: the team pitched dildo-sucking on Aug 10 and face-with-dildo on Aug 20, both explicitly ruled out in that brief, and did not know she already had 'loads' of titjob content in the vault.",
+      "evidence": [
+        {
+          "quote": "I won’t suck off the dildo I’ll do things to it just I never want to show my face with the dildo.",
+          "who": "Kirsten (amber Haze)",
+          "date": "2026-07-14"
+        },
+        {
+          "quote": "yeah he wants one where you show your face while doing it / possible?",
+          "who": "Ollie Mckinlay",
+          "date": "2026-08-20"
+        }
+      ]
+    },
+    {
+      "client": "Barbara",
+      "severity": 2,
+      "failure": "No fan-facing misconduct is visible in this chat, but our two chatter-queue accounts are her primary contacts and both used reassurance in place of fact — a flat 'it was resolved' three days before she reported the same problem worse, and no written content-safety boundary despite three separate 'will this get flagged?' asks, so she is self-censoring and deleting her own posts.",
+      "evidence": [
+        {
+          "quote": "Don't worry about it Barbara, it was resolved",
+          "who": "Mayson Chat (Aug 21; on Aug 24 she reported traffic 'super down' and said she was 'very nervous')",
+          "date": "2026-08-21"
+        },
+        {
+          "quote": "is this too risqué ... nvm i deleted i was paranoid lol",
+          "who": "Barb Brazil (never answered; she pulled her own reel 3 minutes later)",
+          "date": "2026-08-18"
+        }
+      ]
+    },
+    {
+      "client": "Chey Mai",
+      "severity": 2,
+      "failure": "We told her the form was what guarantees 'nothing you DO NOT want sold is ever sold', never got it back, never chased it, and have been chatting her page ever since — nine weeks of selling with no documented boundaries, and the chatting lead has not posted in the chat since 2026-07-23.",
+      "evidence": [
+        {
+          "quote": "Making sure that nothing you DO NOT want sold is ever sold... with that being said here is the form link for the form",
+          "who": "Mayson Chat",
+          "date": "2026-06-22"
+        },
+        {
+          "quote": "The content that needs to be removed you can archive it",
+          "who": "Mayson Chat",
+          "date": "2026-07-23"
+        }
+      ]
+    },
+    {
+      "client": "Haileigh Cox",
+      "severity": 2,
+      "failure": "We sold customs on her behalf without briefing her until she asked us to stop, we never confirmed back to her that the off-brand text emoticons were banned after she raised it twice, we never confirmed the free comp for the fan who tipped $1.5k, and when a single fan charged back $7,593 we told her it would fix itself rather than investigating what our chatters sold him.",
+      "evidence": [
+        {
+          "quote": "Moving forward can we all have all customs approved by me? Some of these customs are insanity lol",
+          "who": "Hailey Client",
+          "date": "2025-12-29"
+        },
+        {
+          "quote": "Btwwww i hate to be annoying but whoever chats and post on my wall can we please please not do those lame ass emoji things :pppp xD .. i use only real emojis and it just isn't me lol  [second time asking, after 3/6; Joseph: 'Okay I will forward that message for you'; compliance never confirmed to her]",
+          "who": "Hailey Client",
+          "date": "2026-03-26"
+        }
+      ]
+    },
+    {
+      "client": "Hannah",
+      "severity": 2,
+      "failure": "Fred did ask permission before pushing a custom - the right behaviour - but a $150 video call was then sold and only reported to her after the fact with 'Duration : Not discussed', and the fan reached her before we did.",
+      "evidence": [
+        {
+          "quote": "We wanted to check you would be up for it before pushing, we'll avoid specifying a time.",
+          "who": "fred SPITFIRE",
+          "date": "2026-06-17",
+          "note": "Good practice, recorded here deliberately - this is the exact behaviour that was absent in the Vicky account."
+        },
+        {
+          "quote": "the team sold a video call - please let me know when you will be available! Here are the only discussed details: Model name : Hannah Chambers / fan's name: Moe Christ / paid amount: $150 / fans request:VC on Snap / Duration : Not discussed",
+          "who": "fred SPITFIRE",
+          "date": "2026-06-18",
+          "note": "Client's reply: 'I did the call already' - the fan had already reached her directly and she had handled it without a brief from us."
+        }
+      ]
+    },
+    {
+      "client": "Kaitlynn",
+      "severity": 2,
+      "failure": "She gave us an explicit and aggressive selling mandate and we captured none of it in writing — no limits document, no do-not-sell list, no form. Chatters have been selling brand-new never-sold content and impersonating her as a girlfriend for three weeks on the strength of one Telegram message, and her offer to record a re-introduction for her own fans was never taken up.",
+      "evidence": [
+        {
+          "quote": "please sell the f*uck out of content, don’t be afraid to be aggressive with selling or pricing, and always be like a gf to them 🙏🏼💘 my fans have been missing me :,)",
+          "who": "Kaitlynn Anderson Koda",
+          "date": "2026-08-07"
+        },
+        {
+          "quote": "all content uploaded aug 19th is brand new never sold. go crazy!!",
+          "who": "Kaitlynn Anderson Koda",
+          "date": "2026-08-07"
+        }
+      ]
+    },
+    {
+      "client": "Lauren Blake",
+      "severity": 3,
+      "failure": "Chatters were put on her page with no brief on her limits or floors: they offered porn/sex-tape/anal content she does not produce, priced topless at $500 against her $8k diamond floor, sold a topless-JOI-with-face custom AFTER she banned it, and blocked a $27k whale without telling her. Her boundaries have now been stated three times (Aug 1, Aug 14, Aug 18) and have still never been confirmed back to her in writing. Internal language about her fans and her body is extractive rather than protective.",
+      "evidence": [
+        {
+          "quote": "Also I'd like this changed. I don't have actual porn, sex tapes or anything anal. This message it outside of my comfort zone",
+          "who": "Lauren Blake (Ollie: 'Will get this sorted' - never confirmed, then breached)",
+          "date": "2026-08-01"
+        },
+        {
+          "quote": "The second one is topless Joi with face. I already told yall anything topless is mute just music and faceless. So does he want a regular joi with face? Or a topless vid how I explained",
+          "who": "Lauren Blake (13 days after she set the boundary, the custom had already been sold)",
+          "date": "2026-08-14"
+        }
+      ]
+    },
+    {
+      "client": "Lauryn",
+      "severity": 3,
+      "failure": "The vendor chat team repeatedly sold and 'bagged' customs that violate boundaries she stated in week 1, told her fans had already paid before she had agreed, and pressured her four separate times to make an exception after she said no - protecting the vendor's revenue over the client's stated limits.",
+      "evidence": [
+        {
+          "quote": "And No explicit / No Sex / No Naked",
+          "who": "LA Client",
+          "date": "2025-08-30"
+        },
+        {
+          "quote": "Hello LA, we bagged a custom for you...once the custom is done it will be locked for $200 ... details: POV of you sucking that dildo... Topless",
+          "who": "Mon Coeur",
+          "date": "2026-02-20"
+        }
+      ]
+    },
+    {
+      "client": "Lilia",
+      "severity": 3,
+      "failure": "Our chat team repeatedly sells named whales content they already own, prices her explicit content at a fraction of her rates, contradicts her own backstory to fans and is rude to her top spender - she has had to police eight separate incidents and take over her own account to save the relationships.",
+      "evidence": [
+        {
+          "quote": "Chatters are being so rude to him / I keep deleting messages / Idk who’s on my account",
+          "who": "Lilia (about Teddi, her highest spender, whose bereavement backstory she had briefed us on Jun 12)",
+          "date": "2026-07-24"
+        },
+        {
+          "quote": "This guy is new and chatters were selling him super cheap stuff from the set that show everything when he could had so much money to pay for the videos sorry but playing with myself for 4 mins for 35 is crazzzzzyyyy",
+          "who": "Lilia",
+          "date": "2026-07-11"
+        }
+      ]
+    },
+    {
+      "client": "Liza Kovalenko",
+      "severity": 2,
+      "failure": "The OF chat team accepted two paid customs from fans before ever asking her whether she does customs at all, and only asked about her limits after she objected — the boundary conversation happened after the sale, not before. When she asked a direct safety question about OF content flags she got a glib absolute ('nothing will ever happen') instead of an honest answer, and that reassurance was wrong: the flag recurred twice more and spread.",
+      "evidence": [
+        {
+          "quote": "You have 2 that are currently pending 🙏",
+          "who": "Ronnie Chat",
+          "date": "2026-07-20"
+        },
+        {
+          "quote": "Hi Ronnie! I had never done custom videos before, I thought it’s a topic for discussion with me first",
+          "who": "Eli",
+          "date": "2026-07-20"
+        }
+      ]
+    },
+    {
+      "client": "Paige",
+      "severity": 2,
+      "failure": "We told her the form is what guarantees nothing she does not want sold gets sold, never got it back, never chased it, and have been chatting her page for nine weeks without it. Separately, a staff member answered a client-facing account scare with 'Hell nah' and then said nothing further — that is what her last exchange on 8/14 ended on.",
+      "evidence": [
+        {
+          "quote": "Making sure that nothing you DO NOT want sold is ever sold... with that being said here is the form link for the form",
+          "who": "Mayson Chat",
+          "date": "2026-06-25"
+        },
+        {
+          "quote": "Hell nah",
+          "who": "Vivek",
+          "date": "2026-08-14"
+        }
+      ]
+    },
+    {
+      "client": "Sarah Lloyd",
+      "severity": 3,
+      "failure": "Her single most-repeated instruction — protect the whale — was broken twice (BG sent Jun 9 and mass-sent again Aug 20, never unsent, no aftercare, then he was ignored two days running), content boundaries were broken repeatedly (pre-Oct-2025 tapes Jun 9/10/11/17, GGG sold as BGG Jun 25, a custom queued as a PPV Aug 10, a different outfit in every photo of one sexting session Jun 13 and Aug 19), and paying subs were left on read or pushed straight into sales — including a chatter telling a brand-new sub 'nope' to content she owns and CB-funnel subs being sexted while she was live on stream.",
+      "evidence": [
+        {
+          "quote": "Guysss this is my biggest whale!! Ive asked so many times no BG! You’ll have lost him because of this, really upset",
+          "who": "Sarah Lloyd",
+          "date": "2026-08-20"
+        },
+        {
+          "quote": "why would they say nope to content i have ... that was the subs first interaction with me ... then after that they get sent a PPV MM so thats a sub lost",
+          "who": "Sarah Lloyd",
+          "date": "2026-08-24"
+        }
+      ]
+    },
+    {
+      "client": "Sarah",
+      "severity": 2,
+      "failure": "Her stated content boundary was recorded but never propagated to the chat queue - six months after she set it she had to refuse another custom - and a $10.6k custom was sold to her with no check on where she was or what props she had. Honesty to fans was handled well (the 'post nut clarity' briefing in week one), but she has rotated through six different chat contacts with no continuity note.",
+      "evidence": [
+        {
+          "quote": "I also wanted to let you know that I don’t want to do anymore type of pussy play in customs ect using fingers or toys. Even though you can’t directly see it I would prefer to not do it please!",
+          "who": "Sarah H",
+          "date": "2026-01-19"
+        },
+        {
+          "quote": "Just read through all the customs. I don’t have a dildo with me! I’m in New Zealand atm! What should I do",
+          "who": "Sarah H",
+          "date": "2026-07-20"
+        }
+      ]
+    },
+    {
+      "client": "Shayna",
+      "severity": 3,
+      "failure": "We have breached her single hard boundary (never full nude / never show vagina) and her single hardest rule (nothing free on a free page) at least 12 times in 4.5 months, escalating from free birthday nudes to chatters selling VIP on the promise of full nude with fans actually paying - and our only ever remedy has been a verbal reminder plus two chatter deductions; no approved-media folder, no vault-notes rule, no sign-off gate was ever built, and the fans who paid for a promise we cannot keep have still not been refunded, substituted or audited 17 days later.",
+      "evidence": [
+        {
+          "quote": "A big thing on my page is I never agree to show pussy. I'll never do full porn. So if we could just please be mindful to never promise people that",
+          "who": "Shayna Holt",
+          "date": "2026-04-15"
+        },
+        {
+          "quote": "Hi this was the custom that I said I wasn't going to do yesterday, and the chatters are saying that it's done. I'm not sure what they're uploading. / But they charged him 800 already. / And when he sent the 800, they sent it with topless content.",
+          "who": "Shayna Holt",
+          "date": "2026-07-31"
+        }
+      ]
+    },
+    {
+      "client": "Vale",
+      "severity": 3,
+      "failure": "Five fan-trust breaches in 26 days that she caught, not us: 'broken phone/bills' lie-pushes that contradict her public IG, nude content sold at $30 against her stated minimums, a chatter telling a fan a girl-girl video was her best friend Shayna, and her paid private 1:1 live resold as PPV — including back to the fan who had bought it. Every incident was closed with a verbal word to one individual; no written account rulebook exists and nobody has confirmed the private recordings were pulled from PPV inventory.",
+      "evidence": [
+        {
+          "quote": "Like you lie to him about my best friend eating me out and then send a video to a totally different girl ... I don’t want my fans to feel scammed !!!",
+          "who": "Vale",
+          "date": "2026-08-01"
+        },
+        {
+          "quote": "Why is the private live being sent out ? ... He payed to have a private conversation with me so why is being sold ? ... And selling the live to the guy that I had the live with",
+          "who": "Vale",
+          "date": "2026-08-11"
+        }
+      ]
+    },
+    {
+      "client": "Vicky",
+      "severity": 3,
+      "failure": "We sold a $700 video call and a $1,000 custom without briefing the model, made promises to a fan we then denied, and chatted as her on OF while she was talking to the same fan on Snapchat - to the point the fan worked out she had a team. She asked us to protect her long-term whales from generic mass DMs and we agreed and did nothing. $1,700 of fan money is still held against work that was never delivered.",
+      "evidence": [
+        {
+          "quote": "I say you sent them massage 'are you single'. Some of them i know for a long time and some of them married, so when you ask this they understand that this is not me talking",
+          "who": "Valerie (client)",
+          "date": "2026-06-30",
+          "note": "Her top spenders could tell it was not her. She asked for a whale list and a mass-DM pause on 7/1 so she could rebuild trust with voice notes. That request received no reply at all."
+        },
+        {
+          "quote": "Yeah he was messaging us when you were replying... And we were talking same time. So now he thinks you have a team",
+          "who": "Ollie Mckinlay",
+          "date": "2026-07-03",
+          "note": "We blew her persona in a live incident, having first told her 'No nothing sold' four minutes before confirming a $700 call had been sold."
+        }
+      ]
+    }
+  ],
+  "platform_health": [
+    {
+      "client": "Alanna",
+      "severity": 2,
+      "failure": "The impersonating Instagram account was the very first thing she ever asked us for; Derrek filed on 8/4 and sent her the content-owner form, and in the 24 days since nobody has confirmed whether it came down, whether Meta replied, or whether she ever filed. Vivek (Meta support) was never added to this group at all.",
+      "evidence": [
+        {
+          "quote": "Hey sorry to be annoying on the first day but is there a way to remove this insta 🤓",
+          "who": "Alanna<3",
+          "date": "2026-08-03"
+        },
+        {
+          "quote": "hey we sent it in on our end",
+          "who": "Derrek",
+          "date": "2026-08-04"
+        }
+      ]
+    },
+    {
+      "client": "Alex Paige Moore",
+      "severity": 2,
+      "failure": "She has reported IG deletions, shadowbans and reach restrictions roughly a dozen times and we are always warm and same-day, but our answers are advisory rather than owned — 'honestly just time fixes it', 'archive anything spicy'. Twice we offered to source Meta-contact pricing and never came back either time. The April backup-IG unban consumed a passport photo, a passport selfie and then a photo ID from her, and no outcome was ever reported. Vivek, introduced on 2026-07-29 as the dedicated Meta Support Rep she should tag, has never posted a single message in this chat.",
+      "evidence": [
+        {
+          "quote": "My instagram accounts been deleted / I swear everytime I get momentum and it grows it gets deleted I'm over it",
+          "who": "Alex Paige",
+          "date": "2026-02-10"
+        },
+        {
+          "quote": "Do you have a contact at Meta to take this ban off?",
+          "who": "Alex Paige",
+          "date": "2026-03-17"
+        }
+      ]
+    },
+    {
+      "client": "Amber Haze",
+      "severity": 2,
+      "failure": "Real work gets done but ownership keeps moving and the client is left carrying the thread. IG issues bounced Derrek -> an off-Telegram WhatsApp 'insta guy' -> 'kartik' -> Vivek (added Jul 29), to the point where she had to ask Derrek inside Telegram to please reply in WhatsApp. Three backup accounts were burned, link bans took ~12 days to resolve, and the Jul 21 'it's been months and it's 35 followers' complaint sat three days for an acknowledgement and eleven for a substantive answer. The Aug 19 posting restriction was genuinely cleared — but her actual question, whether the remaining warnings can be cleared and by when, was answered with 'Yeah you can post', a different question, and is now 14 days open with no Vivek contact since Aug 19.",
+      "evidence": [
+        {
+          "quote": "Hi Derrek could you reply in the insta guy group chat on what’s app as I need this resolved so I can carry on posting as views are doing well atm want to keep it up",
+          "who": "Kirsten (amber Haze)",
+          "date": "2026-06-15"
+        },
+        {
+          "quote": "so just confused why mines been months and it’s 35 followers 🤣🥺 x",
+          "who": "Kirsten (amber Haze)",
+          "date": "2026-07-21"
+        }
+      ]
+    },
+    {
+      "client": "Barbara",
+      "severity": 3,
+      "failure": "Her IG accounts have been cycling through flags, suspensions and recoveries for 25 days with no named owner, no root-cause finding and no status cadence; we told her not to ask why, we declared it fixed twice without verifying, and the single best root-cause lead on the account was found by the client herself and then sat unexamined.",
+      "evidence": [
+        {
+          "quote": "i'm having account issues every other day, i'm losing recovering losing recovering",
+          "who": "Barb Brazil",
+          "date": "2026-08-11"
+        },
+        {
+          "quote": "this is happening to alot of people. Dont worry about why, we got it and will have it fixed",
+          "who": "Derrek (in reply to 'i don't undertand how this can possibly keep happening ... i'm just getting worried')",
+          "date": "2026-08-11"
+        }
+      ]
+    },
+    {
+      "client": "Chey Mai",
+      "severity": 3,
+      "failure": "She reported her IG being targeted and got a 29-hour wait, a screenshot glance, 'Looks all good / Don't worry' and an instruction to archive her own content — no diagnosis, no ownership, no follow-up. Vivek was introduced on 7/29 as her dedicated Meta rep and has never posted a single message in 30 days, and the phone-farm rollout that was supposed to restart her IG programme has had no update in 27 days.",
+      "evidence": [
+        {
+          "quote": "My Cheymai_ account is being targeted now",
+          "who": "Cheyene Burridge",
+          "date": "2026-07-22"
+        },
+        {
+          "quote": "Looks all good / Don’t worry",
+          "who": "Mayson Chat",
+          "date": "2026-07-23"
+        }
+      ]
+    },
+    {
+      "client": "Haileigh Cox",
+      "severity": 3,
+      "failure": "We pushed her through three successive link products (juicy.bio, link.me, then our own .vip domains), she reported an account restriction or shadowban after every single one, and we never once delivered a root cause or a written all-clear. Worst of all, Mayson told her a domain WE built was safe after she asked point-blank whether it would get her disabled; two of her accounts were restricted within 48 hours and the fix has been open 76 days. The dedicated Meta rep we introduced on 7/29 has posted one message in the entire 734-message history.",
+      "evidence": [
+        {
+          "quote": "This won't get my account disabled will it? I just got my main account back from a perm disable.  [Mayson's answer: 'Yes It's safe to put it in bio']",
+          "who": "Hailey Client",
+          "date": "2026-06-11"
+        },
+        {
+          "quote": "One of my accounts already hit a restriction with it ... And my other one did too  [48h after we told her it was safe; still unresolved 76 days later]",
+          "who": "Hailey Client",
+          "date": "2026-06-13"
+        }
+      ]
+    },
+    {
+      "client": "Hannah",
+      "severity": 2,
+      "failure": "She reported on day 4 that all her socials looked shadowbanned and nobody ever diagnosed it or escalated it; we handled her IG logins and 2FA ourselves but never took ownership of account health. The DMCA/leaks problem was reported as volume removed while the specific links she cared about stayed live for over a month.",
+      "evidence": [
+        {
+          "quote": "I just did this one but I think like all my socials are shadow banned",
+          "who": "Bells Vale Referral (client)",
+          "date": "2026-05-31",
+          "note": "No diagnosis, no check, no escalation. The reply steered her to a link.me. She worked around it herself by switching to her personal TikTok."
+        },
+        {
+          "quote": "Hi all those leaks are still up",
+          "who": "Bells Vale Referral (client)",
+          "date": "2026-06-26",
+          "note": "Sent the day after a graphic claiming 197 infringements removed. She then re-sent ten fresh links in the next eight minutes."
+        }
+      ]
+    },
+    {
+      "client": "Lauren Blake",
+      "severity": 2,
+      "failure": "IG growth was her stated number-one goal and no single person visibly owns it. The only substantive platform update in 56 days was Derrek's Aug 1 broadcast apology about a $40k phone farm, which promised 'plenty of updates starting next week' and produced none; Vivek was introduced as the Meta support rep on Jul 29 and has never posted a message; and the reel page her content is being posted to was only shared on Aug 16, after she asked what happens next.",
+      "evidence": [
+        {
+          "quote": "My ultimate goal is to get traffic picked up. Please let me know what you need from me to get started and getting momentum",
+          "who": "Lauren Blake",
+          "date": "2026-07-06"
+        },
+        {
+          "quote": "My apologies, for any lack of communication. As this has required us to swap out over 200 devices, and over 1000 accounts.",
+          "who": "Derrek (single broadcast update; nothing before it, nothing after it)",
+          "date": "2026-08-01"
+        }
+      ]
+    },
+    {
+      "client": "Lauryn",
+      "severity": 3,
+      "failure": "The Facebook page has been 'not recommended' since 2025-09-27 - 335 days - and ownership has bounced from Sophie's unnamed 'Facebook team' to nobody at all for roughly nine months to Vivek; no dated plan has ever been produced, and Vivek spent a week blaming 'Facebook servers' and reported progress on the wrong platform.",
+      "evidence": [
+        {
+          "quote": "Timeline wise it is hard to say, it could take one month or 6 months for the flags to clear. But we are keeping a close eye on things and will keep you updated every step of the way 🫠",
+          "who": "Sophie Logan (Raw Agency)",
+          "date": "2025-10-08"
+        },
+        {
+          "quote": "Done with Instagram now only focus on Facebook shadow / Top priority",
+          "who": "Vivek",
+          "date": "2026-08-19"
+        }
+      ]
+    },
+    {
+      "client": "Lilia",
+      "severity": 3,
+      "failure": "The Meta/TikTok support seat Derrek sold her on Jul 29 has produced six messages in total; her TikTok shadowban has been open 10 days, she diagnosed it herself, and the Facebook screenshots she posted on Aug 24 have never been acknowledged by anyone.",
+      "evidence": [
+        {
+          "quote": "I’m definitely shadowbanned on TikTok so I can’t really post anything",
+          "who": "Lilia (client diagnosing the problem she hired us to diagnose, 4 days after handing over the login)",
+          "date": "2026-08-22"
+        },
+        {
+          "quote": "Not yet busy with instagram unbans",
+          "who": "Vivek (his second of six lifetime messages in this chat; he has not posted since asking for a login code on Aug 24)",
+          "date": "2026-08-19"
+        }
+      ]
+    },
+    {
+      "client": "Liza Kovalenko",
+      "severity": 3,
+      "failure": "Her stated #1 concern — IG flags, shadowbans, account locks and random deletions — has run unresolved for 322 days with no owner, no cadence and contradictory diagnoses (Sophie said phishing scam, Derrek said device logins, Mica said automated flagging). Her 2026-03-17 'not recommended' report was never answered by anyone. The OF 'tag a creator' flag has recurred three times since 2026-01-26 with a workaround and no diagnosis. Vivek (@fonta), announced 2026-07-29 as the Meta Support Rep she should tag, has posted zero messages in 30 days, and the $40k Phone Farm fix has had zero updates since 2026-08-04.",
+      "evidence": [
+        {
+          "quote": "Hey babe idk what going on it’s actually really concerning.. every time I delete the flagged posts they put there new posts, and there’s like A LOT of them and as you can see it’s even videos in clothes.. at this point I have to delete every reel I posted and every photo",
+          "who": "Eli",
+          "date": "2025-10-10"
+        },
+        {
+          "quote": "Hi babe ! I have this problem with my insta again when they don’t recommend my profile but won’t tell me what’s wrong or what content to remove… 🫩 / Maybe the link became the problem?",
+          "who": "Eli",
+          "date": "2026-03-17"
+        }
+      ]
+    },
+    {
+      "client": "Mila",
+      "severity": 3,
+      "failure": "She told us on day three that her Instagram had been suspended again and that she had followed our instruction not to appeal — and nobody has ever answered what happens next. Six days later the Social Media Director casually confirmed the account was still suspended and moved on. Vivek was introduced as her Meta rep on 7/29 and has never posted a single message; the Copyright Ban Protection offer was never mentioned again; and the phone-farm rollout that was supposed to restart her posting has had no update in 27 days while she keeps uploading content into it.",
+      "evidence": [
+        {
+          "quote": "Hey guys my accounts been suspended again, I haven’t clicked appeal this time as you said not to, so what happens now x",
+          "who": "Callie (Mila)",
+          "date": "2026-06-23"
+        },
+        {
+          "quote": "send instagram too even if it’s suspended!",
+          "who": "Mica Vecco",
+          "date": "2026-06-29"
+        }
+      ]
+    },
+    {
+      "client": "Paige",
+      "severity": 3,
+      "failure": "Five lockout/reset episodes in 30 days (7/29, 8/13-14, 8/20-21, 8/26-27) and the root cause has never been diagnosed, written down or explained to her. On 8/14 she was asked to approve a login for an account name that is not hers, replied 'what the hell hold on', and has never been told what happened or reassured that nothing was cross-linked. On 8/27 she supplied a handle nobody had ever seen before and nobody asked which account it was. Copyright Ban Protection, offered 7/29, was never set up.",
+      "evidence": [
+        {
+          "quote": "please help 😂💞",
+          "who": "Paige (Chey Ref)",
+          "date": "2026-08-13"
+        },
+        {
+          "quote": "No you give me on wrong page approval / Unfilteredlifiting",
+          "who": "Vivek",
+          "date": "2026-08-14"
+        }
+      ]
+    },
+    {
+      "client": "Sarah Lloyd",
+      "severity": 3,
+      "failure": "Her first Facebook/Instagram help request sat completely unanswered for 18 days until Derrek added a Meta rep; that rep then forgot the task, delivered only 'under watch till September' with no explanation of what she should do differently, said he would explain the Instagram collapse from 20M to 4M profile views and has not posted in the chat in the 20 days since, and her two Instagram bans were never resolved. She has now gone two weeks without raising her own traffic engine — that is abandonment, not resolution.",
+      "evidence": [
+        {
+          "quote": "Hey guys! I need some help with my Facebook & Instagram. Main Facebook is non recommendable (no specific post & no option to appeal). Instagram has no account issues but trial reels have gone from consistently getting 100k+ views 2-3 times daily to getting 200-400 views. Any help would be great 🙏",
+          "who": "Sarah Lloyd",
+          "date": "2026-07-11"
+        },
+        {
+          "quote": "Sorry i forgot about Facebook",
+          "who": "Vivek",
+          "date": "2026-08-03"
+        }
+      ]
+    },
+    {
+      "client": "Sarah",
+      "severity": 3,
+      "failure": "IG recovery is her single biggest pain point and we have never owned it end to end - ownership rotated Sophie -> Mica -> Michelle -> Derrek -> Vivek; in Sep 2025 we told her to pay her own outside guy; in Dec 2025 our recovery flow left an account non-appealable and she recovered it herself; and the Aug 9 loss of her main 530k account has had zero update in 18 days from the Meta rep Derrek personally introduced as her escalation path.",
+      "evidence": [
+        {
+          "quote": "Delays through our vendor for recoveries without cost! Suggest you pay through your guy to get it back so you have that faster turn around ❤️",
+          "who": "Sophie Logan (Raw Agency)",
+          "date": "2025-09-30"
+        },
+        {
+          "quote": "Hey! Pretty sure I’ve just got back on IG on my own! I’m sorry it was taking too long so I appealed to see what would happen!",
+          "who": "Sarah H",
+          "date": "2025-12-04"
+        }
+      ]
+    },
+    {
+      "client": "Shayna",
+      "severity": 2,
+      "failure": "The whole social/IG side has gone dark on her without anyone closing it out: the backup-IG reels thread we opened on 4/21 produced nothing after 5/1 and the handle was never delivered, the owner's 8/1 phone-farm note admitted 'lack of communication' and promised weekly updates that never came, and reel inspo - our only visible social deliverable - stopped 15 days ago; she is home and shooting again from 8/26 and if she asks what she is paying for on socials we have no recent evidence to point at.",
+      "evidence": [
+        {
+          "quote": "Hey love, just checking in about the reels for the backup IG account. Have you had a chance to start working on any content yet? (last message in this thread; the backup IG was never named or delivered and nobody has mentioned it in the 119 days since)",
+          "who": "Michelle Queue",
+          "date": "2026-05-01"
+        },
+        {
+          "quote": "we have had pages constantly flagged, shadowbanned or deleted... My apologies, for any lack of communication... we will have plenty of updates starting next week",
+          "who": "Derrek",
+          "date": "2026-08-01"
+        }
+      ]
+    },
+    {
+      "client": "Vicky",
+      "severity": 3,
+      "failure": "Her second page went days with no new fans; she screenshotted it three times in six days and each answer was a bare assertion with no data. Separately, on 7/24 she was silently disconnected from Infloww and locked out of her own OnlyFans accounts, and the response was to ask whether she had changed her password. The agency-wide IG/phone-farm crisis was communicated as a broadcast and never translated into anything account-specific for her.",
+      "evidence": [
+        {
+          "quote": "Hello, on my second page many days no fans @mermaidua",
+          "who": "Valerie (client)",
+          "date": "2026-08-11",
+          "note": "First of three screenshots. Answered 8/12 with 'Looking into this for you', 8/14 with 'Yes that one was solved', 8/17 with 'Yes all solved'. No figure was ever produced."
+        },
+        {
+          "quote": "Im disconnected from infloww... I can't log in to my accounts anymore, did you do something or its OF issue?",
+          "who": "Valerie (client)",
+          "date": "2026-07-24",
+          "note": "A model locked out of her own business by her agency. Ollie's reply: 'You changed your password again?'. Never explained in writing, never confirmed fixed."
+        }
+      ]
+    }
+  ],
+  "billing_ops": [
+    {
+      "client": "Alanna",
+      "severity": 2,
+      "failure": "First invoice went out on the promised date but with no due date and no terms; the client never acknowledged it, the first chase came 11 days later, and 13 days on we still have no confirmation of payment or non-payment.",
+      "evidence": [
+        {
+          "quote": "Invoicing will start on the 15th 🙂",
+          "who": "Stephski",
+          "date": "2026-08-04"
+        },
+        {
+          "quote": "Below is your invoice for the period of August 4th-14th. Please note all banking info is on the bottom of this document.",
+          "who": "Stephski",
+          "date": "2026-08-15"
+        }
+      ]
+    },
+    {
+      "client": "Alex Paige Moore",
+      "severity": 3,
+      "failure": "We changed our banking details four times in eleven months, each time announced inside an invoice message with no out-of-band confirmation, including one six weeks after we promised it was the last. We introduced a 5% card surcharge retroactively mid-invoice. It took five nudges across nine days in July to get her a payment link she had asked for. Worst of all we cannot state the net position: an open $1,989 reconciliation dispute from 2026-07-27 has never been answered with a ledger, our own debts to her ($4,160 and $2,434) were settled by shrinking her invoices instead of paying her, and Derrek's 'Sending' on 2026-08-13 is still the last word with no receipt and no residual balance.",
+      "evidence": [
+        {
+          "quote": "Want to let you know we have a new bank for you to send to (last change I promise!)",
+          "who": "Stephski",
+          "date": "2026-07-01"
+        },
+        {
+          "quote": "Please note an update to the account number, please try and send using the information on the invoice. Have also attached updated Zelle info",
+          "who": "Stephski",
+          "date": "2026-08-15"
+        }
+      ]
+    },
+    {
+      "client": "Amber Haze",
+      "severity": 2,
+      "failure": "The client is flawless here and we are not. First invoice used 35% against an agreed 30%; the second had the wrong total revenue and was reissued same day; the Jun 1-14 invoice went out five days late on our own 'technical difficulties'; the Jul 15-31 invoice needed a chase-ping before she had even seen it and then turned out to be $47 over. Most operationally risky: our receiving bank details have changed three times since May (Wise -> Bank of America on Jul 1 billed as 'last change I promise!' -> a new account number on Aug 15) for a UK payer who already failed once setting up an international wire. She audits every invoice against her own OF dashboard and has paid seven cycles running, the last in ~35 hours with no ping and no correction.",
+      "evidence": [
+        {
+          "quote": "it’s also 30% not 35%, if we wait to see what comes through tomorrow then we can take off $4745.27 and then do the 30% on what’s left.",
+          "who": "Kirsten (amber Haze)",
+          "date": "2026-05-17"
+        },
+        {
+          "quote": "Hi love! apologies for the delay on the invoice, we've had some technical difficulties on our side.",
+          "who": "Stephski",
+          "date": "2026-06-20"
+        }
+      ]
+    },
+    {
+      "client": "Barbara",
+      "severity": 2,
+      "failure": "Her first invoice failed on our payment rail three separate times over six days and only cleared when the owner gave out a personal phone number as the Zelle destination; the rail was then fixed, but cycle two regressed on service — six days to acknowledge payment with a bare thank-you, no total ever reconciled, the invoiced amount has never appeared in the chat, and after two split payments and a bank hold we still have not offered her an ACH or wire alternative.",
+      "evidence": [
+        {
+          "quote": "hey just letting you know i never received invoice request! ... it's not working /:",
+          "who": "Barb Brazil (third consecutive rail failure in six days; resolved only by the owner supplying a personal phone number as the destination)",
+          "date": "2026-08-08"
+        },
+        {
+          "quote": "Hm thats weird! let me see whats going on and get back to you",
+          "who": "Stephski (invoice email not recognised; two days before a working route was offered)",
+          "date": "2026-08-04"
+        }
+      ]
+    },
+    {
+      "client": "Chey Mai",
+      "severity": 3,
+      "failure": "Two invoices are overdue at once, four chases have gone unanswered, we changed the receiving bank account number mid-relationship on 8/15 and never restated or verified it when chasing, we twice threatened to pause work for non-payment and never enforced or retracted it, and her question about payment rails is still unanswered after 46 days.",
+      "evidence": [
+        {
+          "quote": "If you could please send it by end of the day today to avoid a pause in work that would be great 🙏",
+          "who": "Stephski",
+          "date": "2026-08-11"
+        },
+        {
+          "quote": "Please note an update to the account number, please try and send using the information on the invoice.",
+          "who": "Stephski",
+          "date": "2026-08-15"
+        }
+      ]
+    },
+    {
+      "client": "Haileigh Cox",
+      "severity": 3,
+      "failure": "We have moved her banking rails at least five times since April, shipped a wire address that did not work at all, sent a Stripe link in error and retracted it, changed the account number again on 8/15, and then verbally told her to ignore the invoice's own written instruction. Separately we have failed to confirm receipt three times (6/4, 6/16, 7/9) despite her asking directly each time — for a client who has paid 25 of 25 cycles.",
+      "evidence": [
+        {
+          "quote": "Hi!! The address for the new wire is not working.. idk what to do  [the Bank of America wire address we published on 7/1 was invalid; fixed 22h later]",
+          "who": "Hailey Client",
+          "date": "2026-07-07"
+        },
+        {
+          "quote": "Hey i just paid can you confirm it went thru on ur end  [Stephski: 'Checking!' — no confirmation ever followed. Same pattern on 6/4 'Did you receive it? :)' and 7/9 'Did you ever get it?']",
+          "who": "Hailey Client",
+          "date": "2026-06-16"
+        }
+      ]
+    },
+    {
+      "client": "Hannah",
+      "severity": 3,
+      "failure": "Four payment rails in 33 days - Zelle with no phone number, then a non-working ALTR email, then a Mercury link we later admitted was incorrect, then Chase, then Bank of America - plus an unresolved commission policy the client ended up applying herself. The first invoice was never paid on its own rail; the last invoice was never issued at all.",
+      "evidence": [
+        {
+          "quote": "Hi checking in here, if you want we can just add this invoice to the next one we'll be sending out in 5 days, let me know",
+          "who": "Stephski",
+          "date": "2026-06-10",
+          "note": "Invoice #1 (5/29-5/31) had to be abandoned and rolled forward purely because our own Zelle details did not work. She had tried to pay it for nine days."
+        },
+        {
+          "quote": "The mercury link is incorrect",
+          "who": "Stephski",
+          "date": "2026-06-23",
+          "note": "Told to her eight days after she was sent that link and asked to pay through it, and only in the middle of resolving her disputed total."
+        }
+      ]
+    },
+    {
+      "client": "Kaitlynn",
+      "severity": 3,
+      "failure": "She told us her wire required 'jumping through hoops' and that $91 was missing, and billing never replied at all — the owner said 'all good' and the shortfall was never reconciled or invoiced. Her question about the invoicing cycle is 11 days unanswered, and no invoice has been issued since 8/15, leaving two full service periods (Aug 15-21, Aug 22-28) unbilled on a client who pays.",
+      "evidence": [
+        {
+          "quote": "The last invoice was paid. Had to jump through a few hoops with the wire transfer. Not sure why. The 91.00$ wasn’t included but I can send that thru Zelle or just with the next wire. 😇",
+          "who": "Kaitlynn Anderson Koda",
+          "date": "2026-08-21"
+        },
+        {
+          "quote": "all good",
+          "who": "Derrek",
+          "date": "2026-08-21"
+        }
+      ]
+    },
+    {
+      "client": "Lauren Blake",
+      "severity": 3,
+      "failure": "We changed the receiving account number on the Aug 15 invoice, never re-confirmed it in a standalone message, and then sent four chases while her bank rejected two wires against it - pushing a rail we probably broke back onto the client. The Zelle fallback we offered is not viable and she told us so. The 5% paid-ads fee has now ridden two invoices with no Meta ad report behind it, and invoice 3 is due Aug 29 on top of an unsettled invoice 2 while she is abroad.",
+      "evidence": [
+        {
+          "quote": "Please note an update to the account number, please try and send using the information on the invoice. Have also attached updated Zelle info that should be easy to use now.",
+          "who": "Stephski (the account-number change that precedes both wire rejections; never re-sent or verified)",
+          "date": "2026-08-15"
+        },
+        {
+          "quote": "Hey just fyi my bank sent me this just now from the wire on Friday",
+          "who": "Lauren Blake (she flagged the failure herself, unprompted, with a screenshot)",
+          "date": "2026-08-24"
+        }
+      ]
+    },
+    {
+      "client": "Lauryn",
+      "severity": 3,
+      "failure": "Seven payment-rail disruptions in twelve months, all ALTR-side: a Zelle address her bank rejected, a Mercury link we told her would bounce after sending it, three bank changes, a 5% card surcharge introduced mid-relationship, and invoices posted with no total and no due date - then an 11-day chase gap that let the Aug 15 invoice go past terms.",
+      "evidence": [
+        {
+          "quote": "Hi love! Wanted to let you know that if you paid via the Mercury link above, your transaction will bounce, can you please continue sending to the Chase account you've used previously? ... Apologies for the back and fourth, American Banking systems am I right 😂",
+          "who": "Stephski",
+          "date": "2026-06-22"
+        },
+        {
+          "quote": "LA can you please try and zelle derrek? our zelle is having issues again im so sorry",
+          "who": "Stephski",
+          "date": "2026-08-09"
+        }
+      ]
+    },
+    {
+      "client": "Lilia",
+      "severity": 2,
+      "failure": "Our receiving details have changed five times since Jun 15 - a bounced payment link, two bank switches and a dead Zelle ID mid-payment - which throttled two of the last three cycles into $500/day installments, caused the only late invoice on the account, and we still have not offered the wire/ACH rail she has effectively asked for four times or reconciled the $192 gap between her ledger and ours.",
+      "evidence": [
+        {
+          "quote": "I tried Zelleing u twice but it says u no longer have the ID / Is there another Zelle u have",
+          "who": "Lilia (our Zelle identifier died mid-cycle; the resulting delay is the whole reason the Jul 15-31 invoice closed ~7 days late)",
+          "date": "2026-08-12"
+        },
+        {
+          "quote": "Are you able to send us your earning statement from Aug 1-14? having trouble acessing on my side",
+          "who": "Stephski (we asked the client to do our bookkeeping; still unfixed 13 days later with the next invoice due ~Sept 1)",
+          "date": "2026-08-15"
+        }
+      ]
+    },
+    {
+      "client": "Liza Kovalenko",
+      "severity": 3,
+      "failure": "We changed receiving banks five times in eleven months (OF Match Ent → Social Depot → a new bank in April → Mercury → Bank of America → a changed account number on 2026-08-15, the last one buried inside an invoice message) for the one client who must wire in person from a Mexican branch. Eleven days after that change her online-banking wires physically bounced and she had to go back to a branch to resend. There is no receipt-confirmation SOP: every cycle since June closed only because she chased, three consecutive cycles produced a discrepancy ($200 short 07-14, phantom '$1201 remaining' 07-27, $2,433 unconfirmed now), and nobody has yet asked her whether the 08-25 wires are resends or additional money — so we do not know whether we are holding ~$7.4k or ~$14k of hers.",
+      "evidence": [
+        {
+          "quote": "So I checked and she told me it was sent in two wires / You sure you only got one? Can you please double check?",
+          "who": "Eli",
+          "date": "2026-07-29"
+        },
+        {
+          "quote": "got the 5000! waiting for the others to show up",
+          "who": "Stephski",
+          "date": "2026-08-26"
+        }
+      ]
+    },
+    {
+      "client": "Mila",
+      "severity": 3,
+      "failure": "Billing has been the dominant experience of this relationship and it has failed in every direction: an international client was invoiced in USD with no currency guidance, told the conversion would be handled on the next invoice and then had to ask again, had a wire go missing because a bank fee changed the total, was told to reuse the same account and then sent a changed account number a month later, asked twice whether a possibly-duplicated payment cleared and was told 'will update you shortly' 17 days ago, and her 8/17 wire to the new details has never been confirmed as received.",
+      "evidence": [
+        {
+          "quote": "Is there a specific way you want me to do the conversion rate as the invoice is in dollars? :)",
+          "who": "Callie (Mila)",
+          "date": "2026-07-06"
+        },
+        {
+          "quote": "please let me know when you’ve received it and if you could just double check it doesn’t come through twice🙄",
+          "who": "Callie (Mila)",
+          "date": "2026-08-08"
+        }
+      ]
+    },
+    {
+      "client": "Sarah Lloyd",
+      "severity": 2,
+      "failure": "Seven cycles, and she has had to audit and correct five invoices for us (missing $100/week OFTV editor credit, 35% billed instead of the agreed 30% twice, an overpayment credit that needed a Derrek tag to move). We changed our receiving bank three times in ten weeks including a written 'last change I promise' that was broken six weeks later, her bank flagged the third account as suspicious and bounced the wire twice, and the owner then chased her three times for money that physically could not arrive — she funded two test wires from her own pocket and apologised to us. Corrections are fast; the error rate and the banking churn are the problem.",
+      "evidence": [
+        {
+          "quote": "Want to let you know we have a new bank for you to send to (last change I promise!). Thank you for being patient with us while we handle things on our side and continuing to be on time with your invoice payments.",
+          "who": "Stephski",
+          "date": "2026-07-05"
+        },
+        {
+          "quote": "Thanks Stephanie! When I signed we agreed on $100 weekly to cover what I pay my OFTV editor, I just noticed this hasn’t been taken off any invoices. Could this please be backdated & adjusted on this one? 😊",
+          "who": "Sarah Lloyd",
+          "date": "2026-07-15"
+        }
+      ]
+    },
+    {
+      "client": "Sarah",
+      "severity": 3,
+      "failure": "Billing is now the only live surface of this relationship and it is the one that keeps breaking: four bank-detail changes in ten months (one of them a payment link we told her would bounce), a payment we chased that we had already received, manual referral deductions that delayed three consecutive cycles, the first missed invoice cycle in 11 months (Aug 15 promised, sent Aug 21, no apology), and three invoice errors in four months - every one of them caught by her, not by us.",
+      "evidence": [
+        {
+          "quote": "Hi love, do you by any chance have an update on the payment? We have not received it yet 🥰",
+          "who": "Lauren Biz Assistant",
+          "date": "2025-10-28"
+        },
+        {
+          "quote": "Wanted to let you know that if send via the Mercury link above, your transaction will bounce, can you please continue sending to the Chase account you've used previously?",
+          "who": "Stephski",
+          "date": "2026-06-22"
+        }
+      ]
+    },
+    {
+      "client": "Shayna",
+      "severity": 3,
+      "failure": "We have changed our banking details on her four times in four months (Wire/Zelle 5/1 -> Mercury 6/15 -> Bank of America 7/1 'last change I promise!' -> new account number + new Zelle 8/15), and both of the two invoice cycles that ran late came immediately after a change; her one stated unblocker - same-day confirmation that funds landed on the new rail - was honoured brilliantly on 7/5 and then ignored twice, leaving her direct 8/18 question about her $1,000/day Zelle cap unanswered for 8 days, the invoice 4 days past terms, and her 'everything is sent!' still unacknowledged 2 days later.",
+      "evidence": [
+        {
+          "quote": "Will send right now, if it's a new Zelle I may only be able to do 1000 at a time. Let me check (never answered; our only reply came 8 days later and was a chase, not an answer)",
+          "who": "Shayna Holt",
+          "date": "2026-08-18"
+        },
+        {
+          "quote": "Hope you're having a great trip! Checking back in on this (11 days after issue, past terms, containing no total, no receipt confirmation and no alternative rail)",
+          "who": "Stephski",
+          "date": "2026-08-26"
+        }
+      ]
+    },
+    {
+      "client": "Vale",
+      "severity": 2,
+      "failure": "Four banking changes in five months (Apr 15 new bank, Jun 15 Mercury, Jul 1 Bank of America, Aug 15 new account number) — the Jul 1 change cost three days of failed Zelle/ACH attempts and drew an 18h reply that repeated advice she had already said did not work; we chased four already-paid invoices, addressed her by another client's name on a corrected invoice, and have still not acknowledged her Aug 17 payment eleven days on, against the very account number that changed.",
+      "evidence": [
+        {
+          "quote": "Hi I’ve been trying to use Zelle but it doesn’t take that email / And when I set up ach payments it’s also not letting me for some reason / So is there another way I can pay ?",
+          "who": "Vale",
+          "date": "2026-07-03"
+        },
+        {
+          "quote": "Already sent it / Sent it the 16th",
+          "who": "Vale",
+          "date": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "client": "Vicky",
+      "severity": 3,
+      "failure": "We sent her a wrong-chain crypto address for a payment she had specified precisely, needed three nudges to collect a single invoice, changed the account number and pushed a new Zelle rail at her in the middle of her worst week, and then handled the final settlement by attaching a file with no covering message and no amount. She has still never been told what she owes.",
+      "evidence": [
+        {
+          "quote": "Hello, I asked USDT trc 20 / This is not the right one",
+          "who": "Valerie (client)",
+          "date": "2026-07-06",
+          "note": "She had specified USDT TRC20 on 7/5; the address supplied on 7/6 was on the Ethereum chain. Sending to it would likely have lost the funds. Corrected 7/7. Addresses deliberately not reproduced here."
+        },
+        {
+          "quote": "Please note an update to the account number, please try and send using the information on the invoice. Have also attached updated Zelle info that should be easy to use now.",
+          "who": "Stephski",
+          "date": "2026-08-15",
+          "note": "A changed account number plus a new payment rail, sent to a crypto-only client who had already been burned by a wrong address - and sent during the week she was escalating a complaint for the third time. Nobody asked whether this was the right week."
+        }
+      ]
+    }
+  ],
+  "ownership_escalation": [
+    {
+      "client": "Alanna",
+      "severity": 2,
+      "failure": "No single owner for her release calendar after 8/12; DMCA sits personally with the owner with no cadence and he has not posted in 16 days; internal coordination is done in front of the client, and a chatter has twice had to publicly tag the AM to get her a one-word answer.",
+      "evidence": [
+        {
+          "quote": "@olkmck do we need anything?",
+          "who": "Mayson Chat",
+          "date": "2026-08-15"
+        },
+        {
+          "quote": "@olkmck ^",
+          "who": "Mayson Chat",
+          "date": "2026-08-26"
+        }
+      ]
+    },
+    {
+      "client": "Alex Paige Moore",
+      "severity": 3,
+      "failure": "Eighteen of our people have posted in this chat and seven have effectively owned it in sequence — Sophie, Lauren, Olivia, Nick Scott, Eric, Joseph H, Mayson — and every single departure was silent. Escalation is done by tagging a handle into the room and hoping, and the tag frequently is the end of the thread. The client has twice had to ask a chatter to go find the agency owner for her, and the Meta support rep she was told to tag has never spoken.",
+      "evidence": [
+        {
+          "quote": "Also have you been able to get in contact with Derek I've been trying all week and he's not responded",
+          "who": "Alex Paige",
+          "date": "2026-07-06"
+        },
+        {
+          "quote": "@mmayson are you able to contact Derrek",
+          "who": "Alex Paige",
+          "date": "2026-07-13"
+        }
+      ]
+    },
+    {
+      "client": "Amber Haze",
+      "severity": 3,
+      "failure": "Nothing on this account has a closer. The default response to a client question is a tag-and-forward ('@joshiepooh ^^', '@olkmck ^^', '@fonta any updates on this^', '@sotom225 ^') and then silence. On Jul 24 three separate staff responded to her escalation with 'checking on this', '@olkmck ^^' and 'derrek is going to reach out', and Derrek never reached out. On Aug 21 the owner himself tagged '@olkmck' onto her counter-offer for two out-of-boundary fans and there has been no reply in the seven days since; Ollie has been silent for ten days while carrying four open items. She has adapted by tagging our staff herself.",
+      "evidence": [
+        {
+          "quote": "@olkmck",
+          "who": "Derrek",
+          "date": "2026-08-21"
+        },
+        {
+          "quote": "@mmayson can someone reply please",
+          "who": "Kirsten (amber Haze)",
+          "date": "2026-08-07"
+        }
+      ]
+    },
+    {
+      "client": "Barbara",
+      "severity": 3,
+      "failure": "Nobody owns this account. Our default motion is a chatter tagging someone else with '^^' and then walking away — the tag counts as the work. When she escalated she had to name three people at once, and the one who was tagged internally posted four more times that week without ever answering.",
+      "evidence": [
+        {
+          "quote": "@sotom225 any updates on instagrams?",
+          "who": "Mayson Chat (tagged Michelle after the escalation; Michelle then posted on Aug 25, twice on Aug 26 and again on Aug 27 without answering it)",
+          "date": "2026-08-24"
+        },
+        {
+          "quote": "Lmk im very nervous with the situation @mmayson @ofwizz @sotom225",
+          "who": "Barb Brazil (she had to tag three separate people to try to get one answer)",
+          "date": "2026-08-24"
+        }
+      ]
+    },
+    {
+      "client": "Chey Mai",
+      "severity": 3,
+      "failure": "This client has no account manager. Nobody has ever owned her results; the chatting lead went silent 36 days ago, the Meta rep never appeared, the Social Media Director never introduced herself, and invoicing is now the only function in contact with her — which means the only person watching a churning client is the one asking her for money.",
+      "evidence": [
+        {
+          "quote": "@mmayson  can you please coordinate with start time so she can unlink her current team :)",
+          "who": "Eric The Efficient",
+          "date": "2026-06-22"
+        },
+        {
+          "quote": "@cheymai1 Hey we're still missing payment 🙂",
+          "who": "Stephski",
+          "date": "2026-07-11"
+        }
+      ]
+    },
+    {
+      "client": "Haileigh Cox",
+      "severity": 3,
+      "failure": "Nobody owns this account. She asked outright in March whether she has an account manager, was told yes and that they would reach out, and nobody ever did. Since then her named contacts have left the group one after another with zero announcement or handover (Sophie 10/9, Lauren 11/4, Olivia 11/5, Nick Scott 12/29, Noah 1/20, Eric 4/22, Joseph deleted from the group 7/8), and her requests now bounce between staff via @tags that go unanswered.",
+      "evidence": [
+        {
+          "quote": "Do I have an account manager?  [Joseph: 'Yes you do, Let me reach out to my contacts and ask where they are at' ... 'I will relay this to them and they should reach out to you' — nobody ever did, 159 days ago]",
+          "who": "Hailey Client",
+          "date": "2026-03-22"
+        },
+        {
+          "quote": "I want to be kept in the loop more now moving forward. There's zero communication between me and anyone here.",
+          "who": "Hailey Client",
+          "date": "2026-03-22"
+        }
+      ]
+    },
+    {
+      "client": "Hannah",
+      "severity": 2,
+      "failure": "The topic structure routed messages but nobody owned outcomes. Questions were resolved by @-tagging a colleague and then forgetting; there was no single account owner who could see that the same complaint had now been raised twice.",
+      "evidence": [
+        {
+          "quote": "@ofmfrederick ^^",
+          "who": "Mayson Chat",
+          "date": "2026-06-27",
+          "note": "Her script/quality question was routed by tag and answered three days later. The tag was treated as the resolution."
+        },
+        {
+          "quote": "@sotom225 will reach out to you soon on how to get started on that :)",
+          "who": "Mica Vecco",
+          "date": "2026-06-02",
+          "note": "Ownership transferred verbally to someone who was not in the conversation. Nothing tracked it; the paid promo she had been sold never started."
+        }
+      ]
+    },
+    {
+      "client": "Kaitlynn",
+      "severity": 2,
+      "failure": "She had to ask who owned her account on day two; when she asked for a call the chatting lead picked it up rather than the account manager and it then belonged to nobody; and the owner misfired another client's chase message into her chat on the day she paid, forcing her to defend a payment she had already reported.",
+      "evidence": [
+        {
+          "quote": "no worries i unsent, remind me who my account manager is :)",
+          "who": "Kaitlynn Anderson Koda",
+          "date": "2026-08-08"
+        },
+        {
+          "quote": "Kaitlynn hey! Could you clear this up when you had a chance",
+          "who": "Derrek",
+          "date": "2026-08-21"
+        }
+      ]
+    },
+    {
+      "client": "Lauren Blake",
+      "severity": 3,
+      "failure": "Nobody owns this account end-to-end. Mayson has acted as a human pager four times (Jul 17, Aug 7, Aug 15, Aug 22) because the chat lead is not watching the group; Ollie owns five open items and sent one message in the last week; the ad-report question bounced Stephski to Derrek to nobody; the wire failure bounced Derrek to Stephski to the client. She has to @-tag staff herself to get blocking questions seen.",
+      "evidence": [
+        {
+          "quote": "@olkmck can we let the team know^",
+          "who": "Mayson Chat (routing her 10-day travel notice to her own account manager after it sat 13 hours)",
+          "date": "2026-08-22"
+        },
+        {
+          "quote": "@olkmck ^^",
+          "who": "Mayson Chat (paging Ollie on her chargeback worry after 3 hours of silence; Ollie's reply: 'Apologies was on a flight')",
+          "date": "2026-07-17"
+        }
+      ]
+    },
+    {
+      "client": "Lauryn",
+      "severity": 3,
+      "failure": "Nobody owns this account end-to-end: she has to tag three different people to move one issue, a chatter has to tag the Meta rep on her behalf, and the entire vendor chat team was swapped out with a one-line aside to a colleague - never explained to the client, and the replacement team never arrived.",
+      "evidence": [
+        {
+          "quote": "Hey @lxnselot we are putting on a different team",
+          "who": "Mayson Chat",
+          "date": "2026-06-10"
+        },
+        {
+          "quote": "@fonta ^^",
+          "who": "Mayson Chat",
+          "date": "2026-08-21"
+        }
+      ]
+    },
+    {
+      "client": "Lilia",
+      "severity": 2,
+      "failure": "No single person owns this account. A queue-account chatter (Mayson) does the internal traffic control, forwarding her messages to Fred with '^^' five times since July, and Fred routes every issue to an unnamed 'the team' - so no individual is ever accountable for an outcome.",
+      "evidence": [
+        {
+          "quote": "@ofmfrederick ^^",
+          "who": "Mayson Chat (identical internal forward used on Jul 23, Jul 30, Aug 14, Aug 18 and Aug 26 because Fred does not see or act on her messages otherwise)",
+          "date": "2026-08-14"
+        },
+        {
+          "quote": "@fonta ^",
+          "who": "Mayson Chat (three pings to Vivek in a single day; Mica also pinged him on Aug 18 - nobody owns the TikTok job)",
+          "date": "2026-08-24"
+        }
+      ]
+    },
+    {
+      "client": "Liza Kovalenko",
+      "severity": 2,
+      "failure": "No one person owns this account. Billing questions were bounced by tagging @stephskiii four times in July rather than by anyone answering; her OF flag question was answered with a tag at another chatter rather than an answer; the IG lock got three different diagnoses from three people, and Derrek's actual diagnosis was given off-chat so the in-chat team contradicted it. The escalation path we explicitly built for her — tag Vivek, the Meta rep — has never been used by Vivek in 30 days, and she was told to re-post her own question in the correct topic tab instead of it being routed for her.",
+      "evidence": [
+        {
+          "quote": "@stephskiii ^^",
+          "who": "Mayson Chat",
+          "date": "2026-07-23"
+        },
+        {
+          "quote": "@roflo1424 ^^",
+          "who": "Mayson Chat",
+          "date": "2026-08-06"
+        }
+      ]
+    },
+    {
+      "client": "Mila",
+      "severity": 2,
+      "failure": "No account manager has ever been named. Billing threads get answered by whoever is nearby — a chatter replying 'Yeah' to a payment question, and a staff member whose role has never been explained to the client stepping in to post ALTR's banking details and quote her an exchange rate — while the Meta rep who was formally introduced has never spoken.",
+      "evidence": [
+        {
+          "quote": "Yeah",
+          "who": "Mayson Chat",
+          "date": "2026-07-10"
+        },
+        {
+          "quote": "We will make sure the exchange is on the next invoice",
+          "who": "Alex Camus",
+          "date": "2026-07-07"
+        }
+      ]
+    },
+    {
+      "client": "Paige",
+      "severity": 3,
+      "failure": "Her account security depends on one person with no backup, no SLA and nobody above him reviewing a problem that has recurred five times in a month; a chatter had to publicly tag him to unstick a ticket. No account manager has ever been named on this client at all, so the recurring lockouts have never been escalated to anyone who could ask why they keep happening.",
+      "evidence": [
+        {
+          "quote": "@fonta ^",
+          "who": "Mayson Chat",
+          "date": "2026-08-27"
+        },
+        {
+          "quote": "Hit me up if you need help regarding any meta platforms",
+          "who": "Vivek",
+          "date": "2026-07-29"
+        }
+      ]
+    },
+    {
+      "client": "Sarah Lloyd",
+      "severity": 3,
+      "failure": "Nobody owns this account. She tags both AMs (@natehei @roflo1424) on nearly every request, Mayson acts as a human forwarding layer relaying '@natehei ^^' fourteen-plus times instead of anyone taking the item, Noah and Ronnie published contradictory root causes for the whale send four minutes apart, the owner has to tag his own staff to move two-day-old requests, and the brief does not propagate — Ronnie asked her for the streaming schedule two days after she had already given it to Noah.",
+      "evidence": [
+        {
+          "quote": "@natehei can we get an explanation on this^",
+          "who": "Mayson Chat",
+          "date": "2026-08-24"
+        },
+        {
+          "quote": "It’s a bug in the system %100",
+          "who": "Ronnie Chat",
+          "date": "2026-08-20"
+        }
+      ]
+    },
+    {
+      "client": "Sarah",
+      "severity": 2,
+      "failure": "Escalation here is tag-and-hope: staff @-mention colleagues who often never reply, the client herself @-tags people and gets silence, and nobody holds the open-items list - she has even learned to route around the owner because he is 'super busy'. When someone does escalate in real time it works (Mayson twice), which shows the reflex exists but is not anyone's job.",
+      "evidence": [
+        {
+          "quote": "Hey! Derek said he would sort it but ik he’s super busy so just thought I’d ask if anyone could also help to change the link in my bio so that it doesn’t flag my account!? 🫶🏻",
+          "who": "Sarah H",
+          "date": "2026-05-07"
+        },
+        {
+          "quote": "No problem! @ofwizz what did you wanna do with my other 2x accounts that are down?",
+          "who": "Sarah H",
+          "date": "2026-08-08"
+        }
+      ]
+    },
+    {
+      "client": "Shayna",
+      "severity": 3,
+      "failure": "The entire OnlyFans workstream sits on one person with no named backup, so when he goes quiet the account stops: Mayson has had to relay-tag him ~11 times ('@ofmfrederick ^^') to get basic client questions picked up, the owner had to escalate manually on 4/26, and when she finally escalated herself she reached Mayson - who answers in under a minute but has no authority over OF, so the escalation resolved into another tag at the same unresponsive inbox.",
+      "evidence": [
+        {
+          "quote": "@frederickspitfire can you check on this please (owner having to chase a client complaint that had sat 25h; Fred replied 38h later with 'My apologies on the late response')",
+          "who": "Derrek",
+          "date": "2026-04-26"
+        },
+        {
+          "quote": "@ofmfrederick ^^ (one of ~11 relay tags Mayson has posted to route client messages to Fred: 5/22, 6/3, 6/7, 6/8, 6/14, 6/27, 6/29, 8/4, 8/8, 8/11 x2)",
+          "who": "Mayson Chat",
+          "date": "2026-08-11"
+        }
+      ]
+    },
+    {
+      "client": "Vale",
+      "severity": 2,
+      "failure": "No named owner for paid-order fulfilment: the queue account had to @-tag Ollie four separate times to get her seen, Derrek had to @-tag him on the Shayna incident, her management referral was tossed to an @-handle and never followed up, and Ollie treated pre-Jul-10 orders as somebody else's problem even while chasing her to deliver them.",
+      "evidence": [
+        {
+          "quote": "@olkmck ^^",
+          "who": "Mayson Chat",
+          "date": "2026-08-11"
+        },
+        {
+          "quote": "@olkmck hey bro check on this asap",
+          "who": "Derrek",
+          "date": "2026-08-01"
+        }
+      ]
+    },
+    {
+      "client": "Vicky",
+      "severity": 3,
+      "failure": "She had to tag people to be served - @ofmfrederick, @olkmck, @stephskiii, @sotom225 - and internal routing was performed with bare '^^' tags that were treated as resolutions. The account manager was swapped in week 2 with no introduction and no handover message. Nobody ever owned the traffic problem: it bounced between Ollie and Derrek for two months and neither closed it.",
+      "evidence": [
+        {
+          "quote": "@olkmck ^^",
+          "who": "Mayson Chat",
+          "date": "2026-08-14",
+          "note": "Fast triage, no destination. The same reflex on 8/18 ('@stephskiii ^') routed her termination and then nothing substantive happened for 10 days."
+        },
+        {
+          "quote": "Hey @vallume going to get you logged in to our infloww now",
+          "who": "Ollie Mckinlay",
+          "date": "2026-06-26",
+          "note": "Ollie's first ever message to her, ten minutes after a ChatDeleteUser/ChatJoinedByLink pair swapped Fred out. No introduction, no handover, no explanation - and Fred had told her on 6/19 that all team requests would route through him."
+        }
+      ]
+    }
+  ],
+  "disengagement_detection": [
+    {
+      "client": "Alanna",
+      "severity": 3,
+      "failure": "She gave an instruction on 8/19, was ignored, and went silent for nearly seven days — a textbook churn sequence on a three-week-old account — and nobody on our side registered it. The only outreach into that silence was a payment chase; nobody asked whether she was okay, whether Aug 17/24 had shipped, or why her message volume had collapsed.",
+      "evidence": [
+        {
+          "quote": "Forgot to say I’m on live on my vip page so maybe stop chatting",
+          "who": "Alanna<3",
+          "date": "2026-08-19"
+        },
+        {
+          "quote": "@alannaapow Hi love checking in on this",
+          "who": "Stephski",
+          "date": "2026-08-26"
+        }
+      ]
+    },
+    {
+      "client": "Alex Paige Moore",
+      "severity": 3,
+      "failure": "She has gone dark for roughly 13 days twice in the last month (2026-07-30 to 08-11 and 2026-08-13 to 08-26) and on both occasions she broke the silence herself; the only outbound we managed during those windows was a leak-removal screenshot, an invoice and a payment chase. Nobody has ever remarked on her volume falling from 417 messages a month to 15. And when she came back and told us she had just had surgery, not one person acknowledged it — the reply came nearly nine hours later and was fan logistics, and the only other message she got that week was a thank-you for the money.",
+      "evidence": [
+        {
+          "quote": "Hey I've just had surgery so probably not for a few weeks unfortunately",
+          "who": "Alex Paige",
+          "date": "2026-08-26"
+        },
+        {
+          "quote": "Ok all good / Will let the fans know and send the free content in mean time",
+          "who": "Ronnie Chat",
+          "date": "2026-08-26"
+        }
+      ]
+    },
+    {
+      "client": "Amber Haze",
+      "severity": 3,
+      "failure": "She wrote us three explicit early-churn essays (May 20, Jun 2, Jun 4) and the only structural response was a single 15-minute call on Jun 8; nobody on our side has ever asked her, unprompted, how she feels about the partnership. This week the signal is unmistakable — client volume collapsed from 73 messages to 2, she stopped chasing six overdue items she would previously have nudged within 19 hours, and she quietly started funding her own Facebook ads on Aug 20 instead of waiting for the $40k rollout — and our response was one templated leak-removal photo. Her own Aug 18 commitment to deliver three customs by 'Sunday 23rd' also passed with nobody checking in.",
+      "evidence": [
+        {
+          "quote": "I’m not trying to be difficult, I’m just being honest because switching agencies was a big decision for me and I came into this expecting a smoother transition, stronger organisation and more visible progress across all areas.",
+          "who": "Kirsten (amber Haze)",
+          "date": "2026-05-20"
+        },
+        {
+          "quote": "Hey can we do a Facebook advert to try boost the Instagram again as I’ve gone back to posting want to make it alive again as I’ve stopped for a while ofcourse x",
+          "who": "Kirsten (amber Haze)",
+          "date": "2026-08-20"
+        }
+      ]
+    },
+    {
+      "client": "Barbara",
+      "severity": 3,
+      "failure": "Her client-message volume halved over four weeks (40 -> 22 -> 22 -> 14), her language moved from 'worried' to 'very nervous', and she quietly stopped chasing items she had been chasing — and nobody on our side ran a single check-in, retention call or save motion. There is no evidence anyone noticed.",
+      "evidence": [
+        {
+          "quote": "i don't undertand how this can possibly keep happening, especially because we need to get traffic going i'm just getting worried about that",
+          "who": "Barb Brazil (first explicit distress signal; no check-in followed)",
+          "date": "2026-08-11"
+        },
+        {
+          "quote": "or maybe we can just do like a very heavy OFTV focus like I shoot once a week to make an upload a video every week just until we figure this out?",
+          "who": "Barb Brazil (offering to do more of her own work to cover for a failing service — a textbook pre-churn signal; unanswered 4 days)",
+          "date": "2026-08-24"
+        }
+      ]
+    },
+    {
+      "client": "Chey Mai",
+      "severity": 3,
+      "failure": "She has been dark for 17 days after previously replying to every chase within hours, and the entire response has been one more message in the Invoicing topic she has already admitted she does not check. No off-thread contact, no owner call, no 'are you okay' — the early churn signal was read as a collections problem.",
+      "evidence": [
+        {
+          "quote": "Oh I didn’t even see this was for 2nd of August! I’m so sorry",
+          "who": "Cheyene Burridge",
+          "date": "2026-08-11"
+        },
+        {
+          "quote": "@cheymai1 Hi just pinging payment for your latest invoice, can you send by tomorrow?",
+          "who": "Stephski",
+          "date": "2026-08-09"
+        }
+      ]
+    },
+    {
+      "client": "Haileigh Cox",
+      "severity": 3,
+      "failure": "She has escalated from frustration to explicit distress three times in writing and not once did anyone respond to the relationship complaint itself — we answered the narrow ticket and stepped over the churn signal. In 2025 Sophie and Lauren checked in on her unprompted every few days; that habit died with them and nothing replaced it. She is now 8 days silent after a payment and the only thing scheduled to reach her next is the 9/1 invoice.",
+      "evidence": [
+        {
+          "quote": "I really want to figure all this out. Can someone please be in contact with me ASAP.  [after three unanswered messages about a $7.5k chargeback; the reply addressed the chargeback maths only, never the 'can someone be in contact with me']",
+          "who": "Hailey Client",
+          "date": "2026-06-22"
+        },
+        {
+          "quote": "Theres no money in current balance and my page is not producing - what do you guys need from me to make these numbers go up  [an explicit invitation to re-engage on strategy; nobody took it, then or since]",
+          "who": "Hailey Client",
+          "date": "2026-06-22"
+        }
+      ]
+    },
+    {
+      "client": "Hannah",
+      "severity": 3,
+      "failure": "Zero detection at any stage. Two repeats of an identical complaint in 48 hours triggered nothing; her explicit resignation was never replied to by any person; two templated broadcasts fired four days after she left; and the first human contact afterwards, 27 days later, was a request for paperwork so we could bill her.",
+      "evidence": [
+        {
+          "quote": "Hey guys I really appreciate working with you but I'm going to take over my account and work independently, I just sent the most recent wire and I'm going to wait for the rest of the money to transfer to pending for the next payout & will send that your way.",
+          "who": "Bells Vale Referral (client)",
+          "date": "2026-07-06",
+          "note": "Never answered. Not by Derrek, not by any of the six staff in the group, in 53 days. No exit call, no win-back, no debrief, no offboarding."
+        },
+        {
+          "quote": "Hi love! Here's your weekly update on the leak removal breakdown for the past 7 days",
+          "who": "Michelle Queue",
+          "date": "2026-07-10",
+          "note": "Sent four days after the resignation, immediately after Mica's reel inspo. Proof that no human was reading this chat."
+        }
+      ]
+    },
+    {
+      "client": "Kaitlynn",
+      "severity": 2,
+      "failure": "Her first-ever complaint arrived on 8/21 wrapped in an emoji and was treated as a non-event; ALTR then went quiet for six days and nobody has checked whether the wire friction recurred, whether the $91 was resolved, or whether the account is still happy. On a client whose only signal is warmth, the absence of warmth is the signal, and nobody is watching for it.",
+      "evidence": [
+        {
+          "quote": "Had to jump through a few hoops with the wire transfer. Not sure why.",
+          "who": "Kaitlynn Anderson Koda",
+          "date": "2026-08-21"
+        },
+        {
+          "quote": "Also, I am really impressed and thankful for the numbers and efforts in the account. I just want you guys to know that I really appreciate it!",
+          "who": "Kaitlynn Anderson Koda",
+          "date": "2026-08-17"
+        }
+      ]
+    },
+    {
+      "client": "Lauren Blake",
+      "severity": 2,
+      "failure": "We only notice her when we want something. Her quiet week (Aug 8-14, one message) drew one nudge from Ollie and no check-in from anyone else; her two clearest trust hits - the $27k blocked whale and 'outside my comfort zone' - were answered with reassurance rather than logged as complaints; and the only thing that broke Derrek's 20-day silence was a payment chase. Twice now our own reporting has misread her being busy as her being unhappy, while the real signal - eleven of our promises open - went untracked.",
+      "evidence": [
+        {
+          "quote": "hey! Could you clear this up when you had a chance",
+          "who": "Derrek (first owner message in 20 days, and it was about money; she answered within the same minute)",
+          "date": "2026-08-21"
+        },
+        {
+          "quote": "This was a strategy / Will explain it in more detail on the call - everything is under control",
+          "who": "Ollie Mckinlay (reassurance in place of an explanation, after she asked three times about her top spender)",
+          "date": "2026-08-07"
+        }
+      ]
+    },
+    {
+      "client": "Lauryn",
+      "severity": 3,
+      "failure": "She flagged collapsing revenue three times over five months and nobody on the service side responded; the vendor chat team went dark for 79 days without anyone noticing; the only person who reacted to her going quiet was the person chasing an invoice.",
+      "evidence": [
+        {
+          "quote": "Let's really push Today Team these last few days left of month.. last month was def short our LOWEST money wise",
+          "who": "LA Client",
+          "date": "2026-03-28"
+        },
+        {
+          "quote": "Being money is beyond low this month in account! Split those payment invoices up for me / And will pay as drops!",
+          "who": "LA Client",
+          "date": "2026-06-24"
+        }
+      ]
+    },
+    {
+      "client": "Lilia",
+      "severity": 2,
+      "failure": "Explicit frustration and a lost whale drew an apology but no call, no recovery plan and no escalation to anyone senior; her two-day silence on Aug 20-22 and her unanswered late-night Facebook screenshots on Aug 24 passed with nobody checking in, and there has been no check-in call since Jul 27.",
+      "evidence": [
+        {
+          "quote": "Now my high spender left / Not cool / Missed out on my highest spender kind of pissed about it when it took me ages to get him back",
+          "who": "Lilia (answered ~17h later with an apology only, after an internal ping; no call, no recovery plan, no report on what happened)",
+          "date": "2026-07-29"
+        },
+        {
+          "quote": "Chatters need to communicate of this happens so I can jump on",
+          "who": "Lilia (she asked us for the early-warning system we should be running for her; it was never built)",
+          "date": "2026-07-29"
+        }
+      ]
+    },
+    {
+      "client": "Liza Kovalenko",
+      "severity": 3,
+      "failure": "Her volume fell from ~93 messages in Oct 2025 to 12 in April and 1 in May 2026 and nobody on our side named it; the only non-billing outbound in that whole window was a yoga-studio promo for an ALTR-owned business. Mayson's 2026-06-07 call was the one real check-in of 2026; the 'monthly call tomorrow?' he offered on 2026-07-20 was dropped mid-thread and never re-asked (39 days). Three straight billing-only weeks have passed and the first friction-toned message in thirteen months went unanswered rather than triggering an owner call.",
+      "evidence": [
+        {
+          "quote": "If you’re ever in Miami, we’d love to have you come try out Wildthing Studio (owned by ALTR Media)",
+          "who": "Mica Vecco",
+          "date": "2026-04-08"
+        },
+        {
+          "quote": "Hey @xanaduexpress are you available for our monthly call tomorrow?",
+          "who": "Mayson Chat",
+          "date": "2026-07-20"
+        }
+      ]
+    },
+    {
+      "client": "Mila",
+      "severity": 3,
+      "failure": "Her last two acts were to upload 48 videos and send a wire, and both were met with a one-line thank-you and then nothing; she has been silent for 11 days and the only message anyone has sent into that silence is a bare domain name with no explanation. Nobody has noticed that a client who used to reply within hours has stopped asking whether her money arrived.",
+      "evidence": [
+        {
+          "quote": "Have uploaded 48 vids to the drive 🤍",
+          "who": "Callie (Mila)",
+          "date": "2026-08-17"
+        },
+        {
+          "quote": "Sent:)",
+          "who": "Callie (Mila)",
+          "date": "2026-08-17"
+        }
+      ]
+    },
+    {
+      "client": "Paige",
+      "severity": 2,
+      "failure": "She has never gone quiet, so nobody has looked — but nobody has noticed either that in 65 days she has received zero evidence of the service she is paying for and has never complained about it. A client who only ever hears from billing and only ever contacts us to report her own account breaking is a churn risk that our current signals cannot see, because they only watch for silence.",
+      "evidence": [
+        {
+          "quote": "oh wow! thats insane hopefully it works out thank you for updating me 💗 im excited to see where this goes.",
+          "who": "Paige (Chey Ref)",
+          "date": "2026-08-01"
+        },
+        {
+          "quote": "omg this whole time i thought they’d upload they’d uploaded and ive just gone on it again and they’re still uploading! im so sorry!!",
+          "who": "Paige (Chey Ref)",
+          "date": "2026-07-18"
+        }
+      ]
+    },
+    {
+      "client": "Sarah Lloyd",
+      "severity": 2,
+      "failure": "Every early warning was answered as a ticket, never as a relationship signal: 'just have a lot of bills' and 'frustrating when it doesn't pay off' (Jun 14), 'makes me feel lowkey crazy' (Jul 14), and her going silent on Meta after Aug 8 all passed without a single check-in. Nobody noticed that four of her standing requests had simply stopped being raised. The catch came only on the third blow-up — Noah proposed a call two hours after her Aug 24 verdict and it defused her within a day — the right instinct, roughly ten weeks late, and nothing from that call was ever posted in writing.",
+      "evidence": [
+        {
+          "quote": "But I understand this! Will trust the process 🙏 just have a lot of bills ... and work so hard to keep content coming so can be frustrating when it doesn’t pay off",
+          "who": "Sarah Lloyd",
+          "date": "2026-06-14"
+        },
+        {
+          "quote": "makes me feel lowkey crazy having to ask the same thing every day",
+          "who": "Sarah Lloyd",
+          "date": "2026-07-14"
+        }
+      ]
+    },
+    {
+      "client": "Sarah",
+      "severity": 3,
+      "failure": "Every churn signal fired and nobody on our side acted: her first performance complaint in 11 months got a question back 45h later and no plan; she then went silent for 11 days on top of a lost main account and a missed invoice and no one checked in; when she resurfaced her tone had changed from 11 months of hedged, apologetic asks to a flat correction with no greeting; and this week she was in the chat three times and did not ask about her main Instagram once. She has stopped asking, and absence of complaint is the metric on this account.",
+      "evidence": [
+        {
+          "quote": "looks like it is due to your reach being low at the moment. How are socials going for you ?? Any issues there ?\\",
+          "who": "Ronnie Chat",
+          "date": "2026-08-10"
+        },
+        {
+          "quote": "Thanks Ronnie! Have you added to folder? I can’t see it in there",
+          "who": "Sarah H",
+          "date": "2026-08-11"
+        }
+      ]
+    },
+    {
+      "client": "Shayna",
+      "severity": 2,
+      "failure": "She sent three explicit frustration flares - 'third time I've asked', 'I really wanna make sure the things that I'm saying are being heard', 'all my messages are just left on seen' - and each time we fixed the one narrow item and nobody stepped back, escalated to the owner or reset the relationship; nor did anyone notice that she had gone offline from ~8/12 to 8/26 and filed zero content flags for two weeks, which matters because her own reading of her inbox is the only quality control that exists on this account. Mayson's self-initiated check-in calls are the only real detection mechanism we have and he is not on the OF workstream.",
+      "evidence": [
+        {
+          "quote": "Guyss third time I've asked that no feed posts go up. please relay this to the rest of the team 🥲",
+          "who": "Shayna Holt",
+          "date": "2026-07-29"
+        },
+        {
+          "quote": "I really wanna make sure the things that I'm saying are being heard please 🙏",
+          "who": "Shayna Holt",
+          "date": "2026-07-28"
+        }
+      ]
+    },
+    {
+      "client": "Vale",
+      "severity": 3,
+      "failure": "Every churn signal was visible and nobody acted: her nervous laugh and 'just seems odd' after the private-live resale got a one-line apology and no leadership check-in, the biweekly strategy call has not run since Jul 13 (46 days, three missed cycles) and the person who ran it went silent too, her weekly volume fell 37 -> 18 -> 11 -> 3 while she stopped chasing the backlog entirely, and her Aug 22 delivery of a $2,200 three-and-a-half-month-late order drew no acknowledgement from any human for six days.",
+      "evidence": [
+        {
+          "quote": "Thank you ! If it was a sexy live or something like that I understand but like that live was personal with the guy so like just seems odd to try to sell that, specially cause it wasn’t a public live",
+          "who": "Vale",
+          "date": "2026-08-12"
+        },
+        {
+          "quote": "New feed posts are uploaded / Working on editing the custom so will upload soon",
+          "who": "Vale",
+          "date": "2026-08-22"
+        }
+      ]
+    },
+    {
+      "client": "Vicky",
+      "severity": 3,
+      "failure": "Every signal was present in writing and none of them triggered anything: a repeat complaint three times in six days, an explicit 'it's been 2 months and getting worse' on 8/10, and then a termination message that produced one holding reply, one uncommented file, eight days of silence and a collections chase. The owner, who personally owned her top complaint, has never responded to her leaving.",
+      "evidence": [
+        {
+          "quote": "Hello, is this complaint solved ?",
+          "who": "Valerie (client)",
+          "date": "2026-08-17",
+          "note": "Third time asking about the same page. Answered in the same minute with 'Yes all solved' and no evidence. She terminated roughly 18 hours later."
+        },
+        {
+          "quote": "Hey guys, I would like to stop this collaboration, can we please count how much money I need to send and disconnect my accounts from Infloww?",
+          "who": "Valerie (client)",
+          "date": "2026-08-18",
+          "note": "Two concrete requests. Ten days later neither has been answered: no amount in words, no written confirmation of Infloww disconnection."
+        }
+      ]
+    }
+  ],
+  "security_hygiene": [
+    {
+      "client": "Alex Paige Moore",
+      "severity": 3,
+      "failure": "On 2025-09-17 she pasted her OnlyFans account password as plain text into this shared group chat. Our only response was a thank-you: it was never deleted, never rotated, and no credential-handling process was ever introduced. A week later she had to ask us herself whether the change had actually locked her previous agency out, and got a one-line yes with no access audit. In April 2026 we then asked her to post a photo of her passport, a selfie holding her passport, and a photo ID into that same group. Membership of this chat has churned through roughly twenty add/remove events and at least seven people with account-level access have left without any handover or rotation on record.",
+      "evidence": [
+        {
+          "quote": "Password update",
+          "who": "Alex Paige",
+          "date": "2025-09-17"
+        },
+        {
+          "quote": "Amazing thank you",
+          "who": "Sophie Logan (Raw Agency)",
+          "date": "2025-09-17"
+        }
+      ]
+    },
+    {
+      "client": "Amber Haze",
+      "severity": 3,
+      "failure": "Credentials are handled in the open group chat and never rotated. Her main Instagram username and password were posted in plaintext in this chat on May 9, and rather than move to a secure channel we asked her for the same login again in-chat on May 20, so it sat there twice; her personal email and phone number are in the thread too. Derrek's May 10 'I'll change everything in a few days' was never confirmed and the same password was still live and being reused ten days later. The previous agency's authenticator was left attached to her account with no follow-up plan, and we posted a Linkme account password into the group ourselves on May 7. Eric logged into her IG on Jun 29 without telling her, leaving her to report her own account as compromised (Ollie's Jul 9 and Aug 11 login notices are the good counter-example and should be the standard).",
+      "evidence": [
+        {
+          "quote": "INSTAGRAM LOGIN: [username and plaintext password for her main Instagram posted directly into the group chat]",
+          "who": "Kirsten (amber Haze)",
+          "date": "2026-05-09"
+        },
+        {
+          "quote": "can you please send me your IG login so we can link it to FB on our end now?",
+          "who": "Mica Vecco",
+          "date": "2026-05-20"
+        }
+      ]
+    },
+    {
+      "client": "Barbara",
+      "severity": 2,
+      "failure": "We actively invited account credentials into an 8-person group chat and then lost track of them: she was told yes when she asked to post her social logins there, a rep asked her to send a login in-chat, and the X/Twitter credentials she believes she handed over were never traced or rotated — we simply told her we don't run that channel. Meanwhile her direct access-control question, whether any external tool was ever attached to her accounts, has gone 17 days unanswered while those same accounts keep getting flagged.",
+      "evidence": [
+        {
+          "quote": "hey! is this where i can send my logins for my socials? -> yess :)",
+          "who": "Barb Brazil / Michelle Queue (we confirmed the group chat as the credential channel)",
+          "date": "2026-07-21"
+        },
+        {
+          "quote": "For sure ma'am / Send login",
+          "who": "Vivek (credentials requested in-thread; no rotation or secure-handoff step ever mentioned on this account)",
+          "date": "2026-07-31"
+        }
+      ]
+    },
+    {
+      "client": "Haileigh Cox",
+      "severity": 2,
+      "failure": "Our default is to handle account access in the open group chat: on day 2 of the group we posted the username, password and 2FA backup code of the backup IG account we sourced for her as plain chat text and never rotated it or removed it, despite the group having churned members repeatedly since. We then repeatedly asked her to hand over logins in the same channel — including her main IG login for the shadowban investigation — with no secure channel offered, and we rolled out a new CRM that fired login codes at her account with no advance notice, so she had to ask whether she was being hacked.",
+      "evidence": [
+        {
+          "quote": "[message posting the backup IG account's handle, password and 2FA backup code as plain text in the shared group chat; never rotated, never deleted, and the group has added/removed members at least eight times since]",
+          "who": "Sophie Logan (Raw Agency)",
+          "date": "2025-08-26"
+        },
+        {
+          "quote": "Hey i keep getting codes to login i to my acc? ... Is this from you guys ... Just wanna make sure the acc wasn't getting hacked  [Eric: 'Hey yes ! Sorry this is from our new CRM , apologies!' — no advance notice was given]",
+          "who": "Hailey Client",
+          "date": "2026-04-07"
+        }
+      ]
+    },
+    {
+      "client": "Hannah",
+      "severity": 3,
+      "failure": "We instructed the client to change her OnlyFans password and then had her post the new credentials into a multi-member group chat; the same happened with her Instagram login and a live two-factor code. Nothing was ever rotated, moved to a vault, or revoked - and at churn there was no offboarding at all, so our access to her OF, IG and the FB page we built was never removed or confirmed removed.",
+      "evidence": [
+        {
+          "quote": "Bella you have to change the password",
+          "who": "Mayson Chat",
+          "date": "2026-05-29",
+          "note": "Correct instruction, wrong channel: she then posted the new OnlyFans account email and password directly into the group chat (msg 20). Not quoted here. No rotation or vaulting ever followed, and no one flagged it."
+        },
+        {
+          "quote": "Hi! Can we change the name to hannah please and login info for instagram is [credentials]",
+          "who": "Bells Vale Referral (client)",
+          "date": "2026-06-01",
+          "note": "Instagram username and password posted in chat (msg 62), followed 77 minutes later by her live 2FA code (msg 67). Both remain in the chat history today. Credentials deliberately not reproduced."
+        }
+      ]
+    },
+    {
+      "client": "Lauren Blake",
+      "severity": 2,
+      "failure": "Two documented credential-handling failures and zero response to either. Our promo lead asked for IG login details in the open group chat and she posted account access there in plaintext to eight-plus people; nobody moved it to DM, deleted it, or asked her to rotate afterwards. Separately her OnlyFans password was routed to Derrek personally and also recorded in the shared, editable onboarding Google Doc, and the only follow-up was a one-line question about whether she was changing it - with no rotation, no confirmation, and no access log.",
+      "evidence": [
+        {
+          "quote": "Hi babes, going to get an update for you. Send over the login details and we can get that going",
+          "who": "Michelle Queue (requesting account access in the group chat rather than a DM or a vault; Lauren then posted the account access details in-channel and they were never rotated or removed)",
+          "date": "2026-07-21"
+        },
+        {
+          "quote": "Will you be changing your password in an hour?",
+          "who": "Ollie Mckinlay (the only credential-hygiene question anyone has ever asked on this account)",
+          "date": "2026-07-06"
+        }
+      ]
+    },
+    {
+      "client": "Lauryn",
+      "severity": 3,
+      "failure": "We are the ones who asked for plaintext credentials in a shared group chat - twice, eleven months apart - and then collected her FB-linked phone number and a live SMS 2FA code in the same thread; nothing has ever been rotated, no written policy exists, and when she raised a possible platform breach we told her to change her own password.",
+      "evidence": [
+        {
+          "quote": "Hey LA, Can I please get your Facebook log in details? ❤️ Email/phone number and password please x",
+          "who": "Sophie Logan (Raw Agency)",
+          "date": "2025-09-15"
+        },
+        {
+          "quote": "can you shoot him your logins again and he will handle",
+          "who": "Derrek",
+          "date": "2026-08-07"
+        }
+      ]
+    },
+    {
+      "client": "Lilia",
+      "severity": 3,
+      "failure": "We invited the client to post her OnlyFans account password into the group chat on day 2, read it back into the same chat, and have never rotated it or moved credentials to a password manager - account emails, her TikTok login and phone number and her banking screenshots are all sitting in plaintext in a multi-vendor group with chatters, queue accounts and an outside Meta rep in it.",
+      "evidence": [
+        {
+          "quote": "Do u want me to send my new password on this chat?",
+          "who": "Lilia (Eric The Efficient replied 'Yes 🙏'; she then posted the account password in plaintext and Fred confirmed it back into the chat - no rotation has ever been done)",
+          "date": "2026-05-26"
+        },
+        {
+          "quote": "Should I change my password / To make sure I’m not hacked / Or was this chatters by accident",
+          "who": "Lilia (a fan reported disappearing messages; we told her she was not hacked and gave no rotation or access-review advice)",
+          "date": "2026-07-23"
+        }
+      ]
+    },
+    {
+      "client": "Liza Kovalenko",
+      "severity": 2,
+      "failure": "We asked her to type her Facebook account login and password directly into the group chat (a fill-in-the-blank credentials template) instead of routing her only through delegated Business Suite access, which is what she ultimately used. When she could not open a shared content portal we deleted its passcode entirely rather than reissuing one. Her direct question about an unrecognised OnlyFans login was never answered by anyone. Our own sensitive rails — full wire account numbers and a personal USDT wallet address — are posted repeatedly in the group chat and were never rotated after five bank changes.",
+      "evidence": [
+        {
+          "quote": "We can definitely run your FB account for you! Just need a couple things: [followed by a blank login and password form for her to fill in, posted in the group chat]",
+          "who": "Mica Vecco",
+          "date": "2025-10-27"
+        },
+        {
+          "quote": "Was it someone from the team that logged in ?",
+          "who": "Eli",
+          "date": "2026-03-18"
+        }
+      ]
+    },
+    {
+      "client": "Mila",
+      "severity": 2,
+      "failure": "No client credentials were exposed, but our own payment channel is unhygienic: full ALTR bank account, routing, SWIFT and address details were posted as plaintext chat text on 7/7 by a staff member whose role was never explained, a staff personal mobile number was published in the group, and the receiving account number was then changed on 8/15 in a chat message with no out-of-band verification — an impersonation and payment-redirection risk we manufactured ourselves.",
+      "evidence": [
+        {
+          "quote": "[full ALTR bank account number, ACH and wire routing numbers and SWIFT code posted as plaintext chat text]",
+          "who": "Alex Camus",
+          "date": "2026-07-07"
+        },
+        {
+          "quote": "my phone number is [staff personal mobile, posted in plaintext] if you ever need to reach me",
+          "who": "Stephski",
+          "date": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "client": "Paige",
+      "severity": 3,
+      "failure": "The most serious finding across these accounts. Our Meta rep has repeatedly asked this client for her login in the shared client group chat, and she has posted her account password in plaintext on at least five separate occasions (7/29, 8/13, 8/14, 8/20-21, 8/27), plus a WhatsApp verification code, a second login code, an eight-digit account backup code and her personal mobile number — all still sitting in the chat history alongside ALTR's wire and Zelle details. He said once on 8/13 to send it by DM and then collected credentials in the group again on 8/20, 8/21 and 8/27. Nothing has ever been rotated to an authenticator app, no message has been deleted, the password set on 8/21 was a trivially weak one, and by 8/27 the client could no longer name her own password and posted two guesses.",
+      "evidence": [
+        {
+          "quote": "Share login",
+          "who": "Vivek",
+          "date": "2026-07-29"
+        },
+        {
+          "quote": "Send login in dm",
+          "who": "Vivek",
+          "date": "2026-08-13"
+        }
+      ]
+    },
+    {
+      "client": "Sarah Lloyd",
+      "severity": 3,
+      "failure": "On Jul 29 Vivek asked her to post her login in the group chat; she pasted her Facebook account email and password in plain text, and when the first attempt failed he asked her to reset it and post the new one, which she did seven minutes later. Both credentials are still sitting undeleted in a 15+ member group that includes outsourced vendor chatters, 30 days on, with no rotation after use — and it directly contradicts our own day-one instruction to send logins by DM.",
+      "evidence": [
+        {
+          "quote": "also, if you can pls dm your logins to @AlexBakalov instead of here on the gc that would be soo much better ... just to keep it safe",
+          "who": "Day | Account Executive",
+          "date": "2026-06-09"
+        },
+        {
+          "quote": "Share login",
+          "who": "Vivek",
+          "date": "2026-07-29"
+        }
+      ]
+    },
+    {
+      "client": "Sarah",
+      "severity": 3,
+      "failure": "We routinely have this client paste live secrets into a ~19-participant group chat and we never rotate them afterwards: her OnlyFans login (2025-09-18), her free-page login (2025-10-28, then re-posted verbatim and still unchanged on 2026-03-02 and 2026-04-08 - over five months unrotated), and on 2026-08-07 and 2026-08-09 her Instagram passwords plus the live 2FA codes, requested one word at a time by a vendor rep in open channel. We also asked her to post passport photographs into the same group (2026-04-26), and her home address sits in the chat from day two. Flagged internally a week ago; nothing has changed.",
+      "evidence": [
+        {
+          "quote": "Ofc!! Here it is",
+          "who": "Sarah H",
+          "date": "2026-04-08",
+          "note": "re-posting the same free-page email and password she first pasted into this group on 2025-10-28 - unchanged, never rotated"
+        },
+        {
+          "quote": "Password",
+          "who": "Vivek",
+          "date": "2026-08-09",
+          "note": "one of a sequence of one-word requests ('Password', 'Code', 'WhatsApp') that had her type her main IG password and a live 2FA code into the group chat"
+        }
+      ]
+    },
+    {
+      "client": "Shayna",
+      "severity": 3,
+      "failure": "We posted a client account's username together with its plaintext password into an 8+ member group chat that also carries outsourced chatters, then asked her to hand over her personal Facebook login in the same chat rather than walk the documented Business Manager flow - she complied and posted her personal password in plaintext, realised it immediately, and in 87 days nobody on our side has deleted the messages, told her to rotate, or acknowledged it happened.",
+      "evidence": [
+        {
+          "quote": "hi babe! here's your new link for your bio: link.me/shaynaholt ... Your login info: [username plus the account's plaintext password posted directly into the group and never rotated]",
+          "who": "Mica Vecco",
+          "date": "2026-05-06"
+        },
+        {
+          "quote": "hi bb! can you please send me your FB login i'm just going to try and go in and grant the access myself so it's easier 🤍 i'll log back out after!",
+          "who": "Mica Vecco",
+          "date": "2026-05-08"
+        }
+      ]
+    },
+    {
+      "client": "Vale",
+      "severity": 2,
+      "failure": "She posted her OnlyFans account password as plain text in the group on day one (2026-03-23) at our request for login details; the message was never deleted from the chat and no rotation was ever confirmed on record after the initial day-one change. Worse, when we ourselves flagged suspicious activity on her page on Jul 28 and she asked directly whether she should change her password, nobody answered her — the thread moved straight on to Google Drive links. (Ollie's unprompted login heads-ups on Jul 11 and Jul 31 are the one good habit here.)",
+      "evidence": [
+        {
+          "quote": "@ofmfred can you please coordinate with her on pass change so we can go ahead and get started tonight🙏",
+          "who": "Eric The Efficient",
+          "date": "2026-03-23"
+        },
+        {
+          "quote": "Should I change my password?",
+          "who": "Vale",
+          "date": "2026-07-28"
+        }
+      ]
+    },
+    {
+      "client": "Vicky",
+      "severity": 3,
+      "failure": "Seven single-use OnlyFans face-authentication deep links were pasted into a group chat over two months as the standard operating procedure. Her own repeated requests to change her OF passwords were deferred four times and never confirmed done. And her single concrete offboarding request - disconnect both accounts from ALTR's Infloww - has been ignored for ten days, so we may still hold session access to a former client's two OnlyFans accounts.",
+      "evidence": [
+        {
+          "quote": "Did you change passwords yourself? Or you disconnect my accounts from infloww and now we are connecting it again?",
+          "who": "Valerie (client)",
+          "date": "2026-06-27",
+          "note": "She did not know who held her credentials or what had been done to them, nine days in. She asked to change passwords again on 7/5, 7/7 and 7/9; each time it was deferred ('for now no it is okay', 'We will do today') and there is no record of it ever happening."
+        },
+        {
+          "quote": "Okay try this link to verify please",
+          "who": "Ollie Mckinlay",
+          "date": "2026-06-27",
+          "note": "One of seven OnlyFans face-auth deep links (6/17 x2, 6/27 x2, 7/18 x2, 7/19) posted into a multi-member group chat. The tokens are not reproduced here. Group membership changed at least four times during the engagement."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "client": "Barbara",
+  "slug": "barbara-x-altr",
+  "week_ending": "2026-08-08",
+  "summary": "First invoice (July 9-31) went out Aug 3 and Barbara tried to pay by Zelle the same day, but ALTR's Zelle email wasn't recognized; Stephski switched to a Zelle payment request on Aug 6 and payment is still unconfirmed. IG posting remains paused during Derrek's phone-farm/Meta transition, and Barbara nudged twice for updates on the backup IG account with no substantive answer by week end. She also flagged an adultsearch.com listing for DMCA takedown on Aug 7. Overall mood is warm, patient and cooperative ('appreciate you a bunch'), but she is quietly waiting on several open items.",
+  "health": {
+    "score": 72,
+    "trend": "new",
+    "rationale": "Client is enthusiastic and prompt-paying, but IG posting is paused, her check-ins go partially unanswered, and the payment rail failed on first use."
+  },
+  "reminders": [
+    {
+      "employee": "Michelle",
+      "topic": "Backup IG account @ name and restart of IG posting after the phone-farm / Meta transition",
+      "count": 2,
+      "first_date": "2026-08-03",
+      "last_date": "2026-08-06",
+      "days_outstanding": 7,
+      "quotes": [
+        {
+          "quote": "keep me posted on the new IG whenever you have that @ please :)",
+          "who": "Barbara Silva",
+          "date": "2026-08-03"
+        },
+        {
+          "quote": "hey guys just checking in any updates with all the new changes happening? 😊",
+          "who": "Barbara Silva",
+          "date": "2026-08-06"
+        }
+      ]
+    }
+  ],
+  "complaints": [
+    {
+      "issue": "IG posting/growth paused during Instagram guideline changes and ALTR's phone-farm rebuild; backup IG account promised 'next week' on Aug 1 still not delivered, and the Aug 6 check-in got no substantive update (only 'Yo Ma'am' from Vivek)",
+      "status": "in_progress",
+      "first_raised": "2026-08-03",
+      "owner": "Derrek",
+      "quotes": [
+        {
+          "quote": "hey guys just checking in any updates with all the new changes happening? 😊",
+          "who": "Barbara Silva",
+          "date": "2026-08-06"
+        },
+        {
+          "quote": "Just don’t want to risk your accounts until proper setup",
+          "who": "Derrek",
+          "date": "2026-08-03"
+        }
+      ]
+    },
+    {
+      "issue": "Zelle payment email on the first invoice was not recognized by Zelle, blocking Barbara's same-day payment attempt",
+      "status": "in_progress",
+      "first_raised": "2026-08-04",
+      "owner": "Stephski",
+      "quotes": [
+        {
+          "quote": "Is there another email?",
+          "who": "Barbara Silva",
+          "date": "2026-08-04"
+        },
+        {
+          "quote": "yeah lmk !!!",
+          "who": "Barbara Silva",
+          "date": "2026-08-04"
+        }
+      ]
+    },
+    {
+      "issue": "Impersonation/escort listing on adultsearch.com needs DMCA/takedown handling",
+      "status": "new",
+      "first_raised": "2026-08-07",
+      "owner": "Derrek",
+      "quotes": [
+        {
+          "quote": "can someone handle pls",
+          "who": "Barbara Silva",
+          "date": "2026-08-07"
+        }
+      ]
+    },
+    {
+      "issue": "Confusion over who runs her X/Twitter account — client believed ALTR had her logins and was posting; ALTR does not run Twitter (clarified on the Jul 31 call, but link-in-bio versions promised for TikTok/Twitter/IG were never confirmed delivered)",
+      "status": "recurring",
+      "first_raised": "2026-07-28",
+      "owner": "Mica Vecco",
+      "quotes": [
+        {
+          "quote": "heyyy is anyone running my X? i haven’t had any new posts up so just wanna make sure u have my logins if that’s missing :)",
+          "who": "Barb Brazil",
+          "date": "2026-07-28"
+        },
+        {
+          "quote": "to be honest, I’m very confused lol",
+          "who": "Barbara Silva",
+          "date": "2026-07-31"
+        }
+      ]
+    }
+  ],
+  "commitments": [
+    {
+      "what": "Phone-farm shipment landing and setup so IG posting/backup accounts can resume, with updates to follow",
+      "who": "Derrek",
+      "date": "2026-08-03",
+      "status": "overdue",
+      "quotes": [
+        {
+          "quote": "Will have updates very very soon",
+          "who": "Derrek",
+          "date": "2026-08-03"
+        },
+        {
+          "quote": "But it should land today :)",
+          "who": "Derrek",
+          "date": "2026-08-03"
+        }
+      ]
+    },
+    {
+      "what": "Send Barbara the @ name of her warmed-up backup IG reels account",
+      "who": "Michelle",
+      "date": "2026-08-01",
+      "status": "overdue",
+      "quotes": [
+        {
+          "quote": "your backup account for IG reels is currently being warmed up as soon as it’s ready next week I will send you the @ name babes 💕",
+          "who": "Michelle Queue",
+          "date": "2026-08-01"
+        }
+      ]
+    },
+    {
+      "what": "Investigate the failing Zelle email and get back to Barbara on how to pay the invoice",
+      "who": "Stephski",
+      "date": "2026-08-04",
+      "status": "done",
+      "quotes": [
+        {
+          "quote": "Hm thats weird! let me see whats going on and get back to you",
+          "who": "Stephski",
+          "date": "2026-08-04"
+        },
+        {
+          "quote": "What is your zelle info? I can send through a request",
+          "who": "Stephski",
+          "date": "2026-08-06"
+        }
+      ]
+    },
+    {
+      "what": "Send a Zelle payment request to [REDACTED-RECOVERY-EMAIL] to collect the July 9-31 invoice",
+      "who": "Stephski",
+      "date": "2026-08-06",
+      "status": "pending",
+      "quotes": [
+        {
+          "quote": "What is your zelle info? I can send through a request",
+          "who": "Stephski",
+          "date": "2026-08-06"
+        }
+      ]
+    },
+    {
+      "what": "Handle the adultsearch.com takedown request",
+      "who": "Derrek",
+      "date": "2026-08-07",
+      "status": "pending",
+      "quotes": [
+        {
+          "quote": "yes",
+          "who": "Derrek",
+          "date": "2026-08-07"
+        }
+      ]
+    },
+    {
+      "what": "Create 3 link-in-bio versions (TikTok/Twitter/Instagram) — promised before this week, no delivery confirmed in chat",
+      "who": "Mayson",
+      "date": "2026-07-31",
+      "status": "overdue",
+      "quotes": [
+        {
+          "quote": "I’ll create you 3 different versions tiktok/twitter/instagram",
+          "who": "Mayson Chat",
+          "date": "2026-07-31"
+        }
+      ]
+    }
+  ],
+  "payments": [
+    {
+      "note": "First invoice (period July 9-31) sent Aug 3; Barbara attempted Zelle payment within a day but ALTR's payment email was not recognized by Zelle. Stephski pivoted to sending a Zelle request on Aug 6; payment not confirmed received by week end. Client is a prompt, willing payer — the friction is entirely on the agency's payment rails.",
+      "date": "2026-08-03",
+      "late": false,
+      "reason": null,
+      "suggested_fix": "Verify the Zelle-registered email before invoicing, list a backup payment method on every invoice, and have Stephski confirm receipt in-chat within 24h of the request being paid.",
+      "quotes": [
+        {
+          "quote": "Hey! great, i can zelle that email at the bottom correct?",
+          "who": "Barbara Silva",
+          "date": "2026-08-03"
+        },
+        {
+          "quote": "Is there another email?",
+          "who": "Barbara Silva",
+          "date": "2026-08-04"
+        },
+        {
+          "quote": "What is your zelle info? I can send through a request",
+          "who": "Stephski",
+          "date": "2026-08-06"
+        }
+      ]
+    }
+  ],
+  "client_priorities": [
+    "Keeping her IG accounts safe (opted into copyright ban protection, nervous about flags: 'it's my first post back i'm nervous')",
+    "Getting posting/growth restarted across IG, TikTok and X — she repeatedly asks who is running each channel and for status updates",
+    "Clear ownership: knowing exactly which ALTR person handles what (asked twice in one day who her go-to contact is)",
+    "Being a proactive content partner — uploaded 300+ reels to the drive and asks for reel/TikTok ideas to batch-shoot",
+    "Paying promptly and having smooth invoicing (tried to pay the first invoice same day)",
+    "Protecting her content/likeness (OFTV setup, DMCA takedowns)"
+  ],
+  "suggestions": [
+    "Send a proactive phone-farm/backup-IG status update — Derrek said the shipment would 'land today' on Aug 3 and her Aug 6 check-in got no substantive reply; a short daily or every-other-day update would prevent erosion of goodwill.",
+    "Close the payment loop: confirm the Zelle request was paid and acknowledge receipt in the Invoicing topic before the Aug 15 invoice goes out.",
+    "Confirm the adultsearch.com takedown is filed and report back with a timeline (loop in Nick | DMCA), since Derrek's reply was just 'yes'.",
+    "Deliver the promised link-in-bio versions (Mayson, promised Jul 31) and the talking-to-camera reel examples (Michelle, promised Jul 23).",
+    "Give her a simple channel-ownership cheat sheet (who runs IG/promo, socials, X status, OFTV, invoicing, DMCA) — she has been confused about X and where to send logins/content."
+  ],
+  "wins": [
+    "Barbara uploaded 300+ reels to the shared drive and keeps batching new content proactively",
+    "She attempted to pay her first invoice the same day it arrived — zero payment resistance",
+    "OFTV setup completed ('we are all good on OFTV side!') with Olivia's help",
+    "She responded graciously to the phone-farm delay news ('awesome thanks Derrek :)))' / 'appreciate you a bunch')",
+    "Social media kickoff call with Mica completed on Jul 31"
+  ],
+  "week_stats": {
+    "messages": 41,
+    "client_messages": 22,
+    "team_messages": 19
+  }
+}

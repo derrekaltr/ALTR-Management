@@ -1,0 +1,388 @@
+{
+  "client": "Paige",
+  "slug": "paige-x-altr",
+  "week_ending": "2026-08-21",
+  "summary": "Sixteen messages, and every one of them is either the invoice or another round of Instagram login trouble. The IG access problem is now formally recurring: this is the third episode in 24 days (Jul 29, Aug 13-14, Aug 20-21). On Aug 20 Vivek opened with 'Send id password' and Paige pasted her password into the group chat again; on Aug 21 she reported 'i had to change my password again' and posted the new one, '[REDACTED-PASSWORD]', plus her handle. That is the fourth time her IG credentials have gone into this client group chat, and the password has now degraded to a trivially guessable one that is sitting in plain text in a chat that also contains ALTR's banking details. Nothing from last week's carry-forward was closed: Vivek's 'Will update shortly' from Aug 14 is 7 days silent, he never explained the 'Hell nah' or the 'Unfilteredlifiting' wrong-account approval that spooked her, and no password rotation or message deletion has happened (23 days open). Derrek's Aug 1 promise of 'plenty of updates starting next week' is now 20 days silent across three weeks. Mica broke her weekly reel-inspo cadence (nothing this week) and the 1-on-1 call she was supposed to run is 46 days unbooked; Michelle has been silent for 34 days on the upload loop. The one genuinely good moment: on Aug 21 Vivek turned the fix around in seven minutes and Paige replied 'perfect thank you so much'. On money, Stephski sent the Aug 1-14 invoice on Aug 15 with changed bank account details; six days later Paige has not acknowledged it at all — the first invoice she has left unacknowledged since her 20-day-late first cycle.",
+  "health": {
+    "score": 57,
+    "trend": "down",
+    "rationale": "Down from 66. The Instagram access issue escalated from in_progress to recurring (third episode in 24 days) and Paige's credentials landed in the group chat for a fourth time, now as a weak '[REDACTED-PASSWORD]' that has still not been rotated or deleted 23 days after the first exposure. Every carry-forward item aged another 7 days without action: Vivek's promised update (7 days), the 'Unfilteredlifiting' scare never explained (7 days), Derrek's rollout updates (20 days), Michelle's uploads (34 days), Mica's 1-on-1 (46 days). Mica also dropped the one visible proactive deliverable, the weekly reel inspo. Partially offset by the fastest fix of the relationship so far on Aug 21 (7 minutes, 'Done' -> 'perfect thank you so much') and a client who is still warm and blames no one."
+  },
+  "reminders": [
+    {
+      "employee": "Vivek",
+      "topic": "Repeatedly asking Paige to hand over her IG login or approve a login inside the client group chat — 4 separate asks across 3 episodes (Jul 29, Aug 13, Aug 14, Aug 20), each one producing a fresh plaintext credential in the chat",
+      "count": 4,
+      "evidence": [
+        {
+          "quote": "Share login",
+          "who": "Vivek",
+          "date": "2026-07-29"
+        },
+        {
+          "quote": "Send login in dm",
+          "who": "Vivek",
+          "date": "2026-08-13"
+        },
+        {
+          "quote": "So listen can you give me backup code",
+          "who": "Vivek",
+          "date": "2026-08-14"
+        },
+        {
+          "quote": "Send id password",
+          "who": "Vivek",
+          "date": "2026-08-20"
+        }
+      ]
+    },
+    {
+      "employee": "Vivek",
+      "topic": "Paige has now had to re-raise the same Instagram access/password problem three times in 24 days, and has never received a written explanation of what is causing it",
+      "count": 3,
+      "evidence": [
+        {
+          "quote": "hey @fonta ive just realised i cant share links xx",
+          "who": "Paige (Chey Ref)",
+          "date": "2026-07-29"
+        },
+        {
+          "quote": "please help 😂💞",
+          "who": "Paige (Chey Ref)",
+          "date": "2026-08-13"
+        },
+        {
+          "quote": "i had to change my password again",
+          "who": "Paige (Chey Ref)",
+          "date": "2026-08-21"
+        }
+      ]
+    }
+  ],
+  "complaints": [
+    {
+      "issue": "Instagram account keeps getting locked out / forcing password resets — third episode in 24 days, and this week she had to change her password again unprompted. Root cause has never been diagnosed or explained to her.",
+      "status": "recurring",
+      "first_raised": "2026-07-29",
+      "employee": "Vivek",
+      "evidence": [
+        {
+          "quote": "no i just got logged out made me confirm my details thinking i was hacled",
+          "who": "Paige (Chey Ref)",
+          "date": "2026-08-14"
+        },
+        {
+          "quote": "Send id password",
+          "who": "Vivek",
+          "date": "2026-08-20"
+        },
+        {
+          "quote": "i had to change my password again",
+          "who": "Paige (Chey Ref)",
+          "date": "2026-08-21"
+        },
+        {
+          "quote": "[REDACTED-PASSWORD]",
+          "who": "Paige (Chey Ref)",
+          "date": "2026-08-21"
+        }
+      ]
+    },
+    {
+      "issue": "Credential exposure in the client group chat has now happened four times and has degraded rather than improved — this week Paige posted her password twice more, including a new trivially weak one, in a chat that also carries ALTR's wire and Zelle details. Nothing has been rotated or deleted since the first exposure on Jul 29 (23 days).",
+      "status": "recurring",
+      "first_raised": "2026-07-29",
+      "employee": "Vivek",
+      "evidence": [
+        {
+          "quote": "xpaigex18\n[REDACTED-RECOVERY-EMAIL]\n[REDACTED-PASSWORD]",
+          "who": "Paige (Chey Ref)",
+          "date": "2026-07-29"
+        },
+        {
+          "quote": "Send login in dm",
+          "who": "Vivek",
+          "date": "2026-08-13"
+        },
+        {
+          "quote": "[REDACTED-PASSWORD]!",
+          "who": "Paige (Chey Ref)",
+          "date": "2026-08-20"
+        },
+        {
+          "quote": "[REDACTED-PASSWORD]",
+          "who": "Paige (Chey Ref)",
+          "date": "2026-08-21"
+        }
+      ]
+    },
+    {
+      "issue": "The Aug 14 alarm — Vivek asked Paige to approve a login for 'Unfilteredlifiting', an account that is not hers, then closed the week with an unexplained 'Hell nah'. Seven days later neither has been addressed or reassured.",
+      "status": "in_progress",
+      "first_raised": "2026-08-14",
+      "employee": "Vivek",
+      "evidence": [
+        {
+          "quote": "Unfilteredlifiting",
+          "who": "Vivek",
+          "date": "2026-08-14"
+        },
+        {
+          "quote": "what the hell hold on",
+          "who": "Paige (Chey Ref)",
+          "date": "2026-08-14"
+        },
+        {
+          "quote": "Hell nah",
+          "who": "Vivek",
+          "date": "2026-08-14"
+        }
+      ]
+    },
+    {
+      "issue": "Zero delivery visibility on the service she is actually paying for. In 58 days of onboarding the only ALTR-initiated content activity she has seen is reel inspo links, and even that stopped this week — no posting reports, no growth numbers, no OF/chatting updates have ever been posted in this chat.",
+      "status": "recurring",
+      "first_raised": "2026-08-01",
+      "employee": "Derrek",
+      "evidence": [
+        {
+          "quote": "Thank you for your understanding, we will have plenty of updates starting next week.",
+          "who": "Derrek",
+          "date": "2026-08-01"
+        },
+        {
+          "quote": "oh wow! thats insane hopefully it works out thank you for updating me 💗 im excited to see where this goes. thank youu. xx",
+          "who": "Paige (Chey Ref)",
+          "date": "2026-08-01"
+        },
+        {
+          "quote": "hi @paigeleighx! here’s your reel inspo for the week 🩷",
+          "who": "Mica Vecco",
+          "date": "2026-08-13"
+        }
+      ]
+    }
+  ],
+  "commitments": [
+    {
+      "what": "Rotate Paige's IG password, regenerate her backup codes, and delete the plaintext credential messages from the group chat (ids 39, 54, 75, 85, 98, 100, 110, 120, 127, 128) — 23 days outstanding and the exposure grew again this week",
+      "who": "Vivek / Derrek",
+      "date": "2026-07-29",
+      "status": "overdue",
+      "evidence": [
+        {
+          "quote": "xpaigex18\n[REDACTED-RECOVERY-EMAIL]\n[REDACTED-PASSWORD]",
+          "who": "Paige (Chey Ref)",
+          "date": "2026-07-29"
+        },
+        {
+          "quote": "[REDACTED-PASSWORD]!",
+          "who": "Paige (Chey Ref)",
+          "date": "2026-08-20"
+        },
+        {
+          "quote": "[REDACTED-PASSWORD]",
+          "who": "Paige (Chey Ref)",
+          "date": "2026-08-21"
+        }
+      ]
+    },
+    {
+      "what": "Vivek to report back on the Aug 13-14 lockout — 'Will update shortly' said Aug 14, never delivered; 7 days silent, and the next contact was him asking for the password again rather than closing the loop",
+      "who": "Vivek",
+      "date": "2026-08-14",
+      "status": "overdue",
+      "evidence": [
+        {
+          "quote": "Will update shortly",
+          "who": "Vivek",
+          "date": "2026-08-14"
+        },
+        {
+          "quote": "Hell nah",
+          "who": "Vivek",
+          "date": "2026-08-14"
+        },
+        {
+          "quote": "Send id password",
+          "who": "Vivek",
+          "date": "2026-08-20"
+        }
+      ]
+    },
+    {
+      "what": "Move credential and 2FA handling out of the client group chat — Vivek said 'Send login in dm' on Aug 13 and then collected the password in the group again on Aug 20 and Aug 21; 8 days outstanding and worsening",
+      "who": "Vivek",
+      "date": "2026-08-13",
+      "status": "overdue",
+      "evidence": [
+        {
+          "quote": "Send login in dm",
+          "who": "Vivek",
+          "date": "2026-08-13"
+        },
+        {
+          "quote": "Send id password",
+          "who": "Vivek",
+          "date": "2026-08-20"
+        },
+        {
+          "quote": "password is",
+          "who": "Paige (Chey Ref)",
+          "date": "2026-08-21"
+        }
+      ]
+    },
+    {
+      "what": "Derrek to post phone-farm / IG rollout updates ('plenty of updates starting next week', promised Aug 1) — 20 days and three report weeks with nothing posted",
+      "who": "Derrek",
+      "date": "2026-08-01",
+      "status": "overdue",
+      "evidence": [
+        {
+          "quote": "Thank you for your understanding, we will have plenty of updates starting next week.",
+          "who": "Derrek",
+          "date": "2026-08-01"
+        },
+        {
+          "quote": "We are waiting for a shipment that should land Monday that will be the final piece needed to begin and scale.",
+          "who": "Derrek",
+          "date": "2026-08-01"
+        }
+      ]
+    },
+    {
+      "what": "Michelle to close out the reel/story upload request — 34 days since the last exchange, no follow-up in three report weeks and no confirmation the Drive uploads ever completed",
+      "who": "Michelle",
+      "date": "2026-07-18",
+      "status": "overdue",
+      "evidence": [
+        {
+          "quote": "omg this whole time i thought they’d upload they’d uploaded and ive just gone on it again and they’re still uploading! im so sorry!!",
+          "who": "Paige (Chey Ref)",
+          "date": "2026-07-18"
+        },
+        {
+          "quote": "awww lol it’s okay! also if you can upload a few pictures as well for story post that’ll be great babe 💕",
+          "who": "Michelle Queue",
+          "date": "2026-07-18"
+        }
+      ]
+    },
+    {
+      "what": "Mica to get the 1-on-1 socials onboarding call booked and held — Paige said 'ill book now' on Jul 6, 46 days ago, never confirmed; and this week Mica also skipped the weekly reel inspo she had been sending",
+      "who": "Mica Vecco",
+      "date": "2026-07-06",
+      "status": "overdue",
+      "evidence": [
+        {
+          "quote": "hii sorry im new to telegram still figuring it out 😂 ill book now xx",
+          "who": "Paige (Chey Ref)",
+          "date": "2026-07-06"
+        },
+        {
+          "quote": "no worries queen! speak soon 🤍",
+          "who": "Mica Vecco",
+          "date": "2026-07-06"
+        },
+        {
+          "quote": "hi @paigeleighx! here’s your reel inspo for the week 🩷",
+          "who": "Mica Vecco",
+          "date": "2026-08-13"
+        }
+      ]
+    },
+    {
+      "what": "Stephski to confirm the Aug 4 wire for the Jul 15-31 invoice actually landed — 17 days, still no explicit 'received' in chat, only a generic thanks",
+      "who": "Stephski",
+      "date": "2026-08-04",
+      "status": "overdue",
+      "evidence": [
+        {
+          "quote": "hey ive sent it should arrive tomorrow c",
+          "who": "Paige (Chey Ref)",
+          "date": "2026-08-04"
+        },
+        {
+          "quote": "thanks so much 🙂",
+          "who": "Stephski",
+          "date": "2026-08-04"
+        }
+      ]
+    },
+    {
+      "what": "Paige to pay the Aug 1-14 invoice issued Aug 15 using the updated account details — 6 days out, no acknowledgement of any kind from her and no nudge from Stephski yet",
+      "who": "Paige (client) / Stephski to follow up",
+      "date": "2026-08-15",
+      "status": "pending",
+      "evidence": [
+        {
+          "quote": "Hi hun! Hope you had a great week. Below is your invoice for the period of August 1st-14th. Please note an update to the account number, please try and send using the information on the invoice. Have also attached updated Zelle info that should be easy to use now. Thanks so much!💘",
+          "who": "Stephski",
+          "date": "2026-08-15"
+        },
+        {
+          "quote": "Hi love ❤️ just reaching out to remind you that invoicing will start tomorrow 🙏 Please withdraw from OF if needed. Will reach out to you tomorrow!",
+          "who": "Stephski",
+          "date": "2026-08-14"
+        }
+      ]
+    }
+  ],
+  "payments": [
+    {
+      "note": "Aug 1-14 invoice sent on Aug 15 and still unacknowledged 6 days later. This is a break in an improving pattern: she acknowledged or paid every prior invoice inside the chat (Jul 21 'hi ive sent x' + screenshot, Aug 4 'hey ive sent it should arrive tomorrow c'), and here there is nothing at all. Compounding factor: this invoice carried changed bank details ('Please note an update to the account number') plus new Zelle info, which is exactly the kind of change that stalls a payment from a client who is already unsure of platform mechanics. Stephski's own pre-warning cadence worked (she flagged invoicing a day ahead on Aug 14), but she has not followed up since sending. Historic pattern: first invoice needed two nudges and went 20 days late; the two since were paid unprompted.",
+      "date": "2026-08-15",
+      "late": false,
+      "reason": "No payment confirmation and no client reply since the invoice was posted; changed account number and new Zelle details may be the blocker.",
+      "suggested_fix": "Stephski should nudge on Aug 22 with the new account number restated in plain text in the message body (not only inside the PDF), confirm which rail Paige wants to use, and separately confirm the Aug 4 wire landed. Given the credential leakage in this same chat, verify any banking-detail change with Paige by voice before she sends to a new account number.",
+      "evidence": [
+        {
+          "quote": "Hi hun! Hope you had a great week. Below is your invoice for the period of August 1st-14th. Please note an update to the account number, please try and send using the information on the invoice. Have also attached updated Zelle info that should be easy to use now. Thanks so much!💘",
+          "who": "Stephski",
+          "date": "2026-08-15"
+        }
+      ]
+    },
+    {
+      "note": "Prior cycle (Jul 15-31) remains the best one: invoiced Aug 1, paid Aug 4, no reminders needed. Stephski has still never posted an explicit confirmation that this wire landed, 17 days on.",
+      "date": "2026-08-04",
+      "late": false,
+      "reason": null,
+      "suggested_fix": "Post a one-line 'payment received' whenever funds land — it costs nothing and removes the ambiguity that is now sitting over two consecutive cycles.",
+      "evidence": [
+        {
+          "quote": "hey ive sent it should arrive tomorrow c",
+          "who": "Paige (Chey Ref)",
+          "date": "2026-08-04"
+        }
+      ]
+    }
+  ],
+  "client_priorities": [
+    "Keeping her Instagram account alive and accessible — it is the only thing she has ever proactively raised, and she has now raised it three times in 24 days (Jul 29, Aug 13, Aug 21)",
+    "Fast, hand-held support: she is new to Telegram, does not know platform mechanics ('yeah how do i do it'), and responds best to short step-by-step instructions",
+    "Seeing actual results from the phone-farm IG posting system Derrek announced Aug 1 — she reacted with genuine excitement and has now waited 20 days for the promised updates",
+    "Not being made to feel like she is the problem — she apologises constantly ('im so sorry!!', 'sorry i was asleep') and has absorbed every process failure so far without complaining"
+  ],
+  "suggestions": [
+    "URGENT (security, 23 days overdue): Paige's IG password is now '[REDACTED-PASSWORD]' and it is sitting in plain text in this group chat alongside her handle. Rotate it today via a password manager share, regenerate backup codes, enable an authenticator app instead of SMS, and delete messages 39, 54, 75, 85, 98, 100, 110, 120, 127 and 128. Four exposures in 23 days with zero remediation is the single largest liability on this account.",
+    "Diagnose why the account keeps locking. Three forced password resets in 24 days is not normal client error — it is either the phone-farm login pattern tripping Meta's checks or an actual compromise. Vivek needs to state the cause in writing to Paige, because right now she is guessing ('thinking i was hacled').",
+    "Vivek owes Paige two overdue explanations from Aug 14: what the 'Hell nah' meant, and why she was asked to approve a login for 'Unfilteredlifiting', an account that is not hers. She said 'what the hell hold on' and has never been reassured. Confirm nothing was cross-linked to her account.",
+    "Hard rule, enforced not just stated: no logins, passwords, 2FA codes or backup codes in any client group chat. Vivek wrote 'Send login in dm' on Aug 13 and then collected the password in the group on Aug 20 and again on Aug 21. Move to a shared vault with a support account, or a screen-share session.",
+    "Derrek: the Aug 1 rollout update promise is 20 days and three report weeks silent while she is still enthusiastic. Post a concrete status — what shipped, what is posting, what her numbers look like — before she has to ask. This is a referral from Chey Mai and she has never once chased; that patience is the asset being spent.",
+    "Chase the invoice on Aug 22. Six days of total silence on an invoice with changed bank details is a stall, not a refusal — restate the new account number in the message body and offer Zelle explicitly. Also confirm the Aug 4 wire landed.",
+    "Close the two stale onboarding loops before they become the story: Michelle has been silent 34 days on the Drive uploads and Mica's 1-on-1 call is 46 days unbooked. Mica also skipped reel inspo this week, so as of now nothing proactive is reaching this client at all."
+  ],
+  "wins": [
+    "Fastest turnaround of the relationship so far: Aug 21, seven minutes from 'on it' to 'Done', and Paige closed with 'perfect thank you so much'. When Vivek is responsive the client is genuinely delighted.",
+    "Paige is still warm and blames nobody after three account lockouts in 24 days — 'thank you', 'perfect thank you so much' on Aug 21. There is no relationship damage yet, only accumulating cause for it.",
+    "Stephski's proactive invoice pre-warning worked as intended: she flagged on Aug 14 that 'invoicing will start tomorrow 🙏 Please withdraw from OF if needed' and then sent on schedule Aug 15. Best-run function on the account.",
+    "Vivek did resolve the Aug 20-21 access issue same-session rather than dragging it 19 hours like the Aug 13-14 episode."
+  ],
+  "week_stats": {
+    "messages": 16,
+    "client_messages": 8,
+    "team_messages": 8
+  }
+}

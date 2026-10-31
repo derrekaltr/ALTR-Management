@@ -1,0 +1,298 @@
+{
+  "client": "Vicky",
+  "slug": "vicky-x-altr",
+  "week_ending": "2026-08-21",
+  "summary": "Vicky terminated the engagement. At 00:00 on Aug 18 she wrote 'Hey guys, I would like to stop this collaboration, can we please count how much money I need to send and disconnect my accounts from Infloww?' — roughly 18 hours after Ollie answered her third chase about the mermaidua second-page problem with the two-word reply 'Yes all solved', and eight days after Derrek said 'give me another hour and ill answer you and update you on all of this' and never came back with the traffic numbers. The whole week was 10 messages. Only three team members appeared at all: Stephski (invoice for Aug 1-14, sent Aug 15 with a changed account number), Ollie (one two-word reply), and Mayson (triage pings). Derrek did not post once in the window and has still not responded to the termination three days later. The only ALTR reply to the churn message was Mayson's 'I'll get you an answer shortly Valeri!' plus Stephski sending a file 51 minutes later — no retention attempt, no call request, no owner escalation. Everything the prior two state files flagged as the churn risk came true: the two-month traffic failure was never evidenced with numbers, the second-page complaint was never substantively answered, Jake's $700 undelivered call went a seventh straight week unmentioned, and the whale list promised Jun 30 was never delivered. The Aug 1-14 (now Aug 1-18) invoice is unpaid and is the last money on the table.",
+  "health": {
+    "score": 8,
+    "trend": "down",
+    "rationale": "Down from 60. The client formally ended the collaboration on Aug 18 and asked to be disconnected from Infloww. No one at ALTR attempted a save in the 3 days since — Derrek, the owner and the person who owned her #1 complaint, has not posted in this chat since Aug 12. The score is not zero only because she left on cooperative terms, asked ALTR to calculate what she owes rather than disputing it, and the final invoice is still collectable."
+  },
+  "reminders": [
+    {
+      "employee": "Ollie Mckinlay",
+      "topic": "Whether the second-page (mermaidua) problem she screenshotted was actually fixed — chased three times, answered once with 'Yes that one was solved' and once with 'Yes all solved', never with evidence or numbers",
+      "count": 3,
+      "count_this_week": 1,
+      "first_date": "2026-08-12",
+      "last_date": "2026-08-17",
+      "days_outstanding": 9,
+      "quotes": [
+        {"quote": "Can u please check 🙏🏻", "who": "Valerie", "date": "2026-08-12"},
+        {"quote": "Looking into this for you", "who": "Ollie Mckinlay", "date": "2026-08-12"},
+        {"quote": "Is this one been solved?", "who": "Valerie", "date": "2026-08-14"},
+        {"quote": "Yes that one was solved", "who": "Ollie Mckinlay", "date": "2026-08-14"},
+        {"quote": "Hello, is this complaint solved ?", "who": "Valerie", "date": "2026-08-17"},
+        {"quote": "Yes all solved", "who": "Ollie Mckinlay", "date": "2026-08-17"}
+      ]
+    },
+    {
+      "employee": "Derrek",
+      "topic": "Replacement traffic actually producing fans after she shut off her own paid SFS traffic in June — chased five times over six weeks, then she stopped chasing and quit instead",
+      "count": 5,
+      "count_this_week": 0,
+      "first_date": "2026-06-28",
+      "last_date": "2026-08-10",
+      "days_outstanding": 54,
+      "note": "The absence of a sixth chase this week is the signal, not a relief: she asked five times, was told 'its live' on Aug 10, never received the promised numbers, and terminated on Aug 18.",
+      "quotes": [
+        {"quote": "Do you have other traffic ready?", "who": "Valerie", "date": "2026-06-28"},
+        {"quote": "Hello, is there any updates on marketing side?", "who": "Valerie", "date": "2026-07-27"},
+        {"quote": "Hey, how is it going with traffic, any news?", "who": "Valerie", "date": "2026-08-04"},
+        {"quote": "Hello, when the traffic is going to work?", "who": "Valerie", "date": "2026-08-10"},
+        {"quote": "Can I ask what’s going on with the traffic? The results have been getting worse and worse, and it’s already been 2 months. When do you think you’ll be able to fix this ?", "who": "Valerie", "date": "2026-08-10"},
+        {"quote": "give me another hour and ill answer you and update you on all of this", "who": "Derrek", "date": "2026-08-10"}
+      ]
+    },
+    {
+      "employee": "Michelle",
+      "topic": "The handle for the management-run IG account she was told was 'warming up' — asked twice, never received it in 28 days",
+      "count": 2,
+      "count_this_week": 0,
+      "first_date": "2026-07-24",
+      "last_date": "2026-07-27",
+      "days_outstanding": 28,
+      "quotes": [
+        {"quote": "Can i have link to IG you manage please?", "who": "Valerie", "date": "2026-07-24"},
+        {"quote": "Hi love, the account is currently being warmed up and almost ready as soon as posting start I will send you IG handle 💕", "who": "Michelle Queue", "date": "2026-07-24"},
+        {"quote": "Hello, is there any updates on marketing side?", "who": "Valerie", "date": "2026-07-27"},
+        {"quote": "hey love the new account takes a few days for warm up. I reached out to derrek for the baby one to get that posting started on there as well", "who": "Michelle Queue", "date": "2026-07-28"}
+      ]
+    }
+  ],
+  "complaints": [
+    {
+      "issue": "CHURN — Vicky ended the collaboration. Just after midnight on Aug 18 she asked ALTR to total up what she owes and disconnect her accounts from Infloww. She gave no angry reason, which makes it worse: it is the accumulation of the two-month traffic failure, the unanswered second-page reports, and the $700 call, not a single incident. Three days on, the only replies are Mayson's holding message and a file from Stephski. Derrek has not responded at all.",
+      "status": "new",
+      "first_raised": "2026-08-18",
+      "owner": "Derrek",
+      "severity": "critical",
+      "quotes": [
+        {"quote": "Hello, is it possible for you to count from 1st- 18th ?", "who": "Valerie", "date": "2026-08-17"},
+        {"quote": "Hey guys, I would like to stop this collaboration, can we please count how much money I need to send and disconnect my accounts from Infloww?", "who": "Valerie", "date": "2026-08-18"},
+        {"quote": "@stephskiii ^", "who": "Mayson", "date": "2026-08-18"},
+        {"quote": "I’ll get you an answer shortly Valeri!", "who": "Mayson", "date": "2026-08-18"},
+        {"quote": "Yes mam one sec", "who": "Stephski", "date": "2026-08-18"}
+      ]
+    },
+    {
+      "issue": "Traffic/marketing never replaced the paid SFS traffic she was told to shut off on Jun 28 — 54 days from first raise to churn. Promised 'end of week one' (Jun 19), then 'in the next 48 hrs' (Aug 4), declared live on Aug 10 with fans 'late tn', and then the promised detailed update never arrived. She was never shown a single number proving the replacement traffic worked. This is the root cause of the churn.",
+      "status": "recurring",
+      "first_raised": "2026-06-28",
+      "owner": "Derrek",
+      "severity": "critical",
+      "days_open": 54,
+      "quotes": [
+        {"quote": "Could you please stop doing that as we won't be running these pages as SFS anymore", "who": "Ollie Mckinlay", "date": "2026-06-28"},
+        {"quote": "Do you have other traffic ready?", "who": "Valerie", "date": "2026-06-28"},
+        {"quote": "oh traffic should kick in by end of week one", "who": "Derrek", "date": "2026-06-19"},
+        {"quote": "Setting everything up as we speak. Will be up and running in the next 48 hrs", "who": "Derrek", "date": "2026-08-04"},
+        {"quote": "Can I ask what’s going on with the traffic? The results have been getting worse and worse, and it’s already been 2 months. When do you think you’ll be able to fix this ?", "who": "Valerie", "date": "2026-08-10"},
+        {"quote": "you will see fans coming in late tn", "who": "Derrek", "date": "2026-08-10"}
+      ]
+    },
+    {
+      "issue": "Second OF page (mermaidua) going days with zero new fans — reported with a screenshot Aug 11, re-reported with a second screenshot Aug 14, and chased for a status on Aug 17. Every answer was a two-to-four word assertion with no data attached. She terminated 18 hours after 'Yes all solved'. This is the proximate trigger.",
+      "status": "recurring",
+      "first_raised": "2026-08-11",
+      "owner": "Ollie Mckinlay",
+      "severity": "critical",
+      "days_open": 10,
+      "quotes": [
+        {"quote": "Hello, on my second page many days no fans @mermaidua \n\nAnd for second OF account i connected my twitter page", "who": "Valerie", "date": "2026-08-11"},
+        {"quote": "From mermaid account", "who": "Valerie", "date": "2026-08-14"},
+        {"quote": "Yes that one was solved", "who": "Ollie Mckinlay", "date": "2026-08-14"},
+        {"quote": "Hello, is this complaint solved ?", "who": "Valerie", "date": "2026-08-17"},
+        {"quote": "Yes all solved", "who": "Ollie Mckinlay", "date": "2026-08-17"}
+      ]
+    },
+    {
+      "issue": "Jake's $700 video call, sold around Jul 3 without briefing her, is still undelivered 49 days later and was never mentioned by anyone on the team again after Aug 1. It is now an unresolved liability at offboarding: a fan has paid $700 for something he will not receive from a model who has left. She also stated flatly on Jul 9 that she would not take sold calls without full details in advance, and the process never changed.",
+      "status": "recurring",
+      "first_raised": "2026-07-03",
+      "owner": "Ollie Mckinlay",
+      "severity": "high",
+      "days_open": 49,
+      "quotes": [
+        {"quote": "Can you please answer whats going on??😥", "who": "Valerie", "date": "2026-07-03"},
+        {"quote": "And also, if you’re selling calls, I need to have all  information beforehand. Otherwise , I’m not going to do the calls. 🙏🏻\nI need to know exactly what has been promised or what he requested before I get on the call.", "who": "Valerie", "date": "2026-07-09"},
+        {"quote": "And also Jake who sent tip for call asking me what we gonna do with that money", "who": "Valerie", "date": "2026-08-01"},
+        {"quote": "I can make call with him, or we can suggest a custom video instead", "who": "Valerie", "date": "2026-08-01"}
+      ]
+    },
+    {
+      "issue": "Chatter persona and whale trust — mass DMs like 'are you single' made long-time top fans doubt they were talking to her. She asked on Jun 30/Jul 1 for a whale list so she could send voice notes and for mass DMs to those fans to pause. Ollie agreed the same day and never delivered in 52 days. The topic was never raised again by anyone.",
+      "status": "recurring",
+      "first_raised": "2026-06-26",
+      "owner": "Ollie Mckinlay",
+      "severity": "high",
+      "days_open": 52,
+      "quotes": [
+        {"quote": "A lot of fans texted me and ask if its me talking on OF", "who": "Valerie", "date": "2026-06-26"},
+        {"quote": "I want to tell you about the whales\nI say you sent them massage “are you single” \nSome of them i know for a long time and some of them married, so when you ask this they understand that this is not me talking", "who": "Valerie", "date": "2026-06-30"},
+        {"quote": "Okay thank you for this, I’ll create a list for whales and not send them the organic MM’s that everyone else receives", "who": "Ollie Mckinlay", "date": "2026-06-30"},
+        {"quote": "Can you please send me list of Wales that doesn’t believe that it is me talking i will send them voice notes", "who": "Valerie", "date": "2026-07-01"}
+      ]
+    }
+  ],
+  "commitments": [
+    {
+      "what": "Give her the full traffic update promised 'in another hour' on Aug 10 — the detailed update never arrived, in 11 days. This was the last thing the owner promised her before she left.",
+      "who": "Derrek",
+      "date": "2026-08-10",
+      "status": "overdue",
+      "days_overdue": 11,
+      "quotes": [
+        {"quote": "give me another hour and ill answer you and update you on all of this", "who": "Derrek", "date": "2026-08-10"},
+        {"quote": "we will have this all turned around", "who": "Derrek", "date": "2026-08-10"}
+      ]
+    },
+    {
+      "what": "Prove the new traffic system actually delivered fans on both pages after 'its live' on Aug 10 — never evidenced; her own screenshots on Aug 11 and Aug 14 showed the opposite on mermaidua. Last week this was scored 'done, verify next week'; verification failed.",
+      "who": "Derrek",
+      "date": "2026-08-10",
+      "status": "overdue",
+      "days_overdue": 11,
+      "quotes": [
+        {"quote": "its live", "who": "Derrek", "date": "2026-08-10"},
+        {"quote": "you will see fans coming in late tn", "who": "Derrek", "date": "2026-08-10"},
+        {"quote": "Hello, on my second page many days no fans @mermaidua \n\nAnd for second OF account i connected my twitter page", "who": "Valerie", "date": "2026-08-11"}
+      ]
+    },
+    {
+      "what": "Answer the termination message with a real response — Mayson promised an answer 'shortly' on Aug 18 morning and nothing beyond a file has been sent in the 3 days since. No owner, no retention conversation, no offboarding plan communicated.",
+      "who": "Mayson",
+      "date": "2026-08-18",
+      "status": "overdue",
+      "days_overdue": 3,
+      "quotes": [
+        {"quote": "I’ll get you an answer shortly Valeri!", "who": "Mayson", "date": "2026-08-18"},
+        {"quote": "Yes mam one sec", "who": "Stephski", "date": "2026-08-18"}
+      ]
+    },
+    {
+      "what": "Disconnect her OF accounts (@vickycutiee and mermaidua) from ALTR's Infloww as she requested on Aug 18 — no one has confirmed this was done. She is waiting on it and it is the one thing that will make her feel safe closing out.",
+      "who": "Ollie Mckinlay",
+      "date": "2026-08-18",
+      "status": "pending",
+      "quotes": [
+        {"quote": "Hey guys, I would like to stop this collaboration, can we please count how much money I need to send and disconnect my accounts from Infloww?", "who": "Valerie", "date": "2026-08-18"}
+      ]
+    },
+    {
+      "what": "Produce the final Aug 1-18 figure she asked for. Stephski replied 'Yes mam one sec' and attached a file 6 minutes later on Aug 18, but there is no confirmation the file covers the Aug 1-18 period she requested rather than the Aug 1-14 invoice already sent, and no payment has landed.",
+      "who": "Stephski",
+      "date": "2026-08-18",
+      "status": "pending",
+      "quotes": [
+        {"quote": "Hello, is it possible for you to count from 1st- 18th ?", "who": "Valerie", "date": "2026-08-17"},
+        {"quote": "Yes mam one sec", "who": "Stephski", "date": "2026-08-18"}
+      ]
+    },
+    {
+      "what": "Resolve Jake's $700 call — schedule, convert to a custom, or refund. 49 days old, never actioned, and now unresolvable through her since she has left.",
+      "who": "Ollie Mckinlay",
+      "date": "2026-07-03",
+      "status": "overdue",
+      "days_overdue": 49,
+      "quotes": [
+        {"quote": "Yes I’m sorting now, I’ll message back shortly - a VC was sold for $700 but not for an hour", "who": "Ollie Mckinlay", "date": "2026-07-03"},
+        {"quote": "I can make call with him, or we can suggest a custom video instead", "who": "Valerie", "date": "2026-08-01"}
+      ]
+    },
+    {
+      "what": "Create the whale list and stop sending those fans organic mass messages — promised Jun 30, 52 days overdue, never delivered.",
+      "who": "Ollie Mckinlay",
+      "date": "2026-06-30",
+      "status": "overdue",
+      "days_overdue": 52,
+      "quotes": [
+        {"quote": "Okay thank you for this, I’ll create a list for whales and not send them the organic MM’s that everyone else receives", "who": "Ollie Mckinlay", "date": "2026-06-30"}
+      ]
+    },
+    {
+      "what": "Send her the management-run IG handle once the warmed-up account started posting — promised Jul 24, 28 days overdue, never sent.",
+      "who": "Michelle",
+      "date": "2026-07-24",
+      "status": "overdue",
+      "days_overdue": 28,
+      "quotes": [
+        {"quote": "Hi love, the account is currently being warmed up and almost ready as soon as posting start I will send you IG handle 💕", "who": "Michelle Queue", "date": "2026-07-24"}
+      ]
+    },
+    {
+      "what": "Client to film the $1k pfizzington custom (10 min minimum, detailed doc) — she gave a 5-6 day ETA on Aug 11, so it was due ~Aug 16-17. It was never delivered, nobody asked for it in the window, and she quit on Aug 18. A fan has paid $1,000 for content that does not exist.",
+      "who": "Valerie (client side)",
+      "date": "2026-08-11",
+      "status": "overdue",
+      "days_overdue": 5,
+      "quotes": [
+        {"quote": "he paid 1k so 10 mins minimum", "who": "Ollie Mckinlay", "date": "2026-08-05"},
+        {"quote": "Hey, I’m so sorry for the wait\nI’m traveling at the moment,  custom should be ready in about 5–6 days", "who": "Valerie", "date": "2026-08-11"}
+      ]
+    }
+  ],
+  "payments": [
+    {
+      "note": "The Aug 1-14 invoice went out Aug 15 and is UNPAID as of Aug 21 — 6 days out. Two days after receiving it she asked for the period to be recut to Aug 1-18 and then terminated, so the live balance is the final Aug 1-18 figure Stephski attached on Aug 18. Nothing has been confirmed received. This is the last money ALTR will collect from this client and the only remaining commercial upside in the account.",
+      "date": "2026-08-15",
+      "late": true,
+      "reason": "Invoice landed the same week the client decided to leave; she is now paying a final settlement rather than a routine invoice, and she has 54 days of unresolved service grievances that give her every reason to slow-walk or dispute it.",
+      "suggested_fix": "Get the final Aug 1-18 figure confirmed in writing today with the exact TRC20 address in the message body, and have the owner — not the invoicing coordinator — be the one who sends it alongside the offboarding steps. Do not let a collections chase be the last interaction of this relationship.",
+      "quotes": [
+        {"quote": "Hi love ❤️ just reaching out to remind you that invoicing will start tomorrow 🙏 Please withdraw from OF if needed. Will reach out to you tomorrow!", "who": "Stephski", "date": "2026-08-14"},
+        {"quote": "Hi hun! Hope you had a great week. Below is your invoice for the period of August 1st-14th. Please note an update to the account number, please try and send using the information on the invoice. Have also attached updated Zelle info that should be easy to use now. Thanks so much!💘", "who": "Stephski", "date": "2026-08-15"},
+        {"quote": "Hello, is it possible for you to count from 1st- 18th ?", "who": "Valerie", "date": "2026-08-17"}
+      ]
+    },
+    {
+      "note": "Process risk worth flagging: the Aug 15 invoice changed the receiving account number and swapped in new Zelle details mid-relationship, sent by a coordinator, with no advance heads-up. This client has already been burned once by wrong payment details (the Jul 6 wrong-chain USDT address that cost about a week and forced a test transaction), and she pays in USDT TRC20, not Zelle. Announcing new bank details in a chat message is exactly the pattern clients are trained to treat as fraud.",
+      "date": "2026-08-15",
+      "late": false,
+      "reason": "Payment-detail changes are being communicated inline with the invoice rather than confirmed out-of-band",
+      "suggested_fix": "Never change payout details in the same message as an invoice. Confirm the change separately and, for this client, keep using the verified TRC20 address TKg3MRS33SeRCDeSzMTrNNpckKbUKypBsJ she has already paid to twice.",
+      "quotes": [
+        {"quote": "Please note an update to the account number, please try and send using the information on the invoice. Have also attached updated Zelle info that should be easy to use now.", "who": "Stephski", "date": "2026-08-15"},
+        {"quote": "Hello, I asked USDT trc 20", "who": "Valerie", "date": "2026-07-06"}
+      ]
+    },
+    {
+      "note": "Full history: 3 invoices issued, 3 paid, all 3 required chasing and settled 7-12 days after issue (Jun 17-30 paid Jul 13; Jul 1-14 paid Jul 22; Jul 15-31 paid Aug 11 after three nudges). She was never a credit risk — she always paid and she volunteered to pay on the way out ('can we please count how much money I need to send'). The risk on the final invoice is friction and grievance offset, not solvency.",
+      "date": "2026-08-21",
+      "late": false,
+      "reason": null,
+      "suggested_fix": "Settle the final balance before or at the same time as disconnecting her Infloww access — once she is disconnected there is no leverage and no reason for her to open the chat again.",
+      "quotes": [
+        {"quote": "Hey guys, I would like to stop this collaboration, can we please count how much money I need to send and disconnect my accounts from Infloww?", "who": "Valerie", "date": "2026-08-18"}
+      ]
+    }
+  ],
+  "client_priorities": [
+    "Being shown actual results — she asked five times for traffic numbers over six weeks and was never given one figure; that is why she left",
+    "Her second page (mermaidua) getting real attention, not one-line 'solved' assurances",
+    "Clean exit: an accurate final Aug 1-18 balance and her OF accounts disconnected from ALTR's Infloww",
+    "Never being put on a sold call or custom without the fan, amount, duration and exact promises in advance",
+    "Protecting trust with her long-time top fans — persona consistency, voice notes, no 'are you single' mass DMs",
+    "USDT TRC20 payments only, and all her content kept in her own Google Drive"
+  ],
+  "suggestions": [
+    "Derrek should call her personally today. She has not had a message from the owner since Aug 12 and none at all since she quit. Whether the goal is a save or a clean exit, the owner going silent on a client who wrote 'it’s already been 2 months' is the single worst outcome available.",
+    "If a save is attempted, it has to open with the traffic numbers, not an apology. She asked five times and was told 'its live' and 'you will see fans coming in late tn' on Aug 10; the only data she ever saw was her own screenshot showing no fans. Show real sub counts for both pages Aug 10-21 or do not open the conversation.",
+    "Lock the final Aug 1-18 balance in writing today with the TRC20 address in the message, and settle it before disconnecting Infloww. She offered to pay unprompted — that goodwill has a short half-life.",
+    "Resolve Jake's $700 and the pfizzington $1,000 custom on ALTR's side. Two fans have paid $1,700 for undelivered items from a model who has left the agency; those refunds or substitutions are ALTR's problem now, not hers.",
+    "Run the offboarding properly and in writing: disconnect both accounts from Infloww, hand back the custom domain vickysworld.vip, confirm the management IG account status, and stop all chatter activity on a dated cutoff. Confirm each item back to her.",
+    "Post-mortem the pattern, because it is not client-specific: two commitments (whale list 52 days, IG handle 28 days) were made and simply never revisited, and every complaint was closed with an assertion instead of evidence. Any client who has to ask 'is this complaint solved ?' a third time is already gone.",
+    "Change the chase mechanics on complaints: a screenshot from a client should open a ticket with an owner and a due date, and close with a screenshot back. 'Yes all solved' was the last thing ALTR said to Vicky before she quit."
+  ],
+  "wins": [
+    "She terminated cooperatively and volunteered to settle up — 'can we please count how much money I need to send' — so the final invoice is collectable if it is handled in the next few days",
+    "Stephski gave her a proactive heads-up on Aug 14 that invoicing would start the next day and to withdraw from OF if needed, which is the right practice even though the invoice itself is now unpaid",
+    "Mayson triaged both times he was needed within a minute — '@olkmck ^^' on Aug 14 and '@stephskiii ^' plus a holding reply on Aug 18 — the fastest response in the chat all week",
+    "Right up to the end she kept delivering: Reddit NSFW folder and a fresh batch of IG reels pushed to Drive unprompted on Aug 12, and three same-day Snapchat adds on Aug 10. She never became difficult; she just stopped believing the results would come."
+  ],
+  "week_stats": {
+    "messages": 10,
+    "client_messages": 3,
+    "team_messages": 7
+  }
+}

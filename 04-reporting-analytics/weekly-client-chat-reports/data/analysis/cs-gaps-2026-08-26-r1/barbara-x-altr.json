@@ -1,0 +1,125 @@
+{
+  "client": "Barbara",
+  "slug": "barbara-x-altr",
+  "status": "at_risk",
+  "status_reason": "Still paying, still pitching ideas (OFTV gun-range shoot) and replying same-day, but on 2026-08-24 she said 'im very nervous with the situation', reported traffic 'super down', tagged three people, and proposed her own fallback plan; two days later nobody has given her a substantive answer and Derrek (tagged) has not posted in this chat since 2026-08-12.",
+  "last_client_message": "2026-08-26",
+  "dimensions": {
+    "responsiveness": {
+      "severity": 2,
+      "internal_failure": "Trivial asks get answered in minutes, but anything that needs an owner (X logins, Zelle failure, IG root cause, linkme decision, traffic update) takes 1-3 days or is never answered; she has had to nudge on at least five threads.",
+      "evidence": [
+        {"quote": "what is your email so i can copy you on the email?", "who": "Barb Brazil", "date": "2026-07-25"},
+        {"quote": "You can send to oftvmodels@gmail.com", "who": "Olivia (34h later, after Mayson re-tagged her)", "date": "2026-07-26"},
+        {"quote": "hey just letting you know i never received invoice request!", "who": "Barb Brazil (Zelle 'another email?' asked Aug 4, first fix attempt Aug 6, second Aug 8)", "date": "2026-08-08"},
+        {"quote": "Lmk im very nervous with the situation @mmayson @ofwizz @sotom225", "who": "Barb Brazil (answered only with 'I'll get you an answer soon' / 'Working on it!!'; nothing substantive by Aug 26)", "date": "2026-08-24"}
+      ]
+    },
+    "follow_through": {
+      "severity": 3,
+      "internal_failure": "Nine of ~20 explicit promises silently lapsed with no closure message; the oldest is 34 days old. Nobody on our side tracks what was promised, so lapses are only surfaced when the client chases, and she has now stopped chasing.",
+      "evidence": [
+        {"quote": "i'll look for talking examples that do well and yess you can", "who": "Michelle Queue (talking-to-camera examples never sent)", "date": "2026-07-23"},
+        {"quote": "I'll create you 3 different versions tiktok/twitter/instagram", "who": "Mayson Chat (link-in-bio versions never delivered; on Aug 24 she had to ask for the domain again)", "date": "2026-07-31"},
+        {"quote": "your backup account for IG reels is currently being warmed up as soon as it's ready next week I will send you the @ name babes", "who": "Michelle Queue (never sent; client chased Aug 3: 'keep me posted on the new IG whenever you have that @ please')", "date": "2026-08-01"},
+        {"quote": "Yeah let me get back on this!", "who": "Mayson Chat (re: 'did we add anything for like engagement or any sort of external software' - never answered)", "date": "2026-08-11"},
+        {"quote": "yes", "who": "Derrek (entire reply to adultsearch.com takedown request; no confirmation of filing/removal in 19 days)", "date": "2026-08-07"}
+      ]
+    },
+    "proactive_communication": {
+      "severity": 3,
+      "internal_failure": "In 37 days the only unprompted non-templated update was Derrek's Aug 1 apology message. She has never been shown a posting log, view count or growth number; 'plenty of updates starting next week' produced zero updates, and every status she got came after she asked. Templated contact (weekly leak-removal screenshot, invoices) is the only reliable outbound.",
+      "evidence": [
+        {"quote": "My apologies, for any lack of communication... Thank you for your understanding, we will have plenty of updates starting next week.", "who": "Derrek", "date": "2026-08-01"},
+        {"quote": "hey guys just checking in any updates with all the new changes happening? 😊", "who": "Barb Brazil (reply: 'Yo Ma'am' from Vivek; real answer came Aug 8 after she asked again)", "date": "2026-08-06"},
+        {"quote": "Yep it's back up / We proceed tomorrow / Full throttle", "who": "Derrek (no results, numbers or posting update ever followed; next thing she hears about IG is her own Aug 24 'traffic has been super down')", "date": "2026-08-08"},
+        {"quote": "Hey guys! Just wanted to get an update on what's going on with a few things, i feel like my traffic has been super down and i know we talked about a new IG maybe some other solutions", "who": "Barb Brazil", "date": "2026-08-24"}
+      ]
+    },
+    "onboarding_handoff": {
+      "severity": 2,
+      "internal_failure": "No kickoff or 'who does what' brief: she had to ask where to send logins, who to contact (and follow up on it), who runs X (we don't), who handles OFTV, and where to drop content; the Social Media call slipped twice because of a missed timezone and a rebooking mix-up.",
+      "evidence": [
+        {"quote": "Hey guys, if i have any questions regarding anything who would be the right person to reach out to from the group?", "who": "Barb Brazil (followed by 'Following up here' 2h later before Derrek answered)", "date": "2026-07-26"},
+        {"quote": "oh, I thought we did all Twitter I had given him or maybe someone else from the team my logins... to be honest, I'm very confused lol", "who": "Barb Brazil (X ownership only clarified on day 11)", "date": "2026-07-31"},
+        {"quote": "I'm not sure where to send this but", "who": "Barb Brazil (dropping a 300-reel Google Drive folder; never acknowledged by anyone)", "date": "2026-07-30"},
+        {"quote": "hi babe! sorry i think the time difference messed up our schedule 😭 im in france at the moment", "who": "Mica Vecco (first 1:1 call missed; client had to rebook herself two days later)", "date": "2026-07-23"}
+      ]
+    },
+    "chatter_conduct": {
+      "severity": 1,
+      "internal_failure": "No fan-chat incidents surfaced in this group, but there is also no visible chatting briefing, VIP/whale list or content-boundary guide; her content-safety questions get one-word answers or none, so she self-censors.",
+      "evidence": [
+        {"quote": "do you guys think this would get flagged / it's my first post back i'm nervous", "who": "Barb Brazil (Mayson: 'No this should be all good!' 6.7h later)", "date": "2026-07-24"},
+        {"quote": "is this too risqué / nvm i deleted i was paranoid lol", "who": "Barb Brazil (no one answered; she deleted the reel 3 minutes later)", "date": "2026-08-18"}
+      ]
+    },
+    "platform_health": {
+      "severity": 3,
+      "internal_failure": "IG flags recurred every other day for weeks with no single owner (bounced Mayson -> Vivek -> Derrek), no update cadence, and her root-cause questions were shut down twice ('Dont worry about why', 'Don't worry about it... it was resolved'). Derrek's Aug 11 device-move was never reported back on, and as of Aug 24 the main account is still being restricted when she adds the bio domain.",
+      "evidence": [
+        {"quote": "i'm having account issues every other day, i'm losing recovering losing recovering", "who": "Barb Brazil", "date": "2026-08-11"},
+        {"quote": "this is happening to alot of people. Dont worry about why, we got it and will have it fixed", "who": "Derrek", "date": "2026-08-11"},
+        {"quote": "Don't worry about it Barbara, it was resolved", "who": "Mayson Chat (reply to her screenshot + 'heyyy just checking in on this', 12h later, no explanation)", "date": "2026-08-21"},
+        {"quote": "it keeps restricting my main still when i add it to my bio", "who": "Barb Brazil", "date": "2026-08-24"}
+      ]
+    },
+    "billing_ops": {
+      "severity": 2,
+      "internal_failure": "First invoice needed three ALTR-side Zelle fixes over six days and was finally settled to Derrek's personal phone number; Stephski's promised Zelle request was never sent. Rail was genuinely fixed for invoice 2, but the Aug 19/20 payments sat unacknowledged for six days.",
+      "evidence": [
+        {"quote": "Hey! great, i can zelle that email at the bottom correct?", "who": "Barb Brazil (Stephski: 'Yes mam!'; next morning: 'Is there another email?' with a failure screenshot)", "date": "2026-08-03"},
+        {"quote": "Zelle my phone number / 5618011087", "who": "Derrek (after 'altrpaymentsmgmt' tag also failed: 'it's not working /:')", "date": "2026-08-08"},
+        {"quote": "remainder has been sent", "who": "Barb Brazil (first ALTR acknowledgement was Stephski's 'Thank you!' on Aug 26)", "date": "2026-08-20"}
+      ]
+    },
+    "ownership_escalation": {
+      "severity": 2,
+      "internal_failure": "Mayson is the declared go-to but functions as a router: 9 of his 20 messages are '@someone ^^' re-tags, and re-tagged items (collab account, OFTV email, IG fix) stall or die. The growth/IG owners (Derrek, Vivek, Mica) have posted nothing since Aug 12/9/13 while she escalates to them by name.",
+      "evidence": [
+        {"quote": "@mmayson is your go to for all things altr", "who": "Derrek", "date": "2026-07-26"},
+        {"quote": "Is there an account we have that someone can collab a reel with me on ?? i can show u guys before so u can see", "who": "Barb Brazil (Mayson: '@sotom225 ^^' then 'Mica Derrek ^^'; nobody ever answered)", "date": "2026-07-23"},
+        {"quote": "@sotom225 any updates on instagrams?", "who": "Mayson Chat (his answer to her Aug 24 traffic escalation; Michelle never replied in-chat)", "date": "2026-08-24"}
+      ]
+    },
+    "disengagement_detection": {
+      "severity": 2,
+      "internal_failure": "Clear early signals (four open asks with zero chases in the Aug 15-21 week, self-deleting posts, 'i'm just getting worried') were not acted on; when she finally said 'very nervous' and proposed her own fallback plan on Aug 24, the response was 'Working on it!!' and no owner picked it up in 48h.",
+      "evidence": [
+        {"quote": "i don't undertand how this can possibly keep happening, especially because we need to get traffic going i'm just getting worried about that", "who": "Barb Brazil", "date": "2026-08-11"},
+        {"quote": "or maybe we can just do like a very heavy OFTV focus like I shoot once a week to make an upload a video every week just until we figure this out?", "who": "Barb Brazil (client designing her own contingency plan; unanswered)", "date": "2026-08-24"},
+        {"quote": "I'll get you an answer soon / Working on it!!", "who": "Mayson Chat (nothing further by Aug 26)", "date": "2026-08-24"}
+      ]
+    },
+    "security_hygiene": {
+      "severity": 2,
+      "internal_failure": "No credential intake process: logins went to Derrek's DMs, nobody on the team knew who held her X logins, Vivek requested logins in the group chat, and Derrek's personal phone number and the client's phone number are both posted in the group. No raw passwords appear in chat, but access handling is ad hoc and untracked.",
+      "evidence": [
+        {"quote": "hi @barbsilvaxo! who did you give your login to?", "who": "Mica Vecco (11 days after onboarding; client: 'I believe Derrek')", "date": "2026-07-31"},
+        {"quote": "For sure ma'am / Send login", "who": "Vivek (IG login requested in the shared group)", "date": "2026-07-31"},
+        {"quote": "Zelle my phone number / 5618011087", "who": "Derrek (owner's personal number as a payment rail, in the group)", "date": "2026-08-08"}
+      ]
+    }
+  },
+  "metrics": {
+    "client_questions_total": 36,
+    "unanswered_over_24h": 14,
+    "max_team_silence_days": 2,
+    "promises_made": 20,
+    "promises_kept": 9,
+    "promises_lapsed": 9,
+    "method": "Full history Jul 20 - Aug 26 (304 non-service messages; 173 client / 131 team). Questions = client messages containing '?' (31, minus 4 bare URLs) plus 9 imperative asks without '?' ('let me know what you think', 'can someone handle pls', 'just checking in on this', etc.). Unanswered >24h = no substantive on-topic reply from our side within 24h, including never-answered (collab account, linkme, engagement-software, 'which one?', 'too risqué', OFTV-focus proposal) and the Aug 24 traffic escalation still open at 48h+. Team silence = longest gap between ANY our-side messages (Aug 21->23 and Aug 15->17, both ~1.9 days); by IG/growth owners specifically it is 14 days (Derrek last posted 2026-08-12, Vivek 08-09 -> 08-24, Mica 08-13 -> none). Promises = explicit 'I will / let me / next week' commitments; kept 9, lapsed 9 (no closure after 5+ days), 2 still open <72h (Mayson 'answer soon', Vivek domain review) not counted either way."
+  },
+  "what_client_wanted": [
+    "Root-cause transparency on the IG flags, not reassurance: 'did we add anything for like engagement or any sort of external software on any of my accounts... i'm trying to trace what could be root cause' (2026-08-11)",
+    "Proof her numbers are moving: 'i definitely wanna see my numbers increase not keep going down 😭' (2026-08-24)",
+    "One clear owner and a place for everything: 'if i have any questions regarding anything who would be the right person to reach out to from the group?' (2026-07-26); 'I'm not sure where to send this but' (2026-07-30)",
+    "Two-way content feedback and ideas she can shoot to: 'when i send you content i have ready id love to hear your feedback also!' (2026-07-22); 'is this too risqué' (2026-08-18)"
+  ],
+  "what_worked": [
+    "Michelle's day-1 content request doc + inspo reels + practical do/don't list: 'this is perfect i love this' (2026-07-22), 'Thank you queen!' (2026-07-23). Fast, specific, actionable — keep this as the template for every channel.",
+    "Derrek's long Aug 1 transparency message about the phone-farm rebuild: 'awesome thanks Derrek :))) / appreciate you a bunch' (2026-08-03). When she gets the 'why', she is patient; it was the follow-up silence that eroded it.",
+    "Olivia turning her own idea into a booked shoot in 6 days (gun range -> videographer Ben -> group chat): 'Oh yes!!!' (2026-08-20). Plus Michelle's weekly leak-removal report is the one cadence she thanks every time ('Thank you Michelle!', 08-10, 08-17, 08-26)."
+  ],
+  "top_fix": "Give the designated go-to (Mayson) a real weekly written status for this client — every open ask and promise with owner + due date, the IG/flag state in plain words, and at least one posting/traffic number — sent unprompted every Friday. It would have caught all nine lapsed promises, replaced both 'don't worry' brush-offs with an actual explanation, and answered the Aug 24 'very nervous' message before she had to write it."
+}

@@ -1,0 +1,251 @@
+{
+  "client": "Sarah Lloyd",
+  "slug": "sarah-lloyd-x-altr",
+  "status": "at_risk",
+  "status_reason": "Full churn signature present: engagement collapsed from 68 client messages (w/e 08-28) to 5 (w/e 09-25), all five were credential logistics, her last message to us was a live 2FA code, she has stopped raising every complaint she used to raise weekly, she did not answer our 09-23 request (the first unanswered ALTR ask in four months), and she has not chased a single one of the ~20 open items owed to her. She has not disputed anything or signalled exit, so she is not churned yet — but the quiet is the decline, not resolution.",
+  "last_client_message": "2026-09-19",
+  "dimensions": {
+    "responsiveness": {
+      "severity": 2,
+      "internal_failure": "We are extremely fast to acknowledge and extremely slow to answer — median first reply to her questions is 6 minutes and 79% land inside an hour, but ~11 substantive asks went >24h with no on-topic answer and 6 of those are still unanswered today; the acknowledgement is doing the emotional work that an answer should do.",
+      "evidence": [
+        {
+          "quote": "Hey guys! I need some help with my Facebook & Instagram. Main Facebook is non recommendable (no specific post & no option to appeal). Instagram has no account issues but trial reels have gone from consistently getting 100k+ views 2-3 times daily to getting 200-400 views. Any help would be great",
+          "who": "Sarah Lloyd",
+          "date": "2026-07-11"
+        },
+        {
+          "quote": "Hey! Any confirmation that this has been seen pls?? @natehei @roflo1424",
+          "who": "Sarah Lloyd",
+          "date": "2026-07-17"
+        },
+        {
+          "quote": "Thank you! And could you adjust for the overpayment 1-15th July too please?",
+          "who": "Sarah Lloyd",
+          "date": "2026-08-04"
+        }
+      ],
+      "notes": "The 07-11 Meta request received no reply of any kind; Vivek was only introduced 18 days later on 07-29. The 08-04 overpayment question sat 3 days until Derrek tagged Stephski on 08-08."
+    },
+    "follow_through": {
+      "severity": 3,
+      "internal_failure": "We promise fixes verbally and never ship or confirm them — roughly 30 of ~47 explicit commitments lapsed, including one request that no human on our side has ever answered in 104 days, and two separate chatters gave her contradictory explanations for the same whale failure and neither was ever reconciled.",
+      "evidence": [
+        {
+          "quote": "yeah, mistake on chatters part, I labelled how they should be created",
+          "who": "Vladan | Chat Manager (Sarah Lloyd chat team)",
+          "date": "2026-06-13"
+        },
+        {
+          "quote": "Thanks, pls make sure they actually fix it this time too :) makes me feel lowkey crazy having to ask the same thing every day",
+          "who": "Sarah Lloyd",
+          "date": "2026-07-14"
+        },
+        {
+          "quote": "I have penalized them for not handing in a timely manner. Should be fixed now.",
+          "who": "Nate (Noah)",
+          "date": "2026-07-13"
+        }
+      ],
+      "notes": "The one-sexting-set-per-session request was made 2026-06-13, acknowledged once, restated verbatim 2026-08-19, bumped internally by Mayson 08-20 and has never been answered by any human — 104 days. MM repetition ran 06-26 to 07-17 near-daily, was declared fixed three times, relapsed 08-12, and the promised rewrite ('I am having the team rewrite the mass messages today/tomorrow', Nate, 08-13) was never confirmed shipped."
+    },
+    "proactive_communication": {
+      "severity": 3,
+      "internal_failure": "In 109 days we never once sent this client a single number about her own OnlyFans page unprompted — no revenue, no sub count, no conversion, no whale report. Our only recurring proactive outputs were a templated DMCA leak report (dead since 09-08) and pasted Instagram reel links; everything else we sent was an invoice or a request for something from her.",
+      "evidence": [
+        {
+          "quote": "Hi love! Here’s your weekly update on the leak removal breakdown for the past 7 days",
+          "who": "Michelle Queue",
+          "date": "2026-09-08"
+        },
+        {
+          "quote": "Hi, hope all is well. I wanted to give you an update in regards to recent issues with backup IG’s and posting... we had to invest over $40,000 into a new Phone Farm... we will have plenty of updates starting next week.",
+          "who": "Derrek",
+          "date": "2026-08-01"
+        },
+        {
+          "quote": "Hey @sarahlloydd! Just a quick reminder to please upload your content to the Google Drive when you get a chance so we can keep everything organized and up to date. Thank you!!",
+          "who": "Mica Vecco",
+          "date": "2026-09-23"
+        }
+      ],
+      "notes": "Longest stretch with zero outbound from our side: 4.8 days (2026-07-21 → 2026-07-26). That number flatters us — the real gap is role-level: the chat leadership who owe her answers have been silent for 30-31 days (Noah last 08-25, Derrek 08-25, Ronnie 08-26) and the entire vendor 'Sarah Lloyd chat team' has been silent for 102 days (last 2026-06-15). The 09-23 Mica message — our most recent contact with her — is a generic template that mentions nothing about her business. Derrek's 08-01 'plenty of updates starting next week' produced zero updates in 55 days. Mica's 'weekly' reel inspo had gaps of 19 days (07-10→07-29) and 33 days (08-13→09-15)."
+    },
+    "onboarding_handoff": {
+      "severity": 3,
+      "internal_failure": "Week 1 looked excellent and then everything introduced in it evaporated: the Social Media Director kickoff call was never held (she was stood up twice and neither no-show was ever acknowledged), the promised 'next steps' were never sent, no contact matrix was ever given, and the entire chat-manager team she was introduced to stopped posting on day 7 with no handoff announcement.",
+      "evidence": [
+        {
+          "quote": "Hi Sarah welcome !! Super excited for you!! Everyone will introduce themselves here shortly ! And will send over next steps!",
+          "who": "Eric The Efficient",
+          "date": "2026-06-08"
+        },
+        {
+          "quote": "Hey Mica I’m having trouble joining the call / Could you send the link here please?",
+          "who": "Sarah Lloyd",
+          "date": "2026-06-15"
+        },
+        {
+          "quote": "Hey! I’m just waiting to join lmk if it’s the right link I’m on :)",
+          "who": "Sarah Lloyd",
+          "date": "2026-06-26"
+        }
+      ],
+      "notes": "Neither 06-15 nor 06-26 got any reply from Mica; the 1-on-1 with her Social Media Director has still never happened, 91 days later. Eric wrote 2 messages in the account's entire history. Alex Chatting Team, Masa, Vladan, Maciej, George, Day and Emmanuel produced 132 messages in week one and all fell silent on 2026-06-15 — the client was never told they were gone or who replaced them."
+    },
+    "chatter_conduct": {
+      "severity": 3,
+      "internal_failure": "We broke her single loudest standing instruction — never send BG to the $25k whale — on day 1 and again on 08-20 with no unsend and no recovery, we sell fans bundles whose media deliberately does not match the description, and we push brand-new subs into a PPV on their first interaction.",
+      "evidence": [
+        {
+          "quote": "Guysss this is my biggest whale!! Ive asked so many times no BG! You’ll have lost him because of this, really upset ... And it hasn’t even been unsent?! And he’s been so unhappy ... Absolutely ZERO conflict resolution too",
+          "who": "Sarah Lloyd",
+          "date": "2026-08-20"
+        },
+        {
+          "quote": "It’s just a bait, its not really about the content ... No because we didn’t promise them a sextape or something like that directly",
+          "who": "Masa (Sarah Lloyd chat team)",
+          "date": "2026-06-11"
+        },
+        {
+          "quote": "why would they say nope to content i have ... that was the subs first interaction with me ... then after that they get sent a PPV MM so thats a sub lost",
+          "who": "Sarah Lloyd",
+          "date": "2026-08-24"
+        }
+      ],
+      "notes": "Standing pattern of wrong-content sends across four months: pre-Oct-2025 content (06-10, 06-17), GGG sold as BGG (06-25), a paid custom pushed out as a PPV (08-10), BG to the whale (06-09 and 08-20). She raised chargeback risk directly on 08-19 — 'if subs have spent thousands and are unhappy please just give them what they want! Would be great to minimise some of the chargebacks' — and got 'Looking into this now' and nothing in the 37 days since."
+    },
+    "platform_health": {
+      "severity": 3,
+      "internal_failure": "Meta work has no owner and no cadence: acute incidents get handled same-day in DMs while every explanation and every follow-up we promise simply never arrives, leaving her main Instagram hacked, a second Facebook down for 8 days and a 20M→4M reach collapse she has still never had explained.",
+      "evidence": [
+        {
+          "quote": "Wait i will explain",
+          "who": "Vivek",
+          "date": "2026-08-08"
+        },
+        {
+          "quote": "I have another Facebook as well that’s down at the moment if I can please have your help @fonta I’ll be home in an hour and will send details",
+          "who": "Sarah Lloyd",
+          "date": "2026-09-17"
+        },
+        {
+          "quote": "Okay share the details ... No problem",
+          "who": "Vivek",
+          "date": "2026-09-17"
+        }
+      ],
+      "notes": "Six Meta problems brought to us (07-11, 07-29, 08-03, 08-08, 08-28, 09-17). The 07-11 one was ignored for 18 days. 'Wait i will explain' is 48 days old. Vivek has not written in this chat since 2026-09-17T06:09 and the second Facebook is still down. Derrek's 08-01 offer to split the cost of a higher-up Meta rep — 'any that will need a higher up rep, we will split that cost with you, if it's something you want!' — was never put to her again, 55 days, despite her account being hacked on 08-27/28 in the interim."
+    },
+    "billing_ops": {
+      "severity": 3,
+      "internal_failure": "We changed our receiving details four times in eleven weeks, billed her wrong on five consecutive invoices, took two overpayments neither of which we caught before she did or before drafting the next invoice, stopped confirming receipt entirely after 08-26, and then attached the account's first pause-in-work threat to the only party who has never caused a delay.",
+      "evidence": [
+        {
+          "quote": "Want to let you know we have a new bank for you to send to (last change I promise!).",
+          "who": "Stephski",
+          "date": "2026-07-05"
+        },
+        {
+          "quote": "It keeps flagging as a suspicious transaction then last night it bounced back so I tried again",
+          "who": "Sarah Lloyd",
+          "date": "2026-08-21"
+        },
+        {
+          "quote": "It's very important that you send to the ALTR Management account listed at the bottom of this invoice, vs the one you sent to last period... As always we appreciate you paying within the next 7 days to avoid any pausing in work!",
+          "who": "Stephski",
+          "date": "2026-09-15"
+        }
+      ],
+      "notes": "Rail sequence: Mercury link (06-15, wire failed, her $10 test refunded) → PDF new details (06-22) → Bank of America (07-05, her $100 test from her own pocket) → new account (08-15, bounced twice 08-20/08-21) → fallback to ALTR Platform Services LLC ...4709 (08-21, Derrek) → renamed 'ALTR Management' (09-15), twelve days after Stephski told her to stay on 4709. Invoice errors she caught: missing $100/wk OFTV editor credit (07-15), 35% instead of the agreed 30% (08-01), the July 1-15 overpayment (08-04). The Sept 1-14 invoice was due 2026-09-22; the due date passed with zero payment messages from anyone and the last in-chat receipt confirmation was Stephski's 'Received!' on 2026-08-26 — 30 days and two cycles ago. We do not currently know whether we have been paid."
+    },
+    "ownership_escalation": {
+      "severity": 3,
+      "internal_failure": "Nobody owns this client. She has to tag two chat AMs by handle to get anything moved (24 of her messages do this), Mayson functions as a human ticket-forwarder who relayed '@natehei ^^' 17 times without ever owning an outcome, and the only escalation path we ever offer is a call whose contents are never written down.",
+      "evidence": [
+        {
+          "quote": "@natehei can we get an explanation on this^",
+          "who": "Mayson Chat",
+          "date": "2026-08-24"
+        },
+        {
+          "quote": "I am so sorry Sarah! I just looked into it, the chatter responsible will be punished. They swear up and down they excluded him from that list.",
+          "who": "Nate (Noah)",
+          "date": "2026-08-20"
+        },
+        {
+          "quote": "We checked and he is in the excused MM list / It’s a bug in the system %100",
+          "who": "Ronnie Chat",
+          "date": "2026-08-20"
+        }
+      ],
+      "notes": "Two of our own people gave her mutually exclusive root causes for the same whale incident 3 minutes apart and neither was ever reconciled — if Ronnie's 'bug' is real it exposes every excluded sub on every ALTR account and warrants an agency-wide audit. Her 08-24 service verdict was answered with a call invite instead of an answer; the 08-25 call happened and nothing from it was ever posted in writing. Mayson also proposed a trial-reels call on 09-04, she accepted in 96 seconds and gave 'Anytime 6am-8pm AEST', he replied 'Okay great!!' on 09-05 and never proposed a time — we no-showed our own meeting and it has never been mentioned again."
+    },
+    "disengagement_detection": {
+      "severity": 3,
+      "internal_failure": "Her health score fell 68 → 18 over seven consecutive weeks and not one person on our side noticed or reached out; she has now gone silent for six days after four weeks of dropping every complaint she used to raise weekly, and our only response to the quiet was a templated Google Drive reminder that mentions nothing about her.",
+      "evidence": [
+        {
+          "quote": "i spend every single day filming and uploading promo and now hours streaming as well and everything funnels into this one OF page so its just really frustrating seeing no whales long-term being built, my top spenders being ignored and in general no actual chatting but just MM bumps",
+          "who": "Sarah Lloyd",
+          "date": "2026-08-24"
+        },
+        {
+          "quote": "[REDACTED-2FA-CODE]",
+          "who": "Sarah Lloyd",
+          "date": "2026-09-19"
+        },
+        {
+          "quote": "Hey @sarahlloydd! Just a quick reminder to please upload your content to the Google Drive when you get a chance",
+          "who": "Mica Vecco",
+          "date": "2026-09-23"
+        }
+      ],
+      "notes": "Her 08-24 verdict is 32 days unanswered. Topics she raised near-weekly and has now dropped entirely: the $25k whale (silent 31 days after being raised in essentially every week from 06-09 to 08-25), chat quality (32 days), chargebacks (36), sexting sets (37), daily sales dips (43 — she used to flag a dip within 24 hours), the queue audit she personally ran (46 — she was our only quality-control layer and she stopped looking), her own Chaturbate streams (31). We read four consecutive complaint-free periods as calm. Her last message to us was a live 2FA code."
+    },
+    "security_hygiene": {
+      "severity": 3,
+      "internal_failure": "Our own staff solicited six live secrets into a shared group chat in a fortnight — including two 2FA codes posted within hours of our own Social Media Director telling her in that same chat never to send codes to anyone including us — and not one credential has been rotated, with the Facebook password she posted at our request 58 days ago still live on an account we know was compromised.",
+      "evidence": [
+        {
+          "quote": "also, if you can pls dm your logins to @AlexBakalov instead of here on the gc that would be soo much better / just to keep it safe",
+          "who": "Day | Account Executive (Sarah Lloyd chat team)",
+          "date": "2026-06-09"
+        },
+        {
+          "quote": "Share login",
+          "who": "Vivek",
+          "date": "2026-07-29"
+        },
+        {
+          "quote": "Please do not send your backup codes to anyone, including our team. Keep the screenshot somewhere secure that only you can access.",
+          "who": "Mica Vecco",
+          "date": "2026-09-17"
+        }
+      ],
+      "notes": "Timeline: our own day-1 rule (06-09) was never enforced. Vivek's 'Share login' (07-29) produced the Facebook password '[REDACTED-PASSWORD]' in plaintext, twice, 58 days un-rotated. Mayson's 'Direct login would work too' (09-10) — offered instead of the role-based access route he had promised to ask the team about that same hour — produced the Snapchat password '[REDACTED-PASSWORD]' on 09-11. Mica posted the no-codes policy at 11:03 on 09-17; Mayson asked '@sarahlloydd got a snap 2fa code?' at 14:51 the same day, took '[REDACTED-2FA-CODE]' at 17:08, '[REDACTED-2FA-CODE]' on 09-18, and '[REDACTED-2FA-CODE]' on 09-19. A Facebook credential screenshot was posted 09-17. Two message ids are absent from the export at exactly the points where 2FA codes were posted in consecutive weeks (970 on 09-18, 986 on 09-18/19); full gap list is 16, 329, 341-343, 570, 795, 801, 970, 986. Group membership churned through the same period (ChatDeleteUser x2 08-20, 09-02, 09-10; ChatAddUser 09-10 three hours after the Snapchat credential exchange and 09-17 five hours after a 2FA code) and no membership change has ever been explained to her. OWNER-LEVEL: this is a Derrek and agency-policy item, not a chat-team item."
+    }
+  },
+  "metrics": {
+    "client_questions_total": 81,
+    "unanswered_over_24h": 11,
+    "max_team_silence_days": 4.8,
+    "promises_made": 47,
+    "promises_kept": 17,
+    "promises_lapsed": 30,
+    "method": "Parsed all 960 non-service messages (2026-06-08 → 2026-09-23) from data/chats/sarah-lloyd-x-altr.jsonl. Client = 'Sarah Lloyd' per config/clients.yaml; everyone else is our side (ALTR staff per config/team.yaml plus the 'Sarah Lloyd chat team' vendor group — Masa, Vladan, George, Day, Maciej, Alex Chatting Team, Emmanuel — who are treated as ours). client_questions_total = her 81 messages containing '?'. Median first our-side reply to those is 6 minutes, mean 247 minutes, 79% within an hour; only 3 got no our-side message of any kind within 24h. unanswered_over_24h = 11, counted manually as distinct substantive asks (question or explicit request, including non-'?' ones) that got no on-topic answer within 24h — 06-15 Mica call link, 06-18 wire details, 06-26 Mica call link, 07-06 vault folders, 07-11 Meta help, 08-04 overpayment, 08-08 'what does post on time mean' + the 20M→4M collapse, 09-01 which account to pay, 09-16 what the Facebook is for, 09-17 second Facebook down, 08-24 the three screenshot failures; 6 of these are still unanswered today. max_team_silence_days = 4.8, the longest stretch with zero outbound from anyone on our side (2026-07-21T17:40 → 2026-07-26T13:44); role-level silences are far longer (vendor chat team 102 days, Noah/Derrek 31, Ronnie 30, Michelle 15). promises_made = explicit forward-looking commitments by our side ('we will…', 'I'll get…', 'noted', a scheduled call, a recurring deliverable); kept = delivered or confirmed in chat; lapsed = never delivered, never confirmed, or recurred after being declared fixed."
+  },
+  "what_client_wanted": [
+    "Chatters who actually converse before they sell, and whales built for the long term. 2026-06-27: 'Really really limited relationship building and so many conversations have ended on me leaving them on seen after a price objection rather than lowering the price ... High value conversations have no aftercare'. Restated as a verdict 2026-08-24: 'no whales long-term being built, my top spenders being ignored and in general no actual chatting but just MM bumps'.",
+    "Her $25k top spender protected with a named owner and a daily routine. 2026-06-09: 'It’s really really important this guy isn’t sent BG!! He’s my biggest whale'. 2026-06-14: 'He’s asleep anyway but just needs a ‘good morning my love’ at 8am my time and he’s happy'. 2026-08-25: 'the chatters need to just message him at 9am AEST saying good morning'.",
+    "Her content used the way she built it — variety, one sexting set per session, nothing pre-October-2025, never a paid custom. 2026-07-13: 'I have soooo much content, there’s no need to be reusing the same photos and videos & text every single day for weeks'. 2026-08-10: 'I’ve taken a lot of time to organise the vault and categorise everything ... Really lucky I checked! No reason for mistakes like this'.",
+    "Banking that works, invoices on the agreed terms, and a one-word confirmation when her money lands. She funded two test wires from her own pocket to protect us: 2026-06-17 'I sent $10 as a test to make sure I got the international wire details correct, lmk when you have it and I’ll send the rest'; 2026-07-05 'I just sent $100 as a test'.",
+    "Reciprocity for her own effort. 2026-08-24: 'i spend every single day filming and uploading promo and now hours streaming as well and everything funnels into this one OF page so its just really frustrating'."
+  ],
+  "what_worked": [
+    "Honest, non-scripted senior conversation. Alex Chatting Team on day one, mid-crisis: 'i hear you / im not gonna give you the customer service response' — and had her on a call within 10 minutes; she came off it calm. Vladan on 2026-06-14 pushed back candidly on the whale dynamic ('Its your account and your rules, just trying to give perspective because ive never seen this kind of thing so far where a fan has this much ''control''') and she agreed rather than escalating: 'No I understand ... yes I understand and completely agree'. Blunt expertise lands with this client; reassurance does not.",
+    "Real numbers, once. Noah on the 2026-08-25 call: 'More whales / bigger spender made in 2-3 months then Jan-may combined' / 'On 1/2 traffic' — and her posture flipped inside 90 seconds: 'yeah great stats, apologies I hadn’t looked at that. I know you guys are great at sales'. This is the single best moment in four months and it exists only in her memory because nothing from that call was ever written down.",
+    "Fast, concrete, finished deliverables. Six custom tracking domains inside 24 hours of the ask ('Thankyou so much!'), the weekly DMCA leak-removal report which ran nine unbroken weeks ('Amazing thankyou!'), and Stephski's same-hour invoice corrections ('Easy thanks! Transferring now' / 'You rock!'). Early chat quality genuinely won her: 'Loving the chatting from what I’ve seen!' (06-11), 'Love the English & sales tactics of the chatters' (06-27)."
+  ],
+  "top_fix": "Give her one named account owner who converts every ask into a dated, written, tracked item and posts the outcome back in the chat — and who sends her page numbers weekly unprompted. The root failure on this account is that we treat acknowledgement as resolution: median reply time is 6 minutes, yet 30 of 47 commitments lapsed, one request has gone 104 days without any human answering it, and Mayson had to relay '@natehei ^^' 17 times because no one owned her. The fix that would have changed everything is mechanical, not attitudinal: no verbal-only fixes, no call without a written write-up, and a weekly unprompted report on her whale, her queue and her revenue — which is exactly the reciprocity she said she was missing on 08-24, three weeks before she stopped talking to us."
+}

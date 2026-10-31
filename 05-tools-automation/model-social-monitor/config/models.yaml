@@ -1,0 +1,70 @@
+# Ollie Clients — live configuration (gitignored).
+#
+# TODO: replace every "telegram_chat_id: 0" with that model's real channel id
+# (the negative -100... number — SETUP.md step 2). The app refuses to start
+# until they're filled in, and tells you which model is missing hers.
+#
+# TikTok: no handles provided yet — add a `tiktok: username` line under any
+# model who has one and the next cycle picks it up automatically.
+
+poll:
+  results_limit: 8
+  include_stories: true
+  stories_min_interval_minutes: 30
+
+models:
+  - name: Amber Hayes
+    instagram: amber_hazee
+    telegram_chat_id: -1003921867029
+
+  - name: Valerae
+    instagram: valebragg
+    telegram_chat_id: -1004367209254
+
+  - name: Sarah Lloyd
+    instagram: saraahlloyd
+    telegram_chat_id: -1004387910221
+
+  - name: Sarah Handerson
+    instagram: sarahhrvey
+    telegram_chat_id: -1004339189797
+
+  - name: Lauren Blake
+    instagram: laurenblakeee
+    telegram_chat_id: -1004401884957
+
+  - name: Jane Mautin
+    instagram: jane.mautin
+    telegram_chat_id: -1004304063896
+
+  - name: Essence
+    instagram: essencehoff
+    telegram_chat_id: -1004421793132
+
+  # Shadowbanned only affects her reach/discovery — her public profile still
+  # scrapes fine, so she's monitored like everyone else.
+  - name: Dani Banks
+    instagram: daniibanks.tv
+    telegram_chat_id: -1003922171483
+
+  - name: Anllela
+    instagram: anllela_sagra
+    telegram_chat_id: -1004474992907
+
+  - name: Amber Rodriguez
+    instagram: 4mbuh
+    telegram_chat_id: -1004370487802
+
+  - name: Alarah
+    instagram: alarahbelle
+    telegram_chat_id: -1004465468257
+
+  - name: Alanna Pow
+    instagram: alannasworldx
+    telegram_chat_id: -1004303240613
+
+  # Barbara — account BANNED, nothing to scrape. Uncomment (and fill in the
+  # chat id) if/when she's back on a live account.
+  # - name: Barbara
+  #   instagram: brazilianfitbarbie
+  #   telegram_chat_id: 0

@@ -1,0 +1,13 @@
+## Devon Unban client [imessage#13746 GRP] msgs=31 win=2026-06-06..2026-07-29 lastClient=2026-07-29(51d) lastDerek=2026-07-29(51d) UNANSWERED
+...
+[2026-06-06 19:05]PAY|ASK| +12817133744: Yo! Nice to meet you Wanted to get a quote on a few pages down rn
+...
+[2026-06-08 01:23]$|ASK| +12817133744: Quotes for these 200k’s I think for both
+...
+[2026-06-08 01:27]IMG-near-money| +12817133744: ￼
+   <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/64/04/A8170DC9-CA73-42DD-AF60-67B68F76D392/Screenshot 2026-06-03 at 3.21.44 PM.jpeg>
+...
+[2026-06-12 13:52]PAY| DEREK: Hey. We have another option available for a more cost effective price, but the timeframe is 7-10 days. Price is around 3k
+[2026-07-11 10:18]PAY| Kartik Work: Hey current price is 4k let us know if any accounts are banned
+[2026-07-29 21:00]PAY| DEREK: Hey, just wanted to give a quick update. I’ve parted ways with Kartik for the social media recoveries. He’s still going to be working on them, so if you have a pending case that’s owed or any future c
+[2026-07-29 22:34]OUTCOME| Kartik Work: Just to add to what Derrek said, I’m done with social media recoveries as well. I won’t be taking on any pending or future recovery cases. If you still need these services, you’ll have to find another

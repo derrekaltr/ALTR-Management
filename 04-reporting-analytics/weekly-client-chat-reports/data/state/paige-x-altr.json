@@ -1,0 +1,327 @@
+{
+  "client": "Paige",
+  "slug": "paige-x-altr",
+  "as_of": "2026-09-11",
+  "account_status": "CHURNED — notice given 2026-09-02, NINE DAYS of total owner silence since. Paige has not spoken in the chat since her resignation. In those nine days ALTR sent her exactly two messages, both from invoicing on Sep 9, one of them threatening to 'pause work in the morning'. The exit/save call was never booked. The final invoice (Aug 15-31) is unpaid and 3 days past term — the first miss in six cycles from a client who paid every previous one. An unidentified account was added to the chat at 21:01 on Sep 10 and posted nothing. Treat every item below as an offboarding obligation, a reputational-containment item, or a book-wide process defect — the save window is effectively closed.",
+  "relationship": {
+    "onboarded": "2026-06-24",
+    "referred_by": "Chey Mai (client) — alias 'Paige (Chey Ref)'",
+    "notice_given": "2026-09-02",
+    "days_active_at_notice": 70,
+    "days_since_notice_as_of_2026_09_11": 9,
+    "last_client_message": "2026-09-02 11:17",
+    "last_altr_message": "2026-09-09 12:33 (Stephski, payment chase)"
+  },
+  "open_complaints": [
+    {
+      "issue": "CHURN, plus nine days of owner silence since. Client gave notice on Sep 2: 'hey!! i just wanted to inform that i’m leaving the agency tomorrow!'. Stated reason: 'its just not working for me'. Exit non-hostile, thanked the team. Derrek has still said nothing. Only reply on record remains Mayson's call offer 72 minutes after the notice.",
+      "first_raised": "2026-09-02",
+      "days_open": 9,
+      "status": "new",
+      "employee": "Derrek",
+      "notes": "Predicted verbatim in the 2026-08-28 state file. The 2026-09-04 findings (never delivered — that run crashed) led with 'DERREK, TODAY - call her personally'; seven more days passed with no contact. Client silent since. If next week's export shows a Derrek message, log whether it led with an apology or with an invoice."
+    },
+    {
+      "issue": "ALTR threatened to pause work for a client who had already resigned. Stephski, Sep 9 00:51: 'If we dont receive we will have to pause work in the morning until we receive', then '@paigeleighx checking back in on this' at 12:33. Seven days after the resignation, and the only ALTR contact of any kind since it.",
+      "first_raised": "2026-09-09",
+      "days_open": 2,
+      "status": "new",
+      "employee": "Stephski / Derrek",
+      "notes": "PROCESS DEFECT, NOT A PERSON PROBLEM. Either the churn never reached the finance function or the sequence ran anyway. The 2026-09-04 state file explicitly warned 'Do NOT chase the Sep 1 invoice with a pause threat - she is already leaving and the threat is what she read last', and it happened. This will recur on the next departing client unless a departure notice hard-freezes billing contact. Also note there is no work to pause: 79 days, zero deliverables in chat."
+    },
+    {
+      "issue": "Content leak on a third-party swingers site — reported Aug 31, URL supplied Sep 1 at 03:59, ZERO acknowledgement in the 10 days since. Michelle claimed it ('send me the link of this babes and we will take care of it') and never returned. Nick (DMCA) — the dedicated takedown owner — has never posted in this chat despite a DMCA topic existing since Jun 24.",
+      "first_raised": "2026-08-31",
+      "days_open": 11,
+      "status": "new",
+      "employee": "Michelle / Nick (DMCA)",
+      "notes": "Her LAST request to ALTR; it went unanswered for the ~31 hours before she quit and has been unanswered for 10 days since. Highest-leverage remaining action on the whole account: complete the takedown anyway and report the result. URL is in message id 162."
+    },
+    {
+      "issue": "Instagram lockout episode 4 (opened Aug 26) never closed — 16 days open, FOURTH episode in a 44-day pattern (Jul 29, Aug 13-14, Aug 20-21, Aug 26 onward). Client left with it still broken. No diagnosis, no explanation, no closure message ever sent in the entire relationship.",
+      "first_raised": "2026-07-29",
+      "days_open": 44,
+      "status": "recurring",
+      "employee": "Vivek",
+      "notes": "Vivek's LAST message on this account is 'Need approval for the account' (Aug 30 10:32) — another request from the client. She never replied and he has been silent for 12 days. Across six weeks his total output was 7 credential/approval requests, 2 abandoned threads, 1 undelivered 'Will update shortly', 1 wrong-account approval request, and 0 closure messages."
+    },
+    {
+      "issue": "Credential exposure in the client group chat — SIXTH plaintext post (Jul 29, Aug 13, Aug 14, Aug 20-21, Aug 27, Aug 29). Message id 151 on Aug 29: 'this is @xpaigex18 / [REDACTED-PASSWORD]'. Client has now departed with it still sitting there.",
+      "first_raised": "2026-07-29",
+      "days_open": 44,
+      "status": "recurring",
+      "employee": "Vivek / Derrek",
+      "notes": "Exposed message ids: 39, 54, 75, 85, 98, 100, 110, 120, 127, 128, 144, 151. 44 days, zero remediation, exposure grew every single week of the relationship. Same chat carries ALTR wire + Zelle details. The account IS xpaigex18 and the password IS '[REDACTED-PASSWORD]'; the '@paigeeleighhxx' handle from Aug 27 was never explained. LIVE OFFBOARDING LIABILITY."
+    },
+    {
+      "issue": "Asks and bills vastly outnumbered deliverables. Across the Aug 28 - Sep 11 window ALTR sent: 3 credential/approval demands (Vivek, Aug 28/29/30), a 30-reels-per-month content quota (Mayson, Aug 30), a posting-consistency lecture (Mica, Aug 31 — her first message in 18 days, to a client whose IG was still locked), an invoice with 'to avoid any pausing of work' (Stephski, Sep 1), and two collection chases (Stephski, Sep 9). Delivered in return: nothing.",
+      "first_raised": "2026-08-01",
+      "days_open": 41,
+      "status": "recurring",
+      "employee": "Derrek",
+      "notes": "Sixth consecutive report flagging zero delivery visibility. In 79 days this chat never carried one posting report, growth number, or OF/chatting update. Proposed rule for the whole book: no new client demand goes out while that client has an unclosed ticket older than 48 hours."
+    },
+    {
+      "issue": "Derrek's Aug 1 phone-farm promise — 'we will have plenty of updates starting next week' — never delivered. 41 days, six report weeks.",
+      "first_raised": "2026-08-01",
+      "days_open": 41,
+      "status": "recurring",
+      "employee": "Derrek",
+      "notes": "Permanently unfulfillable for Paige. Carry as a book-wide accountability item — the same $40,000 phone-farm message went to other accounts in the same terms and the same 'updates next week' was owed to all of them."
+    },
+    {
+      "issue": "Aug 14 'Unfilteredlifiting' alarm never addressed — Vivek asked her to approve a login for an account that is not hers, she replied 'what the hell hold on', and his last word that day was 'Hell nah'. 28 days, no reassurance ever sent.",
+      "first_raised": "2026-08-14",
+      "days_open": 28,
+      "status": "in_progress",
+      "employee": "Vivek",
+      "notes": "She has left without ever being told whether her account was cross-linked to another client's. Still worth answering in writing as part of offboarding."
+    }
+  ],
+  "resolved_last_week": [
+    {
+      "what": "Stephski acknowledged the Aug 26 payment screenshot for the Aug 1-14 invoice — 'Amazing thank you!' on Aug 29 at 15:22, 64 hours after the screenshot. The ONLY carry-forward item closed anywhere in the Aug 28 - Sep 11 window. Closes the social loop, not the financial one: amount and destination account still unverified.",
+      "who": "Stephski",
+      "date": "2026-08-29"
+    }
+  ],
+  "open_commitments": [
+    {
+      "what": "Derrek to respond personally to the churn notice — call, apology, and a concrete account of what went wrong on ALTR's side. Do not ask her for anything on that contact.",
+      "who": "Derrek",
+      "since": "2026-09-02",
+      "status": "overdue",
+      "days_outstanding": 9
+    },
+    {
+      "what": "STOP the collections sequence on this account and freeze all routine billing contact until Derrek has made contact. Invoicing chased a resigned client twice on Sep 9 with a pause threat; that message is currently the last thing Paige has heard from ALTR.",
+      "who": "Derrek / Stephski",
+      "since": "2026-09-09",
+      "status": "overdue",
+      "days_outstanding": 2
+    },
+    {
+      "what": "Complete the DMCA takedown on the swingers-site leak (URL in message id 162) and report the result to her, whether or not she stays. Michelle promised 'we will take care of it'; Nick (DMCA) should own the execution.",
+      "who": "Michelle / Nick (DMCA)",
+      "since": "2026-08-31",
+      "status": "overdue",
+      "days_outstanding": 11
+    },
+    {
+      "what": "OFFBOARDING SECURITY: delete plaintext credential messages (ids 39, 54, 75, 85, 98, 100, 110, 120, 127, 128, 144, 151) from the group chat, revoke every ALTR device/session from her Instagram, and confirm to her in writing that it is done and that she should change '[REDACTED-PASSWORD]' herself.",
+      "who": "Vivek / Derrek",
+      "since": "2026-07-29",
+      "status": "overdue",
+      "days_outstanding": 44
+    },
+    {
+      "what": "Exit/save call — Mayson offered 'would you like to hop on a call today and go over it?' on Sep 2; never answered, never re-offered, no evidence it happened. The only retention thread that ever existed has gone cold.",
+      "who": "Mayson",
+      "since": "2026-09-02",
+      "status": "overdue",
+      "days_outstanding": 9
+    },
+    {
+      "what": "Close out the Aug 26 lockout — no closure message was ever sent in four episodes across 44 days.",
+      "who": "Vivek",
+      "since": "2026-08-26",
+      "status": "overdue",
+      "days_outstanding": 16
+    },
+    {
+      "what": "Diagnose and state in writing why the IG account kept locking — four forced resets in 30 days. CRITICAL BEYOND THIS CLIENT: the untested hypothesis is that ALTR's own phone-farm login pattern is tripping Meta's checks, which would be live on every client on that system. 21 days since opened, no evidence of any investigation.",
+      "who": "Vivek",
+      "since": "2026-08-21",
+      "status": "overdue",
+      "days_outstanding": 21
+    },
+    {
+      "what": "Vivek to report back on the Aug 13-14 lockout — said 'Will update shortly' on Aug 14 and never did; asked her for credentials or approvals five more times instead.",
+      "who": "Vivek",
+      "since": "2026-08-14",
+      "status": "overdue",
+      "days_outstanding": 28
+    },
+    {
+      "what": "Explain the 'Unfilteredlifiting' wrong-account approval request and the 'Hell nah', and confirm nothing of hers was cross-linked.",
+      "who": "Vivek",
+      "since": "2026-08-14",
+      "status": "overdue",
+      "days_outstanding": 28
+    },
+    {
+      "what": "Move credential/2FA handling out of the client group chat permanently — Vivek said 'Send login in dm' on Aug 13 then collected credentials in the group on Aug 20, 21, 27 and 29. Process fix for the whole book, not just this account.",
+      "who": "Vivek / Derrek",
+      "since": "2026-08-13",
+      "status": "overdue",
+      "days_outstanding": 29
+    },
+    {
+      "what": "Derrek to post phone-farm / IG rollout updates promised Aug 1 — six report weeks, nothing delivered. Unfulfillable for Paige; carry as a book-wide accountability item.",
+      "who": "Derrek",
+      "since": "2026-08-01",
+      "status": "overdue",
+      "days_outstanding": 41
+    },
+    {
+      "what": "Mica to get the 1-on-1 socials onboarding call booked and held (Paige said 'ill book now' Jul 6) — never happened in the entire 79-day relationship.",
+      "who": "Mica Vecco",
+      "since": "2026-07-06",
+      "status": "overdue",
+      "days_outstanding": 67
+    },
+    {
+      "what": "Michelle to close out the Jul 6-18 reel/story upload request — never closed; Mayson re-issued the identical Drive request from scratch on Aug 30 as if it had never been made.",
+      "who": "Michelle",
+      "since": "2026-07-18",
+      "status": "overdue",
+      "days_outstanding": 55
+    },
+    {
+      "what": "Stephski to confirm the Aug 4 wire for the Jul 15-31 invoice actually landed — still no explicit 'received' in chat, only 'thanks so much 🙂'.",
+      "who": "Stephski",
+      "since": "2026-08-04",
+      "status": "overdue",
+      "days_outstanding": 38
+    },
+    {
+      "what": "Reconcile the full ledger before asserting any final balance: Aug 4 wire (38 days unconfirmed), Aug 26 payment (against the account number that CHANGED on the Aug 15 invoice), and the unpaid Sep 1 invoice. Stephski's Sep 9 chase asserted 'we are still missing payment' with none of this reconciled. Post one clean statement of what was received and what remains.",
+      "who": "Stephski",
+      "since": "2026-09-02",
+      "status": "overdue",
+      "days_outstanding": 9
+    },
+    {
+      "what": "Propagate churn status internally so collections stops running on departed clients — add a hard rule that a departure notice freezes automated/routine billing contact until the owner has made contact.",
+      "who": "Derrek",
+      "since": "2026-09-09",
+      "status": "overdue",
+      "days_outstanding": 2
+    },
+    {
+      "what": "Audit every other client on Vivek's Meta-support list and every account on the phone farm for the same lockout signature.",
+      "who": "Derrek",
+      "since": "2026-09-04",
+      "status": "overdue",
+      "days_outstanding": 7
+    },
+    {
+      "what": "Get ahead of Chey Mai — Paige is her referral, has been ignored by the owner for nine days and chased for money twice. Owner-level, honest, proactive, before she raises it.",
+      "who": "Derrek",
+      "since": "2026-09-04",
+      "status": "overdue",
+      "days_outstanding": 7
+    },
+    {
+      "what": "Identify who was added to this chat at 21:01 on Sep 10 (service event, message id 169) and why — eight days after the resignation, posted nothing. If it was a handover or save attempt it produced no visible action; if routine automation, it is another sign nothing internally knows this account churned.",
+      "who": "Derrek",
+      "since": "2026-09-10",
+      "status": "pending",
+      "days_outstanding": 1
+    }
+  ],
+  "completed_recently": [
+    {
+      "what": "Mayson responded to the resignation in 72 minutes with a call offer — the fastest and most appropriate reaction anyone had on this account in eleven weeks. Wrong seniority, right instinct, and nobody built on it.",
+      "who": "Mayson",
+      "date": "2026-09-02"
+    },
+    {
+      "what": "Michelle broke a 44-day silence within 7 hours of the leak report and claimed it ('send me the link of this babes and we will take care of it'). Reflex correct, follow-through absent.",
+      "who": "Michelle",
+      "date": "2026-08-31"
+    },
+    {
+      "what": "Stephski acknowledged the Aug 26 payment screenshot ('Amazing thank you!'). Invoicing remained the only self-following-up function on this account — which is also why it is the only function still contacting a churned client.",
+      "who": "Stephski",
+      "date": "2026-08-29"
+    }
+  ],
+  "payment_history": [
+    {
+      "invoice_period": "2026-06-25 to 2026-06-30",
+      "sent": "2026-07-01",
+      "paid": "2026-07-21",
+      "late": true,
+      "days_late": 20,
+      "notes": "Client new to Telegram, missed the invoice; needed reminders from Stephski on Jul 6 and Jul 20. 20 days late."
+    },
+    {
+      "invoice_period": "2026-07-01 to 2026-07-14",
+      "sent": "2026-07-15",
+      "paid": "2026-07-21",
+      "late": false,
+      "days_late": 0,
+      "notes": "Covered by the Jul 21 payment confirmation ('hi ive sent x' + screenshot); Stephski thanked her Jul 23."
+    },
+    {
+      "invoice_period": "2026-07-15 to 2026-07-31",
+      "sent": "2026-08-01",
+      "paid": "2026-08-04",
+      "late": false,
+      "days_late": 0,
+      "notes": "Paid within 3 days of a 7-day window, no reminders — her best cycle. Wire arrival STILL never explicitly confirmed by Stephski in chat. 38 days unconfirmed as of 2026-09-11."
+    },
+    {
+      "invoice_period": "2026-08-01 to 2026-08-14",
+      "sent": "2026-08-15",
+      "paid": "2026-08-26",
+      "late": false,
+      "days_late": 0,
+      "notes": "Paid silently; surfaced only by Stephski's Aug 26 nudge ('Making sure you saw this' -> 'i already sent it babe x' + screenshot). Acknowledged Aug 29 with 'Amazing thank you!', 64 hours later. Amount and destination account never verified in chat — and this is the invoice that CHANGED the account number and added new Zelle details. Receipt still not formally reconciled."
+    },
+    {
+      "invoice_period": "2026-08-15 to 2026-08-31",
+      "sent": "2026-09-01",
+      "paid": null,
+      "late": true,
+      "days_late": 3,
+      "notes": "FINAL INVOICE, UNPAID AND 3 DAYS PAST TERM as of 2026-09-11. Sent Sep 1 17:04 with a 7-day term (due ~Sep 8) and the line 'I ask that you please pay within 7 days to avoid any pausing of work 🙏'. Paige gave notice 18 hours later and has never responded. Chased twice on Sep 9 (00:51 with a renewed pause threat, 12:33 bare follow-up). FIRST genuine miss in six cycles. The Aug 31 pre-warning that demonstrably works on this client ('invoicing will start tomorrow, please withdraw from OF if needed', used Aug 14) was NOT sent this cycle."
+    }
+  ],
+  "payment_risk": {
+    "level": "high",
+    "credit_risk": "low",
+    "summary": "She always paid — five of six cycles, one late (the first, while learning Telegram), the rest on time or silently early, zero disputes. She was never a credit risk; she was a communication gap ALTR never closed from its side. The sixth cycle is the first miss and it is a relationship signal, not a liquidity one: it arrived after her resignation was ignored for nine days, her leak report was ignored for eleven, and her open lockout was never closed. Two earlier cycles (Aug 4 wire, 38 days; Aug 26 payment, against a bank account that changed on that exact invoice) have still never been formally reconciled, so ALTR cannot currently state a defensible final balance. The realistic outcome is that the final invoice is either written off or settled on the back of an owner-level apology.",
+    "actions": [
+      "Stop all collections contact immediately — two chases with a pause threat have already gone to a resigned client",
+      "Reconcile the Aug 4 wire and the Aug 26 payment against BOTH the old and new account numbers before stating any balance",
+      "Derrek makes contact first: apology + completed takedown; only then agree the final balance",
+      "Treat the final balance as a relationship conversation, not a collections one — she is a paying, non-hostile departure and the referrer of another client"
+    ]
+  },
+  "client_priorities": [
+    "Getting the leak taken down — her last live request (Aug 31, URL supplied Sep 1), now 11 days unanswered, and the single most concrete thing ALTR could still do for her",
+    "Keeping her Instagram accounts alive and accessible — every client-initiated thread in 79 days was an IG problem; four lockouts in 30 days; the fourth is 16 days open and was never closed",
+    "Being told what is actually wrong — she spent a month guessing ('thinking i was hacled'), lost track of her own password, and never received one plain-English explanation of what broke or what was fixed",
+    "Seeing any output at all — no posting report, growth number, or OF update ever reached this chat in 79 days",
+    "Fast, hand-held support — new to Telegram, does not know platform mechanics ('yeah how do i do it'); the only thing she praised twice was the 7-minute Aug 21 fix",
+    "Not being treated as a debtor — she paid five cycles without complaint and the only two messages she has received since resigning are payment chases, one threatening to pause work she was not receiving",
+    "Not being made to feel like the problem — she apologised in nearly every message, absorbed four lockouts, seven credential requests and a 30-reel monthly quota without complaint, and even her resignation opens with thanks and an apology"
+  ],
+  "health_history": [
+    {"week_ending": "2026-08-08", "score": 82, "trend": "new"},
+    {"week_ending": "2026-08-14", "score": 66, "trend": "down"},
+    {"week_ending": "2026-08-21", "score": 57, "trend": "down"},
+    {"week_ending": "2026-08-28", "score": 48, "trend": "down"},
+    {"week_ending": "2026-09-04", "score": 10, "trend": "down"},
+    {"week_ending": "2026-09-11", "score": 5, "trend": "down"}
+  ],
+  "week_stats_history": [
+    {"week_ending": "2026-08-08", "messages": 6, "client_messages": 2, "team_messages": 4},
+    {"week_ending": "2026-08-14", "messages": 45, "client_messages": 21, "team_messages": 24},
+    {"week_ending": "2026-08-21", "messages": 16, "client_messages": 8, "team_messages": 8},
+    {"week_ending": "2026-08-28", "messages": 13, "client_messages": 6, "team_messages": 7},
+    {"week_ending": "2026-09-04", "messages": 20, "client_messages": 7, "team_messages": 13},
+    {"week_ending": "2026-09-11", "messages": 23, "client_messages": 7, "team_messages": 15, "note": "TWO-WEEK window Aug 28 - Sep 11; the 2026-09-04 run crashed before publishing so its window is folded into this one. Of the 23, only 3 fall after the Sep 2 resignation: two Stephski payment chases and one service join event."}
+  ],
+  "engagement_trend": [
+    {"week_ending": "2026-08-08", "messages": 6, "client_messages": 2, "health": 82},
+    {"week_ending": "2026-08-14", "messages": 45, "client_messages": 21, "health": 66},
+    {"week_ending": "2026-08-21", "messages": 16, "client_messages": 8, "health": 57},
+    {"week_ending": "2026-08-28", "messages": 13, "client_messages": 6, "health": 48},
+    {"week_ending": "2026-09-04", "messages": 20, "client_messages": 7, "health": 10},
+    {"week_ending": "2026-09-11", "messages": 23, "client_messages": 7, "health": 5}
+  ],
+  "notes": "CLIENT CHURNED AND THE POST-CHURN HANDLING IS NOW THE BIGGER STORY. Referral from client Chey Mai; onboarded Jun 24; gave notice Sep 2 at week 10; 79 days total. Health 82 -> 66 -> 57 -> 48 -> 10 -> 5, six straight declines, every one ALTR-caused and every one called in advance in these files. THIS REPORT COVERS TWO WEEKS (Aug 28 - Sep 11) because the 2026-09-04 run crashed before rendering; its findings were never delivered to anyone and are folded in here. WHAT HAPPENED IN THE NINE DAYS AFTER SHE RESIGNED: nothing, except two invoice chases. Stephski, Sep 9 00:51: 'we are still missing payment... If we dont receive we will have to pause work in the morning until we receive'; Sep 9 12:33: '@paigeleighx checking back in on this'. That pause threat is the last thing Paige has heard from ALTR. Derrek has never responded. Vivek has been silent since Aug 30 and his final message on the account is a request from her. Mica, Michelle and Mayson have all gone quiet. Paige has been silent since Sep 2 and never answered Mayson's call offer. An unidentified account joined the chat at 21:01 on Sep 10 (message id 169) and posted nothing. THE PROXIMATE TRIGGER WAS THE LEAK. On Aug 31 she raised a brand-new and serious problem — 'ive got a leak. someone using my stuff on a swingers website x'. Michelle answered within 7 hours after 44 days of silence and claimed it. Mayson had to bump her for the link. Paige supplied the exact URL at 03:59 on Sep 1. Eleven days later nobody has said a word. Nick (DMCA) — the named owner of that function, with a dedicated DMCA topic in this chat since day one — was never brought in. Her last request went into a void and ~31 hours later she resigned. THE FIVE DAYS BEFORE SHE QUIT: Vivek's 'need login code' (Aug 28), 'Drop the logins' (Aug 29) and 'Need approval for the account' (Aug 30), producing a SIXTH plaintext password post (id 151, 'this is @xpaigex18 / [REDACTED-PASSWORD]'); Mayson's Aug 30 content quota, 'keep it topped up with 7 reels a week so 30 in total per month', a from-scratch re-issue of Michelle's Jul 6 request into the same Drive folder; Mica's Aug 31 reappearance after 18 days of silence — not reel inspo but a lecture, 'just wanted to reiterate how important consistent posting is', to a client whose Instagram had locked four times in 30 days and was still broken; and Stephski's Sep 1 invoice with 'to avoid any pausing of work'. Four asks, zero deliverables. VIVEK PATTERN, FOR THE BOOK: across six weeks his entire output on this account was 7 credential/approval requests, 2 abandoned threads, 1 'Will update shortly' never delivered, 1 wrong-account approval request ('Unfilteredlifiting') that scared her and was never explained, and 0 closure messages. THE QUESTION STILL UNASKED AFTER 44 DAYS: is ALTR's own phone-farm login pattern what kept tripping Meta's checks? Four forced resets in 30 days is not client error. If yes, this is not one lost client — it is a systemic defect live on every account on that system. TWO NEW BOOK-WIDE DEFECTS SURFACED THIS WINDOW: (1) churn does not propagate to finance — a resigned client got a collections sequence with a pause threat seven days later, and the Sep 4 file had explicitly warned against exactly this; (2) the agency has no offboarding motion at all — no owner contact, no ledger reconciliation, no security cleanup, no closure of open tickets. OFFBOARDING OBLIGATIONS STILL OPEN: delete ids 39, 54, 75, 85, 98, 100, 110, 120, 127, 128, 144, 151; revoke all ALTR sessions/devices from her IG; tell her in writing it is done and that she must change '[REDACTED-PASSWORD]' herself. She is leaving with a live password of hers in an ALTR group chat that also carries our wire and Zelle details. STILL RECOVERABLE AS A RELATIONSHIP, NOT AS AN ACCOUNT: she has not disputed anything, not gone public, not gone hostile. 'thank you for what you have been doing' and 'i appreciate the time support and help x'. A genuine owner-level apology plus a completed takedown is the only play left, and its main value now is containing what Chey Mai hears. WHAT TO CHECK NEXT WEEK: (1) did Derrek finally respond, and did he lead with an apology or an invoice; (2) was the takedown completed and reported; (3) were the credential messages deleted and ALTR access revoked; (4) did the collections chasing stop; (5) was the final invoice settled, written off, or escalated; (6) who joined the chat on Sep 10 and what did they do; (7) has Chey Mai's chat changed tone — she is the referrer and the second-order risk."
+}

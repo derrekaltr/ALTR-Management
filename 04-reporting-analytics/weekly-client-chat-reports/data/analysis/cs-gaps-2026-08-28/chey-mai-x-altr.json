@@ -1,0 +1,119 @@
+{
+  "client": "Chey Mai",
+  "slug": "chey-mai-x-altr",
+  "status": "at_risk",
+  "status_reason": "She has sent seven messages in nine weeks and none since 2026-08-11; two invoices are now overdue simultaneously, four payment chases have gone unanswered, and the only ALTR contact she has had in the last three weeks is a leak-removal image and a collections message — treat this as an active churn case, not a receivable.",
+  "last_client_message": "2026-08-11",
+  "dimensions": {
+    "responsiveness": {
+      "severity": 2,
+      "internal_failure": "Her direct question about payment rails was answered with 'let me check' and then never answered at all in 46 days, and the one platform problem she ever raised unprompted sat 29 hours before anyone looked at it.",
+      "evidence": [
+        {"quote": "Do you guys have PayPal", "who": "Cheyene Burridge", "date": "2026-07-13"},
+        {"quote": "Let me check on that for you", "who": "Stephski", "date": "2026-07-13"},
+        {"quote": "My Cheymai_ account is being targeted now", "who": "Cheyene Burridge", "date": "2026-07-22"}
+      ]
+    },
+    "follow_through": {
+      "severity": 3,
+      "internal_failure": "Almost every commitment made to this client has lapsed: the 'always online, always a prompt response' pledge, the previous-team unlink coordination, the PayPal answer, the Copyright Ban Protection setup via Vivek, and Derrek's promised phone-farm rollout updates — 27 days past the week he named.",
+      "evidence": [
+        {"quote": "I'm always online so I will get a response to your promptly... ALWAYS!!!", "who": "Mayson Chat", "date": "2026-06-22"},
+        {"quote": "Thank you for your understanding, we will have plenty of updates starting next week.", "who": "Derrek", "date": "2026-08-01"},
+        {"quote": "simply @ him in the chat and he will help. To start, if you want your accounts setup for Copyright Ban Protection he can assist.", "who": "Derrek", "date": "2026-07-29"}
+      ]
+    },
+    "proactive_communication": {
+      "severity": 2,
+      "internal_failure": "The only genuinely proactive thing she receives is Michelle's weekly leak-removal screenshot; in nine weeks she has never been sent an OF sales number, a chatting update or an IG posting result, and the one substantive update she did get was a copy-paste block sent verbatim to at least three clients within thirty seconds. Longest stretch with zero outbound from our side: 10 days (7/1 to 7/11).",
+      "evidence": [
+        {"quote": "Hi love! Here’s your weekly update on the leak removal breakdown for the past 7 days 🫶🏼", "who": "Michelle Queue", "date": "2026-08-10"},
+        {"quote": "we had to invest over $40,000 into a new Phone Farm to be able to handle all of our clients with the proper quality needed... My apologies, for any lack of communication.", "who": "Derrek", "date": "2026-08-01"},
+        {"quote": "@cheymai1 Hi love we haven’t heard back from you regarding payment, please respond asap", "who": "Stephski", "date": "2026-08-26"}
+      ]
+    },
+    "onboarding_handoff": {
+      "severity": 3,
+      "internal_failure": "Nothing from week 1 was ever closed: the sales-preferences form was sent on 6/22 and never confirmed returned in 67 days, the handover from her previous chatting team was asked about twice and never confirmed, the reels Drive was handed over and never followed up, no account manager was ever named to her, and the Social Media Director never posted in this chat once.",
+      "evidence": [
+        {"quote": "When you're able please fill out the form that will give the team everything they need to know about yourself AND the ability to sell in confidence.", "who": "Mayson Chat", "date": "2026-06-22"},
+        {"quote": "@cheymai1 please let me know when you’re previous team can get off so we can assign our team!", "who": "Mayson Chat", "date": "2026-06-23"},
+        {"quote": "dropping your google drive here just in case 💕", "who": "Michelle Queue", "date": "2026-06-25"}
+      ]
+    },
+    "chatter_conduct": {
+      "severity": 2,
+      "internal_failure": "We told her the form was what guarantees 'nothing you DO NOT want sold is ever sold', never got it back, never chased it, and have been chatting her page ever since — nine weeks of selling with no documented boundaries, and the chatting lead has not posted in the chat since 2026-07-23.",
+      "evidence": [
+        {"quote": "Making sure that nothing you DO NOT want sold is ever sold... with that being said here is the form link for the form", "who": "Mayson Chat", "date": "2026-06-22"},
+        {"quote": "The content that needs to be removed you can archive it", "who": "Mayson Chat", "date": "2026-07-23"},
+        {"quote": "Yes!", "who": "Mayson Chat", "date": "2026-06-22"}
+      ]
+    },
+    "platform_health": {
+      "severity": 3,
+      "internal_failure": "She reported her IG being targeted and got a 29-hour wait, a screenshot glance, 'Looks all good / Don't worry' and an instruction to archive her own content — no diagnosis, no ownership, no follow-up. Vivek was introduced on 7/29 as her dedicated Meta rep and has never posted a single message in 30 days, and the phone-farm rollout that was supposed to restart her IG programme has had no update in 27 days.",
+      "evidence": [
+        {"quote": "My Cheymai_ account is being targeted now", "who": "Cheyene Burridge", "date": "2026-07-22"},
+        {"quote": "Looks all good / Don’t worry", "who": "Mayson Chat", "date": "2026-07-23"},
+        {"quote": "Hey Ive added Vivek in here ( @fonta ). He is our Meta Support Rep that will help keep your IG accounts up and safe.", "who": "Derrek", "date": "2026-07-29"}
+      ]
+    },
+    "billing_ops": {
+      "severity": 3,
+      "internal_failure": "Two invoices are overdue at once, four chases have gone unanswered, we changed the receiving bank account number mid-relationship on 8/15 and never restated or verified it when chasing, we twice threatened to pause work for non-payment and never enforced or retracted it, and her question about payment rails is still unanswered after 46 days.",
+      "evidence": [
+        {"quote": "If you could please send it by end of the day today to avoid a pause in work that would be great 🙏", "who": "Stephski", "date": "2026-08-11"},
+        {"quote": "Please note an update to the account number, please try and send using the information on the invoice.", "who": "Stephski", "date": "2026-08-15"},
+        {"quote": "Can you give me 4 more days please I’m just waiting for money to turn over from OF", "who": "Cheyene Burridge", "date": "2026-08-11"}
+      ]
+    },
+    "ownership_escalation": {
+      "severity": 3,
+      "internal_failure": "This client has no account manager. Nobody has ever owned her results; the chatting lead went silent 36 days ago, the Meta rep never appeared, the Social Media Director never introduced herself, and invoicing is now the only function in contact with her — which means the only person watching a churning client is the one asking her for money.",
+      "evidence": [
+        {"quote": "@mmayson  can you please coordinate with start time so she can unlink her current team :)", "who": "Eric The Efficient", "date": "2026-06-22"},
+        {"quote": "@cheymai1 Hey we're still missing payment 🙂", "who": "Stephski", "date": "2026-07-11"},
+        {"quote": "@cheymai1 Hi love we haven’t heard back from you regarding payment, please respond asap", "who": "Stephski", "date": "2026-08-26"}
+      ]
+    },
+    "disengagement_detection": {
+      "severity": 3,
+      "internal_failure": "She has been dark for 17 days after previously replying to every chase within hours, and the entire response has been one more message in the Invoicing topic she has already admitted she does not check. No off-thread contact, no owner call, no 'are you okay' — the early churn signal was read as a collections problem.",
+      "evidence": [
+        {"quote": "Oh I didn’t even see this was for 2nd of August! I’m so sorry", "who": "Cheyene Burridge", "date": "2026-08-11"},
+        {"quote": "@cheymai1 Hi just pinging payment for your latest invoice, can you send by tomorrow?", "who": "Stephski", "date": "2026-08-09"},
+        {"quote": "@cheymai1 Hi love we haven’t heard back from you regarding payment, please respond asap", "who": "Stephski", "date": "2026-08-26"}
+      ]
+    },
+    "security_hygiene": {
+      "severity": 1,
+      "internal_failure": "No client credentials were exposed, but a staff member's personal mobile number was posted publicly in the group as a contact channel, and the receiving bank account number was changed mid-relationship in a chat message with no out-of-band verification step — a payment-redirection risk we created ourselves.",
+      "evidence": [
+        {"quote": "my phone number is [staff personal mobile, posted in plaintext] if you ever need to reach me", "who": "Stephski", "date": "2026-07-01"},
+        {"quote": "Please note an update to the account number, please try and send using the information on the invoice.", "who": "Stephski", "date": "2026-08-15"}
+      ]
+    }
+  },
+  "metrics": {
+    "client_questions_total": 4,
+    "unanswered_over_24h": 2,
+    "max_team_silence_days": 10,
+    "promises_made": 10,
+    "promises_kept": 3,
+    "promises_lapsed": 7,
+    "method": "Manual read of all 44 non-service messages (6/22-8/26). The client sent only 7 messages in the entire history. Distinct client questions/requests: PayPal availability (7/13), payment-sent confirmation (7/13), IG account being targeted (7/22), payment extension request (8/11). Unanswered >24h: PayPal (never answered, 46 days) and the 7/22 targeting report (29.5h to first reply, never diagnosed). Promises inventoried from our side: 'always online / prompt response ALWAYS', coordinate previous-team unlink, IG repurposing and promo results, check on PayPal, phone-farm updates 'starting next week', Copyright Ban Protection via Vivek, combined invoice as described, custom domain, weekly leak-removal reports, pause work for non-payment. Kept: combined invoice, custom domain, weekly leak reports (3 consecutive). Team silence measured as the longest gap between consecutive ALTR messages: 2026-07-01 15:27 to 2026-07-11 15:18."
+  },
+  "what_client_wanted": [
+    "Her IG accounts protected and someone to actually look when they are targeted: \"My Cheymai_ account is being targeted now\" (7/22)",
+    "A payment rail that works for her: \"Do you guys have PayPal\" (7/13), \"Money should have gone in thou! I paid thru my normal bank ☺️\" (7/13)",
+    "Reasonable flexibility on timing when OF payouts lag: \"Can you give me 4 more days please I’m just waiting for money to turn over from OF\" (8/11)",
+    "Not to be caught out by invoices she cannot see: \"Oh I didn’t even see this was for 2nd of August! I’m so sorry\" (8/11)"
+  ],
+  "what_worked": [
+    "Michelle's weekly leak-removal breakdown is the one reliable, visible deliverable on this account — three consecutive weeks (8/10, 8/17, 8/25) and the only thing proving work is happening",
+    "Stephski granting the payment extension without friction built goodwill: \"Okay no problem, just a heads up we have another invoice going out in 4 days so I will shoot you a new invoice with whatevers remaining at that point put all together\" (8/11), answered by the client's apology within minutes",
+    "Fast reconciliation on the first invoice: \"Recieved!\" (7/13) after she said she had paid through her normal bank"
+  ],
+  "top_fix": "Give this account a named human owner who is not the invoicing function. Every failure here traces to nobody owning the relationship: the form was never chased, the unlink was never confirmed, the Meta rep never showed up, the phone-farm restart was never reported, and when she went dark the only escalation available was a fourth payment chase. An owner would have caught the 17-day silence as churn and made contact off-thread before it became a collections problem."
+}

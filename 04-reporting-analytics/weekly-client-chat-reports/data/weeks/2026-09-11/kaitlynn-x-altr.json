@@ -1,0 +1,773 @@
+{
+  "client": "Kaitlynn",
+  "slug": "kaitlynn-x-altr",
+  "week_ending": "2026-09-11",
+  "summary": "KAITLYNN HAS CHURNED. On 2026-09-08 at 14:21 she wrote \"I need the final invoice and an alternative way to make payments immediately since I cannot wire :) thank you\". Stephski issued the closing invoice ten hours later — \"here is your final invoice with us, can you please shoot over the remaining balance so we can close out your account with us ❤️\" (2026-09-09) — she paid in full on 2026-09-10 (\"Paid !! Thank you so much for everything 🙏🏼\") and left the chat two minutes later. Nobody at ALTR asked her why, asked her to stay, or acknowledged that a five-week-old client had just terminated. Derrek was in the chat on 2026-09-09 and spoke only about the payment rail. This report covers the full two weeks 2026-08-28 → 2026-09-11, which includes the previously-unpublished 2026-09-04 findings. The first half looked like a recovery: she re-engaged at record volume, Ollie delivered the first performance report ever written on this account (2026-08-29), Mica converted a 20-day-cold Calendly in six minutes (2026-08-31), Stephski restarted invoicing after a 17-day blackout (2026-09-01), and Mayson booked a 21-day-overdue call in 34 seconds (2026-09-04). The second half is the bill for everything that was never done. In the 96 hours after the call was agreed, ALTR answered none of her open items: the free-nude-preview policy breach she raised with a screenshot on 2026-09-04 got \"Will look into this now\" from Ollie and then silence for 7 days; the $91.00 Derrek waived as a \"coupon\" was never corrected and she has now paid it; the Google Drive that blocks hundreds of her videos was never confirmed fixed; she was never told which Instagram account she was making 30 reels a month for. On 2026-09-07 Ollie asked \"Hey @kaitlynnandersonof have you changed your password?\" — she had locked ALTR out of her OnlyFans account, the loudest possible churn signal, and nobody escalated it. She gave notice 24 hours later. The proximate trigger was billing: her wire was rejected on 2026-09-08, the exact due date of the Aug 15-31 invoice, over a payment-path problem she first reported on 2026-08-21 and which was never diagnosed in 19 days. When she finally demanded an alternative, Derrek approved it in two minutes and Stephski produced a working payment link in 37 minutes. That rail existed the whole time and was never offered.",
+  "health": {
+    "score": 10,
+    "trend": "down",
+    "rationale": "Down 62 from 72. This is a terminal score: the client formally terminated on 2026-09-08 (\"I need the final invoice\"), settled her balance on 2026-09-10, and was removed from the chat two minutes later. There is no health left to measure — the residual 10 points reflect only that she left solvent, in full, and in good humour (\"Paid !! Thank you so much for everything 🙏🏼\"), leaving zero bad debt and no dispute. Last week's state file set an explicit test: 'was the free-nude-preview breach answered in the group, with a named action — if it got the wire-friction treatment (silence), health breaks 60 regardless of everything else.' It got exactly the wire-friction treatment. Ollie replied \"Will look into this now\" at 09:06 on 2026-09-04 and the word 'nude' never appears again in the chat. The state file also predicted: 'If next week's chat contains at least one unprompted performance update and the nude-preview breach is closed, health should reach 78-80. If the chat is again purely reactive, 72 was a dead-cat bounce.' It was a dead-cat bounce. Between 2026-09-04 09:15 and 2026-09-08 14:21 — 101 hours — ALTR posted exactly two messages to this client, one of which was a question asking why she had changed her password. Every single carried-over item on this account closed unresolved: the Aug 19 never-sold drop at 35 days and six consecutive reports, the 'I'm back' voice memo at 35 days, her wall-post cadence request at 28 days, her invoicing-cadence question at 25 days, the wire friction at 21 days, the $91 waiver reversal at 21 days, the revenue-drop complaint at 14 days, the Instagram flagging disclosures at 14 days, the freeloader screenshots at 13 days, the Instagram account name at 12 days, the Drive failure at 9 days, and the nude-preview breach at 7 days. Not one of them was closed. She never escalated, never raised her voice beyond 'definitely unacceptable', and never threatened to leave — she simply asked for a final invoice."
+  },
+  "reminders": [
+    {
+      "employee": "Stephski",
+      "topic": "Give her a payment method that is not a wire transfer — reported as friction on 2026-08-21, demanded outright on 2026-09-08, and repeated in visible frustration on 2026-09-09 with 'Like I said previously…'. 19 days from first report to a working link.",
+      "count": 3,
+      "first_date": "2026-08-21",
+      "last_date": "2026-09-09",
+      "days_outstanding": 19,
+      "severity": "high",
+      "resolved_in_window": true,
+      "evidence": [
+        {
+          "quote": "The last invoice was paid. Had to jump through a few hoops with the wire transfer. Not sure why. The 91.00$ wasn’t included but I can send that thru Zelle or just with the next wire. 😇",
+          "date": "2026-08-21"
+        },
+        {
+          "quote": "I need the final invoice and an alternative way to make payments immediately since I cannot wire :) thank you",
+          "date": "2026-09-08"
+        },
+        {
+          "quote": "Like I said previously… I need you to send me an alternative way to pay. My wire did not get approved yesterday because the woman asking me questions was interrogating me like she was a police officer. A.k.a. she was a bitch so now I am unable to send wires. If you could provide me a payment link, that would be the best option, so that I don’t have to Zelle you every day for the next 30 days.",
+          "date": "2026-09-09"
+        },
+        {
+          "quote": "https://commas.com/checkout/30884lfmOUBSCMWK",
+          "date": "2026-09-09"
+        }
+      ],
+      "note": "THE HIGHEST-VALUE REMINDER ON THE FILE, because it is the one that was finally actioned and it took 37 minutes. She reported wire friction on 2026-08-21 and billing never replied to it. Nineteen days later her wire was rejected outright on 2026-09-08 — the exact due date of the Aug 15-31 invoice — and she had to ask twice, the second time opening with 'Like I said previously…', the only reproachful phrase she used in five weeks. Derrek approved an alternative in two minutes ('Yea that’s fine' / 'We can send', 12:12) and Stephski had a commas.com checkout link live at 12:47. The rail existed the entire time. A single diagnostic reply on 2026-08-21 would have cost nothing and would have removed the trigger that sits directly underneath the termination message."
+    },
+    {
+      "employee": "Ollie Mckinlay",
+      "topic": "Answer the free full-nude-preview policy breach she raised with a screenshot on 2026-09-04. Acknowledged in three minutes, then never mentioned again in 7 days — the word 'nude' appears exactly once in the entire chat history, in her own message.",
+      "count": 2,
+      "first_date": "2026-09-04",
+      "last_date": "2026-09-04",
+      "days_outstanding": 7,
+      "severity": "high",
+      "evidence": [
+        {
+          "quote": "also polite side note: chat team is not allowed to send free full nude previews",
+          "date": "2026-09-04"
+        },
+        {
+          "quote": "@olkmck ^^",
+          "date": "2026-09-04"
+        },
+        {
+          "quote": "Will look into this now",
+          "date": "2026-09-04"
+        }
+      ],
+      "note": "Last week's unpublished findings called this 'THE MOST IMPORTANT ITEM ON THIS ACCOUNT' and warned that 'a slow answer here is the single highest-risk outcome available next week'. There was no answer at all. This is the exact inverse of the brief she hired ALTR on — 'please sell the f*uck out of content, don’t be afraid to be aggressive with selling or pricing' (2026-08-07) — it is direct monetisation leakage, and it is the most plausible untested explanation for the 'freeloader' wave Ollie said he was 'Confused' about on 2026-08-29. She raised it politely, with photographic evidence, four days before giving notice. Nobody identified the chatter, restated the rule, or circulated it."
+    },
+    {
+      "employee": "Ollie Mckinlay",
+      "topic": "The Aug 19 drop of brand-new, never-sold content — her single named milestone, requested on day one and never once mentioned by anyone at ALTR across the entire 35-day engagement.",
+      "count": 1,
+      "first_date": "2026-08-07",
+      "last_date": "2026-08-07",
+      "days_outstanding": 35,
+      "severity": "high",
+      "evidence": [
+        {
+          "quote": "all content uploaded aug 19th is brand new never sold. go crazy!!",
+          "date": "2026-08-07"
+        }
+      ],
+      "note": "Carried as overdue in six consecutive reports at 7, 14, 21, 28 and 35 days, and it closes unacknowledged. The string 'aug 19' appears exactly once in the whole file — in her own day-one message. Ollie wrote a full performance analysis on 2026-08-29 with five screenshots and still did not mention it. This is the cleanest single piece of evidence that nobody at ALTR ever re-read this client's brief after onboarding, and it should be reported as a systemic intake failure rather than a Kaitlynn item."
+    },
+    {
+      "employee": "Mayson",
+      "topic": "Tell her which Instagram account the 30-reels-a-month content Drive actually feeds — asked twice on 2026-08-30, deferred with 'soon', and never answered in the 12 days before she left.",
+      "count": 2,
+      "first_date": "2026-08-30",
+      "last_date": "2026-08-30",
+      "days_outstanding": 12,
+      "severity": "medium",
+      "evidence": [
+        {
+          "quote": "Also, what is this being posted? 😊",
+          "date": "2026-08-30"
+        },
+        {
+          "quote": "What account is it being posted on**",
+          "date": "2026-08-30"
+        },
+        {
+          "quote": "I’ll let you know soon it’s still being warmed up",
+          "date": "2026-08-30"
+        }
+      ],
+      "note": "She corrected her own typo to make the question unmissable and still got nothing. ALTR set her a hard quota — 'keep it topped up with 7 reels a week so 30 in total per month' (2026-08-30) — for a page she was never allowed to see, while her own posting-cadence request from 2026-08-14 sat unanswered for 28 days. That asymmetry (demands out, service in arrears) was flagged in two consecutive reports and never corrected."
+    },
+    {
+      "employee": "Ollie Mckinlay",
+      "topic": "Send the freeloader thread screenshots she asked for on 2026-08-29 so she could see which pages were promising her content for free. Never acknowledged in 13 days.",
+      "count": 1,
+      "first_date": "2026-08-29",
+      "last_date": "2026-08-29",
+      "days_outstanding": 13,
+      "severity": "medium",
+      "evidence": [
+        {
+          "quote": "would you mind screenshotting  the entire message thread so I can see the profiles of these pages next time? :)",
+          "date": "2026-08-29"
+        },
+        {
+          "quote": "Confused as to where these fans have got the idea that everything is free",
+          "date": "2026-08-29"
+        }
+      ],
+      "note": "The cheapest close available on the account. She volunteered to do ALTR's investigation for it, on the exact question Ollie said he was confused about, and got no reply. Six days later she supplied the likely answer herself — the chat team was sending free full nude previews — and that was ignored too."
+    },
+    {
+      "employee": "Mica Vecco",
+      "topic": "Check back in and rebook the social media call she rescheduled to Thursday — Mica promised 'i’ll check back in!' on 2026-09-02 and then never posted in the chat again.",
+      "count": 1,
+      "first_date": "2026-09-02",
+      "last_date": "2026-09-02",
+      "days_outstanding": 9,
+      "severity": "medium",
+      "evidence": [
+        {
+          "quote": "Hey girly, I am going to have to reschedule our meeting to Thursday. I just have to double check what time will fit best. But as soon as I find out, I’ll make that appointment via link. 💘✨",
+          "date": "2026-09-02"
+        },
+        {
+          "quote": "No problem 🤍 i’ll check back in!",
+          "date": "2026-09-02"
+        }
+      ],
+      "note": "The Thursday in question was 2026-09-03. Mica's last message on this account is 2026-09-02 at 12:29. Last week's findings said explicitly: 'hold her to that rather than letting the link go cold for another 20 days' — and it went cold for the nine days that remained. The lesson from 2026-08-31 (one personalised nudge converted a link that 20 days of self-serve had not) was learned and then immediately unlearned."
+    },
+    {
+      "employee": "Stephski",
+      "topic": "State the invoicing cadence in one written sentence — 'weekly or bi-weekly' asked once on 2026-08-17 and never directly answered across the whole engagement.",
+      "count": 1,
+      "first_date": "2026-08-17",
+      "last_date": "2026-08-17",
+      "days_outstanding": 25,
+      "severity": "medium",
+      "evidence": [
+        {
+          "quote": "For invoicing, is it weekly or bi-weekly typically? - just wondering!",
+          "date": "2026-08-17"
+        },
+        {
+          "quote": "I ask that you please pay within 7 days to avoid any pausing of work 🙏 Thank you queen lmk if you need anything!",
+          "date": "2026-09-01"
+        }
+      ],
+      "note": "She experienced four different billing rhythms in five weeks: weekly (Aug 7-14), a 17-day silence, a bundled semi-monthly catch-up (Aug 15-31, issued 2026-09-01 with a 'pausing of work' threat attached), and then a final invoice at 00:35 on 2026-09-09. She asked the question once, politely, on day ten, and never repeated it. A client who has to guess when money is due is a client who is already half out the door."
+    },
+    {
+      "employee": "Mayson",
+      "topic": "Internal escalation tags — Mayson routed client issues onward with a two-character tag five times across the window rather than owning or answering them.",
+      "count": 5,
+      "first_date": "2026-08-28",
+      "last_date": "2026-09-09",
+      "days_outstanding": 12,
+      "severity": "medium",
+      "evidence": [
+        {
+          "quote": "@olkmck ^^",
+          "date": "2026-08-28"
+        },
+        {
+          "quote": "@olkmck ^^",
+          "date": "2026-08-30"
+        },
+        {
+          "quote": "@olkmck ^^",
+          "date": "2026-09-04"
+        },
+        {
+          "quote": "@stephskiii ^",
+          "date": "2026-09-08"
+        },
+        {
+          "quote": "@stephskiii ^",
+          "date": "2026-09-09"
+        }
+      ],
+      "note": "Not a criticism of Mayson's responsiveness — he is the fastest actor on this file (34 seconds to book the 21-day-overdue call) — but a structural finding. Five times in two weeks the client's issue was visibly handed to someone else in front of her, and three of those five threads were never closed: the 2026-08-30 screenshot, the 2026-09-04 nude-preview breach, and the 2026-09-08 termination request, which Mayson tagged to Stephski 2 hours 5 minutes after it landed with no one addressing the churn itself. The client watched her problems being passed around a chat where nobody owned them."
+    }
+  ],
+  "complaints": [
+    {
+      "issue": "CLIENT CHURN. Kaitlynn terminated the engagement on 2026-09-08, five weeks after onboarding, by asking for a final invoice. No one at ALTR asked why, attempted to retain her, or acknowledged the termination as anything other than a billing task.",
+      "status": "new",
+      "owner": "Ollie Mckinlay (account manager) / Derrek",
+      "first_raised": "2026-09-08",
+      "severity": "high",
+      "days_open": 3,
+      "evidence": [
+        {
+          "quote": "I need the final invoice and an alternative way to make payments immediately since I cannot wire :) thank you",
+          "date": "2026-09-08"
+        },
+        {
+          "quote": "@stephskiii ^",
+          "date": "2026-09-08"
+        },
+        {
+          "quote": "Hi love! here is your final invoice with us, can you please shoot over the remaining balance so we can close out your account with us ❤️",
+          "date": "2026-09-09"
+        },
+        {
+          "quote": "Paid !! Thank you so much for everything 🙏🏼",
+          "date": "2026-09-10"
+        }
+      ],
+      "note": "Read the sequence. 14:21 on 2026-09-08 she gives notice. At 16:26 Mayson tags billing. At 00:35 on 2026-09-09 Stephski sends a closing invoice and asks for the remaining balance. Derrek posts twice on 2026-09-09 — both messages about the payment rail. Ollie, her account manager of 33 days, never posts again after 2026-09-07. The only question anyone asks her between the notice and her departure is how she intends to pay. She paid on 2026-09-10 at 11:10 and was removed from the chat at 11:12:35, two minutes later. There is no exit conversation anywhere in the file. Whatever the root cause, ALTR did not spend one message trying to find out — and the four-day window between her notice and her departure was the cheapest retention opportunity the agency will ever get on this account."
+    },
+    {
+      "issue": "Chat team gave away free full nude previews, breaking an explicit client rule and inverting the day-one brief to sell aggressively. Acknowledged by the AM in three minutes and then never addressed again before she left.",
+      "status": "in_progress",
+      "owner": "Ollie Mckinlay / Mayson (chat)",
+      "first_raised": "2026-09-04",
+      "severity": "high",
+      "days_open": 7,
+      "evidence": [
+        {
+          "quote": "also polite side note: chat team is not allowed to send free full nude previews",
+          "date": "2026-09-04"
+        },
+        {
+          "quote": "Will look into this now",
+          "date": "2026-09-04"
+        },
+        {
+          "quote": "please sell the f*uck out of content, don’t be afraid to be aggressive with selling or pricing, and always be like a gf to them 🙏🏼💘 my fans have been missing me :,) ive been mia!!",
+          "date": "2026-08-07"
+        }
+      ],
+      "note": "'in_progress' is generous — it reflects Ollie's three-minute acknowledgement and nothing more. Seven days later there is no named chatter, no restated rule, no confirmation it was circulated, and no reply to her at all. This is the second time this client raised a concern in her signature softened register ('polite side note', with a screenshot attached) and received silence; the first was the wire-transfer friction on 2026-08-21, which went 19 days undiagnosed and then blocked her final payment. The pattern is that ALTR's response speed on this account was calibrated to her tone rather than to the severity of what she was reporting. It is also very likely the unexamined answer to Ollie's own 2026-08-29 question about where fans 'got the idea that everything is free'."
+    },
+    {
+      "issue": "Payment-path friction: she reported wire trouble on 2026-08-21, billing never replied, and on 2026-09-08 — the exact due date of the Aug 15-31 invoice — her wire was rejected outright, leaving her unable to pay ALTR at all.",
+      "status": "recurring",
+      "owner": "Stephski",
+      "first_raised": "2026-08-21",
+      "severity": "high",
+      "days_open": 21,
+      "evidence": [
+        {
+          "quote": "The last invoice was paid. Had to jump through a few hoops with the wire transfer. Not sure why. The 91.00$ wasn’t included but I can send that thru Zelle or just with the next wire. 😇",
+          "date": "2026-08-21"
+        },
+        {
+          "quote": "My wire did not get approved yesterday because the woman asking me questions was interrogating me like she was a police officer. A.k.a. she was a bitch so now I am unable to send wires.",
+          "date": "2026-09-09"
+        },
+        {
+          "quote": "If you could provide me a payment link, that would be the best option, so that I don’t have to Zelle you every day for the next 30 days.",
+          "date": "2026-09-09"
+        }
+      ],
+      "note": "RECURRING and causally load-bearing. This is the only complaint on the account that appears in the same message as the termination request ('I need the final invoice and an alternative way to make payments immediately since I cannot wire'). Her 2026-09-09 message is by an order of magnitude the angriest she was in five weeks — and the anger is at her bank, not at ALTR. What ALTR owns is the 19 days of silence after her first report, during which a working commas.com checkout link existed and was never mentioned. Note also the forward-looking phrase 'for the next 30 days': on 2026-09-09 she was still thinking about a payment rhythm that extended beyond the final invoice, which suggests the exit was not fully settled even then."
+    },
+    {
+      "issue": "The $91.00 the owner personally waived on 2026-08-21 was reversed by billing on 2026-09-01 as a $90 rollover with the wrong amount and a reason the client never gave. It was never corrected, and she has now paid it.",
+      "status": "recurring",
+      "owner": "Stephski / Derrek",
+      "first_raised": "2026-08-21",
+      "severity": "high",
+      "days_open": 21,
+      "evidence": [
+        {
+          "quote": "coupon for being such a great new client",
+          "date": "2026-08-21"
+        },
+        {
+          "quote": "lmao I’ll accept 😂😇",
+          "date": "2026-08-21"
+        },
+        {
+          "quote": "Noting I rolled over the $90 from last period that went over your zelle limit 🙂",
+          "date": "2026-09-01"
+        },
+        {
+          "quote": "Hi love! here is your final invoice with us, can you please shoot over the remaining balance so we can close out your account with us ❤️",
+          "date": "2026-09-09"
+        }
+      ],
+      "note": "Last week's state named three escalation scenarios. Scenario (b) happened: she paid it silently and it was never corrected. The figure '91' appears exactly once in the entire chat history — in her own 2026-08-21 message. ALTR never wrote it again. So the owner's goodwill gesture was quietly clawed back by billing, on the wrong number ($90 vs $91.00) and the wrong reason (a Zelle limit she never cited; she said the money 'wasn’t included' in a wire), and the client settled it inside the closing balance without querying. She never knew Derrek's waiver had been reversed, or she knew and chose not to fight about it on her way out. Either reading is bad. This is an owner-level item, not a Stephski item, because a waiver given by the owner was overturned in writing by staff without reference back to him."
+    },
+    {
+      "issue": "Revenue drop and chatter-roster suspicion, raised 2026-08-28. Answered once with a freeloader diagnosis the AM himself described as confusing, and never followed up or proven in the 14 days before she left.",
+      "status": "recurring",
+      "owner": "Ollie Mckinlay",
+      "first_raised": "2026-08-28",
+      "severity": "high",
+      "days_open": 14,
+      "evidence": [
+        {
+          "quote": "But also a 300 day is definitely unacceptable with the amount of traffic that has been coming in. Maybe chatters can try sending out photos and videos to really entice people to want to engage :-) ** but also just circle back with me and let me know about Wednesday Thursday and today❤️ would love to keep a consistent rotation of the same chatters on my profile. Instead of throwing in multiple different people who don’t really know my account. If that’s what’s happening. 🙏🏼",
+          "date": "2026-08-28"
+        },
+        {
+          "quote": "A lot of new subs that have been coming in recently are expecting all content for free - a serious amount of free loaders in the last week, which has led to the lower numbers. Did you promo your page in this way?\n\nThe team is still the same as it was when we first ook over, so no need to worry about multiple different people jumping onto the page.",
+          "date": "2026-08-29"
+        },
+        {
+          "quote": "Why would I promo my page that way…",
+          "date": "2026-08-29"
+        },
+        {
+          "quote": "but okay thanks.",
+          "date": "2026-08-29"
+        }
+      ],
+      "note": "The 2026-08-29 reply remains the best piece of work anyone did on this account and it is still the only performance report ever posted here. But it also contained the single worst moment: ALTR's first substantive answer to a revenue complaint was to ask the client whether she had caused it, which produced 'Why would I promo my page that way…' followed by 'but okay thanks.' — the coldest register she used in five weeks. Her constructive suggestion (chatters sending photos and videos) was never acknowledged. No further numbers were ever posted. Twelve days later she changed her OnlyFans password. She asked once, was told not to worry, and drew her own conclusions."
+    },
+    {
+      "issue": "Client changed her OnlyFans password on or before 2026-09-07, locking ALTR out of the account it was managing. The AM noticed and asked about it in one line; nobody escalated it as the churn signal it plainly was.",
+      "status": "new",
+      "owner": "Ollie Mckinlay",
+      "first_raised": "2026-09-07",
+      "severity": "high",
+      "days_open": 4,
+      "evidence": [
+        {
+          "quote": "Hey @kaitlynnandersonof have you changed your password?",
+          "date": "2026-09-07"
+        },
+        {
+          "quote": "I need the final invoice and an alternative way to make payments immediately since I cannot wire :) thank you",
+          "date": "2026-09-08"
+        }
+      ],
+      "note": "THE MISSED ALARM. A managed creator revoking her agency's credentials is the single most reliable pre-churn indicator there is. She never answered the question — it is the only direct question anyone asked her in this window that she ignored, and she was otherwise a scrupulously responsive client. Notice was given 19 hours and 26 minutes later. Between Ollie's question and her termination message there is no internal follow-up, no second attempt, and no escalation to the owner. If ALTR builds one automated alert out of this entire post-mortem, it should be 'credential change on a managed account' routed to the owner within the hour."
+    },
+    {
+      "issue": "Google Drive uploads failing at scale — hundreds of videos blocked. Fast initial response, no confirmed fix, and the workaround disappeared into DMs leaving the group with no record that any content ever landed.",
+      "status": "in_progress",
+      "owner": "Derrek / Mayson",
+      "first_raised": "2026-09-02",
+      "severity": "high",
+      "days_open": 9,
+      "evidence": [
+        {
+          "quote": "I have hundreds of videos that I’m trying to upload to this photo folder, and hardly any of them will upload. I freed up tons of space on my phone so storage shouldn’t be an issue. Let me know if you guys have ran into this before and how I fix it. Or if there’s another route, we can take that’s not using Google Drive. 😊🙏🏼",
+          "date": "2026-09-02"
+        },
+        {
+          "quote": "hey kaitlyn, on it right now with the google drive fix",
+          "date": "2026-09-02"
+        },
+        {
+          "quote": "Yeah check dms",
+          "date": "2026-09-03"
+        }
+      ],
+      "note": "'on it right now' was 2026-09-02 at 12:22 and there is no closure in the chat nine days later. Google Drive is never mentioned again by anyone. She had hundreds of videos ready and three separate Drives from three different people (Ollie 2026-08-13, Michelle 2026-08-17, Mayson 2026-08-30) that nobody ever reconciled, and the newest one — the one carrying the 30-reels-a-month quota — did not work. Critical for the post-mortem: if anyone attributes this account's underperformance to the client not supplying content, the record says the opposite. She was blocked by ALTR's tooling and offered to work around it herself."
+    },
+    {
+      "issue": "Instagram was actively flagging and removing her posts and she was advised to take a 48-hour break. Disclosed twice, never owned by anyone, and still unowned when she left.",
+      "status": "new",
+      "owner": "Mica Vecco (unassigned in practice)",
+      "first_raised": "2026-08-28",
+      "severity": "medium",
+      "days_open": 14,
+      "evidence": [
+        {
+          "quote": "Took the link of my bio temporarily because i was getting a ton of flags on my account but it’s back on there. Not sure if that’s what you mean by domain.",
+          "date": "2026-08-28"
+        },
+        {
+          "quote": "I also took a break because every single post that I was making was being flagged and taking down by Instagram and it was relayed to me to take up to a 48 hour break.",
+          "date": "2026-08-31"
+        }
+      ],
+      "note": "Fourteen days, two unprompted disclosures, zero responses. kaitlynn.vip was delivered on 2026-08-14 explicitly to prevent 'shadow bans or account restrictions related to your link', so either the asset was not working or she was not applying it as intended — and nobody ever checked which. This also reframes her refusal of daily posting: she was being suppressed by the platform, not being lazy, and Mica's 2026-08-31 'just wanted to reiterate how important consistent posting is' landed on a creator whose posts were being taken down. The DMCA topic created on day one was used for the first and only time on 2026-09-08, four hours before she gave notice."
+    },
+    {
+      "issue": "Generic 'post every day' social media advice landed badly on 2026-08-31; the client refused flatly and Mica recovered it well.",
+      "status": "resolved",
+      "owner": "Mica Vecco",
+      "first_raised": "2026-08-31",
+      "severity": "low",
+      "days_open": 0,
+      "evidence": [
+        {
+          "quote": "Sorry, but I’m probably not gonna be the creator that’s gonna post every single day",
+          "date": "2026-08-31"
+        },
+        {
+          "quote": "gotcha! that’s also why I wanted to have an initial call with you so I could get to know you better, understand your goals and what’s realistic for you, and give you advice that actually fits. I’d still love to set one up 🩷",
+          "date": "2026-08-31"
+        },
+        {
+          "quote": "Scheduled for 2pm Wednesday :)",
+          "date": "2026-08-31"
+        }
+      ],
+      "note": "Genuinely resolved and still the best recovery in the file: refusal at 19:21, no argument, reframe at 19:23, booked at 19:29. Worth keeping as a training example for the whole roster — twenty days of a passive Calendly link converted nothing and one personalised message converted in six minutes. The call itself was rescheduled on 2026-09-02 and never happened, which is a separate failure (see reminders), but the handling of the pushback was right."
+    }
+  ],
+  "commitments": [
+    {
+      "what": "Provide Kaitlynn a non-wire payment method so she can actually pay ALTR",
+      "who": "Derrek / Stephski",
+      "status": "done",
+      "due": "2026-09-09",
+      "first_raised": "2026-08-21",
+      "days_open": 19,
+      "evidence": [
+        {
+          "quote": "Yea that’s fine",
+          "date": "2026-09-09"
+        },
+        {
+          "quote": "One moment",
+          "date": "2026-09-09"
+        },
+        {
+          "quote": "@kaitlynnandersonof Here is a payment link!",
+          "date": "2026-09-09"
+        }
+      ],
+      "note": "Done, and done fast once asked: Derrek approved at 12:12, Stephski delivered the link at 12:47 — 37 minutes. The commitment is marked done, but the 19 days between her first report of wire friction and this link is the real finding. The capability was never in question; only the attention was."
+    },
+    {
+      "what": "Issue the final invoice and close out the account",
+      "who": "Stephski",
+      "status": "done",
+      "due": "2026-09-09",
+      "first_raised": "2026-09-08",
+      "days_open": 1,
+      "evidence": [
+        {
+          "quote": "Hi love! here is your final invoice with us, can you please shoot over the remaining balance so we can close out your account with us ❤️",
+          "date": "2026-09-09"
+        }
+      ],
+      "note": "Turned around in about ten hours, overnight. Operationally clean. The problem is that this was the ONLY thing anyone did with her termination — the final invoice was issued before any human at ALTR asked her a single question about why she was leaving."
+    },
+    {
+      "what": "Kaitlynn to settle the closing balance",
+      "who": "Kaitlynn (client)",
+      "status": "done",
+      "due": "2026-09-16",
+      "first_raised": "2026-09-09",
+      "days_open": 1,
+      "evidence": [
+        {
+          "quote": "Paid !! Thank you so much for everything 🙏🏼",
+          "date": "2026-09-10"
+        }
+      ],
+      "note": "Paid in full roughly 35 hours after the final invoice, with a photo receipt and a thank-you. She left the chat two minutes later. Zero bad debt on this account across the whole engagement — she was a genuinely good payer whose only two late moments were both caused by ALTR (a 17-day invoicing blackout, and a wire rail nobody would replace)."
+    },
+    {
+      "what": "Answer the free full-nude-preview policy breach: name the chatter, restate the rule, confirm it was circulated to her rotation",
+      "who": "Ollie Mckinlay / Mayson",
+      "status": "overdue",
+      "due": "2026-09-04",
+      "first_raised": "2026-09-04",
+      "days_open": 7,
+      "evidence": [
+        {
+          "quote": "Will look into this now",
+          "date": "2026-09-04"
+        },
+        {
+          "quote": "also polite side note: chat team is not allowed to send free full nude previews",
+          "date": "2026-09-04"
+        }
+      ],
+      "note": "Closed unresolved by churn. Acknowledged in three minutes on 2026-09-04 and never spoken of again. This was the explicit number-one item for this run in last week's state file and the designated hard test of whether the 2026-09-04 responsiveness recovery was real. It was not."
+    },
+    {
+      "what": "Correct the $90 rollover and honour Derrek's $91.00 waiver in writing before the client pays",
+      "who": "Stephski / Derrek",
+      "status": "overdue",
+      "due": "2026-09-08",
+      "first_raised": "2026-08-21",
+      "days_open": 21,
+      "evidence": [
+        {
+          "quote": "coupon for being such a great new client",
+          "date": "2026-08-21"
+        },
+        {
+          "quote": "Noting I rolled over the $90 from last period that went over your zelle limit 🙂",
+          "date": "2026-09-01"
+        }
+      ],
+      "note": "Never done. She paid the closing balance on 2026-09-10 without querying it, so the owner's goodwill gesture was clawed back in silence. If ALTR wants one clean gesture on the way out, refunding $91.00 with a short note referencing Derrek's 2026-08-21 waiver is it — it costs $91 and it is the only item on this file that can still be honoured after the client has gone."
+    },
+    {
+      "what": "Confirm in the group that the Google Drive upload failure is fixed, and report the outcome of Mayson's DM content handoff",
+      "who": "Derrek / Mayson",
+      "status": "overdue",
+      "due": "2026-09-02",
+      "first_raised": "2026-09-02",
+      "days_open": 9,
+      "evidence": [
+        {
+          "quote": "hey kaitlyn, on it right now with the google drive fix",
+          "date": "2026-09-02"
+        },
+        {
+          "quote": "Hey Kaitlynn  send me all the content and I’ll personally put it in drive!!",
+          "date": "2026-09-02"
+        },
+        {
+          "quote": "Yeah check dms",
+          "date": "2026-09-03"
+        }
+      ],
+      "note": "Owner-committed on 2026-09-02 with 'right now' and never closed in nine days. The handoff moved to DMs on 2026-09-03 so the group record is blind on whether a single video ever landed. Unblocked nothing: the 30-reels quota, Michelle's promo Drive and Ollie's wall-post Drive were all still stalled when she left."
+    },
+    {
+      "what": "Tell Kaitlynn which Instagram account the new content Drive (30 reels/month) feeds",
+      "who": "Mayson",
+      "status": "overdue",
+      "due": "2026-08-30",
+      "first_raised": "2026-08-30",
+      "days_open": 12,
+      "evidence": [
+        {
+          "quote": "I’ll let you know soon it’s still being warmed up",
+          "date": "2026-08-30"
+        }
+      ],
+      "note": "'Soon' never arrived. She was carrying a 30-reels-a-month obligation for a page she was never shown, on top of two other unreconciled Drives."
+    },
+    {
+      "what": "Send Kaitlynn full screenshots of the freeloader message threads so she can see the profiles behind them",
+      "who": "Ollie Mckinlay",
+      "status": "overdue",
+      "due": "2026-08-29",
+      "first_raised": "2026-08-29",
+      "days_open": 13,
+      "evidence": [
+        {
+          "quote": "would you mind screenshotting  the entire message thread so I can see the profiles of these pages next time? :)",
+          "date": "2026-08-29"
+        }
+      ],
+      "note": "Never acknowledged across three consecutive reports. The client volunteered to investigate ALTR's own open question and was ignored."
+    },
+    {
+      "what": "Acknowledge and report on the Aug 19 drop of brand-new, never-sold content — the client's only named milestone",
+      "who": "Ollie Mckinlay",
+      "status": "overdue",
+      "due": "2026-08-19",
+      "first_raised": "2026-08-07",
+      "days_open": 35,
+      "weeks_open": 5,
+      "evidence": [
+        {
+          "quote": "all content uploaded aug 19th is brand new never sold. go crazy!!",
+          "date": "2026-08-07"
+        }
+      ],
+      "note": "35 days, 23 days past the date, six consecutive reports, never touched once. Closes unresolved with the account. The definitive evidence that this client's brief was never re-read after day one."
+    },
+    {
+      "what": "Respond to Kaitlynn's offer to record an 'I'm back' voice memo or video for her fans",
+      "who": "ALTR team",
+      "status": "overdue",
+      "due": "2026-08-08",
+      "first_raised": "2026-08-07",
+      "days_open": 35,
+      "weeks_open": 5,
+      "evidence": [
+        {
+          "quote": "Also if y’all want should I send out a voice memo or cute video being like I’m backkkkk baby blah blah blah",
+          "date": "2026-08-07"
+        }
+      ],
+      "note": "One word was required for 35 days and it was never typed. She offered free re-engagement content on day one, into an audience she was personally growing (a 30k-view YouTube video plus OFTV features), and ALTR never replied. The phrase 'voice memo' appears exactly once in the chat — hers."
+    },
+    {
+      "what": "Confirm Kaitlynn's requested posting cadence — a couple of wall posts a day scheduled in advance, plus story posts — and report against it",
+      "who": "Ollie Mckinlay",
+      "status": "overdue",
+      "due": "2026-08-14",
+      "first_raised": "2026-08-14",
+      "days_open": 28,
+      "evidence": [
+        {
+          "quote": "would love a couple wall post a day - scheduled out an advance is totally fine - as well as story posts that is actually something that I was gonna talk about on the call💘💘",
+          "date": "2026-08-14"
+        }
+      ],
+      "note": "28 days unanswered while ALTR issued her a hard content quota on 2026-08-30. Demands out, service in arrears — the asymmetry ran the entire length of the engagement."
+    },
+    {
+      "what": "State the invoicing cadence in one written sentence",
+      "who": "Stephski",
+      "status": "overdue",
+      "due": "2026-08-18",
+      "first_raised": "2026-08-17",
+      "days_open": 25,
+      "evidence": [
+        {
+          "quote": "For invoicing, is it weekly or bi-weekly typically? - just wondering!",
+          "date": "2026-08-17"
+        }
+      ],
+      "note": "Asked once on day ten, never directly answered in 25 days. She experienced four different billing rhythms instead."
+    },
+    {
+      "what": "Mica to check back in and rebook the rescheduled social media call",
+      "who": "Mica Vecco",
+      "status": "overdue",
+      "due": "2026-09-03",
+      "first_raised": "2026-09-02",
+      "days_open": 9,
+      "evidence": [
+        {
+          "quote": "No problem 🤍 i’ll check back in!",
+          "date": "2026-09-02"
+        }
+      ],
+      "note": "She never did. Mica's final message on this account is 2026-09-02 at 12:29. The social media call this client first booked on 2026-08-31 never happened, and neither did the strategy conversation she had been asking for since 2026-08-14."
+    },
+    {
+      "what": "Deliver the weekly DMCA leak-removal report",
+      "who": "Michelle",
+      "status": "done",
+      "due": "2026-09-08",
+      "first_raised": "2026-09-08",
+      "days_open": 0,
+      "evidence": [
+        {
+          "quote": "Hey love! Here’s your weekly update on the leak removal breakdown for the past 7 days 🫶🏼",
+          "date": "2026-09-08"
+        }
+      ],
+      "note": "The only genuinely proactive, unprompted deliverable posted to this client in the entire two-week window — and the first use of the DMCA topic since it was created on 2026-08-07. It arrived at 10:57 on 2026-09-08; she gave notice at 14:21 the same day. Calling it 'weekly' is generous given Michelle had been silent in this chat for 22 days, but the work itself is exactly the kind of unasked-for value that was missing everywhere else."
+    }
+  ],
+  "payments": [
+    {
+      "note": "ACCOUNT CLOSED, PAID IN FULL, NO BAD DEBT. Final invoice issued 2026-09-09 at 00:35 covering the remaining balance; client paid 2026-09-10 at 11:10, roughly 35 hours later, with a photo receipt and 'Paid !! Thank you so much for everything 🙏🏼'. Across five weeks she was invoiced three times and paid every one — 6 days on the first, and 35 hours on the last. Client-side credit risk on this account was always LOW and stayed low through termination. There is nothing to collect.",
+      "amount": "not stated in chat (invoice attached as a file)",
+      "date": "2026-09-10",
+      "invoice_period": "final / closing balance",
+      "late": false,
+      "days_late": 0,
+      "evidence": [
+        {
+          "quote": "Hi love! here is your final invoice with us, can you please shoot over the remaining balance so we can close out your account with us ❤️",
+          "date": "2026-09-09"
+        },
+        {
+          "quote": "Paid !! Thank you so much for everything 🙏🏼",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    {
+      "note": "THE BILLING RAIL IS WHAT BROKE. The Aug 15-31 invoice fell due 2026-09-08 under Stephski's newly-stated 7-day term. The client tried to pay it and her wire was rejected that day. She had reported wire friction 18 days earlier on 2026-08-21 and billing never replied. When she finally demanded an alternative, Derrek approved it in 2 minutes and Stephski produced a working commas.com checkout link in 37 minutes. Treat this as an ALTR-caused late payment, not a client-side one, and note the direct line from an unanswered billing complaint to a termination message that begins 'I need the final invoice and an alternative way to make payments immediately since I cannot wire'.",
+      "amount": "not stated in chat (invoice attached as a file)",
+      "date": "2026-09-08",
+      "invoice_period": "August 15-31",
+      "late": true,
+      "days_late": 2,
+      "evidence": [
+        {
+          "quote": "I ask that you please pay within 7 days to avoid any pausing of work 🙏 Thank you queen lmk if you need anything!",
+          "date": "2026-09-01"
+        },
+        {
+          "quote": "My wire did not get approved yesterday because the woman asking me questions was interrogating me like she was a police officer. A.k.a. she was a bitch so now I am unable to send wires.",
+          "date": "2026-09-09"
+        },
+        {
+          "quote": "https://commas.com/checkout/30884lfmOUBSCMWK",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    {
+      "note": "THE $91 WAIVER WAS NEVER RESTORED AND THE CLIENT HAS PAID IT. Derrek waived a $91.00 shortfall on 2026-08-21 as a 'coupon for being such a great new client' and she accepted ('lmao I’ll accept 😂😇'). Billing rolled it back onto the 2026-09-01 invoice as $90 'that went over your zelle limit' — wrong amount, wrong reason (she cited a wire, not a Zelle limit), and a reversal of the owner's decision in writing. It was never corrected in the ten days before she paid. The figure '91' appears exactly once in the entire chat history: her own 2026-08-21 message. Net effect — the owner's goodwill gesture was silently clawed back inside a closing invoice to a churning client.",
+      "amount": "$90 charged against a $91.00 owner waiver",
+      "date": "2026-09-10",
+      "invoice_period": "August 15-31 / final",
+      "late": false,
+      "days_late": 0,
+      "evidence": [
+        {
+          "quote": "coupon for being such a great new client",
+          "date": "2026-08-21"
+        },
+        {
+          "quote": "Noting I rolled over the $90 from last period that went over your zelle limit 🙂",
+          "date": "2026-09-01"
+        },
+        {
+          "quote": "Paid !! Thank you so much for everything 🙏🏼",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    {
+      "note": "BILLING CADENCE POST-MORTEM. Five weeks produced four different rhythms: weekly (Aug 7-14, invoiced 2026-08-15), a 17-day blackout with two service periods never separately invoiced, a bundled semi-monthly catch-up (Aug 15-31, invoiced 2026-09-01 with the first-ever written terms and a 'pausing of work' warning), then a final invoice at 00:35 on 2026-09-09. Her one question about cadence — 'For invoicing, is it weekly or bi-weekly typically?' (2026-08-17) — was never directly answered in 25 days. Forward risk for the agency is not this client's debt, it is the same pattern on the rest of the roster.",
+      "amount": null,
+      "date": "2026-09-11",
+      "invoice_period": "engagement summary",
+      "late": true,
+      "days_late": 0,
+      "evidence": [
+        {
+          "quote": "For invoicing, is it weekly or bi-weekly typically? - just wondering!",
+          "date": "2026-08-17"
+        },
+        {
+          "quote": "Hi love happy September! Here is your invoice for the period of August 15-31 ❤️ Please let me know if you have any questions, as always, all payment information is at the bottom. I ask that you please pay within 7 days to avoid any pausing of work 🙏 Thank you queen lmk if you need anything!",
+          "date": "2026-09-01"
+        }
+      ]
+    }
+  ],
+  "client_priorities": [
+    "A working way to pay ALTR — 'I need the final invoice and an alternative way to make payments immediately since I cannot wire' (2026-09-08), first flagged as 'Had to jump through a few hoops with the wire transfer' 18 days earlier (2026-08-21). The only priority that appears inside her termination message.",
+    "Chatters must not give content away free — 'chat team is not allowed to send free full nude previews' (2026-09-04), the direct inverse of her day-one brief and never answered.",
+    "Aggressive selling and a GF-experience chatting style — 'please sell the f*uck out of content, don’t be afraid to be aggressive with selling or pricing, and always be like a gf to them' (2026-08-07).",
+    "A consistent, dedicated chatter rotation that knows her account — 'would love to keep a consistent rotation of the same chatters on my profile. Instead of throwing in multiple different people who don’t really know my account' (2026-08-28).",
+    "Understanding her daily revenue swings — 'let me know about the $800 day and the $300 day' (2026-08-28); a $300 day was 'definitely unacceptable' to her.",
+    "Direct voice contact with the team — asked 2026-08-14, re-asked 2026-09-04; the Mayson call happened on 2026-09-04, the Mica strategy call never did.",
+    "Content tooling that works — 'Or if there’s another route, we can take that’s not using Google Drive' (2026-09-02); hundreds of videos ready and undeliverable for nine days.",
+    "Protecting her Instagram from flags and takedowns — 'every single post that I was making was being flagged and taking down by Instagram' (2026-08-31), disclosed twice and never owned.",
+    "Realistic, personalised social strategy rather than daily-posting boilerplate — 'I’m probably not gonna be the creator that’s gonna post every single day' (2026-08-31).",
+    "The Aug 19 drop of brand-new never-sold content — her one named milestone, 35 days unacknowledged (2026-08-07).",
+    "Re-engaging fans after her absence — 'my fans have been missing me :,) ive been mia!!' (2026-08-07); the voice memo she offered for exactly this was never answered.",
+    "A couple of wall posts a day scheduled in advance, plus story posts (2026-08-14), 28 days unconfirmed.",
+    "The vault as the single source of truth for content, with a notification from her on every upload (2026-08-14).",
+    "Clear invoicing cadence — 'For invoicing, is it weekly or bi-weekly typically?' (2026-08-17), 25 days unanswered."
+  ],
+  "suggestions": [
+    "Do the exit interview anyway. She left on warm terms — 'Paid !! Thank you so much for everything 🙏🏼' (2026-09-10) — and no one has yet asked her a single question about why she left. Derrek should send one short personal message this week: no pitch, no discount, just 'what did we get wrong'. She is the most articulate, evidence-attaching client on the roster and she will answer honestly. The intelligence is worth more than the account was.",
+    "Refund the $91.00. Derrek waived it on 2026-08-21 as a 'coupon for being such a great new client', billing reversed him on 2026-09-01 at the wrong amount and for a reason she never gave, and she has now paid it inside a closing invoice without querying it. It is the one item on this file that can still be made right after she has gone, it costs $91, and it is the natural opening line of the exit-interview message.",
+    "Build a credential-change alarm. Ollie spotted it — 'Hey @kaitlynnandersonof have you changed your password?' (2026-09-07) — asked once, got no answer, and never escalated. Notice came 19 hours later. A managed creator locking her agency out of her account should page the owner within the hour and trigger a retention call, not sit as an unanswered line in a group chat.",
+    "Make a rule that a termination message cannot be answered only by billing. On 2026-09-08 she gave notice at 14:21; the entire ALTR response chain was a tag to billing at 16:26 and a closing invoice at 00:35. Her AM of 33 days never posted again. Whoever owns an account must be required to respond personally to any churn signal before an invoice is raised.",
+    "Offer the commas.com payment link to every client on the roster today. It took 37 minutes to produce once someone asked (Derrek 'Yea that’s fine' at 12:12, link live at 12:47), and it had existed all along while this client fought wire transfers for 19 days. Audit the roster for anyone else paying by wire and give them the link before they hit the same wall.",
+    "Run the free-nude-preview breach as an internal chat-team investigation even though the client is gone. She supplied a screenshot on 2026-09-04 and Ollie's reply was 'Will look into this now' and nothing else. If chatters are giving away full nudes free, it is happening on other accounts too, and it is the untested answer to Ollie's own question of 2026-08-29: 'Confused as to where these fans have got the idea that everything is free'.",
+    "Institute scheduled, unprompted performance reporting across every account. In 35 days this client received exactly one performance report, and only because she complained. Michelle's 2026-09-08 DMCA leak-removal update was the only thing anyone sent her that she did not have to ask for first — four hours before she quit.",
+    "Add a brief re-read checkpoint at day 7, 14 and 30 of onboarding. Her day-one message contained two concrete asks — the Aug 19 never-sold drop and the 'I'm back' voice memo — and both were still untouched at 35 days across six consecutive reports. The string 'aug 19' appears once in the whole chat: her own message. Nobody ever went back to the brief.",
+    "Stop setting client-side quotas while agency-side requests are in arrears. On 2026-08-30 ALTR demanded '7 reels a week so 30 in total per month' for a page she was never shown, while her own 2026-08-14 posting-cadence request had been unanswered for 16 days and the Drive she was meant to upload to broke three days later. Gate any new client obligation on having zero overdue commitments to that client.",
+    "Feed this file straight into the CS gap analysis as the reference churn case. Every failure mode here is a known agency pattern, not a Kaitlynn-specific accident: reactive-only responsiveness, complaints scored by tone rather than severity, briefs never re-read, three unreconciled content Drives, an invoicing cadence that changed four times in five weeks, and billing overruling the owner without checking."
+  ],
+  "wins": [
+    "She left solvent and warm. Final invoice issued 2026-09-09 at 00:35, paid 2026-09-10 at 11:10 — about 35 hours — with a receipt and 'Paid !! Thank you so much for everything 🙏🏼'. Three invoices in five weeks, three paid, zero bad debt, zero dispute, including the $90 she should never have been charged.",
+    "Derrek unblocked the payment rail in two minutes. Her escalation landed 2026-09-09 at 12:10; Derrek replied 'Yea that’s fine' / 'We can send' at 12:12 and Stephski had a working checkout link posted at 12:47 — 37 minutes end to end.",
+    "Michelle delivered the only proactive, unrequested deliverable of the entire window: 'Hey love! Here’s your weekly update on the leak removal breakdown for the past 7 days 🫶🏼' (2026-09-08), and the first use of the DMCA topic since it was created on day one.",
+    "The 21-day call request finally closed inside this window. She re-asked at 08:43 on 2026-09-04 and Mayson replied in 34 seconds ('When are you available today?'), with a meeting link posted at 09:12. Proof that the preceding three weeks of delay were oversight, not capacity.",
+    "Ollie's 2026-08-29 performance answer remains the best single piece of work on the file — delivered 18 hours after being asked, over a weekend, with screenshots and a genuinely strong stat: 'we have been able to produce the same numbers with 1/7 of the subs this month as the best month in 2026'.",
+    "Mica's 2026-08-31 recovery is a reusable template: flat refusal at 19:21 ('I’m probably not gonna be the creator that’s gonna post every single day'), no argument, reframe at 19:23, booked at 19:29 — after 20 days of a self-serve Calendly link converting nothing.",
+    "She never went hostile toward ALTR. Across five weeks the harshest thing she said about the agency was 'a 300 day is definitely unacceptable' (2026-08-28) and 'Like I said previously…' (2026-09-09). Her anger on the way out was aimed at her bank. That means the door is not closed and an exit conversation is still available."
+  ],
+  "week_stats": {
+    "messages": 88,
+    "client_messages": 41,
+    "team_messages": 45
+  }
+}

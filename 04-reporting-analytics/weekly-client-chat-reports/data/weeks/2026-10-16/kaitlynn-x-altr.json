@@ -1,0 +1,215 @@
+{
+  "client": "Kaitlynn",
+  "slug": "kaitlynn-x-altr",
+  "week_ending": "2026-10-16",
+  "account_status": "re-onboarding (unconfirmed)",
+  "summary": "A NEW 'Kaitlynn x ALTR' group appeared this week, a month after she churned. Kaitlynn left on 2026-09-08 (\"I need the final invoice\") and paid out on 2026-09-10 (\"Paid !! Thank you so much for everything 🙏🏼\"). On 2026-10-09 at 18:19 a new group was created under the same title (a basic group upgraded to a supergroup, with the topics OnlyFans, Social Media, Promo, DMCA and Invoicing). Within 7 minutes the team posted standard onboarding messages. Mayson sent a Social Media content Drive (link not reproduced) with a 30-reels-a-month quota. Mica introduced herself as Social Media Director and asked her to book a 1:1. At 22:13 Mayson pointed her to Ollie for OnlyFans questions. READ: this looks like the SAME creator re-signing, not a different person. Every message tags the same Telegram handle Ollie tagged in the old chat on 2026-09-07, the cast is the same (Ollie, Mica, Mayson), and Mayson says the Drive already holds content. It is UNCONFIRMED. Kaitlynn has posted nothing in the new group, nobody has said she re-signed, and there is no invoice, contract or welcome-back message. It is also not confirmed whether she is bringing the same OnlyFans account or a new one. Three things need attention. (1) The client has said nothing in 7 days. (2) Nobody has acknowledged anything carried over from the first engagement. Mica's intro is written as a first meeting (\"I’m excited to get to know you\") even though Mica worked with her for five weeks and left her rescheduled call unbooked. Mayson re-issued the same 30-reels quota and another Drive, although the last Drive failed (\"hundreds of videos\" would not upload) and was never confirmed fixed. Nobody mentioned the free-nude-preview breach, the $90/$91 waiver billing charged back, or OnlyFans access after she changed her password. (3) At 14:47 on 2026-10-10 a ChatDeleteUser event removed one member. It is unexplained and could be the client leaving 16 hours after onboarding. DATA CAVEAT: the fetcher matches chats by title, so the local chat file now holds only the new group. The old chat's 35-day history is no longer captured. It survives only in data/state and data/weeks/2026-09-11.",
+  "health": {
+    "score": 35,
+    "trend": "new",
+    "rationale": "Scored as a new account, so there is no trend against the old score of 10. Score 35 is provisional. In the group's favour: the team showed up fast and organised. Topics were set up in 1 minute, Mayson's Drive came 3 minutes after the group was created, Mica's intro 4 minutes after that, and Ollie was named as the OnlyFans contact that evening. Against it: (a) the client has written nothing in 7 days. On this account, silence plus zero asks is how the first churn began. (b) A member was removed on 2026-10-10 and nobody explained it in the chat. (c) None of the first engagement's unresolved failures has been acknowledged. The onboarding script repeats the setup that went wrong last time: a quota and a Drive first, a self-serve Calendly link, and nothing yet delivered to her. Raise to 55-65 once she speaks in the group and someone names a carried item (the $91 refund at minimum). Drop below 20 if the 10/10 removal turns out to be her leaving."
+  },
+  "reminders": [],
+  "complaints": [
+    {
+      "issue": "UNEXPLAINED MEMBER REMOVAL: a ChatDeleteUser service event at 2026-10-10 14:47, about 16.5 hours after the onboarding messages. Who was removed, and by whom, is not in the export. Nobody explained it in the chat.",
+      "status": "new",
+      "owner": "Mayson / Ollie Mckinlay (verify in Telegram)",
+      "first_raised": "2026-10-10",
+      "severity": "high",
+      "days_open": 6,
+      "evidence": [
+        {"quote": "@kaitlynnandersonof you can ask @olkmck anything you want regarding OF", "date": "2026-10-09"}
+      ],
+      "note": "This is a service event, not a message, so there is nothing to quote for it. The evidence above is the last message before it. If the removed user is Kaitlynn, the re-onboarding has already stalled. If it was a duplicate account, a bot or a staff member, it is benign. Someone with Telegram admin access should check the member list today. The old chat had a similar unexplained ChatAddUser on 2026-09-10."
+    },
+    {
+      "issue": "CARRIED FROM PRIOR ENGAGEMENT — the chat team gave away free full nude previews, against her explicit rule. Ollie acknowledged it on 2026-09-04 and nothing more happened before she churned. Nobody has raised it in the new group.",
+      "status": "in_progress",
+      "carried_from_prior_engagement": true,
+      "owner": "Ollie Mckinlay / chat team",
+      "first_raised": "2026-09-04",
+      "severity": "high",
+      "days_open": 42,
+      "evidence": [
+        {"quote": "also polite side note: chat team is not allowed to send free full nude previews", "date": "2026-09-04"},
+        {"quote": "Will look into this now", "date": "2026-09-04"}
+      ],
+      "note": "If she re-signed with the same OnlyFans page, this is the first thing she will check. Ollie is again her OnlyFans contact (2026-10-09). He should open with what was done about it, not wait for her to ask."
+    },
+    {
+      "issue": "CARRIED FROM PRIOR ENGAGEMENT — Google Drive uploads failed at scale (\"hundreds of videos\"). It was never confirmed fixed, and the new group has issued yet another Drive with the same 30-reels quota.",
+      "status": "in_progress",
+      "carried_from_prior_engagement": true,
+      "owner": "Mayson / Derrek",
+      "first_raised": "2026-09-02",
+      "severity": "medium",
+      "days_open": 44,
+      "evidence": [
+        {"quote": "I have hundreds of videos that I’m trying to upload to this photo folder, and hardly any of them will upload.", "date": "2026-09-02"},
+        {"quote": "Please upload all the content you have that hasn't been posted yet, then keep it topped up with 7 reels a week so 30 in total per month", "date": "2026-10-09"}
+      ],
+      "note": "She is getting a quota before anything has been delivered to her, and through the tool that failed her last time. Confirm the upload works (or offer another route, as she asked) before holding her to the quota."
+    },
+    {
+      "issue": "CARRIED FROM PRIOR ENGAGEMENT — revenue drop and wanting a consistent chatter rotation. Answered once with a 'freeloader' explanation and never followed up.",
+      "status": "recurring",
+      "carried_from_prior_engagement": true,
+      "owner": "Ollie Mckinlay",
+      "first_raised": "2026-08-28",
+      "severity": "medium",
+      "days_open": 49,
+      "evidence": [
+        {"quote": "would love to keep a consistent rotation of the same chatters on my profile. Instead of throwing in multiple different people who don’t really know my account.", "date": "2026-08-28"}
+      ],
+      "note": "Applies to any re-sign of her OnlyFans management. State who her chatters will be up front."
+    },
+    {
+      "issue": "CARRIED FROM PRIOR ENGAGEMENT — Instagram flagged and removed her posts. She disclosed it twice and nobody took ownership.",
+      "status": "new",
+      "carried_from_prior_engagement": true,
+      "owner": "Mica Vecco",
+      "first_raised": "2026-08-28",
+      "severity": "medium",
+      "days_open": 49,
+      "evidence": [
+        {"quote": "I also took a break because every single post that I was making was being flagged and taking down by Instagram and it was relayed to me to take up to a 48 hour break.", "date": "2026-08-31"}
+      ],
+      "note": "Mica's 2026-10-09 intro promises an \"initial profile audit\" but does not mention the flagging. The audit should start there."
+    }
+  ],
+  "commitments": [
+    {
+      "what": "Mica to run an initial profile audit and a 1:1 strategy session",
+      "who": "Mica Vecco",
+      "status": "pending",
+      "due": "2026-10-16",
+      "first_raised": "2026-10-09",
+      "days_open": 7,
+      "evidence": [
+        {"quote": "I’ll conduct an initial profile audit and brainstorm creative, tailored ideas to ensure your content aligns with your goals and resonates with your audience.", "date": "2026-10-09"},
+        {"quote": "I’m excited to get to know you during our 1 on 1 session!", "date": "2026-10-09"}
+      ],
+      "note": "Uses the self-serve Calendly link again (not reproduced). Last time a link sat for 20 days and converted nothing, and her rescheduled call with Mica was never rebooked (\"No problem 🤍 i’ll check back in!\", 2026-09-02). Send a personal follow-up rather than waiting for a booking."
+    },
+    {
+      "what": "Ollie to be Kaitlynn's point of contact for OnlyFans questions",
+      "who": "Ollie Mckinlay",
+      "status": "pending",
+      "due": "2026-10-16",
+      "first_raised": "2026-10-09",
+      "days_open": 7,
+      "evidence": [
+        {"quote": "@kaitlynnandersonof you can ask @olkmck anything you want regarding OF", "date": "2026-10-09"}
+      ],
+      "note": "Ollie has not posted in the new group. His last message to this client (old chat, 2026-09-07) was the unanswered password question."
+    },
+    {
+      "what": "CARRIED FROM PRIOR ENGAGEMENT — refund (or credit) the $91.00 Derrek waived on 2026-08-21, which billing charged back as $90 on 2026-09-01",
+      "who": "Derrek / Stephski",
+      "status": "overdue",
+      "carried_from_prior_engagement": true,
+      "due": "2026-09-11",
+      "first_raised": "2026-08-21",
+      "days_open": 56,
+      "evidence": [
+        {"quote": "coupon for being such a great new client", "date": "2026-08-21"},
+        {"quote": "Noting I rolled over the $90 from last period that went over your zelle limit 🙂", "date": "2026-09-01"}
+      ],
+      "note": "Owner-level. If she re-signed, credit it on the first invoice and say so in writing."
+    },
+    {
+      "what": "CARRIED FROM PRIOR ENGAGEMENT — act on her 2026-09-04 report of free nude previews: identify the chatter, restate the rule, confirm it",
+      "who": "Ollie Mckinlay",
+      "status": "overdue",
+      "carried_from_prior_engagement": true,
+      "due": "2026-09-04",
+      "first_raised": "2026-09-04",
+      "days_open": 42,
+      "evidence": [
+        {"quote": "Will look into this now", "date": "2026-09-04"}
+      ]
+    },
+    {
+      "what": "CARRIED FROM PRIOR ENGAGEMENT — state the invoicing cadence in writing",
+      "who": "Stephski",
+      "status": "overdue",
+      "carried_from_prior_engagement": true,
+      "due": "2026-08-18",
+      "first_raised": "2026-08-17",
+      "days_open": 60,
+      "evidence": [
+        {"quote": "For invoicing, is it weekly or bi-weekly typically? - just wondering!", "date": "2026-08-17"}
+      ],
+      "note": "The new group has an Invoicing topic but nothing posted in it. Post the cadence and the non-wire payment option there before the first invoice."
+    },
+    {
+      "what": "CARRIED FROM PRIOR ENGAGEMENT — tell her which Instagram account the content Drive feeds",
+      "who": "Mayson",
+      "status": "overdue",
+      "carried_from_prior_engagement": true,
+      "due": "2026-08-30",
+      "first_raised": "2026-08-30",
+      "days_open": 47,
+      "evidence": [
+        {"quote": "I’ll let you know soon it’s still being warmed up", "date": "2026-08-30"},
+        {"quote": "It has to be fresh content. If it's already posted on your main account, it doesn't count we can't use it again.", "date": "2026-10-09"}
+      ],
+      "note": "The 2026-10-09 message implies a second account, separate from her main one. She still has not been told which account it is."
+    }
+  ],
+  "payments": [
+    {
+      "note": "No invoice, payment or billing message in this window. The new Invoicing topic is empty. From the first engagement she owes nothing (paid in full 2026-09-10). ALTR arguably owes her $90-91: the waiver Derrek gave on 2026-08-21, which billing charged back on 2026-09-01 and which she paid in her final invoice without querying it.",
+      "amount": null,
+      "date": "2026-10-16",
+      "invoice_period": "none in window",
+      "late": false,
+      "carried_from_prior_engagement": true,
+      "evidence": [
+        {"quote": "Paid !! Thank you so much for everything 🙏🏼", "date": "2026-09-10"},
+        {"quote": "Noting I rolled over the $90 from last period that went over your zelle limit 🙂", "date": "2026-09-01"}
+      ]
+    },
+    {
+      "note": "CARRIED PAYMENT-RAIL RISK. The first engagement ended after her bank rejected a wire, 19 days after she first reported wire trouble. A non-wire checkout link was produced on 2026-09-09 (link not reproduced). If she has re-signed, offer that option from the first invoice so she does not have to ask again.",
+      "amount": null,
+      "date": "2026-09-09",
+      "invoice_period": "prior engagement",
+      "late": false,
+      "carried_from_prior_engagement": true,
+      "evidence": [
+        {"quote": "I need the final invoice and an alternative way to make payments immediately since I cannot wire :) thank you", "date": "2026-09-08"}
+      ]
+    }
+  ],
+  "client_priorities": [
+    "Nothing new this week. She has not posted in the new group. Priorities below are carried from the first engagement (2026-08-07 to 2026-09-10) and are unconfirmed for any re-sign.",
+    "Chatters must not give content away free: 'chat team is not allowed to send free full nude previews' (2026-09-04).",
+    "Aggressive selling, GF-style chatting: 'don’t be afraid to be aggressive with selling or pricing, and always be like a gf to them' (2026-08-07).",
+    "A consistent chatter rotation that knows her account (2026-08-28).",
+    "A payment method other than wire (2026-09-08).",
+    "Content tooling that works, with an alternative to Google Drive if needed (2026-09-02).",
+    "Realistic social strategy, not daily posting: 'I’m probably not gonna be the creator that’s gonna post every single day' (2026-08-31).",
+    "A clear invoicing cadence (2026-08-17)."
+  ],
+  "suggestions": [
+    "Confirm what this group is. Does someone with admin access know whether Kaitlynn re-signed, and on which OnlyFans account? Who was removed on 2026-10-10 at 14:47? If the removed member was her, this is not a re-onboarding and the account should go back to churned.",
+    "If she is back, Derrek or Ollie should send one personal message in the group acknowledging the first engagement. Name what went wrong: the free nude previews, the Drive failures, the wire problem. Then say what is different now, and credit the $91 waiver. A generic onboarding script sent to a returning client tells her nothing was learned.",
+    "Do not lead with quotas. On 2026-10-09 the first thing she was told was '7 reels a week so 30 in total per month', the same quota as 2026-08-30, through the same kind of Drive that failed. Deliver something first: a profile audit, a performance plan, or the confirmed chatter roster.",
+    "Set up OnlyFans access properly. She changed her password on or before 2026-09-07 and ALTR access was revoked. Collect new credentials in a private channel, never in the group, and log who has them.",
+    "Post the invoicing cadence and the non-wire payment option in the new Invoicing topic before the first invoice.",
+    "Fix the fetcher. It matches chats by title, so the old 'Kaitlynn x ALTR' group (35 days of history) has been dropped from data/chats in favour of the new one. Key chats by Telegram chat ID, or archive the old history under its own slug, so the post-mortem evidence is not lost."
+  ],
+  "wins": [
+    "Fast, organised setup. Topics were created within 1 minute of the group existing (18:19), Mayson's content Drive arrived at 18:22, Mica's intro at 18:26, and Ollie was named as the OnlyFans contact at 22:13. All within 4 hours on a Friday evening."
+  ],
+  "week_stats": {
+    "messages": 4,
+    "client_messages": 0,
+    "team_messages": 4,
+    "service_events": 7,
+    "per_sender": {"Mayson Chat": 3, "Mica Vecco": 1},
+    "note": "Only non-service messages in the window are counted. Service events (ChannelMigrateFrom, 5x TopicCreate, ChatDeleteUser) are listed separately. All activity is in the NEW group created 2026-10-09; the old chat is no longer fetched."
+  }
+}

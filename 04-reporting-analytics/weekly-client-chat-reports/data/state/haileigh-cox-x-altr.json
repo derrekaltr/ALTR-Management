@@ -1,0 +1,303 @@
+{
+  "client": "Haileigh Cox",
+  "slug": "haileigh-cox-x-altr",
+  "as_of": "2026-10-30",
+  "window_covered": "2026-10-16T09:06:40-04:00 -> 2026-10-30T09:05:30-04:00 (TWO-WEEK window, no run 10/23; 19 real messages: 5 client / 14 ALTR; 6 Antonio Veritrade test messages excluded; 1 ChatAddUser 10/21 18:41 = test account). Prior: 2026-10-16 one-week window; 2026-10-09 two-week window.",
+  "covers_window": "2026-10-16T09:06:40-04:00 -> 2026-10-30T09:05:30-04:00",
+  "open_complaints": [
+    {
+      "issue": "Main-IG safety: link / .vip / shadowban / follower loss (merged). 10/11 Mayson redeployed haleighsworld.vip on her MAIN with 'won’t get flagged' + 'Yes main is fine!' (same domain restricted 2 accounts 6/13 after the same assurance). 10/22 she reported losing ~1k followers/day on main and unable to gain = the regression flagged in the 10/16 watch. Causation unproven; nobody at ALTR asked whether the link is in her bio. Mayson's only reaction was to tag Noah about OF. Vivek 'Sure share login' 7/29 never acted on (93d); she first raised follower loss/shadowban to him 7/29. Other 3 .vip domains status unknown. Mayson's 9/17 FB login request still unanswered by her.",
+      "first_raised": "2026-06-13",
+      "owner": "Mayson (link); Vivek (shadowban); escalate to Derrek",
+      "status": "recurring",
+      "last_seen": "2026-10-22",
+      "days_open": 139,
+      "severity": "critical",
+      "sub_dates": {"vip_domains": "2026-06-13", "shadowban_first_raised": "2026-07-29", "link_question_asked": "2026-10-04", "vip_redeployed_on_main": "2026-10-11", "follower_loss_reported": "2026-10-22"},
+      "watch": "Any written ALTR response to the IG half of 10/22; whether the link is pulled from main; any restriction/disable on main = trust break."
+    },
+    {
+      "issue": "Revenue down, raised twice: 9/13 ('revenue this month is down') and 10/22 ('lowest earnings I’ve had in years'). Response to 10/22: Mayson tagged Noah (77 min); Noah written answer (89 min): fix is IG bringing new subs, OF 'progressively slower since mid-late September', 'checking with the team' (no follow-up, 8d); Melissa 10/26 'check in call' offer (unanswered by her 4d). No written OF plan. Reports 10/9 (2wk) and 10/16 (1wk) are files; never walked through. Private live agreed 9/14 unscheduled (46d).",
+      "first_raised": "2026-09-13",
+      "owner": "Noah / Jeremy Tarr / Ronnie; Melissa (report, call); escalate to Derrek",
+      "status": "recurring",
+      "last_seen": "2026-10-26",
+      "days_open": 47,
+      "severity": "high"
+    },
+    {
+      "issue": "Chargebacks, second cluster: $2.4k (9/26) + $1.7k (9/28) after June's $7k+. Noah promised to report the $2.4k fan's response: nothing in 34 days, including his 10/22 return. $1.7k fan's custom unconfirmed (32d); may be one of Spencer's 'two pending customs' (10/16). No prevention process. No new chargebacks raised 10/16-10/30.",
+      "first_raised": "2026-06-21",
+      "owner": "Noah; Spencer P (custom)",
+      "status": "in_progress",
+      "last_seen": "2026-10-16",
+      "days_open": 131,
+      "severity": "high"
+    },
+    {
+      "issue": "Banking churn / unconfirmed wires. FIVE wires with no written receipt: 8/20, 9/7, 9/16, 10/6, 10/21. The 10/21 wire got no acknowledgement at all (not even thanks) through 10/30. Last confirmed receipt 5/20. She asked for receipts 4x (6/4, 6/16, 7/9, 9/16).",
+      "first_raised": "2026-05-20",
+      "owner": "Stephski (invoicing); Derrek accountable",
+      "status": "in_progress",
+      "last_seen": "2026-10-21",
+      "days_open": 163,
+      "severity": "high"
+    },
+    {
+      "issue": "No single account owner. Jeremy Tarr (AM, 10/13, 'respond as quickly as possible') posted 0 messages 10/16-10/30 including through the 10/22 revenue alarm. 10/22 handled by Mayson -> Noah -> 'the team' -> Melissa call offer. Spencer addressed a customs bump to 'hey guys' in the client chat. 4 named AMs, no SLA.",
+      "first_raised": "2026-03-22",
+      "owner": "Jeremy Tarr (AM); Derrek accountable",
+      "status": "in_progress",
+      "last_seen": "2026-10-22",
+      "days_open": 222,
+      "severity": "medium"
+    },
+    {
+      "issue": "Content/custom submission friction: seventh intake pointer (Spencer's sheet link 10/16, bumped 10/21). She said 'I’ll get those done asap!' 10/21 and 'Omg most def!!!!!' to the $1.81k custom 10/26; no upload confirmed by 10/30. Spencer is the de facto customs owner; Aroosha silent since 10/3. No agreed turnaround from 'custom sold' to 'delivered'.",
+      "first_raised": "2026-02-11",
+      "owner": "Spencer P (current); originally Eric",
+      "status": "in_progress",
+      "last_seen": "2026-10-26",
+      "days_open": 261,
+      "severity": "medium"
+    },
+    {
+      "issue": "Platform diversification dropped twice (4/22 OF warning; 9/14 SextPanther). 10/22 Noah: OF 'progressively slower since mid-late September' - ALTR's own words make the case; still no proposal.",
+      "first_raised": "2026-04-22",
+      "owner": "Derrek / Eric",
+      "status": "in_progress",
+      "last_seen": "2026-10-22",
+      "days_open": 191,
+      "severity": "medium"
+    },
+    {
+      "issue": "OF auto-tagging glitch, never confirmed fixed.",
+      "first_raised": "2025-09-08",
+      "owner": "unassigned",
+      "status": "in_progress",
+      "last_seen": "2026-03-22",
+      "days_open": 417,
+      "severity": "low"
+    }
+  ],
+  "resolved_last_window": [
+    {"what": "Oct 1-14 invoice collected: nudge 10/17, paid 10/21 (day 6, 1 nudge, on time).", "date": "2026-10-21", "evidence": "Hailey Client 2026-10-21: 'Wire sent :)'"},
+    {"what": "DMCA/leak report folded into the weekly earnings + performance report; consolidation explained same day.", "date": "2026-10-16", "evidence": "Mayson Chat 2026-10-16: 'From now on, your DMCA report will be included in your weekly earnings and performance report, sent in the General chat every Friday.'"},
+    {"what": "Second consecutive weekly earnings/performance report delivered (file).", "date": "2026-10-16", "evidence": "Melissa Userfacing 2026-10-16: 'Here is your earnings and performance report for the last week.'"},
+    {"what": "Spencer's 10/21 'ill follow up again in a few days' honoured (10/25, 10/26).", "date": "2026-10-26"},
+    {"what": "Noah resurfaced (silent 9/28-10/22, 24d) and answered the OF-revenue question in writing within 89 min of being tagged.", "date": "2026-10-22"},
+    {"what": "Client warned about the 10/21 system test messages before they arrived.", "date": "2026-10-21", "evidence": "Mayson Chat 2026-10-21: 'That's just our team testing a new system we're setting up, so no need to reply.'"}
+  ],
+  "open_commitments": [
+    {"what": "Respond in writing to the IG half of her 10/22 message; check whether haleighsworld.vip is in her main bio and whether main has a link flag/action block; pull to backup if in doubt; state the fallback; status of other 3 .vip domains.", "who": "Mayson", "date": "2026-10-11", "status": "overdue", "days_outstanding_at_2026_10_30": 19, "escalate_to": "Derrek"},
+    {"what": "Shadowban investigation on main IG (raised 7/29 and 10/22).", "who": "Vivek (escalate to Derrek)", "date": "2026-07-29", "status": "overdue", "days_outstanding_at_2026_10_30": 93},
+    {"what": "Come back on 'checking with the team' with a written OF-side plan.", "who": "Noah", "date": "2026-10-22", "status": "overdue", "days_outstanding_at_2026_10_30": 8},
+    {"what": "Report the outcome of the $2.4k chargeback fan / dispute.", "who": "Noah", "date": "2026-09-26", "status": "overdue", "days_outstanding_at_2026_10_30": 34},
+    {"what": "Deliver the $1.7k fan's custom (9/28) and confirm in chat; say whether it is one of the 'two pending customs'.", "who": "Noah / Spencer P", "date": "2026-09-28", "status": "pending", "days_outstanding_at_2026_10_30": 32},
+    {"what": "Send out the $1.81k custom (sold 10/25, 'within the week') plus the two pending customs once she uploads. Client-dependent.", "who": "Spencer P", "date": "2026-10-25", "due": "2026-11-01", "status": "pending"},
+    {"what": "Combined weekly report (earnings + performance + DMCA) every Friday. Delivered 10/16; MISSED 10/23. Next due 10/30.", "who": "Melissa / Mayson", "date": "2026-10-16", "status": "overdue", "days_outstanding_at_2026_10_30": 7},
+    {"what": "Check-in call offered 10/26; she has not replied. Needs a written agenda + written answer regardless.", "who": "Melissa", "date": "2026-10-26", "status": "pending"},
+    {"what": "Report reach/results of the 10/9 23-account repost.", "who": "Melissa", "date": "2026-10-09", "status": "overdue", "days_outstanding_at_2026_10_30": 21},
+    {"what": "Confirm the 8/20, 9/7, 9/16, 10/6, 10/21 wires in writing and post canonical banking details as text (promised by Mayson 8/19).", "who": "Stephski", "date": "2026-08-19", "status": "overdue", "days_outstanding_at_2026_10_30": 72, "escalate_to": "Derrek"},
+    {"what": "Oct 15-31 cycle: withdrawal reminder ~10/30, invoice ~11/1.", "who": "Stephski", "date": "2026-10-30", "status": "pending"},
+    {"what": "Schedule the private live agreed 9/14; walk her through the 10/9 + 10/16 reports in writing.", "who": "Ronnie / Noah / Jeremy Tarr", "date": "2026-09-13", "status": "overdue", "days_outstanding_at_2026_10_30": 47},
+    {"what": "Phone-farm IG rollout updates promised 8/1. No written proof. Derrek's last chat message 8/20.", "who": "Derrek", "date": "2026-08-01", "status": "overdue", "days_outstanding_at_2026_10_30": 90},
+    {"what": "Single point of contact + response SLA. Jeremy Tarr named 10/13; 0 messages since.", "who": "Derrek / Jeremy Tarr", "date": "2026-03-22", "status": "pending", "days_outstanding_at_2026_10_30": 222},
+    {"what": "Consolidate content/custom intake to one channel + one owner (Spencer) + agreed turnaround.", "who": "Spencer P (current); Eric (original)", "date": "2026-02-12", "status": "overdue", "days_outstanding_at_2026_10_30": 260},
+    {"what": "Answer or withdraw Mayson's 9/4 trial-reels call request and 9/17 Facebook login request.", "who": "Mayson", "date": "2026-09-04", "status": "overdue", "days_outstanding_at_2026_10_30": 56},
+    {"what": "Confirm the 8/18 fan escalation is closed.", "who": "Ronnie", "date": "2026-08-18", "status": "pending", "days_outstanding_at_2026_10_30": 73},
+    {"what": "Explicit policy on sharing her personal Snapchat with fans.", "who": "Noah", "date": "2026-09-28", "status": "pending", "days_outstanding_at_2026_10_30": 32},
+    {"what": "Standing rule: customs approved by Hailey (Nick Scott 2025-12-29). Spencer is asking her first, which complies.", "who": "Spencer P / chat team", "date": "2025-12-29", "status": "pending"},
+    {"what": "Chatters to stop using text emoticons; never confirmed back.", "who": "chat team", "date": "2026-03-26", "status": "overdue", "days_outstanding_at_2026_10_30": 218}
+  ],
+  "broken_commitments": [
+    {"what": "Weekly combined report 'every Friday' promised 10/16; nothing posted Friday 10/23 (first Friday after the promise). Leak recap missed with it.", "who": "Melissa / Mayson", "promised": "2026-10-16", "missed": "2026-10-23"},
+    {"what": "'won’t get flagged' / 'Yes main is fine!' (10/11) followed 11 days later by her report of ~1k followers/day lost on main; no monitoring or follow-up from Mayson.", "who": "Mayson", "promised": "2026-10-11", "missed": "2026-10-22"},
+    {"what": "Jeremy Tarr 10/13 'I’ll make sure to respond as quickly as possible' - 0 messages in 17 days, including through the 10/22 revenue alarm.", "who": "Jeremy Tarr", "promised": "2026-10-13", "missed": "2026-10-22"},
+    {"what": "Noah 10/22 'I’m checking with the team' - no follow-up in 8 days; $2.4k outcome (9/26) still unreported when he returned.", "who": "Noah", "promised": "2026-10-22", "missed": "2026-10-29"}
+  ],
+  "completed_recently": [
+    {"what": "Customs follow-ups 10/16, 10/21, 10/25, 10/26; $1.81k custom sold and flagged priority.", "who": "Spencer P", "date": "2026-10-26"},
+    {"what": "Weekly report 10/16 with DMCA folded in; check-in call offer 10/26.", "who": "Melissa", "date": "2026-10-26"},
+    {"what": "DMCA consolidation note 10/16; test-message heads-up 10/21; triaged 10/22 question to Noah in 77 min.", "who": "Mayson", "date": "2026-10-22"},
+    {"what": "Written OF-revenue answer 89 min after tag.", "who": "Noah", "date": "2026-10-22"},
+    {"what": "Invoice nudge 10/17; Oct 1-14 collected 10/21.", "who": "Stephski", "date": "2026-10-21"}
+  ],
+  "unanswered_altr_asks": [
+    {"ask": "Mayson: new content Drive + 7-reels/week quota", "date": "2026-08-30", "days_unanswered_at_2026_10_30": 61},
+    {"ask": "Mayson: trial-reels call request", "date": "2026-09-04", "days_unanswered_at_2026_10_30": 56},
+    {"ask": "Michelle: content check-in for management-run IG Reels account", "date": "2026-09-10", "days_unanswered_at_2026_10_30": 50},
+    {"ask": "Mayson: Facebook login request", "date": "2026-09-17", "days_unanswered_at_2026_10_30": 43, "note": "she declined FB management 2025-09-25"},
+    {"ask": "Melissa: intake form for new private platform", "date": "2026-09-28", "days_unanswered_at_2026_10_30": 32, "note": "may be done off-chat"},
+    {"ask": "Spencer: upload the two pending customs (sheet 10/16, bumped 10/21)", "date": "2026-10-16", "days_unanswered_at_2026_10_30": 14, "note": "she said 'asap' 10/21; no upload confirmed"},
+    {"ask": "Spencer: upload the $1.81k priority custom", "date": "2026-10-25", "days_unanswered_at_2026_10_30": 5, "note": "she said 'Omg most def!!!!!' 10/26; no upload confirmed"},
+    {"ask": "Melissa: availability for a check-in call", "date": "2026-10-26", "days_unanswered_at_2026_10_30": 4}
+  ],
+  "closed_altr_asks": [
+    {"ask": "Stephski: Oct 1-14 invoice (10/15) + nudge (10/17)", "closed": "2026-10-21", "how": "paid, day 6"},
+    {"ask": "Mayson 10/11: 'Put it back in your bio whenever you get a minute'", "closed": "2026-10-22", "how": "unconfirmed either way, but she reports main IG losing ~1k followers/day; treat as live"}
+  ],
+  "unanswered_client_asks": [
+    {"ask": "'What can i do to help increase this?' (earnings lowest in years)", "date": "2026-10-22", "days_unanswered_at_2026_10_30": 8, "note": "thin written answer from Noah + 'checking with the team' (no follow-up) + Melissa call offer; no written plan"},
+    {"ask": "'I lose roughly 1k followers a day on my main instagram... Any tips would greatly help'", "date": "2026-10-22", "days_unanswered_at_2026_10_30": 8, "note": "NO reply at all to the IG part"},
+    {"ask": "'Keep me posted 🙏' on the $2.4k chargeback fan", "date": "2026-09-26", "days_unanswered_at_2026_10_30": 34},
+    {"ask": "'Please let me know if you recieved it' (wire receipts; now 5 unconfirmed incl. 10/21)", "date": "2026-09-16", "days_unanswered_at_2026_10_30": 44},
+    {"ask": "'Yes i can do private lives' - awaiting a date", "date": "2026-09-14", "days_unanswered_at_2026_10_30": 46},
+    {"ask": "'My account is losing followers and not gaining... shadow ban' (to Vivek)", "date": "2026-07-29", "days_unanswered_at_2026_10_30": 93}
+  ],
+  "closed_client_asks": [
+    {"ask": "'What is something safe i can do or use for my link on my main IG?'", "date": "2026-10-04", "closed": "2026-10-11", "how": "written answer by Mayson; 7 days; outcome now in question (10/22 follower loss)"},
+    {"ask": "'what do you guys need from me to help boost this months sale'", "date": "2026-09-13", "closed": "2026-10-09", "how": "partially - report posted; re-raised harder 10/22"}
+  ],
+  "payment_history": [
+    {"date": "2025-09-03", "note": "Aug 15-31 paid after one follow-up", "late": false},
+    {"date": "2025-09-18", "note": "Sep 1-14 paid after 9/17 follow-up", "late": false},
+    {"date": "2025-10-08", "note": "Sep 15-30 paid ~1 week late (IRS levy froze OF withdrawals; client flagged it, offered late fee)", "late": true},
+    {"date": "2025-10-17", "note": "Oct 1-14 paid 2 days after promise", "late": false},
+    {"date": "2025-11-03", "note": "Oct 15-31 paid ~1 day after receipt", "late": false},
+    {"date": "2025-11-17", "note": "Nov 1-14 paid 2 days after invoice", "late": false},
+    {"date": "2025-12-03", "note": "Nov 15-30 paid 2 days after invoice", "late": false},
+    {"date": "2025-12-17", "note": "Dec 1-14 paid 2 days after invoice", "late": false},
+    {"date": "2026-01-02", "note": "Dec 15-31 paid next day", "late": false},
+    {"date": "2026-01-19", "note": "Jan 1-14 paid 4 days after invoice; receipt confirmed 1/20", "late": false},
+    {"date": "2026-02-03", "note": "Jan 15-31 paid 2 days after invoice", "late": false},
+    {"date": "2026-02-18", "note": "Feb 1-14 paid after check-in nudge", "late": false},
+    {"date": "2026-03-05", "note": "Feb 15-28 paid same day as nudge", "late": false},
+    {"date": "2026-03-17", "note": "Mar 1-14 paid 2 days after invoice", "late": false},
+    {"date": "2026-04-06", "note": "Mar 15-31 paid same day as nudge", "late": false},
+    {"date": "2026-04-15", "note": "Apr 1-15 paid same day as invoice", "late": false},
+    {"date": "2026-05-04", "note": "Apr 15-30 paid 3 days after invoice", "late": false},
+    {"date": "2026-05-18", "note": "May 1-14 paid 3 days after invoice; receipt confirmed 5/20 ('Hi Haleigh we recieved your wire') - the model; LAST confirmed receipt", "late": false},
+    {"date": "2026-06-04", "note": "May 15-31 paid after nudge; she asked for receipt", "late": false},
+    {"date": "2026-06-16", "note": "Jun 1-14 paid next day via Mercury; receipt never confirmed", "late": false},
+    {"date": "2026-07-09", "note": "Jun 15-30: new BofA wire address invalid, fixed 7/8, wired 7/9; receipt never confirmed", "late": false},
+    {"date": "2026-07-21", "note": "Jul 1-14 paid day after nudge", "late": false},
+    {"date": "2026-08-04", "note": "Jul 15-31 paid same day as nudge", "late": false},
+    {"date": "2026-08-20", "note": "Aug 1-14 paid 5 days after invoice to LAST MONTH's account on Derrek's verbal OK; UNVERIFIED at 2026-10-30 (71 days)", "late": false, "unverified": true},
+    {"date": "2026-09-07", "note": "Aug 15-31 paid day 6 to 9/1-invoice account (later superseded); UNVERIFIED at 2026-10-30 (53 days)", "late": false, "unverified": true},
+    {"date": "2026-09-16", "note": "Sep 1-14 paid/scheduled next day, no nudge, to renamed account; last seen 'scheduled'; UNVERIFIED at 2026-10-30 (44 days)", "late": false, "unverified": true},
+    {"date": "2026-10-06", "note": "Sep 15-30 (issued 10/1, due 10/8) paid day 5 after one nudge 10/2. Stephski 'Thank you so much' - not a receipt. UNVERIFIED at 2026-10-30 (24 days).", "late": false, "unverified": true, "days_to_pay": 5, "nudges": 1, "accompanying_asks_same_week": 1},
+    {"date": "2026-10-21", "note": "Oct 1-14 (issued 10/15 13:26, due ~10/22) paid 10/21 14:48 with screenshot + 'Wire sent :)' after one nudge 10/17. Day 6, on time, NORMAL pace - the fast-pay churn tell did NOT fire, and she self-initiated 2 asks the next day. Stephski gave NO acknowledgement at all through 10/30 (9 days). UNVERIFIED. 29 of 29 cycles paid.", "late": false, "unverified": true, "days_to_pay": 6, "nudges": 1, "accompanying_asks_same_week": 2},
+    {"date": "2026-11-01", "note": "Oct 15-31 invoice expected ~11/1; withdrawal reminder expected ~10/30 (none by 10/30 09:05). Next run: record reminder timing, invoice timing, days_to_pay, nudges, acknowledgement, asks that week.", "late": false, "status": "upcoming"}
+  ],
+  "chargeback_history": [
+    {"date": "2025-09-29", "note": "Noah flagged a chargeback (context in 2025 chat)"},
+    {"date": "2026-03-03", "note": "Fan refund request after challenge spend (Joseph H)"},
+    {"date": "2026-03-31", "note": "Fan refund request after $300 advance tip (Joseph H)"},
+    {"date": "2026-06-22", "note": "'over 7k in chargebacks just from last week' incl. single $7,593.00; Noah: nothing OF can do; no prevention plan"},
+    {"date": "2026-09-26", "amount": "$2,400", "note": "silent chargeback by happy fan; dispute screenshots given to client; outcome UNREPORTED at 2026-10-30 (34d) - Noah posted 10/22 without mentioning it"},
+    {"date": "2026-09-28", "amount": "$1,700", "note": "silent chargeback; Noah recovered fan same day with custom offer + her Snap (shared without asking); custom delivery unconfirmed at 2026-10-30 (32d)"}
+  ],
+  "payment_risk": {
+    "next_invoice_due": "~2026-11-08 (Oct 15-31, expected issue ~11/1)",
+    "following_invoice": "~2026-11-15 (Nov 1-14)",
+    "cadence": "semi-monthly (1st and 15th), 7-day terms",
+    "risk": "LOW on collection, HIGH on reconciliation, HIGH on value perception (client says earnings lowest in years while paying a percentage)",
+    "reason": "29 of 29 cycles paid, one late (Oct 2025 IRS levy). Five wires unconfirmed; last receipt 5/20; the 10/21 wire was not acknowledged at all. Payment pace was normal (day 6, 1 nudge) and she raised 2 asks, so the fast-pay+silence tell did not fire. The risk is now a value conversation: 'lowest earnings I’ve had in years' + main IG bleeding + owner/AM/Meta-rep silent.",
+    "action": "Stephski acknowledges 10/21 and confirms all five wires in writing; Derrek sends one written message this week; record Oct 15-31 reminder/invoice timing and pay speed next run."
+  },
+  "client_priorities": [
+    "Earnings: 'lowest earnings I’ve had in years. What can i do to help increase this?' (10/22) - wants a written plan.",
+    "Main-IG health: ~1k followers/day lost on main, can't gain (10/22); link safety asked 11/2025, 6/2026, 10/2026; shadowban asked 7/29; main recently restored from perm disable; .vip redeployed on main 10/11.",
+    "Revenue protection / chargebacks - $4.1k (9/26-9/28) after June's $7k+; $2.4k outcome unreported 34d.",
+    "Payment clarity - five wires unconfirmed; too many wire recipients.",
+    "Delivering customs when asked (says yes within minutes; uploads lag).",
+    "Knowing who to talk to - 4 AMs named, new AM silent; customs = Spencer.",
+    "Platform diversification (OF warning 4/22; SextPanther 9/14; ALTR says OF slower 10/22).",
+    "Brand / personal-boundary control - custom approvals; personal Snap used as fan-retention perk."
+  ],
+  "asks_trend": [
+    {"week_ending": "2026-08-21", "client_asks": 2, "note": "wire destination confusion; estimated retroactively"},
+    {"week_ending": "2026-08-28", "client_asks": 0},
+    {"week_ending": "2026-09-04", "client_asks": 0},
+    {"week_ending": "2026-09-11", "client_asks": 0, "note": "two-week window"},
+    {"week_ending": "2026-09-18", "client_asks": 3, "note": "revenue boost, SextPanther, wire receipt"},
+    {"week_ending": "2026-09-25", "client_asks": 0, "note": "fully silent week"},
+    {"week_ending": "2026-10-02", "client_asks": 4, "note": "dispute email, $2.4k chargeback/keep me posted, screenshot to OF, $1.7k 'Whats going on?'"},
+    {"week_ending": "2026-10-09", "client_asks": 1, "note": "IG link safety (answered 10/11). Window total 5 across the two-week window."},
+    {"week_ending": "2026-10-16", "client_asks": 1, "self_initiated": 0, "note": "only ask was a follow-up to Mayson's 10/11 message. 1 client message all week."},
+    {"week_ending": "2026-10-30", "client_asks": 2, "self_initiated": 2, "note": "TWO-WEEK window. Both asks in one 10/22 message: (a) help increasing earnings, lowest in years; (b) tips for ~1k/day follower loss on main IG. Week 1 (10/16-10/23) = 2, week 2 (10/23-10/30) = 0 with 1 client message. 5 client messages total. Asks did not go to zero, but the content of the ask is an exit-grade statement."}
+  ],
+  "client_asks": [
+    {"week_ending": "2026-10-02", "client_asks": 4},
+    {"week_ending": "2026-10-09", "client_asks": 1},
+    {"week_ending": "2026-10-16", "client_asks": 1},
+    {"week_ending": "2026-10-30", "client_asks": 2, "note": "two-week window; both self-initiated 10/22"}
+  ],
+  "churn_signals": {
+    "as_of": "2026-10-30",
+    "present": 3,
+    "owner_silent_30d": {"present": true, "detail": "Derrek last posted 2026-08-20 (71 days at 10/30)"},
+    "results_question_answered_with_call": {"present": true, "detail": "10/22 'lowest earnings in years' question: thin written answer from Noah (IG must bring subs; OF slower; 'checking with the team', no follow-up 8d), IG half unanswered entirely, then Melissa 10/26 'check in call' offer. The call is the only follow-up on the table."},
+    "long_promised_deliverable_no_proof": {"present": true, "detail": "phone-farm IG rollout promised 8/1 (90d); shadowban check 7/29 (93d); wire confirmations 8/19 (72d)"},
+    "mostly_billing": {"present": false, "detail": "1 of 14 ALTR messages billing (7%)"},
+    "asks_drop": "4 -> 1 -> 1 -> 2 (two weeks; wk1 2, wk2 0). NOT trending to zero; she re-raised revenue and IG herself. Fast-pay+zero-asks tell did NOT fire (day 6, 1 nudge, 2 asks).",
+    "exit_language": "'Last month and this month will be the lowest earnings I’ve had in years' (10/22). No request for exports/logins/data; no mention of other agencies or going solo.",
+    "verdict": "3 of 4 signals + exit-grade statement + main-IG regression after ALTR's own advice. Escalate privately to Derrek now."
+  },
+  "churn_watch": "3 of 4 signals present (owner silent 71d; results question -> thin answer + call offer; phone-farm 90d / shadowban 93d no proof). Billing share 7% (absent). Client still engaged (5 msgs, 2 self-initiated asks, replies in minutes to Spencer), paid at normal pace. The alarm this window is the content: lowest earnings in years + main IG losing ~1k followers/day 11 days after the .vip redeploy + no reply from Mayson/Vivek/Derrek/Jeremy on IG. WATCH next: does anyone answer the IG question in writing; does she take the call; does the 10/30 Friday report land; Oct 15-31 invoice pace + acknowledgement; whether her custom uploads happen (revenue she controls); any export/login/data request.",
+  "health_history": [
+    {"week_ending": "2026-08-08", "score": 80},
+    {"week_ending": "2026-08-14", "score": 68},
+    {"week_ending": "2026-08-21", "score": 65},
+    {"week_ending": "2026-08-28", "score": 58},
+    {"week_ending": "2026-09-04", "score": 54, "note": "never published"},
+    {"week_ending": "2026-09-11", "score": 51},
+    {"week_ending": "2026-09-18", "score": 56},
+    {"week_ending": "2026-09-25", "score": null, "note": "no messages in window 9/18-9/25; no findings file"},
+    {"week_ending": "2026-10-02", "score": 57, "note": "never published (run died); window absorbed into 2026-10-09"},
+    {"week_ending": "2026-10-09", "score": 53, "note": "down; two-week window"},
+    {"week_ending": "2026-10-16", "score": 52, "note": "flat; best ALTR service week in months offset by client disengagement and .vip redeployed on main"},
+    {"week_ending": "2026-10-30", "score": 45, "note": "down 7; two-week window. Client: 'lowest earnings I’ve had in years', main IG losing ~1k followers/day 11d after Mayson's 'Yes main is fine!'; IG question unanswered 8d; results question -> thin answer + call offer (signal 2 now present, 3/4 total); Jeremy (AM) 0 msgs; Friday report missed 10/23; 10/21 wire unacknowledged (5 unconfirmed). Held up by Spencer's visible customs work ($1.81k sold), Noah's honest return, 2nd weekly report, on-time normal-pace payment, client still engaged."}
+  ],
+  "week_stats_history": [
+    {"week_ending": "2026-08-08", "messages": 5, "client_messages": 2, "team_messages": 3},
+    {"week_ending": "2026-08-14", "messages": 2, "client_messages": 0, "team_messages": 2},
+    {"week_ending": "2026-08-21", "messages": 16, "client_messages": 6, "team_messages": 10},
+    {"week_ending": "2026-08-28", "messages": 3, "client_messages": 0, "team_messages": 3},
+    {"week_ending": "2026-09-04", "messages": 5, "client_messages": 0, "team_messages": 5, "note": "never published"},
+    {"week_ending": "2026-09-11", "messages": 13, "client_messages": 2, "team_messages": 10, "note": "two-week window"},
+    {"week_ending": "2026-09-18", "messages": 29, "client_messages": 10, "team_messages": 19},
+    {"week_ending": "2026-09-25", "messages": 0, "client_messages": 0, "team_messages": 0, "note": "fully silent week (both sides)"},
+    {"week_ending": "2026-10-09", "messages": 57, "client_messages": 19, "team_messages": 38, "client_asks": 5, "service_events": 2, "note": "two-week window. Wk1: 44 msgs, 16 client, 4 asks. Wk2: 13 msgs, 3 client, 1 ask."},
+    {"week_ending": "2026-10-16", "messages": 13, "client_messages": 1, "team_messages": 12, "client_asks": 1, "service_events": 2, "note": "Melissa 4, Stephski 3, Mayson 2, Jeremy Tarr 1, Spencer P 1, Mica 1. Noah/Ronnie/Derrek/Vivek/Aroosha/Michelle 0."},
+    {"week_ending": "2026-10-30", "messages": 19, "client_messages": 5, "team_messages": 14, "client_asks": 2, "service_events": 1, "note": "TWO-WEEK window. 6 Antonio Veritrade test msgs excluded (10/21). Spencer P 5, Melissa 3, Mayson 3, Noah 2, Stephski 1. Derrek/Jeremy/Ronnie/Vivek/Aroosha/Michelle/Mica 0. Wk1 (10/16-10/23): 16 msgs, 4 client, 2 asks. Wk2 (10/23-10/30): 3 msgs, 1 client, 0 asks."}
+  ],
+  "engagement_trend": [
+    {"week_ending": "2026-10-09", "client_messages": 19, "client_share": 0.33, "last_client_message": "2026-10-04"},
+    {"week_ending": "2026-10-16", "client_messages": 1, "client_share": 0.08, "last_client_message": "2026-10-11T19:46:00-04:00"},
+    {"week_ending": "2026-10-30", "client_messages": 5, "client_share": 0.26, "last_client_message": "2026-10-26T01:22:24-04:00", "note": "two-week window; replies to Spencer in 2h and to the invoice nudge in 4d; raised earnings + IG herself 10/22; has not answered Melissa's 10/26 call offer (4d)"}
+  ],
+  "engagement": {
+    "last_client_message": "2026-10-26T01:22:24-04:00",
+    "days_silent_at_window_end": 4.3,
+    "pattern": "Still responds fast and warm to concrete asks (Spencer: 2h, 'Omg most def!!!!!'). Raises problems herself when they hurt (10/22). Ignores or lags on asks that need work (custom uploads 9d+, intake forms) and on call offers (Melissa 10/26 unanswered). Week 2 of the window was nearly silent (1 message).",
+    "churn_watch": "see churn_watch"
+  },
+  "altr_silence_tracker": {
+    "as_of": "2026-10-30T09:05:30-04:00",
+    "Derrek": {"last_message": "2026-08-20", "days_silent": 71},
+    "Vivek": {"last_message": "2026-07-29", "days_silent": 93},
+    "Michelle": {"last_message": "2026-09-10", "days_silent": 50},
+    "Ronnie": {"last_message": "2026-10-02", "days_silent": 28},
+    "Aroosha": {"last_message": "2026-10-03", "days_silent": 27},
+    "Jeremy Tarr": {"last_message": "2026-10-13", "days_silent": 17, "note": "one message ever (intro)"},
+    "Mica Vecco": {"last_message": "2026-10-14", "days_silent": 16, "note": "reel inspo had been roughly weekly (10/6, 10/14); none 10/21 or 10/28"},
+    "Stephski": {"last_message": "2026-10-17", "days_silent": 13, "note": "did not acknowledge the 10/21 wire"},
+    "Mayson": {"last_message": "2026-10-22", "days_silent": 8, "note": "last message was the tag to Noah; nothing on the IG question"},
+    "Noah": {"last_message": "2026-10-22", "days_silent": 8, "note": "was silent 9/28-10/22 (24d) before that"},
+    "Melissa": {"last_message": "2026-10-26", "days_silent": 4},
+    "Spencer P": {"last_message": "2026-10-26", "days_silent": 4}
+  },
+  "next_period_watch": [
+    "Does anyone (Mayson first) answer the main-IG follower-loss question in writing? Is the .vip link pulled from main or confirmed safe with evidence? Any restriction/disable on main = trust break.",
+    "Does Derrek post anything (71d silent)? This window should trigger a private owner-level escalation.",
+    "Does Noah/Jeremy produce a written OF plan and the $2.4k outcome? Does Jeremy post at all?",
+    "Does the 10/30 Friday report land (after missing 10/23)? Does Melissa's call happen, and does a written answer accompany it?",
+    "Oct 15-31 cycle: withdrawal reminder timing (~10/30), invoice (~11/1), days to pay, nudges, and whether Stephski acknowledges/confirms anything (five wires outstanding).",
+    "Do her custom uploads happen (two pending since <=10/16; $1.81k since 10/25)? Does Spencer confirm delivery? Is the 9/28 $1.7k fan's custom among them?",
+    "Client asks: any week at 0 after this, or any request for exports/logins/data, or mention of another agency = escalate immediately.",
+    "Mica: weekly reel inspo resumed? Ronnie/Aroosha/Michelle: any sign of life?"
+  ],
+  "notes": "STATUS 2026-10-30: Health 45 (down from 52). The client told the group on 10/22 that last month and this month are the lowest earnings she has had in years and that her main IG loses ~1k followers/day, 11 days after Mayson told her to put haleighsworld.vip back on main ('won’t get flagged', 'Yes main is fine!'). ALTR response: Mayson tagged Noah; Noah gave a thin written answer and 'checking with the team' (no follow-up 8d); nobody answered the IG half; Melissa offered a call 4 days later. Jeremy Tarr (AM) 0 messages; Derrek silent 71d; Vivek 93d. 3 of 4 churn signals present (up from 2). Positives: Spencer P is a visible, responsive customs owner ($1.81k custom sold 10/25); Noah resurfaced; 2nd weekly report 10/16 with DMCA folded in; invoice paid on time at normal pace (fast-pay tell did NOT fire). Broken this window: Friday report missed 10/23; 10/21 wire unacknowledged (5 unconfirmed); Mayson no follow-up on his own guarantee. PREDICTIONS TO CHECK NEXT WEEK: (1) Mayson or Vivek will NOT answer the IG question in writing unless prompted - if nobody does by 11/6, expect her next message to be about leaving or about her IG dying, not about OF. (2) The 10/30 Friday report will land (two misses in a row would be a pattern). (3) Oct 15-31 invoice will be paid day 4-7 after one nudge; Stephski will not confirm receipt; if she instead pays same-day with no asks, that is the tell. (4) Her custom uploads will lag past 11/1 and Spencer will bump again politely; the $1.81k is real revenue she controls. (5) Jeremy Tarr will post nothing again. (6) Derrek: if he posts, health recovers 3-5 points on that alone. ROSTER on this chat: Spencer P = customs/uploads (active); Jeremy Tarr = AM (silent); Noah (Nate (Noah)) = PPV/chargebacks (back 10/22); Melissa Userfacing = reports/calls; Mayson = links/.vip/DMCA comms; Stephski = invoicing; Mica = reel inspo; Ronnie/Aroosha/Michelle/Vivek/Derrek silent. Antonio Veritrade = system test account (10/21). Reference data (no credentials): IG @hcoxofficial (main), @hcoxbackup, @itshaleighcox; site haleighcox.net; .vip domains haleighsworld.vip (on main since 10/11) / haleighlive.vip / haleigh.vip / haleighworld.vip; Spencer customs sheet (Google Sheets, 10/16); reports are files (10/9, 10/16). Wire account name since 9/15 'ALTR Management LLC'. Handles: Vivek @fonta, Mayson @mmayson, Noah @natehei, Stephski @stephskiii. SECURITY: no credentials posted 10/16-10/30. Client posted a wire-confirmation screenshot 10/21 (msg id 891; photo, contents not visible; may show bank details). Spencer's 10/25 message contains a fan's OF user ID and first name - do not copy into published files. Historical: personal phone numbers (hers 6/12 + 6/17; Michelle's 6/17; Ronnie's 7/6), her personal Snapchat handle (9/25), and a backup code posted by Sophie Logan 2025-08-26 exist in the chat - never copy them into outputs."
+}

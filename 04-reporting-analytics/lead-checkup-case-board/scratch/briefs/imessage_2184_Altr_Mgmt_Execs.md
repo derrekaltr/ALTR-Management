@@ -1,0 +1,41 @@
+# Altr Mgmt | Execs  [imessage #2184 GROUP]
+msgs=33 (in=31 out=2) window=2026-05-26..2026-05-28
+last_client=2026-05-28 (113d ago), last_derrek=2026-05-26 (115d ago)
+LAST MESSAGE FROM CLIENT — UNANSWERED: 'This should help clean up the invoicing to keep it native the current banking'
+
+  ...
+[2026-05-26 17:55] Eric The Efficient: Was this sent?
+[2026-05-26 18:33] DEREK: Yo
+[2026-05-26 19:13] Alex Camus: Yo
+[2026-05-26 19:13] Alex Camus: Sending that now
+[2026-05-26 19:14] Alex Camus: Need their ach
+[2026-05-26 19:14] Alex Camus: Or wire info please
+[2026-05-26 19:15] Eric The Efficient: ￼￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/b6/06/at_0_2C36E45E-07D8-431C-ABD6-7C0C72102386/Image-1.jpeg>
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/b7/07/at_1_2C36E45E-07D8-431C-ABD6-7C0C72102386/Image-2.jpeg>
+[2026-05-26 19:16] Alex Camus: Liked an image
+[2026-05-26 19:16] Alex Camus: Liked an image
+[2026-05-26 19:17] Alex Camus: Email for them
+[2026-05-26 19:23] Eric The Efficient: I’ll ask, probably the one that sent you the original invoice
+[2026-05-26 19:25] Alex Camus: hjdez2022@gmail.com
+[2026-05-26 19:43] DEREK: Liked “hjdez2022@gmail.com”
+[2026-05-27 17:15] Eric The Efficient: Sebastian where do i put in who the referral is in the CRM?
+[2026-05-27 17:50] Seb AI: At what point in the process do you want it to be ?
+[2026-05-27 17:56] Eric The Efficient: When i put in the % i feel like that would make the most sense Obviously the client can’t see this just something on our end to keep trCk
+[2026-05-27 17:57] Eric The Efficient: Track
+[2026-05-27 17:57] Seb AI: Yes of course
+[2026-05-27 17:58] Seb AI: Ok I can add it in that section is it supposed to do anything else with that referral?
+[2026-05-27 18:00] Eric The Efficient: I’m not sure how you guys want to have that on our side Just so you understand Vale brought in this client so i believe she get’s a 2.5% referral for her So just needs to be down somewhere, but idk how we are doing referral payments for current clients - Alex …
+[2026-05-27 18:00] Eric The Efficient: ^ this would obviously change the approach of how we need it to be in the CRM
+[2026-05-27 18:20] Alex Camus: This is super important
+[2026-05-27 18:20] Alex Camus: And needs to in he crm
+[2026-05-27 18:20] Alex Camus: Absolutely!!!
+[2026-05-27 18:21] Alex Camus: Referral payments are not organized right now and manual
+[2026-05-27 18:21] Alex Camus: This needs to be correct immedietly
+[2026-05-28 11:43] Eric The Efficient: Sebastian can we meet today on CRM?
+[2026-05-28 11:44] Alex Camus: Yes
+[2026-05-28 11:44] Eric The Efficient: If you can do like 2pm i’ll have 2 hours to help clean up everything
+[2026-05-28 11:44] Seb AI: Good morning will let you know what time currently at airport heading to DR don’t know when I will have WiFi but yes I can meet today
+[2026-05-28 11:45] Eric The Efficient: Sounds good safe travels
+[2026-05-28 11:45] Seb AI: Thank you sir! FYI currently working on migration of stripe system to Mercury
+[2026-05-28 11:45] Seb AI: This should help clean up the invoicing to keep it native the current banking

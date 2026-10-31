@@ -1,0 +1,323 @@
+{
+  "client": "Vale",
+  "slug": "vale-x-altr",
+  "as_of": "2026-10-30",
+  "window_covered": "2026-10-16T09:06:40-04:00 to 2026-10-30T09:05:30-04:00 (TWO-WEEK window; no 10/23 run). 50 real messages (ids 999-1058): 25 client, 25 team-side (ALTR staff 23: Melissa 8, Mica 8, Mayson 5, Vivek 1, Ollie 1, Stephski 0, Derrek 0; IG farm vendor 'Theta SDX' 2). 6 Antonio Veritrade test messages (ids 1023-1028) and 3 service events excluded. Last message id 1058 (Oct 25 20:33, Vale).",
+  "credential_policy": "Passwords posted in this chat (ids 10, 898, 903, 908, and NOW 1011 on Oct 17) must NEVER be copied into findings or state. Use [REDACTED] or describe them. Id 1011 was compared programmatically to id 908: SAME password, i.e. never rotated since Sep 23. The PUBLISHED data/weeks/2026-09-25/vale-x-altr.json contained them verbatim; confirm it was scrubbed. Vale's phone number (id 397) and email (id 152) are PII; don't quote them either. The 10-30 findings file contains no secret.",
+  "open_complaints": [
+    {
+      "issue": "Live IG password posted in the group AGAIN on Oct 17 (id 1011) at Vivek's 'Share login' (asked 1 minute after Vale posted two uncaptioned screenshots, ids 1008/1009). Identical to the Sep 23 password (id 908): no rotation in 38 days. OF password from Mar 23 (id 10) also still there. Vivek posted nothing after receiving it. Next day (Oct 18) an unintroduced member was added and 'Theta SDX' (unconfirmed IG-farm vendor) started posting. 'Should I change my password?' (Jul 28) 94 days unanswered. NEXT RUN: rotated? ids deleted? did Vivek explain the screenshots? any further 'share login' asks?",
+      "first_raised": "2026-09-22",
+      "days_outstanding": 38,
+      "owner": "Vivek",
+      "escalate_to": "Derrek",
+      "status": "recurring",
+      "severity": "critical"
+    },
+    {
+      "issue": "NEW Oct 18: 'Theta SDX' (IG farm vendor, unconfirmed) added to the client group with no introduction; reports running her backup IG (200 -> 1,752) and took her profile-photo request ('Cause that one looks really ai' / 'of course. we will'). Vale was never told this is an outside party; the chat holds her credentials. NEXT RUN: introduced or removed? profile photo changed? more growth posts?",
+      "first_raised": "2026-10-18",
+      "days_outstanding": 12,
+      "owner": "Mayson / Vivek",
+      "escalate_to": "Derrek",
+      "status": "new",
+      "severity": "high"
+    },
+    {
+      "issue": "NEW Oct 25: family emergency unanswered. 20:33 in OnlyFans topic: 'I’m heading to Louisiana to see my grandma at the hospital' / 'She’s dying' / 'if I post anything just a head up so my fans know what I’m up to'. Zero ALTR replies in 4.5 days to window close. NEXT RUN: who replied, when; did anyone confirm chatters were told; did Derrek say anything.",
+      "first_raised": "2026-10-25",
+      "days_outstanding": 4,
+      "owner": "Ollie Mckinlay",
+      "escalate_to": "Mayson",
+      "status": "new",
+      "severity": "high"
+    },
+    {
+      "issue": "Weekly earnings+DMCA report: Mayson promised 'every Friday' (Oct 16); sent Oct 16, MISSED Oct 23, not yet sent at 09:05 Oct 30. Oct 13 leak complaint ('Valebragg gets leaks too') unanswered 17 days; Valebragg coverage asked Aug 30 (61 days). NEXT RUN: Oct 30 report sent? Valebragg hits shown? written confirmation of coverage?",
+      "first_raised": "2026-10-13",
+      "days_outstanding": 17,
+      "owner": "Melissa",
+      "status": "recurring",
+      "severity": "medium"
+    },
+    {
+      "issue": "IG link: PROBABLY FIXED but unconfirmed in writing. xli.ink direct link Oct 15; 'the link is good to put on my bio ?' -> 'Yeah as of right now it is!' (Oct 16); Twitch added ('Done !'); zero chases in 14 days after seven in three weeks. 'Losing money :(' (Oct 15) never answered with a number. Highlights question (Oct 5, Oct 15) still unanswered. NEXT RUN: any new flag/restriction? any chase? if silent again, close as resolved.",
+      "first_raised": "2026-09-27",
+      "days_outstanding": 33,
+      "owner": "Mayson",
+      "status": "in_progress",
+      "severity": "medium",
+      "client_chases": ["2026-10-01", "2026-10-02", "2026-10-05", "2026-10-08", "2026-10-10", "2026-10-12", "2026-10-15", "2026-10-16"]
+    },
+    {
+      "issue": "About $5,300 of paid fan work undelivered or unconfirmed; TEN consecutive reports with zero mentions. John $2,000 custom + $200 ASAP fee, delivered by Vale Aug 22, unconfirmed (69d). Reconciliation unstarted (73d; fan u490240243). Ryan $600 (Jun 6, 146d). John $1,800 VC (May 1, 182d). Tyler $700 JOI (Apr 5, 208d). 1:1 lives ($400 @u541145178; $600 @tothemaxxy): 82d past 'this week'. Ollie: one message in 25 days (Halloween ask Oct 19), dropped her reply.",
+      "first_raised": "2026-05-22",
+      "days_outstanding": 161,
+      "owner": "Ollie Mckinlay",
+      "escalate_to": "Derrek",
+      "status": "recurring",
+      "severity": "high"
+    },
+    {
+      "issue": "IG reach collapsed 200k+ -> under 3k (Aug 31). Hook-test readout never delivered (60d). Under-18 flag never escalated. Vale finally replied to the reel requests Oct 20 ('Does it matter if it’s been used before ?'); Melissa misread it, posted+deleted a reply (id 1029 gap), Mica never answered (10d). Backup-account growth reported by the vendor, not Mica.",
+      "first_raised": "2026-08-31",
+      "days_outstanding": 60,
+      "owner": "Mica Vecco",
+      "status": "recurring",
+      "severity": "high"
+    },
+    {
+      "issue": "OF alert screenshots since Aug 29 unexplained (62d); Sep 17-18 photos unacknowledged (43d); Oct 17 screenshots (ids 1008/1009) drew only 'Share login', no explanation.",
+      "first_raised": "2026-08-29",
+      "days_outstanding": 62,
+      "owner": "Ollie Mckinlay",
+      "status": "recurring",
+      "severity": "medium"
+    },
+    {
+      "issue": "Fan-trust and boundary breaches (5 incidents Jul 17 - Aug 11). Clean streak 80 days. Still no written rulebook (79d), age-language rule, PPV private-live confirmation, or girl-girl purge confirmation (89d).",
+      "first_raised": "2026-07-17",
+      "last_confirmed_incident": "2026-08-11",
+      "days_since_last_incident": 80,
+      "days_outstanding": 105,
+      "owner": "Ollie Mckinlay",
+      "status": "recurring",
+      "severity": "medium"
+    },
+    {
+      "issue": "Payments not reconciled by amount: Aug 17 (74d), Sep 5 (55d), Sep 16 (44d), Oct 2 (28d). 'bounce backs' unexplained (45d). NEW: Oct 15 invoice has NO payment or receipt message in chat at all (first time ever).",
+      "first_raised": "2026-09-15",
+      "days_outstanding": 74,
+      "owner": "Stephski",
+      "status": "recurring",
+      "severity": "medium"
+    },
+    {
+      "issue": "Access and info asks never closed: Snapchat 'What’s its for ?' (Sep 10, 50d); Facebook (Sep 16, 44d); sexting template (Jul 28, 94d); fan notes (Aug 7, 84d); intake form 'Doing it now' (Oct 1, 29d); highlights (Oct 5/15, 25d); NEW reused-reels question (Oct 20, 10d).",
+      "first_raised": "2026-08-07",
+      "days_outstanding": 84,
+      "owner": "Mayson",
+      "status": "recurring",
+      "severity": "medium"
+    },
+    {
+      "issue": "CHURN WATCH, moderate. Signal 1 APPROACHING: Derrek silent 25d (last Oct 5; 30-day mark Nov 4). Signal 2 PARTIAL: 'Losing money :(' never answered with numbers; only call offer since is Melissa's agenda-less Oct 22 one (unanswered by Vale). Signal 3 PRESENT: link safety never confirmed in writing (33d), hook test 60d, John custom 69d, strategy call 109d, Aug 1 infra updates 90d. Signal 4 ABSENT: 0/23 staff messages billing. Asks ~3/week steady, zero chases, warm tone, shared family emergency. No exit language, exports, logins-back, other agencies, or cross-client comparisons this window. Risk is now ALTR-inflicted (ignored grandmother message, re-exposed password, missed report). NEXT RUN: did anyone answer Oct 25? Derrek by Nov 4? Oct 15 paid? asks after bereavement (a drop would be grief, not churn; read carefully).",
+      "first_raised": "2026-09-22",
+      "days_outstanding": 38,
+      "owner": "Mayson",
+      "escalate_to": "Derrek",
+      "status": "recurring",
+      "severity": "high"
+    }
+  ],
+  "resolved_last_window": [
+    {
+      "issue": "Shoot-allowance confusion: Mica announced 1 covered shoot per quarter (Oct 21), Vale asked four times what it meant for Zeus trial reels, Mica reversed to 1 per month (Oct 25). Vale: 'Okay baby thank You'.",
+      "resolved": "2026-10-25",
+      "owner": "Mica Vecco",
+      "evidence": "hi love! you can do 1 shoot per month"
+    },
+    {
+      "issue": "Twitch link added to her link page within 29 minutes of the ask (Oct 16).",
+      "resolved": "2026-10-16",
+      "owner": "Mayson",
+      "evidence": "Done !"
+    },
+    {
+      "issue": "Repost-network reel: promised for Oct 20 across 23 accounts, confirmed live Oct 21.",
+      "resolved": "2026-10-21",
+      "owner": "Melissa",
+      "evidence": "Also, your reel is now live across all 23 accounts🫶🏽"
+    }
+  ],
+  "open_commitments": [
+    {"what": "Acknowledge the Oct 25 family-emergency message; confirm chatters told", "who": "Ollie Mckinlay", "date": "2026-10-25", "deadline": "2026-10-26", "days_outstanding": 4, "status": "overdue", "escalate_to": "Mayson"},
+    {"what": "Rotate IG password privately; delete ids 10/898/903/908/1011; answer 'Should I change my password?'. CONFIRMED NOT DONE (Oct 17 password = Sep 23)", "who": "Vivek", "date": "2026-09-23", "deadline": "2026-09-26", "days_outstanding": 37, "status": "overdue", "escalate_to": "Derrek"},
+    {"what": "Explain the Oct 17 screenshots and what was done with the login he requested", "who": "Vivek", "date": "2026-10-17", "deadline": "2026-10-18", "days_outstanding": 13, "status": "overdue"},
+    {"what": "Introduce 'Theta SDX' to Vale (who/what/access) or remove them", "who": "Mayson / Vivek", "date": "2026-10-18", "deadline": "2026-10-19", "days_outstanding": 12, "status": "overdue", "escalate_to": "Derrek"},
+    {"what": "Change backup account's AI-looking profile photo ('of course. we will')", "who": "IG farm vendor", "date": "2026-10-20", "deadline": "2026-10-22", "days_outstanding": 10, "status": "overdue"},
+    {"what": "Weekly earnings+DMCA report every Friday (Oct 23 missed; Oct 30 pending at close)", "who": "Melissa", "date": "2026-10-16", "deadline": "2026-10-23", "days_outstanding": 7, "status": "overdue"},
+    {"what": "Call offered Oct 22 with no agenda; Vale has not replied. Strategy cadence dead since Jul 13 (109d)", "who": "Melissa / Mayson", "date": "2026-10-22", "deadline": "2026-10-29", "days_outstanding": 8, "status": "pending"},
+    {"what": "Answer 'Does it matter if it’s been used before ?' (reels for the drive)", "who": "Mica Vecco", "date": "2026-10-20", "deadline": "2026-10-21", "days_outstanding": 10, "status": "overdue"},
+    {"what": "Follow up Vale's Amazon/Halloween reply (Oct 20)", "who": "Ollie Mckinlay", "date": "2026-10-19", "deadline": "2026-10-21", "days_outstanding": 10, "status": "overdue"},
+    {"what": "Standing: set up and log Zeus shoots on request; allowance 1/month", "who": "Mica Vecco", "date": "2026-10-21", "deadline": null, "days_outstanding": 0, "status": "pending"},
+    {"what": "Written confirmation the direct link is live in bio and tested safe; answer highlights question", "who": "Mayson", "date": "2026-10-02", "deadline": "2026-10-04", "days_outstanding": 28, "status": "overdue", "note": "Functionally probably delivered Oct 15-16; close on next silent window."},
+    {"what": "Link 'by tomorrow' (Oct 15); never confirmed by Vivek", "who": "Vivek", "date": "2026-09-27", "deadline": "2026-10-16", "days_outstanding": 33, "status": "overdue"},
+    {"what": "Follow up Oct 13 leak complaint ('Let me forward this!!'); confirm Valebragg in sweep", "who": "Mayson", "date": "2026-10-13", "deadline": "2026-10-15", "days_outstanding": 17, "status": "overdue"},
+    {"what": "Confirm 'Valebragg' permanently in the leak sweep", "who": "Melissa", "date": "2026-08-30", "deadline": "2026-10-09", "days_outstanding": 61, "status": "overdue"},
+    {"what": "Acknowledge Vale's intake form ('Doing it now', Oct 1)", "who": "Melissa", "date": "2026-10-01", "deadline": "2026-10-03", "days_outstanding": 29, "status": "overdue"},
+    {"what": "Route the Aug 3 management referral (@ofwizz)", "who": "Vivek", "date": "2026-08-03", "deadline": "2026-08-04", "days_outstanding": 88, "status": "overdue"},
+    {"what": "Confirm Oct 15 invoice paid; confirm Aug 17 / Sep 5 / Sep 16 / Oct 2 deposits by amount; explain 'bounce backs'", "who": "Stephski", "date": "2026-08-17", "deadline": "2026-10-22", "days_outstanding": 74, "status": "overdue"},
+    {"what": "Pre-invoice OF-withdrawal reminder Oct 30 for Nov 1 invoice (not sent by 09:05)", "who": "Stephski", "date": "2026-10-16", "deadline": "2026-10-30", "days_outstanding": 0, "status": "pending"},
+    {"what": "Confirm John's $2,000 custom + $200 ASAP fee reached the fan", "who": "Ollie Mckinlay", "date": "2026-08-22", "deadline": "2026-08-22", "days_outstanding": 69, "status": "overdue", "escalate_to": "Derrek"},
+    {"what": "March-to-date reconciliation of customs/calls/lives vs OF records (John u490240243)", "who": "Ollie Mckinlay", "date": "2026-08-18", "deadline": "2026-08-18", "days_outstanding": 73, "status": "overdue"},
+    {"what": "Written account rulebook incl. age-language clause; confirm private-live recordings pulled from PPV", "who": "Ollie Mckinlay", "date": "2026-08-12", "deadline": "2026-08-12", "days_outstanding": 79, "status": "overdue"},
+    {"what": "Reply to Sep 17-18 photos (886/887/888/890) and Oct 17 screenshots (1008/1009)", "who": "Ollie Mckinlay", "date": "2026-09-17", "deadline": "2026-09-18", "days_outstanding": 43, "status": "overdue"},
+    {"what": "Identify the recurring OF alerts and explain them", "who": "Ollie Mckinlay", "date": "2026-08-29", "deadline": "2026-08-30", "days_outstanding": 62, "status": "overdue"},
+    {"what": "Confirm girl-girl videos purged from vault", "who": "Ollie Mckinlay", "date": "2026-08-02", "deadline": "2026-08-02", "days_outstanding": 89, "status": "overdue"},
+    {"what": "Schedule 1:1 lives ($400 @u541145178, $600 @tothemaxxy) + Tyler's $700 custom", "who": "Ollie Mckinlay", "date": "2026-08-09", "deadline": "2026-08-16", "days_outstanding": 75, "status": "overdue"},
+    {"what": "Ryan's $600 videocall (sold Jun 6)", "who": "Ollie Mckinlay", "date": "2026-08-08", "deadline": "2026-08-11", "days_outstanding": 80, "status": "overdue"},
+    {"what": "John's $1,800 videocall (logged May 1)", "who": "Ollie Mckinlay", "date": "2026-08-03", "deadline": "2026-08-07", "days_outstanding": 84, "status": "overdue"},
+    {"what": "Sexting-set template + content request; Infloww follow-up", "who": "Ollie Mckinlay", "date": "2026-07-28", "deadline": "2026-07-29", "days_outstanding": 93, "status": "overdue"},
+    {"what": "Answer the Aug 7 fan-notes request", "who": "Ollie Mckinlay", "date": "2026-08-07", "deadline": "2026-08-08", "days_outstanding": 84, "status": "overdue"},
+    {"what": "Hook-test readout + reach numbers + link to restriction, age flag, bio link", "who": "Mica Vecco", "date": "2026-08-31", "deadline": "2026-09-04", "days_outstanding": 60, "status": "overdue"},
+    {"what": "Strategy call with a real date/time/link (none since Jul 13)", "who": "Mayson", "date": "2026-07-13", "deadline": "2026-07-27", "days_outstanding": 109, "status": "overdue"},
+    {"what": "Answer Snapchat (Sep 10), Facebook (Sep 16), highlights (Oct 5/15)", "who": "Mayson", "date": "2026-09-10", "deadline": "2026-09-17", "days_outstanding": 50, "status": "overdue"}
+  ],
+  "broken_commitments": [
+    {"what": "Weekly earnings+DMCA report 'every Friday' (promised Oct 16) missed Oct 23", "who": "Melissa", "promised": "2026-10-16", "broken": "2026-10-23"},
+    {"what": "Rotate the IG password (Sep 23 commitment): confirmed not done, same password re-posted Oct 17", "who": "Vivek", "promised": "2026-09-23", "broken": "2026-10-17"},
+    {"what": "Shoot policy: '1 per quarter' (Oct 21) reversed to '1 per month' (Oct 25); not broken against the client, but an announced policy that did not survive four days", "who": "Mica Vecco", "promised": "2026-10-21", "broken": "2026-10-25"}
+  ],
+  "completed_recently": [
+    {"what": "Twitch link added ('Done !')", "who": "Mayson", "date": "2026-10-16"},
+    {"what": "Consolidated earnings + performance + DMCA report (id 1000-1001)", "who": "Melissa", "date": "2026-10-16"},
+    {"what": "DMCA-format change announced in advance", "who": "Mayson", "date": "2026-10-16"},
+    {"what": "Repost-network reel live on 23 accounts as promised", "who": "Melissa", "date": "2026-10-21"},
+    {"what": "Test-message heads-up to client", "who": "Mayson", "date": "2026-10-21"},
+    {"what": "Shoot allowance clarified and improved to 1/month", "who": "Mica Vecco", "date": "2026-10-25"},
+    {"what": "Backup IG growth 200 -> 1,752 reported", "who": "IG farm vendor", "date": "2026-10-18"}
+  ],
+  "payment_history": [
+    {"date": "2026-04-01", "invoice_period": "2026-03-24 to 2026-03-31", "paid": "2026-04-06 or earlier", "late": false, "receipt_confirmed": true},
+    {"date": "2026-04-15", "invoice_period": "2026-04-01 to 2026-04-15", "paid": "2026-04-16", "late": false, "receipt_confirmed": true, "note": "BANKING CHANGE 1"},
+    {"date": "2026-05-01", "invoice_period": "2026-04-15 to 2026-04-30", "paid": "on time", "late": false, "receipt_confirmed": true},
+    {"date": "2026-06-01", "invoice_period": "2026-05-15 to 2026-05-31", "paid": "2026-06-03 or earlier", "late": false, "receipt_confirmed": true},
+    {"date": "2026-06-15", "invoice_period": "2026-06-01 to 2026-06-14", "paid": "on time", "late": false, "receipt_confirmed": true, "note": "BANKING CHANGE 2 (Mercury)"},
+    {"date": "2026-07-01", "invoice_period": "2026-06-15 to 2026-06-30", "paid": "2026-07-06", "late": false, "receipt_confirmed": true, "note": "BANKING CHANGE 3 (BofA); Zelle/ACH failures she troubleshot herself"},
+    {"date": "2026-07-15", "invoice_period": "2026-07-01 to 2026-07-14", "paid": "2026-07-21", "late": false, "receipt_confirmed": true},
+    {"date": "2026-08-01", "invoice_period": "2026-07-15 to 2026-07-31", "paid": "2026-08-04 or earlier", "late": false, "receipt_confirmed": true, "note": "$5,720 referral credit"},
+    {"date": "2026-08-15", "invoice_period": "2026-08-01 to 2026-08-14", "paid": "2026-08-17", "late": false, "receipt_unconfirmed": true, "days_unconfirmed": 74, "note": "BANKING CHANGE 4 (account number). Withdrawal reminder sent Aug 14."},
+    {"date": "2026-09-01", "invoice_period": "2026-08-15 to 2026-08-31", "paid": "2026-09-05 or earlier", "late": false, "receipt_unconfirmed": true, "days_unconfirmed": 55, "note": "No withdrawal reminder; nudge day 4."},
+    {"date": "2026-09-15", "invoice_period": "2026-09-01 to 2026-09-14", "paid": "2026-09-16", "late": false, "receipt_unconfirmed": true, "days_unconfirmed": 44, "note": "BANKING CHANGE 5 (account name; 'bounce backs' line). Withdrawal reminder sent Sep 14; paid in 1 day."},
+    {"date": "2026-10-01", "invoice_period": "2026-09-15 to 2026-09-30", "sent": "2026-10-01T15:05", "due": "2026-10-08", "paid": "2026-10-02", "days_to_pay": 1, "late": false, "receipt_unconfirmed": true, "days_unconfirmed": 28, "acknowledged": "2026-10-03 ('Perfect thank you love ❤️', amount not stated)", "asks_with_payment": ["I don’t have anything on my bio"], "note": "Withdrawal reminder MISSED. Fast, but came WITH an ask."},
+    {"date": "2026-10-15", "invoice_period": "2026-10-01 to 2026-10-14", "reminder_sent": "2026-10-13T11:48", "sent": "2026-10-15T13:45", "due": "2026-10-22", "paid": null, "late": null, "upcoming": false, "payment_evidence_in_chat": false, "note": "Sent on schedule (ids 996-997). NO payment message from Vale and NO receipt message from Stephski through Oct 30 09:05 — first cycle ever with zero trace. Stephski posted nothing in 14 days. Either paid silently off-chat or 8 days past due unnoticed. NEXT RUN: resolve this first; if she paid silently with zero asks, that is the churn tell, but weigh it against the bereavement."},
+    {"date": "2026-11-01", "invoice_period": "2026-10-15 to 2026-10-31", "sent": null, "due": "2026-11-08", "paid": null, "late": false, "upcoming": true, "note": "Withdrawal reminder due ~Oct 30; not sent by 09:05 Oct 30."}
+  ],
+  "payment_risk": {
+    "client_side": "Low-to-unknown. 12-for-12 on time through Oct 2; the Oct 15 invoice is the first with no payment evidence in chat. She is travelling for a family emergency from Oct 25, so a late Nov 1 payment would be explainable; do not read it as a dispute.",
+    "altr_side": "Five deposits now unconfirmed by amount (74/55/44/28 days + Oct 15 unknown); 'bounce backs' unexplained 45 days; billing person silent for the whole window and the Oct 30 reminder not yet sent.",
+    "chargeback_exposure": "~$5,300 (John $2,200 unconfirmed; Ryan $600, John VC $1,800, Tyler $700 undelivered), plus $1,000 in unscheduled 1:1 lives. Ten reports unchanged."
+  },
+  "client_priorities": [
+    "A working, safe link on her main IG, with Twitch on it ('is it possible to add my twitch link ?', 'the link is good to put on my bio ?')",
+    "Stepping away for family without the account suffering: 'if I post anything just a head up so my fans know what I’m up to' (Oct 25)",
+    "Knowing what ALTR covers: shoots, trial reels, Zeus; whether reused reels are OK",
+    "A backup account that looks real ('Cause that one looks really ai')",
+    "Understanding the repost network ('How does it work ?', 'Brings traffic to my page ?')",
+    "Leak removal that covers 'Valebragg' ('You guys need better leak removal', Oct 13)",
+    "Account safety: afraid of another flag; password now posted twice at ALTR's request",
+    "Instagram reach and follower growth (200k+ to under 3k; under-18 flag)",
+    "Fan authenticity: no scamming, no reselling private lives/calls",
+    "Timely delivery of paid customs, calls and lives (stopped chasing Aug 9)",
+    "Halloween content ('ordering a couple things from Amazon')",
+    "Price minimums and content boundaries (no B/G; girl-girl limited to Mia Sorety; protect Shayna); avoiding chargebacks"
+  ],
+  "client_asks": {
+    "definition": "Distinct requests/questions Vale raised in-window (chases of the same item are not counted again).",
+    "history": [
+      {"week_ending": "2026-09-11", "client_asks": 5, "note": "two-week window; estimated retroactively"},
+      {"week_ending": "2026-09-18", "client_asks": 1, "note": "estimated retroactively"},
+      {"week_ending": "2026-09-25", "client_asks": 2, "note": "estimated retroactively"},
+      {"week_ending": "2026-10-09", "client_asks": 4, "chases": 3, "note": "two-week window; all about the IG link."},
+      {"week_ending": "2026-10-16", "client_asks": 3, "chases": 2, "note": "'Hi, is the link good ?'; better leak removal / Valebragg; highlights. Chases: 'No link still ? :(', 'I haven’t had a link up in like a month'."},
+      {"week_ending": "2026-10-30", "client_asks": 6, "chases": 0, "note": "TWO-WEEK window (~3/week). Add Twitch link (Oct 16, done); is the link good for bio (Oct 16, hedged yes); does reused content matter (Oct 20, UNANSWERED); change backup profile photo (Oct 20, vendor 'we will'); how does repost network work (Oct 21, 'Yes!!'); shoot/Zeus coverage (Oct 21, answered then reversed Oct 25). Plus one personal notice Oct 25 (grandmother; heads-up to fans) UNANSWERED. Zero chases: first window without one since September. Topics widened from link-only to Twitch, content, shoots, backup account, repost network."}
+    ],
+    "topic_narrowing": "Reversed this window: topics broadened away from link survival. Last OF-operations ask (customs/calls/lives): Aug 9 (82d). Last payment question: Jul 6. Last results/strategy statement: 'Losing money :(' (Oct 15), never answered with numbers.",
+    "watch": "Next window she is likely with family in Louisiana; a drop in asks would be grief, not churn. Read tone and whether ALTR reached out, not count. Alarm remains: zero asks + silent fast payment + no reaction to outreach."
+  },
+  "health_history": [
+    {"week_ending": "2026-08-08", "score": 70, "trend": "down"},
+    {"week_ending": "2026-08-14", "score": 62, "trend": "down"},
+    {"week_ending": "2026-08-21", "score": 60, "trend": "down"},
+    {"week_ending": "2026-08-28", "score": 48, "trend": "down"},
+    {"week_ending": "2026-09-04", "score": 52, "trend": "up", "note": "unpublished"},
+    {"week_ending": "2026-09-11", "score": 47, "trend": "down"},
+    {"week_ending": "2026-09-18", "score": 45, "trend": "down"},
+    {"week_ending": "2026-09-25", "score": 38, "trend": "down"},
+    {"week_ending": "2026-10-02", "score": 40, "trend": "flat", "note": "unpublished (run died); absorbed into 10-09"},
+    {"week_ending": "2026-10-09", "score": 41, "trend": "flat"},
+    {"week_ending": "2026-10-16", "score": 36, "trend": "down", "rationale": "Two more link fixes failed; ~23 days no link; 'Losing money :('; cross-client comparison; new leak complaint; Ollie absent; password 24d."},
+    {"week_ending": "2026-10-30", "score": 38, "trend": "up", "rationale": "Two-week window. +: link apparently fixed (zero chases in 14d, Twitch added, 'as of right now it is'); asks steady ~3/wk and broadened; repost network delivered; warm tone; shared family emergency. -: IG password re-posted Oct 17 at Vivek's ask, same as Sep 23 (never rotated); unconfirmed vendor added to the group next day; 'She’s dying' unanswered 4.5d; weekly report missed Oct 23; shoot policy cut then reversed; Ollie backlog 10th report; Derrek 25d silent; Oct 15 payment unverifiable in chat."}
+  ],
+  "week_stats_history": [
+    {"week_ending": "2026-08-08", "messages": 74, "client_messages": 37, "team_messages": 37},
+    {"week_ending": "2026-08-14", "messages": 30, "client_messages": 18, "team_messages": 12},
+    {"week_ending": "2026-08-21", "messages": 24, "client_messages": 11, "team_messages": 13},
+    {"week_ending": "2026-08-28", "messages": 4, "client_messages": 3, "team_messages": 1},
+    {"week_ending": "2026-09-04", "messages": 42, "client_messages": 28, "team_messages": 14, "note": "unpublished"},
+    {"week_ending": "2026-09-11", "messages": 74, "client_messages": 41, "team_messages": 32, "note": "two-week window"},
+    {"week_ending": "2026-09-18", "messages": 39, "client_messages": 22, "team_messages": 17},
+    {"week_ending": "2026-09-25", "messages": 26, "client_messages": 16, "team_messages": 10},
+    {"week_ending": "2026-10-09", "messages": 57, "client_messages": 28, "team_messages": 29, "client_asks": 4, "note": "two-week window", "team_breakdown": {"Vivek": 6, "Mayson": 6, "Melissa": 4, "Stephski": 4, "Derrek": 4, "Ollie Mckinlay": 3, "Mica Vecco": 2}},
+    {"week_ending": "2026-10-16", "messages": 25, "client_messages": 9, "team_messages": 16, "client_asks": 3, "billing_share_of_team": "3/16", "team_breakdown": {"Mayson": 6, "Melissa": 3, "Vivek": 3, "Stephski": 3, "Mica Vecco": 1, "Ollie Mckinlay": 0, "Derrek": 0}},
+    {"week_ending": "2026-10-30", "messages": 50, "client_messages": 25, "team_messages": 25, "client_asks": 6, "service_events": 3, "test_messages_excluded": 6, "billing_share_of_team": "0/23", "note": "two-week window; team 25 = staff 23 + IG farm vendor 2", "team_breakdown": {"Melissa": 8, "Mica Vecco": 8, "Mayson": 5, "Theta SDX (IG farm vendor)": 2, "Vivek": 1, "Ollie Mckinlay": 1, "Stephski": 0, "Derrek": 0}}
+  ],
+  "engagement_trend": [
+    {"week_ending": "2026-10-09", "client_messages_per_week": 14, "note": "two-week window; link-chasing"},
+    {"week_ending": "2026-10-16", "client_messages_per_week": 9, "note": "link-chasing, frustrated"},
+    {"week_ending": "2026-10-30", "client_messages_per_week": 12.5, "note": "two-week window; broad topics, warm, zero chases; last message Oct 25 (family emergency), then silent 4.5d with no ALTR outreach"}
+  ],
+  "churn_watch": {
+    "level": "moderate",
+    "signal_1_owner_silent_30d": "APPROACHING. Derrek last Oct 5 = 25 days at Oct 30. 30-day mark Nov 4.",
+    "signal_2_revenue_q_answered_with_call": "PARTIAL. 'Losing money :(' (Oct 15) got a link that night but never a written number; Melissa's Oct 22 call offer had no agenda and no reply.",
+    "signal_3_long_promise_no_proof": "PRESENT. Link safety never confirmed in writing (33d); hook test 60d; John's custom 69d; strategy call 109d; Aug 1 IG infra updates 90d.",
+    "signal_4_mostly_billing": "ABSENT. 0/23 staff messages were billing (Stephski silent).",
+    "asks": "6 distinct in two weeks (~3/wk), zero chases, topics broadened. Not trending to zero.",
+    "exit_language": "None. No exports, logins-back, other agencies, going solo, or cross-client comparisons this window.",
+    "new_risk": "ALTR-inflicted: 'She’s dying' unanswered 4.5d; password re-exposed and vendor added; report missed. These are the kind of things clients remember when a competitor calls.",
+    "next_run": "Did anyone answer Oct 25, and how fast? Derrek by Nov 4? Oct 15 paid (silent fast pay = tell, but discount for bereavement)? Any ask at all after Oct 25?"
+  },
+  "altr_silence_tracker": {
+    "as_of": "2026-10-30T09:05:30-04:00",
+    "Mayson": {"last": "2026-10-21", "days_silent": 9, "note": "test-message heads-up; owes link-safety sentence, highlights, leak follow-up, Theta intro"},
+    "Melissa": {"last": "2026-10-22", "days_silent": 8, "note": "call offer; missed Oct 23 report; Oct 30 report pending"},
+    "Mica Vecco": {"last": "2026-10-25", "days_silent": 5, "note": "shoot policy reversal; owes reused-reels answer, hook test"},
+    "Vivek": {"last": "2026-10-17", "days_silent": 13, "note": "'Share login' only; owes rotation, explanation, referral"},
+    "Ollie Mckinlay": {"last": "2026-10-19", "days_silent": 11, "note": "Halloween ask; dropped her reply; grandmother message unanswered in his topic; backlog 10 reports"},
+    "Stephski": {"last": "2026-10-15", "days_silent": 15, "note": "zero in-window; Oct 15 payment unconfirmed; Oct 30 reminder not sent"},
+    "Derrek": {"last": "2026-10-05", "days_silent": 25, "note": "30-day mark Nov 4"},
+    "Michelle": {"last": "2026-09-08", "days_silent": 52},
+    "IG farm vendor (Theta SDX)": {"last": "2026-10-20", "days_silent": 10, "note": "owes profile-photo change"},
+    "Vale_unanswered_by_her": "Melissa's Oct 22 call offer; Mica's reel requests (answered with a question Oct 20); Melissa's Oct 16 earnings report (no reaction)",
+    "Vale_unanswered_by_ALTR": "Oct 25 grandmother message (4.5d); Oct 20 'Does it matter if it’s been used before ?' (10d); Oct 20 Amazon/Halloween reply (10d); Oct 17 screenshots (13d); highlights (25d)"
+  },
+  "key_ids_and_links": {
+    "Exposed credentials (DO NOT COPY)": "ids 898, 903, 908 (IG @valebragg, Sep 23), 1011 (IG, Oct 17, SAME password as 908), id 10 (OF, Mar 23)",
+    "Oct 17 login episode": "1008-1009 (photos), 1010 (Vivek 'Share login'), 1011 (credential)",
+    "Theta SDX": "service 1012 (ChatAddUser Oct 18), 1013 (growth report), 1021 ('of course. we will')",
+    "Grandmother message": "ids 1055-1058 (Oct 25 20:32-20:33, OnlyFans topic 4)",
+    "Shoots thread": "1036 (TopicCreate 'Shoots'), 1037-1050 (Oct 21), 1052-1054 (Oct 25 reversal)",
+    "Twitch/link": "1002-1007 (Oct 16)",
+    "Repost network": "1015-1016 (Oct 19), 1031-1034 (Oct 21)",
+    "Reused-reels question": "1017 (Oct 20, reply to 980); 1029 deleted; 1030 Melissa 'disregard'",
+    "DMCA consolidation + report": "999 (Mayson), 1000-1001 (Melissa, Oct 16)",
+    "Halloween": "1014 (Ollie), 1018 (Vale)",
+    "Call offer": "1051 (Melissa, Oct 22)",
+    "Test messages": "1023-1028 (Antonio Veritrade), 1035 (Mayson heads-up); service 1022 (ChatAddUser Oct 21)",
+    "Bio-link thread (history)": "ids 918-923, 928-930, 937-938, 944-954, 966-973, 977-986, 992-995, 998",
+    "Links handed to Vale": "t.me/valesworld1 (Oct 7); valesworld.vip (Oct 11, flagged Oct 13); xli.ink/vale-bragg direct (Oct 15); Twitch added Oct 16",
+    "Vivek handle": "@fonta",
+    "Leak complaint": "ids 987-990 (Oct 13, DMCA topic)",
+    "Oct 15 invoice": "991 (reminder Oct 13), 996-997 (invoice)",
+    "Intake form": "id 924; Vale 'Doing it now' Oct 1 (id 927)",
+    "Unintroduced members": "ids 849 (Sep 10), 889 (Sep 17), 916 (Sep 25), 1012 (Oct 18 = Theta SDX)",
+    "John (fan)": "https://onlyfans.com/u490240243",
+    "Unacknowledged photos": "886/887/888 (Sep 17), 890 (Sep 18), 965 (Oct 5), 1008/1009 (Oct 17)",
+    "Telegram topics": "2=Invoicing, 3=Social Media, 4=OnlyFans, 5=DMCA, 12=Promo, Shoots (created Oct 21)"
+  },
+  "owner_private": {
+    "note": "Owner-level items. Surface privately to Derrek; never put them in the employee section.",
+    "items": [
+      "Derrek silent 25 days in this chat (last Oct 5). 30-day mark Nov 4. Vale's grandmother is dying (Oct 25) and nobody on the team replied; one message from the owner would land.",
+      "Credential governance: Vale's IG password was collected in the group chat a second time (Oct 17) at a team member's request, is identical to the Sep 23 one, and the next day an unconfirmed IG-farm vendor ('Theta SDX') was added to that chat. Decide whether vendors belong in client groups and mandate a private credential channel.",
+      "Aug 1 broadcast: 'we will have plenty of updates starting next week' (IG infrastructure). 90 days with no written follow-up here.",
+      "Aug 31: Vale pushed back on the under-18 flag ('Derrek said it shouldn’t affect but definitely does'). Never answered.",
+      "Shoot allowance was cut to quarterly agency-wide (Oct 21 'Shoots' topic) and reversed to monthly four days later with no reason given either time. Check whether other chats got the same whiplash.",
+      "Billing went dark for two weeks: no payment confirmation for Oct 15, no Oct 30 reminder by close. Five deposits unconfirmed by amount.",
+      "The published 2026-09-25 findings file contained Vale's passwords verbatim; confirm it was scrubbed."
+    ]
+  },
+  "notes": "STATUS: Vale is engaged and warm; the link crisis appears over; ALTR spent the window creating new problems (re-exposed password + vendor in the room, ignored bereavement message, missed Friday report, shoot-policy whiplash, dark billing). Score 38, trend up only on the link. PREDICTIONS TO CHECK NEXT WEEK: (1) Someone will have replied to the Oct 25 grandmother message by Oct 31 — if not, expect her next message to be cooler or absent; measure the response delay. (2) Derrek will NOT post before Nov 4, tripping churn signal 1 for the first time. (3) The Oct 30 weekly report will be sent Friday afternoon (Melissa), making it 2 of 3 Fridays; it will not state whether 'Valebragg' is in the sweep. (4) The Oct 15 invoice will turn out to have been paid silently (no chat trace) — if Stephski confirms, note whether it came with zero asks. (5) Nov 1 invoice goes out on time; Vale pays late or quietly because she is in Louisiana — do not score that as churn. (6) The password will still not be rotated and ids 1011/908 will still be in the chat. (7) Theta SDX will post another growth screenshot without being introduced. (8) Ollie will not touch the backlog (11th report) and will not answer the Amazon/Halloween reply. (9) Mica will not answer 'Does it matter if it’s been used before ?'. (10) Vale's ask count will drop (bereavement); read tone, not count. VERIFY FIRST: Oct 25 reply; Oct 15 payment; Oct 30 report; Derrek. All senders attributed in 10-30 ('Theta SDX' = IG farm vendor per team.yaml; Jeremy Tarr / Spencer P / Aroosha not present)."
+}

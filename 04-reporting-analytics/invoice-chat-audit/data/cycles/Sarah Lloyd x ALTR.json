@@ -1,0 +1,200 @@
+{
+ "cycles": [
+  {
+   "chat": "Sarah Lloyd x ALTR",
+   "period_key": "2026-06-09",
+   "period": "2026-06-09..06-14",
+   "period_start": "2026-06-09T00:00:00-05:00",
+   "issued_ts": "2026-06-22T11:26:14-05:00",
+   "issued_by": "Stephski",
+   "issue_msg_ids": [
+    377
+   ],
+   "followups": [],
+   "escalations": [],
+   "payment_links": [],
+   "payment_claimed_ts": null,
+   "payment_claim_msg": null,
+   "payment_confirmed": false,
+   "evidence": "none",
+   "lag_days": null
+  },
+  {
+   "chat": "Sarah Lloyd x ALTR",
+   "period_key": "2026-06-15",
+   "period": "2026-06-15..06-30",
+   "period_start": "2026-06-15T00:00:00-05:00",
+   "issued_ts": "2026-07-05T16:37:55-05:00",
+   "issued_by": "Stephski",
+   "issue_msg_ids": [
+    508
+   ],
+   "followups": [],
+   "escalations": [],
+   "payment_links": [],
+   "payment_claimed_ts": "2026-07-05T16:58:04-05:00",
+   "payment_claim_msg": 509,
+   "payment_confirmed": true,
+   "evidence": "strong",
+   "lag_days": 0.0
+  },
+  {
+   "chat": "Sarah Lloyd x ALTR",
+   "period_key": "2026-07-01",
+   "period": "2026-07-01..07-14",
+   "period_start": "2026-07-01T00:00:00-05:00",
+   "issued_ts": "2026-07-15T15:37:43-05:00",
+   "issued_by": "Stephski",
+   "issue_msg_ids": [
+    557,
+    558,
+    561
+   ],
+   "followups": [],
+   "escalations": [],
+   "payment_links": [],
+   "payment_claimed_ts": null,
+   "payment_claim_msg": null,
+   "payment_confirmed": false,
+   "evidence": "none",
+   "lag_days": null
+  },
+  {
+   "chat": "Sarah Lloyd x ALTR",
+   "period_key": "2026-07-15",
+   "period": "2026-07-15..07-31",
+   "period_start": "2026-07-15T00:00:00-05:00",
+   "issued_ts": "2026-08-01T15:46:34-05:00",
+   "issued_by": "Stephski",
+   "issue_msg_ids": [
+    614,
+    615,
+    631
+   ],
+   "followups": [],
+   "escalations": [],
+   "payment_links": [],
+   "payment_claimed_ts": null,
+   "payment_claim_msg": null,
+   "payment_confirmed": false,
+   "evidence": "none",
+   "lag_days": null
+  }
+ ],
+ "events": [
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 314,
+   "ts": "2026-06-15T02:51:56-05:00",
+   "sender": "Vladan | Chat Manager"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 315,
+   "ts": "2026-06-15T11:36:52-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CLAIMED",
+   "id": 364,
+   "ts": "2026-06-17T17:56:52-05:00",
+   "sender": "Sarah Lloyd"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 376,
+   "ts": "2026-06-22T11:26:10-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 377,
+   "ts": "2026-06-22T11:26:14-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 381,
+   "ts": "2026-06-22T16:11:28-05:00",
+   "sender": "Mayson Chat"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 390,
+   "ts": "2026-06-23T20:16:37-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 507,
+   "ts": "2026-07-05T16:37:52-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 508,
+   "ts": "2026-07-05T16:37:55-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CLAIMED",
+   "id": 509,
+   "ts": "2026-07-05T16:58:04-05:00",
+   "sender": "Sarah Lloyd"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 526,
+   "ts": "2026-07-07T22:07:03-05:00",
+   "sender": "Nate (Noah)"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 557,
+   "ts": "2026-07-15T15:37:43-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 558,
+   "ts": "2026-07-15T15:37:49-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 561,
+   "ts": "2026-07-16T10:48:56-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 614,
+   "ts": "2026-08-01T15:46:34-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 615,
+   "ts": "2026-08-01T15:46:39-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 616,
+   "ts": "2026-08-01T19:09:17-05:00",
+   "sender": "Derrek"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 631,
+   "ts": "2026-08-04T15:47:14-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 636,
+   "ts": "2026-08-07T20:36:29-05:00",
+   "sender": "Nate (Noah)"
+  }
+ ]
+}

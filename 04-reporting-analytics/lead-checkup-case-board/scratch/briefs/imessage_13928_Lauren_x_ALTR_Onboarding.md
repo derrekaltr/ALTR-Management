@@ -1,0 +1,54 @@
+# Lauren x ALTR Onboarding   [imessage #13928 GROUP]
+msgs=46 (in=35 out=11) window=2026-06-22..2026-07-06
+last_client=2026-07-06 (74d ago), last_derrek=2026-07-06 (74d ago)
+LAST MESSAGE FROM CLIENT — UNANSWERED: 'It’s AbundantLauren444'
+
+  ...
+[2026-06-22 15:13] DEREK: Eric, this is Lauren. Can you send over an example contract for 30% 35% if paid Ads
+[2026-06-22 15:14] Eric The Efficient: Hi Lauren! Yes absolutely give me just a few :)
+[2026-06-22 15:17] DEREK: Lboultier@gmail.com
+[2026-06-22 15:31] Lauren Blake: Thank you
+[2026-06-23 00:54] Lauren Blake: Hi, I never received the contract. Can you please send it over?
+[2026-06-23 00:55] Eric The Efficient: Hey sorry about that give me just a sec don’t kill me !
+[2026-06-23 00:59] Lauren Blake: Laughed at “Hey sorry about that give me just a sec don’t kill me !”
+[2026-06-23 00:59] Lauren Blake: No worries
+[2026-06-23 02:47] Eric The Efficient: ￼
+      <IMG MISSING non-image: /Users/locklyjailbreak/Library/Messages/Attachments/99/09/06BA5DC2-7C9F-4ACE-9823-C86515E21730/ALTR Talent Management Agreement - Sebastian Test.pdf>
+[2026-06-23 02:59] Eric The Efficient: If you have any questions let me know !
+[2026-06-24 21:18] Lauren Blake: Everything looks good
+[2026-06-24 21:18] Lauren Blake: Could you please email me over my contract so I can sign
+[2026-06-25 12:52] Eric The Efficient: Hey ! Yes absolutely:) can you fill this out for us !
+[2026-06-25 12:52] Eric The Efficient: Altrmgmt.com/apply
+      <IMG MISSING non-image: /Users/locklyjailbreak/Library/Messages/Attachments/be/14/541A1C26-A5C5-4562-A333-5E73995C649E/401F52EE-9E8C-4B14-B75B-CB61D98E99A4.pluginPayloadAttachment>
+[2026-06-25 17:20] Eric The Efficient: Hey, I just saw you filled that out having the contract sent over right now!
+[2026-06-25 17:24] Eric The Efficient: One more thing! Did you decide between 30% or 35% with 5% going in to paid ads @35 ?
+[2026-06-25 18:50] Lauren Blake: So the difference is just paid ads? Whats the amount spent on that per month?
+[2026-06-25 19:51] Eric The Efficient: It’s 5% of your page invested back into paid ads on a monthly basis! Can always toggle of or vise versa
+[2026-06-25 19:52] Lauren Blake: Gross or net?
+[2026-06-25 19:53] Eric The Efficient: Net :)
+[2026-06-26 13:06] Eric The Efficient: Bumping this in case you missed it🙏
+[2026-07-01 14:53] Eric The Efficient: Loved “Bumping this in case you missed it🙏”
+[2026-07-02 19:26] Lauren Blake: Hi, I can’t seem to find the contract in my email
+[2026-07-02 19:26] Lauren Blake: Can you please resend
+[2026-07-02 19:26] Eric The Efficient: Hey yes !
+[2026-07-02 19:27] Lauren Blake: Thank you
+[2026-07-02 19:27] Lauren Blake: With the paid ads
+[2026-07-02 19:28] Eric The Efficient: Just had it resent we move quick 🤝
+[2026-07-02 19:29] Lauren Blake: Signed ☺️
+[2026-07-02 19:31] Eric The Efficient: You are amazing! Super excited to get you started! Did you have an exact date in mind on when to begin or are you ready as soon as we are ?
+[2026-07-02 19:33] Lauren Blake: Ideally this coming week after the holiday
+[2026-07-02 19:36] Eric The Efficient: Amazing, that’s perfect. We will start the account review & get back with an exact start !!
+[2026-07-02 19:36] Lauren Blake: Looking forward to it 🫶🏼
+[2026-07-02 21:52] DEREK: Liked “Ideally this coming week after the holiday ”
+[2026-07-03 17:38] DEREK: Is Tuesday ok for start?
+[2026-07-03 17:38] DEREK: We have a killer team
+[2026-07-03 18:03] DEREK: Also I saw theres 60+ unread messages
+[2026-07-03 18:03] DEREK: You just got an OFTV Feature
+[2026-07-03 18:07] Lauren Blake: Yes that works
+[2026-07-03 18:17] DEREK: Loved “Yes that works ”
+[2026-07-03 18:18] DEREK: Eric Monday 2pm
+[2026-07-03 18:18] Eric The Efficient: Sounds amazing!! I’ll start the groupchat in just a sec to get everything ready on our end🙏
+[2026-07-03 19:35] Lauren Blake: Great!
+[2026-07-06 17:10] DEREK: Can you change your PW
+[2026-07-06 17:11] DEREK: So we can get setup to start at 2
+[2026-07-06 17:54] Lauren Blake: It’s AbundantLauren444

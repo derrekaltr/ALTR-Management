@@ -1,0 +1,32 @@
+# Shadowban removal  [whatsapp #747 GROUP]
+msgs=26 (in=23 out=3) window=2026-04-01..2026-06-27
+last_client=2026-06-27 (83d ago), last_derrek=2026-06-27 (83d ago)
+LAST MESSAGE FROM CLIENT — UNANSWERED: 'Bet'
+
+  ...
+[2026-04-01 18:48] 120363425674261578@g.us: Shadowban removal
+[2026-04-01 18:49] DEREK: Hey! This is my rep for anything ig related
+[2026-04-01 18:55] 92337619365966@lid: Whats good brother
+[2026-04-01 18:55] 92337619365966@lid: Check it out
+[2026-04-01 18:56] 92337619365966@lid: Both my accs got these red things on them fucking my reach
+[2026-04-01 18:56] 92337619365966@lid: I also can’t go live for 365 days
+[2026-04-01 18:56] 92337619365966@lid: Any fix
+[2026-04-02 04:13] 92337619365966@lid: ? @96117777760289
+[2026-04-02 05:50] 96117777760289@lid: Its not shadowbanned
+[2026-04-02 11:05] 92337619365966@lid: No but is there a way to take the red warnings off and fix it so I can go live
+[2026-04-02 11:07] 96117777760289@lid: Send me username
+[2026-04-02 11:08] 92337619365966@lid: https://www.instagram.com/chartminded?igsh=MWt0emN4YXBrdG1ucw==
+[2026-04-02 12:29] 96117777760289@lid: We can fix it by meta employee
+[2026-04-02 14:07] 92337619365966@lid: Okay
+[2026-04-02 14:07] 92337619365966@lid: Whats the process
+[2026-04-02 14:15] 96117777760289@lid: We will pay to meta rep and he will fix it
+[2026-04-02 14:19] 92337619365966@lid: How much
+[2026-04-02 14:19] 96117777760289@lid: I have to ask him current cost
+[2026-04-02 14:19] 96117777760289@lid: But as much i know its way too expensive
+[2026-04-02 15:32] 92337619365966@lid: If he can clear all reds on my ig
+[2026-04-02 15:32] 92337619365966@lid: I don’t mind paying bro
+[2026-06-05 10:13] 96117777760289@lid: Got meta portal for disabled account recovery
+[2026-06-27 09:31] 96117777760289@lid: Yoo
+[2026-06-27 13:58] DEREK: Don’t answer this
+[2026-06-27 13:58] DEREK: His number got hacked
+[2026-06-27 13:59] 92337619365966@lid: Bet

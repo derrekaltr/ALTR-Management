@@ -1,0 +1,134 @@
+{
+  "client": "Vale",
+  "slug": "vale-x-altr",
+  "status": "at_risk",
+  "status_reason": "Every client-side signal is healthy — 11-for-11 on time since March, paid the Sep 15 invoice in ONE day, uploads unbriefed content, briefs us on her own Twitch streams and plans GFE festival content unprompted — but she has now gone five consecutive windows without once mentioning the ~$5,300 of paid-but-undelivered fan orders she chased nearly every week from May 22 to Aug 9, and on Sep 15 she disclosed that a chatter of ours already cost her nine days of OnlyFans access. A client who stops asking while still paying is pre-churn, and nobody on our side has registered it.",
+  "last_client_message": "2026-09-17",
+  "dimensions": {
+    "responsiveness": {
+      "severity": 2,
+      "internal_failure": "We are almost never absent — median 14 minutes to a client burst across 164 bursts — but we drop precisely the questions that carry money, a live deadline or her safety: 12 went unanswered inside 24h and 8 have never been answered at all, including her prep question one hour before a paid live and her request for fan notes before a booked call.",
+      "evidence": [
+        {"quote": "I have to do a live at 11 / On OF / In an hour / So how does that work", "who": "Vale", "date": "2026-08-08"},
+        {"quote": "I figured it out / Had to create a list for private live and add that sub", "who": "Vale", "date": "2026-08-09"},
+        {"quote": "Can you guys tell me what you have on him on your notes ?", "who": "Vale", "date": "2026-08-07"},
+        {"quote": "Anything I should know before the live ? / How many minutes and what he wants ?", "who": "Vale", "date": "2026-08-03"}
+      ]
+    },
+    "follow_through": {
+      "severity": 3,
+      "internal_failure": "We answer small new asks the same day and let every old commitment die in silence — 28 of ~52 explicit promises lapsed, including three separate 'we can get them scheduled this week' promises about the same backlog, a template promised 'in the morning' 52 days ago, and ~$5,300 of fan money taken for customs, calls and lives that were never delivered (166, 140, 104 and 27 days old).",
+      "evidence": [
+        {"quote": "Yeah of course - we can get them scheduled for this week coming", "who": "Ollie Mckinlay", "date": "2026-07-19"},
+        {"quote": "I’ll send you a template over in the morning getting 3 good new sexting sets / I’ll get a content request over in the morning", "who": "Ollie Mckinlay", "date": "2026-07-28"},
+        {"quote": "yes we can schedule them for this week / what is your availability like?", "who": "Ollie Mckinlay", "date": "2026-08-09"},
+        {"quote": "I’m pretty open, I’m cool any day anytime after 3pm", "who": "Vale", "date": "2026-08-09"}
+      ]
+    },
+    "proactive_communication": {
+      "severity": 2,
+      "internal_failure": "Our unprompted cadence is real but it is almost entirely templated admin — invoices, word-for-word identical weekly leak counts, reel-link dumps, mass security broadcasts — and almost none of it is about how her business is doing: we have volunteered an OnlyFans performance number exactly once in 179 days, and the two check-ins she got this month were 'hi bb! how is everything going?' (which we then did not reply to) and a broadcast sent to every client.",
+      "evidence": [
+        {"quote": "Out of the 3 days we have been on, 2 of them have been your highest days in the last 3 months, with today at 2.5k", "who": "Ollie Mckinlay", "date": "2026-07-12"},
+        {"quote": "hi bb! how is everything going?", "who": "Mica Vecco", "date": "2026-09-15"},
+        {"quote": "Hi babe it’s alright / Been struggling to get new followers", "who": "Vale", "date": "2026-09-15"},
+        {"quote": "Thank you for your understanding, we will have plenty of updates starting next week.", "who": "Derrek", "date": "2026-08-01"}
+      ]
+    },
+    "onboarding_handoff": {
+      "severity": 3,
+      "internal_failure": "Intake never captured her price floors — so seven weeks in the chat team sold a full nude video plus a nude photo for $30 and we only fixed it after she blew up — and when we swapped chat teams in July we lost the shared drive and the delivery ledger and asked the CLIENT to reconstruct our own record of what fans had paid for, orphaning customs including a $2,000 order that surfaced by accident three months later.",
+      "evidence": [
+        {"quote": "I didn’t not approve for a full video of me naked touching myself and a full naked picture for $30", "who": "Vale", "date": "2026-05-11"},
+        {"quote": "Is there a way to check what’s missing ?", "who": "Vale", "date": "2026-07-28"},
+        {"quote": "Do you have the requests from the last team?", "who": "Ollie Mckinlay", "date": "2026-07-28"},
+        {"quote": "Google sheets is acting weird but this fan paid 2k in may for a custom (so not when we were on the page) I don't know if you ever saw it", "who": "Ollie Mckinlay", "date": "2026-08-18"}
+      ]
+    },
+    "chatter_conduct": {
+      "severity": 3,
+      "internal_failure": "Five confirmed fan-trust breaches in eight weeks (May 11 underselling, Jul 17 scam pushes, Jul 23 chargeback-risk tactics, Aug 1 telling a fan a girl-girl video was her best friend Shayna, Aug 11 reselling her paid private 1:1 live as PPV including back to the fan who bought it) and our entire remedy is a verbal word with one specialist — and on Sep 15 we learned a chatter's error has ALREADY cost her nine days of account access, and we still have not written the one-page account rulebook promised 37 days ago.",
+      "evidence": [
+        {"quote": "You’re telling this fan that that’s Shayna / All my followers know who Shayna is bc I’m always with her / I don’t want my fans to feel scammed !!!", "who": "Vale", "date": "2026-08-01"},
+        {"quote": "He payed to have a private conversation with me so why is being sold ? / And selling the live to the guy that I had the live with", "who": "Vale", "date": "2026-08-11"},
+        {"quote": "Apologies spoke to the MM PPV specialist for your account and he knows now not to be doing this", "who": "Ollie Mckinlay", "date": "2026-08-12"},
+        {"quote": "I lost access to my account for Nine days before because I had a chatter say that I was 16 in one of the videos so that was really stressful getting my account back", "who": "Vale", "date": "2026-09-15"}
+      ]
+    },
+    "platform_health": {
+      "severity": 3,
+      "internal_failure": "Two live platform problems and neither has an owner producing an answer: her Instagram trial reach fell from 200k+ to under 3k on 2026-08-31, we gave one excellent evening of diagnosis, she ran the three-variant hook test inside two days, and 18 days later nobody has collected the insights we asked for or told her whether reach recovered; and she has screenshotted unexplained OnlyFans alerts five times since Aug 29 and was answered on day 16 with 'I am not sure what that is about' followed the next day by an unqualified guarantee. The Meta Support Rep we introduced for exactly this has sent one message in 51 days.",
+      "evidence": [
+        {"quote": "I’ve been posting 3 times a day on trials but they’re not working for me anymore / Same kind of content but barely even reach 3k", "who": "Vale", "date": "2026-08-31"},
+        {"quote": "Ever since I got the Flag of not shown to below 18 it went down but Derrek said it shouldn’t affect but definitely does", "who": "Vale", "date": "2026-08-31"},
+        {"quote": "I am not sure what that is about to be honest, as my chatters don't have access to uploading content", "who": "Ollie Mckinlay", "date": "2026-09-14"},
+        {"quote": "Yeah no worries at all, you won’t lose your account", "who": "Ollie Mckinlay", "date": "2026-09-15"}
+      ]
+    },
+    "billing_ops": {
+      "severity": 3,
+      "internal_failure": "We have changed banking rails FIVE times in six months — one change cost her three days of failed Zelle and ACH attempts she had to troubleshoot herself, and 'last change I promise' was broken twice afterwards — and we have now stopped confirming receipt entirely: her Aug 17 payment is 32 days unacknowledged, the Sep 5 one has neither a client screenshot nor any confirmation of sight, and the Sep 15 invoice told her in writing that a name change 'should help alleviate any bounce backs' while three of her transfers sit unreconciled.",
+      "evidence": [
+        {"quote": "Hi I’ve been trying to use Zelle but it doesn’t take that email / And when I set up ach payments it’s also not letting me for some reason", "who": "Vale", "date": "2026-07-03"},
+        {"quote": "we have a new bank for you to send to (last change I promise!)", "who": "Stephski", "date": "2026-07-01"},
+        {"quote": "Sent", "who": "Vale", "date": "2026-08-17"},
+        {"quote": "Please note a slight name change to the account, but the same account and wire info. This should help alleviate any bounce backs or issues moving forward.", "who": "Stephski", "date": "2026-09-15"}
+      ]
+    },
+    "ownership_escalation": {
+      "severity": 3,
+      "internal_failure": "The named account lead does not self-start: six times since Jul 28 a colleague or the owner had to @-tag him before Vale's own message got any reply, and the tone of the tag has escalated from a bare '^' to 'let’s get this in line' in front of the client. Nobody owns the paid-order ledger, the vault purge, the Infloww enquiry or her referral, so items bounce between Mayson (who routes but cannot close) and Ollie (who acknowledges but never reports back).",
+      "evidence": [
+        {"quote": "@olkmck hey bro check on this asap", "who": "Derrek", "date": "2026-08-01"},
+        {"quote": "@olkmck let’s get this in line", "who": "Mayson Chat", "date": "2026-09-13"},
+        {"quote": "Looking at this for you shortly", "who": "Ollie Mckinlay", "date": "2026-09-10"},
+        {"quote": "@ofwizz", "who": "Vivek", "date": "2026-08-03"}
+      ]
+    },
+    "disengagement_detection": {
+      "severity": 3,
+      "internal_failure": "She chased her undelivered paid orders nearly every week from May 22 to Aug 9 and then stopped dead — five consecutive windows with zero mentions, across weeks in which she sent 22 and 41 messages — and not one person asked why, restarted the biweekly call that has been dead 67 days, or noticed she had gone from chasing us to apologising to us. Our only check-ins are requests to extract more content or more account access from her.",
+      "evidence": [
+        {"quote": "Pls let’s get those schedule they’ve been waiting for a minute", "who": "Vale", "date": "2026-07-30"},
+        {"quote": "I think I’m still missing some lives to schedule and that one custom", "who": "Vale", "date": "2026-08-09"},
+        {"quote": "Hey @valebragg05 any progress?", "who": "Mayson Chat", "date": "2026-09-13"},
+        {"quote": "No my bad will do today", "who": "Vale", "date": "2026-09-13"}
+      ]
+    },
+    "security_hygiene": {
+      "severity": 3,
+      "internal_failure": "Her OnlyFans password was posted in plain text into a multi-person group on day one and is still sitting in the chat 179 days later, never rotated and never mentioned again. When WE flagged signs of unauthorized access in July she asked the obvious question and got no answer at all — and in the 52 days since, with that still open, we have asked her for Snapchat admin on an unspecified account, a Snapchat photo dump and a Facebook account, and left her reply to the last one unanswered.",
+      "evidence": [
+        {"quote": "Password is Michelle2505!!", "who": "Vale", "date": "2026-03-23"},
+        {"quote": "Also do you know if there is someone else on your page looking through chats? / Last few days we are noticing conversations being opened, notifications disappearing and it’s causing issues", "who": "Ollie Mckinlay", "date": "2026-07-28"},
+        {"quote": "Should I change my password?", "who": "Vale", "date": "2026-07-28"},
+        {"quote": "I just need admin access / And add @mgmt_snap as admin", "who": "Mayson Chat", "date": "2026-09-10"}
+      ]
+    }
+  },
+  "metrics": {
+    "client_questions_total": 57,
+    "unanswered_over_24h": 12,
+    "max_team_silence_days": 5.2,
+    "promises_made": 52,
+    "promises_kept": 20,
+    "promises_lapsed": 28,
+    "method": "Full history 2026-03-23 to 2026-09-17, 883 records (864 messages + 19 service events). Client side = alias 'Vale' from config/clients.yaml; all 9 other senders (Fredo, Ollie Mckinlay, Stephski, Mayson Chat, Michelle Queue, Mica Vecco, Derrek, Eric The Efficient, Vivek) resolve to config/team.yaml, so there is no vendor chat team on this account. client_questions_total = client messages containing '?' (57). unanswered_over_24h = distinct client questions/requests with no SUBSTANTIVE answer inside 24h, read by hand (12); 8 of those have never been answered at all: 'Should I change my password?' (Jul 28, 52d), 'Anything I should know before the live ? / How many minutes and what he wants ?' (Aug 3), 'Was a call booked for today ?' (Aug 7), 'Can you guys tell me what you have on him on your notes ?' (Aug 7, 42d), which of her two Snapchat accounts we want admin on (Sep 10, 8d), what the recurring OnlyFans alerts actually are (first screenshotted Aug 29, 20d), her Facebook answer 'I have my one with my family members and old friends' (Sep 16), and the three uncaptioned photos posted into the OnlyFans topic on Sep 17 (ids 886/887/888). The purely mechanical count (any team message within 24h of a client burst) is 8 of 164 bursts, which understates the problem: we are almost always in the room, we just do not answer. Median lag from the start of a client burst to the next team message is 0.23h across 164 bursts (p75 5.7h, p90 19h). max_team_silence_days = longest gap between consecutive messages from our side = 5.2d (May 5 -> May 10); the longest stretch with no NON-templated outbound is 8.9d (Aug 20 -> Aug 29, broken only by an automated leak report). promises_made counts explicit forward-looking commitments by our side ('I'll send X', 'we can get them scheduled', a booked call, a stated cadence such as 'biweekly call' or 'creative ideas weekly'); kept = evidence of delivery in-chat; lapsed = no delivery and no further mention; the remaining 4 are pending or unverifiable from the log.",
+    "chargeback_exposure_usd": 5300,
+    "chargeback_exposure_note": "$2,200 on fan John ($2,000 custom paid in May, surfaced by accident Aug 18, plus a $200 ASAP-delivery fee we collected) — Vale uploaded it Aug 22 and 27 days later nobody has confirmed the fan received it; plus ~$3,100 never delivered: Ryan $600 (sold Jun 6, 104 days), John's $1,800 videocall (logged May 1, 140 days), Tyler's $700 JOI custom (logged Apr 5, 166 days)."
+  },
+  "what_client_wanted": [
+    "Fans to believe it is really her — no lying, no scam-feeling pushes, nothing that contradicts the life she posts publicly on Instagram: 'I kinda wanted to start doing that cause some fans doubt it’s me' (Mar 28); 'I just live very openly on my ig so I feel like it’s easy to know that’s a lie' (Apr 8); 'I understand you guys are pushing sales but like the lying is not good cause it fucks up the longevity of my fans / I don’t want my fans to feel scammed !!!' (Aug 1)",
+    "Her OnlyFans account kept alive above everything else — this became explicit on Sep 15: 'I lost access to my account for Nine days before because I had a chatter say that I was 16 in one of the videos so that was really stressful getting my account back so anytime I see any alerts I’m just scared of losing my account again especially now with more money on it' (Sep 15)",
+    "Her content sold at her floor and her paid private interactions kept private: 'You guys are selling my stuff too low' (May 11); 'He payed to have a private conversation with me so why is being sold ? / And selling the live to the guy that I had the live with' (Aug 11)",
+    "Her paying fans served on time so she is not the one left apologising: 'Can you please tell me what customs I’m behind on ?' (Jun 29); 'Pls let’s get those schedule they’ve been waiting for a minute' (Jul 30)",
+    "Instagram reach treated as the top of her funnel, and control over which of her accounts we touch: 'Same kind of content but barely even reach 3k' (Aug 31); 'Been struggling to get new followers' (Sep 15); 'I have my personal and an of one / What’s its for ?' (Sep 10)"
+  ],
+  "what_worked": [
+    "Showing her a number bought instant trust. Ollie's one and only performance report — 'Out of the 3 days we have been on, 2 of them have been your highest days in the last 3 months, with today at 2.5k' (Jul 12) — ended a two-month fight about pricing in half an hour: 'Okay I’ll let you guys handle it then' (Jul 12). We have not shown her a number since.",
+    "Answering a fan-trust complaint with a mechanical change rather than an apology. Fred, Apr 8: 'we can remove pushes like this from your account if you’d like', then 'I’ve asked them to tone down so it matches IG' — her reply was simply 'Thank you'. Every later breach got an apology instead of a control, and they kept recurring.",
+    "Preparing her before a paid interaction. Fred, Apr 2: 'I’ll get the team to prepare any notes which may be useful', then delivered the fan's name, city, nicknames and interests the same day — she asked for exactly this again on Aug 7 and never got it. The capability was lost in the July handoff, not by decision.",
+    "A small operational control restored, immediately visible in her behaviour. Stephski's pre-invoice withdrawal reminder on Sep 14 ('it would be great if you could initiate a OF withdrawl today so the funds hit your account in time!') was followed by the Sep 15 invoice and a ONE-DAY payment with a screenshot — her fastest of the year. The one cycle we skipped it needed a chase on day four."
+  ],
+  "top_fix": "Make closing a loop in writing someone's actual job on this account — a standing, dated close-out posted into the client chat every week by the account lead: every paid fan order (delivered / booked for X / not started), every promise made in the chat, one OnlyFans performance number, and one line confirming each payment has been SEEN in the bank. Nothing here failed for lack of contact — five of our people appeared in the last week alone and our median reply is 14 minutes. It failed because no commitment on this account has ever had a required end-state, so 28 promises lapsed silently, $5,300 of fan money sits undelivered for up to 166 days, three consecutive payments are unreconciled, a $2,000 custom was found by accident three months late, and her 52-day-old security question is still open. A weekly written ledger would have caught every one of those before the client did — and it is the only thing that would have turned 'you won’t lose your account' from a reassurance into a control on an account she has already lost once."
+}

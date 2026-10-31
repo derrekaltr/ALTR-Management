@@ -1,0 +1,255 @@
+{
+  "client": "Alex Paige Moore",
+  "slug": "alex-paige-moore-x-altr",
+  "status": "at_risk",
+  "status_reason": "She resurfaced on 2026-08-26 and paid the Aug 1-14 invoice, so not churned - but she is post-surgery with content paused 'a few weeks', her monthly message volume is at an all-time low (417 in Sep 2025 -> 15 in Aug 2026), she has had two 12-day silences in five weeks with zero human outreach from us, the sales-team groupchat promised 'in the next few hours' on Aug 12 was never confirmed, and her repeated 'what can I do about $$$' asks have gone unanswered for seven months. Precedent: she left her last agency quietly ('I did tell the owner I was leaving and gave notice').",
+  "last_client_message": "2026-08-26",
+  "dimensions": {
+    "responsiveness": {
+      "severity": 2,
+      "internal_failure": "Median first reply is under an hour, but whenever the named owner is sick or offline there is no backstop: the client had to nudge 2-3 times on payment confirmations, revenue questions and payment links, and could not reach Derrek for a week in July.",
+      "evidence": [
+        {
+          "quote": "Guys? / I need a response / I would like a response",
+          "who": "Alex Paige",
+          "date": "2026-05-26"
+        },
+        {
+          "quote": "Also have you been able to get in contact with Derek I've been trying all week and he's not responded",
+          "who": "Alex Paige",
+          "date": "2026-07-06"
+        },
+        {
+          "quote": "Hey Alex apologies on the delay here, have been sick but will be checking all transactions in the AM!",
+          "who": "Stephski",
+          "date": "2026-05-07"
+        }
+      ]
+    },
+    "follow_through": {
+      "severity": 3,
+      "internal_failure": "Commitments from the owner and leads are never tracked or closed - 'let me check', 'gameplan call', 'videographer dates', 'posting starts this week', 'plenty of updates next week', 'groupchat in a few hours' all silently lapsed; roughly 16 of 35 explicit promises died without a follow-up message.",
+      "evidence": [
+        {
+          "quote": "hey let me get on a call with the team and come up with a gameplan to get income up as well as some things we could use on your end",
+          "who": "Derrek",
+          "date": "2026-03-25"
+        },
+        {
+          "quote": "I have my second call today but she seems great and knows her stuff / just need the dates shes availible",
+          "who": "Derrek",
+          "date": "2025-12-11"
+        },
+        {
+          "quote": "hey babes new page was created posting will start this week",
+          "who": "Michelle Queue",
+          "date": "2026-07-28"
+        },
+        {
+          "quote": "Will see it shortly in the next few hours",
+          "who": "Derrek",
+          "date": "2026-08-12"
+        }
+      ]
+    },
+    "proactive_communication": {
+      "severity": 2,
+      "internal_failure": "Only one performance report was ever sent (Sophie, week 1). After Sophie went silent in Nov 2025, all unprompted outbound became templates (reel-inspo links, DMCA stats, invoices, 'send more reels'); the client had to ask four times whether her management-run accounts were even being posted on. Longest zero-outbound stretch: 8 days (Aug 1-10 2026).",
+      "evidence": [
+        {
+          "quote": "Congrats on an incredible first week with us 🥳 Your account is already up 27.4%, messages are up 28%, and overall subscription earnings are up 33.6%",
+          "who": "Sophie Logan (Raw Agency)",
+          "date": "2025-09-23"
+        },
+        {
+          "quote": "How's the management social media accounts for me going? Xx",
+          "who": "Alex Paige",
+          "date": "2025-10-26"
+        },
+        {
+          "quote": "Are you still using my Instagram @ofwizz",
+          "who": "Alex Paige",
+          "date": "2026-08-12"
+        }
+      ]
+    },
+    "onboarding_handoff": {
+      "severity": 2,
+      "internal_failure": "Week 1 intros were strong, but both kickoff calls were fumbled (timezone-hostile Calendly, a Mica no-show Sophie had to cover), and the Client Relations Manager who owned 'day to day operations, reporting, strategies' vanished after Nov 12 2025 with no announced replacement - leaving the client routing requests for Derrek through chatters.",
+      "evidence": [
+        {
+          "quote": "Just wondering what app we use to do the online meeting in half an hr? X / Mica",
+          "who": "Alex Paige",
+          "date": "2025-09-25"
+        },
+        {
+          "quote": "Apologies for the missed call, thank you Sophie for stepping in 💕",
+          "who": "Mica Vecco",
+          "date": "2025-09-25"
+        },
+        {
+          "quote": "@mmayson are you able to contact Derrek",
+          "who": "Alex Paige",
+          "date": "2026-07-13"
+        }
+      ]
+    },
+    "chatter_conduct": {
+      "severity": 3,
+      "internal_failure": "Client boundaries were never written into a chatter brief: an explicit photo went on her wall against her rule, snares twice requested content she does not do, chatters led two local Adelaide whales to believe in-person meetups were coming, and after she instructed otherwise on May 15 the team reversed her own message to the fan on Jun 18.",
+      "evidence": [
+        {
+          "quote": "Hey guys a photo of my pussy was posted on the main page. Can we not do that. I only want to show nude in the inbox",
+          "who": "Alex Paige",
+          "date": "2026-03-29"
+        },
+        {
+          "quote": "I think Matt one of my top spenders is under the impression I'm leaving my partner for him and I'm catching up with him. He's in the same city I live.",
+          "who": "Alex Paige",
+          "date": "2026-05-15"
+        },
+        {
+          "quote": "The chatters have just gone back on everything and told him I'll see him soon and I didn't mean what I said about never seeing him / What the fuck",
+          "who": "Alex Paige",
+          "date": "2026-06-18"
+        }
+      ]
+    },
+    "platform_health": {
+      "severity": 2,
+      "internal_failure": "IG deletions/restrictions recurred ~7 times and our answer was mostly 'wait it out' or a paid unban quote; the Meta contact she asked for on Mar 17 was never delivered (Vivek added only Jul 29). Management-run reels accounts were shadowbanned, re-created, paused for a phone-farm rebuild and relaunched as @paigealexxo with no posting proof - and she discovered every outage herself.",
+      "evidence": [
+        {
+          "quote": "I swear everytime I get momentum and it grows it gets deleted I'm over it",
+          "who": "Alex Paige",
+          "date": "2026-02-10"
+        },
+        {
+          "quote": "Do you have a contact at Meta to take this ban off?",
+          "who": "Alex Paige",
+          "date": "2026-03-17"
+        },
+        {
+          "quote": "Hey no videos have been uploaded to my reel page in ages / Nothing since last year / And I added all those videos above for you to use",
+          "who": "Alex Paige",
+          "date": "2026-07-28"
+        }
+      ]
+    },
+    "billing_ops": {
+      "severity": 3,
+      "internal_failure": "Our receiving details changed five times in 11 months (incl. six weeks after 'last change I promise!'), accepted methods flip-flopped (wire/Zelle/Apple Pay -> CC link -> CC link +5%), payment confirmations took up to 6 days and three nudges, a $1,989 reconciliation dispute was never closed, and money ALTR owes her is netted off invoices informally with no receipt or ledger.",
+      "evidence": [
+        {
+          "quote": "Want to let you know we have a new bank for you to send to (last change I promise!)",
+          "who": "Stephski",
+          "date": "2026-07-01"
+        },
+        {
+          "quote": "Please note an update to the account number, please try and send using the information on the invoice.",
+          "who": "Stephski",
+          "date": "2026-08-15"
+        },
+        {
+          "quote": "As it's a new bank I want to make sure the funds are going through before I send more money for invoices",
+          "who": "Alex Paige",
+          "date": "2026-05-07"
+        },
+        {
+          "quote": "if you owe a payment your welcome to just remove it from the invoice again to make it easy",
+          "who": "Derrek",
+          "date": "2026-08-11"
+        }
+      ]
+    },
+    "ownership_escalation": {
+      "severity": 2,
+      "internal_failure": "No single account owner after Sophie: requests are relayed through 2-3 people (Joseph -> chat team, Mayson -> @natehei, Mayson -> @sotom225, Derrek -> @stephskiii) and lost in the hops; the 'no meetups' instruction hit a 'communication bottleneck', unused vault photos were 'forgot to respond', and the promo tag went unanswered.",
+      "evidence": [
+        {
+          "quote": "Yes, sorry I forgot to respond. I had them start queuing newer photos in the posts when this was sent👍🏻",
+          "who": "Nate (Noah)",
+          "date": "2026-03-23"
+        },
+        {
+          "quote": "There was a bit of a communication bottleneck with how to handle that guy. Shouldn't happen again",
+          "who": "Nate (Noah)",
+          "date": "2026-06-18"
+        },
+        {
+          "quote": "@sotom225 is there anything we can do for promo?",
+          "who": "Mayson Chat",
+          "date": "2026-06-29"
+        }
+      ]
+    },
+    "disengagement_detection": {
+      "severity": 3,
+      "internal_failure": "She asked how to lift OF earnings at least eight times (Jan 13, Feb 22, Feb 23, Mar 3, Mar 25, May 20, May 24-26, Jun 28) and never got a plan - the Jun 28 reply blamed her phone-number sales instead. Two 12-day silences (Jul 30-Aug 11, Aug 13-26) drew no human check-in, and when she surfaced post-surgery the only reply was logistics.",
+      "evidence": [
+        {
+          "quote": "Hey guys money is looking crazy low… what can I do to increase this",
+          "who": "Alex Paige",
+          "date": "2026-05-26"
+        },
+        {
+          "quote": "That's a dead giveaway that you're not the person on the other end of either",
+          "who": "Derrek",
+          "date": "2026-06-28"
+        },
+        {
+          "quote": "Hey I've just had surgery so probably not for a few weeks unfortunately",
+          "who": "Alex Paige",
+          "date": "2026-08-26"
+        },
+        {
+          "quote": "Ok all good / Will let the fans know and send the free content in mean time",
+          "who": "Ronnie Chat",
+          "date": "2026-08-26"
+        }
+      ]
+    },
+    "security_hygiene": {
+      "severity": 2,
+      "internal_failure": "Her OF password was posted in plain text in a 15+ member group on day 3 and acknowledged with 'Amazing thank you' - never rotated or deleted; passport and driver's-licence photos were later collected in the same group chat for an IG unban, with no secure channel offered and no outcome reported.",
+      "evidence": [
+        {
+          "quote": "Cottonball21! / Password update",
+          "who": "Alex Paige",
+          "date": "2025-09-17"
+        },
+        {
+          "quote": "Amazing thank you",
+          "who": "Sophie Logan (Raw Agency)",
+          "date": "2025-09-17"
+        },
+        {
+          "quote": "we just need this today if possible pls: • a clear photo of your passport • a pic of you holding your passport (everything visible)",
+          "who": "Michelle Queue",
+          "date": "2026-04-26"
+        }
+      ]
+    }
+  },
+  "metrics": {
+    "client_questions_total": 97,
+    "unanswered_over_24h": 6,
+    "max_team_silence_days": 8,
+    "promises_made": 35,
+    "promises_kept": 19,
+    "promises_lapsed": 16,
+    "method": "Full history 2025-09-14 to 2026-08-26 (1,492 rows, 849 client messages). Questions = client messages containing '?' or opening with a request phrase; 'unanswered >24h' = first team message after the question arrived more than 24h later (median lag 0.9h; ~8 further threads needed repeat nudges inside 24h). Team silence = longest gap between consecutive team-side messages (Aug 1-10 2026; Aug 17-25 was 7 days). Promises = explicit first-person commitments by our side ('I'll', 'let me', 'will start', 'shortly', 'next week'); kept if a visible confirmation followed in chat, lapsed if none ever did."
+  },
+  "what_client_wanted": [
+    "A concrete plan to lift OF earnings, not reassurance: \"Hey guys what can I do to bump up the $$$ / Its been consistently really low\" (2026-03-25); \"I just wanna maximize this money\" (2026-03-03)",
+    "The management-run IG accounts actually posting her content, and visibility on it: \"How's the management social media accounts for me going? Xx\" (2025-10-26); \"Nothing since last year / And I added all those videos above for you to use\" (2026-07-28)",
+    "Hard safety and content boundaries enforced by chatters: \"I don't want people to think I'm ever ever meeting them\" (2026-05-15); \"I only want to show nude in the inbox\" (2026-03-29)",
+    "Payment terms that fit OF's 2-week payout and stable receiving details: \"will that be okay to be sending the money roughly 2 weeks after the first of October\" (2025-09-29); \"As it's a new bank I want to make sure the funds are going through before I send more money\" (2026-05-07)"
+  ],
+  "what_worked": [
+    "Data-backed first-week report from Sophie (2025-09-23) and empathetic hand-holding through the Oct 1-6 IG crisis: \"Wohooo thannk you so much! Amazinf thank you so much!!!\" (2025-09-23), \"So bloody happy! X\" (2025-10-06)",
+    "Same-day action on a direct ask - Mayson flipping the page to free within hours: \"Wohoo thankyou so much!!! X / You're the best\" (2026-05-22)",
+    "Nate personally fixing the Kel situation within 25 minutes and owning the mistake: \"Thank you very much\" (2026-06-18); Derrek's candid Aug 1 phone-farm explanation and Aug 11 flexibility on the invoice offset: \"Easy, I'll wait another 2 days in that case for payment\" (2026-08-11)"
+  ],
+  "top_fix": "Re-instate the single named account owner role Sophie held (it disappeared unannounced in Nov 2025) with two duties: keep a tracked list of every promise made in the chat and close each one in writing, and send a short fortnightly status note covering OF earnings + what we are doing about them, posting proof for the management-run IG accounts, and a running money ledger (invoices, offsets, what ALTR owes her). That one change would have answered her eight revenue asks, her four 'are you posting?' asks, the $1,989 dispute, and the two 12-day silences."
+}

@@ -1,0 +1,121 @@
+{
+  "client": "Lauryn",
+  "slug": "lauryn-x-altr",
+  "status": "at_risk",
+  "status_reason": "She paid us off. Four unprompted tranches in nine days (2026-09-09, 09-11, 09-12, 09-17) cleared six consecutive periods of balance, ending '✅✅✅ / Closed out' — with no dispute and, for the first time in six weeks, no repetition of the value objection. That is not recovery, it is a clean exit position. In the same nine days she received: no chat-team activity (100 days silent), no revenue number (12 months), no Facebook resolution (356 days), a MISSED weekly DMCA update that had run unbroken for ten weeks, a context-free custom ask, and — ten hours after she declared herself paid in full — the news that she had been sending the money to the owner's personal account. She stopped raising the Facebook page herself on 2026-09-03 after doing it unprompted in every reporting period for a year. The last message in the log is hers, telling us the link we sent her is unreadable.",
+  "last_client_message": "2026-09-18",
+  "dimensions": {
+    "responsiveness": {
+      "severity": 2,
+      "internal_failure": "Aggregate first-reply speed is genuinely excellent (median 2 minutes over 94 client questions, only one raw breach of 24h in 13 months), and billing responsiveness fully recovered this window — but the speed is concentrated where we want something. Her four payment screenshots waited 4 days, 2 days and 32 hours for any reply, and her Facebook chase of 2026-09-02/03 was never answered TO HER at all: the only response came 12 days later, addressed to a colleague who had tagged on her behalf.",
+      "evidence": [
+        {"quote": "Any updates???", "who": "LA Client — followed by 'We still in review ??' and '???' the next day; no one on our side answered her. Vivek's eventual 2026-09-14 reply was to Mayson's tag, not to her", "date": "2026-09-02"},
+        {"quote": "As I stated as Money clears would be sending over that's half , still awaiting pending balance", "who": "LA Client — first money on the account since ~2026-08-11, sent unprompted; nobody replied for four days", "date": "2026-09-09"},
+        {"quote": "hi LA ALTR just making sure you saw this ❤️", "who": "Stephski — the counter-example: one soft nudge produced 'Yes' / 'On it' in SEVEN MINUTES. She is not slow; she mirrors whatever attention she gets", "date": "2026-09-16"}
+      ]
+    },
+    "follow_through": {
+      "severity": 3,
+      "internal_failure": "We make specific, dated commitments and let them expire in silence — including our own enforcement threats, and including the one recurring service we had never broken. Nobody on our side has ever gone back unprompted to close a loop; commitments are now made to colleagues in front of the client rather than to the client.",
+      "evidence": [
+        {"quote": "Moving forward, you'll receive a report every two weeks along with a tailored 14-day game plan.", "who": "Sophie Logan (Raw Agency) — exactly one report was ever delivered, on this date. 361 days, zero further reports", "date": "2025-09-23"},
+        {"quote": "Scans and takedowns are ran daily and we will be shooting weekly updates here every Wednesday 🦾", "who": "Nick | DMCA — held well, then broke twice: a 75-day blackout (2026-03-04 → 2026-05-18) and again now. Ten unbroken weekly deliveries 2026-07-01 → 2026-09-08, then the ~2026-09-15 update never arrived and nobody acknowledged the miss", "date": "2025-08-28"},
+        {"quote": "Yeah / On it / Support is up / Let me check", "who": "Vivek — four fragments in twenty seconds, 17 minutes after being tagged and 19 days after his last word; no status, no plan, no date, and nothing in the four days since. Third commitment of this exact shape (2026-08-07, 2026-08-18, 2026-09-14); the first two produced 42 days of nothing", "date": "2026-09-14"}
+      ]
+    },
+    "proactive_communication": {
+      "severity": 3,
+      "internal_failure": "We have not sent this client a performance or revenue number since 2025-09-11 — 372 days — through three revenue collapses she reported herself. Longest stretch with zero human outbound from our side is 9.6 days (2025-12-05 → 2025-12-15). Almost all unprompted contact is billing or templated broadcast; the two genuinely proactive non-billing messages in thirteen months both landed in the last week, which shows the gap is a habit, not a capacity problem.",
+      "evidence": [
+        {"quote": "Since the team jumped on, your account has increased by 42.4% which is incredible 🚀", "who": "Sophie Logan (Raw Agency) — the last growth statistic she was ever sent; Sophie's final message on the account was 2025-10-09, with no goodbye and no replacement named", "date": "2025-09-11"},
+        {"quote": "I'm well aware of payments being team has had a very slow month things aren't dropping quick!", "who": "LA Client — she is describing OUR team's month. We had sent her no number to confirm, explain or contradict it, and still have not", "date": "2026-09-02"},
+        {"quote": "Hi love! Just letting you know your invoice will be sent tomorrow, so it would be great if you could initiate a OF withdrawl today so the funds hit your account in time!", "who": "Stephski — the single best proactive message in 13 months: it plans around her OnlyFans payout cycle instead of chasing after it. It is about billing. Nothing of this quality has ever been sent about her account's performance", "date": "2026-09-14"}
+      ]
+    },
+    "onboarding_handoff": {
+      "severity": 2,
+      "internal_failure": "Six people introduced themselves in week one with no single 'who to contact for what' map, we asked her the same intake questions two and three times because nothing was shared internally, and no content cadence or deadline was ever documented — a gap still generating friction 12 months on.",
+      "evidence": [
+        {"quote": "Hey, Paulo I have recently a few days ago filed out form", "who": "LA Client — second near-identical intake form inside the first 48 hours", "date": "2025-08-27"},
+        {"quote": "Hi LA! Quick question, what's your birthday?", "who": "Lissy — Paulo had already collected her birthday AND chased the year a week earlier ('may I ask what year? ... in the form you added 2025')", "date": "2025-09-03"},
+        {"quote": "When is this content needed team ?", "who": "LA Client — followed by 'Or is there really No actual deadline ? / So I can adjust it into scheduling'. No cadence was ever written down; the 2026-08-30 '7 reels a week so 30 in total per month' ask arrived a year later with the same absence of context", "date": "2025-09-01"}
+      ]
+    },
+    "chatter_conduct": {
+      "severity": 3,
+      "internal_failure": "We sold and collected on customs before briefing her, pushed her three times to break a sexual boundary she had stated plainly, and now — after 107 dormant days with no fan-side activity at all — restarted customs with a bare spreadsheet link containing no fan, no amount, no deadline and no boundary check. She cannot even open it.",
+      "evidence": [
+        {"quote": "Don't do those types of customs", "who": "LA Client — responding to a custom Mon Coeur had already 'bagged' and collected $300 on, briefed as 'like you suckin on daddy's dick ... Topless'; she followed with 'Implying giving head / Give him other options'", "date": "2026-02-20"},
+        {"quote": "any chance you could still make an exception for him this one time? he's been one of your solid regular spenders and super loyal 🙏🏻", "who": "Tanya | Chat Manager — re-litigating a stated boundary the same day she set it, then bumping it again on 02-21 and 02-24", "date": "2026-02-20"},
+        {"quote": "Still cannot see what it entails / It's cut off on the words / Every time I open", "who": "LA Client — replying to Mayson's 'Were you able to do this custom?' plus a bare Google Sheets link (2026-09-17) that refers to a request which has never appeared in this chat. First custom ask in 107 days and it is unreadable. Unanswered at cutoff — and this is the last message in the entire log", "date": "2026-09-18"}
+      ]
+    },
+    "platform_health": {
+      "severity": 3,
+      "internal_failure": "Her Facebook page has been 'not recommended' for 356 days and is still broken. Ownership bounced Sophie → Mica → nobody → Vivek; our Meta rep spent a week on the wrong platform, told her the blocker was her fault, has had full account access for 33 days, and has produced one four-word message in the last 23. No dated plan has ever existed.",
+      "evidence": [
+        {"quote": "Ma'am that's on you completely", "who": "Vivek — after she declined to hand over her personal Gmail password, a refusal her management had formally backed the previous day", "date": "2026-08-16"},
+        {"quote": "PAGE NOT RECOMMENDED", "who": "LA Client — correcting our own Meta rep on which account was actually broken ('My IG was never shadow banned / It's FACEBOOK'), eleven months in", "date": "2026-08-20"},
+        {"quote": "👀👀👀 / Fingers crossed", "who": "LA Client — twelve minutes after overhearing Vivek answer a colleague's tag. She has not written the page off; she has just stopped asking us for it. Four days later there was still no follow-up", "date": "2026-09-14"}
+      ]
+    },
+    "billing_ops": {
+      "severity": 3,
+      "internal_failure": "Eight banking-rail changes in thirteen months, a link we knew would bounce, a 5% card surcharge added mid-relationship — and the two worst items are new: after four payment tranches ALTR still cannot state a single figure it received (we asked HER to supply the totals so we could track), and at least part of the settlement went to the owner's PERSONAL account because our own 2026-08-09 workaround instruction was never rescinded.",
+      "evidence": [
+        {"quote": "LA can you please try and zelle derrek? our zelle is having issues again im so sorry", "who": "Stephski — third separate Zelle failure since 2025-09-03, routing agency money to the owner's personal number. Never rescinded until 2026-09-17, 39 days later", "date": "2026-08-09"},
+        {"quote": "Thank you! Can you please include totals you send in these screenshots so I can track easier on our side ❤️", "who": "Stephski — our reconciliation handed back to the paying client. The last dollar figure anyone typed into this chat is Stephski's 'Just missing last $1,852.15' on 2026-08-11, 38 days and three invoices ago", "date": "2026-09-13"},
+        {"quote": "Okay great thank you, just a reminder that we need you to send to the business account not Derreks personal if possible 🙏", "who": "Stephski — ten hours after she declared 'Closed out'. Sent two days after the 2026-09-15 invoice had already announced an EIGHTH change in 13 months ('a slight name change to the account'), dropped on her mid-payoff. Her closeout remains unverified by us", "date": "2026-09-17"}
+      ]
+    },
+    "ownership_escalation": {
+      "severity": 3,
+      "internal_failure": "Her named relationship owner left without a handover, her entire vendor chat team was swapped out without her ever being told, the replacement has never appeared in 100 days, and her flagship issue is now 'owned' by a colleague tagging a name into the chat on her behalf — three times in four weeks, the first two ignored entirely.",
+      "evidence": [
+        {"quote": "I'll be assisting with day to day operations, leak protection, reporting, account reviews/optimisation and more 🥳", "who": "Sophie Logan (Raw Agency) — Client Relations manager; last message on the account 2025-10-09. No goodbye, no replacement ever named, no report since", "date": "2025-08-25"},
+        {"quote": "Hey @lxnselot we are putting on a different team", "who": "Mayson Chat — the whole chat team (lxns, Tanya, Mon Coeur, Isaac, Thon, Rafael) went silent within days; the replacement has never appeared, 100 days on. We have invoiced 'our team on your page' throughout, and she has now paid those invoices to zero", "date": "2026-06-10"},
+        {"quote": "Hey @fonta can we do anything about LAs facebook?", "who": "Mayson Chat — third escalation on her behalf in four weeks (2026-08-21, 2026-09-03, 2026-09-14). The client learns the status of her own account by reading exchanges between two staff", "date": "2026-09-14"}
+      ]
+    },
+    "disengagement_detection": {
+      "severity": 3,
+      "internal_failure": "Every early-warning signal this client has produced has been read as good news. She told us revenue was collapsing three times and got payment chases back; she cancelled the only recurring call and we never rebooked it; she stopped chasing the Facebook page after 356 straight days of raising it and nobody noticed; and her paying us off in full is being treated as recovery rather than as a client tidying up.",
+      "evidence": [
+        {"quote": "After Reviewing let's catch back up Next week!", "who": "LA Client — Mayson replied 'Okay got you'; the weekly call was never raised again, 86 days ago", "date": "2026-06-24"},
+        {"quote": "Being that account is basically at a stand still when everything drops I'll make those invoices expeditiously", "who": "LA Client — first time in 12 months she tied payment to our non-delivery. 22 days later it is dormant, not answered: nothing has been delivered against it and the objection is one unmet invoice from returning", "date": "2026-08-27"},
+        {"quote": "✅✅✅ / Closed out", "who": "LA Client — clearing six consecutive periods of balance out of her own OnlyFans drops, for a service that has not visibly run since June. Nobody on our side flagged that a client settling in full while receiving nothing is a churn signal, not a win", "date": "2026-09-17"}
+      ]
+    },
+    "security_hygiene": {
+      "severity": 3,
+      "internal_failure": "Four sets of live credentials, a linked phone number and an SMS 2FA code are still sitting in plaintext in a 20+ person group chat — the oldest 389 days, none ever rotated or deleted — because we asked her to post them there. Our Meta rep escalated to requesting her personal Gmail password after she had twice refused and her management had formally ruled it out. The first written credential rule on this account was issued on 2026-09-17, and it does not touch the scrollback.",
+      "evidence": [
+        {"quote": "Hey LA, Can I please get your Facebook log in details? ❤️ Email/phone number and password please x", "who": "Sophie Logan (Raw Agency) — she posted 'Facebook Login: lalovetheboss@gmail.com / PW: Hilda0263' into the group two hours later. Still in the thread, never rotated. She had already posted 'New password: BossLovelala9563!!$$**26' on day one, 2025-08-25", "date": "2025-09-15"},
+        {"quote": "For your security purposes, I can log in to Gmail while sharing my screen with you, because it only requires a one-time verification.", "who": "Vivek — third credential ask, after 'I already told you I can't give up my Gmail password confidential info…' (08-13) and 'Talked to my Management we can't give out certain passwords just for confidential purposes' (08-15)", "date": "2026-08-16"},
+        {"quote": "Please do not send your backup codes to anyone, including our team. Keep the screenshot somewhere secure that only you can access.", "who": "Mica Vecco — the first written credential rule ever issued on this account, and the right register. It covers Instagram backup codes only; 'PW: Hilda0263$$30' (08-07), 'New FB Password: BossMama261395$$' (08-09), her number 470 226 9179 (08-15) and the live code '050430' (08-16) are all still scrollable and unrotated", "date": "2026-09-17"}
+      ]
+    }
+  },
+  "metrics": {
+    "client_questions_total": 94,
+    "unanswered_over_24h": 4,
+    "max_team_silence_days": 9.6,
+    "promises_made": 35,
+    "promises_kept": 15,
+    "promises_lapsed": 18,
+    "method": "Full history 2025-08-25 → 2026-09-18: 1857 non-service messages (1102 client 'LA Client' / 755 our side; the 'Lauryn chat team' vendor group and all '| Chat Manager'-style senders counted as our side). client_questions_total = client messages containing '?'. Strict first-reply-by-anyone lag is excellent (median 0.03h, mean 1.6h, p90 3.2h, max 43.1h) and yields only 1 raw breach over 24h; unanswered_over_24h=4 instead counts client questions with no SUBSTANTIVE answer inside 24h, grouping repeat nudges on one topic as one item: invoice split 2026-07-19 (43h); Zelle-email-not-working 2026-08-07 (39h); 'What our update?' 2026-08-13 after a broken 2-hour promise; and the Facebook chase thread of 2026-09-02/03 ('Any updates???' / 'We still in review ??' / '???'), which was never answered to her — the 2026-09-14 reply, 12 days later, was addressed to the colleague who tagged on her behalf and contained no information. max_team_silence_days = longest run with zero human outbound from our side excluding automated leak-scan broadcasts (9.6d, 2025-12-05 → 2025-12-15); raw longest gap including broadcasts is 8.1d (2025-12-23 → 2025-12-31). Promises = explicit dated or actionable commitments made by our side; 15 kept, 18 lapsed or overdue at cutoff (including 5 pending-but-overdue-by-owner-record), 2 unverifiable from the transcript and excluded from both counts. The client, by contrast, has kept every payment commitment and never disputed a cent in 13 months."
+  },
+  "what_client_wanted": [
+    "Aggressive, visible growth she could be SHOWN, not told about — 'Let's make this impactful 🚀🚀🚀' (2025-08-25). She has not been sent a performance or revenue number since 2025-09-11, and by 2026-09-02 was explaining our own slow month back to us ('team has had a very slow month things aren't dropping quick!') with no data from us either way.",
+    "Her Facebook page working and protected, framed explicitly as a business necessity — 'It's very important for my page to be back up and functioning due to Business reasons 🙏🏽' (2026-08-18) and 'Just def want page protected at all costs' (2025-09-15). 356 days open. She stopped raising it herself on 2026-09-03 but still reacted within twelve minutes when someone else did ('👀👀👀 / Fingers crossed', 2026-09-14).",
+    "Her name cleaned off leak sites for branding, not takedown volume — 'My biggest thing is when they type and My Name with Naked\" doesn't show any of that type of content for branding purposes' (2025-08-29). This is the only service she has ever visibly received, and its weekly update was missed on ~2026-09-15 after ten unbroken deliveries.",
+    "To be kept in the loop without chasing, given VISUAL step-by-step instructions when we ask her to do technical work herself, and to have her boundaries stated once and respected — 'Keep me updated pls' (2026-08-18), 'Visually that's better' (2026-08-13), 'Don't do those types of customs' (2026-02-20). None of the three has been honoured; the visual 2FA steps are 36 days overdue from the owner personally."
+  ],
+  "what_worked": [
+    "The initial DMCA sweep and the weekly cadence behind it — 'Insaneeee / But glad we cleaned it all up / Thank Youuuu 🙏🏽' (2025-08-28) and 'Looking much more clear' (2025-09-03). It is the only service on this account she has ever praised twice, and the only one she can see. Protect it absolutely: it broke for 75 days in spring and was missed again in the exact week she cleared her balance.",
+    "Boundaries set BEFORE we sell, and low-pressure human contact instead of escalation. King Choy asking her limits up front before taking FT requests drew 'Thank Youuu / For communicating that with me 🙏🏽🙏🏽🙏🏽' (2025-08-30). Stephski's soft check-in 'hiiii hows it looking over here?' (2026-09-05) and the one-line nudge 'hi LA ALTR just making sure you saw this ❤️' (2026-09-16, reply in 7 minutes) each produced more than either formal pause threat ever did.",
+    "The pre-invoice payout heads-up — 'Just letting you know your invoice will be sent tomorrow, so it would be great if you could initiate a OF withdrawl today so the funds hit your account in time!' (2026-09-14). The first time in thirteen months anyone planned around her cash cycle instead of chasing it; it preceded the fastest, cleanest settlement on record. Make it standard on every invoice, for every client who pays out of platform drops.",
+    "The single report + 14-day game plan Sophie delivered on 2025-09-23 — 'Thank you for this Report... I think we are on the right track / Moving Upward 📈 / Stradgey makes sense', engaged with inside four hours. One strategic artefact in twelve months, and it landed perfectly."
+  ],
+  "top_fix": "Make delivery evidence a precondition of invoicing. One named owner per account who must post, in the chat and in the client's own terms, a dated status on every open issue plus the period's numbers BEFORE the invoice goes out — and a written handover to the client whenever any staffer or vendor team leaves. Lauryn lost her relationship manager silently on 2025-10-09 and her entire chat team silently on 2026-06-10; from those two moments nobody owned her numbers, no report was ever sent again, the Facebook block ran 356 days, and the only contact she had left with us was a bill. This week she paid that bill down to zero out of her own OnlyFans drops, received a missed DMCA update and an unreadable custom link in return, and was then told she had been paying the owner's personal account. Nothing about the relationship will change until we cannot bill her without first showing her what she bought."
+}

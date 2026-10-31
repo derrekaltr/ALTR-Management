@@ -1,0 +1,53 @@
+# Meta Ads x Models  [whatsapp #1577 GROUP]
+msgs=50 (in=48 out=2) window=2026-08-10..2026-09-07
+last_client=2026-09-07 (11d ago), last_derrek=2026-08-11 (38d ago)
+LAST MESSAGE FROM CLIENT — UNANSWERED: 'Waiting for the detail'
+
+  ...
+[2026-08-10 21:41] 120363426882047752@g.us: {"parent_group_jid":null,"is_initially_empty":false,"is_hidden_sub_group":false,"should_use_identity_header":true,"author":"65300816998597@lid","reason":0,"is_open_group":true,"auto_add_disabled":true,"show_membership_string":true,"context_group":null,"subject…
+[2026-08-10 21:41] DEREK: Hey guys!
+[2026-08-10 21:51] 197405874085999@lid: Hey bro
+[2026-08-10 21:51] 244757334876233@lid: Hi
+[2026-08-10 21:56] 244757334876233@lid: @197405874085999 send me that product detail let me check where we can advertise that
+[2026-08-11 01:12] 197405874085999@lid: Ill find it
+[2026-08-11 01:12] 197405874085999@lid: Please let us know regarding marketing everything u need for models
+[2026-08-11 05:15] 244757334876233@lid: Will do in the morning bro
+[2026-08-11 15:14] 244757334876233@lid: 1. Facebook old Accounts 2010,2011,2012 verified with video selfie driving license and USA number we need like 30 accounts 2. Tiktok shop account 3. Twitter Blue Tick 5 accounts 4. Instagram Old accounts with good followers 5. Youtube
+[2026-08-11 19:52] 244757334876233@lid: Good Afternoon
+[2026-08-11 19:52] 244757334876233@lid: @65300816998597 send me the detail of celeb and their requirements
+[2026-08-11 20:29] DEREK: Kk let me work on this
+  ...
+[2026-08-12 22:56] 244757334876233@lid: Hello @197405874085999
+[2026-08-12 22:56] 244757334876233@lid: Any update bro?
+[2026-08-30 23:29] 244757334876233@lid: Hey bro
+  ...
+[2026-08-30 23:30] 244757334876233@lid: Waiting for the celebrities project to start
+[2026-08-30 23:30] 244757334876233@lid: Let's make a short meeting and start it
+[2026-08-30 23:32] 197405874085999@lid: Tell me
+[2026-08-30 23:32] 197405874085999@lid: Do u need Ads accounts
+[2026-08-30 23:32] 197405874085999@lid: Or u have
+[2026-08-30 23:32] 197405874085999@lid: If u have teams
+[2026-08-30 23:32] 197405874085999@lid: What u need from us
+[2026-08-30 23:32] 244757334876233@lid: Yes bro i need the detail and ads accounts my team is ready
+[2026-08-30 23:33] 197405874085999@lid: @65300816998597
+[2026-08-30 23:33] 244757334876233@lid: How many celebrities we have right now?
+[2026-08-30 23:33] 197405874085999@lid: Not celebrities man
+[2026-08-30 23:33] 197405874085999@lid: They’re just normal people like us
+[2026-08-30 23:33] 244757334876233@lid: Model🤭
+[2026-08-30 23:33] 197405874085999@lid: No such thing as a celebrity
+[2026-08-30 23:34] 244757334876233@lid: N.p bro tell me their qunatity accoridng to that i will let you know about accounts and computers that i need
+[2026-08-30 23:34] 197405874085999@lid: Derrek lno
+[2026-08-30 23:34] 244757334876233@lid: Okey
+[2026-08-30 23:34] 244757334876233@lid: Waiting for him
+[2026-09-02 15:29] 197405874085999@lid: hey
+[2026-09-02 15:29] 197405874085999@lid: our phonefarm opetation starts todau
+[2026-09-02 15:30] 197405874085999@lid: when this is rolling we will hjave accounts setup
+[2026-09-02 15:30] 244757334876233@lid: Hi
+[2026-09-02 15:30] 197405874085999@lid: and i can. give you detaiuls for ads
+[2026-09-02 15:30] 197405874085999@lid: thanks for the patience
+[2026-09-02 15:30] 244757334876233@lid: Okey bro
+[2026-09-02 15:30] 244757334876233@lid: Yes sure
+[2026-09-02 15:30] 244757334876233@lid: You're welcome bro
+[2026-09-07 16:46] 244757334876233@lid: Hey bro
+[2026-09-07 16:46] 244757334876233@lid: @197405874085999 @65300816998597
+[2026-09-07 16:46] 244757334876233@lid: Waiting for the detail

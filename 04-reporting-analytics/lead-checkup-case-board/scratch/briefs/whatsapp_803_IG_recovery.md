@@ -1,0 +1,120 @@
+# IG recovery  [whatsapp #803 GROUP]
+msgs=137 (in=123 out=14) window=2026-04-01..2026-06-27
+last_client=2026-06-27 (83d ago), last_derrek=2026-06-27 (83d ago)
+LAST MESSAGE FROM CLIENT — UNANSWERED: 'I got my number back'
+
+  ...
+[2026-04-01 16:16] 120363407119616619@g.us: IG recovery
+[2026-04-01 16:16] DEREK: Hey
+[2026-04-01 16:16] 174062659723311@lid: Yo yo
+[2026-04-01 16:16] 174062659723311@lid: Lmk what info you need for IG recovery
+[2026-04-01 16:16] 96117777760289@lid: Login screenshot
+[2026-04-01 16:16] 96117777760289@lid: Check msg on ig @65300816998597
+[2026-04-01 16:20] 96117777760289@lid: Followers count??
+[2026-04-01 16:20] 174062659723311@lid: Was roughly like 600 or so
+[2026-04-01 16:20] 174062659723311@lid: Not much
+[2026-04-01 16:21] 96117777760289@lid: Honestly rep prices are high
+[2026-04-01 16:22] 96117777760289@lid: I can recover your acc directly by meta representative
+[2026-04-01 16:22] 174062659723311@lid: What’s the price
+[2026-04-01 16:22] 174062659723311@lid: It’s important to get page back but with follower count if it’s too high $$$ wise won’t be worth it.
+[2026-04-01 16:23] 96117777760289@lid: 2000$ Lowest
+[2026-04-01 16:23] 174062659723311@lid: Is it a guaranteed recovery ?
+[2026-04-01 16:23] 96117777760289@lid: Yes 100percent
+  ...
+[2026-04-01 16:24] 96117777760289@lid: Lmk rep coming next 5-6hrs
+[2026-04-01 16:25] 174062659723311@lid: Will it help avoid any further bans or what do u recommend. Since its a crypto account
+[2026-04-01 16:25] 96117777760289@lid: Yess it will
+[2026-04-01 16:26] 96117777760289@lid: I can personally protect it
+[2026-04-01 16:26] 174062659723311@lid: Also lmk payment methods u accept, Estimated time for recovery and what will be needed to do so
+[2026-04-01 16:26] 174062659723311@lid: Legend
+[2026-04-01 16:27] 96117777760289@lid: Crypto
+[2026-04-01 16:27] 174062659723311@lid: Bet
+  ...
+[2026-04-01 16:29] 96117777760289@lid: Alright
+[2026-04-01 16:29] 174062659723311@lid: Send me preferred crypto network and address. Also estimated time for recovery
+[2026-04-01 16:29] 96117777760289@lid: 0x90356c2BdE883B491e92b88b66e038fC4De48C9E ERC20
+[2026-04-01 16:29] 174062659723311@lid: USDT?
+[2026-04-01 16:30] 96117777760289@lid: It honestly take 5hrs maximum to recover when representative came
+[2026-04-01 16:30] 96117777760289@lid: But sometimes meta rep didn’t came office You can ask brown derrek how we work
+  ...
+[2026-04-01 16:45] 96117777760289@lid: And i will send your case in priority list
+[2026-04-01 16:46] 174062659723311@lid: Sounds good just keep me updated and lmk if anything is needed
+[2026-04-01 16:46] 174062659723311@lid: Appreciate you
+  ...
+[2026-04-01 17:17] DEREK: What’s up
+[2026-04-01 22:37] 174062659723311@lid: Any update ? @96117777760289
+[2026-04-02 01:58] 96117777760289@lid: Waiting on rep
+[2026-04-02 02:11] 174062659723311@lid: Bet
+[2026-04-02 02:22] 96117777760289@lid: Due to new ig exploit (everyone getting banned) Instagram changing there policies In this period rep can submit any account We have to wait 24/48hrs
+[2026-04-02 02:23] 174062659723311@lid: all good
+[2026-04-02 02:24] 96117777760289@lid: Yupp Whenever rep came your case will be submitted first Because its in priority list
+[2026-04-02 02:24] 174062659723311@lid: Thanks bro 🫡
+  ...
+[2026-04-02 02:25] 174062659723311@lid: Prob get a lot of peptide company’s loll
+[2026-04-02 02:25] 174062659723311@lid: Our peptide one got taken down as well but not even worth recovering
+[2026-04-02 02:25] 96117777760289@lid: Dont appeal on it
+[2026-04-02 02:26] 174062659723311@lid: It had 0 followers was brand new so not even worth trying
+[2026-04-02 02:26] 96117777760289@lid: If you have any acc in which you didn’t appealed we can unban it in 500-800$ After exploit gets fixed
+[2026-04-02 02:26] 96117777760289@lid: Okay okayy
+  ...
+[2026-04-02 02:26] 174062659723311@lid: Good to know
+[2026-04-03 20:14] 174062659723311@lid: Think we get it unbanned sometime today ? @96117777760289
+[2026-04-06 18:28] 174062659723311@lid: Yo yo any update @96117777760289 @65300816998597
+[2026-04-06 19:08] DEREK: @96117777760289
+  ...
+[2026-04-07 01:44] 174062659723311@lid: Bet all good 🤝
+[2026-04-07 01:44] 174062659723311@lid: Thanks for update @65300816998597
+[2026-04-07 01:44] DEREK: Also, just so you know, his time zone is completely different than ours
+  ...
+[2026-04-07 02:41] 174062659723311@lid: All good anyone of urs I already know is 💯
+[2026-04-08 15:44] 96117777760289@lid: @174062659723311 just submitted your case to internal meta representative
+[2026-04-08 15:44] 174062659723311@lid: 🫡
+[2026-04-08 15:44] 174062659723311@lid: Bet
+[2026-04-08 15:44] 174062659723311@lid: Think it gets done today ?
+[2026-04-08 15:45] 96117777760289@lid: If rep successfully submitted it Then it will came back in next 3hrs
+[2026-04-08 15:45] 174062659723311@lid: Bet keep me updated, thanks g 💯
+[2026-04-10 13:26] 174062659723311@lid: Yoo
+  ...
+[2026-04-10 13:30] 174062659723311@lid: All good, appreciate it bro
+[2026-04-13 20:14] 174062659723311@lid: Any update on estimated time ?
+[2026-04-13 20:14] 174062659723311@lid: need that up ASAP 🙏
+  ...
+[2026-04-17 01:24] 96117777760289@lid: @174062659723311
+[2026-04-17 01:25] 96117777760289@lid: I can gave you refund If you want And you can pay me after rep came And unbanned your acc
+[2026-04-17 01:25] 96117777760289@lid: You can payafter unban
+[2026-04-17 01:25] 174062659723311@lid: Yea bro that would be great 👍🏽 Ask Derek I’m good for it 🤝
+  ...
+[2026-04-17 01:25] 96117777760289@lid: Address
+[2026-04-17 01:26] 174062659723311@lid: USDT ERC20 0xA22372C747cE5c0233709423CcBf8481E7543faE
+[2026-04-17 01:43] DEREK: Sorry broski
+[2026-04-17 01:43] DEREK: Everyone smoked rn for unbans
+[2026-04-17 01:43] 174062659723311@lid: All good bro. Wasn’t a huge following so it’s not a big deal but would’ve been clutch
+[2026-04-17 01:44] 174062659723311@lid: Appreciate the good business as always. If u find solution hit me asap 🤝
+[2026-04-17 01:47] 96117777760289@lid: If rep came i will directly submit your acc without asking you
+[2026-04-17 01:48] 96117777760289@lid: Dont go for someone else bro There is no meta representative in entire community And we will be first who will get meta rep
+[2026-04-17 01:48] 174062659723311@lid: I’m not g 🤝
+[2026-04-17 01:49] 174062659723311@lid: Bet
+[2026-04-18 14:36] 174062659723311@lid: Loll made a new IG and got banned in 7 minutes.. IG not playing 😂
+[2026-04-18 14:55] DEREK: Yeah, you need a different phone and you need different email/number and photos
+[2026-04-26 07:08] 174062659723311@lid: Yooo @96117777760289 what other services do u offer. Can you get Reddit post deleted ?
+[2026-04-26 07:29] 96117777760289@lid: Yess
+[2026-04-26 07:29] 174062659723311@lid: What do you charge for that
+[2026-04-26 07:30] 174062659723311@lid: https://www.reddit.com/r/CryptoScams/s/Q4LqyRmsh2
+[2026-04-26 07:31] 174062659723311@lid: Need to get this removed
+[2026-04-26 17:48] DEREK: @96117777760289
+[2026-06-27 09:32] 96117777760289@lid: @174062659723311
+[2026-06-27 11:48] 174062659723311@lid: Yo yo
+[2026-06-27 11:48] 96117777760289@lid: U still need that page back?
+[2026-06-27 11:49] 174062659723311@lid: Nah I do need my girls page back tho
+[2026-06-27 11:49] 96117777760289@lid: Lets get them back
+[2026-06-27 11:49] 96117777760289@lid: I got meta portal
+[2026-06-27 11:50] 96117777760289@lid: Im also doing shadowban removal
+[2026-06-27 11:50] 174062659723311@lid: It got deleted in bulk from her other account connected to it that was flagged
+[2026-06-27 11:50] 96117777760289@lid: I got a guy in feb with 700k followers Today he completed 1m
+[2026-06-27 11:50] 96117777760289@lid: All because i managed his page and prevented shadowban
+[2026-06-27 11:51] 96117777760289@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363407119616619@g.us/5/f/5ffa6020-00e5-4042-a9ac-cd678e97bb48.jpg>
+[2026-06-27 11:51] 174062659723311@lid: Fire
+[2026-06-27 14:00] DEREK: Yo don’t answer him his number hacked
+[2026-06-27 16:54] 96117777760289@lid: @all
+[2026-06-27 16:54] 96117777760289@lid: I got my number back

@@ -1,0 +1,291 @@
+{
+  "client": "Mila",
+  "slug": "mila-x-altr",
+  "week_ending": "2026-08-28",
+  "summary": "One message. That is the entire week on this account. Between Aug 21 and Aug 28 the only thing anyone typed into Mila x ALTR was Mayson posting the bare string 'crystalmila.vip' into the OnlyFans topic at 02:53 on Aug 23 — no greeting, no explanation of what the link is, no ask, no follow-up. Callie did not reply, and she has not written since 'Sent:)' on Aug 17: eleven days of client silence, her longest stretch since onboarding. Stephski and Michelle both went quiet the same night (Aug 17); Mica's reel-inspo cadence has now missed two consecutive weeks (last drop Aug 13, 15 days ago); Derrek has not posted since Aug 1 (27 days); Vivek, introduced Jul 29 as the Meta Support escalation route, has now been in the chat 30 days without ever sending a message. Nothing was resolved, nothing was chased, and every open item simply aged another seven days. The two that matter most: Callie's Aug 17 wire — sent to an account number Stephski changed mid-relationship on the Aug 15 invoice, after telling her on Jul 13 to 'just repeat to the same account' — has now gone 11 days with no receipt confirmation and no statement of which account it landed in; and her Aug 8 question asking ALTR to 'double check it doesn't come through twice' is 20 days unanswered after Stephski promised 'Will update you shortly!' on Aug 11. Meanwhile 48 videos she uploaded on Aug 17 are sitting in a Drive feeding a posting programme that has been paused since roughly late July, and the only response she has ever had to them is 'yayyy perfect babes tyyy 🫶🏼'. This is not a quiet week. It is an account where the client has stopped asking for things, ALTR has stopped answering, and the next invoice (Aug 15-31, due on cadence around Sep 1) is about to land on top of an unreconciled payment.",
+  "health": {
+    "score": 54,
+    "trend": "down",
+    "rationale": "Down 12 from 66 (and from 74 and 82 in the two weeks before that — a 28-point slide in four weeks). The delta is not driven by anything the client did; she did nothing, because she has stopped engaging. It is driven by ALTR producing exactly one message in seven days, and that message being a context-free 15-character domain posted at 2:53am by Mayson, who had not spoken in the chat since Jul 10. Every single open item aged seven days with zero action: the unverified Aug 17 wire is now 11 days unconfirmed against a changed account number; the duplicate-payment question is 20 days unanswered; Derrek's 'plenty of updates starting next week' promise from Aug 1 is 27 days overdue and he has not written since making it; Vivek has been Meta Support for 30 days and has never spoken; Michelle's Jul 8 promise to send post links is 51 days old; and Mica's reel-inspo drop — for two months the only reliable proactive touch on this account — has now been missed twice running. The score is not lower only because there is no active complaint, no dispute, and no payment default: the client has always paid. But three straight weeks of falling engagement followed by total mutual silence, with money unreconciled and a full content bank unused, is the shape of a churn, not a lull.",
+    "delta_from_last_week": -12
+  },
+  "reminders": [
+    {
+      "employee": "Stephski",
+      "topic": "Confirming ALTR actually received her payments — and whether the Jul 15-31 wire came through twice",
+      "count": 4,
+      "direction": "client_to_altr",
+      "first_date": "2026-07-12",
+      "last_date": "2026-08-10",
+      "days_outstanding": 20,
+      "chases_this_week": 0,
+      "note": "Zero chases this week, and that is the finding. Callie chased four times across three cycles (Jul 12, Jul 13, Aug 8, Aug 10). Since Aug 17 she has sent 'Sent:)' and then nothing at all — she did not ask whether the money arrived, did not ask which account it went to, and did not follow up on the duplicate question she raised 20 days ago. Her Aug 8 request has now outlived Stephski's 'Will update you shortly!' by 17 days. A client who used to chase four times per cycle and now chases zero has not become relaxed; she has stopped expecting an answer.",
+      "quotes": [
+        {"quote": "Has it been received ??", "who": "Callie (Mila)", "date": "2026-07-12"},
+        {"quote": "?", "who": "Callie (Mila)", "date": "2026-07-13"},
+        {"quote": "if you could just double check it doesn’t come through twice🙄 thank you! Xx", "who": "Callie (Mila)", "date": "2026-08-08"},
+        {"quote": "The only thing I can think of is because it’s the weekend and international payments take a couple of days. Please let me know if it’s not there by the end of today and I’ll call the bank again xx", "who": "Callie (Mila)", "date": "2026-08-10"},
+        {"quote": "Will update you shortly!", "who": "Stephski", "date": "2026-08-11"},
+        {"quote": "Sent:)", "who": "Callie (Mila)", "date": "2026-08-17"},
+        {"quote": "Thank you love!", "who": "Stephski", "date": "2026-08-17"}
+      ]
+    },
+    {
+      "employee": "Michelle Queue",
+      "topic": "Chasing Callie for reel uploads — three nudges over 30 days, delivered Aug 17, and then nothing back",
+      "count": 3,
+      "direction": "altr_to_client",
+      "first_date": "2026-07-18",
+      "last_date": "2026-08-14",
+      "resolved_date": "2026-08-17",
+      "days_outstanding": 11,
+      "chases_this_week": 0,
+      "note": "The chase closed on Aug 17 with 48 videos. Eleven days later Michelle has still sent nothing back beyond an emoji reply, and has not written in the chat since Aug 17 at 23:08. The asymmetry is now stark: ALTR nudged this client three times in 30 days to get content, and has spent the 11 days since delivery saying nothing about what happens to it. If Michelle nudges a fourth time in September without ever having addressed the 48 videos, expect that ask to land badly.",
+      "quotes": [
+        {"quote": "Hi babe! would you be able to upload more reels please? 💗", "who": "Michelle Queue", "date": "2026-07-18"},
+        {"quote": "Hi babe! would you be able to upload more reels please? 💗", "who": "Michelle Queue", "date": "2026-08-06"},
+        {"quote": "Hi love, any update yet on the new content? 💕", "who": "Michelle Queue", "date": "2026-08-14"},
+        {"quote": "Have uploaded 48 vids to the drive 🤍", "who": "Callie (Mila)", "date": "2026-08-17"},
+        {"quote": "yayyy perfect babes tyyy 🫶🏼", "who": "Michelle Queue", "date": "2026-08-17"}
+      ]
+    }
+  ],
+  "complaints": [
+    {
+      "issue": "Instagram suspensions and the paused backup-IG posting programme — unresolved since Jun 23, now 66 days. Derrek acknowledged on Aug 1 that pages were 'constantly flagged, shadowbanned or deleted', that posting had been paused pending a $40k phone-farm rebuild, and that the final shipment would land 'Monday' (Aug 3). FOUR consecutive weeks have now passed (Aug 2-8, 9-14, 15-21, 22-28) with no rollout update, no posting links, and no message of any kind from Derrek or Vivek. Callie has uploaded 48 videos into this vacuum and has stopped asking about it entirely — she last mentioned promos on Jul 8, 51 days ago.",
+      "status": "recurring",
+      "first_raised": "2026-06-23",
+      "owner": "Derrek / Vivek (Meta Support)",
+      "severity": "critical",
+      "days_open": 66,
+      "weeks_open": 10,
+      "escalation_note": "Last week's file said: 'If week 4 passes silent this should go to the owner directly, not through the chat.' Week 4 has passed silent. This is now the trigger condition. The client's own behaviour has degraded exactly as predicted — from asking, to accepting, to not speaking at all.",
+      "quotes": [
+        {"quote": "Hey guys my accounts been suspended again, I haven’t clicked appeal this time as you said not to, so what happens now x", "who": "Callie (Mila)", "date": "2026-06-23"},
+        {"quote": "Hiya, what’s the plan for promos for the time being :)", "who": "Callie (Mila)", "date": "2026-07-08"},
+        {"quote": "we have had pages constantly flagged, shadowbanned or deleted", "who": "Derrek", "date": "2026-08-01"},
+        {"quote": "We are waiting for a shipment that should land Monday that will be the final piece needed to begin and scale.", "who": "Derrek", "date": "2026-08-01"},
+        {"quote": "Thank you for your understanding, we will have plenty of updates starting next week.", "who": "Derrek", "date": "2026-08-01"}
+      ]
+    },
+    {
+      "issue": "No visibility into what is being posted on her behalf. Callie asked on Jul 8 for links to promo posts so she could 'be in the loop'; Michelle said 'will do babes 🫶🏼', sent the sugarcrystalll page URL on Jul 11, and has sent zero individual post links in the 51 days since — spanning two client content drops (Jul 19 and the 48 videos on Aug 17). She has never received evidence that a single piece of her content has been posted anywhere.",
+      "status": "recurring",
+      "first_raised": "2026-07-08",
+      "owner": "Michelle Queue",
+      "severity": "high",
+      "days_open": 51,
+      "escalation_note": "Oldest unfulfilled promise on the account and the cheapest to fix. Fifty-one days, one page URL. Untouched this week.",
+      "quotes": [
+        {"quote": "Amazinggg, if you could send me links when you do just so I can be in the loop🫶🏼", "who": "Callie (Mila)", "date": "2026-07-08"},
+        {"quote": "will do babes 🫶🏼", "who": "Michelle Queue", "date": "2026-07-08"},
+        {"quote": "Hi babes, this is the ig page we will be posting on 💕\n\nhttps://www.instagram.com/sugarcrystalll/reels/", "who": "Michelle Queue", "date": "2026-07-11"}
+      ]
+    },
+    {
+      "issue": "Unreconciled money. Two payment cycles are now open at once with no written confirmation to the client: the Jul 15-31 wire (re-sent Aug 8 after a bank fraud flag, duplicate-check requested, 'Will update you shortly!' promised Aug 11, never delivered — 20 days) and the Aug 1-14 wire (sent Aug 17 to an account number Stephski changed on the Aug 15 invoice, 11 days with no confirmation it landed or where). The client has not raised this as a complaint — she has simply stopped asking, which is why it is being recorded as one here.",
+      "status": "in_progress",
+      "first_raised": "2026-08-08",
+      "owner": "Stephski",
+      "severity": "critical",
+      "days_open": 20,
+      "escalation_note": "Not a client-voiced complaint. Logged because two wires from an overseas payer are outstanding on ALTR's books with zero acknowledgement, one of them against changed banking details, and the next invoice is due on cadence around Sep 1. If a duplicate cleared, ALTR is holding client money it has never mentioned.",
+      "quotes": [
+        {"quote": "Hiya, just letting you know my bank had a fraud flag thing so my payment got stopped, I’ve only just seen but it’s sorted now and I’ve redone it please let me know when you’ve received it and if you could just double check it doesn’t come through twice🙄 thank you! Xx", "who": "Callie (Mila)", "date": "2026-08-08"},
+        {"quote": "I believe we got it, waiting for it to finalize processing so I can see sender info but it looks like your total", "who": "Stephski", "date": "2026-08-11"},
+        {"quote": "Will update you shortly!", "who": "Stephski", "date": "2026-08-11"},
+        {"quote": "So we can just repeat to the same account for this next period of invoicing coming up 🙂", "who": "Stephski", "date": "2026-07-13"},
+        {"quote": "Please note an update to the account number, please try and send using the information on the invoice.", "who": "Stephski", "date": "2026-08-15"}
+      ]
+    }
+  ],
+  "commitments": [
+    {
+      "what": "Verify the Aug 1-14 payment Callie sent on Aug 17 actually landed, confirm the amount, and state explicitly whether it hit the NEW account number introduced on the Aug 15 invoice or the OLD one Stephski told her on Jul 13 to reuse. Eleven days on, the only reply she has ever had is 'Thank you love!', sent 27 minutes after 'Sent:)' — an acknowledgement of the send, not of receipt.",
+      "who": "Stephski",
+      "date": "2026-08-17",
+      "status": "overdue",
+      "days_outstanding": 11,
+      "risk": "critical — conflicting banking instructions given to an international payer whose wire has already proven hard to locate once (Jul 13, a bank fee changed the total)",
+      "note": "Escalated from pending to overdue exactly as last week's file specified ('Escalate to overdue if unconfirmed by 2026-08-24'). It was not confirmed by Aug 24. This is the single highest-risk item on the account.",
+      "quotes": [
+        {"quote": "So we can just repeat to the same account for this next period of invoicing coming up 🙂", "who": "Stephski", "date": "2026-07-13"},
+        {"quote": "Hi hun! Hope you had a great week. Below is your invoice for the period of August 1st-14th. Please note an update to the account number, please try and send using the information on the invoice. Have also attached updated Zelle info that should be easy to use now. Thanks so much!💘", "who": "Stephski", "date": "2026-08-15"},
+        {"quote": "Sent:)", "who": "Callie (Mila)", "date": "2026-08-17"},
+        {"quote": "Thank you love!", "who": "Stephski", "date": "2026-08-17"}
+      ]
+    },
+    {
+      "what": "Confirm receipt of the re-sent Jul 15-31 payment and explicitly answer whether it came through twice. Stephski said 'Will update you shortly!' on Aug 11. Seventeen days later nothing has been sent, and the client's underlying question from Aug 8 is 20 days unanswered.",
+      "who": "Stephski",
+      "date": "2026-08-11",
+      "status": "overdue",
+      "days_outstanding": 17,
+      "note": "Was 3 days overdue at the Aug 14 checkpoint, 10 at Aug 21, 17 now. It has doubled twice. Nobody on the team has backfilled it.",
+      "quotes": [
+        {"quote": "Just checked we have not received", "who": "Stephski", "date": "2026-08-09"},
+        {"quote": "I believe we got it, waiting for it to finalize processing so I can see sender info but it looks like your total", "who": "Stephski", "date": "2026-08-11"},
+        {"quote": "Will update you shortly!", "who": "Stephski", "date": "2026-08-11"},
+        {"quote": "Ahhh perf!! X", "who": "Callie (Mila)", "date": "2026-08-11"}
+      ]
+    },
+    {
+      "what": "Deliver the promised phone-farm / IG posting rollout updates. Derrek said on Aug 1 there would be 'plenty of updates starting next week' and that the enabling shipment would land Monday Aug 3. Twenty-seven days later there has been no update, no shipment confirmation, no posting restart, and Derrek has not written a single message in the chat since making the promise.",
+      "who": "Derrek",
+      "date": "2026-08-01",
+      "status": "overdue",
+      "days_outstanding": 27,
+      "note": "13 days overdue at the Aug 14 checkpoint, 20 at Aug 21, 27 now — four straight weeks of owner-level silence on the client's largest open issue. The Aug 1 message itself opened with 'My apologies, for any lack of communication', which is now a promise broken twice over.",
+      "quotes": [
+        {"quote": "We are waiting for a shipment that should land Monday that will be the final piece needed to begin and scale.", "who": "Derrek", "date": "2026-08-01"},
+        {"quote": "Thank you for your understanding, we will have plenty of updates starting next week.", "who": "Derrek", "date": "2026-08-01"},
+        {"quote": "My apologies, for any lack of communication.", "who": "Derrek", "date": "2026-08-01"}
+      ]
+    },
+    {
+      "what": "Vivek (Meta Support) was introduced on Jul 29 as the named escalation route for restrictions, shadowbans and bans, with an offer to set up Copyright Ban Protection. Thirty days later he has still never posted a single message in this chat, and the Copyright Ban Protection setup has never been mentioned again by anyone.",
+      "who": "Vivek",
+      "date": "2026-07-29",
+      "status": "overdue",
+      "days_outstanding": 30,
+      "note": "23 days at the Aug 21 checkpoint, 30 now. A named support contact who has never spoken in a month is worse than no contact — it was announced to a client whose IG had already been suspended twice.",
+      "quotes": [
+        {"quote": "Hey Ive added Vivek in here ( @fonta ). He is our Meta Support Rep that will help keep your IG accounts up and safe. If you have any restrictions, shadowbans, or bans.... simply @ him in the chat and he will help. To start, if you want your accounts setup for Copyright Ban Protection he can assist.", "who": "Derrek", "date": "2026-07-29"},
+        {"quote": "Thank you!!", "who": "Callie (Mila)", "date": "2026-07-29"}
+      ]
+    },
+    {
+      "what": "Send Callie links to the promo content posted on her behalf so she is 'in the loop' — agreed Jul 8 with 'will do babes 🫶🏼'. Only the sugarcrystalll page URL was ever shared (Jul 11). Fifty-one days, zero individual post links, including in the 11 days since she delivered 48 videos.",
+      "who": "Michelle Queue",
+      "date": "2026-07-08",
+      "status": "overdue",
+      "days_outstanding": 51,
+      "note": "37 days at Aug 14, 44 at Aug 21, 51 now. Oldest unfulfilled item on the account and the one that would cost the least to close.",
+      "quotes": [
+        {"quote": "Amazinggg, if you could send me links when you do just so I can be in the loop🫶🏼", "who": "Callie (Mila)", "date": "2026-07-08"},
+        {"quote": "will do babes 🫶🏼", "who": "Michelle Queue", "date": "2026-07-08"}
+      ]
+    },
+    {
+      "what": "Do something visible with the 48 videos Callie uploaded on Aug 17 after a 30-day, three-nudge chase — a posting schedule, confirmation the content is usable, or an honest statement that the programme is still paused and the content is banked. Eleven days on, the only response in existence is 'yayyy perfect babes tyyy 🫶🏼'.",
+      "who": "Michelle Queue",
+      "date": "2026-08-17",
+      "status": "overdue",
+      "days_outstanding": 11,
+      "note": "Escalated from pending. Michelle originally told her on Jun 25 that 'The content you upload here will be used by the team to post consistently across your management IG account' — that is the standard this is failing against, and the client has now contributed two batches under it.",
+      "quotes": [
+        {"quote": "The content you upload here will be used by the team to post consistently across your management IG account, driving traffic and growth 🚀✨", "who": "Michelle Queue", "date": "2026-06-25"},
+        {"quote": "Have uploaded 48 vids to the drive 🤍", "who": "Callie (Mila)", "date": "2026-08-17"},
+        {"quote": "yayyy perfect babes tyyy 🫶🏼", "who": "Michelle Queue", "date": "2026-08-17"}
+      ]
+    },
+    {
+      "what": "Weekly reel-inspo drop. Mica's cadence ran Jun 25, Jul 2, Jul 10, Jul 29, Aug 13 and has now produced nothing for 15 days — two consecutive missed weeks. This was the only proactive deliverable the account was reliably receiving, and it has stopped.",
+      "who": "Mica Vecco",
+      "date": "2026-08-13",
+      "status": "overdue",
+      "days_outstanding": 15,
+      "note": "Escalated from pending (8 days) to overdue. Last week's file said 'if missed again, treat as a service lapse rather than a slip'. It was missed again. Mica has not written in the chat since Aug 13 and originally committed at onboarding to 'share creative ideas weekly'.",
+      "quotes": [
+        {"quote": "hi @calliebullough! here’s your reel inspo for the week 🩷", "who": "Mica Vecco", "date": "2026-08-13"},
+        {"quote": "I’ll be supporting with your organic social media on IG in addition to TikTok, Snapchat, FB, etc while checking in to make sure your accounts are set up for success and to share creative ideas weekly to boost your content + engagement 📈", "who": "Mica Vecco", "date": "2026-06-20"}
+      ]
+    },
+    {
+      "what": "Explain what 'crystalmila.vip' is. Mayson dropped the bare domain into the OnlyFans topic at 02:53 on Aug 23 — his first message in the chat since Jul 10 (44 days) — with no greeting, no context and no follow-up. Callie has not replied to it. If it is her new VIP/free page it is a launch nobody announced; if it is a question it was never asked.",
+      "who": "Mayson",
+      "date": "2026-08-23",
+      "status": "pending",
+      "days_outstanding": 5,
+      "note": "The single message of the reporting week. Mayson onboarded this client promising 'I'm always online so I will get a response to your promptly... ALWAYS!!!' and has since sent two messages in 62 days, one of which was the word 'Yeah'.",
+      "quotes": [
+        {"quote": "crystalmila.vip", "who": "Mayson", "date": "2026-08-23"},
+        {"quote": "I'm always online so I will get a response to your promptly... ALWAYS!!!", "who": "Mayson", "date": "2026-06-20"},
+        {"quote": "Yeah", "who": "Mayson", "date": "2026-07-10"}
+      ]
+    }
+  ],
+  "payments": [
+    {
+      "note": "Aug 1-14 invoice: paid by the client on Aug 17, two days after issue — but eleven days later ALTR has still not confirmed receipt, the amount, or which account it hit. The Aug 15 invoice changed the account number, directly contradicting Stephski's Jul 13 instruction to 'just repeat to the same account'. This is the live financial exposure on the account: an international wire, changed destination details, no reconciliation, and a client who has stopped asking. Last week's file set an explicit escalation date of Aug 24 if unconfirmed; that date passed with no message from anyone.",
+      "date": "2026-08-17",
+      "invoice_period": "2026-08-01 to 2026-08-14",
+      "amount": "not stated in chat (Jun 21-30 cycle was USD 727 / GBP 543.22)",
+      "late": false,
+      "days_late": 0,
+      "reason": "Not late on the client side — she paid in 2 days with no chasing. The delay is entirely ALTR-side reconciliation.",
+      "risk": "critical — possible misdirected wire against changed banking details, unverified for 11 days",
+      "suggested_fix": "Reconcile today and send one message stating: received / not received, the amount, and the destination account. If it went to the old account, tell her before she finds out.",
+      "quotes": [
+        {"quote": "So we can just repeat to the same account for this next period of invoicing coming up 🙂", "who": "Stephski", "date": "2026-07-13"},
+        {"quote": "Please note an update to the account number, please try and send using the information on the invoice.", "who": "Stephski", "date": "2026-08-15"},
+        {"quote": "Sent:)", "who": "Callie (Mila)", "date": "2026-08-17"},
+        {"quote": "Thank you love!", "who": "Stephski", "date": "2026-08-17"}
+      ]
+    },
+    {
+      "note": "Jul 15-31 invoice remains formally unreconciled to the client 20 days after she asked for a duplicate check. Her first attempt was fraud-flagged by her bank; she re-sent on Aug 8 and asked ALTR to verify it did not come through twice. Stephski said on Aug 9 'Just checked we have not received', then on Aug 11 that it looked like her total but was still processing, and promised 'Will update you shortly!'. Nothing has been sent since. If a duplicate cleared, ALTR is holding client money it has never acknowledged.",
+      "date": "2026-08-11",
+      "invoice_period": "2026-07-15 to 2026-07-31",
+      "late": true,
+      "days_late": 3,
+      "reason": "Client's bank fraud-flagged the first attempt (due Aug 8 on a 7-day window from the Aug 1 invoice); ALTR never closed the loop after the re-send",
+      "quotes": [
+        {"quote": "Hi love! Hope you’re having an amazing weekend. Below is your invoice for the period of July 15th-31st. If you could please shoot over payment within the next 7 days that would be amazing! Let me know if I can help you with anything 💘", "who": "Stephski", "date": "2026-08-01"},
+        {"quote": "if you could just double check it doesn’t come through twice🙄 thank you! Xx", "who": "Callie (Mila)", "date": "2026-08-08"},
+        {"quote": "Just checked we have not received", "who": "Stephski", "date": "2026-08-09"},
+        {"quote": "Will update you shortly!", "who": "Stephski", "date": "2026-08-11"}
+      ]
+    },
+    {
+      "note": "Cadence watch: invoices have gone out Jul 1, Jul 15, Aug 1, Aug 15 — strictly biweekly. The Aug 15-31 invoice is therefore due around Sep 1, with Stephski's pre-invoice heads-up due around Aug 31. It will land on a client who has two unreconciled wires behind her, has not been told either one arrived, and has not spoken in 11 days. Sending a fresh invoice before closing the previous two would be the worst possible sequencing on this account.",
+      "date": "2026-08-28",
+      "invoice_period": "2026-08-15 to 2026-08-31 (upcoming)",
+      "late": false,
+      "quotes": [
+        {"quote": "Hi love ❤️ just reaching out to remind you that invoicing will start tomorrow 🙏 Please withdraw from OF if needed. Will reach out to you tomorrow!", "who": "Stephski", "date": "2026-08-14"},
+        {"quote": "We typically ask clients to pay within 5 days of recieving it to keep everyone on track as we do biweekly invoicing", "who": "Stephski", "date": "2026-07-06"}
+      ]
+    },
+    {
+      "note": "Standing pattern, unchanged: 3 of 4 completed cycles had friction and every instance was process-side, never a client refusal, dispute or short-payment. Callie has paid every invoice. The proven fix — dual-currency invoice, stated payment window, pre-invoice heads-up — produced the Aug 1-14 cycle's two-day turnaround and should be locked in as standard. The residual risk is entirely ALTR's reconciliation discipline and the mid-relationship account-number change.",
+      "date": "2026-08-28",
+      "late": false,
+      "quotes": [
+        {"quote": "Is it possible to get the invoice is GBP? So I can get it paid :)", "who": "Callie (Mila)", "date": "2026-07-07"},
+        {"quote": "Hello! Coukd I have it in pounds please:) xx", "who": "Callie (Mila)", "date": "2026-07-19"},
+        {"quote": "there was a fee deducted so the total didnt match thats why it was difficult to find", "who": "Stephski", "date": "2026-07-13"}
+      ]
+    }
+  ],
+  "client_priorities": [
+    "Prompt, unambiguous confirmation that her payments were received — chased 4x across three cycles, then stopped entirely; two wires now sit unconfirmed (20 days and 11 days)",
+    "Stable, unambiguous banking details — she was told on Jul 13 to reuse the old account and on Aug 15 to use a new one, and has never been told which one her money reached",
+    "Invoices in GBP with a clear due date so she can pay same-day (the fix works: Aug 15 invoice → paid Aug 17)",
+    "Being kept in the loop on promo/IG posting with actual links to what gets posted — asked Jul 8, 51 days unfulfilled",
+    "Instagram account safety and a real status on the paused posting programme — last asked Jul 8, never answered",
+    "Her uploaded content actually being used — 48 videos (Aug 17) plus a July batch sitting in a Drive feeding a paused programme",
+    "Clear OF pricing/custom boundaries (flexible; roughly GBP 700-1000 for topless customs)"
+  ],
+  "suggestions": [
+    "Stephski, today, one message, before anything else happens on this account: 'Your Aug 17 payment arrived / did not arrive, it was £X, it went to account ending Y, and the Jul 15-31 payment did / did not come through twice.' Both questions are older than the escalation thresholds this report set last week (Aug 24 for the wire; 20 days for the duplicate). Two unreconciled international wires against changed banking details on a silent client is the definition of an avoidable problem.",
+    "Stephski: do NOT send the Aug 15-31 invoice (due ~Sep 1) until the two open payments are confirmed in writing. Invoicing a client you owe two receipt confirmations to is how a quiet account becomes an angry one.",
+    "Derrek: this is week four of silence on the phone-farm / IG rollout you promised on Aug 1 with 'plenty of updates starting next week'. It is 27 days overdue, it is her largest open issue, and she has stopped asking about it — which is worse than her asking. Last week's file said week four triggers owner-level contact outside the chat. Call her directly, do not post in the group.",
+    "Michelle: the 48 videos are 11 days old with one emoji against them. Either give her a posting schedule or tell her plainly that posting is paused and the content is banked. And send the post links promised on Jul 8 — 51 days, one page URL, zero posts. Do this before asking her for a fourth content batch.",
+    "Mica: the reel-inspo drop has now been missed two weeks running (last drop Aug 13, 15 days). It was the only proactive touch this account was still receiving. Restart it this week — it is the cheapest signal that anyone is still working the account.",
+    "Vivek: 30 days in the chat, zero messages. Either post a proactive read on her IG/TikTok status and the Copyright Ban Protection offer Derrek advertised on Jul 29, or remove the introduction — an announced support contact who never speaks actively damages trust.",
+    "Mayson: 'crystalmila.vip' with no explanation at 2:53am is not communication. Say what it is, what it is for, and what (if anything) you need from her. You onboarded this client promising an answer 'ALWAYS' and have sent two messages in 62 days.",
+    "Structural: this account has five named ALTR contacts and produced one message in seven days. Nobody owns the relationship — each function went quiet independently and no one noticed. Assign a single accountable owner for Mila with a standing weekly obligation to post something of substance, and check her OF revenue trend outside this chat, because the chat will not tell you when she leaves."
+  ],
+  "wins": [
+    "No new complaint, no dispute, no short-payment — the client has paid every invoice issued and has never once pushed back on price or scope",
+    "Mayson re-appeared in the chat for the first time since Jul 10, which at least means the OnlyFans side is not entirely dormant — 'crystalmila.vip' suggests a VIP/free page exists or launched, though nobody told the client anything about it",
+    "The previous cycle's process fix held: the Aug 1-14 invoice (dual-currency-aware, pre-warned on Aug 14, issued Aug 15) was paid in two days with no chasing. The payment mechanics are solved; only the confirmation half is broken",
+    "Honest note: there is no genuine service win to report this week. One message was sent and nothing was delivered, resolved or advanced."
+  ],
+  "week_stats": {
+    "messages": 1,
+    "client_messages": 0,
+    "team_messages": 1
+  }
+}

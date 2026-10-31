@@ -1,0 +1,283 @@
+{
+  "client": "Lauryn",
+  "slug": "lauryn-x-altr",
+  "week_ending": "2026-08-21",
+  "summary": "Nine days after it started, Vivek finally got into Lauryn's Facebook account on Aug 16 - and he did it without her Gmail login, by having her create and then delete a passkey so Facebook fell back to an SMS code. She celebrated it ('FINALLY', '🥳🥳') and it also recovered her second page with 200k+ followers. That is the first real forward motion on this account in two weeks. Everything after that stalled: from Aug 18 to Aug 21 Vivek's only explanation was that 'facebook server is down' and 'Facebook servers is cooked rn', and the week closed with the client posting exactly the same complaint she opened the escalation with - 'PAGE NOT RECOMMENDED' (Aug 20). Two things went the wrong way. First, the credential line was crossed a third time: on Aug 15 she said she had 'Talked to my Management' and they 'can't give out certain passwords', and Vivek still came back on Aug 16 offering to log into her Gmail over a screen share - the exact escalation last week's file flagged as the trust break. He also told her 'Ma'am that's on you completely'. Second, Derrek disappeared. She completed his Aug 13 instructions, reported back on Aug 15 and tagged him twice ('Kk @ofwizz chime in'); he sent zero messages all week. On money, Stephski kept her word and rolled the $1,852.15 into the Aug 15 invoice, but that invoice also carried yet another bank account change, quoted no amount and no due date, got no acknowledgment from the client, and was never followed up - six silent days on a bill that now contains three periods of carryover.",
+  "health": {
+    "score": 55,
+    "trend": "up",
+    "rationale": "Up from 52, but only slightly and for one reason: the 9-day access blocker broke on Aug 16 and Vivek solved it without ever getting her Gmail credentials, which is the outcome she has been demanding since Aug 8. He was also present and responsive every day (60 messages vs 0 from the vendor chat team). Holding the score down: the actual complaint is unchanged after 328 days - she ended the week typing 'PAGE NOT RECOMMENDED' again; Vivek asked for Gmail access a third time and told her a problem was 'on you completely'; he spent Aug 19 reporting on Instagram, which she had to correct ('My IG was never shadow banned'); Derrek went silent all week after she did exactly what he asked; and the Aug 15 invoice with a three-period carryover went out with a new account number, no stated amount or deadline, and no chase."
+  },
+  "reminders": [
+    {
+      "employee": "Vivek",
+      "topic": "Chasing a status update on the Facebook 'not recommended' / shadowban fix - she checked in on four separate days and ended the week with the same complaint she started the escalation with",
+      "count": 4,
+      "first_date": "2026-08-16",
+      "last_date": "2026-08-21",
+      "days_outstanding": 12,
+      "note": "Eighth+ chase since the escalation opened on 2026-08-09; the underlying complaint is 328 days old.",
+      "quotes": [
+        {"quote": "??", "who": "LA Client", "date": "2026-08-16"},
+        {"quote": "Any updates ???", "who": "LA Client", "date": "2026-08-18"},
+        {"quote": "Page still in the same boat", "who": "LA Client", "date": "2026-08-18"},
+        {"quote": "Still shadow banned 😩", "who": "LA Client", "date": "2026-08-20"},
+        {"quote": "PAGE NOT RECOMMENDED", "who": "LA Client", "date": "2026-08-20"},
+        {"quote": "Server still down on FB!???", "who": "LA Client", "date": "2026-08-20"},
+        {"quote": "Just a waiting Game at this point!", "who": "LA Client", "date": "2026-08-21"}
+      ]
+    },
+    {
+      "employee": "Derrek",
+      "topic": "Reporting back that she had completed his Aug 13 two-factor steps and asking him to retry the login, as he had instructed - tagged him twice on Aug 15 and got no reply for the rest of the week",
+      "count": 2,
+      "first_date": "2026-08-15",
+      "last_date": "2026-08-15",
+      "days_outstanding": 6,
+      "note": "Derrek sent zero messages in the 7-day window. His last message on this account was 2026-08-13.",
+      "quotes": [
+        {"quote": "Great Morning @ofwizz", "who": "LA Client", "date": "2026-08-15"},
+        {"quote": "All the steps are completed", "who": "LA Client", "date": "2026-08-15"},
+        {"quote": "Let me know about login", "who": "LA Client", "date": "2026-08-15"},
+        {"quote": "Kk @ofwizz chime in", "who": "LA Client", "date": "2026-08-15"}
+      ]
+    },
+    {
+      "employee": "Vivek",
+      "topic": "Internal nudges - Mayson has now had to poke Vivek on the client's behalf in two consecutive weeks after her questions sat unanswered",
+      "count": 2,
+      "first_date": "2026-08-13",
+      "last_date": "2026-08-21",
+      "days_outstanding": 8,
+      "quotes": [
+        {"quote": "@fonta ^", "who": "Mayson Chat", "date": "2026-08-13"},
+        {"quote": "@fonta ^^", "who": "Mayson Chat", "date": "2026-08-21"}
+      ]
+    }
+  ],
+  "complaints": [
+    {
+      "issue": "Facebook page is STILL flagged 'not recommended' - 328 days after she first raised it (2025-09-27) and 14 days into the Vivek escalation. Account access was finally obtained on Aug 16, but from Aug 18 onward the only explanation offered was that Facebook's servers were down, and the week closed with her re-posting the identical complaint. She has now told ALTR twice that she is holding off on posting because of the page state, and on Aug 18 escalated the stakes explicitly to business impact.",
+      "status": "recurring",
+      "first_raised": "2025-09-27",
+      "days_open": 328,
+      "owner": "Vivek",
+      "quotes": [
+        {"quote": "Can we see what’s going on with this ?", "who": "LA Client", "date": "2025-09-27"},
+        {"quote": "It really messes with algorithms and traffic at this point , I’m seeing which delays the growth of page", "who": "LA Client", "date": "2025-10-08"},
+        {"quote": "Hey ma'am facebook server is down", "who": "Vivek", "date": "2026-08-18"},
+        {"quote": "It’s very important for my page to be back up and functioning due to Business reasons 🙏🏽", "who": "LA Client", "date": "2026-08-18"},
+        {"quote": "Still shadow banned 😩", "who": "LA Client", "date": "2026-08-20"},
+        {"quote": "PAGE NOT RECOMMENDED", "who": "LA Client", "date": "2026-08-20"},
+        {"quote": "Facebook servers is cooked rn", "who": "Vivek", "date": "2026-08-21"}
+      ]
+    },
+    {
+      "issue": "THE THIRD CREDENTIAL ASK LANDED. Last week's file flagged that a third request for her Gmail would be a trust break. On Aug 15 Vivek asked for her Instagram login instead; she escalated internally and told the chat her management had ruled it out. On Aug 16, one day later, he came back proposing to log into her Gmail himself over a screen share. She did not refuse in words this time - she quietly steered the conversation to the passkey option instead, which is a colder signal than the flat 'That's just confidential' she gave on Aug 8.",
+      "status": "recurring",
+      "first_raised": "2026-08-08",
+      "days_open": 13,
+      "owner": "Vivek",
+      "quotes": [
+        {"quote": "Just need Instagram login for that", "who": "Vivek", "date": "2026-08-15"},
+        {"quote": "Gmail login isn’t possible but Instagram login is fine i guess", "who": "Vivek", "date": "2026-08-15"},
+        {"quote": "Talked to my Management we can’t give out certain passwords just for confidential purposes", "who": "LA Client", "date": "2026-08-15"},
+        {"quote": "We’re not comfortable with that", "who": "LA Client", "date": "2026-08-15"},
+        {"quote": "For your security purposes, I can log in to Gmail while sharing my screen with you, because it only requires a one-time verification. As soon as Facebook verifies it, I’ll be able to log into the Facebook account. Then, while I’m still sharing my screen on Gmail, you can change the password", "who": "Vivek", "date": "2026-08-16"}
+      ]
+    },
+    {
+      "issue": "Meta-rep execution and communication quality - carried over from last week and recurred in three new forms: he told the client a blocker was her fault, he reported progress on the wrong platform (Instagram, which she had never complained about) and she had to correct him, and he leaned on an unverifiable 'Facebook servers are down' explanation for four straight days with no dated plan attached.",
+      "status": "recurring",
+      "first_raised": "2026-08-12",
+      "days_open": 9,
+      "owner": "Vivek",
+      "quotes": [
+        {"quote": "Ma'am that's on you completely", "who": "Vivek", "date": "2026-08-16"},
+        {"quote": "Correct! I’m just working with you with the best solution that’s fitting for me .", "who": "LA Client", "date": "2026-08-16"},
+        {"quote": "Done with Instagram now only focus on Facebook shadow", "who": "Vivek", "date": "2026-08-19"},
+        {"quote": "My IG was never shadow banned", "who": "LA Client", "date": "2026-08-20"},
+        {"quote": "It’s FACEBOOK", "who": "LA Client", "date": "2026-08-20"},
+        {"quote": "Still down", "who": "Vivek", "date": "2026-08-21"}
+      ]
+    },
+    {
+      "issue": "Owner went dark mid-recovery. Derrek's Aug 13 intervention was last week's headline win and ended with a specific instruction: do the 2FA steps and tell me, and we'll retry the login. She did the steps, said so at 11:25 on Aug 15 and tagged him twice - and he did not post a single message in the 7-day window. Vivek was left to improvise alone for the next six days. She also never got the annotated/visual version of the steps she asked for on Aug 13.",
+      "status": "new",
+      "first_raised": "2026-08-15",
+      "days_open": 6,
+      "owner": "Derrek",
+      "quotes": [
+        {"quote": "Once you've done that, just let me know and we'll try logging in again.", "who": "Derrek", "date": "2026-08-13"},
+        {"quote": "Visually that’s better", "who": "LA Client", "date": "2026-08-13"},
+        {"quote": "All the steps are completed", "who": "LA Client", "date": "2026-08-15"},
+        {"quote": "Kk @ofwizz chime in", "who": "LA Client", "date": "2026-08-15"}
+      ]
+    },
+    {
+      "issue": "ALTR payment-rail churn continued. The Aug 15 invoice announced yet another account-number change plus 'updated Zelle info', six weeks after Stephski promised on Jul 1 that the previous bank switch was the last one. Counting Chase -> Mercury (bounced) -> Chase -> Bank of America -> new account number, two Zelle email changes, a February fanbasis outage, July commas.com links, and Zelle 'having issues again' on Aug 9, this is the seventh disruption in twelve months and the second in eight days.",
+      "status": "recurring",
+      "first_raised": "2026-06-17",
+      "owner": "Stephski",
+      "quotes": [
+        {"quote": "Want to let you know we have a new bank for you to send to (last change I promise!).", "who": "Stephski", "date": "2026-07-01"},
+        {"quote": "LA can you please try and zelle derrek? our zelle is having issues again im so sorry", "who": "Stephski", "date": "2026-08-09"},
+        {"quote": "Please note an update to the account number, please try and send using the information on the invoice. Have also attached updated Zelle info that should be easy to use now.", "who": "Stephski", "date": "2026-08-15"}
+      ]
+    },
+    {
+      "issue": "Live credential exposure in the group chat, unremediated. The two Facebook passwords she pasted in plaintext on Aug 7 and Aug 9 still show no sign of having been rotated, and this week she added her Facebook-linked phone number and a live SMS two-factor code to the same chat at Vivek's request. This is an ALTR hygiene failure on the account of a client whose single stated top priority is confidentiality.",
+      "status": "recurring",
+      "first_raised": "2026-08-07",
+      "days_open": 14,
+      "owner": "Derrek",
+      "quotes": [
+        {"quote": "Can you provide me the number which is connected to the Facebook", "who": "Vivek", "date": "2026-08-15"},
+        {"quote": "470 226 9179", "who": "LA Client", "date": "2026-08-15"},
+        {"quote": "[REDACTED-2FA-CODE]", "who": "LA Client", "date": "2026-08-16"},
+        {"quote": "Text code", "who": "LA Client", "date": "2026-08-16"}
+      ]
+    }
+  ],
+  "commitments": [
+    {
+      "what": "Get into Lauryn's Facebook account WITHOUT her Gmail credentials - the blocker that consumed Aug 8-15. Vivek solved it on Aug 16 by having her add a passkey and then remove it, which forced Facebook to fall back to an SMS code.",
+      "who": "Vivek",
+      "date": "2026-08-16",
+      "status": "done",
+      "quotes": [
+        {"quote": "Then I guess without Gmail login I can easily get into the account", "who": "Vivek", "date": "2026-08-16"},
+        {"quote": "Finally", "who": "Vivek", "date": "2026-08-16"},
+        {"quote": "FINALLY", "who": "LA Client", "date": "2026-08-16"},
+        {"quote": "We stuck in there", "who": "LA Client", "date": "2026-08-16"}
+      ]
+    },
+    {
+      "what": "Stephski to roll the leftover $1,852.15 from the Aug 1 invoice onto the next invoice instead of chasing it separately - promised Aug 12, delivered on the Aug 15 invoice",
+      "who": "Stephski",
+      "date": "2026-08-15",
+      "status": "done",
+      "quotes": [
+        {"quote": "Okay copy :) i can just add to next invoice if that works", "who": "Stephski", "date": "2026-08-12"},
+        {"quote": "Just noting I rolled over the remaining amount from last period", "who": "Stephski", "date": "2026-08-15"}
+      ]
+    },
+    {
+      "what": "Vivek to get the Facebook page out of 'not recommended' status - originally promised 2026-08-07 once he had her logins. He has had full account access since Aug 16 and re-committed on Aug 18, but the flag was still up at week close.",
+      "who": "Vivek",
+      "date": "2026-08-07",
+      "status": "overdue",
+      "days_outstanding": 14,
+      "quotes": [
+        {"quote": "can you shoot him your logins again and he will handle", "who": "Derrek", "date": "2026-08-07"},
+        {"quote": "That’s where you come in at", "who": "LA Client", "date": "2026-08-18"},
+        {"quote": "Will do my part", "who": "Vivek", "date": "2026-08-18"},
+        {"quote": "PAGE NOT RECOMMENDED", "who": "LA Client", "date": "2026-08-20"}
+      ]
+    },
+    {
+      "what": "Derrek to retry the Facebook login with Lauryn once she finished his Aug 13 two-factor setup, and to send her the visual/annotated version of the steps she asked for. She confirmed completion on Aug 15 and tagged him twice; he never replied and posted nothing all week.",
+      "who": "Derrek",
+      "date": "2026-08-13",
+      "status": "overdue",
+      "days_outstanding": 6,
+      "quotes": [
+        {"quote": "Once you've done that, just let me know and we'll try logging in again.", "who": "Derrek", "date": "2026-08-13"},
+        {"quote": "All the steps are completed", "who": "LA Client", "date": "2026-08-15"},
+        {"quote": "Let me know about login", "who": "LA Client", "date": "2026-08-15"}
+      ]
+    },
+    {
+      "what": "Vivek to keep her updated proactively on the 'not recommended' appeal rather than making her check in - she asked for this directly on Aug 18. Two of the three updates that followed were one-line 'server is down' notes and one was about the wrong platform.",
+      "who": "Vivek",
+      "date": "2026-08-18",
+      "status": "pending",
+      "quotes": [
+        {"quote": "Keep me updated pls", "who": "LA Client", "date": "2026-08-18"},
+        {"quote": "Well I’m periodically checking on my end as well", "who": "LA Client", "date": "2026-08-18"},
+        {"quote": "Going through ads account", "who": "Vivek", "date": "2026-08-21"}
+      ]
+    },
+    {
+      "what": "Lauryn to pay the Aug 15 invoice (period Aug 1-14 plus the $1,852.15 rolled-over balance). Sent 2026-08-15 with a new account number, no amount or due date stated in chat, and she has not acknowledged it in six days.",
+      "who": "Stephski",
+      "date": "2026-08-15",
+      "status": "pending",
+      "days_outstanding": 6,
+      "quotes": [
+        {"quote": "Hi love ❤️ just reaching out to remind you that invoicing will start tomorrow 🙏 Please withdraw from OF if needed. Will reach out to you tomorrow!", "who": "Stephski", "date": "2026-08-14"},
+        {"quote": "Below is your invoice for the period of August 1st-14th.", "who": "Stephski", "date": "2026-08-15"},
+        {"quote": "Just noting I rolled over the remaining amount from last period", "who": "Stephski", "date": "2026-08-15"}
+      ]
+    }
+  ],
+  "payments": [
+    {
+      "note": "Aug 15 invoice (period Aug 1-14) went out on schedule with the $1,852.15 carryover folded in as agreed. It is now day 6 with zero acknowledgment from the client - she has posted 30+ messages since it landed, all in the Facebook thread, and has not mentioned the invoice once. Stephski also did not follow up at any point between Aug 16 and Aug 21, which breaks her usual pattern of a nudge within 3-4 days. Under the 7-day terms used on the Aug 1 invoice this becomes late on Aug 22.",
+      "date": "2026-08-15",
+      "amount_outstanding": 1852.15,
+      "late": false,
+      "reason": "Not yet past terms, but silent on both sides. On every prior cycle she has acknowledged the invoice within 1-3 days ('Invoice will be handled Tuesday', 'Will receive'); this time there was nothing at all, and the bill now carries three periods of accumulated balance.",
+      "suggested_fix": "Chase it Monday with the exact total, the itemized $1,852.15 line, and a specific date tied to her next OF payout. Confirm in writing that the new account number and Zelle details actually work before she attempts a transfer - the last two cycles were both delayed by ALTR-side rail failures.",
+      "quotes": [
+        {"quote": "Below is your invoice for the period of August 1st-14th. Please note an update to the account number, please try and send using the information on the invoice.", "who": "Stephski", "date": "2026-08-15"},
+        {"quote": "Just noting I rolled over the remaining amount from last period", "who": "Stephski", "date": "2026-08-15"}
+      ]
+    },
+    {
+      "note": "Another ALTR account-number change announced on the Aug 15 invoice, plus 'updated Zelle info'. This is the seventh payment-rail disruption in twelve months and the second inside eight days, and it comes six weeks after Stephski told her the previous bank switch was the last one. The last two cycles were both directly delayed by rail problems on ALTR's side, not by the client.",
+      "date": "2026-08-15",
+      "late": false,
+      "reason": "ALTR-side banking instability.",
+      "suggested_fix": "Freeze the rails. Pin one primary (Zelle) and one tested backup in the chat, test both before each invoice goes out, and stop announcing changes inside the invoice message itself.",
+      "quotes": [
+        {"quote": "Want to let you know we have a new bank for you to send to (last change I promise!).", "who": "Stephski", "date": "2026-07-01"},
+        {"quote": "Have also attached updated Zelle info that should be easy to use now.", "who": "Stephski", "date": "2026-08-15"}
+      ]
+    },
+    {
+      "note": "Chronic 12-month pattern unchanged: never a refusal, but every cycle needs 1-3 chases and a split into installments timed to OnlyFans payout drops. A balance has now carried forward across four consecutive invoice periods (Jul 1-14 -> Jul 15-31 -> Aug 1 -> Aug 15). Nothing was paid or promised during this 7-day window.",
+      "date": null,
+      "late": true,
+      "reason": "Cash flow tied to OF payout timing, stated repeatedly by the client herself.",
+      "suggested_fix": "Stop negotiating a split every cycle. Put her on a standing two-installment schedule anchored to her payout dates, with the carryover amortized rather than rolled - four consecutive roll-forwards means the balance is structurally not clearing.",
+      "quotes": [
+        {"quote": "Being money is beyond low this month in account! Split those payment invoices up for me", "who": "LA Client", "date": "2026-06-24"},
+        {"quote": "From OF my books are ran off what drops after pending state", "who": "LA Client", "date": "2026-07-30"},
+        {"quote": "Once the rest clears", "who": "LA Client", "date": "2026-08-12"}
+      ]
+    }
+  ],
+  "client_priorities": [
+    "Account security and confidentiality - now backed by her management, not just her own preference ('Talked to my Management we can’t give out certain passwords just for confidential purposes', 2026-08-15). She will cooperate on any method that keeps her passwords in her own hands - she added and deleted a passkey, read out SMS codes and approved logins on request within minutes.",
+    "Getting the Facebook page out of 'not recommended' so she can resume posting - open 328 days, framed this week as a business necessity ('It’s very important for my page to be back up and functioning due to Business reasons 🙏🏽', 2026-08-18)",
+    "Proactive updates instead of having to check in ('Keep me updated pls', 2026-08-18) - she is monitoring the page herself daily",
+    "Clear, visual, step-by-step instructions when asked to do technical work herself ('Visually that’s better', 2026-08-13) - still not delivered in visual form",
+    "Brand protection via DMCA leak takedowns and clean search results",
+    "Firm content boundaries - no explicit/nude/implied-sex customs",
+    "Revenue growth with payments split and timed to OnlyFans payout drops"
+  ],
+  "suggestions": [
+    "Get a dated plan on the 'not recommended' flag in front of her by Monday. 'Facebook servers is cooked rn' has now been the entire update for four days on a complaint that is 328 days old, and she is checking the page herself every day. Even 'here is what we try this week, here is when I report back' would reset the relationship.",
+    "Brief Vivek in writing that her credentials are off the table permanently. The third ask happened on Aug 16 despite last week's warning, and it came one day after she said her management had ruled it out. There is no fourth-ask scenario that ends well. The Aug 16 passkey trick proves the boundary-respecting path works - make it the standing method.",
+    "Correct the client-blaming. 'Ma'am that's on you completely' (2026-08-16) is the kind of line that ends accounts. Whoever manages Vivek should review the week's transcript with him, including the Aug 19 Instagram mix-up she had to correct.",
+    "Derrek needs to close his own loop. He told her to complete the 2FA steps and report back; she did, on time, and tagged him twice on Aug 15 with no reply for six days. Owner-level item - handle privately, but the follow-up itself is now 6 days overdue.",
+    "Chase the Aug 15 invoice immediately with the total, the itemized $1,852.15 carryover and a payout-anchored date. Six days of mutual silence on a bill carrying four periods of roll-forward is the real financial risk on this account, not her willingness to pay.",
+    "Rotate the Facebook password she posted in plaintext on Aug 7 and Aug 9, and move all credential and code exchange out of the group chat. This week added her Facebook-linked phone number and a live SMS code to the same thread.",
+    "Explain the chat-team gap. The 'Lauryn chat team' vendor group has not posted in this chat since 2026-06-10 - 72 days. Either re-establish a visible cadence or confirm who is covering, because right now the only ALTR touchpoints she sees are a Meta rep, an invoice and a weekly DMCA screenshot."
+  ],
+  "wins": [
+    "The nine-day access blocker broke on Aug 16. Vivek worked out that adding and then removing a passkey would drop Facebook back to SMS verification, got in with a text code, and never touched her Gmail - exactly the outcome she had been asking for since Aug 8. Her reaction: 'FINALLY', 'We stuck in there', '🥳🥳'.",
+    "The fix also recovered her second Facebook property, a bigger asset than the one being worked - '& it’s for that second account' / 'With over 200k followers' (LA Client, 2026-08-16).",
+    "Vivek was present and responsive every single day of the window - 60 messages, replies typically within minutes, and he stayed on it through the weekend. That is a marked improvement on last week's missed deadlines even though the outcome hasn't landed.",
+    "Stephski delivered the carryover rollover exactly as promised, three days after committing to it, with no chasing needed from the client.",
+    "The weekly DMCA leak-removal update landed on schedule on Aug 17 (Michelle), keeping the one reliable cadence on this account intact.",
+    "Mayson proactively nudged Vivek on the client's behalf again on Aug 21 without being asked.",
+    "Client tone remains genuinely warm and constructive despite everything - 'That’s where you come in at' / 'And do your Magic 🪄' / 'Thank you for assistance with this' (2026-08-18). She is patient, cooperative and doing whatever is asked of her within minutes. This is still an execution problem, not a relationship problem."
+  ],
+  "week_stats": {
+    "messages": 163,
+    "client_messages": 98,
+    "team_messages": 65
+  }
+}

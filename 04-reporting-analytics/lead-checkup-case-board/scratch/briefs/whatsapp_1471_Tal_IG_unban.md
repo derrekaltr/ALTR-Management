@@ -1,0 +1,70 @@
+# Tal IG unban  [whatsapp #1471 GROUP]
+msgs=57 (in=35 out=22) window=2026-07-18..2026-09-18
+last_client=2026-09-18 (0d ago), last_derrek=2026-09-16 (2d ago)
+LAST MESSAGE FROM CLIENT — UNANSWERED: 'What are you charging for IG bans and do you guys offer like warranty on it, I had issues with some dude and he got my account deleted and I’m worried if I pay he’ll just do it again'
+
+  ...
+[2026-07-18 06:12] 3702328922295@lid: {"parent_group_name":null,"auto_add_disabled":true,"is_initially_empty":false,"subject":"Tal IG unban","is_open_group":true,"is_hidden_sub_group":false,"author":"3702328922295@lid","show_membership_string":true,"parent_group_jid":null,"context_group":null,"is_…
+[2026-07-18 06:12] 120363429910685553@g.us: 3702328922295@lid
+[2026-07-18 06:12] 3702328922295@lid: Hey @197405874085999 Tal is having trouble with her IG account if you can help her that would be great!
+[2026-07-18 06:12] 192702750699701@lid: Thank your for the connect Sarah 💗
+[2026-07-18 06:13] 3702328922295@lid: Ofc girl! Message me anytime🩷
+[2026-07-18 06:13] 192702750699701@lid: I’ve had content removed in the past which showed in my removed content and messages on my account status but with the new update it’s now showing my removed content in my reach and effecting the reach and wondering if you guys can at all help with it 😭
+[2026-07-18 11:19] 197405874085999@lid: Ofcourse
+[2026-07-18 11:19] 197405874085999@lid: Nice to meet you Taleia
+[2026-07-18 11:20] 192702750699701@lid: Nice to meeet you!!!
+[2026-07-18 11:21] 192702750699701@lid: Hoping we can help each other 🤣
+[2026-07-18 11:21] 197405874085999@lid: 🫪
+[2026-07-18 11:24] 192702750699701@lid: I’ll send u a screenshot of the issue
+[2026-07-18 11:53] 192702750699701@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363429910685553@g.us/6/3/6327cba1-660d-4072-a30b-477151d837d8.jpg>
+[2026-07-18 11:53] 192702750699701@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363429910685553@g.us/1/7/17256e3e-b523-468a-8dea-81d42dbe8544.jpg>
+[2026-07-18 11:53] 192702750699701@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363429910685553@g.us/d/4/d4cdc4b0-7229-4c13-bdf3-48298ebd3360.jpg>
+[2026-07-18 11:53] 192702750699701@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363429910685553@g.us/1/0/10cb0bdd-7a55-47f8-823e-f503b633c040.jpg>
+[2026-07-18 11:53] 197405874085999@lid: I’ll need the login for this
+[2026-07-20 20:53] DEREK: just bumping this
+[2026-07-31 00:24] 192702750699701@lid: Hey sorry I got it fixed but now it’s been taken down 😭 can you help?
+[2026-07-31 00:24] 192702750699701@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363429910685553@g.us/f/b/fbdb34b6-49fa-41c8-9a66-15b8b3e4890c.jpg>
+[2026-07-31 00:32] 192702750699701@lid: & how much
+  ...
+[2026-07-31 00:40] DEREK: Did it go down straight away?
+[2026-07-31 00:40] DEREK: Can you show me what it says when you login. Looks like it’s appealed right?
+[2026-07-31 00:41] 192702750699701@lid: It went down & I could appeal it because usually in the past I have and it’s come back, made me verify my ID and then I got that email
+[2026-07-31 00:42] DEREK: From now on, don’t appeal. New meta systems don’t work unless done a specific way with help of a rep
+[2026-07-31 00:42] DEREK: It’s cheaper to do it if it’s not appealed
+[2026-07-31 00:42] 192702750699701@lid: How much to do with it being appealed ?
+[2026-07-31 00:43] DEREK: For a perm unban community standards it will be $3500
+[2026-07-31 00:43] 192702750699701@lid: How long would it take you
+[2026-07-31 01:28] DEREK: 0-48hrs
+[2026-08-08 21:53] DEREK: They just got a little bit cheaper if you’re interested. It’s $3200 pay after
+[2026-08-08 21:53] DEREK: 0-48hrs
+[2026-08-13 15:31] DEREK: let us know if you still need, we have a rep in office
+[2026-08-14 06:02] DEREK: hi we can do it today for $2800 rep lowered prices today
+[2026-09-09 02:10] 192702750699701@lid: Hey can you guys remove flags on accounts at all?
+[2026-09-09 02:15] DEREK: Yes we can
+[2026-09-09 02:15] DEREK: Can you send me a screenshot of
+[2026-09-09 02:15] 192702750699701@lid: Even if it’s appealed ?
+[2026-09-09 02:15] DEREK: Or screen recording
+[2026-09-09 02:15] DEREK: Ahhh, those are a bit harder
+[2026-09-09 02:15] DEREK: And take time
+[2026-09-09 02:15] DEREK: But yes we still can
+[2026-09-09 02:15] 192702750699701@lid: I have 2 accounts with it, I’m just out right now I’ll send when home
+[2026-09-09 02:15] DEREK: Sounds good
+[2026-09-09 02:15] 192702750699701@lid: Yeah that’s okay I’m patient just as long as it eventually could get removed
+[2026-09-09 09:34] 192702750699701@lid: Okay
+[2026-09-09 09:34] 192702750699701@lid: Main acc
+[2026-09-09 09:34] 192702750699701@lid: 
+      <IMG MISSING non-image: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363429910685553@g.us/4/9/49cf833e-f9a0-4700-bf00-98ac80b0ecdf.mp4>
+[2026-09-09 09:34] 192702750699701@lid: Back up acc
+[2026-09-09 09:34] 192702750699701@lid: 
+      <IMG MISSING non-image: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363429910685553@g.us/b/f/bf68ff3d-3d6a-40c4-9213-e9ff0e97c507.mp4>
+[2026-09-10 03:03] DEREK: yeah we can do it for 1500 for both
+[2026-09-10 04:54] DEREK: Is there a price you were looking for that would work for you?
+[2026-09-16 22:45] 192702750699701@lid: Hey guys sorry I’m not ignoring you at all I’m just having some drama that’s taking up a lot of my energy with a previous agency. Once I can get a bit more clarity on the solutions and it’s not clouding my mind I’ll circle back to this. I think I’ll just go ah…
+[2026-09-16 23:55] DEREK: You’re totally fine, quite literally so have I. These last few days have been ridiculous.
+[2026-09-17 01:14] 192702750699701@lid: Glad we’re in the same boat, this industry can intensely draining. Will circle back after I’ve had some clarity on my situation
+[2026-09-18 05:40] 192702750699701@lid: What are you charging for IG bans and do you guys offer like warranty on it, I had issues with some dude and he got my account deleted and I’m worried if I pay he’ll just do it again

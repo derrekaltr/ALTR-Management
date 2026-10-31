@@ -1,0 +1,278 @@
+{
+ "cycles": [
+  {
+   "chat": "Lilia x ALTR",
+   "period_key": "2026-05-27",
+   "period": "2026-05-27..05-31",
+   "period_start": "2026-05-27T00:00:00-05:00",
+   "issued_ts": "2026-06-01T19:27:07-05:00",
+   "issued_by": "Stephski",
+   "issue_msg_ids": [
+    133,
+    371
+   ],
+   "followups": [],
+   "escalations": [],
+   "payment_links": [],
+   "payment_claimed_ts": "2026-06-18T11:48:44-05:00",
+   "payment_claim_msg": 342,
+   "payment_confirmed": false,
+   "evidence": "claimed_only",
+   "lag_days": 16.7
+  },
+  {
+   "chat": "Lilia x ALTR",
+   "period_key": "2026-06-15",
+   "period": "2026-06-15..06-30",
+   "period_start": "2026-06-15T00:00:00-05:00",
+   "issued_ts": "2026-07-01T15:18:53-05:00",
+   "issued_by": "Stephski",
+   "issue_msg_ids": [
+    491,
+    492
+   ],
+   "followups": [],
+   "escalations": [],
+   "payment_links": [],
+   "payment_claimed_ts": "2026-07-06T10:39:29-05:00",
+   "payment_claim_msg": 506,
+   "payment_confirmed": true,
+   "evidence": "strong",
+   "lag_days": 4.8
+  },
+  {
+   "chat": "Lilia x ALTR",
+   "period_key": "2026-07-01",
+   "period": "2026-07-01..07-14",
+   "period_start": "2026-07-01T00:00:00-05:00",
+   "issued_ts": "2026-07-15T15:36:46-05:00",
+   "issued_by": "Stephski",
+   "issue_msg_ids": [
+    610,
+    611
+   ],
+   "followups": [],
+   "escalations": [],
+   "payment_links": [],
+   "payment_claimed_ts": null,
+   "payment_claim_msg": null,
+   "payment_confirmed": false,
+   "evidence": "none",
+   "lag_days": null
+  },
+  {
+   "chat": "Lilia x ALTR",
+   "period_key": "2026-07-15",
+   "period": "2026-07-15..07-31",
+   "period_start": "2026-07-15T00:00:00-05:00",
+   "issued_ts": "2026-08-01T15:44:45-05:00",
+   "issued_by": "Stephski",
+   "issue_msg_ids": [
+    762,
+    763
+   ],
+   "followups": [],
+   "escalations": [],
+   "payment_links": [],
+   "payment_claimed_ts": null,
+   "payment_claim_msg": null,
+   "payment_confirmed": false,
+   "evidence": "none",
+   "lag_days": null
+  }
+ ],
+ "events": [
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 133,
+   "ts": "2026-06-01T19:27:07-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 330,
+   "ts": "2026-06-15T11:34:15-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 341,
+   "ts": "2026-06-18T11:48:17-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CLAIMED",
+   "id": 342,
+   "ts": "2026-06-18T11:48:44-05:00",
+   "sender": "Lilia"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 371,
+   "ts": "2026-06-22T11:20:33-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CLAIMED",
+   "id": 372,
+   "ts": "2026-06-22T11:21:05-05:00",
+   "sender": "Lilia"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 373,
+   "ts": "2026-06-22T11:21:11-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CLAIMED",
+   "id": 378,
+   "ts": "2026-06-22T15:27:33-05:00",
+   "sender": "Lilia"
+  },
+  {
+   "event": "PAYMENT_CLAIMED",
+   "id": 400,
+   "ts": "2026-06-23T17:14:07-05:00",
+   "sender": "Lilia"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 405,
+   "ts": "2026-06-23T20:13:59-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CLAIMED",
+   "id": 406,
+   "ts": "2026-06-24T13:41:22-05:00",
+   "sender": "Lilia"
+  },
+  {
+   "event": "PAYMENT_CLAIMED",
+   "id": 417,
+   "ts": "2026-06-25T17:00:58-05:00",
+   "sender": "Lilia"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 455,
+   "ts": "2026-06-29T11:03:24-05:00",
+   "sender": "FRED | OFM"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 468,
+   "ts": "2026-06-29T18:20:28-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CLAIMED",
+   "id": 471,
+   "ts": "2026-06-29T18:22:53-05:00",
+   "sender": "Lilia"
+  },
+  {
+   "event": "PAYMENT_CLAIMED",
+   "id": 479,
+   "ts": "2026-06-29T18:30:37-05:00",
+   "sender": "Lilia"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 485,
+   "ts": "2026-06-30T13:36:32-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 491,
+   "ts": "2026-07-01T15:18:53-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 491,
+   "ts": "2026-07-01T15:18:53-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 492,
+   "ts": "2026-07-01T15:18:56-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CLAIMED",
+   "id": 506,
+   "ts": "2026-07-06T10:39:29-05:00",
+   "sender": "Lilia"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 514,
+   "ts": "2026-07-06T10:43:49-05:00",
+   "sender": "FRED | OFM"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 520,
+   "ts": "2026-07-06T14:40:31-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 522,
+   "ts": "2026-07-07T14:32:32-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 610,
+   "ts": "2026-07-15T15:36:46-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 611,
+   "ts": "2026-07-15T15:36:50-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 646,
+   "ts": "2026-07-20T20:54:01-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 759,
+   "ts": "2026-07-30T12:00:39-05:00",
+   "sender": "FRED | OFM"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 762,
+   "ts": "2026-08-01T15:44:45-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 763,
+   "ts": "2026-08-01T15:44:49-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 764,
+   "ts": "2026-08-01T19:09:24-05:00",
+   "sender": "Derrek"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 765,
+   "ts": "2026-08-04T14:32:34-05:00",
+   "sender": "FRED | OFM"
+  }
+ ]
+}

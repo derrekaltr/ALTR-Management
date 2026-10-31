@@ -1,0 +1,122 @@
+{
+  "client": "Lauren Blake",
+  "slug": "lauren-blake-x-altr",
+  "status": "at_risk",
+  "status_reason": "Day 98. Since the 2026-09-25 run her side recovered and ours did not. She came back from the 8-day silence and went from 1 ask (week to Sep 25) to 7 asks across Sep 26 - Oct 9: the Ryan harasser, 'Did we lose some top spenders?', 'Who is this?', 'Does beebs still spend?', @itsqueenblake insights, the Meta ad-spend report, and a photographer other than Zeus. A client who still asks is not gone, and this is the main improvement since Sep 25. Things we fixed: the nuropod link was added (~17h), the weekly leak report came back (Sep 25, Oct 2, now sent by Melissa Userfacing; the two missed weeks were never backfilled), she finished the new private-platform intake form in 42 minutes, Mica found her a new photographer in ~25h, and a repost-network push was scheduled for Oct 11. Things that are still broken, and they are the results questions: 'Did we lose some top spenders?' (Sep 28) was never answered. 'Can i please get a report on how much we’ve spent on meta ads?' (Oct 5) is her first re-ask of the Aug 3 ad-report request, 63 days later, and it is still unanswered. The only reply our side sent the next morning was Stephski's second invoice-5 chase. '@itsqueenblake insights' (Oct 5) is unanswered. Three of the four churn-signature signals are live: the owner has been silent 43 days (last message Aug 27); a long-promised deliverable has no written proof (ad report, whale results, CodyBeebs proof); and billing was 6 of the 9 ALTR-staff messages sent Oct 1-9. Ollie, the account manager, spoke only about the harasser (Sep 27-29). He admitted 'we haven't blocked this account' and has been silent since Sep 29. Invoice 5 slowed from ~25h with one chase (invoice 4) to ~6 days with two chases, paid by wire on deadline day Oct 7. That wire is the first since her bank flagged our account, and nobody confirmed it arrived. A new, unintroduced IG-farm vendor (Stardust Nexus) posted growth screenshots in her chat on Oct 5. The same vendor collected 2FA codes in a group chat on another client's account on Oct 8. Meanwhile her Sep 11 plaintext logins are still unrotated. Last client message 2026-10-07 ('Yes wire was sent'). Status stays at_risk: engagement is up, but the questions she now asks are exactly the ones we have never answered in writing. If the ad report gets a call offer instead of a document, this matches the confirmed exit pattern.",
+  "last_client_message": "2026-10-07",
+  "dimensions": {
+    "responsiveness": {
+      "severity": 3,
+      "internal_failure": "Her logistics asks now get fast answers: link ~17h, photographer ~25h, harasser triage within the hour. Her results asks get no answer at all. 'Did we lose some top spenders?' (Sep 28) was never answered, even after she had to chase with 'Can someone tell me what’s happening here?' ~19.5h later. Oct 5's ad-spend report and @itsqueenblake insights requests were still unanswered at export close (~3.6 days), and an invoice chase went out in between. The Aug 31 Chase fraud-flag report is now 39 days unanswered.",
+      "evidence": [
+        {"quote": "Did we lose some top spenders?", "who": "Lauren Blake", "date": "2026-09-28"},
+        {"quote": "Can someone tell me what’s happening here?", "who": "Lauren Blake", "date": "2026-09-29"},
+        {"quote": "Can i please get a report on how much we’ve spent on meta ads?", "who": "Lauren Blake", "date": "2026-10-05"}
+      ]
+    },
+    "follow_through": {
+      "severity": 3,
+      "internal_failure": "We kept the small, cheap promises this window: the link, a 'shortly' update that arrived in ~1h, the photographer intro, the leak report restarted. We added a new lapse ('put him in check right away', but the account was never blocked or confirmed blocked). The 15 old lapses all aged two more weeks untouched: ad report 67d, whale results 63d, written chatter boundaries 68d, CodyBeebs proof 52d, livestream 49d, phone-farm updates 69d. Vivek, introduced as her Meta support rep, still has zero messages after 72 days.",
+      "evidence": [
+        {"quote": "Yes we will put him in check right away", "who": "Ollie Mckinlay", "date": "2026-09-27"},
+        {"quote": "But we haven't blocked this account", "who": "Ollie Mckinlay", "date": "2026-09-29"},
+        {"quote": "Yes Ill get that for you", "who": "Ollie Mckinlay", "date": "2026-08-18"}
+      ]
+    },
+    "proactive_communication": {
+      "severity": 2,
+      "internal_failure": "Better than the 1-message week to Sep 25. Unprompted outbound came back: two leak reports, the intake form, reel ideas, the repost-network schedule. It is still all templated or logistics. In 98 days the account team has never sent a revenue, whale, IG-growth or ad-spend number. The only growth figure she has ever received ('2k growth in 2 days') came from an unintroduced vendor and did not name a page. That is why she asked for page insights the same evening. Longest ALTR-staff silence this window: 3.98 days (Melissa Oct 2 11:47 to Melissa Oct 6 11:22), broken only by the vendor's screenshot. The all-time record is still 5.02 days (Sep 17-22).",
+      "evidence": [
+        {"quote": "2k growth in 2 days using only trial", "who": "Stardust Nexus", "date": "2026-10-05"},
+        {"quote": "How are the insights for the page @itsqueenblake", "who": "Lauren Blake", "date": "2026-10-05"},
+        {"quote": "Hey Lauren! Here’s your weekly update on the leak removal breakdown for the past 7 days 🫶🏼", "who": "Melissa Userfacing", "date": "2026-10-02"}
+      ]
+    },
+    "onboarding_handoff": {
+      "severity": 2,
+      "internal_failure": "At day 98 we asked her to redo intake on a new platform. She did it in 42 minutes, but this is the second intake she has given us, and the first was never acted on. The content-requirements doc promised on day 3 never came. New people keep appearing in her chat with no introduction and no 'who to contact for what': Melissa Userfacing took over the leak reports with no handover message, and Stardust Nexus posted with no introduction at all. That is why she had to ask 'Who is this?'.",
+      "evidence": [
+        {"quote": "can you please fill out this intake so we (and whoever’s on your chats) really understand you and rep you properly?", "who": "Melissa Userfacing", "date": "2026-09-28"},
+        {"quote": "Will send content requirements tomorrow to make this page pop", "who": "Ollie Mckinlay", "date": "2026-07-06"},
+        {"quote": "Hi! Great to meet you. This portion of the management is very important to me. My ultimate goal is to get traffic picked up. Please let me know what you need from me to get started and getting momentum ☺️", "who": "Lauren Blake", "date": "2026-07-06"}
+      ]
+    },
+    "chatter_conduct": {
+      "severity": 3,
+      "internal_failure": "Her limits are still not written anywhere a chatter can read them, 68 days after we said we would sort it. The new intake form may finally become that brief, but nobody has confirmed it. In the harasser incident Ollie guessed in the chat that the abuser is Cody Beebs, a fan we still sell to 'Time to time'. He swore in the client chat and admitted the account behind the abuse had not been blocked. She was left blocking accounts herself while the abuse reached her mother, her IG DMs and her email. History still counts: porn and anal content offered that she doesn't produce, topless priced below her floor, a topless-with-face JOI custom sold after she banned it, and a $27k whale blocked without telling her.",
+      "evidence": [
+        {"quote": "Can you guys put this Ryan guy in check? He messaged this to my mom", "who": "Lauren Blake", "date": "2026-09-27"},
+        {"quote": "That’s very bizarre. Ok thank you for managing it. I’m just blocking the accounts that send these", "who": "Lauren Blake", "date": "2026-09-29"},
+        {"quote": "Also I’d like this changed. I don’t have actual porn, sex tapes or anything anal. This message it outside of my comfort zone", "who": "Lauren Blake", "date": "2026-08-01"}
+      ]
+    },
+    "platform_health": {
+      "severity": 2,
+      "internal_failure": "Something visible happened on IG for the first time: a 'trial' growth screenshot (Oct 5) and a 23-account repost push scheduled for Oct 11. But nobody owns reporting it back to her. The screenshot came from a vendor nobody introduced, with no page named and no baseline. Her follow-up asking for insights on @itsqueenblake went unanswered. Vivek, the Meta support rep promised Jul 29, has still never posted. Derrek's Aug 1 phone-farm broadcast promised 'plenty of updates' and has produced none from ALTR staff in 69 days.",
+      "evidence": [
+        {"quote": "Crushing IG farms", "who": "Stardust Nexus", "date": "2026-10-05"},
+        {"quote": "Great work!", "who": "Lauren Blake", "date": "2026-10-05"},
+        {"quote": "Thank you for your understanding, we will have plenty of updates starting next week.", "who": "Derrek", "date": "2026-08-01"}
+      ]
+    },
+    "billing_ops": {
+      "severity": 3,
+      "internal_failure": "The ledger is clean: 5 of 5 invoices paid in full, none disputed. The operations around it got worse. Invoice 5 went out Oct 1 with the amount only in an attachment. Stephski chased it at ~20.5h and again the morning after Lauren asked for the 5% ad-spend report, so her money question was answered with a money demand. The Oct 7 wire was the first since her bank (Chase) flagged our account. Stephski replied 'you're amazing!!' but never confirmed the wire landed. Still never done: a standalone banking block, a written answer on the fraud flag (39 days), and any ad-spend reconciliation across five billed periods. 6 of the 9 ALTR-staff messages Oct 1-9 were billing.",
+      "evidence": [
+        {"quote": "Hi hun just wanted to check back on your invoice 🫶 tomorrow is the deadline so just tapping in to remind 🩷", "who": "Stephski", "date": "2026-10-06"},
+        {"quote": "Yes wire was sent", "who": "Lauren Blake", "date": "2026-10-07"},
+        {"quote": "And your account was flagged by Chase for fraud/scam transactions so they won’t send it through so they won’t send it even if I say so", "who": "Lauren Blake", "date": "2026-08-31"}
+      ]
+    },
+    "ownership_escalation": {
+      "severity": 3,
+      "internal_failure": "Nobody owns the account. Ollie's only activity was 19 messages on the harasser (Sep 27-29). He has made no fan-add, custom or whale request since Sep 12 and has been silent since Sep 29. Her three Oct 5 asks went to whoever was listening: Mica took the photographer, nobody took the insights or the ad report. A new vendor and a new client-facing account joined her chat with no one telling her who they report to. OWNER-LEVEL (surface privately, not in the Team tab): Derrek has been silent 43 days, and the ad report he was meant to walk her through by phone on Aug 3 has now been re-asked.",
+      "evidence": [
+        {"quote": "Who is this?", "who": "Lauren Blake", "date": "2026-09-28"},
+        {"quote": "Sending you an update on this shortly", "who": "Ollie Mckinlay", "date": "2026-09-29"},
+        {"quote": "You're welcome! Derreks going to give you a ring and walk you through your current ad stats 🙂", "who": "Stephski", "date": "2026-08-03"}
+      ]
+    },
+    "disengagement_detection": {
+      "severity": 2,
+      "internal_failure": "She re-engaged on her own; nobody on our side reached out to win her back. No one acknowledged her 8-day silence, no one welcomed her back, and no one used her return to close any of the 15 open items. Now the signals have changed shape: re-asking a 63-day-old ad report, asking whether top spenders were lost, and clipped 'Okay thank you' replies are a client checking whether she is getting value. The only reply those signals got was an invoice chase. Engagement is up, so this is not the silent exit pattern, but none of these signals has been acted on.",
+      "evidence": [
+        {"quote": "Can i please get a report on how much we’ve spent on meta ads?", "who": "Lauren Blake", "date": "2026-10-05"},
+        {"quote": "Hi Lauren just making sure you saw this ❤️", "who": "Stephski", "date": "2026-10-02"},
+        {"quote": "I’d like to see the ad reports of the 5% being spent on meta", "who": "Lauren Blake", "date": "2026-08-03"}
+      ]
+    },
+    "security_hygiene": {
+      "severity": 3,
+      "internal_failure": "Her Instagram and Snapchat logins, both with the same password, were posted in plain text on Sep 11 at our request, along with two 2FA codes. 28 days later they are still in the scrollback and have not been rotated. Since then the chat has added members (ChatAddUser Sep 25) and gained an unconfirmed IG-farm vendor (Stardust Nexus, alias Theta SDX in config/team.yaml). The vendor posted 'using only trial' growth on Oct 5, which implies it is already working inside one of her IG accounts. Nobody introduced the vendor or told her a third party has access. We don't know which credentials it used; the unrotated ones in this chat are the obvious candidates. In her chat the vendor has not asked for codes yet. But on Oct 8, in Liza Kovalenko's chat, the same vendor asked for an IG 2FA code in the group, received it and replied 'I'm in'. That is exactly what Mica warned clients against on Sep 17. Expect it here next. Separate issue: the 2026-09-25 analysis file for this client quoted her plaintext password in its security_hygiene evidence. Redact it before anything built from that file is published.",
+      "evidence": [
+        {"quote": "Direct login would work too", "who": "Mayson Chat", "date": "2026-09-11"},
+        {"quote": "[REDACTED credential: IG username + password, followed minutes later by Snapchat login with the same password, posted in plaintext]", "who": "Lauren Blake", "date": "2026-09-11"},
+        {"quote": "Please do not send your backup codes to anyone, including our team. Keep the screenshot somewhere secure that only you can access.", "who": "Mica Vecco", "date": "2026-09-17"},
+        {"quote": "2k growth in 2 days using only trial", "who": "Stardust Nexus", "date": "2026-10-05"}
+      ]
+    }
+  },
+  "metrics": {
+    "client_questions_total": 50,
+    "unanswered_over_24h": 13,
+    "max_team_silence_days": 5.02,
+    "promises_made": 36,
+    "promises_kept": 19,
+    "promises_lapsed": 16,
+    "promises_in_flight": 1,
+    "method": "Full history 2026-07-03 to 2026-10-07 (525 jsonl lines; 240 Lauren Blake messages per config/clients.yaml, 272 our-side messages). Carried forward the 2026-09-25 manual counts and added a manual read of the 66 lines from Sep 25 onward (src/_tmp_lauren-blake-x-altr.py). Questions = client '?' messages plus clear imperative asks. Prior total was 42; 8 new: put Ryan in check, top spenders, who is this, what's happening, does Beebs still spend, @itsqueenblake insights, Meta ad report, photographer. Unanswered >24h: prior 11, plus 'Did we lose some top spenders?' (never answered) and @itsqueenblake insights (Oct 5, unanswered at Oct 9 close) = 13. The Oct 5 ad-report request is a re-ask of the Aug 3 item, which was already counted. The Sep 25 link request was answered in ~17h, so it is not counted. Team silence = longest gap between consecutive non-client, non-service messages: still 5.02 days (Sep 17 11:05 to Sep 22 11:40). The longest gap this window among ALTR staff only (excluding the vendor) was 3.98 days (Oct 2 11:47 to Oct 6 11:22). Promises: 5 new (link, put him in check, update shortly, photographer grouping, Oct 11 repost push). Kept: the link, the 'shortly' update and the photographer grouping. Lapsed: the Ryan block. In flight: the repost push. The weekly leak report resumed Sep 25 but stays counted as lapsed, because the two missed weeks were never backfilled."
+  },
+  "what_client_wanted": [
+    "Written money transparency for the 5% ads fee she pays: 'I’d like to see the ad reports of the 5% being spent on meta' (Aug 3), re-asked 63 days later as 'Can i please get a report on how much we’ve spent on meta ads?' (Oct 5).",
+    "Proof of results on her pages and her spenders: 'Did we lose some top spenders?' (Sep 28) and 'How are the insights for the page @itsqueenblake' (Oct 5). On day 3 she said her goal was traffic: 'My ultimate goal is to get traffic picked up.'",
+    "Protection from fan harassment that reaches her family: 'Can you guys put this Ryan guy in check? He messaged this to my mom' (Sep 27); 'I keep getting ig DMs about it' / 'And emails' (Sep 29).",
+    "To be told what is going on without having to chase: 'Can someone tell me what’s happening here?' (Sep 29), and earlier 'Let me know when you have access to everything' (Sep 12)."
+  ],
+  "what_worked": [
+    "Showing her a number at all. The vendor's '2k growth in 2 days using only trial' got 'Great work!' within hours (Oct 5). It is her first praise since Aug 18, and it came from one screenshot. She wants evidence, and a single figure earns goodwill.",
+    "The weekly leak report as a boring recurring deliverable. It came back Sep 25 and Oct 2 and was acknowledged ('Okay thank you', Oct 5). It ran for nine weeks from Jul 17 without her ever chasing it, and it was the source of her first praise: 'Hi team! I’m super happy with how my page is being ran so far 🥳' (Jul 17).",
+    "Fast, specific handling of logistics: the nuropod link was added in ~17h with 'Lauren let me know if you want to add anything else!' (Sep 26). Her photographer ask got 'just grouped you with someone!' in ~25h (Oct 6). On the harasser, 'Sending you an update on this shortly' was followed by a real explanation ~1h later, and she replied 'Ok thank you for managing it' (Sep 29)."
+  ],
+  "top_fix": "Answer results questions in writing, from a named owner, within 24 hours, and never send a billing message into a thread where a client money or results question is still open. For Lauren this week that means one written message before invoice 6 (~Oct 15). It should contain: the Meta ad spend for all five billed periods; a top-spender table answering 'did we lose some'; @itsqueenblake insights with the Stardust growth tied to a named page; confirmation that the Oct 7 wire arrived; and confirmation that the Ryan account is blocked. Send it from a named account owner. Do not answer with a call offer; that is the exact step that preceded the Amber Haze exit. In the same move, introduce Stardust Nexus (or remove them), rotate her IG and Snapchat passwords, and move any 2FA handoff out of the group chat."
+}

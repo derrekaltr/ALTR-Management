@@ -1,0 +1,127 @@
+{
+  "client": "Liza Kovalenko",
+  "slug": "liza-kovalenko-x-altr",
+  "status": "at_risk",
+  "status_reason": "Still paying (in fact overpaid ~$2,500 last cycle) and still responsive, but the relationship now runs almost entirely on billing traffic; the Aug wire dispute closed with money found but zero apology or written reconciliation, her ALTR-run backup IGs were deleted and she found out by asking, and the owner has been silent 30 days.",
+  "last_client_message": "2026-09-02",
+  "dimensions": {
+    "responsiveness": {
+      "severity": 3,
+      "internal_failure": "Multi-day lags on the account's most sensitive topic (money): 6 days of silence after she sent payment proof on 08-19, ~96h before anyone replied to 'out of all wires you only got 5k?', and her 08-31 'Which dms ?' to Vivek about her deleted IG accounts was never answered at all.",
+      "evidence": [
+        {"quote": "So out of all wires you only got 5k?", "who": "Eli (client)", "date": "2026-08-26"},
+        {"quote": "Okay perf recieved", "who": "Stephski (first team reply, ~96h after the bounced-wire disclosure)", "date": "2026-08-30"},
+        {"quote": "Which dms ?", "who": "Eli (client, re: Vivek's 'Check dms' — never answered)", "date": "2026-08-31"}
+      ]
+    },
+    "follow_through": {
+      "severity": 3,
+      "internal_failure": "The promise stack keeps growing and none of it closed this window: Derrek's paid-ads summary (289 days), Phone Farm 'plenty of updates starting next week' (promised 08-01, never delivered — instead the backup accounts got deleted), monthly call never scheduled (45 days), Ronnie's OF tag-flag investigation never happened (25 days).",
+      "evidence": [
+        {"quote": "ill get you full summary", "who": "Derrek (paid ads stats she paid an extra 5% for; still undelivered)", "date": "2025-11-18"},
+        {"quote": "we will have plenty of updates starting next week", "who": "Derrek (zero updates since; accounts later deleted)", "date": "2026-08-01"},
+        {"quote": "will keep an eye if it happens again will look more into it", "who": "Ronnie Chat (it recurred in her very next message; no investigation)", "date": "2026-08-09"}
+      ]
+    },
+    "proactive_communication": {
+      "severity": 3,
+      "internal_failure": "She learned her ALTR-run Instagram backups were DELETED only because she asked mid-conversation about a content upload; the $40k Phone Farm has had zero updates in 33 days; the only non-billing outbound this window (Mayson's content drive, Mica's posting reminder) asked things OF her rather than reporting TO her.",
+      "evidence": [
+        {"quote": "All Instagram I gave you guys got deleted. Any news with recovery’s?", "who": "Eli (client — first mention of the deletions came from her)", "date": "2026-08-30"},
+        {"quote": "Please upload all the content you have that hasn't been posted yet, then keep it topped up with 7 reels a week", "who": "Mayson Chat (new demand, no status report attached)", "date": "2026-08-30"},
+        {"quote": "Would love to see the statistics on the promo. Any time you can, no rush.", "who": "Eli (client, still waiting 9+ months later)", "date": "2025-11-23"}
+      ]
+    },
+    "onboarding_handoff": {
+      "severity": 1,
+      "internal_failure": "Onboarding itself (Jul-Sep 2025) was genuinely strong — intros, form, contract, calls, voice-memo pipeline — but the 'who to contact for what' map decayed as Lauren, Sophie/Raw and Lissy dropped away without handoff announcements.",
+      "evidence": [
+        {"quote": "I’m Liss, the Onboarding Manager here at ALTR, and I’ll be your main point of contact as you get settled in.", "who": "Lissy", "date": "2025-07-30"},
+        {"quote": "Also, I texted regarding OF collab but no one replied, who I can arrange it with?", "who": "Eli (client, unclear ownership months in)", "date": "2026-01-16"}
+      ]
+    },
+    "chatter_conduct": {
+      "severity": 2,
+      "internal_failure": "Chat team accepted custom-video orders before ever asking whether she does customs, and gave a factually cavalier reassurance about OF flags instead of a real answer.",
+      "evidence": [
+        {"quote": "Hi Ronnie! I had never done custom videos before, I thought it’s a topic for discussion with me first", "who": "Eli (client, on finding 2 pending customs in the tracker)", "date": "2026-07-20"},
+        {"quote": "You can get 1000 flags... Nothing will ever happen", "who": "Noah Chat (dismissive answer to 'Is it going to affect my account?')", "date": "2026-01-28"}
+      ]
+    },
+    "platform_health": {
+      "severity": 3,
+      "internal_failure": "Her #1 stated concern for ~11 months ended this window in the worst possible state: the backup IG accounts ALTR ran were deleted, the Meta rep (Vivek, added 07-29) posted his first-ever message 32 days later only when pinged, and recovery status at window close is 'Check dms' with no confirmation anything was recovered; the OF tag-a-creator flag remains undiagnosed since 2026-01-26.",
+      "evidence": [
+        {"quote": "All Instagram I gave you guys got deleted. Any news with recovery’s?", "who": "Eli (client)", "date": "2026-08-30"},
+        {"quote": "Hey Ma’am please send me id password", "who": "Vivek (first message ever, 32 days after being introduced as the escalation path)", "date": "2026-08-30"},
+        {"quote": "Let me know please... All my accounts give cause they were associated", "who": "Eli (client, chasing recovery status, screenshots attached)", "date": "2026-08-31"}
+      ]
+    },
+    "billing_ops": {
+      "severity": 3,
+      "internal_failure": "Fourth consecutive discrepancy cycle closed without a written reconciliation: 'Okay perf recieved' was the entire resolution of the bounced-wire crisis, the ~$2,499.59 overpayment surfaced only because SHE asked what was deducted, and the next invoice went out with new 'avoid any pausing of work' pressure language to a client who had just overpaid — the bounce itself was caused by ALTR's 08-15 account-number change.",
+      "evidence": [
+        {"quote": "Please check your account cause wires bounced back we did them from banking online they all bounce back and we had to resend them", "who": "Eli (client)", "date": "2026-08-26"},
+        {"quote": "I ask that you please pay within 7 days to avoid any pausing of work 🙏", "who": "Stephski (new invoice, sent 2 days after the dispute, no apology for the bounce)", "date": "2026-09-01"},
+        {"quote": "How much did you deduct babe? ... rolled over 2499.59 that you overpaid last period", "who": "Eli / Stephski (client had to ask; first time the overpayment figure was stated)", "date": "2026-09-03"}
+      ]
+    },
+    "ownership_escalation": {
+      "severity": 2,
+      "internal_failure": "Billing questions needed three internal pings (@stephskiii from Derrek and Mayson) before being answered; IG recovery was pinballed to Vivek via two @fonta pings; DMCA reporting stopped silently in March (183 days) with no named owner or explanation.",
+      "evidence": [
+        {"quote": "@fonta ?^^", "who": "Mayson Chat (deflecting her IG-deletion question, second ping needed later)", "date": "2026-08-30"},
+        {"quote": "@stephskiii", "who": "Derrek (internal ping to get client's payment question answered, one of three that cycle)", "date": "2026-07-31"},
+        {"quote": "Amazing thank you Nick great job 👏", "who": "Eli (client, on the DMCA service that has since silently produced nothing for 183 days)", "date": "2025-12-11"}
+      ]
+    },
+    "disengagement_detection": {
+      "severity": 2,
+      "internal_failure": "The first friction-toned message in 13 months (08-26) triggered no apology, no owner outreach and no relationship repair; Derrek is 30 days silent (last 2026-08-04) while the client absorbs a payment failure and account deletions caused on ALTR's side.",
+      "evidence": [
+        {"quote": "So out of all wires you only got 5k?", "who": "Eli (client, first edge in tone on record — met with 4 days of silence)", "date": "2026-08-26"},
+        {"quote": "need you to add you payment method for verification", "who": "Derrek (his last message on the account, 30 days before window close)", "date": "2026-08-04"}
+      ]
+    },
+    "security_hygiene": {
+      "severity": 3,
+      "internal_failure": "Vivek asked for credentials IN THE GROUP CHAT and the client posted plaintext passwords for three Instagram accounts; nobody moved her to a secure channel, deleted the message, or rotated the passwords afterwards — in a chat that also contains bank details and a crypto address, and where her 2026-03-18 'was it someone from the team that logged in?' went unanswered.",
+      "evidence": [
+        {"quote": "Hey Ma’am please send me id password", "who": "Vivek (in the group chat, not a secure channel)", "date": "2026-08-30"},
+        {"quote": "@Lizakovaal 1122Perth33!! ... @lizkovalenkoo ibiza2026!!! ... @Lizaakovalenk0 1972stockk1972..", "who": "Eli (client, three plaintext credentials posted in chat, never rotated)", "date": "2026-08-31"},
+        {"quote": "Was it someone from the team that logged in ?", "who": "Eli (client, OF login alert — never answered)", "date": "2026-03-18"}
+      ]
+    }
+  },
+  "metrics": {
+    "client_questions_total": 71,
+    "unanswered_over_24h": 10,
+    "max_team_silence_days": 26,
+    "promises_made": 15,
+    "promises_kept": 7,
+    "promises_lapsed": 7,
+    "method": "Scripted pass over all 1,012 messages: questions = client messages containing '?' (71); unanswered_over_24h = client questions with >24h until ANY subsequent team message (10 — a lower bound, since several got a team message that did not actually answer them, e.g. 'Which dms ?' 08-31); max_team_silence_days = longest gap between consecutive team messages (26d, 2026-05-05 to 06-01; note also a 10-day gap 08-15 to 08-26 spanning the wire crisis). Promises counted manually from explicit team commitments; 1 further (Vivek IG recovery) still in progress."
+  },
+  "what_client_wanted": [
+    "Written confirmation her money arrived, every cycle: 'Pls confirm if you guys received those too thank you' (2026-08-25); 'Can you please confirm you received them' (2026-04-03)",
+    "Her Instagram accounts kept safe and recovered when lost — her top concern since 2025-10: 'All Instagram I gave you guys got deleted. Any news with recovery’s?' (2026-08-30)",
+    "Definitive answers about platform warnings, not workarounds: 'Ok. Is it going to affect my account ?' (2026-01-28)",
+    "Visibility into results she pays for: 'Would love to see the statistics on the promo. Any time you can, no rush.' (2025-11-23 — never delivered)"
+  ],
+  "what_worked": [
+    "Named, visible DMCA output: 'Amazing thank you Nick great job 👏' (2025-12-11) — the FB impersonator takedown with a 2-day update loop (report → ETA → 'accounts are now down') is the single best-executed loop on the record",
+    "Sophie/Raw's calls, reports and 14-day game plans: 'Was a pleasure you so nice!! ❤️ thank you for sending this over too xx' (2025-09-18)",
+    "Consistent early-era reel inspo + cheerleading: 'wanted to thank a team for an amazing job let’s continue crushing it 👏🏼👏🏼👏🏼' (2026-01-01)"
+  ],
+  "top_fix": "Institute a 24-hour written payment-confirmation SOP on this account (amount received, sender name, remaining balance, in the chat, every cycle) and freeze banking-detail changes — four consecutive cycles of discrepancies, a bounce caused by ALTR's own mid-cycle account change, and an overpayment she had to discover herself all trace to the absence of this one habit. Close second: the owner breaking his 30-day silence with the promised Phone Farm/recovery update.",
+  "since_aug_26": {
+    "wire_dispute": "RESOLVED IN DOLLARS, NOT IN PROCESS. After 4 days of silence, Stephski confirmed receipt on 08-30 ('Okay perf recieved'). The 08-25 wires turn out to have been partly ADDITIONAL money, not just resends: she overpaid by $2,499.59, which Stephski rolled into the Sep 1 invoice — but that figure only surfaced on 09-03 because the client asked 'How much did you deduct babe?'. No itemized reconciliation, no apology for the bounce ALTR's account change caused.",
+    "new_events": [
+      "2026-08-30: client reveals the ALTR-run backup IG accounts were all deleted; Vivek posts his first message ever (32 days after being introduced) and asks for credentials in-chat",
+      "2026-08-31: client posts plaintext passwords for 3 IG accounts in the group chat; 'Check dms' / 'Which dms ?' exchange left dangling — recovery unconfirmed at window close",
+      "2026-09-01: Aug 15-31 invoice sent with new 'pay within 7 days to avoid any pausing of work' language",
+      "2026-09-03: unidentified ChatDeleteUser service event (someone removed/left the group)",
+      "Derrek silence now 30 days (last message 2026-08-04); Phone Farm update 33 days past promise"
+    ]
+  }
+}

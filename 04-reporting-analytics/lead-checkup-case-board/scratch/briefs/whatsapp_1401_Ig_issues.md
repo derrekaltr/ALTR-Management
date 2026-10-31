@@ -1,0 +1,110 @@
+# Ig issues  [whatsapp #1401 GROUP]
+msgs=107 (in=80 out=27) window=2026-06-29..2026-07-29
+last_client=2026-07-26 (54d ago), last_derrek=2026-07-29 (51d ago)
+LAST MESSAGE from Derrek: 'Hey, just wanted to give a quick update. I’ve parted ways with Kartik for the social media recoveries. He’s still going to be working on them, so if you have a pending case that’s owed or any future c…'
+
+  ...
+[2026-06-29 16:41] 120363429786227268@g.us: 197405874085999@lid
+[2026-06-29 16:41] 197405874085999@lid: {"is_hidden_sub_group":false,"auto_add_disabled":true,"is_initially_empty":false,"context_group":null,"reason":0,"parent_group_name":null,"author":"197405874085999@lid","should_use_identity_header":true,"is_open_group":true,"subject":"Ig issues","show_membersh…
+[2026-06-29 16:41] 197405874085999@lid: Hey
+[2026-06-29 16:41] 197405874085999@lid: @68195641733252
+[2026-06-29 16:42] 197405874085999@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363429786227268@g.us/7/1/7159cc85-a92e-4983-81c5-90636986a07c.jpg>
+[2026-06-29 17:11] 197405874085999@lid: @68195641733252 we will Adjust your 1k towards the cost
+[2026-06-29 17:11] 197405874085999@lid: Sorry about that we were not notified
+[2026-06-29 17:11] DEREK: Sorry did not see your messages, and I didn’t get responses in our groupchat
+[2026-06-29 17:11] DEREK: I completely forgot about it
+[2026-06-29 17:11] DEREK: But obviously will take it out
+[2026-06-29 17:11] DEREK: We deal with so many cases
+[2026-06-29 17:12] 68195641733252@lid: Okey
+[2026-06-29 17:12] DEREK: 
+      <IMG MISSING non-image: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363429786227268@g.us/c/0/c047f719-b767-46b4-b9b2-d227a49c6509.mp4>
+[2026-06-29 17:12] DEREK: 
+      <IMG MISSING non-image: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363429786227268@g.us/1/f/1f6e2bff-f510-423c-bf68-e6444f3e831a.mp4>
+[2026-06-29 17:14] 68195641733252@lid: How long will it take you?
+  ...
+[2026-06-29 17:15] 68195641733252@lid: Good
+[2026-06-29 17:16] 68195641733252@lid: If you recover it for me, I have many friends who will want you to recover their accounts, with accounts of more than 1 million followers in Spain.
+[2026-06-29 17:17] 197405874085999@lid: We appreciate that
+  ...
+[2026-06-30 17:39] 197405874085999@lid: Hey
+[2026-06-30 17:39] 197405874085999@lid: The price is 6k rn
+[2026-06-30 17:41] 68195641733252@lid: Okay, and with those 6k that it includes
+[2026-06-30 17:41] 68195641733252@lid: warranty?
+  ...
+[2026-06-30 17:41] 197405874085999@lid: Wont go down again
+[2026-06-30 17:43] 68195641733252@lid: And if that happens, would you recover it for me for free? I ask because I have a friend whose account was recovered, and then it was deleted again two weeks later for the same reason.
+[2026-06-30 17:51] 197405874085999@lid: If you don’t appeal it
+[2026-06-30 17:51] 68195641733252@lid: Okey
+  ...
+[2026-06-30 18:34] 68195641733252@lid: Okey
+[2026-07-02 10:51] 68195641733252@lid: Hi, how's the account recovery going?
+[2026-07-02 11:09] 197405874085999@lid: Waiting on the rep dear friend
+  ...
+[2026-07-08 06:16] 197405874085999@lid: Hey
+[2026-07-08 06:16] 197405874085999@lid: We have 1k
+[2026-07-08 06:16] 197405874085999@lid: Cost is 5.5k
+[2026-07-08 06:16] 197405874085999@lid: Please send 4.5k
+[2026-07-08 08:23] 68195641733252@lid: Hi, has the account been recovered yet? If so, could you confirm it for me somehow? That way I can proceed with the payment.
+[2026-07-08 14:21] DEREK: @197405874085999
+  ...
+[2026-07-08 14:25] 197405874085999@lid: And send another
+[2026-07-08 14:27] 68195641733252@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363429786227268@g.us/0/b/0b312956-0c47-4c29-8f1b-0c74673c14f8.jpg>
+[2026-07-08 14:27] 68195641733252@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363429786227268@g.us/b/e/be95b616-92a3-4de5-9a83-49ab44682204.jpg>
+[2026-07-08 14:27] 68195641733252@lid: This no?
+[2026-07-08 15:31] DEREK: submitted
+[2026-07-08 16:07] DEREK: When did this page get banned
+[2026-07-08 16:09] DEREK: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363429786227268@g.us/7/a/7adf2a6a-4a9e-40e8-aa7f-f69fb347ab7c.jpg>
+[2026-07-08 16:10] 68195641733252@lid: Okey send me email for resend
+[2026-07-08 16:10] 68195641733252@lid: Or only this
+[2026-07-08 16:11] 68195641733252@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363429786227268@g.us/6/f/6fa17137-f8a5-41a1-a83a-c498e924aada.jpg>
+[2026-07-08 16:15] DEREK: Perfect, that’s what I needed
+[2026-07-08 16:15] DEREK: Do you know around the time you got banned?
+[2026-07-08 16:16] 68195641733252@lid: Yes
+  ...
+[2026-07-08 16:33] 68195641733252@lid: Carlaaaish@gmail.com
+[2026-07-11 08:04] 68195641733252@lid: Hi, how's the account recovery going? Do you have a representative yet?
+[2026-07-11 13:53] 197405874085999@lid: in progress
+[2026-07-11 13:54] 197405874085999@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363429786227268@g.us/6/2/62d7fc73-56d3-492b-9b10-f5e5b62a14ac.jpg>
+[2026-07-14 18:17] 68195641733252@lid: Hello How is going
+  ...
+[2026-07-14 18:17] 197405874085999@lid: It’s in the works
+[2026-07-14 18:18] 197405874085999@lid: We’ll give you an update soon
+[2026-07-14 18:18] 68195641733252@lid: How long do you think it will take?
+  ...
+[2026-07-22 18:59] DEREK: Not impossible
+[2026-07-22 18:59] DEREK: We’ve gotten many accounts back today
+[2026-07-22 18:59] DEREK: The problem is many reps have been getting fired, so all of them have been super nervous
+[2026-07-22 18:59] DEREK: So there has been almost a week of nobody doing unbans.
+[2026-07-22 18:59] DEREK: But now it’s back as of this morning
+[2026-07-22 18:59] DEREK: We prioritize your account at the top of the list
+[2026-07-22 18:59] DEREK: They told us that it should be back in the next 24 to 48 hours so just hang tight
+[2026-07-22 19:00] 68195641733252@lid: Okey thanks for everything 😊
+[2026-07-22 19:12] 68195641733252@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363429786227268@g.us/6/c/6cbf6688-acf0-4bdc-9053-88cd2dca7511.jpg>
+[2026-07-22 19:17] DEREK: Yes
+[2026-07-22 19:17] DEREK: We need logins
+[2026-07-22 19:17] DEREK: 1-7 Turn around time
+[2026-07-22 19:18] 68195641733252@lid: Days you meen
+[2026-07-22 19:18] DEREK: Yes
+[2026-07-22 19:18] 68195641733252@lid: But the account hasn't been deleted, it just has a restriction preventing me from being shown to the public.
+[2026-07-22 19:32] DEREK: Yes
+[2026-07-25 14:57] 68195641733252@lid: Hello how is going ?
+[2026-07-25 14:58] 68195641733252@lid: And what is the price for this
+[2026-07-25 23:17] 197405874085999@lid: About 1k
+[2026-07-25 23:17] 197405874085999@lid: Usd
+[2026-07-26 08:11] 68195641733252@lid: Okey i send today
+[2026-07-26 08:11] 68195641733252@lid: The logins
+[2026-07-26 09:33] 197405874085999@lid: Lmk
+[2026-07-26 10:10] 68195641733252@lid: Okey is a page
+[2026-07-26 10:11] 68195641733252@lid: So this is the logins Melisagarridomontoya@icloud.com M9#vQ2!xL7@pR4$kT8
+[2026-07-26 10:11] 68195641733252@lid: @197405874085999
+[2026-07-26 10:12] 68195641733252@lid: And what about the account of ig ? I've seen that you've recovered some in your stories
+[2026-07-26 10:37] 197405874085999@lid: We are getting everything done
+[2026-07-26 10:37] 197405874085999@lid: Keep faith in us
+[2026-07-29 20:12] DEREK: Hey, just wanted to give a quick update. I’ve parted ways with Kartik for the social media recoveries. He’s still going to be working on them, so if you have a pending case that’s owed or any future cases, feel free to send to him. Just wanna clarify moving fo…

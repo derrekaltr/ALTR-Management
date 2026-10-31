@@ -1,0 +1,50 @@
+# Lilia ALTR Onboarding  [imessage #13559 GROUP]
+msgs=43 (in=35 out=8) window=2026-05-21..2026-05-25
+last_client=2026-05-25 (116d ago), last_derrek=2026-05-25 (116d ago)
+LAST MESSAGE FROM CLIENT — UNANSWERED: 'Okay no worries! I forgot it was a holiday today!!! Sorry 🙈'
+
+  ...
+[2026-05-21 17:30] DEREK: Hey Lilia, sorry for the delay
+[2026-05-21 17:31] DEREK: This is Eric. He’s gonna get you on boarded to our team.
+[2026-05-21 17:31] Eric The Efficient: Hi Lilia glad to connect, give me just a sec and I’ll send over our onboarding form !
+[2026-05-21 17:32] Lilia: Hi!!! Okay perfect! Thank you!
+[2026-05-21 17:34] DEREK: Wait lilia were u with untouched
+[2026-05-21 17:34] DEREK: Back in the day
+[2026-05-21 17:35] Lilia: Nooo why?
+[2026-05-21 17:36] Eric The Efficient: Altrmgmt.com/apply
+      <IMG MISSING non-image: /Users/locklyjailbreak/Library/Messages/Attachments/78/08/4F39367A-582B-4272-8526-F36473E6AADF/4663D3F8-21D3-4791-99EC-0A51EE64955A.pluginPayloadAttachment>
+[2026-05-21 17:37] Lilia: Is this the onboarding u want me to fill out?
+[2026-05-21 17:38] Eric The Efficient: Yes! I know it says apply haha, this is our new website still working out a few things:)
+[2026-05-21 17:38] Lilia: Okay it says username! What username do u want me to put in?
+[2026-05-21 17:38] Lilia: Like my two onlyfans accounts?
+  ...
+[2026-05-21 17:39] Lilia: Okay I’ll just put both? I think I can do that or is that separate or does that not matter
+[2026-05-21 17:39] Lilia: I just don’t want to fill it out wrong
+[2026-05-21 17:40] Eric The Efficient: Doesn’t matter , you’re all good. We can always fix it on our end don’t stress !
+[2026-05-21 17:40] Lilia: Okay I’ll just put my main one then! I’ll fill it out!
+[2026-05-21 17:40] Eric The Efficient: Perfect
+[2026-05-21 17:52] Lilia: It’s says earnings? On both pages! My other second page is just not run but when it was being run I think I made 8k the first month. It hasn’t been run for a while it just sits there so I just did an estimate on how much I made! I didn’t know how to fill it ou…
+[2026-05-21 17:52] Lilia: All done!
+[2026-05-21 18:50] Eric The Efficient: Sounds good appreciate you give me just a bit & we will get the ball moving!
+[2026-05-21 18:59] Eric The Efficient: Just had the contract sent over!
+[2026-05-21 19:15] Lilia: Loved “Sounds good appreciate you give me just a bit & we will get the ball moving!”
+[2026-05-21 19:15] Lilia: Loved “Just had the contract sent over!”
+[2026-05-21 19:15] Lilia: Perfect! I’ll go sign it!
+[2026-05-21 19:20] Eric The Efficient: Loved “Perfect! I’ll go sign it! ”
+[2026-05-21 19:50] Lilia: It’s all signed!
+[2026-05-21 19:50] Eric The Efficient: You’re a rockstar i’ll let the team know and we will start the account review!
+[2026-05-21 19:51] Eric The Efficient: I’ll get back to you w a start date/time shortly, are u ready whenever?
+[2026-05-21 21:30] Lilia: Loved “You’re a rockstar i’ll let the team know and we will start the account review!”
+[2026-05-21 21:30] Lilia: Loved “I’ll get back to you w a start date/time shortly, are u ready whenever?”
+[2026-05-21 21:32] Lilia: Second account is open right now u can start whenever! Ummm first account I’m said to them the 24th but we can start whenever after the 24th if that helps! Do u guys have a shared album I can put content in
+[2026-05-22 00:22] DEREK: Thank you!
+[2026-05-22 00:23] DEREK: When we open the gc
+[2026-05-22 00:23] DEREK: The team will get you everything
+[2026-05-22 23:52] Lilia: Okay thanks so much! U guys are the best!
+[2026-05-23 00:05] Eric The Efficient: Absolutely! Confirming with the team on start date now I’ll get back to you in just a bit !
+[2026-05-23 00:05] Lilia: Yayyy! Okay! Sounds good! Can’t wai!
+[2026-05-23 00:05] Lilia: Wait
+[2026-05-25 15:56] Lilia: Hey did we figure out a start date?
+[2026-05-25 16:05] DEREK: Eric
+[2026-05-25 16:10] Eric The Efficient: Hey sorry for the delay 🙏 some of our key managers were off for the holiday weekend ! Let me confirm now!
+[2026-05-25 16:13] Lilia: Okay no worries! I forgot it was a holiday today!!! Sorry 🙈

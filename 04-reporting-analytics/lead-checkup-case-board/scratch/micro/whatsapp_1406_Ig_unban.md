@@ -1,0 +1,19 @@
+## Ig unban [whatsapp#1406 GRP] msgs=28 win=2026-06-30..2026-07-29 lastClient=2026-07-12(68d) lastDerek=2026-07-29(51d) 
+...
+[2026-06-30 22:27]ASK| 197405874085999@li: {"is_hidden_sub_group":false,"parent_group_jid":null,"is_parent_group_general_chat":false,"show_membership_string":true,"should_use_identity_header":true,"is_open_group":true,"is_initially_empty":fals
+...
+[2026-06-30 22:27]ASK| 197405874085999@li: Hi, my name is Giovanna. I’ve had a problem with one of my Instagram accounts for about a year, and I’m wondering if it’s still possible to recover it. Some time ago, I was asked to submit an appeal, 
+[2026-06-30 22:27]PAY|ASK|OUTCOME| 197405874085999@li: I was wondering if you’d be able to get my account unbanned. If so, how much would you charge?
+[2026-06-30 22:27]IMG-near-money| 197405874085999@li: 
+   <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363427786644428@g.us/5/c/5c796813-f591-46b0-9089-2dd69140bb3f.jpg>
+[2026-06-30 22:27]IMG-near-money| 197405874085999@li: 
+   <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363427786644428@g.us/1/0/10a43682-117d-4ebc-bcdd-77875973c5c9.jpg>
+[2026-06-30 22:29]$|PAY| 197405874085999@li: The cost is $6k
+...
+[2026-07-10 14:38]PAY| 218537096441931@li: Its possible split the payment over two months
+...
+[2026-07-10 14:40]PAY| 218537096441931@li: My boyfriend runs an OnlyFans agency, and the unbanner we currently work with isn’t able to recover every account. We manage a lot of profiles, so I was wondering if you’d be interested in working som
+...
+[2026-07-11 19:10]$| DEREK: Hi, we were able to do $4000 for permanent unbans appealed
+...
+[2026-07-29 20:23]PAY| DEREK: Hey, just wanted to give a quick update. I’ve parted ways with Kartik for the social media recoveries. He’s still going to be working on them, so if you have a pending case that’s owed or any future c

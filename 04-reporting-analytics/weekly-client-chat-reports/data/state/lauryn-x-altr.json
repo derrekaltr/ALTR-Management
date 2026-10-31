@@ -1,0 +1,265 @@
+{
+  "client": "Lauryn",
+  "slug": "lauryn-x-altr",
+  "as_of": "2026-10-30",
+  "window_covered": "2026-10-16T09:06:40-04:00 (exclusive) -> 2026-10-30T09:05:30-04:00 (TWO-WEEK window, no 10/23 run; 21 messages, 0 service events, 0 test-account messages)",
+  "open_complaints": [
+    {
+      "issue": "Cash strain / billing tone: first DECLARED pause 2026-10-24 ('we will be pausing work today') over the Oct 1-14 invoice, day 9, after one day-8 chase (10-23, 'Hi LA ALTR', 'were at 7 days'). Client pushed back 'There’s no need' and paid within 2h. Pause never explicitly lifted in writing. 10-13 heads-up did NOT prevent lateness. Next invoice Oct 15-31 due ~11-01. NEXT ANALYST: heads-up sent ~10-30? paid in term? another pause? tone.",
+      "status": "recurring",
+      "first_raised": "2026-08-27",
+      "days_open": 64,
+      "owner": "Stephski",
+      "severity": "high"
+    },
+    {
+      "issue": "ALTR cannot state what it has been paid or where it landed. 10-25 'Perfect thank you!' had no amount/full-partial/destination and did not say work resumed. Same gap 10-08 and 09-22. Last dollar figure in chat 2026-08-11 (80 days).",
+      "status": "recurring",
+      "first_raised": "2026-09-09",
+      "days_open": 51,
+      "owner": "Stephski",
+      "severity": "high"
+    },
+    {
+      "issue": "Results/reports delivered behind attachments in tabs she doesn't look at; nothing typed in chat. Results ask 10-15 answered by report in General 10-16 + 'It’s in the general tab' 10-17 (45h); 'Don’t see it' 10-18, forwarded in 3h, never acknowledged. Third can't-see-attachment episode (10-06, 10-08, 10-18). Repost push still has no typed numbers. NEXT ANALYST: does she ever react to a report; are numbers typed in 10-30 edition.",
+      "status": "in_progress",
+      "first_raised": "2026-10-06",
+      "days_open": 24,
+      "owner": "Mayson / Melissa",
+      "severity": "medium"
+    },
+    {
+      "issue": "Facebook page flagged 'not recommended'. Zero messages about it 10-16..10-30. Vivek silent since 2026-09-29 (31 days). Client silent on FB since 2026-09-28 (32 days, past her 22-day September record). No case number, date or plan ever. NEXT ANALYST: any word from anyone; does she re-raise; count days.",
+      "status": "in_progress",
+      "first_raised": "2025-09-27",
+      "days_open": 398,
+      "owner": "Vivek",
+      "severity": "critical",
+      "last_client_mention": "2026-09-28",
+      "last_altr_substantive_update": "2026-09-28 ('I tried to forward a case')"
+    },
+    {
+      "issue": "Vivek only communicates when tagged; 11th consecutive period with zero untagged messages. Silent since 2026-09-29.",
+      "status": "in_progress",
+      "first_raised": "2026-08-12",
+      "days_open": 79,
+      "owner": "Vivek",
+      "severity": "critical"
+    },
+    {
+      "issue": "Weekly call dropped (agreed 09-22, never held). Melissa reopened 10-26 'Let me know what day works for you for a call' (no slots/link/agenda); client unanswered 3.8 days at close, which is new for her (09-22 she answered 'How’s tomorrow ??' within hours). Cadence dead since 2026-06-24 (128 days). NEXT ANALYST: did she reply; was a call held; was it used to answer results/FB in place of writing (churn signal #2).",
+      "status": "in_progress",
+      "first_raised": "2026-09-22",
+      "days_open": 38,
+      "owner": "Mayson / Melissa",
+      "severity": "high"
+    },
+    {
+      "issue": "No named chat team. Vendor 'Lauryn chat team' silent since 2026-06-10 (142 days). Jeremy Tarr / Spencer P still never posted here (introduced in Haileigh + Liza 10-13). Intake form (09-28) not completed, never followed up (32 days). A pause was declared 10-24 on a page whose coverage she cannot name.",
+      "status": "in_progress",
+      "first_raised": "2026-06-10",
+      "days_open": 142,
+      "owner": "Leadership",
+      "severity": "critical"
+    },
+    {
+      "issue": "Plaintext credentials in scrollback: two FB passwords (2026-08-07, 2026-08-09) [REDACTED], FB-linked phone number (2026-08-15), SMS 2FA code (2026-08-16). Unrotated/undeleted 84 days. No new credentials 10-16..10-30 (10-24 payment screenshot is media only). Never quote verbatim.",
+      "status": "in_progress",
+      "first_raised": "2026-08-07",
+      "days_open": 84,
+      "owner": "Leadership",
+      "severity": "high"
+    },
+    {
+      "issue": "Context-free asks: 09-17 custom unpriced/undated (43 days), accepted 09-21, unmentioned 39 days, no boundary check ('No Naked', topless 'Typically No'). 30-reels/month content-Drive ask (08-30) untouched 61 days.",
+      "status": "in_progress",
+      "first_raised": "2026-08-30",
+      "days_open": 61,
+      "owner": "Mayson",
+      "severity": "medium"
+    },
+    {
+      "issue": "OWNER-LEVEL, private only; never in the Team tab or as a dashboard 'employee'. Derrek dark on this account since 2026-08-13 (78 days, tenth consecutive period). Visual 2FA steps promised 08-13 never sent. Chat-team, credential and pause-policy items (owner 'Leadership') are effectively his.",
+      "status": "recurring",
+      "first_raised": "2026-08-15",
+      "days_open": 76,
+      "owner": "Derrek",
+      "severity": "high",
+      "private": true
+    },
+    {
+      "issue": "Credential asks by staff, dormant. No written policy; her management ruled out password sharing 2026-08-15. Risk returns if Meta appeal needs logins again.",
+      "status": "in_progress",
+      "first_raised": "2026-08-08",
+      "days_open": 83,
+      "owner": "Vivek",
+      "severity": "medium"
+    }
+  ],
+  "resolved_last_window": [
+    {
+      "issue": "Results question ('What are the results ??', 10-15) answered: earnings & performance report in General 10-16 (24h), 'It’s in the general tab' in her thread 10-17 (45h), file forwarded 10-18 after 'Don’t see it'. Attachment only, no typed numbers, no client acknowledgement. Findability pattern now tracked as open complaint.",
+      "resolved_on": "2026-10-18",
+      "partial": true
+    },
+    {
+      "issue": "Oct 1-14 invoice paid 10-24 (day 9, late) after chase + declared pause. Unreconciled.",
+      "resolved_on": "2026-10-24",
+      "partial": true
+    },
+    {
+      "issue": "Weekly DMCA update ~10-16 delivered, folded into the new consolidated report.",
+      "resolved_on": "2026-10-16",
+      "partial": false
+    }
+  ],
+  "open_commitments": [
+    {"what": "Weekly earnings & performance report (incl. DMCA) in General 'every Friday'. Promised 10-16; MISSED 10-23; 10-30 edition due today after window close.", "who": "Mayson / Melissa", "date": "2026-10-16", "due": "2026-10-23", "days_outstanding": 7, "status": "overdue"},
+    {"what": "Confirm in writing: work resumed after 10-24 pause; amount received 10-24; Oct 1-14 settled in full; destination account (also 10-08, 09-22).", "who": "Stephski", "date": "2026-09-09", "due": "2026-10-25", "days_outstanding": 51, "status": "overdue"},
+    {"what": "Oct 15-31 heads-up (~10-30) and invoice (~11-01) with total + due date in message text.", "who": "Stephski", "date": "2026-10-30", "due": "2026-11-01", "days_outstanding": 0, "status": "pending"},
+    {"what": "Book the call: Melissa asked 'what day works' 10-26, no slots/link/agenda; client unanswered.", "who": "Mayson / Melissa", "date": "2026-09-22", "due": "2026-09-23", "days_outstanding": 38, "status": "overdue"},
+    {"what": "Get FB page out of 'not recommended'; case forwarded to Meta, no reply, no timeline, no case number; 31 days of silence.", "who": "Vivek", "date": "2026-08-07", "due": "no date ever given", "days_outstanding": 84, "status": "overdue"},
+    {"what": "Proactive FB updates without being tagged.", "who": "Vivek", "date": "2026-08-18", "due": "2026-08-18", "days_outstanding": 73, "status": "overdue"},
+    {"what": "Client to complete private-platform intake form (sent 09-28); never followed up.", "who": "Lauryn (client)", "date": "2026-09-28", "due": "no date given", "days_outstanding": 32, "status": "pending"},
+    {"what": "Put a working chat team on the page or tell her who covers it; introduce Jeremy Tarr / Spencer P if applicable.", "who": "Leadership", "date": "2026-06-10", "due": "2026-06-10", "days_outstanding": 142, "status": "overdue"},
+    {"what": "OWNER-LEVEL (private): send visual 2FA steps, retry FB login with her.", "who": "Derrek", "date": "2026-08-13", "due": "2026-08-13", "days_outstanding": 78, "status": "overdue", "private": true},
+    {"what": "Rotate exposed FB passwords, delete credential/2FA messages, issue written no-credentials rule.", "who": "Leadership", "date": "2026-08-07", "due": "2026-08-07", "days_outstanding": 84, "status": "overdue"},
+    {"what": "Complete custom brief (fan, price, length, deadline, boundary check).", "who": "Mayson", "date": "2026-09-17", "due": "2026-09-18", "days_outstanding": 43, "status": "overdue"},
+    {"what": "Client to shoot the custom accepted 2026-09-21; not chaseable until priced/dated.", "who": "Lauryn (client)", "date": "2026-09-21", "due": "no date given", "days_outstanding": 39, "status": "pending"},
+    {"what": "Re-brief or withdraw content-Drive / 30-reels-a-month ask.", "who": "Mayson", "date": "2026-08-30", "due": "no date given", "days_outstanding": 61, "status": "overdue"}
+  ],
+  "broken_commitments": [
+    {"what": "'Every Friday' earnings & performance report missed on its first repeat, 2026-10-23 (promised 10-16 by Mayson). Only ALTR message that day was a payment chase.", "who": "Mayson / Melissa", "promised": "2026-10-16", "broken_on": "2026-10-23"},
+    {"what": "Pre-invoice heads-up (10-13) was supposed to produce in-term payment; Oct 1-14 still went to day 9 and a declared pause. Hypothesis from 10-16 analysis did not hold.", "who": "Stephski", "promised": "2026-10-13", "broken_on": "2026-10-23"},
+    {"what": "'please let me know when payment has been sent so we can resume asap' (10-24): resumption never confirmed in writing; 'Perfect thank you!' 27h later.", "who": "Stephski", "promised": "2026-10-24", "broken_on": "2026-10-25"}
+  ],
+  "completed_recently": [
+    {"what": "First consolidated earnings & performance report with DMCA folded in, posted in General.", "who": "Melissa", "date": "2026-10-16", "status": "done"},
+    {"what": "Explained new report format in DMCA thread; standing offer to handle self-found leaks.", "who": "Mayson", "date": "2026-10-16", "status": "done"},
+    {"what": "Answered results ask: 'It’s in the general tab' (45h), then forwarded the file into her thread 3h after 'Don’t see it'.", "who": "Mayson", "date": "2026-10-18", "status": "done", "verified": false},
+    {"what": "Warned client about system test messages before any appeared (none hit this chat).", "who": "Mayson", "date": "2026-10-21", "status": "done"},
+    {"what": "Invoice nudge 10-17 answered 'Yup' in 16 min; day-8 chase 10-23; pause declared 10-24; thanks 10-25.", "who": "Stephski", "date": "2026-10-25", "status": "done"},
+    {"what": "Reopened call scheduling ('what day works for you for a call').", "who": "Melissa", "date": "2026-10-26", "status": "done", "verified": false}
+  ],
+  "payment_history": [
+    {"date": "2025-09-03", "note": "First invoice paid same day via fanbasis after Zelle failed", "late": false},
+    {"date": "2025-10-03", "note": "Oct 1 invoice paid day 3", "late": false},
+    {"date": "2025-10-16", "note": "Oct 15 invoice paid next day", "late": false},
+    {"date": "2025-11-04", "note": "Nov 1 invoice paid Nov 4", "late": false},
+    {"date": "2025-11-21", "note": "Nov 15 invoice paid after first pause threat (worked within 24h)", "late": true},
+    {"date": "2025-12-05", "note": "Dec 1 invoice paid Dec 5 - last in-term payment until 2026-09-22", "late": false},
+    {"date": "2026-01-06", "note": "Dec 15-31 invoice paid after check-in", "late": true},
+    {"date": "2026-01-20", "note": "Jan 1-14 invoice paid after chase", "late": true},
+    {"date": "2026-02-11", "note": "Jan 15-31 invoice split $1250 x2 at client request", "late": true},
+    {"date": "2026-03-10", "note": "Feb invoices paid in increments ($2,847 Feb 15-28)", "late": true},
+    {"date": "2026-04-05", "note": "Mar 15-31 paid Apr 5; Apr 1-15 paid Apr 21 after chase", "late": true},
+    {"date": "2026-05-21", "note": "May 1-14 split into two links; second paid ~May 27 after chase", "late": true},
+    {"date": "2026-07-08", "note": "June 15-30 paid in halves after chase; rail disruptions (Mercury bounce, BofA)", "late": true},
+    {"date": "2026-08-08", "note": "Jul 15-31 + carryover unpaid at Aug 8 deadline, blocked by broken Zelle", "late": true},
+    {"date": "2026-08-14", "note": "Aug 1 invoice paid in tranches via Derrek's personal Zelle; $1,852.15 rolled forward - last dollar figure in chat (2026-08-11)", "late": true, "outstanding": 1852.15},
+    {"date": "2026-08-28", "note": "Aug 15 invoice went late; client blamed account 'at a stand still'", "late": true},
+    {"date": "2026-09-08", "note": "Sep 1 invoice term lapsed; second pause threat unenforced", "late": true, "enforced": false},
+    {"date": "2026-09-17", "note": "Four tranches 09-09/09-11/09-12/09-17 - client declared 'Closed out'; unverified by ALTR; told to pay business account not Derrek's personal", "late": true, "amount_known": false, "verified": false},
+    {"date": "2026-09-22", "note": "Sep 15 invoice (Sep 1-14) paid on due date after soft day-6 nudge; acknowledged 'thank you love!!' with no amount or destination confirmation", "late": false, "amount_known": false, "destination_confirmed": false},
+    {"date": "2026-10-08", "note": "Sep 15-30 invoice (sent 10-01, due 10-08). Chased 10-06/10-07/10-08 with early deadline + pause threat. 'Full monies are still pending' / 'what’s available until further notice'. Screenshot + 'It’s done' 10-08 (day 7). Never specifically acknowledged; next period invoiced without residual, so treated as settled by implication. Pause threat lapsed unenforced.", "late": false, "amount_known": false, "verified": false, "destination_confirmed": false, "possibly_partial": true},
+    {"date": "2026-10-24", "note": "Oct 1-14 invoice (sent 10-15 after 10-13 heads-up). Nudge 10-17 ('Yup' 16 min). Silence 6 days. Day-8 chase 10-23 ('Hi LA ALTR', 'were at 7 days'). Day-9 PAUSE DECLARED 10-24 15:37. Client 17:21 'There’s no need' / 'Payment will be sent here in a few mins' / 'So let’s keep everyone on track in account!'; screenshot 17:23; 'Let’s keep ball rolling!!'. Time-to-pay 9d 4h, LATE. Stephski 'Perfect thank you!' 10-25 20:23 (27h): no amount, no full/partial, no destination, no 'work resumed'. In-term streak (2) broken. Heads-up did not prevent lateness.", "late": true, "paid": true, "amount_known": false, "verified": false, "destination_confirmed": false, "pause_declared": true, "pause_lifted_in_writing": false}
+  ],
+  "payment_risk": {
+    "level": "medium-high",
+    "outstanding": "Nothing known at window close. Oct 15-31 invoice due ~11-01 (heads-up expected ~10-30).",
+    "next_due_date": "2026-11-01",
+    "consecutive_on_time_payments": 0,
+    "days_since_last_dollar_figure_in_chat": 80,
+    "summary": "Streak broken: Oct 1-14 paid day 9 only after a chase and the first declared pause; she pushed back ('There’s no need'). Cash strain flagged 10-07 still stands. Instant payment under pressure is not a health signal on this book. WATCH: Oct 15-31 heads-up ~10-30 and payment by ~11-08; whether another pause is declared; whether Stephski ever states an amount; whether she pays and then goes quiet (settling-up pattern)."
+  },
+  "client_priorities": [
+    "Work continuing without interruption ('There’s no need' / 'So let’s keep everyone on track in account!' / 'Let’s keep ball rolling!!', 2026-10-24)",
+    "Seeing results where she can find them ('What are the results ??' 10-15; 'Send me the tab' / 'Don’t see it' 10-18, addressed to Mayson by name)",
+    "Facebook page restored with a real timeline ('So we have no time line', 2026-09-28); 398 days open; silent on it 32 days",
+    "Paying as OF money clears ('what’s available until further notice', 2026-10-07); invoices timed to OF withdrawals",
+    "Proactive updates without chasing ('Keep me updated pls', 2026-08-18)",
+    "Key details typed into the chat, not behind attachments in other tabs; content limits respected ('No Naked', topless 'Typically No', no explicit/sex)",
+    "Safe working link in bio ('So this link won’t have any problems ?', 2026-10-11)",
+    "One stable payment destination",
+    "Account security/confidentiality (management ruled out sharing passwords 2026-08-15)",
+    "Weekly DMCA leak-takedown visibility (now inside the Friday report)",
+    "Clear visual step-by-step instructions for technical tasks ('Visually that’s better', 2026-08-13)"
+  ],
+  "client_asks": [
+    {"week_ending": "2026-09-04", "client_asks": 4, "approx": true, "note": "FB status chases; content Drive questions"},
+    {"week_ending": "2026-09-11", "client_asks": 0, "approx": true, "note": "payment statements only"},
+    {"week_ending": "2026-09-18", "client_asks": 0, "approx": true},
+    {"week_ending": "2026-09-25", "client_asks": 1, "approx": true, "note": "'Still cannot see what it entails' (custom brief)"},
+    {"week_ending": "2026-10-09", "client_asks": 2, "two_week_window": true, "note": "FB timeline/pace (09-28); repost account list (10-06, chased 10-08)"},
+    {"week_ending": "2026-10-16", "client_asks": 2, "note": "Link-in-bio safety (10-11, answered); repost results (10-15, answered 10-17 by attachment)"},
+    {"week_ending": "2026-10-30", "client_asks": 1, "two_week_window": true, "note": "'Send me the tab' / 'Don’t see it' (10-18, forwarded in 3h, unacknowledged). 0.5/week, down from 2/week. 6 of her 10 messages were the 10-24 payment burst. No FB ask (32 days). Did not answer 10-26 call offer. Zero asks next window + prompt payment = churn alarm."}
+  ],
+  "health_history": [
+    {"week_ending": "2026-08-08", "score": 58},
+    {"week_ending": "2026-08-14", "score": 52},
+    {"week_ending": "2026-08-21", "score": 55},
+    {"week_ending": "2026-08-28", "score": 40},
+    {"week_ending": "2026-09-04", "score": 32},
+    {"week_ending": "2026-09-11", "score": 30},
+    {"week_ending": "2026-09-18", "score": 38},
+    {"week_ending": "2026-09-25", "score": 32},
+    {"week_ending": "2026-10-02", "score": 33, "published": false},
+    {"week_ending": "2026-10-09", "score": 30},
+    {"week_ending": "2026-10-16", "score": 34},
+    {"week_ending": "2026-10-30", "score": 30, "two_week_window": true}
+  ],
+  "week_stats_history": [
+    {"week_ending": "2026-08-08", "messages": 28, "client_messages": 17, "team_messages": 11},
+    {"week_ending": "2026-08-14", "messages": 128, "client_messages": 74, "team_messages": 54},
+    {"week_ending": "2026-08-21", "messages": 163, "client_messages": 98, "team_messages": 65},
+    {"week_ending": "2026-08-28", "messages": 12, "client_messages": 7, "team_messages": 5},
+    {"week_ending": "2026-09-04", "messages": 32, "client_messages": 17, "team_messages": 15},
+    {"week_ending": "2026-09-11", "messages": 51, "client_messages": 31, "team_messages": 19, "note": "two-week window"},
+    {"week_ending": "2026-09-18", "messages": 27, "client_messages": 12, "team_messages": 15},
+    {"week_ending": "2026-09-25", "messages": 20, "client_messages": 13, "team_messages": 7},
+    {"week_ending": "2026-10-09", "messages": 28, "client_messages": 11, "team_messages": 17, "service_events": 2, "client_asks": 2, "note": "TWO-WEEK window absorbing unpublished 10/02 run."},
+    {"week_ending": "2026-10-16", "messages": 13, "client_messages": 6, "team_messages": 7, "service_events": 0, "client_asks": 2, "note": "Stephski 3 (all billing), Melissa Userfacing 2, Mayson Chat 2. Billing 3/7."},
+    {"week_ending": "2026-10-30", "messages": 21, "client_messages": 10, "team_messages": 11, "service_events": 0, "client_asks": 1, "test_messages_excluded": 0, "note": "TWO-WEEK window (no 10/23 run). Mayson Chat 4, Stephski 4 (all billing), Melissa Userfacing 3. Billing 4/11. Client: 6 of 10 were the 10-24 payment burst."}
+  ],
+  "engagement_trend": [
+    {"week_ending": "2026-10-09", "client_messages_per_week": 5.5, "client_asks_per_week": 1.0, "note": "two-week window"},
+    {"week_ending": "2026-10-16", "client_messages_per_week": 6, "client_asks_per_week": 2.0, "note": "warm ('Great!!!'), engaged"},
+    {"week_ending": "2026-10-30", "client_messages_per_week": 5, "client_asks_per_week": 0.5, "note": "Reactive only: payment burst + 'send me the tab'. Did not acknowledge the report; did not answer the call offer (3.8d); silent 5.7d at close. No FB mention 32d."}
+  ],
+  "churn_watch": {
+    "level": "elevated",
+    "signals": [
+      "Owner silent 30+ days: PRESENT (Derrek, 78 days, last 2026-08-13).",
+      "Results question answered with a call offer: PARTIAL. 'What are the results ??' (10-15) answered by attachment ('It’s in the general tab' 10-17, forwarded 10-18), no numbers in writing, client never acknowledged; then a context-free call offer from Melissa 10-26. If the call (when held) substitutes for written numbers, flag PRESENT.",
+      "Long-promised deliverable with no written proof: PRESENT (FB fix 398 days, no case number, 31 days of total silence; repost push numbers never typed).",
+      "Most ALTR messages billing: NOT PRESENT (4/11), but Stephski is joint-top ALTR poster and the only non-process deliverable was the 10-16 report.",
+      "Stopped asking: TRENDING. 1 ask in two weeks (0.5/wk) from 2/wk. Zero FB asks 32 days (record). Did not answer the 10-26 call offer; silent since 10-24 17:24.",
+      "Payment behaviour: late then instant under pause pressure, with pushback ('There’s no need'). Not read as health. Zero asks + prompt payment next window = settling-up alarm.",
+      "No requests for exports / logins back / data; no mention of other agencies or going solo in window."
+    ],
+    "next_window_alarm_conditions": [
+      "Zero client asks AND Oct 15-31 paid promptly.",
+      "Call offer still unanswered or declined.",
+      "Any ask for IG/FB logins, link-in-bio domain transfer, content Drive export, or 'what do I owe to close out'.",
+      "10-30 report missed again."
+    ]
+  },
+  "altr_silence_tracker": {
+    "as_of": "2026-10-30T09:05:30-04:00",
+    "Derrek": {"last_message": "2026-08-13", "days_silent": 78, "note": "owner-level, private"},
+    "Vivek": {"last_message": "2026-09-29", "days_silent": 31, "note": "only speaks when tagged; FB owner"},
+    "Mayson": {"last_message": "2026-10-21", "days_silent": 9, "note": "last substantive to client 2026-10-18 (forwarded report)"},
+    "Melissa": {"last_message": "2026-10-26", "days_silent": 4, "note": "call offer unanswered by client"},
+    "Stephski": {"last_message": "2026-10-25", "days_silent": 5, "note": "billing only"},
+    "Michelle": {"last_message": "2026-09-10", "days_silent": 50},
+    "Mica Vecco": {"last_message": "2026-09-17", "days_silent": 43},
+    "Jeremy Tarr / Spencer P": {"last_message": null, "days_silent": null, "note": "never posted in this chat"},
+    "Lauryn chat team (vendor)": {"last_message": "2026-06-10", "days_silent": 142},
+    "Client overall": {"last_message": "2026-10-24T17:24:16-04:00", "days_silent": 5.7},
+    "Client on Facebook": {"last_message": "2026-09-28", "days_silent": 32, "note": "past 22-day September record"},
+    "Weekly report": {"last_delivered": "2026-10-16", "missed": ["2026-10-23"], "next_due": "2026-10-30"},
+    "Weekly call": {"last_held": "before 2026-06-24", "days_dead": 128, "note": "Melissa offer 10-26 unanswered 3.8d"},
+    "Last dollar figure in chat": {"date": "2026-08-11", "days": 80}
+  },
+  "notes": "Window ending 2026-10-30 (TWO WEEKS): health 30, down from 34. The 10-15 results question was answered by attachment (report in General 10-16; 'It’s in the general tab' 10-17, 45h; forwarded 10-18 after 'Don’t see it'), never typed, never acknowledged. New consolidated Friday report promised 10-16, missed 10-23. Oct 1-14 invoice went to day 9: day-8 chase, day-9 DECLARED pause (first ever actually declared), client 'There’s no need', paid in 2h, 'Perfect thank you!' 27h later with no amount and no 'resumed'. FB: total silence both sides (Vivek 31d, client 32d, record). Melissa offered a call 10-26, unanswered 3.8d. Client silent 5.7d at close; asks 1 in two weeks. PREDICTIONS TO CHECK NEXT WEEK: (1) 10-30 Friday report sent? in General only, or also in her thread, with numbers typed? (2) Does she acknowledge any report at all? (3) Call: does she reply to Melissa; is it held; is it used instead of written answers (signal #2)? (4) Oct 15-31 heads-up ~10-30, invoice ~11-01, paid by ~11-08? another pause? tone. (5) Does Stephski ever state an amount or 'work resumed'? (6) FB: any message from anyone; does she re-raise (day count from 09-28). (7) Jeremy Tarr / Spencer P introduced here? intake form (32d) chased? (8) Client asks count: zero + prompt payment = alarm. (9) Any ask for logins/domain/exports. Attribution: all senders resolved via team.yaml (Melissa Userfacing = Melissa, Mayson Chat = Mayson); no Antonio Veritrade rows in this chat (Mayson's 10-21 heads-up only); no Jeremy Tarr, Spencer P, Aroosha, Stardust Nexus or Theta SDX here. Topic anchors: reply_to 3 = DMCA Takedowns, 4 = Invoicing, 327 = Promo, none = General. Message id 1984 absent from export (deleted, 10-08). Owner-level items flagged private:true; keep them out of dashboard employee/Team sections. Plaintext credentials from Aug remain in scrollback; always redact. State keys renamed this run to match the 2026-10-30 brief: resolved_last_week -> resolved_last_window, asks_trend -> client_asks, churn_signals -> churn_watch, silence_clocks_* -> altr_silence_tracker; added broken_commitments and engagement_trend. No src/ script read the old keys."
+}

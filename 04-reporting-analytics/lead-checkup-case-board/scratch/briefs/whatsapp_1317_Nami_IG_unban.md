@@ -1,0 +1,42 @@
+# Nami IG unban  [whatsapp #1317 GROUP]
+msgs=34 (in=31 out=3) window=2026-06-11..2026-07-06
+last_client=2026-07-06 (74d ago), last_derrek=2026-06-15 (95d ago)
+LAST MESSAGE FROM CLIENT — UNANSWERED: 'Hey, I’m all good. I don’t need help with my IG'
+
+  ...
+[2026-06-11 05:19] 3702328922295@lid: {"reason":0,"is_initially_empty":false,"subject":"Nami IG unban","is_hidden_sub_group":false,"parent_group_jid":null,"show_membership_string":true,"is_parent_group_general_chat":false,"context_group":null,"should_use_identity_header":true,"auto_add_disabled":t…
+[2026-06-11 05:19] 120363426168092905@g.us: 3702328922295@lid
+[2026-06-11 05:19] 3702328922295@lid: Hey @197405874085999 My friend Nami is also having IG issues😢
+[2026-06-11 05:27] 171102923919444@lid: Hey! Good to connect, I wanted to know if you could help me get my IG back?
+[2026-06-11 05:27] 197405874085999@lid: Hey Tess
+[2026-06-11 05:30] 171102923919444@lid: I made the silly mistake and appealed, submitted ID and did the video verification since I have gotten it back in the past on my own
+[2026-06-11 05:31] 171102923919444@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363426168092905@g.us/4/5/45b7567a-2b94-4819-846a-cc555daa42de.jpg>
+[2026-06-11 05:31] 171102923919444@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363426168092905@g.us/4/e/4ee1c549-537e-41a5-b918-67a39dfac93a.jpg>
+[2026-06-11 05:36] 197405874085999@lid: Hey
+[2026-06-11 05:36] 197405874085999@lid: Oh no
+[2026-06-11 05:36] 171102923919444@lid: Oh fuck
+[2026-06-11 05:36] 197405874085999@lid: How many followers
+[2026-06-11 05:36] 171102923919444@lid: this doesn’t sound good 😅
+[2026-06-11 05:36] 197405874085999@lid: Price doubles
+[2026-06-11 05:36] 171102923919444@lid: 138K followers
+[2026-06-11 05:36] 197405874085999@lid: For disabled
+[2026-06-11 05:36] 197405874085999@lid: Lol
+[2026-06-11 05:36] 197405874085999@lid: See
+[2026-06-11 05:36] 171102923919444@lid: Yeah so I’ve heard, I shouldn’t have appealed. But I didn’t know
+[2026-06-11 05:36] 197405874085999@lid: Next time don’t appeal please
+[2026-06-11 05:37] 171102923919444@lid: I understand. Do you think you’d be able to help me?
+[2026-06-11 05:37] 197405874085999@lid: Now it’s 4.5k down the drain
+[2026-06-11 05:37] 197405874085999@lid: Ofcourse
+[2026-06-11 05:39] 171102923919444@lid: And you have been able to successfully recover accounts recently? Coz IG is so strict at the moment 😭😭😭
+[2026-06-11 05:39] 197405874085999@lid: I haven’t had one case
+[2026-06-11 05:39] 197405874085999@lid: That didn’t come back
+[2026-06-11 18:29] DEREK: let us know
+[2026-06-12 14:14] DEREK: Hey I see they still havent been recovered. We have another option available for a more cost effective price, but the timeframe is 7-10 days. Price is around 3.5k
+[2026-06-13 02:08] 171102923919444@lid: Ok I see, how is this different from the 4.5k option
+[2026-06-15 23:37] DEREK: Time frame is longer. Uses a different method and rep
+[2026-06-15 23:39] 197405874085999@lid: Hey
+[2026-06-15 23:55] 171102923919444@lid: Hey man, thank you for your help but I’m all good for now
+[2026-07-03 18:46] 197405874085999@lid: Yo
+[2026-07-06 04:55] 171102923919444@lid: Hey, I’m all good. I don’t need help with my IG

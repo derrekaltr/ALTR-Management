@@ -1,0 +1,316 @@
+{
+  "client": "Alanna",
+  "slug": "alanna-x-altr",
+  "week_ending": "2026-10-02",
+  "summary": "The quietest week in the account's history and the first in which Alanna sent nothing at all: 4 in-window messages, 0 from the client, all 4 from ALTR and none of them a reply to anything she had raised. Her last message is still the 9/24 escalation — 'Guys for the millionth time I HAVE MY OWN DRIVE AND DROPBOX', 'I’m not uploading to yours!!', then '@ofwizz' — and in the eight days since, nobody on the account team has followed up: no proof that anything was pulled from her Drive/Dropbox, no reply on the payment rail she reported broken on 9/22, nothing from Ollie (18 days silent), Michelle (21 days), Mica, Mayson or Derrek. The only traffic was two agency-wide broadcasts from Melissa (the 9/25 weekly leak-removal update — only the second DMCA report in 51 days — and the 9/28 intake-form link for ALTR's new private platform; she answered neither) and Stephski issuing invoice #4 (Sept 15-30) on 10/1. Money got worse: #4 was issued on top of #2 (24 days past due, not named by anyone in 27 days) and #3 (10 days past due), so three invoices are now open against one payment ever collected — and the 10/1 message points her back to 'all banking info and zelle info is at the bottom' and restates the 'pausing in work' line without acknowledging that both payment methods failed for her on 9/22-9/23. No payment evidence appears in chat. CHURN WATCH — ACTIVE. Signal (a) is present in its strongest form: a client who sent 2-15 messages every prior week went from a capitalised escalation to total silence, ignoring two direct asks (intake form, invoice). Signal (d) has a soft precursor — three statements of running things herself ('I’m already running a lot myself', 'I have 3 but just run them myself', 'I HAVE MY OWN DRIVE AND DROPBOX'). No fast payment, no data/login/export asks, no mention of another agency. Last week's pattern — quiet, one complaint, then either visible repair or departure — has reached the fork with no repair delivered.",
+  "health": {
+    "score": 38,
+    "trend": "down",
+    "rationale": "Down 7 from 45; eighth decline in nine cycles. Nothing negative was said this week — the score falls on what did not happen. (1) CHURN SIGNAL (a), STRONGEST FORM: zero client messages for the first time ever (prior low: 2 in w/e 8/28), straight after her first-ever complaint and owner escalation. She ignored a direct intake-form ask (9/28) and an invoice (10/1). Silence after an escalation is the classic exit shape. (2) NO REPAIR: the 9/24 fix was a promise ('yeah we can pull from your drives'); eight days later there is no evidence anything was pulled or scheduled, and no account-team member has spoken to her. (3) MONEY: invoice #4 issued over two past-due invoices, the payment rail she reported broken 10 days ago never diagnosed, and the work-pause line restated — what last week's file said not to do. (4) STAFFING: Ollie 18 days silent, Michelle 21 days, release calendar empty 34 days. Offsets keeping it off the floor: the second DMCA report landed (9/25), she has not disputed an invoice or named another agency, and no data/login/export ask has appeared. Not yet a confirmed exit, but a second silent week should be treated as one."
+  },
+  "reminders": [
+    {
+      "employee": "Stephski",
+      "topic": "Invoicing — invoice #4 (Sept 15-30) issued 10/1 on top of two past-due invoices; no chase of #2 or #3 in window and no follow-up on the broken payment rail",
+      "count": 1,
+      "first_date": "2026-10-01",
+      "last_date": "2026-10-01",
+      "detail": "Only billing message of the window is a new invoice. It does not mention #2 (due 9/8, last named 9/5) or #3 (due 9/22), does not reference her 9/22 failed payment attempt, and points her back to the same banking/Zelle info that failed for her.",
+      "evidence": [
+        {"quote": "Good afternoon queen! Here is your invoice for September 15-30th ❤️ Let me know if you need anything, all banking info and zelle info is at the bottom. As always, we appreciate you paying within the next 7 days to avoid any pausing in work! 🙏 Let me know if you have any questions!", "who": "Stephski", "date": "2026-10-01"},
+        {"quote": "Hey can you Zelle request me on [REDACTED-NUMBER] it’s not working for me", "who": "Alanna<3", "date": "2026-09-22"},
+        {"quote": "@alannaapow can you please do it as a wire instead of zelle it wont work for some reason", "who": "Stephski", "date": "2026-09-23"}
+      ]
+    },
+    {
+      "employee": "Melissa",
+      "topic": "Intake form for ALTR's new private platform (agency-wide broadcast, 9/28) — no client response; overlaps the 8/3 chatter FAQ form she never completed",
+      "count": 1,
+      "first_date": "2026-09-28",
+      "last_date": "2026-09-28",
+      "detail": "Agency-wide broadcast. Client response: none. This is the second 'tell us about yourself' form on this account — Ollie's 8/3 FAQ form was accepted ('Of course will do') but never returned and was last chased 8/5.",
+      "evidence": [
+        {"quote": "can you please fill out this intake so we (and whoever’s on your chats) really understand you and rep you properly?", "who": "Melissa Userfacing", "date": "2026-09-28"},
+        {"quote": "Hey Alanna, could you fill out this FAQ form for us please", "who": "Ollie Mckinlay", "date": "2026-08-03"},
+        {"quote": "Of course will do", "who": "Alanna<3", "date": "2026-08-03"}
+      ]
+    },
+    {
+      "employee": "Melissa",
+      "topic": "Weekly leak-removal update (agency-wide broadcast, 9/25) — second DMCA report in 51 days; no client response",
+      "count": 1,
+      "first_date": "2026-09-25",
+      "last_date": "2026-09-25",
+      "detail": "Melissa took over the weekly leak update from Michelle Queue. Only the second report since Derrek's 8/12 promise (prior: 9/8).",
+      "evidence": [
+        {"quote": "Hey love! Here’s your weekly update on the leak removal breakdown for the past 7 days 🫶🏼", "who": "Melissa Userfacing", "date": "2026-09-25"},
+        {"quote": "You will get weekly reports", "who": "Derrek", "date": "2026-08-12"}
+      ]
+    }
+  ],
+  "complaints": [
+    {
+      "issue": "CLIENT HAS GONE SILENT — zero messages in the window, eight days since her capitalised escalation to @ofwizz, and nobody on the account team has spoken to her since",
+      "status": "new",
+      "owner": "Derrek",
+      "first_raised": "2026-09-24",
+      "days_open": 8,
+      "detail": "First zero-message week in the account's history. Her last words were the 9/24 complaint. Since then: two broadcasts and an invoice, none responsive to anything she raised. Churn signal (a) in its clearest form. Owner-level: someone senior should open a direct, non-billing conversation this week.",
+      "evidence": [
+        {"quote": "Guys for the millionth time I HAVE MY OWN DRIVE AND DROPBOX", "who": "Alanna<3", "date": "2026-09-24"},
+        {"quote": "I’m not uploading to yours!! Why would I, I have 5000 + videos in my own that I have already organised", "who": "Alanna<3", "date": "2026-09-24"},
+        {"quote": "@ofwizz", "who": "Alanna<3", "date": "2026-09-24"}
+      ]
+    },
+    {
+      "issue": "9/24 Drive/Dropbox escalation — substance agreed, but no proof of ingestion eight days later; trust repair not started",
+      "status": "in_progress",
+      "owner": "Mica Vecco",
+      "first_raised": "2026-09-24",
+      "days_open": 8,
+      "detail": "Derrek and Mica agreed on 9/24 to pull from her own storage. No message since shows anything pulled, scheduled or posted. Positive: nobody re-asked her to upload to ALTR's Drive.",
+      "evidence": [
+        {"quote": "yes we can easily do this", "who": "Derrek", "date": "2026-09-24"},
+        {"quote": "yeah we can pull from your drives", "who": "Mica Vecco", "date": "2026-09-24"}
+      ]
+    },
+    {
+      "issue": "Payment rail broken both ways and undiagnosed at 10 days — the new invoice points her back to the same methods",
+      "status": "recurring",
+      "owner": "Stephski",
+      "first_raised": "2026-09-22",
+      "days_open": 10,
+      "detail": "She asked to pay on 9/22 and reported the existing method 'not working for me'; ALTR said Zelle 'wont work for some reason' and redirected her to a wire. No diagnosis since. The 9/15 payee name change remains the untested suspect. Invoice #4 restates the same payment info and the 'pausing in work' line without addressing it.",
+      "evidence": [
+        {"quote": "Hey can you Zelle request me on [REDACTED-NUMBER] it’s not working for me", "who": "Alanna<3", "date": "2026-09-22"},
+        {"quote": "@alannaapow can you please do it as a wire instead of zelle it wont work for some reason", "who": "Stephski", "date": "2026-09-23"},
+        {"quote": "Please note a slight name change to the account, but the same account and wire info. This should help alleviate any bounce backs or issues moving forward.", "who": "Stephski", "date": "2026-09-15"}
+      ]
+    },
+    {
+      "issue": "Three invoices now open — #4 issued 10/1 on top of #2 (24 days past due) and #3 (10 days past due); one payment collected in the account's life",
+      "status": "recurring",
+      "owner": "Stephski",
+      "first_raised": "2026-09-08",
+      "days_open": 24,
+      "detail": "#2 (Aug 15-31) issued 9/1, due 9/8, not named since 9/5. #3 (Sept 1-14) due 9/22, last chased 9/21. #4 (Sept 15-30) due ~10/8. No amounts ever stated in chat; no payment evidence in chat since 8/30.",
+      "evidence": [
+        {"quote": "I ask that you please pay within 7 days to avoid any pausing of work 🙏", "who": "Stephski", "date": "2026-09-01"},
+        {"quote": "Hi love! just wanted to check in on payment! Are you able to send by tomorrow? Tomorrow is day 7 since recieving invoice so just wanted to bump ❤️ @alannaapow", "who": "Stephski", "date": "2026-09-21"},
+        {"quote": "Good afternoon queen! Here is your invoice for September 15-30th ❤️", "who": "Stephski", "date": "2026-10-01"}
+      ]
+    },
+    {
+      "issue": "Page/chatting manager absent — Ollie Mckinlay 18 days silent; last message was 'Thank you Alanna' (9/14)",
+      "status": "recurring",
+      "owner": "Ollie Mckinlay",
+      "first_raised": "2026-08-28",
+      "days_open": 35,
+      "detail": "Fifth consecutive cycle. Zero messages in window. Every Ollie-owned commitment unmoved.",
+      "evidence": [
+        {"quote": "Thank you Alanna", "who": "Ollie Mckinlay", "date": "2026-09-14"}
+      ]
+    },
+    {
+      "issue": "Bulk content handovers never acknowledged — 5000+ photos (9/10) at 22 days, 9/24 library links at 8 days",
+      "status": "recurring",
+      "owner": "Ollie Mckinlay",
+      "first_raised": "2026-09-10",
+      "days_open": 22,
+      "detail": "Five handovers since 8/3; the only response ever is 'Thank you Alanna'.",
+      "evidence": [
+        {"quote": "Heyyy I uploaded 5000+ new photos to post on my wall and x", "who": "Alanna<3", "date": "2026-09-10"}
+      ]
+    },
+    {
+      "issue": "Pinned scene drops Aug 17/24/29 never closed out; release calendar empty 34 days",
+      "status": "recurring",
+      "owner": "Ollie Mckinlay",
+      "first_raised": "2026-08-17",
+      "days_open": 46,
+      "detail": "Her stated top priority. No new dates requested since the pinned list ran out on Aug 29.",
+      "evidence": [
+        {"quote": "Some scenes that need to be scheduled", "who": "Alanna<3", "date": "2026-08-03"},
+        {"quote": "Yes 7pm for all releases", "who": "Alanna<3", "date": "2026-08-12"}
+      ]
+    },
+    {
+      "issue": "Promo dark — Michelle 21 days silent; new Instagram account promised 9/1, 'ready in a few days' on 9/10, no update",
+      "status": "recurring",
+      "owner": "Michelle",
+      "first_raised": "2026-09-01",
+      "days_open": 31,
+      "detail": "Its blocker (Drive-only policy) was removed 9/24; still no update. The weekly leak update has passed from Michelle to Melissa.",
+      "evidence": [
+        {"quote": "yes we are warming up an insta account for you", "who": "Michelle Queue", "date": "2026-09-01"},
+        {"quote": "The account is being warmed up now, so I want to make sure everything is ready to go once it’s ready in a few days 💕", "who": "Michelle Queue", "date": "2026-09-10"}
+      ]
+    },
+    {
+      "issue": "Weekly DMCA/leak report cadence — 2 reports in 51 days (9/8, 9/25)",
+      "status": "in_progress",
+      "owner": "Derrek",
+      "first_raised": "2026-08-12",
+      "days_open": 51,
+      "detail": "Improved: Melissa delivered the 9/25 report. Needs consecutive weeks before it counts as a cadence.",
+      "evidence": [
+        {"quote": "You will get weekly reports", "who": "Derrek", "date": "2026-08-12"},
+        {"quote": "Hey love! Here’s your weekly update on the leak removal breakdown for the past 7 days 🫶🏼", "who": "Melissa Userfacing", "date": "2026-09-25"}
+      ]
+    },
+    {
+      "issue": "Impersonating Instagram account (alannaworldx0) removal never confirmed — 60 days",
+      "status": "recurring",
+      "owner": "Derrek",
+      "first_raised": "2026-08-03",
+      "days_open": 60,
+      "detail": "Her first request on day one. Filed 8/4, never confirmed.",
+      "evidence": [
+        {"quote": "Hey sorry to be annoying on the first day but is there a way to remove this insta 🤓", "who": "Alanna<3", "date": "2026-08-03"},
+        {"quote": "hey we sent it in on our end", "who": "Derrek", "date": "2026-08-04"}
+      ]
+    },
+    {
+      "issue": "8/19 instruction to pause chatting while she is live — never acknowledged, 44 days",
+      "status": "recurring",
+      "owner": "Ollie Mckinlay",
+      "first_raised": "2026-08-19",
+      "days_open": 44,
+      "detail": "No protocol agreed.",
+      "evidence": [
+        {"quote": "Forgot to say I’m on live on my vip page so maybe stop chatting", "who": "Alanna<3", "date": "2026-08-19"}
+      ]
+    },
+    {
+      "issue": "Customs: client offered twice, declined twice; 'push heavy' promise 48 days old with no number reported",
+      "status": "recurring",
+      "owner": "Ollie Mckinlay",
+      "first_raised": "2026-08-15",
+      "days_open": 48,
+      "detail": "She has not offered since 8/26.",
+      "evidence": [
+        {"quote": "Will push heavy on them", "who": "Ollie Mckinlay", "date": "2026-08-15"},
+        {"quote": "Any new customs?", "who": "Alanna<3", "date": "2026-08-26"}
+      ]
+    },
+    {
+      "issue": "Social media effectively unstaffed — Calendly kickoff call unbooked at 60 days",
+      "status": "recurring",
+      "owner": "Mica Vecco",
+      "first_raised": "2026-08-03",
+      "days_open": 60,
+      "detail": "Mica silent since 9/24.",
+      "evidence": [
+        {"quote": "there you will find my booking link to schedule a 1 on 1 call with me so we can get started on your socials.", "who": "Mica Vecco", "date": "2026-08-03"}
+      ]
+    },
+    {
+      "issue": "Five Mayson asks open, none progressed — alannasworld.vip, @alannapow login, trial-reels call, Facebook login, 9/22 call",
+      "status": "recurring",
+      "owner": "Mayson",
+      "first_raised": "2026-08-14",
+      "days_open": 49,
+      "detail": "Two are credential requests to a client who has three times said she runs her own accounts. Mayson silent since 9/23.",
+      "evidence": [
+        {"quote": "Hey @alannaapow is there any reason you’re not using this domain?", "who": "Mayson Chat", "date": "2026-08-27"},
+        {"quote": "Would you be willing to share the login credentials with us so our team can get started on posting content on the account?", "who": "Mayson Chat", "date": "2026-08-28"},
+        {"quote": "Are you able to give us login to one?", "who": "Mayson Chat", "date": "2026-09-16"},
+        {"quote": "I have 3 but just run them myself", "who": "Alanna<3", "date": "2026-09-16"}
+      ]
+    },
+    {
+      "issue": "Chatter FAQ form never completed — 60 days, last chased 8/5; now duplicated by the 9/28 platform intake form",
+      "status": "recurring",
+      "owner": "Ollie Mckinlay",
+      "first_raised": "2026-08-03",
+      "days_open": 60,
+      "detail": "Pick one form and chase it once, pre-filled from what she has already supplied.",
+      "evidence": [
+        {"quote": "Of course will do", "who": "Alanna<3", "date": "2026-08-03"}
+      ]
+    },
+    {
+      "issue": "Group access governance — new ChatAddUser 9/25 12:15 (probably Melissa Userfacing, who posted 23 min later) on top of the unexplained 9/10 and 9/17 additions; handles @sotom225, @ofwizz, @stephskiii still unrecorded",
+      "status": "recurring",
+      "owner": "Derrek",
+      "first_raised": "2026-09-11",
+      "days_open": 22,
+      "detail": "The group holds invoices, banking info, the client's phone number and login requests. Service events carry no actor, so additions cannot be attributed from the export."
+    }
+  ],
+  "commitments": [
+    {"what": "Diagnose and fix the payment rail — ask what she tried, to which payee name, what the bank returned; give one working method in writing", "who": "Stephski", "status": "overdue", "since": "2026-09-22", "due": "2026-09-23", "days_outstanding": 10, "detail": "Not touched in window; invoice #4 sent instead.",
+     "evidence": [{"quote": "@alannaapow can you please do it as a wire instead of zelle it wont work for some reason", "who": "Stephski", "date": "2026-09-23"}]},
+    {"what": "Chase invoice #2 (Aug 15-31) by name with amount and a new deadline", "who": "Stephski", "status": "overdue", "since": "2026-09-01", "due": "2026-09-08", "days_outstanding": 24, "detail": "Not named since 9/5 — 27 days.",
+     "evidence": [{"quote": "I ask that you please pay within 7 days to avoid any pausing of work 🙏", "who": "Stephski", "date": "2026-09-01"}]},
+    {"what": "Collect invoice #3 (Sept 1-14)", "who": "Stephski", "status": "overdue", "since": "2026-09-15", "due": "2026-09-22", "days_outstanding": 10, "detail": "No post-due chase.",
+     "evidence": [{"quote": "Tomorrow is day 7 since recieving invoice so just wanted to bump ❤️ @alannaapow", "who": "Stephski", "date": "2026-09-21"}]},
+    {"what": "Collect invoice #4 (Sept 15-30)", "who": "Stephski", "status": "pending", "since": "2026-10-01", "due": "2026-10-08", "days_outstanding": 1, "detail": "Issued against last week's recommendation not to stack a third open invoice.",
+     "evidence": [{"quote": "Here is your invoice for September 15-30th ❤️", "who": "Stephski", "date": "2026-10-01"}]},
+    {"what": "Confirm she has the post-9/15 payee name", "who": "Stephski", "status": "overdue", "since": "2026-09-15", "due": "2026-09-22", "days_outstanding": 17, "detail": "Leading suspect for the failed wire.",
+     "evidence": [{"quote": "Please note a slight name change to the account, but the same account and wire info.", "who": "Stephski", "date": "2026-09-15"}]},
+    {"what": "Prove the new content route — pull from her Drive/Dropbox and post what was pulled and scheduled", "who": "Mica Vecco", "status": "overdue", "since": "2026-09-24", "due": "2026-09-26", "days_outstanding": 8, "detail": "No message since 9/24.",
+     "evidence": [{"quote": "yeah we can pull from your drives", "who": "Mica Vecco", "date": "2026-09-24"}]},
+    {"what": "Resume OnlyFans page and chatting management with visible output", "who": "Ollie Mckinlay", "status": "overdue", "since": "2026-08-28", "days_outstanding": 35, "detail": "18 days silent."},
+    {"what": "Acknowledge 9/10 photos and 9/24 links with a posting plan", "who": "Ollie Mckinlay", "status": "overdue", "since": "2026-09-10", "days_outstanding": 22},
+    {"what": "Confirm use of the 9/12-9/13 sexting sets", "who": "Ollie Mckinlay", "status": "overdue", "since": "2026-09-13", "days_outstanding": 19},
+    {"what": "Close out Aug 17/24/29 drops and get the next release schedule", "who": "Ollie Mckinlay", "status": "overdue", "since": "2026-08-17", "days_outstanding": 46, "detail": "Calendar empty 34 days."},
+    {"what": "Acknowledge the live-stream pause instruction and agree a protocol", "who": "Ollie Mckinlay", "status": "overdue", "since": "2026-08-19", "days_outstanding": 44},
+    {"what": "Report on 'push heavy' customs sales", "who": "Ollie Mckinlay", "status": "overdue", "since": "2026-08-15", "days_outstanding": 48,
+     "evidence": [{"quote": "Will push heavy on them", "who": "Ollie Mckinlay", "date": "2026-08-15"}]},
+    {"what": "Answer own 8/27 sub-count / funnel questions with a plan", "who": "Ollie Mckinlay", "status": "overdue", "since": "2026-08-27", "days_outstanding": 36},
+    {"what": "Get the chatter FAQ form (or the new platform intake) completed", "who": "Ollie Mckinlay", "status": "overdue", "since": "2026-08-03", "days_outstanding": 60, "detail": "Melissa's 9/28 intake covers the same ground."},
+    {"what": "Launch the new Instagram account promised 9/1", "who": "Michelle", "status": "overdue", "since": "2026-09-01", "due": "2026-09-15", "days_outstanding": 31,
+     "evidence": [{"quote": "yes we are warming up an insta account for you", "who": "Michelle Queue", "date": "2026-09-01"}]},
+    {"what": "Deliver weekly DMCA/leak reports on a genuine cadence", "who": "Derrek", "status": "pending", "since": "2026-08-12", "days_outstanding": 51, "detail": "Delivered 9/25 by Melissa (2nd ever). Pending until consecutive weeks land.",
+     "evidence": [{"quote": "You will get weekly reports", "who": "Derrek", "date": "2026-08-12"}]},
+    {"what": "Confirm the alannaworldx0 takedown to Alanna", "who": "Derrek", "status": "overdue", "since": "2026-08-04", "days_outstanding": 59,
+     "evidence": [{"quote": "hey we sent it in on our end", "who": "Derrek", "date": "2026-08-04"}]},
+    {"what": "Identify group additions (9/10, 9/17, 9/25) and record @ofwizz / @stephskiii / @sotom225 in team.yaml", "who": "Derrek", "status": "overdue", "since": "2026-09-10", "days_outstanding": 22},
+    {"what": "Close or formally drop the five open Mayson asks", "who": "Mayson", "status": "overdue", "since": "2026-08-14", "days_outstanding": 49},
+    {"what": "Book the Calendly social kickoff call", "who": "Mica Vecco", "status": "overdue", "since": "2026-08-03", "days_outstanding": 60}
+  ],
+  "payments": [
+    {"note": "INVOICE #4 ISSUED 2026-10-01 (period Sept 15-30), due ~2026-10-08, on top of two past-due invoices. Amount not stated in chat. Restates the banking/Zelle info and the work-pause line; does not address the 9/22 failed payment attempt.", "date": "2026-10-01", "issued": "2026-10-01", "invoice_period": "2026-09-15 to 2026-09-30", "due": "2026-10-08", "amount": null, "status": "issued_unpaid", "late": false,
+     "evidence": [{"quote": "As always, we appreciate you paying within the next 7 days to avoid any pausing in work! 🙏", "who": "Stephski", "date": "2026-10-01"}]},
+    {"note": "INVOICE #2 (Aug 15-31) UNPAID — 24 days past due (due 9/8), 31 days from issue, not named by anyone since 9/5. No payment evidence in chat.", "date": "2026-10-02", "issued": "2026-09-01", "invoice_period": "2026-08-15 to 2026-08-31", "due": "2026-09-08", "days_late": 24, "amount": null, "status": "overdue_unpaid", "late": true},
+    {"note": "INVOICE #3 (Sept 1-14) UNPAID — 10 days past due (due 9/22). Client tried to pay 9/22 and both methods failed; no diagnosis since.", "date": "2026-10-02", "issued": "2026-09-15", "invoice_period": "2026-09-01 to 2026-09-14", "due": "2026-09-22", "days_late": 10, "amount": null, "status": "overdue_unpaid", "late": true},
+    {"note": "RISK: CRITICAL (held). 4 invoices issued, 1 paid (#1, 15 days late after a pause ultimatum), 3 open, 2 past due. Late on every invoice, now compounded by a broken payment rail and client silence. No 'fast payment' churn tell — the opposite. Do not use the pause threat until a working rail exists; if she exits, the unpaid balance on #2-#4 leaves with her and will drop off the dashboard once the chat goes silent.", "date": "2026-10-02", "status": "risk_summary", "late": true}
+  ],
+  "client_priorities": [
+    "Using her OWN Drive/Dropbox — standing rule since 9/24; never ask her to upload to ALTR's Drive again. Proof of ingestion still owed.",
+    "On-time collab scene releases at 7pm LA time — Aug 17/24/29 never closed out, calendar empty 34 days.",
+    "Getting her handed-over content posted — five bulk handovers, none confirmed.",
+    "More Instagram accounts — new account promised 9/1, no update in 22 days.",
+    "Keeping control of her own accounts/systems — three statements; two credential asks still open.",
+    "Being able to pay without friction — payment rail broken since 9/22.",
+    "Leak/DMCA coverage — second report delivered 9/25.",
+    "IG impersonator alannaworldx0 takedown — 60 days unconfirmed.",
+    "Customs/fan verification on demand; chat pause during her lives."
+  ],
+  "suggestions": [
+    "Owner outreach this week, not billing: Derrek (the @ofwizz she tagged, if that is him) sends one direct message — acknowledge 9/24, show what has been pulled from her Drive/Dropbox and what is scheduled, and close the alannaworldx0 question in the same message. A second silent week should be treated as an exit in progress.",
+    "Fix the payment rail before any further chase: ask what she tried, to which payee name, what the bank returned; confirm the post-9/15 payee name; send one working method. Consolidate #2, #3 and #4 into one statement with amounts and one date.",
+    "Do not use the work-pause line while the rail is broken and the client is silent — it reads as an ultimatum to someone already halfway out.",
+    "Reassign or hard-deadline Ollie: 18 days silent, every OF-side commitment untouched. Have the new owner post a 7-day release/posting plan built from her own library.",
+    "Get Michelle (or a replacement) to post a one-line status on the new Instagram account.",
+    "Pick one intake: retire the 8/3 FAQ form in favour of Melissa's 9/28 platform intake, pre-filled from what she has already sent so she is not asked to repeat herself.",
+    "Keep Melissa's weekly leak update on a fixed day — it is the one promise now being kept.",
+    "Record @ofwizz, @stephskiii, @sotom225 and the 9/25 addition in config/team.yaml."
+  ],
+  "wins": [
+    "Second weekly leak-removal report delivered (Melissa, 9/25) — the 8/12 DMCA promise produced output for only the second time.",
+    "Nobody asked her to upload to ALTR's Drive again — the 9/24 standing rule held for its first week.",
+    "Invoice #4 went out on schedule with the 7-day term stated."
+  ],
+  "week_stats": {
+    "messages": 4,
+    "client_messages": 0,
+    "team_messages": 4,
+    "service_events": 1,
+    "window_start": "2026-09-25T09:08:16-04:00",
+    "window_end": "2026-10-02T09:03:07-04:00",
+    "window_days": 7,
+    "note": "ALTR: Melissa Userfacing 2 (agency-wide broadcasts), Stephski 2 (invoice #4 text + file). Alanna 0 — first zero-client week ever. ChatAddUser 9/25 12:15 unattributed (likely Melissa)."
+  }
+}

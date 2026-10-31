@@ -1,0 +1,207 @@
+{
+  "client": "Vicky",
+  "slug": "vicky-x-altr",
+  "as_of": "2026-09-11",
+  "window_covered": "2026-08-28T09:03:11-04:00 to 2026-09-11T09:03:48-04:00 (TWO weeks — absorbs the 2026-09-04 run, which was analysed but never rendered or published)",
+  "status": "CHURNED 2026-08-18, 24 DAYS AGO, AND NEVER RE-CONTACTED. She asked for exactly two things on the way out — a final number and her accounts disconnected from Infloww — and has received NEITHER in words. The last thing ALTR has ever said to her is a bare collections chase on 2026-08-26 with no amount and no wallet address. Only 1 message in the entire two-week window: Vivek's 'Hi' on 2026-09-02, addressed to nobody. Chat has had no live client presence since the ChatDeleteUser service event on 2026-08-27 04:45 (still unidentified — do not assume it was Vicky; the 2026-06-26 pair in this chat was a Fred→Ollie team swap). Offboarding never executed, Infloww disconnection never verified, credentials never rotated, final balance uncollected and its amount NEVER STATED.",
+  "churn": {
+    "churned_on": "2026-08-18T00:00:19-04:00",
+    "days_since_churn_as_of_2026_09_11": 24,
+    "termination_quote": "Hey guys, I would like to stop this collaboration, can we please count how much money I need to send and disconnect my accounts from Infloww?",
+    "two_requests_on_exit": [
+      {"request": "A final figure to pay", "quote": "Hello, is it possible for you to count from 1st- 18th ?", "date": "2026-08-17", "status": "NEVER FULFILLED — the amount has never been stated in any message, 24 days"},
+      {"request": "Her accounts disconnected from ALTR's Infloww", "quote": "Hey guys, I would like to stop this collaboration, can we please count how much money I need to send and disconnect my accounts from Infloww?", "date": "2026-08-18", "status": "NEVER FULFILLED — never confirmed to her in writing, never verified in the tool, 24 days"}
+    ],
+    "only_response_ever_sent": {"quote": "@vallume Hi can you please finish out your last invoice", "date": "2026-08-26", "note": "a bare collections chase, 16 days ago, with no amount and no address"}
+  },
+  "silence_ledger_as_of_2026_09_11": {
+    "Vicky": "24 days — last message is the termination itself, 2026-08-18 00:00:19",
+    "Derrek": "30 days — last message 'Perfect thank you', 2026-08-12 17:53; has NEVER responded to the churn on any channel",
+    "Ollie Mckinlay": "25 days — last words to this client 'Yes all solved', 2026-08-17 05:51",
+    "Mayson": "24 days — last message 'I’ll get you an answer shortly Valeri!', 2026-08-18, promise never kept",
+    "Stephski": "16 days — last message the 2026-08-26 collections chase",
+    "Mica Vecco": "29 days — last contribution reel inspo, 2026-08-13",
+    "Michelle": "48 days — last posted 2026-07-25",
+    "Vivek": "9 days — posted 'Hi' on 2026-09-02, his first and only message since being added 2026-07-29"
+  },
+  "open_complaints": [
+    {
+      "issue": "OFFBOARDING ABANDONED. Two exit requests, neither met. Final amount never stated; Infloww disconnection never confirmed or verified. Nothing sent to her at all in the 2026-08-28 to 2026-09-11 window. NEXT RUN: did Derrek make contact on ANY channel; was the balance paid; was Infloww verified disconnected in the tool.",
+      "owner": "Derrek",
+      "first_raised": "2026-08-18",
+      "severity": "critical",
+      "days_open": 24
+    },
+    {
+      "issue": "OWNER SILENCE. Derrek owned her #1 complaint (traffic), made the last promise she ever received, and has never acknowledged the churn. Owner outreach has been the #1 recommendation in FOUR consecutive weekly reports (2026-08-21, 2026-08-28, 2026-09-04, 2026-09-11) and has never been actioned — note the 2026-09-04 report was never rendered or delivered to anyone.",
+      "owner": "Derrek",
+      "first_raised": "2026-08-18",
+      "severity": "critical",
+      "days_open": 30
+    },
+    {
+      "issue": "UNROTATED CREDENTIAL — STILL OPEN, NOTHING IN THE WINDOW RESOLVED IT. Seven plaintext Infloww/OnlyFans face-authentication session links (inflowwlogin://login?link=<base64 of id.onlyfans.com/face-authentication-start/...>) were posted into this group: 2 by Fred on 2026-06-17 (msg ids 19, 32), 2 by Ollie on 2026-06-27 (ids 96, 106), 2 by Ollie on 2026-07-18 (ids 345, 355), 1 by Ollie on 2026-07-19 (id 363). Plus 2026-06-29 Ollie: 'Okay log in with this email and the same password you used from the email\\n\\n[REDACTED-RECOVERY-EMAIL]'. She requested password rotation on both OnlyFans accounts FIVE times (Jul 5, Jul 7, Jul 9, Jul 17, Jul 18), including immediately after reporting a compromise herself on 2026-07-17 ('I already deleted it yesterday' / 'Because of it we need to change the passwords for both accounts'). NO message anywhere in the 524-line history confirms a rotation was ever performed. Ollie said 'We will do today' (2026-07-07); every later exchange is about re-issuing face-auth links. On 2026-07-24 Ollie asked 'You changed your password again?' and she answered 'No'. 68 days since first request, 66 days since the promise, 56 days since the compromise-triggered request, 54 days since the last session link was posted. Client churned 24 days ago and may no longer control this Telegram group.",
+      "owner": "Ollie Mckinlay",
+      "first_raised": "2026-07-05",
+      "severity": "critical",
+      "days_open": 68
+    },
+    {
+      "issue": "DELETED MESSAGES — STILL OPEN, STILL UNEXPLAINED, NOTHING IN THE WINDOW RESOLVED IT. 28 messages are missing from this chat: the export spans ids 1-552 but holds only 524 lines. Missing ids: 28, 47, 130, 139, 159, 161, 162, 163, 164, 167, 215, 261, 269, 293, 322, 325, 336, 344, 349, 381, 401, 405, 425, 522, 525, 529, 533, 549. Four sit inside threads that later became disputes: id 215 (2026-07-03, mid-Jake-$700 argument; Ollie's surviving 'Yeah he was messaging us when you were replying' replies to it), id 293 (2026-07-09, same dispute; Ollie's 'That was chatting on OF not over a videocall' replies to it), id 336 (2026-07-17, immediately before her compromise report and rotation request), id 549 (between Stephski's unexplained 2026-08-18 10:57 invoice file and the 2026-08-26 chase, i.e. in the final-balance thread). ZERO messages were deleted during the 2026-08-28 to 2026-09-11 window. Nobody has ever identified who deleted them or what they said; the content is unrecoverable from the export. NEXT RUN: check whether any server-side archive exists and whether any deletions were ALTR-side.",
+      "owner": "Derrek",
+      "first_raised": "2026-07-03",
+      "severity": "high",
+      "days_open": 70
+    },
+    {
+      "issue": "$1,700 of fan money taken against undelivered work, entirely ALTR's liability. Jake's $700 video call sold ~2026-07-03, never delivered, 70 days, last mentioned by anyone 2026-08-01. The $1,000 pfizzington custom (paid 2026-08-04, detailed brief, 10 min minimum, her ETA 2026-08-16/17) was never filmed — 25 days past ETA. The model has left; neither can be delivered through her. Untouched for six consecutive weekly reports.",
+      "owner": "Ollie Mckinlay",
+      "first_raised": "2026-07-03",
+      "severity": "high",
+      "days_open": 70
+    },
+    {
+      "issue": "Root cause of churn, 75 days, permanently unresolved: replacement traffic never materialised after Ollie told her on 2026-06-28 to shut off the paid SFS traffic she funded herself. Promised 'end of week one' (2026-06-19), 'next 48 hrs' (2026-08-04), declared 'its live' + 'you will see fans coming in late tn' (2026-08-10). She chased 5 times and was never shown a single number across the whole engagement.",
+      "owner": "Derrek",
+      "first_raised": "2026-06-28",
+      "severity": "critical",
+      "days_open": 75
+    },
+    {
+      "issue": "Chatter persona / whale trust, 77 days. Mass DMs ('are you single') made long-time top fans doubt it was her. She asked 2026-06-30 / 2026-07-01 for a whale list so she could send voice notes and for mass DMs to those fans to pause. Ollie agreed same-day and never delivered; never raised again by anyone on either side. Those fans are still on pages ALTR chatted.",
+      "owner": "Ollie Mckinlay",
+      "first_raised": "2026-06-26",
+      "severity": "high",
+      "days_open": 77
+    },
+    {
+      "issue": "Complaints closed with assertions instead of evidence — proximate trigger of the churn, 31 days. Second page (mermaidua) going days with zero new fans: screenshotted 2026-08-11, re-screenshotted 2026-08-14, chased 2026-08-17. Every answer was a bare claim with no data ('Looking into this for you', 'Yes that one was solved', 'Yes all solved'). She terminated ~18 hours after 'Yes all solved'. Ollie has not written since.",
+      "owner": "Ollie Mckinlay",
+      "first_raised": "2026-08-11",
+      "severity": "critical",
+      "days_open": 31
+    },
+    {
+      "issue": "Team posting into a churned client's group, apparently unaware she is gone. Vivek's 'Hi' at 12:50 on 2026-09-02 was his first and only message since Derrek introduced him as Meta Support Rep on 2026-07-29, addressed to nobody and followed by nothing. Either an internal comms failure worth fixing across all client chats, or a misdirected message. Still unexplained.",
+      "owner": "Derrek",
+      "first_raised": "2026-09-02",
+      "severity": "medium",
+      "days_open": 9
+    }
+  ],
+  "resolved_last_week": [],
+  "open_commitments": [
+    {"what": "Tell her the final Aug 1-18 figure in words and give her the correct payment address — Stephski said 'Yes mam one sec' and attached a file 2026-08-18 10:57 with no covering explanation, never confirmed the period, and the only follow-up (2026-08-26) also contained no number and no wallet. Nothing sent in the 08-28 to 09-11 window", "who": "Stephski", "date": "2026-08-18", "status": "overdue — 24 days"},
+    {"what": "Answer the termination substantively — Mayson said 'I’ll get you an answer shortly Valeri!' on 2026-08-18 and has not posted since", "who": "Mayson", "date": "2026-08-18", "status": "overdue — 24 days"},
+    {"what": "Owner-level outreach from Derrek (call or message, any channel) — NEVER ATTEMPTED in 24 days, across four weekly reports that each named it as the top action", "who": "Derrek", "date": "2026-08-18", "status": "overdue — 24 days, never attempted"},
+    {"what": "Disconnect @vickycutiee and mermaidua from ALTR's Infloww AND confirm it to her in writing — one of only two things she asked for in her termination message. Liability: ALTR may still hold live session access to a former client's OF accounts. VERIFY IN THE TOOL, not in the chat", "who": "Ollie Mckinlay", "date": "2026-08-18", "status": "overdue — 24 days, unverified and unconfirmed"},
+    {"what": "Rotate the passwords on both OnlyFans accounts and confirm the rotation to her — promised 'We will do today' on 2026-07-07, re-offered 2026-07-18, never confirmed done anywhere in the history. Compounded by seven plaintext face-auth session links and one login-email-plus-password message posted into this group, and by her own compromise report on 2026-07-17", "who": "Ollie Mckinlay", "date": "2026-07-07", "status": "overdue — 66 days, never confirmed"},
+    {"what": "Deliver the full traffic update Derrek promised 'in another hour' on 2026-08-10 — the last promise the owner ever made her", "who": "Derrek", "date": "2026-08-10", "status": "overdue — 32 days, never delivered"},
+    {"what": "Settle Jake's $700 call directly with the fan (schedule / substitute / refund)", "who": "Ollie Mckinlay", "date": "2026-07-03", "status": "overdue — 70 days, never actioned"},
+    {"what": "Settle the $1,000 pfizzington custom directly with the fan — never filmed, unrecoverable through her", "who": "Ollie Mckinlay", "date": "2026-08-17", "status": "overdue — 25 days past her ETA, unrecoverable"},
+    {"what": "Whale list + exclude whales from organic mass messages (promised same-day by Ollie 2026-06-30)", "who": "Ollie Mckinlay", "date": "2026-06-30", "status": "overdue — 73 days, never delivered"},
+    {"what": "Send the management-run IG handle once the warmed-up account started posting; also tell her what happens to that account and to the reels/Reddit content she supplied for it", "who": "Michelle", "date": "2026-07-24", "status": "overdue — 49 days, never sent"},
+    {"what": "Hand back or retire the custom domain vickysworld.vip (built by Mayson 2026-06-18) and set/confirm a dated chatter cutoff on both pages — never raised with her at any point", "who": "Mayson", "date": "2026-08-18", "status": "pending — 24 days, never raised"},
+    {"what": "Revoke ALTR's editor access to her personal Google Drive content folder (she insisted 2026-07-20 on keeping all content in her own Drive, then granted editor rights on the wall-post folder at Ollie's request) — never raised", "who": "Ollie Mckinlay", "date": "2026-08-18", "status": "pending — 24 days, never raised"},
+    {"what": "Identify who the 2026-08-27 04:45 ChatDeleteUser was before writing anything else into this group — the 2026-06-26 13:48/13:49 ChatDeleteUser+ChatJoinedByLink pair in this same chat was a team swap (Fred out, Ollie in within the hour, no handover message to the client), so do not assume Aug 27 was Vicky", "who": "Derrek", "date": "2026-08-27", "status": "pending — 15 days, still unknown"}
+  ],
+  "completed_recently": [
+    {"what": "NOTHING. Zero ALTR actions of any kind toward this client across the full 2026-08-28 to 2026-09-11 window. The only message in fourteen days was Vivek's unexplained 'Hi' on 2026-09-02, addressed to nobody", "who": "—", "date": "2026-09-11"},
+    {"what": "Chased the outstanding final invoice with no amount and no address — the last ALTR message of any kind to this client", "who": "Stephski", "date": "2026-08-26"},
+    {"what": "Invoice Jul 15-31 paid and confirmed", "who": "Stephski", "date": "2026-08-12"},
+    {"what": "Same-minute triage of the mermaid screenshot to Ollie ('@olkmck ^^') and of the termination message to Stephski ('@stephskiii ^') with a holding reply to the client", "who": "Mayson", "date": "2026-08-18"}
+  ],
+  "payment_history": [
+    {"date": "2026-07-13", "note": "Invoice Jun 17-30 (sent Jul 1) paid in full via USDT TRC20 after wrong-address mixup and test transaction; ~12 days to settle", "late": true},
+    {"date": "2026-07-22", "note": "Invoice Jul 1-14 (sent Jul 15) paid via crypto after one nudge; ~7 days", "late": false},
+    {"date": "2026-08-11", "note": "Invoice Jul 15-31 (sent Aug 1, 7-day window) PAID Aug 11, confirmed by Stephski Aug 12. Took 3 nudges (Aug 4, Aug 9, Aug 11) plus a bare @ mention. ~10 days to settle, 3-4 days past the requested window.", "late": true},
+    {"date": "2026-08-15", "note": "Invoice Aug 1-14 sent Aug 15 — STILL UNPAID, 27 days out as of 2026-09-11. The sending message announced a CHANGED account number and new Zelle details inline: a fraud-pattern red flag for a client already burned by a wrong payment address on Jul 6. She pays USDT TRC20, not Zelle. Nobody has ever clarified which rail applies to the final settlement.", "late": true},
+    {"date": "2026-08-18", "note": "FINAL Aug 1-18 BALANCE — UNPAID, 24 days out as of 2026-09-11, AMOUNT NEVER STATED. She asked Aug 17 'Hello, is it possible for you to count from 1st- 18th ?' then terminated. Stephski attached a file Aug 18 10:57 with no covering explanation and no stated amount. One chase followed on Aug 26 ('@vallume Hi can you please finish out your last invoice') — again no amount, no address. Zero contact in the Aug 28 - Sep 11 window. She has never been told what she owes. Not a solvency risk: 3 of 3 invoices paid and she volunteered to settle on the way out.", "late": true}
+  ],
+  "fan_money_liability": {
+    "total": "$1,700",
+    "days_open_as_of_2026_09_11": 70,
+    "status": "UNSETTLED. Neither fan refunded, substituted or contacted. Untouched across six consecutive weekly reports. Entirely ALTR's liability now that the model has left.",
+    "items": [
+      {"fan": "Jake", "amount": "$700", "for": "video call", "paid": "~2026-07-03", "days": 70, "note": "Sold by chatters without briefing the model; argued over Jul 3-9; never delivered. She raised it again herself on 2026-08-01 ('And also Jake who sent tip for call asking me what we gonna do with that money') and nobody has mentioned it since."},
+      {"fan": "pfizzington", "amount": "$1,000", "for": "custom video, 10 minute minimum, detailed brief at https://docs.google.com/document/d/1WrBpJEbg_uRlsNZ-IxCFAcHCR1s4It58DO9DuxlNhTc", "paid": "2026-08-04", "days": 38, "note": "Her own ETA was 5-6 days from 2026-08-11, i.e. Aug 16-17 — now 25 days past ETA. Never filmed. Unrecoverable through her."}
+    ]
+  },
+  "security_open_items": {
+    "unrotated_credential": {
+      "status": "OPEN — nothing in the 2026-08-28 to 2026-09-11 window resolved it",
+      "days_since_first_request": 68,
+      "days_since_compromise_triggered_request": 56,
+      "days_since_last_session_link_posted": 54,
+      "detail": "Seven plaintext inflowwlogin:// OnlyFans face-authentication session links posted into this Telegram group between 2026-06-17 and 2026-07-19 (msg ids 19, 32, 96, 106, 345, 355, 363). One login-email-plus-password-reuse instruction posted 2026-06-29 (id 158, [REDACTED-RECOVERY-EMAIL]). Five unanswered rotation requests (2026-07-05, 07-07, 07-09, 07-17, 07-18). No confirmation of rotation exists anywhere in the history. On 2026-07-24 Ollie asked 'You changed your password again?' and she answered 'No'.",
+      "action": "Force-rotate or verify rotation on both OnlyFans accounts, treat all seven session links as burned, purge them from the group, and ban plaintext credential/session-link sharing in client chats agency-wide."
+    },
+    "deleted_messages": {
+      "status": "OPEN — unexplained; zero deletions occurred during this window, but none of the 28 historical ones have been identified",
+      "count": 28,
+      "missing_ids": [28, 47, 130, 139, 159, 161, 162, 163, 164, 167, 215, 261, 269, 293, 322, 325, 336, 344, 349, 381, 401, 405, 425, 522, 525, 529, 533, 549],
+      "dispute_adjacent": "id 215 (2026-07-03, Jake $700 dispute), id 293 (2026-07-09, same dispute), id 336 (2026-07-17, immediately before her compromise report), id 549 (between the 2026-08-18 invoice file and the 2026-08-26 chase, final-balance thread)",
+      "action": "Determine whether any deletions were ALTR-side; enable a server-side archive so client-chat history cannot be silently edited."
+    },
+    "infloww_access": {
+      "status": "OPEN — never verified in the tool, never confirmed to her in writing, 24 days",
+      "accounts": ["@vickycutiee", "mermaidua"],
+      "action": "Verify inside Infloww that both accounts are disconnected and no ALTR session tokens remain; screenshot the confirmation to her."
+    },
+    "drive_access": {
+      "status": "OPEN — never raised, 24 days",
+      "detail": "She insisted on 2026-07-20 on keeping all content in her own Drive, then granted ALTR editor rights on the wall-post folder at Ollie's request.",
+      "her_folder": "https://drive.google.com/drive/folders/1OF7V2xDqru0_oJU-nnT1qKvDv1I0eHOk",
+      "altr_wall_post_folder": "https://drive.google.com/drive/folders/10eLmR3XS9UtvDM1mn78UqTSrQHyDlDTV"
+    },
+    "other_assets": {
+      "custom_domain": "vickysworld.vip — built by Mayson 2026-06-18, never handed back or retired, never raised with her",
+      "managed_ig_account": "warmed-up management-run IG account; handle never sent to her (Michelle, promised 2026-07-24, 49 days). Her reels and Reddit content were supplied for it and their fate is unaddressed",
+      "chatter_cutoff": "no dated chatter cutoff has ever been set or confirmed on either page"
+    }
+  },
+  "payment_risk": {
+    "level": "high",
+    "amount_at_risk": "Aug 1-18 final balance (exact figure NEVER stated in chat; the Aug 15 Aug 1-14 invoice PDF is the last known document) plus the unpaid Aug 1-14 invoice",
+    "days_outstanding": 24,
+    "solvency_risk": "low — 3 of 3 invoices paid, no dispute raised, she volunteered to pay",
+    "collection_risk": "high and rising — no amount ever communicated, conflicting payment rails (verified TRC20 vs the Aug 15 'updated account number / Zelle'), no live channel since the 2026-08-27 ChatDeleteUser, and 24 days of unanswered grievances plus an unresolved credential exposure giving her every reason to offset or disengage",
+    "verified_address": "USDT TRC20 TKg3MRS33SeRCDeSzMTrNNpckKbUKypBsJ — she has paid to this twice; do NOT use the Aug 15 Zelle/updated account details; do NOT reuse the ERC20 address 0xceB86A7658bcd09E2C16AE336Eb690508424A69e sent by mistake on 2026-07-06",
+    "out_of_band_contacts": ["[REDACTED-RECOVERY-EMAIL]", "[REDACTED-RECOVERY-EMAIL] (Infloww)", "Snapchat @vicky_mermaidd", "Telegram @vallume"],
+    "action": "Owner-level, out-of-band, today. State the figure and the TRC20 address in the same message as confirmation that Infloww is disconnected and credentials rotated. Do not send another bare chase."
+  },
+  "client_priorities": [
+    "Getting the final Aug 1-18 number in writing, on the rail she actually uses (USDT TRC20), so she can pay it and be done — asked 2026-08-17, still never told the amount 24 days later",
+    "Written confirmation that @vickycutiee and mermaidua are disconnected from ALTR's Infloww",
+    "Her account credentials rotated and confirmed — asked five times between 2026-07-05 and 2026-07-18, including after reporting a compromise, never confirmed done",
+    "Being shown actual results — five requests for traffic numbers over six weeks, never one figure returned; this is why she left",
+    "Never being put on a sold call or custom without the fan, amount, duration and exact promises in advance",
+    "Protecting trust with her long-time top fans — voice notes, persona consistency, no 'are you single' mass DMs",
+    "USDT TRC20 payments only; all her content kept in her own Google Drive"
+  ],
+  "health_history": [
+    {"week_ending": "2026-08-08", "score": 70, "trend": "flat"},
+    {"week_ending": "2026-08-14", "score": 60, "trend": "down"},
+    {"week_ending": "2026-08-21", "score": 8, "trend": "down"},
+    {"week_ending": "2026-08-28", "score": 3, "trend": "down"},
+    {"week_ending": "2026-09-04", "score": 2, "trend": "down", "note": "analysed but NEVER rendered or published — this week's run crashed before delivery"},
+    {"week_ending": "2026-09-11", "score": 1, "trend": "down", "note": "covers a TWO-week window, 2026-08-28 to 2026-09-11"}
+  ],
+  "week_stats_history": [
+    {"week_ending": "2026-08-08", "messages": null, "client_messages": null, "team_messages": null},
+    {"week_ending": "2026-08-14", "messages": 36, "client_messages": 14, "team_messages": 22},
+    {"week_ending": "2026-08-21", "messages": 10, "client_messages": 3, "team_messages": 7},
+    {"week_ending": "2026-08-28", "messages": 1, "client_messages": 0, "team_messages": 1},
+    {"week_ending": "2026-09-04", "messages": 1, "client_messages": 0, "team_messages": 1},
+    {"week_ending": "2026-09-11", "messages": 1, "client_messages": 0, "team_messages": 1, "note": "two-week window; the single message is Vivek's 'Hi' on 2026-09-02"}
+  ],
+  "engagement_trend": [
+    {"week_ending": "2026-08-08", "messages": null, "client_messages": null, "health": 70},
+    {"week_ending": "2026-08-14", "messages": 36, "client_messages": 14, "health": 60},
+    {"week_ending": "2026-08-21", "messages": 10, "client_messages": 3, "health": 8},
+    {"week_ending": "2026-08-28", "messages": 1, "client_messages": 0, "health": 3},
+    {"week_ending": "2026-09-04", "messages": 1, "client_messages": 0, "health": 2},
+    {"week_ending": "2026-09-11", "messages": 1, "client_messages": 0, "health": 1}
+  ],
+  "notes": "DEAD CHAT, THIRD CONSECUTIVE ONE-MESSAGE REPORTING PERIOD, and this one spans TWO weeks. Health 1, down from 2 (Sep 04), 3 (Aug 28), 8 (Aug 21), 60 (Aug 14), 70 (Aug 08). The single message in 2026-08-28 → 2026-09-11 was Vivek, 2026-09-02 12:50, 'Hi' — his first and only message since Derrek added him on 2026-07-29, addressed to nobody and followed by nothing. It is not client contact and it is not offboarding. Three consecutive periods with zero client messages. The chat file ends at message id 552 on 2026-09-02; nothing has been written since.\n\nPIPELINE NOTE: the 2026-09-04 run analysed the first half of this window and then CRASHED before rendering or publishing, so data/weeks/2026-09-04/vicky-x-altr.json was never delivered to a human. Its findings have been absorbed into the 2026-09-11 report and re-aged. Add a delivery check so a crashed run is flagged loudly rather than silently swallowed.\n\nDAY COUNTS AS OF 2026-09-11: churn 24d · owner silence 30d · Ollie silence 25d · Mayson silence 24d · Stephski silence 16d · chat inert since the ChatDeleteUser 15d · Vivek's 'Hi' 9d ago.\n\nSTALE-PROMISE STACK (days as of 2026-09-11, measured from the original promise date): chatter persona/whale complaint 77d · root traffic complaint 75d · whale list (Ollie, Jun 30) 73d · Jake's $700 call (Ollie, Jul 3) 70d · deleted-message question 70d · password rotation (Ollie, Jul 7) 66d · IG handle (Michelle, Jul 24) 49d · Derrek's 'another hour' traffic update (Aug 10) 32d · mermaidua complaint 31d · Aug 1-14 invoice unpaid 27d · pfizzington $1,000 custom past ETA 25d · Infloww disconnect confirmation (Ollie, Aug 18) 24d · final Aug 1-18 figure in words (Stephski, Aug 18) 24d · substantive reply to termination (Mayson, Aug 18) 24d · owner outreach (Derrek, Aug 18) 24d NEVER ATTEMPTED · vickysworld.vip handback + chatter cutoff never raised · Drive access revocation never raised · Aug 27 ChatDeleteUser identity 15d unknown.\n\nMONEY: Aug 1-14 invoice 27 days unpaid; final Aug 1-18 balance 24 days unpaid with the figure never stated. Verified USDT TRC20 address she has paid to twice: TKg3MRS33SeRCDeSzMTrNNpckKbUKypBsJ. IGNORE the Aug 15 'updated account number / Zelle' change — she pays TRC20 only and was already burned on Jul 6 when Stephski sent an ERC20 address (0xceB86A7658bcd09E2C16AE336Eb690508424A69e). Separately, $1,700 of FAN money is held against undelivered work: Jake $700 (paid ~Jul 3) and pfizzington $1,000 (paid Aug 4). That $1,700 is not an invoice — it is ALTR's liability to two fans, and neither has been refunded, substituted or contacted.\n\nSECURITY: two open items, neither touched in this window. (1) UNROTATED CREDENTIAL — 7 plaintext inflowwlogin:// face-auth session links in this group (Jun 17 x2 Fred, Jun 27 x2 Ollie, Jul 18 x2 Ollie, Jul 19 x1 Ollie), one login-email-plus-password-reuse message (Jun 29, [REDACTED-RECOVERY-EMAIL]), five unanswered rotation requests, a client-reported compromise on Jul 17, and zero confirmation of rotation anywhere in 524 messages. (2) DELETED MESSAGES — 28 missing ids across a 1-552 sequence, four of them inside the Jake $700 dispute, the Jul 17 compromise report and the final-invoice thread. Neither has ever been explained or closed.\n\nATTRIBUTION NOTE: no vendor chat team appears in this chat. Every ALTR participant maps to a named roster member — Derrek (Owner), Eric The Efficient, Mica Vecco, Mayson Chat → Mayson, Michelle Queue → Michelle, Stephski, fred SPITFIRE → Fred, Ollie Mckinlay, Vivek.\n\nOUT-OF-BAND CONTACTS if the chat is truly dead: [REDACTED-RECOVERY-EMAIL], [REDACTED-RECOVERY-EMAIL] (her Infloww login), Snapchat @vicky_mermaidd, Telegram @vallume. Custom domain built for her: vickysworld.vip. Her content drive is HERS (she insisted 2026-07-20): https://drive.google.com/drive/folders/1OF7V2xDqru0_oJU-nnT1qKvDv1I0eHOk; ALTR's wall-post folder: https://drive.google.com/drive/folders/10eLmR3XS9UtvDM1mn78UqTSrQHyDlDTV. The pfizzington custom brief: https://docs.google.com/document/d/1WrBpJEbg_uRlsNZ-IxCFAcHCR1s4It58DO9DuxlNhTc.\n\nNEXT RUN, IN ORDER: (1) did Derrek finally make contact on any channel — now FOUR weeks unactioned and the only metric that matters here; (2) did any money land, on any rail; (3) is Infloww verifiably disconnected in the tool, with the confirmation screenshotted to her; (4) were both OnlyFans passwords rotated and confirmed; (5) were the two fans refunded or substituted; (6) who the Aug 27 ChatDeleteUser was; (7) has anyone identified the 28 deleted messages or enabled an archive; (8) why Vivek posted 'Hi' on Sep 2; (9) any sign she has talked publicly or to other models about how this ended.\n\nCROSS-CLIENT LESSONS, worth more than this account now: ALTR has no mechanism that surfaces a promise nobody kept — six named commitments here have decayed past 40 days with literally zero mentions by anyone. Complaints are closed with assertions ('Yes all solved') instead of evidence. Credentials and live session links are pasted in plaintext into client Telegram groups and never rotated even when the client asks five times. Chat history can be silently deleted with no archive. Personnel handovers happen with no message to the client (Fred → Ollie, Jun 26). Team members post into churned client groups apparently unaware the client is gone (Vivek, Sep 2). When a client churns, the agency's only reflex is to send an invoice chase — and then to send nothing at all. Rules this account earns: any client asking 'is this complaint solved ?' a third time is an active churn risk that week; any churned client gets an owner message within 24 hours BEFORE any collections message; and every churn triggers an asset-and-access offboarding checklist (Infloww disconnect, credential rotation, Drive access, custom domains, managed IG accounts, chatter cutoff date, outstanding fan-money liabilities) rather than depending on someone remembering."
+}

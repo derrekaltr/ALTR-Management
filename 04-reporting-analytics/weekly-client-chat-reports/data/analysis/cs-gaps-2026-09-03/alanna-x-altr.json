@@ -1,0 +1,116 @@
+{
+  "client": "Alanna",
+  "slug": "alanna-x-altr",
+  "status": "active",
+  "status_reason": "She broke her 7-day silence on 8/26, paid the overdue invoice within the hour of a late-night pause-work threat, and is asking for more work from us (customs a third time, more IG accounts) — engaged and warm as of 9/3, but every re-engagement was chase-driven and her 8/19 pause-chatting instruction is still unacknowledged 15 days on.",
+  "last_client_message": "2026-09-03",
+  "dimensions": {
+    "responsiveness": {
+      "severity": 2,
+      "internal_failure": "Questions that touch our revenue get answered fast (customs in 8h via relay, more-IGs in 12h), but instructions that only protect her get nothing: 'maybe stop chatting' while she was live on her VIP page has never been acknowledged in 15 days.",
+      "evidence": [
+        {"quote": "Forgot to say I’m on live on my vip page so maybe stop chatting", "who": "Alanna<3", "date": "2026-08-19"},
+        {"quote": "Any new customs?", "who": "Alanna<3", "date": "2026-08-26"},
+        {"quote": "No new customs", "who": "Ollie Mckinlay", "date": "2026-08-27"}
+      ]
+    },
+    "follow_through": {
+      "severity": 3,
+      "internal_failure": "'Will push heavy on them' (customs, 8/15) has now produced three straight 'no new customs' declines with no plan; Derrek's promised weekly DMCA reports (8/12) have never appeared once in three weeks; her pinned Aug 17, 24 and 29 drops all passed with zero go-live confirmation; the day-one FAQ form was never confirmed complete.",
+      "evidence": [
+        {"quote": "Will push heavy on them", "who": "Ollie Mckinlay", "date": "2026-08-15"},
+        {"quote": "You will get weekly reports", "who": "Derrek", "date": "2026-08-12"},
+        {"quote": "29th August \nLola second scene", "who": "Alanna<3", "date": "2026-08-03"}
+      ]
+    },
+    "proactive_communication": {
+      "severity": 3,
+      "internal_failure": "The 9-day zero-outbound stretch (8/17→8/26) was ended by an invoice chase, not a check-in; since then our only non-billing outbound was a templated consistency lecture that ignored that her reels do 32M views — she had to correct us — and we have never once sent a stats or drop recap.",
+      "evidence": [
+        {"quote": "@alannaapow Hi love checking in on this", "who": "Stephski", "date": "2026-08-26"},
+        {"quote": "Hi love 💕 just wanted to reiterate how important consistent posting is for increasing social media engagement!", "who": "Mica Vecco", "date": "2026-08-31"},
+        {"quote": "Yesss I’m very consistent all my reels go viral!", "who": "Alanna<3", "date": "2026-08-31"}
+      ]
+    },
+    "onboarding_handoff": {
+      "severity": 3,
+      "internal_failure": "Day 31: the FAQ form that briefs chatters on her limits is still unconfirmed, no kickoff call was ever booked or chased, her pinned release calendar has no owner, and she had to offer customs three separate times to discover there is no customs pipeline.",
+      "evidence": [
+        {"quote": "Hey Alanna, could you fill out this FAQ form for us please", "who": "Ollie Mckinlay", "date": "2026-08-03"},
+        {"quote": "Any new customs or try to sell heaps I’ll do them in the next few days", "who": "Alanna<3", "date": "2026-08-15"},
+        {"quote": "yes you can speak to michelle about creating more accounts in the promo tab here on telegram!!", "who": "Mica Vecco", "date": "2026-08-31"}
+      ]
+    },
+    "chatter_conduct": {
+      "severity": 2,
+      "internal_failure": "Chatting continued into her VIP livestream with no protocol response then or since, and her generous offer to verify herself for fans got a 'Perfect thank you' with no process ever set — chatters are working a model whose limits form we never confirmed.",
+      "evidence": [
+        {"quote": "Forgot to say I’m on live on my vip page so maybe stop chatting", "who": "Alanna<3", "date": "2026-08-19"},
+        {"quote": "if a fan wants any specific content you can’t find or need me to send something to prove I’m reel the chatters can always message me", "who": "Alanna<3", "date": "2026-08-07"}
+      ]
+    },
+    "platform_health": {
+      "severity": 2,
+      "internal_failure": "The day-one impersonator takedown was 'sent in on our end' and never confirmed closed; the custom domain we built went unused for two weeks before anyone asked why (and the question itself got no resolution); the new IG is 'warming up' with no ETA or update cadence.",
+      "evidence": [
+        {"quote": "Hey sorry to be annoying on the first day but is there a way to remove this insta 🤓", "who": "Alanna<3", "date": "2026-08-03"},
+        {"quote": "Hey @alannaapow is there any reason you’re not using this domain?", "who": "Mayson Chat", "date": "2026-08-27"},
+        {"quote": "yes we are warming up an insta account for you", "who": "Michelle Queue", "date": "2026-09-01"}
+      ]
+    },
+    "billing_ops": {
+      "severity": 2,
+      "internal_failure": "Feast-or-famine collections: the 8/15 invoice sat 11 days before the first nudge, then escalated from evening ping to a 9:53pm pause-work threat in three hours — she paid within the hour and apologized, meaning gentle earlier chasing would have avoided threatening a willing payer.",
+      "evidence": [
+        {"quote": "We will unfortunately have to pause work if it remains unpaid by the morning", "who": "Stephski", "date": "2026-08-30"},
+        {"quote": "Sorry for the late payment", "who": "Alanna<3", "date": "2026-08-30"},
+        {"quote": "Yep sorry on it", "who": "Alanna<3", "date": "2026-08-26"}
+      ]
+    },
+    "ownership_escalation": {
+      "severity": 2,
+      "internal_failure": "Her asks still travel by relay — Mayson pings '@olkmck ^' for customs, Mica redirects her to Michelle in a different tab for the IG request — and no single person owns her release calendar or her relationship.",
+      "evidence": [
+        {"quote": "@olkmck ^", "who": "Mayson Chat", "date": "2026-08-26"},
+        {"quote": "@olkmck do we need anything?", "who": "Mayson Chat", "date": "2026-08-15"},
+        {"quote": "yes you can speak to michelle about creating more accounts in the promo tab here on telegram!!", "who": "Mica Vecco", "date": "2026-08-31"}
+      ]
+    },
+    "disengagement_detection": {
+      "severity": 2,
+      "internal_failure": "Improved from the 8/28 picture — Ollie's 8/27 traffic analysis shows real attention to her account — but during her 7-day silence after the ignored 8/19 instruction the only outreach was an invoice chase, and nobody has ever acknowledged that she went quiet or why.",
+      "evidence": [
+        {"quote": "Saw you had a reel do 32 million views the other day and then every other video is millions of views each as well", "who": "Ollie Mckinlay", "date": "2026-08-27"},
+        {"quote": "@alannaapow Hi love checking in on this", "who": "Stephski", "date": "2026-08-26"}
+      ]
+    },
+    "security_hygiene": {
+      "severity": 2,
+      "internal_failure": "New since 8/28: we invited her to post IG login credentials into a 10+-member group chat instead of a secure channel — she hasn't complied yet, which is the only reason no plaintext creds sit in this history.",
+      "evidence": [
+        {"quote": "Would you be willing to share the login credentials with us so our team can get started on posting content on the account?", "who": "Mayson Chat", "date": "2026-08-28"}
+      ]
+    }
+  },
+  "metrics": {
+    "client_questions_total": 9,
+    "unanswered_over_24h": 5,
+    "max_team_silence_days": 9,
+    "promises_made": 11,
+    "promises_kept": 5,
+    "promises_lapsed": 5,
+    "method": "Manual read of all 94 non-service messages (8/3-9/3). Prior 8 asks plus the 8/31 more-instas request (answered in 12h, warmup confirmed 9/1) = 9. Unanswered >24h: pause-chatting (15d, never), Aug 17/24/29 drop confirmations (never), 8/3 release send-out confirmation (never). Promises: prior 10 plus Michelle's IG warmup (in progress, not counted kept or lapsed) and Stephski's Zelle request (pending same-day); kept 5 (introductions, trailer, invoice on date, domain, reels brief); lapsed 5 (weekly DMCA reports, push-customs, drop confirmations, FAQ chase, IG takedown closure). Team silence max: 8/17 19:31 to 8/26 19:17."
+  },
+  "what_client_wanted": [
+    "Her custom content sold hard — 'Any new customs or try to sell heaps I’ll do them in the next few days' (8/15, offered again 8/26)",
+    "Her pinned five-date release calendar executed and confirmed (8/3)",
+    "Leak protection — 'Let me know what I need to do to get on top of my leaks' (8/12)",
+    "Us to take IG accounts off her plate — 'Would it possible to start more instas for me? I’m already running a lot myself' (8/31)"
+  ],
+  "what_worked": [
+    "Chatting quality won her trust in week one — 'Loving the chatting so far / It sounds so good' (8/8)",
+    "Ollie explaining strategy instead of dictating it — the Tip-$5 and trailer-conversion walkthroughs got 'Yes sounds good' (8/4-8/7)",
+    "Closing her more-IGs ask within a day — Mica answered same evening and Michelle confirmed the warmup next morning (8/31-9/1)"
+  ],
+  "top_fix": "Give her release calendar and customs pipeline a named owner who confirms every drop in-chat and books her offered customs into actual sales pushes — she keeps handing us revenue (customs, viral traffic, more IGs) and the only workstream that reliably closes the loop with her is collections."
+}

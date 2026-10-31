@@ -1,0 +1,99 @@
+# Kay Instagram Protection Client, Vivek Unban  [imessage #14588 GROUP]
+msgs=113 (in=95 out=18) window=2026-08-15..2026-09-07
+last_client=2026-09-07 (11d ago), last_derrek=2026-08-31 (18d ago)
+LAST MESSAGE FROM CLIENT — UNANSWERED: 'Yay. Please let me know'
+
+  ...
+[2026-08-15 21:23] DEREK: Vivek this is kay! She did an unban, and this was the account we are doing protection on. We need to get her removed content back cause it was copyright
+[2026-08-15 21:23] DEREK: They actively attacking
+[2026-08-15 21:23] DEREK: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/fe/14/at_0_9649D8B6-7ADE-4C68-8E12-C870ABCC6869/IMG_5837.png>
+[2026-08-15 21:23] DEREK: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/22/02/at_0_2D9FC7F3-B2C3-4F4F-BDF8-4731C7BEC2C0/IMG_5836.png>
+[2026-08-15 21:25] DEREK: Kay do me a favor and resend the logins to this specific page
+[2026-08-15 21:27] Kay Instagram Protection Client: ￼QQQAshBULLISHtf2026!!
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/f6/06/at_0_1FD89D26-3848-4DD3-BB58-ED6F84C7F240/IMG_5841.PNG>
+[2026-08-16 20:39] Kay Instagram Protection Client: ￼More posts are being removed 🥺🥺
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/14/04/at_0_ED1ECCE1-ACE5-4A7F-BF62-471C463953F6/IMG_5913.PNG>
+[2026-08-16 20:40] DEREK: Vivek
+[2026-08-16 20:40] Kay Instagram Protection Client: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/ac/12/at_0_8110E40D-F676-4938-B422-8C19C65C90D7/IMG_5914.PNG>
+[2026-08-16 21:35] Kay Instagram Protection Client: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/fa/10/at_0_078AC10B-DC94-44B8-AC7F-238FEC979C24/IMG_5927.PNG>
+[2026-08-16 21:35] DEREK: On it
+[2026-08-16 21:36] DEREK: Appeals will be out tonight
+[2026-08-16 21:37] Kay Instagram Protection Client: Do you guys need anything from me ?
+[2026-08-16 21:37] DEREK: We shouldn’t other than a login Approval in about an hour
+[2026-08-16 21:38] Kay Instagram Protection Client: Liked “We shouldn’t other than a login Approval in about an hour”
+[2026-08-16 21:41] Kay Instagram Protection Client: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/08/08/at_0_5FEFA7CC-3A59-47AE-9891-DCF40802B6A2/IMG_5928.jpeg>
+[2026-08-16 22:00] DEREK: Yep fixing that too
+  ...
+[2026-08-17 10:56] Kay Instagram Protection Client: This is the password
+[2026-08-17 10:56] Vivek Unban: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/f1/01/at_0_37F0D8CC-673F-4EAB-A91D-E2A5F4286412/Screenshot 2026-08-17 at 4.26.39 PM.png>
+[2026-08-17 10:57] Vivek Unban: Please provide the new password
+  ...
+[2026-08-17 12:15] Kay Instagram Protection Client: Ok
+[2026-08-18 21:26] Kay Instagram Protection Client: ￼￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/d8/08/at_0_96709342-E2D2-48E7-BAD8-5A6C5E46A978/IMG_5948.PNG>
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/d9/09/at_1_96709342-E2D2-48E7-BAD8-5A6C5E46A978/IMG_5947.PNG>
+[2026-08-18 22:13] Kay Instagram Protection Client: ￼￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/d6/06/at_0_6E5E36A8-C276-4BA8-ABBB-4372944926E0/IMG_5949.PNG>
+      <IMG OK: /Users/locklyjailbreak/Library/Messages/Attachments/d7/07/at_1_6E5E36A8-C276-4BA8-ABBB-4372944926E0/IMG_5950.PNG>
+[2026-08-18 22:14] Vivek Unban: Bro deactivate the account
+  ...
+[2026-08-18 22:18] Vivek Unban: Thank god
+[2026-08-22 21:31] Kay Instagram Protection Client: Hey Guys ! Any updates
+[2026-08-22 21:31] Vivek Unban: Hey Ma’am
+  ...
+[2026-08-22 21:38] Kay Instagram Protection Client: Mail access ? What does that mean ?
+[2026-08-22 21:51] DEREK: In order to appeal your Copyright strikes we need to send them from your email a certain way
+[2026-08-22 21:51] DEREK: So we would need some access to your email
+  ...
+[2026-08-22 21:55] Kay Instagram Protection Client: From my email
+[2026-08-22 22:09] Kay Instagram Protection Client: ￼￼￼
+      <IMG OK: /Users/locklyjailbreak/Library/Messages/Attachments/e2/02/at_0_9CD055B9-FF47-4283-98EE-A4286996A0D8/IMG_6009.png>
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/e3/03/at_1_9CD055B9-FF47-4283-98EE-A4286996A0D8/IMG_6008.png>
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/e4/04/at_2_9CD055B9-FF47-4283-98EE-A4286996A0D8/IMG_6007.png>
+[2026-08-23 00:37] Vivek Unban: Did you submitted
+[2026-08-23 00:37] Kay Instagram Protection Client: The appeal. Yes my team member did
+[2026-08-23 00:38] Vivek Unban: Did it got rejected
+[2026-08-23 00:39] Kay Instagram Protection Client: Still in review
+  ...
+[2026-08-27 23:44] Kay Instagram Protection Client: Hey what’s up
+[2026-08-27 23:44] Kay Instagram Protection Client: Any updates ?
+[2026-08-29 19:23] Vivek Unban: Hey
+  ...
+[2026-08-29 20:18] Kay Instagram Protection Client: What mail access ?
+[2026-08-29 20:18] Vivek Unban: The email which is connected to account
+[2026-08-29 20:18] Kay Instagram Protection Client: I can send the emails for you. Just send it to me
+[2026-08-29 20:18] Vivek Unban: Before sending email
+[2026-08-29 20:18] Vivek Unban: I need details to fill
+[2026-08-29 20:19] Vivek Unban: Open your Instagram
+[2026-08-29 20:19] Kay Instagram Protection Client: Okay. What details ? I can get them for you
+[2026-08-29 20:20] Vivek Unban: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/95/05/9535D88A-BAF3-4D69-A233-56B4FFAEB9D4/Screenshot 2026-08-30 at 1.50.24 AM.png>
+[2026-08-29 20:20] Vivek Unban: Can you get the report number and reporter name and email
+[2026-08-29 20:21] Kay Instagram Protection Client: Yes. It’s a bunch of them one sec
+[2026-08-29 20:21] Vivek Unban: Okay
+[2026-08-29 21:10] Kay Instagram Protection Client: ￼
+      <IMG MISSING non-image: >
+[2026-08-29 21:10] Kay Instagram Protection Client: Here’s everything from the beginning
+[2026-08-29 21:12] Vivek Unban: What’s your account password
+[2026-08-29 21:13] Kay Instagram Protection Client: Ssoe1234!!!1926
+[2026-08-29 21:13] Vivek Unban: Approval
+[2026-08-29 21:14] Vivek Unban: Text code
+[2026-08-29 21:14] Kay Instagram Protection Client: 115846 is your Instagram code. Don't share it.
+[2026-08-30 17:00] DEREK: Kay we’re ready to go. We just need to email Access to finish this.
+[2026-08-30 17:01] Kay Instagram Protection Client: Yay !
+[2026-08-30 17:01] Kay Instagram Protection Client: Can you send me what you’ll send and the email to send it to. And I’ll send it in
+[2026-08-30 19:48] Kay Instagram Protection Client: Lmk if that will work
+[2026-08-31 07:49] DEREK: No, we will need Email Acces for 24 hours
+[2026-08-31 07:49] DEREK: Only way to be able to do it
+[2026-08-31 07:49] DEREK: There’s too many different reasons to explain and resend and too many emails to respond to perfectly
+[2026-09-07 17:39] Kay Instagram Protection Client: No worries. I’ll make a new email and I’ll give you gouts access to that one!
+[2026-09-07 17:39] Vivek Unban: No nedd
+[2026-09-07 17:39] Vivek Unban: Need
+[2026-09-07 17:40] Vivek Unban: I have another method to remove
+[2026-09-07 17:40] Kay Instagram Protection Client: Yay. Please let me know

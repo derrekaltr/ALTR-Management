@@ -1,0 +1,93 @@
+# bbrontte  Disabled  [whatsapp #1178 GROUP]
+msgs=102 (in=78 out=24) window=2026-05-23..2026-07-11
+last_client=2026-07-10 (70d ago), last_derrek=2026-07-11 (69d ago)
+LAST MESSAGE from Derrek: '?'
+
+  ...
+[2026-05-23 06:05] 120363408852369854@g.us: 88270318870701@lid
+[2026-05-23 06:05] 88270318870701@lid: {"is_initially_empty":false,"reason":0,"context_group":null,"parent_group_jid":null,"is_open_group":true,"is_parent_group_general_chat":false,"is_hidden_sub_group":false,"show_membership_string":true,"author":"88270318870701@lid","parent_group_name":null,"subj…
+[2026-05-23 06:05] 88270318870701@lid: Yooo
+[2026-05-23 06:05] 88270318870701@lid: Romeo hit us up when you see this let get on a quick call
+[2026-05-23 06:06] DEREK: Yo yo
+[2026-05-23 06:06] 88270318870701@lid: Romeo will hit us up here in just a sec. Are you gonna be up for a while Derek
+[2026-05-23 06:13] DEREK: Yes
+[2026-05-23 07:17] 59695851171847@lid: Yo
+[2026-05-23 10:22] DEREK: Sorry guys
+[2026-05-23 10:22] DEREK: Missed this
+[2026-05-23 10:22] DEREK: Was passed out
+[2026-05-23 22:51] 88270318870701@lid: Hey brother, can you hop on a phone call today?
+  ...
+[2026-05-27 09:10] DEREK: Was on vacation
+[2026-05-27 09:10] DEREK: Lmk when free
+[2026-05-27 09:37] 59695851171847@lid: Yo free
+[2026-05-27 19:36] 88270318870701@lid: Yoo
+  ...
+[2026-05-29 02:22] 197405874085999@lid: nice to meet everyone!!
+[2026-05-29 02:23] 59695851171847@lid: Have you done unbans recently past 0-2 days
+[2026-05-29 02:23] 59695851171847@lid: What’s tat and price brother, help stream line this if it makes sense
+[2026-05-29 02:23] DEREK: Yes
+[2026-05-29 02:23] DEREK: I need: @: Email: Take a screenshot when you login and click “read more about this rule” A Screenshot of the email you received if you got one when it went down Follower Count:
+[2026-05-29 02:23] DEREK: Get this when you can
+[2026-05-29 02:23] DEREK: For each
+[2026-05-29 02:26] 197405874085999@lid: depends on every case brother, reason of ban, if it's suspended or perm disabled, etc
+[2026-05-29 18:26] 197405874085999@lid: Hey i have an instant rep in office, sending list by tonight, Price is $4k and TAT is 24 hours. Another option is manual unban through portal. Price is $2.5k and tat is 0-7 days. Whichever one suits your budget lmk thanks
+[2026-06-01 00:09] 59695851171847@lid: Hey bro any warentee client asked if it instant bans upon reinstating
+[2026-06-01 13:19] 197405874085999@lid: Depends on the case but yes
+[2026-06-01 18:37] 197405874085999@lid: send links of all accounts you wish to submit please price is 2.8k submitting rn
+[2026-06-02 19:14] 197405874085999@lid: ?
+[2026-06-03 00:36] 88270318870701@lid: Yo
+[2026-06-03 00:36] 88270318870701@lid: I have a case I need done
+[2026-06-03 00:36] 88270318870701@lid: Can yall do them?
+[2026-06-03 00:37] 88270318870701@lid: I need it done asap and have some questions call me right when you see this and we can submit it
+[2026-06-03 05:58] 88270318870701@lid: ???
+[2026-06-03 06:18] 59695851171847@lid: Have the unbans been working brother?
+[2026-06-03 18:09] 197405874085999@lid: Yes
+[2026-06-04 00:28] 59695851171847@lid: When is rep on next bro is there any eta
+[2026-06-04 00:37] DEREK: We’ve been doing portal unbans and they’ve been going through pretty quick
+[2026-06-04 00:46] 59695851171847@lid: What’s tat on them atm brother
+  ...
+[2026-06-04 00:48] 197405874085999@lid: Another one was same day
+[2026-06-04 00:49] 197405874085999@lid: If they’re unappealed
+[2026-06-04 00:55] 59695851171847@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363408852369854@g.us/8/4/844708f4-c5a1-42c4-91e7-0d4b570e5ffe.jpg>
+[2026-06-04 15:23] 197405874085999@lid: Okay
+  ...
+[2026-06-04 18:10] 197405874085999@lid: Okay
+[2026-06-05 22:47] 197405874085999@lid: bbrontte Disabled
+[2026-06-06 11:01] 197405874085999@lid: Rep available 6k instant. Lmk if you want to move forward send payment to Derrek. Needs to be with MM to proceed For permanently disabled accounts
+[2026-06-06 11:23] 59695851171847@lid: Everyone advertising this for 3k atm thanks anyways
+[2026-06-06 11:24] 197405874085999@lid: Tat?
+  ...
+[2026-06-06 11:53] 197405874085999@lid: Let me know how it goes brotha
+[2026-06-12 14:37] DEREK: Hey saw this still wasnt recovered. We have another option available for a more cost effective price, but the timeframe is 7-10 days. Price is around 3k
+[2026-06-13 02:23] 59695851171847@lid: Her case has been with someone else I’ll try get it back
+[2026-06-15 04:03] 88270318870701@lid: Yo
+[2026-06-15 04:03] 197405874085999@lid: Yo
+[2026-06-15 17:29] 88270318870701@lid: How much for unban
+[2026-06-15 17:30] 88270318870701@lid: That hasn’t been appleid
+[2026-06-15 17:30] 197405874085999@lid: 2k
+[2026-06-15 17:40] DEREK: @197405874085999 give him a better price. these guys will bring heavy
+[2026-06-15 17:42] 197405874085999@lid: ok only for you Derrek ill do it half the price
+[2026-06-15 17:42] 197405874085999@lid: 1k if you have enough cases brotha
+[2026-06-15 17:42] 197405874085999@lid: @88270318870701
+[2026-06-15 17:42] 88270318870701@lid: I wasn’t even gonna reply lol
+[2026-06-15 17:43] 88270318870701@lid: One K is cool. I could work with that for sure. What would you need?
+[2026-06-15 17:43] 197405874085999@lid: login
+[2026-06-15 17:43] 88270318870701@lid: OK perfect let me get the info
+[2026-06-15 17:43] 197405874085999@lid: ok
+[2026-06-15 17:43] 88270318870701@lid: And how fast can it come back?
+[2026-06-15 17:43] 197405874085999@lid: gonna need her id
+[2026-06-15 17:43] 197405874085999@lid: and also a selfie
+[2026-06-15 17:43] 197405874085999@lid: tat is 0-3 days
+[2026-06-15 17:43] 197405874085999@lid: usually same day
+[2026-06-15 17:44] 88270318870701@lid: OK, perfect
+[2026-06-15 17:44] 88270318870701@lid: Thank you
+[2026-06-15 17:44] 197405874085999@lid: anytime
+[2026-06-17 03:52] 59695851171847@lid: Yo any luck with rep lately
+[2026-06-18 03:08] 197405874085999@lid: Few cases submitted brother
+[2026-06-18 03:08] 197405874085999@lid: What’s up
+[2026-06-18 03:09] 197405874085999@lid: Did u get the logins yet brotha
+[2026-06-18 03:09] 197405874085999@lid: If u got multiple ill give u an even better deal
+[2026-07-10 14:29] DEREK: Yo, we have permanent unbans for $4500 pay after. And they’ve been coming back within a few hours. The max TAT is 48hrs
+[2026-07-10 17:27] 88270318870701@lid: I’ll do it
+[2026-07-11 01:06] DEREK: ?

@@ -1,0 +1,32 @@
+# Dias Diamonds, Jordan Reseller, Vivek Unban, Daniel Veritrad  [imessage #14779 GROUP]
+msgs=22 (in=17 out=5) window=2026-08-28..2026-09-08
+last_client=2026-09-08 (10d ago), last_derrek=2026-09-05 (13d ago)
+LAST MESSAGE FROM CLIENT — UNANSWERED: "You free this evening or when's best day"
+
+  ...
+[2026-08-28 15:08] Dias Diamonds: Hey derek this is my friend jordan , he is also having problems with his ig
+[2026-08-28 15:15] Jordan Reseller: Hi mate, if you got a minute, can you give me a call and I can explain appreciate it thank you
+[2026-08-28 17:27] DEREK: Hey great to meet you
+[2026-08-28 17:27] DEREK: I’ll be free in 30 minutes
+[2026-08-28 18:57] Jordan Reseller: Missed you I had a few calls
+[2026-08-28 18:58] Jordan Reseller: I'm av all day
+[2026-08-28 19:13] DEREK: Yo
+[2026-08-28 19:13] DEREK: I’m free call me
+[2026-09-05 13:10] Jordan Reseller: Tried a few times mate guess we keep missing each other
+[2026-09-05 13:10] Jordan Reseller: Hopefully we can get on a call today
+[2026-09-05 14:33] DEREK: Added my partners in here as I’m traveling right now
+[2026-09-05 15:19] Jordan Reseller: Thanks mate I will try and give him a call
+[2026-09-05 15:36] Jordan Reseller: https://www.instagram.com/sysqo/
+      <IMG MISSING non-image: /var/folders/pm/7nf_d_z10432qdgxmv9byh880000gn/T/com.apple.imtranscoding.IMTranscoderAgent/TemporaryItems/B411E58D-7FA5-43EB-8598-9645AA32B5FB/EA27B8D5-685A-470F-8ED5-500A193D4536.pluginPayloadAttachment>
+      <IMG OK non-image: /Users/locklyjailbreak/Library/Messages/Attachments/e8/08/C9EC2FAF-E41F-4AD3-8B16-BACA4C3E23E0/85190118-F38A-4D2E-8585-F83E2E63B11C.pluginPayloadAttachment>
+      <IMG MISSING non-image: >
+[2026-09-05 15:37] Jordan Reseller: This is the username claim I need
+[2026-09-05 15:59] Jordan Reseller: Let me know if possible to switch to new account, need solid method…
+[2026-09-07 11:47] Jordan Reseller: Lads is it possible too meet up and grab a coffee w diaz & you two couple things I need doing and would just like to shake your hands in person and talk numbers about a couple of things if you are cool with this... I know your busy - I don't sleep much
+[2026-09-07 14:39] Vivek Unban: Derrek
+[2026-09-07 14:40] Vivek Unban: Daniel
+[2026-09-07 14:40] Daniel Veritrade: Yo
+[2026-09-07 14:43] Jordan Reseller: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/a8/08/at_0_9023D388-8157-4DAC-8C02-A09123C19E0C/81048497374__F7BD05D5-4E83-41DC-828C-3EF5B190ABBE.heic>
+[2026-09-07 14:43] Jordan Reseller: I live right here
+[2026-09-08 21:39] Jordan Reseller: You free this evening or when's best day

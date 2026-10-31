@@ -1,0 +1,145 @@
+{
+  "client": "Vale",
+  "slug": "vale-x-altr",
+  "week_ending": "2026-08-08",
+  "summary": "The week opened with fallout from Vale's Aug 1 blow-up over a chatter falsely telling a fan that a girl-girl video featured her best friend Shayna; Ollie investigated, apologized, and briefed the chatter on Aug 2, and Vale flagged that the girl-girl videos should not be in her vault at all. The rest of the week was busy and mostly cooperative: she delivered a new sexting set (plus a missing video Ollie caught), uploaded wall pics and selfies, paid her invoice within days, and even referred another creator for management. Friction remains around video call scheduling, which has dragged for months and produced confusion again this week (Ryan/John mix-ups, Ryan rescheduling twice, and an unanswered request for fan notes before her Aug 8 call). Mood: engaged and loyal, but her trust in the chat team's honesty with fans is being tested.",
+  "health": {
+    "score": 70,
+    "trend": "new",
+    "rationale": "Client is highly engaged, pays on time, and referred a new creator, but recurring chatter-honesty incidents and months-long video call scheduling delays are eroding trust."
+  },
+  "reminders": [
+    {
+      "employee": "Ollie Mckinlay",
+      "topic": "Scheduling her pending paid video calls / 1:1 lives (fans have been waiting since spring)",
+      "count": 4,
+      "first_date": "2026-07-30",
+      "last_date": "2026-08-07",
+      "days_outstanding": 9,
+      "quotes": [
+        {"quote": "I think I have 3 video calls that I need booked, do you mind checking on those for me ?", "who": "Vale", "date": "2026-07-30"},
+        {"quote": "Pls let’s get those schedule they’ve been waiting for a minute", "who": "Vale", "date": "2026-07-30"},
+        {"quote": "I think I have more lives to schedule too", "who": "Vale", "date": "2026-08-03"},
+        {"quote": "Was a call booked for today ?", "who": "Vale", "date": "2026-08-07"}
+      ]
+    }
+  ],
+  "complaints": [
+    {
+      "issue": "Chatters lying to / scamming fans — a chatter told a fan a girl-girl video was her best friend Shayna; Vale has repeatedly warned that scam-feeling tactics hurt fan longevity and risk chargebacks",
+      "status": "recurring",
+      "first_raised": "2026-07-17",
+      "owner": "Ollie Mckinlay",
+      "quotes": [
+        {"quote": "Pls no scamming people ☹️", "who": "Vale", "date": "2026-07-17"},
+        {"quote": "I’ve gotten this a couple times now, please be mindful. I don’t wanna deal with crazy chargebacks", "who": "Vale", "date": "2026-07-23"},
+        {"quote": "Please don’t scam people", "who": "Vale", "date": "2026-08-01"},
+        {"quote": "I don’t want my fans to feel scammed !!!", "who": "Vale", "date": "2026-08-01"},
+        {"quote": "I’ve let him know now, so won’t happen again", "who": "Ollie Mckinlay", "date": "2026-08-02"}
+      ]
+    },
+    {
+      "issue": "Unauthorized girl-girl videos still in her vault — the featured girls no longer do OF and the content was supposed to be deleted; chat team was still sending it",
+      "status": "in_progress",
+      "first_raised": "2026-08-01",
+      "owner": "Ollie Mckinlay",
+      "quotes": [
+        {"quote": "She doesn’t do OF anymore and that video was supposed to be deleted from my vault", "who": "Vale", "date": "2026-08-01"},
+        {"quote": "Yeah the girl girl videos I have are not even supposed to be there", "who": "Vale", "date": "2026-08-02"},
+        {"quote": "Okay thank you will let them know", "who": "Ollie Mckinlay", "date": "2026-08-02"}
+      ]
+    },
+    {
+      "issue": "Paid video calls sold months ago left unscheduled (some sold in March–May; agency-switch handoff also lost customs and drive access in July)",
+      "status": "recurring",
+      "first_raised": "2026-05-22",
+      "owner": "Ollie Mckinlay",
+      "quotes": [
+        {"quote": "I think I’m still missing a video call too that we never scheduled", "who": "Vale", "date": "2026-05-22"},
+        {"quote": "Pls let’s get those schedule they’ve been waiting for a minute", "who": "Vale", "date": "2026-07-30"},
+        {"quote": "Also Ryan had to reschedule so I didn’t have a call with him", "who": "Vale", "date": "2026-08-07"}
+      ]
+    }
+  ],
+  "commitments": [
+    {
+      "what": "Brief the chatter so the Shayna misrepresentation won't happen again and tell the team the girl-girl videos are off-limits",
+      "who": "Ollie Mckinlay",
+      "date": "2026-08-02",
+      "status": "done",
+      "quotes": [
+        {"quote": "Checked on it - was a chatter we were warming up to your page, said the issue was Shayna is tagged on all your girl girl pics and videos", "who": "Ollie Mckinlay", "date": "2026-08-02"},
+        {"quote": "Apologies on our end", "who": "Ollie Mckinlay", "date": "2026-08-02"}
+      ]
+    },
+    {
+      "what": "Schedule Ryan's videocall (booked for 9pm Aug 3; fan rescheduled twice, now aimed at early next week)",
+      "who": "Ollie Mckinlay",
+      "date": "2026-08-03",
+      "status": "pending",
+      "quotes": [
+        {"quote": "Hey\n@valebragg05\nRyan has the videocall tonight at 9pm EST", "who": "Ollie Mckinlay", "date": "2026-08-03"},
+        {"quote": "He wanted to go for early next week i believe", "who": "Ollie Mckinlay", "date": "2026-08-08"}
+      ]
+    },
+    {
+      "what": "Send Vale a sexting-set template and a content request (promised 'in the morning' on Jul 28; never visibly delivered in chat, though Vale uploaded a set anyway)",
+      "who": "Ollie Mckinlay",
+      "date": "2026-07-28",
+      "status": "overdue",
+      "quotes": [
+        {"quote": "I’ll send you a template over in the morning getting 3 good new sexting sets", "who": "Ollie Mckinlay", "date": "2026-07-28"},
+        {"quote": "I’ll get a content request over in the morning", "who": "Ollie Mckinlay", "date": "2026-07-28"}
+      ]
+    }
+  ],
+  "payments": [
+    {
+      "note": "Invoice for Jul 15-31 sent Aug 1 (with $5,720 removed for referrals per Derrek); Vale had already paid before Stephski's Aug 4 check-in",
+      "date": "2026-08-01",
+      "late": false,
+      "reason": null,
+      "suggested_fix": "Check the Bank of America account for receipt before sending reminder nudges — Vale has consistently already paid when nudged, and repeat nudges risk annoying a reliably on-time payer",
+      "quotes": [
+        {"quote": "@stephskiii\nremove $5720 from invoice for referrals please", "who": "Derrek", "date": "2026-08-01"},
+        {"quote": "Just making sure you saw this 🙏", "who": "Stephski", "date": "2026-08-04"},
+        {"quote": "Hi yess already sent it", "who": "Vale", "date": "2026-08-04"}
+      ]
+    },
+    {
+      "note": "Pattern: three bank/invoicing changes since April (new account Apr 15, Mercury in June, Bank of America in July) caused Zelle/ACH failures in early July; Vale still paid on time every cycle",
+      "date": null,
+      "late": false,
+      "reason": null,
+      "suggested_fix": "Keep banking details stable and pre-test the payment rails (Zelle limits, ACH) with her bank before each cycle",
+      "quotes": [
+        {"quote": "Hi love! Hope you’re having an amazing weekend. Below is your invoice for the period of July 15th-31st. If you could please shoot over payment within the next 7 days that would be amazing! Let me know if I can help you with anything 💘", "who": "Stephski", "date": "2026-08-01"}
+      ]
+    }
+  ],
+  "client_priorities": [
+    "Fan trust and authenticity — no lying or scam-feeling chat tactics; she proactively sends day-to-day photos and voice notes so fans believe it's really her",
+    "Not underselling her content — pushed prices up after the team sold nude content for $30 in May; keeps clear minimums for calls and customs",
+    "Getting paid video calls, lives, and customs scheduled and delivered promptly so fans aren't left waiting months",
+    "Content boundaries — no B/G in the vault, unauthorized girl-girl videos removed, protecting friends' privacy (Shayna)",
+    "Avoiding chargebacks and account/vault hygiene after the agency-switch content losses"
+  ],
+  "suggestions": [
+    "Run a full vault audit with Vale this week: purge the unauthorized girl-girl videos and pre-nose-job content she flagged, and confirm the purge back to her in writing",
+    "Create a single video-call tracker (fan, amount paid, status, scheduled date) shared in the OnlyFans topic so she stops having to ask what's booked — the Ryan/John confusion on Aug 3 and 'Was a call booked for today ?' on Aug 7 were both avoidable",
+    "Always send fan prep notes proactively before her calls/lives (Fred used to do this); her Aug 7 request for notes on the Aug 8 11am OF call went unanswered in-chat",
+    "Give the chat team a written honesty guideline for her page (she accepts sales pushing but not fabrications about real people) and tell her it's been done — this is her #1 sore spot and it has now surfaced three times",
+    "Acknowledge and fast-track her referral (girl interested in management, Aug 3) — referrals from a happy client are worth protecting"
+  ],
+  "wins": [
+    "Vale referred another creator for management on Aug 3 ('I have a girl interested in management') — a strong trust signal",
+    "Aug 1 Shayna incident was investigated, explained, and apologized for within a day, and Vale moved on constructively",
+    "New sexting set + wall pics + day-to-day selfies delivered and uploaded; Ollie caught a missing video in the post-gym set and Vale filled the gap same day",
+    "Invoice paid within ~3 days of issue, continuing her perfect on-time payment record, and $5,720 in referral credits was applied to her invoice"
+  ],
+  "week_stats": {
+    "messages": 74,
+    "client_messages": 37,
+    "team_messages": 37
+  }
+}

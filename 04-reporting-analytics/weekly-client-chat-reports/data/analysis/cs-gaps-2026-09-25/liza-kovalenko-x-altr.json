@@ -1,0 +1,240 @@
+{
+  "client": "Liza Kovalenko",
+  "slug": "liza-kovalenko-x-altr",
+  "status": "at_risk",
+  "status_reason": "Fourteen months in she is still the best-behaved payer on the roster - she wired ~$13,000 across four wires in the last eleven days, two of them unprompted and before any invoice existed, volunteering tracking numbers and third-party sender names nobody asked for - and that is exactly the problem. On 2026-09-24 she broke eight days of quiet with seventeen messages in ninety-nine minutes across three topics: answered a fourteen-day-old content chase, delivered Ronnie's pending customs in thirty-three minutes, sent two wires with receipt photos, apologised for a delay that was ours ('Sorry for the delay in this . I lost the message from above'), and asked one question. Every one of those messages was still unanswered a day later, and we had been silent in the chat for the five days before she wrote. She has stopped asking about her three deleted Instagram accounts (25 days), stopped auditing her own invoices (two full cycles), and stopped responding to reel inspo (six consecutive drops). Fast payment plus zero asks is not health on this account - it is the last stage before the exit.",
+  "last_client_message": "2026-09-24",
+  "dimensions": {
+    "responsiveness": {
+      "severity": 3,
+      "internal_failure": "We answer fast when the reply is free (thanks, links, invoice acknowledgements - median in-thread lag 13h) and slowly or never when the reply requires a diagnosis, a number or an outcome; 22 of her 67 question threads went past 24h in-thread, the p90 lag is 187h, and the two threads never answered at all are both from her most recent day in the chat.",
+      "evidence": [
+        {
+          "quote": "Was it someone from the team that logged in ?",
+          "who": "Eli (client) - screenshotted an unrecognised login alert on her main IG into the OnlyFans Updates topic; no one in that thread replied for 15 days and nobody ever answered the question. 191 days old.",
+          "date": "2026-03-18"
+        },
+        {
+          "quote": "What exactly you need , reels/ picks?",
+          "who": "Eli (client) - the only question in her 17-message return on 09-24, blocking the Drive upload we had chased her for three times in 24 days. Zero replies from anyone; still open.",
+          "date": "2026-09-24"
+        },
+        {
+          "quote": "So out of all wires you only got 5k?",
+          "who": "Eli (client) - four days to a substantive answer while $5,000 of her money was unaccounted for on our side; she had to assemble the receipts herself to prove it.",
+          "date": "2026-08-26"
+        }
+      ]
+    },
+    "follow_through": {
+      "severity": 3,
+      "internal_failure": "Roughly 24 of the 38 explicit commitments we made over 14 months silently lapsed, and no promise on this account has ever had an owner once it left the chat - the client is the only person who would ever notice one died, and she has now stopped noticing.",
+      "evidence": [
+        {
+          "quote": "Okay on it",
+          "who": "Vivek (Meta Support Rep) - on receiving plaintext logins for @Lizakovaal / @lizkovalenkoo / @Lizaakovalenk0. He posted 'Check dms' the next afternoon and has not written in this chat since. 25 days, no outcome stated for any of the three handles.",
+          "date": "2026-08-31"
+        },
+        {
+          "quote": "Its currently in processing on hold ill let you know when it clears",
+          "who": "Stephski - on a $10,000 wire sent against a beneficiary name we changed the day before. Nine days later there is no clearance confirmation and she has not posted in the chat since writing this. In seven billing cycles no wire here has ever received an explicit 'cleared, $X received, balance $Y'.",
+          "date": "2026-09-16"
+        },
+        {
+          "quote": "ill get you full summary",
+          "who": "Derrek - the paid Instagram ads statistics she was charged an extra 5% for. Chased once ('Hi I will get it for you later tonight. I'm currently flying home', 2025-11-23) and never delivered. 311 days, the oldest open promise in the relationship and the only one attached to money she was billed extra for.",
+          "date": "2025-11-18"
+        }
+      ]
+    },
+    "proactive_communication": {
+      "severity": 3,
+      "internal_failure": "Almost everything we send unprompted is a template (invoice reminder), a bare link dump (eleven-plus blocks of raw Instagram URLs) or a request FROM her; we never once told her that her own ALTR-run Instagram accounts had been deleted - she told us - and our longest stretch of zero outbound in this chat is 27 days.",
+      "evidence": [
+        {
+          "quote": "All Instagram I gave you guys got deleted. Any news with recovery's?",
+          "who": "Eli (client) - she reported the loss of three accounts we were running for her, inside a reply to a content-upload chase. Nobody on our side had raised it.",
+          "date": "2026-08-30"
+        },
+        {
+          "quote": "Please do not send your backup codes to anyone, including our team.",
+          "who": "Mica Vecco - the single best proactive, non-billing message on this account in months (mass-logout warning, backup codes, selfie verification). It lands on her stated number-one priority and it has never been repeated; the following week she sent a content chase instead.",
+          "date": "2026-09-17"
+        },
+        {
+          "quote": "hi @xanaduexpress ! here are more reel ideas for you ❤️",
+          "who": "Mica Vecco - the sixth consecutive drop of bare Instagram links (2026-06-09, 07-10, 07-29, 08-13, 08-31, 09-15), each of which drew no response at all. We changed the cadence and never the format, while Ronnie's one specific named ask on 09-23 got full delivery in 33 minutes.",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "onboarding_handoff": {
+      "severity": 2,
+      "internal_failure": "Every week-one commitment - a named point of contact, a profile audit, a content call after the voice notes, an explanation of what the promo person actually does - was made and then abandoned, and nobody announced the handoff when those people left the account; five months in the owner was still having to tell the client which tab to file her own request in.",
+      "evidence": [
+        {
+          "quote": "I'm Liss, the Onboarding Manager here at ALTR, and I'll be your main point of contact as you get settled in.",
+          "who": "Lissy - ten messages in the whole 14 months, last one 2026-02-25, no handoff ever announced. The 'main point of contact' role has never been reassigned to anyone.",
+          "date": "2025-07-30"
+        },
+        {
+          "quote": "Hi Michelle! Nice to meet you exited to work together!! What is it exactly well gonna be doing ?",
+          "who": "Eli (client) - asked the promo lead directly what the service was on her intro day. No in-thread answer for 14 days, and no one ever explained it. Michelle has sent three messages in 13 months, one of which re-published a password.",
+          "date": "2025-09-08"
+        },
+        {
+          "quote": "if you would just put it in the takedown tab so the correct team can answer it",
+          "who": "Derrek - five months after kickoff the client is still routing her own tickets between topics because nobody told her who owns what. She had raised a verified Facebook impersonator in the general thread two days earlier and it sat unanswered.",
+          "date": "2025-12-06"
+        }
+      ]
+    },
+    "chatter_conduct": {
+      "severity": 2,
+      "internal_failure": "We sold customs on her behalf before ever briefing her on what customs were or agreeing limits, and when she asked whether platform flags endangered her account a chatter answered with a flat, confident reassurance that turned out to be wrong; the boundary conversations only happen after she pushes back.",
+      "evidence": [
+        {
+          "quote": "Hi Ronnie! I had never done custom videos before, I thought it's a topic for discussion with me first",
+          "who": "Eli (client) - responding to Ronnie's 'You have 2 that are currently pending'. Two customs had been sold before anyone asked her whether she does them or what her limits are; the limits question ('for future are you able to do this or is off limits ?') came only after she objected.",
+          "date": "2026-07-20"
+        },
+        {
+          "quote": "You can get 1000 flags / Nothing will ever happen",
+          "who": "Noah Chat - answering her direct question 'Ok. Is it going to affect my account ?' about OnlyFans content-removal flags. Confident, wrong, and never revisited when the same flag spread across whole messages in August.",
+          "date": "2026-01-28"
+        },
+        {
+          "quote": "Either way I'll clear it all with you before we sell anything.",
+          "who": "Nate (Noah) - the counter-example and the standard we should be holding: he priced her collab openly, explained the reasoning, and got her sign-off before selling. Six months later Ronnie sold customs with no brief at all.",
+          "date": "2026-01-20"
+        }
+      ]
+    },
+    "platform_health": {
+      "severity": 3,
+      "internal_failure": "Instagram integrity has been her stated number-one concern for 350 days and we have never once owned it end to end: recurring flags, shadowbans, deletions and account locks were met with generic tips and 'it's happening to everyone', the $40k Phone Farm and the Meta Support Rep were both sold as the fix, and three accounts have now been dead for 26 days with no status ever issued by anyone.",
+      "evidence": [
+        {
+          "quote": "So they randomly delete my photos / reels , they don't flat them, just delete straight away ... Do you know if there's something I can do about it ?",
+          "who": "Eli (client) - the third distinct escalation of the same problem in four months. Answered 4.5 days later with 'it's been happening with everyone! nothing you're doing wrong, just stay consistent'. No diagnosis, no appeal, no escalation path.",
+          "date": "2026-02-01"
+        },
+        {
+          "quote": "we had to invest over $40,000 into a new Phone Farm ... we will have plenty of updates starting next week",
+          "who": "Derrek - the promised update window was the week of 2026-08-09. It is 55 days later, he has not posted in this chat since 2026-08-04, and the accounts the Phone Farm was sold as protecting were deleted three weeks after this message.",
+          "date": "2026-08-01"
+        },
+        {
+          "quote": "hey babes this login below doesn't work, can you check on password when you get a chance pls 💕",
+          "who": "Michelle Queue - asking the client to troubleshoot the password of @Lizakovaal, an account she had told us was deleted twelve days earlier and for which Vivek was holding her credentials. Nobody on our side knows the state of her own accounts.",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "billing_ops": {
+      "severity": 3,
+      "internal_failure": "We have moved her banking details six times in twelve months (twice after 'last change I promise!'), stated credits in words rather than numbers for seven consecutive cycles, lost track of $5,000 of her money until she proved it with her own receipts, corrected it silently and never acknowledged it - and we have chased her twice for invoices she had already paid through a side channel we set up ourselves.",
+      "evidence": [
+        {
+          "quote": "Okay ive rolled over 7499.59 to this invoice so the new amount due is 4231.69",
+          "who": "Stephski - the silent correction of a $2,499.59 credit that was wrong by $5,000, five days after the client pushed back and gathered the wire receipts herself. No apology, no naming of the error, no explanation of what changed. 16 days on nobody has mentioned it, including the owner.",
+          "date": "2026-09-09"
+        },
+        {
+          "quote": "Please note a slight name change to the account, but the same account and wire info. This should help alleviate any bounce backs or issues moving forward.",
+          "who": "Stephski - the sixth banking change since 2025-09-27, announced inside an invoice, 76 days after 'last change I promise!' (2026-07-01). The last time details moved inside an invoice her wires bounced, costing her an in-person branch trip in Mexico, a 21-day reconciliation and the $5,000 error.",
+          "date": "2026-09-15"
+        },
+        {
+          "quote": "I've deducted the overpayment from last period + the 1500 you sent earlier",
+          "who": "Stephski - cycle seven of stating credits with no gross, no credit figure and no net due. This is the exact defect that hid the $5,000 error; she used to catch it ('How much did you deduct babe?', 'It's lacking 200$') and has now stopped checking entirely.",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "ownership_escalation": {
+      "severity": 3,
+      "internal_failure": "Nothing on this account has a named owner, so a chatter has become the de facto router - Mayson has relayed her messages onward with '@stephskiii ^^' or '@fonta ?^^' five separate times - and two different staff have cold-asked her for the same Facebook access six months apart without either of them knowing the other existed.",
+      "evidence": [
+        {
+          "quote": "Which dms ?",
+          "who": "Eli (client) - replying to Vivek's 'Check dms' about her three deleted accounts. Vivek never answered; three days later Mayson answered for him with 'Check his telegram', and the thread died there.",
+          "date": "2026-08-31"
+        },
+        {
+          "quote": "Hey @xanaduexpress do you have a facebook account available to use?",
+          "who": "Mayson Chat - a cold second ask with no reference to Mica's identical unanswered request of 2026-03-11 (198 days open, never followed up), no reference to the Facebook topic created in January, and no awareness that she declined FB management in Jan 2026 after growing 110k followers herself in two months. Nine days unanswered; nobody has chased either ask.",
+          "date": "2026-09-16"
+        },
+        {
+          "quote": "@stephskiii ^",
+          "who": "Mayson Chat - relaying the client's payment question onward for the fourth time (07-23, 07-30, 09-08, 09-14). The person the client actually needs is reachable only via a chatter tagging them, and the owner does the same thing ('@stephskiii', Derrek, 2026-07-15 and 2026-07-31).",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "disengagement_detection": {
+      "severity": 3,
+      "internal_failure": "Every early churn signal this account has produced - six consecutive non-responses to reel inspo, narrowing to billing-only, going 25 days without asking about her own deleted accounts, two full cycles without auditing an invoice - was read as things being fine, and when she broke out of it herself with 17 messages we were not in the room to notice.",
+      "evidence": [
+        {
+          "quote": "Sorry for the delay in this . I lost the message from above",
+          "who": "Eli (client) - apologising to us for a fourteen-day gap that was ours, sixteen days after we under-credited her by $5,000 and never mentioned it. Fourteen months of goodwill is being spent down and nobody on our side has registered the cost.",
+          "date": "2026-09-24"
+        },
+        {
+          "quote": "Yes we doing amazing job 😍😍🫶🏻🫶🏻",
+          "who": "Eli (client) - six days after the $5,000 error, and the last warm non-billing thing she has said. In the nine days that followed she asked zero payment questions, wired $11,500, and we read the silence as a fixed account.",
+          "date": "2026-09-15"
+        },
+        {
+          "quote": "Hey @xanaduexpress! 💕 Just a quick reminder to please upload your content to the Google Drive when you get a chance so we can keep everything organized and up to date. Thank you!!",
+          "who": "Mica Vecco - the third content chase in 24 days (Mayson 08-30, Michelle 09-10, Mica 09-23) while her three Instagram accounts sat dead with no status. The only outbound we generated in a five-day silence was another ask.",
+          "date": "2026-09-23"
+        }
+      ]
+    },
+    "security_hygiene": {
+      "severity": 3,
+      "internal_failure": "We asked this client for plaintext account passwords in a 15-plus person group chat that includes outsourced vendor accounts, then one of our own staff copied one of those passwords out of the scrollback and re-posted it as a fresh message twelve days later; 25 days on, neither message has been deleted, nothing has been rotated, membership has changed three times since, and she has never been told.",
+      "evidence": [
+        {
+          "quote": "Hey Ma'am please send me id password",
+          "who": "Vivek - requesting credentials for three Instagram accounts in the open group chat rather than a private channel. She complied the next morning, posting '@Lizakovaal / [REDACTED-PASSWORD]' and two more logins in clear text.",
+          "date": "2026-08-30"
+        },
+        {
+          "quote": "hey babes this login below doesn't work, can you check on password when you get a chance pls 💕 / @Lizakovaal / [REDACTED-PASSWORD]",
+          "who": "Michelle Queue - re-publishing the client's plaintext password as a new message. The room now holds it twice. On 2026-09-24 she replied to this exact message with 'Also let me double check on this log in' - she is walking into our own leak and the clock is hers, not ours.",
+          "date": "2026-09-12"
+        },
+        {
+          "quote": "FB login / Username - Email/phone: / Password:",
+          "who": "Mica Vecco - the same pattern ten months earlier, asking for Facebook credentials to be typed into the group chat. This is a standing habit on this account, not a one-off lapse by one person.",
+          "date": "2025-10-27"
+        }
+      ]
+    }
+  },
+  "metrics": {
+    "client_questions_total": 67,
+    "unanswered_over_24h": 22,
+    "max_team_silence_days": 27,
+    "promises_made": 38,
+    "promises_kept": 14,
+    "promises_lapsed": 24,
+    "method": "Full history 2025-07-24 to 2026-09-24, 1087 non-service messages (547 client / 540 ALTR+vendor). Client = 'Eli' per config/clients.yaml; everyone else is our side. Client messages were grouped into 259 bursts (same forum topic, gaps under 6h); 67 bursts contained a question mark. 'Unanswered >24h' = no ALTR message in the same forum topic (reply chains resolved to their topic) within 24h of the burst's last message - 22 bursts, of which 2 were never answered at all, both from 2026-09-24. Median in-thread reply lag 13.2h, p75 74.9h, p90 187.4h. Max team silence = longest gap between consecutive ALTR messages (27.0 days, 2026-05-05 to 2026-06-01; runners-up 12.3d, 11.8d, 11.0d, plus a 5-day total silence 09-18 to 09-23). Promises = explicit first-person commitments by our side to do a specific thing ('I'll get you X', 'on it', 'I'll let you know when Y', named calls, announced recurring deliverables); counted 38, of which 14 were visibly delivered in-chat and 24 lapsed with no delivery and no explanation."
+  },
+  "what_client_wanted": [
+    "Her Instagram accounts kept alive and recovered when they die - her stated number-one priority for 350 days, and the thing she pays us for: 'All Instagram I gave you guys got deleted. Any news with recovery's?' (2026-08-30), and earlier 'Something weird is happening to my instagram, it's being locked \"for security reasons or possible hack\" ... Do you guys have any ideas how I could possibly solve it?' (2025-10-25).",
+    "Definitive answers about platform warnings - whether a flag actually endangers her account - not workarounds: 'Ok. Is it going to affect my account ? Or they just delete photos and that's it ?' (2026-01-28) and 'So I just tag someone and that's it ?' (2026-08-09).",
+    "Specific, executable direction instead of link dumps - she has asked for this in almost identical words three times across a year: 'I would like to receive the content ideas / scripts so it's easier for me to make content I know exactly what content you need!' (2025-09-09), 'Please let me know what content you guys need' (2025-10-03), 'What exactly you need , reels/ picks?' (2026-09-24).",
+    "Confirmation that her money landed and what we hold, without having to chase it: 'Lmk when it hits' (2026-09-09), 'Pls let me know all these was sent and didn't bounce back' (2026-09-08), and visibility into what she pays extra for: 'we increased the 5% for this month in order to try out the paid Instagram ads, I wanna know how it's going so far. Is there any statistics I can see?' (2025-11-18)."
+  ],
+  "what_worked": [
+    "DMCA takedowns run as a closed loop - Nick named the problem, gave an ETA ('ETA on these removals will be 2-8 days'), reported the outcome with a screenshot, and got the warmest praise on the account: 'Amazing thank you Nick great job 👏' (2025-12-11). That exact service has produced nothing for 205 days and the dedicated topic is dead.",
+    "A specific, named, concrete ask gets same-day delivery from this client. Ronnie posted 'pending customs above' with the live tracking sheet at 01:45 on 2026-09-23; she picked it up the next afternoon with 'I can make these done today' and posted the Dropbox folder 33 minutes later - 'Here the link', 'All done ☑️'. Nobody acknowledged it.",
+    "Staying in the thread in real time while a problem is live. Mica spent an hour with her through the October shadowban ('Don't worry the shadowban will go away in a few days as long as you removed the flagged posts', 'I'm here if anything else happens!!', 2025-10-10) and Sophie ran actual calls with written debriefs - 'Was a pleasure you so nice!! ❤️ thank you for sending this over too xx' (2025-09-18). Both cadences have since stopped."
+  ],
+  "top_fix": "Give every open item on this account one named owner and force a dated status post from that owner even when the status is 'no progress' - because nothing here failed by doing the wrong thing, it failed by going quiet. The first instance is billing: within 24h of any wire, the owner posts 'Received $X on [date] from [sender], $Y credited to next invoice, balance $Z'. That one rule alone would have surfaced the $5,000 under-credit in a day instead of eight, would have closed out the $10,000 that has now sat unconfirmed for nine days against a beneficiary name we changed the day before, and would have made the second thing unavoidable: a named owner for the three deleted Instagram accounts, whose first status post has to be the one telling her that her own password is sitting in this chat twice and rotating it before she opens that message herself."
+}

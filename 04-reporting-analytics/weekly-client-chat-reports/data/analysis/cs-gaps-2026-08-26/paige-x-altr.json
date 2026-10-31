@@ -1,0 +1,219 @@
+{
+  "client": "Paige",
+  "slug": "paige-x-altr",
+  "status": "at_risk",
+  "status_reason": "Still engaging (8/26 IG rule flag) and still thanking us, but four IG episodes in 29 days with no explanation, credentials repeatedly posted in the group and never rotated, the 8/15 invoice unacknowledged 11 days (first time she hasn't replied), and zero visible service output in 63 days. Referral from Chey Mai, who is herself at risk.",
+  "last_client_message": "2026-08-26",
+  "dimensions": {
+    "responsiveness": {
+      "severity": 1,
+      "internal_failure": "Vivek answers in minutes and Stephski chases on cadence; the gaps are the unexplained 'wrong page approval' and 'Hell nah' (12 days), and the missing 'will update' on 8/14.",
+      "evidence": [
+        {
+          "quote": "No you give me on wrong page approval",
+          "who": "Vivek (ALTR Meta support)",
+          "date": "2026-08-14"
+        },
+        {
+          "quote": "what the hell hold on",
+          "who": "Paige (client)",
+          "date": "2026-08-14"
+        },
+        {
+          "quote": "Hell nah",
+          "who": "Vivek (ALTR Meta support)",
+          "date": "2026-08-14"
+        }
+      ]
+    },
+    "follow_through": {
+      "severity": 3,
+      "internal_failure": "'Will update shortly' never came; 'Send login in dm' was followed by collecting it in the group; Mica's call 'speak soon' never held; owner's 'updates starting next week' 25 days silent; Michelle silent 39 days after 'let me know once you upload'.",
+      "evidence": [
+        {
+          "quote": "Will update shortly",
+          "who": "Vivek (ALTR Meta support)",
+          "date": "2026-08-14"
+        },
+        {
+          "quote": "Send login in dm",
+          "who": "Vivek (ALTR Meta support)",
+          "date": "2026-08-13"
+        },
+        {
+          "quote": "no worries queen! speak soon 🤍",
+          "who": "Mica Vecco (ALTR social)",
+          "date": "2026-07-06"
+        }
+      ]
+    },
+    "proactive_communication": {
+      "severity": 3,
+      "internal_failure": "In 63 days no posting report, growth number or OF update has ever been posted; the only unprompted service touches were two reel-inspo link dumps (stopped 8/13) and the 8/1 owner update that then lapsed. 8- and 9-day silences.",
+      "evidence": [
+        {
+          "quote": "oh wow! thats insane hopefully it works out thank you for updating me 💗 im excited to see where this goes.",
+          "who": "Paige (client)",
+          "date": "2026-08-01"
+        },
+        {
+          "quote": "hi @paigeleighx! here’s your reel inspo for the week 🩷",
+          "who": "Mica Vecco (ALTR social)",
+          "date": "2026-08-13"
+        },
+        {
+          "quote": "Thank you for your understanding, we will have plenty of updates starting next week.",
+          "who": "Derrek (ALTR owner)",
+          "date": "2026-08-01"
+        }
+      ]
+    },
+    "onboarding_handoff": {
+      "severity": 2,
+      "internal_failure": "New to Telegram, she missed every intro and the first invoice for 12 days until pinged; the socials call ('ill book now') was never confirmed held; sales form and Drive uploads never confirmed; no account manager ever introduced — the OF contact (Mayson) vanished after 6/29.",
+      "evidence": [
+        {
+          "quote": "oh i didnt see this sorry im new to telegram ill do this now x",
+          "who": "Paige (client)",
+          "date": "2026-07-06"
+        },
+        {
+          "quote": "hii sorry im new to telegram still figuring it out 😂 ill book now xx",
+          "who": "Paige (client)",
+          "date": "2026-07-06"
+        },
+        {
+          "quote": "yeah how do i do it",
+          "who": "Paige (client)",
+          "date": "2026-08-14"
+        }
+      ]
+    },
+    "chatter_conduct": {
+      "severity": 1,
+      "internal_failure": "No conduct issue raised, but there is no in-chat confirmation her do-not-sell form was completed and no chatter has ever posted here.",
+      "evidence": [
+        {
+          "quote": "When you're able please fill out the form that will give the team everything they need to know about yourself AND the ability to sell in confidence.",
+          "who": "Mayson (ALTR chatter)",
+          "date": "2026-06-25"
+        }
+      ]
+    },
+    "platform_health": {
+      "severity": 3,
+      "internal_failure": "Four IG episodes (7/29, 8/13-14, 8/20-21, 8/26): fast fixes, zero diagnosis or plain-English explanation; a login approval for a page that isn't hers was requested and never explained; she believes she was hacked.",
+      "evidence": [
+        {
+          "quote": "no i just got logged out made me confirm my details thinking i was hacled",
+          "who": "Paige (client)",
+          "date": "2026-08-14"
+        },
+        {
+          "quote": "i had to change my password again",
+          "who": "Paige (client)",
+          "date": "2026-08-21"
+        },
+        {
+          "quote": "Ma’am can you click on read more about this rule and take a screenshot",
+          "who": "Vivek (ALTR Meta support)",
+          "date": "2026-08-26"
+        }
+      ]
+    },
+    "billing_ops": {
+      "severity": 2,
+      "internal_failure": "First cycle 20 days late because she never saw the topic; wire receipts never confirmed in chat; 8/15 invoice changed the bank account number with no confirmation she saw it, then an 11-day gap before a nudge.",
+      "evidence": [
+        {
+          "quote": "Hey @paigeleighx just making sure you saw this 🙂",
+          "who": "Stephski (ALTR billing)",
+          "date": "2026-07-06"
+        },
+        {
+          "quote": "Please note an update to the account number, please try and send using the information on the invoice.",
+          "who": "Stephski (ALTR billing)",
+          "date": "2026-08-15"
+        },
+        {
+          "quote": "@paigeleighx Making sure you saw this",
+          "who": "Stephski (ALTR billing)",
+          "date": "2026-08-26"
+        }
+      ]
+    },
+    "ownership_escalation": {
+      "severity": 2,
+      "internal_failure": "No AM; the account has collapsed to one unsupervised vendor-style contact (Vivek) for IG and Stephski for invoices; owner and promo silent for weeks.",
+      "evidence": [
+        {
+          "quote": "Hey Ive added Vivek in here ( @fonta ). He is our Meta Support Rep … simply @ him in the chat and he will help.",
+          "who": "Derrek (ALTR owner)",
+          "date": "2026-07-29"
+        },
+        {
+          "quote": "@fonta",
+          "who": "Paige (client)",
+          "date": "2026-08-26"
+        }
+      ]
+    },
+    "disengagement_detection": {
+      "severity": 1,
+      "internal_failure": "Still active, but every client message since 7/29 is an IG fire drill; nobody has asked how she's feeling after three lockouts, and her first unacknowledged invoice went unnoticed for 11 days.",
+      "evidence": [
+        {
+          "quote": "perfect thank you so much",
+          "who": "Paige (client)",
+          "date": "2026-08-21"
+        },
+        {
+          "quote": "@paigeleighx Making sure you saw this",
+          "who": "Stephski (ALTR billing)",
+          "date": "2026-08-26"
+        }
+      ]
+    },
+    "security_hygiene": {
+      "severity": 3,
+      "internal_failure": "Password, email, phone, WhatsApp/2FA codes and a backup code were posted in the group on 7/29, 8/13, 8/14, 8/20 and 8/21 (≈10 messages) at our request; 'Send login in dm' was said once then ignored; nothing rotated or deleted; the password got weaker; ALTR's own bank details sit in the same chat. (Values deliberately not reproduced here.)",
+      "evidence": [
+        {
+          "quote": "Share login",
+          "who": "Vivek (ALTR Meta support)",
+          "date": "2026-07-29"
+        },
+        {
+          "quote": "Send login in dm",
+          "who": "Vivek (ALTR Meta support)",
+          "date": "2026-08-13"
+        },
+        {
+          "quote": "Send id password",
+          "who": "Vivek (ALTR Meta support)",
+          "date": "2026-08-20"
+        }
+      ]
+    }
+  },
+  "metrics": {
+    "client_questions_total": 8,
+    "unanswered_over_24h": 2,
+    "max_team_silence_days": 9,
+    "promises_made": 8,
+    "promises_kept": 2,
+    "promises_lapsed": 6,
+    "method": "Client asks: upload confusion 7/18, can't share links 7/29, 'please help' 8/13, 'how do i do it' 8/14, 'what the hell' 8/14, screenshot after 'Hell nah' 8/14, password reset 8/21, rule flag 8/26. Unanswered >24h: the two 8/14 items never explained. Team silence = 8/4→8/13. Promises: Mica weekly ideas, Mica call, Vivek 7/29 update (kept), 'login in dm', 'update shortly', Derrek updates, Stephski 'tomorrow' (kept), Michelle promo output."
+  },
+  "what_client_wanted": [
+    "Her IG kept alive and safe — the only thing she has ever raised: 'hey @fonta ive just realised i cant share links xx' (2026-07-29), 'i had to change my password again' (2026-08-21)",
+    "Hand-holding, not commands: 'im new to telegram still figuring it out 😂' (2026-07-06), 'yeah how do i do it' (2026-08-14)",
+    "To see the promised IG programme work: 'im excited to see where this goes. thank youu. xx' (2026-08-01)"
+  ],
+  "what_worked": [
+    "Vivek's speed — 7/29 fixed within the hour ('thank you so much x'), 8/21 fixed in 7 minutes ('perfect thank you so much')",
+    "Owner transparency on 8/1 — 'thats insane hopefully it works out thank you for updating me 💗'",
+    "Stephski's gentle reminder tone — 'Its okay! Thats why I ping reminders haha' (2026-07-07) → she pays every cycle"
+  ],
+  "top_fix": "Owner-level today: rotate her IG password, move to an authenticator, delete the credential messages, and ban credential collection in client groups; then assign a named AM who explains each IG episode in plain English and posts a short monthly 'what we did for you'."
+}

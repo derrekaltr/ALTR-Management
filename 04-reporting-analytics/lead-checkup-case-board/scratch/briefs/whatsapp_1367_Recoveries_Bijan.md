@@ -1,0 +1,27 @@
+# Recoveries Bijan  [whatsapp #1367 GROUP]
+msgs=21 (in=17 out=4) window=2026-06-19..2026-07-29
+last_client=2026-07-12 (68d ago), last_derrek=2026-07-29 (51d ago)
+LAST MESSAGE from Derrek: 'Hey, just wanted to give a quick update. I’ve parted ways with Kartik for the social media recoveries. He’s still going to be working on them, so if you have a pending case that’s owed or any future c…'
+
+  ...
+[2026-06-19 18:00] 228423674904659@lid: {"parent_group_jid":null,"author":"228423674904659@lid","parent_group_name":null,"is_initially_empty":false,"should_use_identity_header":true,"is_parent_group_general_chat":false,"show_membership_string":true,"context_group":null,"is_open_group":true,"reason":…
+[2026-06-19 18:00] 120363427019905036@g.us: 228423674904659@lid
+[2026-06-19 18:01] 228423674904659@lid: Bijan, meet Derek He’ll be able to sort you
+[2026-06-19 18:02] 228423674904659@lid: D, Bijan has about 10 accounts over 4m followers here looking to recover
+[2026-06-19 19:50] 197405874085999@lid: 15618011087@s.whatsapp.net
+[2026-06-19 19:51] DEREK: hey kartik this is zach and bijan. He has 10 accounts over 4m followers he needs to recover
+[2026-06-19 22:26] 117209674293443@lid: Hey guys, thanks for the intro.
+[2026-06-19 22:29] 117209674293443@lid: @197405874085999 what makes your recovery services better than the others? Many people are offering unbans now with zero guarantees. For example my smallest account, with 0 followers that was private, was permanently disabled. When I spoke to meta they said I …
+[2026-06-20 01:11] DEREK: The reason they don’t offer warranties is because they can’t control it. We can’t control it either unfortunately. They’re admitting that AI is fucking up and they’re also admitting that they don’t know why they didn’t think of that while their head of staff w…
+[2026-06-20 02:26] 197405874085999@lid: Hey brother please to make your acquaintance
+[2026-06-20 02:26] 197405874085999@lid: Only way i could consider myself different is that im probably the only indian that wont scam u
+[2026-06-20 02:28] 197405874085999@lid: Jk haha, we take care of all our clients, explain to them why the ban/ restrictions happened, give them protocols to follow to not let it happen again. we dont want you to come to us again for the same issue, rather send us people who may need our service
+[2026-06-20 02:39] 117209674293443@lid: How much are you charging?
+[2026-06-20 02:40] 197405874085999@lid: depends on case brother
+[2026-06-20 02:43] 117209674293443@lid: Ok. So out of all 10 IG pages, 2 of them were taken down for review. 1 account was my private business account, with 0 posts and 0 followers. 2nd account triggered was a 300k page with 0 posts on it. Both taken down for no reason and bushit excuses from Meta c…
+[2026-06-22 01:25] 197405874085999@lid: are they permanently disabled
+[2026-06-22 01:25] 197405874085999@lid: can you please share current screenshots of login please so i can better assist u
+[2026-07-03 18:44] 197405874085999@lid: Bro
+[2026-07-11 01:57] DEREK: Hey bro, do you still need help? We have a rep in office that’s getting them back very fast right now.
+[2026-07-12 23:11] 197405874085999@lid: hey sending list let us know if you got any cases, only need username. 4k pay after \
+[2026-07-29 20:17] DEREK: Hey, just wanted to give a quick update. I’ve parted ways with Kartik for the social media recoveries. He’s still going to be working on them, so if you have a pending case that’s owed or any future cases, feel free to send to him. Just wanna clarify moving fo…

@@ -1,0 +1,373 @@
+{
+  "client": "Hannah",
+  "slug": "hannah-x-altr",
+  "client_display_name": "Bells Vale Referral",
+  "status": "churned",
+  "status_reason": "Quit 2026-07-06 after 5.5 weeks ('I'm going to take over my account and work independently'); nobody on our side ever replied to the exit message, and the only contact since has been two invoice chases (8/2, 8/4) that went unanswered.",
+  "last_client_message": "2026-07-06",
+  "onboarded": "2026-05-28",
+  "churn_date": "2026-07-06",
+  "tenure_days": 39,
+  "dimensions": {
+    "responsiveness": {
+      "severity": 2,
+      "internal_failure": "Simple questions routinely took 1-3 days and often needed a repeat nudge; one question (paid promo) was never answered at all. Typical lag on non-billing asks: same day to ~26h; on anything requiring 'the team': 3-7 days.",
+      "evidence": [
+        {
+          "quote": "Hey! Derrek had mentioned some paid promo that you guys do and I see there's a folder for that, what do I put in there and what is being promoted?",
+          "who": "Bells Vale Referral",
+          "date": "2026-06-02",
+          "note": "Mica replied '@sotom225 will reach out to you soon' — nobody ever did."
+        },
+        {
+          "quote": "I don't see an email",
+          "who": "Bells Vale Referral",
+          "date": "2026-06-03",
+          "note": "Zelle email not supplied until 6/4 20:03 (~26h) — 'Apologies here it is'."
+        },
+        {
+          "quote": "All those leaks are still up were you able to report them",
+          "who": "Bells Vale Referral",
+          "date": "2026-06-28",
+          "note": "Second nudge on the same leaks; 'let me check on this with the team' 6/29, substantive answer 7/1 (3 days)."
+        }
+      ]
+    },
+    "follow_through": {
+      "severity": 2,
+      "internal_failure": "Several commitments were made once and never revisited: Orlando photographers, promo intro, the CEI custom Fred said the team would 'push', confirmation that reported leaks came down, and our own final invoice.",
+      "evidence": [
+        {
+          "quote": "hi Bella! we've reached out to some photographers in orlando so we can get you covered on that end - following up with them now :)",
+          "who": "Mica Vecco",
+          "date": "2026-06-08",
+          "note": "Never mentioned again in 4 weeks; client had asked 6/4 to 'schedule to come down to miami… and take some with the camera guy'."
+        },
+        {
+          "quote": "We wanted to check you would be up for it before pushing, we'll avoid specifying a time.",
+          "who": "FRED | OFM",
+          "date": "2026-06-17",
+          "note": "Client set a $150 minimum the same day; the custom never surfaced again."
+        },
+        {
+          "quote": "Hi Bella Hope you're doing well, can you shoot over your final earning statements for 7/1-7/7? So we can issue our final invoice for you",
+          "who": "Stephski",
+          "date": "2026-08-02",
+          "note": "27 days after exit; still not issued as of 8/26."
+        }
+      ]
+    },
+    "proactive_communication": {
+      "severity": 2,
+      "internal_failure": "Mayson ran weekly calls and Mica/Michelle sent templated inspo and leak stats, but not one written revenue/subscriber/traffic update was ever posted unprompted. The only performance number she ever saw was Fred explaining a bad day. Longest zero-outbound stretch pre-churn: 3 days (6/18-6/22, 6/11-6/15); post-churn: 23 days (7/10-8/2).",
+      "evidence": [
+        {
+          "quote": "Hey - the main reason we're not making as much money as usual is because we're on 4 subs today so far (based of UK time), yesterday and days before there's been an average of 60-70 subscribers a day.",
+          "who": "FRED | OFM",
+          "date": "2026-05-30",
+          "note": "Only stats ever shared, and only because she sent a voice note asking."
+        },
+        {
+          "quote": "hi Bella ! here's some more reel inspo 🤍",
+          "who": "Mica Vecco",
+          "date": "2026-07-10",
+          "note": "Templated inspo sent 4 days AFTER she quit — nobody had read the exit message."
+        },
+        {
+          "quote": "Hi love! Here's your weekly update on the leak removal breakdown for the past 7 days 🫶🏼",
+          "who": "Michelle Queue",
+          "date": "2026-07-10",
+          "note": "Same: template continued post-churn."
+        }
+      ]
+    },
+    "onboarding_handoff": {
+      "severity": 2,
+      "internal_failure": "Week 1 was messy: old team still logged in, promos queued by someone else, Calendly confirmation never arrived, Google Drive uploads failed for 2 days, and 'who handles paid promo' (which Derrek pitched in sales) was never assigned — she asked twice.",
+      "evidence": [
+        {
+          "quote": "There are also people still messaging on the account - is this the old team?",
+          "who": "FRED | OFM",
+          "date": "2026-05-29",
+          "note": "Day 2: account still shared with prior team; Mayson: 'Bella you have to change the password'."
+        },
+        {
+          "quote": "Derrek mentioned promo so probably will need that lol",
+          "who": "Bells Vale Referral",
+          "date": "2026-05-31",
+          "note": "Raised again 6/2; never picked up by anyone."
+        },
+        {
+          "quote": "It keeps saying it can't upload them not sure why",
+          "who": "Bells Vale Referral",
+          "date": "2026-06-03",
+          "note": "Resolved 6/4 via shared iCloud; script uploads hit the same problem again 6/27."
+        }
+      ]
+    },
+    "chatter_conduct": {
+      "severity": 1,
+      "internal_failure": "Mostly fine — Fred checked before pushing the CEI custom. But a video call was sold with 'Duration : Not discussed' and relayed to her after she had already done it, and the team was openly relying on 'spamming' the old spenders.",
+      "evidence": [
+        {
+          "quote": "Hey Bella the team sold a video call - please let me know when you will be available! Here are the only discussed details: … paid amount: $150/ $150 / fans request:VC on Snap / Duration : Not discussed",
+          "who": "FRED | OFM",
+          "date": "2026-06-18",
+          "note": "Her reply: 'I did the call already' — chat team and model out of sync."
+        },
+        {
+          "quote": "as you said, they're very use to being spammed and until we're able to build an audience of people who're catered to our prices, our spending habits the team will bring the most out of the older spenders.",
+          "who": "FRED | OFM",
+          "date": "2026-05-30"
+        },
+        {
+          "quote": "Hey Bella there's a fan asking if this is possible - let me know if it's something you're interesting in. No worries if not!",
+          "who": "FRED | OFM",
+          "date": "2026-06-17",
+          "note": "Good practice — asked first."
+        }
+      ]
+    },
+    "platform_health": {
+      "severity": 1,
+      "internal_failure": "She flagged that 'all my socials are shadow banned' on day 4; we sent a templated 'don't appeal' notice but never diagnosed or owned it. Trial-reels lockout (follower threshold) was left to her to work around.",
+      "evidence": [
+        {
+          "quote": "I just did this one but I think like all my socials are shadow banned",
+          "who": "Bells Vale Referral",
+          "date": "2026-05-31",
+          "note": "No diagnosis; she switched to her personal TikTok herself."
+        },
+        {
+          "quote": "🚨 Quick reminder: if your IG gets suspended, disabled, restricted, or starts acting shadowbanned, please don't submit an appeal right away. Reach out to us first",
+          "who": "Mica Vecco",
+          "date": "2026-06-01"
+        },
+        {
+          "quote": "I think it's 1000 followers 😭 it's okay slowly but surely lol this is a process I just need something to go viral soon",
+          "who": "Bells Vale Referral",
+          "date": "2026-06-09"
+        }
+      ]
+    },
+    "billing_ops": {
+      "severity": 3,
+      "internal_failure": "Four payment rails in five weeks (Zelle with no phone/email, then wrong email, Mercury link 'incorrect', Chase, Bank of America); first invoice never collectable and rolled forward; a commission dispute over her self-run lives that was never pre-agreed ($597 vs $931.81); and after she left, the final invoice was never issued and the balance she photographed was never transcribed.",
+      "evidence": [
+        {
+          "quote": "Can you send me a number associated with the Zelle please since it's a small transaction!",
+          "who": "Bells Vale Referral",
+          "date": "2026-06-03",
+          "note": "'There isnt a number on the Zelle but theres an email' → 'I don't see an email' → email supplied 6/4 → 'that email didn't work' (6/10)."
+        },
+        {
+          "quote": "Hi yes I did going to send payment here in a sec, but the total would be $597 going based on your previous invoice subtracting my lives",
+          "who": "Bells Vale Referral",
+          "date": "2026-06-23",
+          "note": "Stephski same day: '$2662.33 x 35% would be $931.81' and 'The mercury link is incorrect'."
+        },
+        {
+          "quote": "Want to let you know we have a new bank for you to send to (last change I promise!).",
+          "who": "Stephski",
+          "date": "2026-07-01",
+          "note": "Third bank change; her wire was then held by her bank 7/4."
+        }
+      ]
+    },
+    "ownership_escalation": {
+      "severity": 2,
+      "internal_failure": "No single account owner. Promo was bounced to '@sotom225' who never came; her script-quality question was relayed by Mayson ('@ofmfrederick ^^') and answered 3 days later; leaks were 'sent to the team' with no named person; Derrek (who sold her) never appears in the chat.",
+      "evidence": [
+        {
+          "quote": "@sotom225 will reach out to you soon on how to get started on that :)",
+          "who": "Mica Vecco",
+          "date": "2026-06-02",
+          "note": "No follow-up from anyone."
+        },
+        {
+          "quote": "@ofmfrederick ^^",
+          "who": "Mayson Chat",
+          "date": "2026-06-27",
+          "note": "Fred answered 6/30."
+        },
+        {
+          "quote": "I sent the team the links to those leaks, they will be taken down 🙌🏼",
+          "who": "Michelle Queue",
+          "date": "2026-06-26",
+          "note": "Client two days later: 'All those leaks are still up'."
+        }
+      ]
+    },
+    "disengagement_detection": {
+      "severity": 3,
+      "internal_failure": "Every signal was visible and nobody reacted: sub count collapsing in week 1, a commission dispute on 6/15, 'all those leaks are still up 😭' twice, and finally an explicit exit message on 7/6 that received ZERO acknowledgement — templated inspo and leak stats kept going out as if nothing happened, and the next human contact was an invoice chase 27 days later.",
+      "evidence": [
+        {
+          "quote": "Hey guys I really appreciate working with you but I'm going to take over my account and work independently, I just sent the most recent wire and I'm going to wait for the rest of the money to transfer to pending for the next payout & will send that your way.",
+          "who": "Bells Vale Referral",
+          "date": "2026-07-06",
+          "note": "No reply from anyone on our side, ever."
+        },
+        {
+          "quote": "Hi all those leaks are still up 😭",
+          "who": "Bells Vale Referral",
+          "date": "2026-06-26",
+          "note": "Sent one minute after Michelle's 'leaks removal breakdown' graphic."
+        },
+        {
+          "quote": "Okay perfect I knew numbers would be down temporarily but didn't think that low lol",
+          "who": "Bells Vale Referral",
+          "date": "2026-05-30",
+          "note": "Day 3 — earliest signal that expectations vs results were diverging."
+        }
+      ]
+    },
+    "security_hygiene": {
+      "severity": 2,
+      "internal_failure": "OF email+password, IG username+password and a live 2FA code were all posted in the group in plain text and never rotated after use; her phone number is also in the chat. Nobody asked her to change the password after we logged in.",
+      "evidence": [
+        {
+          "quote": "Hannahchamberss2022@gmail.com / Gymgirl22!",
+          "who": "Bells Vale Referral",
+          "date": "2026-05-29",
+          "note": "OF credentials, prompted by Mayson 'What's the new OF password?'"
+        },
+        {
+          "quote": "Hi! Can we change the name to hannah please and login info for instagram is / hannchambrs / Bella_marie22!",
+          "who": "Bells Vale Referral",
+          "date": "2026-06-01",
+          "note": "IG creds; followed by 2FA code '328503' in chat."
+        },
+        {
+          "quote": "code has been sent to ur email / lmk if you got it?",
+          "who": "Mica Vecco",
+          "date": "2026-06-01",
+          "note": "We asked for the code in-channel instead of via DM."
+        }
+      ]
+    }
+  },
+  "metrics": {
+    "method": "Full history 5/28-8/4 (308 non-service msgs, 167 client). client_questions = client messages containing '?'. unanswered_over_24h: automated = next non-client message >24h later (1); manual = questions with no substantive answer within 24h or never answered (7: 6/2 DMCA 27h, 6/2 promo never, 6/3 Zelle email 26h, 6/4 photographer 4d then dropped, 6/15 live-deduction dispute 7d, 6/27 iCloud 3d, 6/28 leaks 3d). max_team_silence_days = longest gap between consecutive non-client messages. Promises = explicit 'will/let me/we'll' commitments by our side, judged kept/lapsed by later evidence in chat.",
+    "client_questions_total": 19,
+    "unanswered_over_24h": 7,
+    "unanswered_over_24h_automated": 1,
+    "max_team_silence_days": 23,
+    "max_team_silence_days_pre_churn": 3,
+    "promises_made": 11,
+    "promises_kept": 7,
+    "promises_lapsed": 4,
+    "typical_response_lag": "same day for Mica/Michelle/Stephski acknowledgements; 1-3 days for anything routed to 'the team'",
+    "client_share_of_messages": 0.54
+  },
+  "what_client_wanted": [
+    {
+      "want": "Growth she could see — a viral hit and sub numbers back up",
+      "quote": "this is a process I just need something to go viral soon tik tok is going great with interactions and followers which is good so hopefully something will go viral soon",
+      "date": "2026-06-09"
+    },
+    {
+      "want": "Her leaks actually taken down, not a graphic saying they were",
+      "quote": "Hi all those leaks are still up 😭",
+      "date": "2026-06-26"
+    },
+    {
+      "want": "Not to pay 35% on money she made herself on lives",
+      "quote": "I did a private live that was 200 and then another live that made like 383 both with the 20% OF deducted so have to subtract that from the invoice.",
+      "date": "2026-06-15"
+    },
+    {
+      "want": "In-person content help (Miami/Orlando shoots) that Derrek had pitched",
+      "quote": "I want to schedule to come down to miami and take some reels and get some better ideas of how to edit the videos … and then def take some with the camera guy I think Derrek mentioned there was one here in Orlando?",
+      "date": "2026-06-04"
+    }
+  ],
+  "what_worked": [
+    {
+      "moment": "Mica turned a missed Calendly booking into a same-hour call",
+      "quote": "No worries <3 Can I call you in like 20 just finishing up at the gym",
+      "who": "Bells Vale Referral",
+      "date": "2026-05-29"
+    },
+    {
+      "moment": "Fred's script flows and audio guidance landed — she recorded 13 voice notes the same afternoon",
+      "quote": "Okay perfect thank you so much this helps a lot!",
+      "who": "Bells Vale Referral",
+      "date": "2026-06-08"
+    },
+    {
+      "moment": "Concrete takedown numbers (not a template) got a warm reaction",
+      "quote": "Hi Hannah! Takedown Update: / Google Removed: 192 Total Infringements Removed: 197 → 'Thank you my love!'",
+      "who": "Michelle Queue / Bells Vale Referral",
+      "date": "2026-06-25"
+    },
+    {
+      "moment": "Honest bad-news on day 3 was accepted when it came with a plan",
+      "quote": "Okay perfect I knew numbers would be down temporarily … thank you and I'll get the socials going today also. Let me know what else you guys need from me.",
+      "who": "Bells Vale Referral",
+      "date": "2026-05-30"
+    }
+  ],
+  "churn_timeline": [
+    {
+      "date": "2026-05-29",
+      "event": "Day 2: old team still logged in and queuing other girls' promos; she posts OF creds in chat to relog us.",
+      "internal_failure_or_signal": "No offboarding-from-previous-agency checklist; credentials handled in-channel."
+    },
+    {
+      "date": "2026-05-30",
+      "event": "Fred explains subs fell from 60-70/day to 4; she says 'didn't think that low lol'.",
+      "internal_failure_or_signal": "First expectation gap. No written recovery plan or target ever followed."
+    },
+    {
+      "date": "2026-06-02",
+      "event": "She asks (second time) about the paid promo Derrek sold her on — Mica: '@sotom225 will reach out to you soon'. 6/4 she asks about Miami/Orlando shoots — Mica 6/8: 'following up with [photographers] now'.",
+      "internal_failure_or_signal": "Both growth levers from the sales pitch silently lapsed; neither was ever mentioned again."
+    },
+    {
+      "date": "2026-06-03",
+      "event": "Zelle has no phone number, then no email, then wrong email; first invoice becomes uncollectable and is rolled into the next.",
+      "internal_failure_or_signal": "Payment rail not ready before first invoice."
+    },
+    {
+      "date": "2026-06-15",
+      "event": "Combined invoice via Mercury; she disputes commission on her own lives ($597 vs $931.81); Mercury link 'incorrect'; corrected via Chase 6/22, paid 6/23.",
+      "internal_failure_or_signal": "No agreed policy on self-run live earnings; 8-day billing wobble with a second rail change."
+    },
+    {
+      "date": "2026-06-26",
+      "event": "Michelle posts a leak-removal graphic; one minute later: 'Hi all those leaks are still up 😭'. Repeated 6/28.",
+      "internal_failure_or_signal": "Reporting on activity instead of outcomes; two-day gap before 'let me check with the team'."
+    },
+    {
+      "date": "2026-07-01",
+      "event": "Third bank change ('last change I promise!'); her 7/2 wire gets held by her bank until 7/6.",
+      "internal_failure_or_signal": "Billing friction compounding at the exact moment she is evaluating value."
+    },
+    {
+      "date": "2026-07-06",
+      "event": "16:36 'Just sent wire!' → 16:57 'I'm going to take over my account and work independently' → 16:58 photo 'This is total left'.",
+      "internal_failure_or_signal": "Zero response from anyone. No owner call, no exit conversation, no attempt to retain or even acknowledge."
+    },
+    {
+      "date": "2026-07-10",
+      "event": "Mica sends reel inspo and Michelle sends a weekly leak update as if she were still a client.",
+      "internal_failure_or_signal": "Templated cadence running on autopilot; nobody on the team had registered the churn."
+    },
+    {
+      "date": "2026-08-02",
+      "event": "First human contact post-exit is Stephski asking for her earnings statements to issue a final invoice; nudged 8/4; no reply.",
+      "internal_failure_or_signal": "27-day silence then a collections ask; final invoice still unissued and balance never transcribed as of 8/26."
+    }
+  ],
+  "warning_signs_missed": [
+    "Day-3 sub collapse (60-70/day → 4) with no written recovery target — she later said 'I just need something to go viral soon'.",
+    "She asked twice (5/31, 6/2) about the paid promo Derrek pitched; it was never delivered or explained — the thing she was sold never showed up.",
+    "She was earning her own money on lives ($583 in two weeks) and immediately contested paying 35% on it — a client who believes she out-earns the agency on her own is a client testing whether she needs the agency.",
+    "Two 'all those leaks are still up' messages (6/26, 6/28), the second with no answer for 3 days.",
+    "Four payment-rail changes in five weeks; the last one (7/1) caused her bank to hold the wire — friction landed right before the exit.",
+    "The 7/6 exit message itself: no one replied within an hour, a day, or ever.",
+    "Post-exit templates kept firing (7/10), proving no one was reading the chat for signal."
+  ],
+  "top_fix": "Give every new client one named account owner who posts a short written weekly number in the group (subs/day, revenue, what we did about traffic this week, what's next) from week 1 — and who is on the hook to answer any dispute or exit message within the hour with a call offer. Hannah left because she never saw evidence the 35% was buying growth, and when she said so, nobody was listening."
+}

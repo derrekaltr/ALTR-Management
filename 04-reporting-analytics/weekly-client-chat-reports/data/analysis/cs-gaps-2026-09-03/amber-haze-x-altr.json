@@ -1,0 +1,121 @@
+{
+  "client": "Amber Haze",
+  "slug": "amber-haze-x-altr",
+  "status": "at_risk",
+  "status_reason": "She re-engaged Aug 30 - Sep 2 with a long, constructive critique of how her two management-run IGs are being managed (third time she has benchmarked us against a friend's agency) and it sat unanswered ~29h until her '@mmayson ?' nudge on Sep 3, which is the last message in the chat. Core money/growth items remain open 32-94 days (Meta-rep cost 32d, phone-farm updates 33d, Wesley anniversary sends 23d past due, growth complaint 94d since Jun 2). Pays every invoice within days; the risk is churn, not collection.",
+  "last_client_message": "2026-09-03",
+  "attribution_note": "clients.yaml lists Jonasito, smurf(offline), Arlo, Joshiepoo and Nick Granberry as client-side, but chat behaviour shows all five act as our-side/vendor relays: Joshiepoo and smurf(offline) relay fan custom briefs in chat-team voice ('we have this big spender asking', 'thats when we're going to send') and Mayson routes work to '@joshiepooh ^^'; Jonasito does vault uploads ('ill be uploading them shortly'); Arlo is Dreamirl phone-farm vendor; Nick Granberry sent the onboarding form. Kirsten (amber Haze) is the only true client voice. Recommend reclassifying in clients.yaml; their misses land on us, and expectations they set become Kirsten complaints (the Wesley brief smurf posted 2026-05-16 was later disowned by Ollie as 'previous chat team').",
+  "dimensions": {
+    "responsiveness": {
+      "severity": 3,
+      "internal_failure": "The client's documented escalation ladder ('?', '??', 'Hello anyone going to reply?') exists because our default is silence; her Aug 2 money question was never answered (32 days) and her Sep 2 critique sat >24h until she nudged again on Sep 3 - still unanswered at export.",
+      "evidence": [
+        {"quote": "Hello anyone going to reply?", "who": "Kirsten (amber Haze)", "date": "2026-07-24"},
+        {"quote": "Also is there anything you need from me for This switch to happen on Monday?", "who": "Kirsten (amber Haze)", "date": "2026-08-02"},
+        {"quote": "@mmayson ?", "who": "Kirsten (amber Haze)", "date": "2026-09-03"}
+      ]
+    },
+    "follow_through": {
+      "severity": 3,
+      "internal_failure": "Promises are made in crisis moments and silently lapse: Derrek's Aug 1 'plenty of updates starting next week' produced one uncaptioned screenshot in 33 days; Vivek's 'Will check' (Aug 14) never returned; the Wesley anniversary sends (briefed May 16, content delivered by her twice, due Aug 11/14) have zero confirmation 23 days later.",
+      "evidence": [
+        {"quote": "Thank you for your understanding, we will have plenty of updates starting next week.", "who": "Derrek", "date": "2026-08-01"},
+        {"quote": "Will check", "who": "Vivek", "date": "2026-08-14"},
+        {"quote": "So the plan was send flowers video on the actual anniversary day 11th August and the custom/sexting on the Friday 14th August", "who": "smurf(offline)", "date": "2026-05-16"}
+      ]
+    },
+    "proactive_communication": {
+      "severity": 3,
+      "internal_failure": "Outside Michelle's leak reports and Stephski's invoices, nearly all information flows only when she chases; on Aug 30 she had to ask for the links to her own management-run IG accounts, and her Sep 2 message revealed she'd never been told they average ~150 views/post. Longest all-channel team silence: 5.1 days (Aug 25-30); Derrek sent no substantive message between Aug 1 and export end (Sep 3).",
+      "evidence": [
+        {"quote": "how are the instagrams doing that you guys post on? as I haven’t heard much, can you please send me the links to them? X", "who": "Kirsten (amber Haze)", "date": "2026-08-30"},
+        {"quote": "I would have preferred regular updates explaining what was happening and why things weren’t being done, rather than me constantly having to chase for answers", "who": "Kirsten (amber Haze)", "date": "2026-06-04"},
+        {"quote": "compare your accounts which is getting roughly 150 views per post which just isn’t profitable compare to me posting it myself", "who": "Kirsten (amber Haze)", "date": "2026-09-02"}
+      ]
+    },
+    "onboarding_handoff": {
+      "severity": 2,
+      "internal_failure": "Intros and forms went out day one, but week-one execution was chaotic (three different content-upload systems in two weeks; she was scolded for asking a billing question in the wrong place) and our own internal chat-team switch dropped the Wesley anniversary brief - Ollie didn't know a plan posted in this same chat existed.",
+      "evidence": [
+        {"quote": "I’m the only person in here that deals with this other than our invoicing team. The reason they didn’t answer is because none of them have anything to do with payments.", "who": "Derrek", "date": "2026-05-11"},
+        {"quote": "Ah that was previous chat team", "who": "Ollie Mckinlay", "date": "2026-08-06"},
+        {"quote": "Okay sorry are we still using Google drive? Confused now 🤣", "who": "Kirsten (amber Haze)", "date": "2026-05-13"}
+      ]
+    },
+    "chatter_conduct": {
+      "severity": 3,
+      "internal_failure": "Repeated breaches of her documented boundaries: other-girl content sold from her vault (May 13/20), chatters promising fans she'd 'show pussy' (Jul 29), a snap-add script that left fan 'Moggy' believing he'd paid for a video call and harassing her with calls (Jul 13, Aug 6-7), and three dildo asks after her written Jul 14 rule; her Jul 14 brief has never demonstrably been operationalized (Ollie didn't know her vault already holds 'loads' of titjob content, Aug 20).",
+      "evidence": [
+        {"quote": "I need this fully removed immediately and I need a proper explanation as to how this even happened, because this is a massive breach of trust and professionalism.", "who": "Kirsten (amber Haze)", "date": "2026-05-20"},
+        {"quote": "I have so many Snapchat messages from the men saying you said you’d show pussy etc", "who": "Kirsten (amber Haze)", "date": "2026-07-29"},
+        {"quote": "He’s calling again please sort this out!!!", "who": "Kirsten (amber Haze)", "date": "2026-08-07"}
+      ]
+    },
+    "platform_health": {
+      "severity": 2,
+      "internal_failure": "Recurring link bans/shadowbans/flags with unclear ownership until Vivek arrived Jul 29; the Aug 19 posting-restriction clear was a real win, but her thrice-asked 'can the remaining warnings be cleared, and when' has had no answer since Vivek's Aug 14 'Will check', and the backup IGs she was promised would 'move very quickly in growth' (May 21) sat at 35 followers by Jul 21 and ~150 views/post by Sep 2.",
+      "evidence": [
+        {"quote": "my friend management started a new account for her an extra one and they posted so many trail reels and it’s at 13k in less then two weeks so just confused why mines been months and it’s 35 followers 🤣🥺 x", "who": "Kirsten (amber Haze)", "date": "2026-07-21"},
+        {"quote": "I only have these a warnings now do you no if we can get this cleared", "who": "Kirsten (amber Haze)", "date": "2026-08-19"},
+        {"quote": "Should move very quickly in growth", "who": "Derrek", "date": "2026-05-21"}
+      ]
+    },
+    "billing_ops": {
+      "severity": 1,
+      "internal_failure": "Cadence and recovery are good (8 cycles paid, errors corrected same-day), but we generated the errors she caught: wrong rate on invoice #1 (35% vs agreed 30%), wrong total June 1, a late June invoice from our 'technical difficulties', an unexplained $159 chargeback deduction Aug 4, plus three receiving-bank changes since May for a UK international-wire payer; the Aug 31 pre-invoice withdrawal reminder (the habit that correlates with clean cycles) was skipped before the Sep 1 invoice.",
+      "evidence": [
+        {"quote": "it’s also 30% not 35%, if we wait to see what comes through tomorrow then we can take off $4745.27 and then do the 30% on what’s left.", "who": "Kirsten (amber Haze)", "date": "2026-05-17"},
+        {"quote": "Want to let you know we have a new bank for you to send to (last change I promise!)", "who": "Stephski", "date": "2026-07-01"},
+        {"quote": "I noticed it’s a little different to what says online for me can we double check this please", "who": "Kirsten (amber Haze)", "date": "2026-08-04"}
+      ]
+    },
+    "ownership_escalation": {
+      "severity": 3,
+      "internal_failure": "Mayson operates as a human router ('@joshiepooh ^^', '@fonta any updates on this^', '@sotom225 ^') and items die after the tag: Derrek's Aug 21 '@olkmck' on her counter-offers got no visible reply in 13 days, Michelle's 'derrek is going to reach out' (Jul 24) has no follow-up on record, and on Jun 29 a login SHE flagged was first answered 'not us' before Eric owned it 7 hours later.",
+      "evidence": [
+        {"quote": "@olkmck", "who": "Derrek", "date": "2026-08-21"},
+        {"quote": "Hi love, derrek is going to reach out", "who": "Michelle Queue", "date": "2026-07-24"},
+        {"quote": "not us", "who": "Joshiepoo", "date": "2026-06-29"}
+      ]
+    },
+    "disengagement_detection": {
+      "severity": 2,
+      "internal_failure": "Nobody reacted to the 4-message near-silent week ending Aug 28; Mayson's Aug 30 outreach did break the silence but was extractive (demanding 7 fresh reels/week), not a check-in, and when she answered with her most detailed, churn-grade feedback yet on Sep 2 - including her third competitor benchmark - no one on our side has engaged with it.",
+      "evidence": [
+        {"quote": "Hi @Kirs10xx  this one is important!... keep it topped up with 7 reels a week so 30 in total per month", "who": "Mayson Chat", "date": "2026-08-30"},
+        {"quote": "my friend’s management recently started two additional Instagram accounts for her alongside her main one and they’ve already grown to around 40k followers", "who": "Kirsten (amber Haze)", "date": "2026-09-02"},
+        {"quote": "I’d really like us to put more focus into these accounts because I genuinely think there’s a lot of potential there that we’re currently missing.", "who": "Kirsten (amber Haze)", "date": "2026-09-02"}
+      ]
+    },
+    "security_hygiene": {
+      "severity": 3,
+      "internal_failure": "Her IG password (Teigan0011$) was posted in plain chat on May 9 and again unchanged on May 20 despite Derrek's May 10 'I'll change everything in a few days for you' (no rotation ever confirmed); LinkMe credentials, a 2FA backup code, phone number and personal email all live in chat history; and the block-list mirroring she asked for on May 10 was still not done on Aug 30, when Mayson asked her to manually screenshot usernames.",
+      "evidence": [
+        {"quote": "INSTAGRAM LOGIN:\nAmber_hazee\nTeigan0011$", "who": "Kirsten (amber Haze)", "date": "2026-05-09"},
+        {"quote": "I’ll change everything in a few days for you", "who": "Derrek", "date": "2026-05-10"},
+        {"quote": "Just a reminder can you guys go through all the block list on my main insta page and block the same people on the two new accounts please", "who": "Kirsten (amber Haze)", "date": "2026-05-10"}
+      ]
+    }
+  },
+  "metrics": {
+    "client_questions_total": 119,
+    "unanswered_over_24h": 10,
+    "max_team_silence_days": 5.1,
+    "promises_made": 30,
+    "promises_kept": 14,
+    "promises_lapsed": 12,
+    "method": "client_questions_total = Kirsten messages containing '?' (jq/grep over full history, 533 client messages). unanswered_over_24h = manual scan of client questions with no on-topic team reply within 24h or never (incl. Aug 2 Meta-rep, Jul 21 IG growth, Aug 14 warnings timeline, Sep 2 critique, Wesley confirmations). max_team_silence_days = longest gap between consecutive non-client, non-service messages (Aug 25 17:49 -> Aug 30 19:26). Promises = manually enumerated explicit our-side commitments over full history; kept counts confirmed deliveries (folders, FB page, custom domain, Aug 19 unban, invoice fixes, recurring leak reports), lapsed counts items with no delivery or confirmation (phone-farm updates, Meta-rep answer, Wesley sends, Moggy damage control, counter-offers, warnings clearing, Mica inspo cadence, FB campaign numbers, monthly reports promised at signing, credential rotation, 'new scripts next week', Twitter/landing-page rollouts); remainder ambiguous/in-progress."
+  },
+  "what_client_wanted": [
+    "Real, visible growth and proof the promised marketing exists: 'I just need to see things actually being done and see some real growth. For this amount of time, hearing that it's because of flagging issues and Instagram problems just isn't good enough.' (Jun 4)",
+    "Proactive updates instead of chasing: 'I was also told at the beginning that I would be shown and given monthly updates on exactly what had been posted... and how everything was performing.' (Jun 4); numbers, not reassurance ('Campaign ?' Aug 22)",
+    "Whale protection and honesty within her written boundaries: 'please don't loose my high spenders keeps them happy and understand my boundaries' (Jul 14 brief); 'please tell the chatters not to lie to my spenders' (Jul 29)",
+    "Quality management of her two management-run IGs with a dedicated owner: 'could you maybe have someone specifically focusing on my two additional accounts? Someone who is really good at editing, Instagram growth and keeping up with trends.' (Sep 2)"
+  ],
+  "what_worked": [
+    "Fast, warm billing recovery: every invoice error she flagged was corrected same-day and she has paid 8 straight cycles - 'Omg ignore me sorry I am such an idiot... I understand now let me try send now' (May 18) shows the patience Stephski's tone buys us.",
+    "Derrek's personal, detailed ownership of the May 20 vault-breach crisis: 'Thanks for explaining everything and I appreciate the apology... it's good to hear' (May 20) - direct, non-defensive owner engagement de-escalated the worst incident on the account.",
+    "Vivek clearing the IG posting restriction: 'I started already thank you! Any issues I'll message you 😊' (Aug 19), and Michelle's unbroken weekly leak-removal reports ('Thank you 🙏🏼', Jun 26) - the only recurring proactive deliverables, and she values both."
+  ],
+  "top_fix": "Give the account one named owner who sends a short weekly numbers update (IG followers/views, ad spend and results, phone-farm status, open items with dates) and closes the loop on every promise in-thread. Every major escalation she has written (Jun 4, Sep 2) is the same sentence - she cannot see what we are doing - and she is currently drafting our growth plan for us for free while her Sep 2 message sits unanswered."
+}

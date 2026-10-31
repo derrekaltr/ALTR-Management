@@ -1,0 +1,50 @@
+# +13106147873, Taylor (Skyler), Vivek Unban, Daniel Veritrade  [imessage #14782 GROUP]
+msgs=44 (in=32 out=12) window=2026-08-28..2026-09-02
+last_client=2026-09-02 (16d ago), last_derrek=2026-09-02 (16d ago)
+LAST MESSAGE from Derrek: 'Ok no problem'
+
+  ...
+[2026-08-28 19:27] Taylor (Skyler): Yooo this is the guy who can help with your account
+[2026-08-28 19:28] DEREK: Hey!
+[2026-08-28 19:28] DEREK: Great to meet you
+[2026-08-28 19:37] +13106147873: Hey
+[2026-08-28 19:37] +13106147873: Thanks taylor
+[2026-08-28 19:37] +13106147873: Preciate it
+[2026-08-28 19:37] +13106147873: My account got suspended and wouldn’t tell me why
+[2026-08-28 19:39] DEREK: Can I call you
+[2026-08-28 19:39] +13106147873: In a sec yeah I’m just in a meeting rn
+[2026-08-28 19:39] DEREK: Loved “In a sec yeah I’m just in a meeting rn ”
+[2026-08-28 19:39] DEREK: No problem just let me know when you’re done
+[2026-08-28 19:49] +13106147873: I just finished
+  ...
+[2026-09-01 22:43] DEREK: Added my partner daniel and my rep vivek
+[2026-09-01 22:43] +13106147873: Okay
+[2026-09-01 22:43] DEREK: Let them know what you need
+[2026-09-01 22:44] +13106147873: My account got banned
+[2026-09-01 22:44] +13106147873: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/ff/15/CB22B472-6F97-4A74-B908-63C26D7DA0E7/IMG_3558.PNG>
+[2026-09-01 22:44] +13106147873: This is what shows up when I try to login
+[2026-09-01 22:44] +13106147873: Is there any way I can get it back?
+[2026-09-01 22:44] DEREK: Yes
+[2026-09-01 22:45] +13106147873: What do I need to do?
+[2026-09-02 05:38] Vivek Unban: Will do everything
+[2026-09-02 11:49] Vivek Unban: Yo
+[2026-09-02 11:53] +13106147873: Hey
+[2026-09-02 11:54] Vivek Unban: Need approval
+[2026-09-02 11:54] Vivek Unban: Going for login
+[2026-09-02 11:54] Vivek Unban: It’s disabled
+[2026-09-02 12:28] +13106147873: What do you mean
+[2026-09-02 12:28] Vivek Unban: It’s a misunderstanding
+[2026-09-02 12:29] +13106147873: My account ban is a misunderstanding?
+[2026-09-02 12:29] Vivek Unban: No
+[2026-09-02 13:09] Vivek Unban: @izgambles
+[2026-09-02 13:10] +13106147873: Do you need any other info from me?
+[2026-09-02 13:22] DEREK: Yes, we need to confirm on your side, sending in cases now and your case will get done today, are we confirmed to go ahead and proceed for $3.5k?
+[2026-09-02 13:27] +13106147873: Do I have to pay upfront? Or can I pay afterwards
+[2026-09-02 13:28] +13106147873: I’d get the account back today?
+[2026-09-02 13:29] DEREK: Can you do up front half other half after? We’re paying for priority on cases to have them back today
+[2026-09-02 14:53] +13106147873: Can I get back to you on that
+[2026-09-02 16:37] +13106147873: Ok so I had asked someone else a few days ago if they could help and I didn’t know they went ahead and already submitted my account they said it’s set in stone
+[2026-09-02 16:37] +13106147873: So if they’re not able to I’ll come back to yall
+[2026-09-02 16:37] +13106147873: Thanks sm tho
+[2026-09-02 16:38] DEREK: Ok no problem

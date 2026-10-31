@@ -1,0 +1,128 @@
+# Jojo IG Restrictions Removal  [whatsapp #1588 GROUP]
+msgs=129 (in=112 out=17) window=2026-08-12..2026-09-10
+last_client=2026-09-10 (8d ago), last_derrek=2026-09-10 (8d ago)
+LAST MESSAGE from Derrek: '@53725762732108 can we do without her id?'
+
+  ...
+[2026-08-12 17:47] 120363411520856764@g.us: {"subject":"Jojo IG Restrictions Removal","author":"65300816998597@lid","parent_group_name":null,"is_hidden_sub_group":false,"is_open_group":true,"context_group":null,"should_use_identity_header":true,"parent_group_jid":null,"reason":0,"show_membership_string"…
+[2026-08-12 17:47] DEREK: Hey jojo this is vivek
+[2026-08-12 17:47] DEREK: He will be removing the restrictions for you
+[2026-08-12 17:48] 53725762732108@lid: Hey brother
+[2026-08-12 17:48] 53725762732108@lid: Send me logins
+[2026-08-12 17:48] DEREK: It’s a girl haha
+[2026-08-12 17:48] DEREK: Jojomarttino_ Scbarbie72
+[2026-08-12 17:48] 53725762732108@lid: My bad 😣
+[2026-08-12 17:49] DEREK: All good
+[2026-08-12 17:49] 53725762732108@lid: @89769312809188 Ma’am login code
+[2026-08-12 17:49] DEREK: Let her know where it’s going to
+[2026-08-12 17:49] 89769312809188@lid: 458 994
+  ...
+[2026-08-12 17:51] 53725762732108@lid: Check your text messages
+[2026-08-12 17:51] 53725762732108@lid: You received a code
+[2026-08-12 17:52] 89769312809188@lid: 7797163447
+  ...
+[2026-08-12 17:56] 89769312809188@lid: 187 175
+[2026-08-12 18:02] 53725762732108@lid: Message restrictions lifted
+[2026-08-12 18:02] 89769312809188@lid: Wow thank you 🙀
+  ...
+[2026-08-12 18:04] 53725762732108@lid: Yes on it
+[2026-08-12 18:04] 53725762732108@lid: Account is shadow banned
+[2026-08-12 18:04] 53725762732108@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363411520856764@g.us/5/c/5cbe5436-b6c7-42b2-8505-b3775e57c373.jpg>
+[2026-08-12 18:04] DEREK: kk fix all if you can
+[2026-08-12 18:09] 89769312809188@lid: Yes, whatever you can if you can i have been banned for a long time ive removed and archived many posts but it flags new posts all the time 🤷🏼‍♀️
+[2026-08-12 18:09] 53725762732108@lid: Removed link restrictions
+[2026-08-12 18:09] 53725762732108@lid: Working on shadow ban
+[2026-08-12 18:10] 89769312809188@lid: It says I’m hidden from 18 and lower which is perfect but i think i was visible for other account not sure but thank you please whatever you can i can not thank you enough
+[2026-08-12 18:11] 53725762732108@lid: Don't ignore anything
+[2026-08-12 18:11] 53725762732108@lid: At the end they affects the account
+  ...
+[2026-08-12 18:12] 53725762732108@lid: okay
+[2026-08-12 19:41] 89769312809188@lid: My other account was restricted also i tried to appeal and submit ID but it wouldn’t accept it. Can i recover it or not possible?
+[2026-08-12 21:11] DEREK: yes tomorrow
+  ...
+[2026-08-12 21:12] 89769312809188@lid: Thank you very much❣️
+[2026-08-14 14:52] 89769312809188@lid: Hello hope you are good 🫶🏻 did you have any update on the shadowban on my account? It has switched now I’m able to be viewed by under 18 and not by non followers 😅
+[2026-08-14 15:01] 53725762732108@lid: Ma’am
+[2026-08-14 15:01] 53725762732108@lid: @89769312809188 need approval
+[2026-08-14 15:03] 89769312809188@lid: From Authenticator ?
+  ...
+[2026-08-14 15:04] 89769312809188@lid: 503 774
+[2026-08-15 00:18] 53725762732108@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363411520856764@g.us/9/a/9acb994a-a2b1-4878-88ab-217591d95807.jpg>
+[2026-08-15 00:18] 53725762732108@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363411520856764@g.us/3/7/37e76679-2c89-4dc9-b4b6-1b9a8104500c.jpg>
+[2026-08-15 00:19] DEREK: Thank you!
+  ...
+[2026-08-15 05:45] 89769312809188@lid: Thank you so much.. if you can
+[2026-08-15 05:53] 53725762732108@lid: Need approval
+[2026-08-15 05:53] 53725762732108@lid: Or login code
+  ...
+[2026-08-15 05:56] 89769312809188@lid: 281992
+[2026-08-15 05:57] 53725762732108@lid: This one is suspended?
+[2026-08-15 05:57] 89769312809188@lid: I’m not sure it asked for ID and i tried and now it says i have one chance left so i didn’t want to try again
+  ...
+[2026-08-19 21:28] 89769312809188@lid: Hello
+[2026-08-19 21:28] 89769312809188@lid: All my restrictions have returned
+[2026-08-19 21:28] 89769312809188@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363411520856764@g.us/a/9/a97a5f25-c446-43ff-81b8-f7cee0f36f5b.jpg>
+[2026-08-19 21:28] 89769312809188@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363411520856764@g.us/e/8/e8b15fde-16a6-4055-9ed3-eebb05f627ac.jpg>
+[2026-08-21 15:55] 89769312809188@lid: Good morning any chance today? 🤞🏻 thank you
+  ...
+[2026-08-21 16:07] 89769312809188@lid: Let me know when to send the auth code
+[2026-08-21 16:08] 89769312809188@lid: I have archived over 15 photos but restrictions still stay 🤷🏼‍♀️
+[2026-08-21 16:08] 53725762732108@lid: Archive isn’t a solution
+  ...
+[2026-08-21 16:11] 53725762732108@lid: Login your backup account
+[2026-08-21 16:11] 89769312809188@lid: Yes i am and it ask for ID but i have done this and it will not accept after two chances my account will be suspended
+[2026-08-21 16:12] 53725762732108@lid: Share current screenshots
+[2026-08-21 16:12] 89769312809188@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363411520856764@g.us/9/8/98d95b8f-59a9-4e91-a8d4-80563efa50cf.jpg>
+[2026-08-21 16:12] 89769312809188@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363411520856764@g.us/a/1/a195b61e-e278-41a4-8d57-d07aeb15a02d.jpg>
+[2026-08-21 16:12] 89769312809188@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363411520856764@g.us/c/b/cbcd9797-0771-4eec-93ab-fc411b719f0f.jpg>
+[2026-08-21 16:12] 89769312809188@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363411520856764@g.us/b/f/bfc654ca-7573-4ab5-a849-5a1b034a19d7.jpg>
+[2026-08-21 16:13] 53725762732108@lid: Which document you used last time
+  ...
+[2026-08-21 17:02] 53725762732108@lid: You have passport?
+[2026-08-21 17:03] 89769312809188@lid: No and i honestly did not want to submit anything especially to Instagram. It is ok if i can not recover i will just delete app 🤷🏼‍♀️
+[2026-08-21 17:23] 53725762732108@lid: Message link problem fixed
+[2026-08-21 17:23] 53725762732108@lid: Reach will back shortly
+[2026-08-21 19:12] 89769312809188@lid: Thank you! 🥺🙏🏻🙏🏻
+[2026-08-23 03:59] 89769312809188@lid: I posted nothing and did nothing now my main page was suspended and is asking to submit ID😰😠 i do not want to submit my information.. what do i do? Now both account ask for IDs
+[2026-08-23 04:41] 53725762732108@lid: If you click on appeal button without confirmation
+[2026-08-23 04:41] 53725762732108@lid: Or proper screenshot of reason
+[2026-08-23 04:42] 89769312809188@lid: Yes i clicked appeal and submit email and phone but then it ask for ID now for everything
+[2026-08-23 04:47] 53725762732108@lid: Do you have read more about reason screenshots?
+[2026-08-23 05:01] 89769312809188@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363411520856764@g.us/c/8/c878e229-ddb9-4547-bf88-4394b739eb12.jpg>
+[2026-08-23 05:01] 89769312809188@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363411520856764@g.us/d/b/dbe27992-99a1-4267-8e37-d9fdccd280ec.jpg>
+[2026-08-23 05:01] 53725762732108@lid: Integrity has 6 types
+[2026-08-23 05:01] 89769312809188@lid: I don’t understand their systems. First it was fraud and i archived and removed over 15 posts and now is integrity
+[2026-08-23 05:02] 53725762732108@lid: Bypass Bot reason Celebrity impersonation Business impersonation Community standards High portion
+[2026-08-23 05:02] 53725762732108@lid: Their 2 more reasons
+[2026-08-23 05:02] 89769312809188@lid: Is it because of my bought followers
+[2026-08-23 05:03] 89769312809188@lid: Bots?
+[2026-08-23 05:14] DEREK: Can you screenshot it on your phone
+[2026-08-23 05:14] DEREK: When you login
+[2026-08-23 05:15] 89769312809188@lid: It just asks for ID now when i log in
+[2026-08-23 05:15] 89769312809188@lid: I did the appeal and verified phone and email but now it seems to ask for ID everytime
+[2026-08-23 06:18] DEREK: Ok
+[2026-08-26 15:43] 89769312809188@lid: Hello have you had any update? Thank you🤍
+[2026-08-27 08:00] 53725762732108@lid: For !?
+[2026-08-27 14:39] 89769312809188@lid: For my suspended accounts that ask for ID now
+[2026-09-02 07:17] 89769312809188@lid: 🙅🏼‍♀️
+[2026-09-02 07:18] 53725762732108@lid: Send login
+[2026-09-02 07:18] 53725762732108@lid: Will do today
+[2026-09-02 08:15] 53725762732108@lid: Yo
+[2026-09-02 08:15] 53725762732108@lid: Drop your password
+[2026-09-03 16:19] 89769312809188@lid: Sorry when you have time Jojomarttino_ Xobarbie72 Let me know to send security codes if needed
+[2026-09-08 18:15] 89769312809188@lid: Hello how are you🙏🏻
+[2026-09-10 02:58] DEREK: hey jojo
+[2026-09-10 02:58] 89769312809188@lid: Hii🥰
+[2026-09-10 02:58] 182279200600101@lid: 15618011087@s.whatsapp.net
+[2026-09-10 06:54] DEREK: @53725762732108 can we do without her id?

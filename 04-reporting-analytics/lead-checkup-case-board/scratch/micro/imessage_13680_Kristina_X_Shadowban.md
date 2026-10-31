@@ -1,0 +1,3 @@
+## Kristina X Shadowban  [imessage#13680 GRP] msgs=37 win=2026-06-02..2026-07-11 lastClient=2026-07-11(69d) lastDerek=2026-06-02(108d) UNANSWERED
+...
+[2026-07-11 10:17]PAY| Kartik Work: Hey current price is 4k let us know if any accounts are banned

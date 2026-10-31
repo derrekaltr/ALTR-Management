@@ -1,0 +1,309 @@
+# Vivek - Meta Rep  [imessage #14354 GROUP]
+msgs=336 (in=307 out=29) window=2026-07-28..2026-08-06
+last_client=2026-08-06 (43d ago), last_derrek=2026-08-06 (43d ago)
+LAST MESSAGE FROM CLIENT — UNANSWERED: 'Top 5'
+
+  ...
+[2026-07-28 19:41] DEREK: Hey, this is for the code
+[2026-07-28 19:41] DEREK: So y’all can communicate
+[2026-07-28 19:41] Vivek Unban: Sir login code for ig account…
+[2026-07-28 19:42] Beiberr: I’m asking
+[2026-07-28 19:43] Vivek Unban: Ok
+[2026-07-28 19:47] Beiberr: What’s the # ur sending it too
+[2026-07-28 19:47] Vivek Unban: Phone no ending 41
+[2026-07-28 19:49] Beiberr: He said send it to email
+[2026-07-28 19:49] Vivek Unban: No option
+[2026-07-28 19:49] Vivek Unban: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/21/01/at_0_7CA92DFC-E477-4ECE-96A4-E83422B7C6BF/Instagram.png>
+[2026-07-28 19:49] Beiberr: 230955
+[2026-07-28 19:49] Beiberr: Lmk if ur in or need new one
+  ...
+[2026-07-28 19:50] Beiberr: On it
+[2026-07-28 20:19] Vivek Unban: Fuck this app
+[2026-07-28 20:21] DEREK: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/05/05/at_0_DDCB4CD8-6A16-412E-8E8A-B380BF3798B3/IMG_6944.PNG>
+[2026-07-28 20:21] Beiberr: So we went back up then down
+[2026-07-28 20:21] Beiberr: ?
+  ...
+[2026-07-28 20:28] Vivek Unban: Please
+[2026-07-28 20:39] Beiberr: He hasn’t sent it yet sorry
+[2026-07-28 20:43] Beiberr: ￼Ok he’s being annoying
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/c2/02/at_0_7C31F730-30F1-4A90-A202-53AFC5AA5AA7/IMG_2555.PNG>
+[2026-07-28 20:43] Vivek Unban: I mentioned his mail is completely flagged
+  ...
+[2026-07-28 20:47] Vivek Unban: Is he crazy!?
+[2026-07-28 20:54] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/d8/08/at_0_A7FA968D-1109-4347-BB89-DC68743FB827/IMG_2557.PNG>
+[2026-07-28 20:54] Vivek Unban: Bro how many times he want unban
+[2026-07-28 20:55] Vivek Unban: Each and every time his account getting banned in just second
+[2026-07-28 21:09] Beiberr: He’s being annoying
+[2026-07-28 21:09] Vivek Unban: He is trying to scam us
+[2026-07-28 21:09] Vivek Unban: Wait
+[2026-07-28 21:10] Vivek Unban: Need a login code again
+[2026-07-28 21:10] Vivek Unban: And i will do the re unban
+[2026-07-28 21:12] Vivek Unban: Need one last time code
+  ...
+[2026-07-28 21:25] Vivek Unban: Lol is he crazy aur something
+[2026-07-28 21:25] Vivek Unban: We didn’t clear the payment to rep
+[2026-07-28 21:26] DEREK: Bruh
+[2026-07-28 21:26] Vivek Unban: Yes
+[2026-07-30 22:17] DEREK: ￼￼And phone number or joelashley16@gmail.com to sign in Password JOELandLAUREN18! 2316833972
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/e5/05/at_0_A2760888-BCC1-4BB7-9670-FE1989E3CE54/IMG_2256.PNG>
+      <IMG MISSING non-image: /Users/locklyjailbreak/Library/Messages/Attachments/e6/06/at_1_A2760888-BCC1-4BB7-9670-FE1989E3CE54/RPReplay_Final1785085947.MOV>
+[2026-07-30 22:22] Vivek Unban: Okay sit
+  ...
+[2026-07-30 22:27] Beiberr: Thanks vivek
+[2026-07-30 22:28] Beiberr: Vivek, his Facebook isn’t banned. He needs the page back up.
+[2026-07-30 22:32] Vivek Unban: That guy already appealed for suspension and most of the content also
+[2026-07-30 22:49] Beiberr: Wdym ?
+  ...
+[2026-07-30 22:50] Beiberr: Do you understand what I’m talking about right?
+[2026-07-30 22:50] Vivek Unban: You appealed both of them
+[2026-07-30 22:50] Vivek Unban: Yes sir
+  ...
+[2026-07-30 23:07] Vivek Unban: Can you share screenshots of this one
+[2026-07-30 23:20] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/ed/13/at_0_0552AC9F-1166-4CBF-B63B-E4F54B9E8578/IMG_2345.JPG>
+[2026-07-30 23:37] Vivek Unban: Lmk if you are available for login code
+  ...
+[2026-07-30 23:39] Vivek Unban: Please
+[2026-07-30 23:40] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/d4/04/at_0_AC51B5FB-236C-43D5-95C1-F4F52452865F/IMG_2300.PNG>
+[2026-07-30 23:41] Vivek Unban: Approval plea
+[2026-07-30 23:41] Vivek Unban: Please
+[2026-07-30 23:42] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/ef/15/at_0_F113B319-5E94-49C9-A18B-8B88B266CDEC/IMG_2637.png>
+[2026-07-30 23:42] Beiberr: U in vivek
+  ...
+[2026-07-31 00:06] Vivek Unban: Text code please
+[2026-07-31 00:07] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/dc/12/at_0_0DD280CC-5EB3-4453-AF36-39CD39AF5703/IMG_2313.JPEG>
+[2026-07-31 00:40] Beiberr: Vivek
+[2026-07-31 00:40] Beiberr: How we looking
+[2026-07-31 00:41] Vivek Unban: Starting ig unban
+[2026-07-31 00:42] Vivek Unban: Soon
+  ...
+[2026-07-31 01:11] Vivek Unban: Starting today
+[2026-07-31 03:54] Beiberr: Have you already submitted
+[2026-07-31 04:05] Vivek Unban: Yes sir
+[2026-07-31 04:44] Beiberr: What about Joel tvs page
+[2026-07-31 04:44] Vivek Unban: Sir will update
+[2026-07-31 04:45] Vivek Unban: Can’t hurry for everything
+[2026-07-31 09:35] Vivek Unban: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/ac/12/at_0_0CF27F28-A55E-4814-A169-73462D459C63/IMG_3436.jpeg>
+[2026-07-31 09:35] Vivek Unban: Check the account gazelle.4173266
+[2026-07-31 09:35] Vivek Unban: And threads account too
+  ...
+[2026-07-31 13:53] Vivek Unban: Share screenshots
+[2026-07-31 13:59] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/02/02/at_0_796F16A6-2EAD-4802-A4CC-C519BFBCA883/IMG_2656.PNG>
+[2026-07-31 14:00] Vivek Unban: Ig username- @gazelle.4173266 @rrovacapital @
+[2026-07-31 14:00] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/d9/09/at_0_E8FE1B87-BE48-448C-9D52-0856E1970A29/IMG_2656.PNG>
+[2026-07-31 14:01] Beiberr: I’m telling him to login into those
+[2026-07-31 14:01] Vivek Unban: Sure thank you so much
+[2026-07-31 14:12] Beiberr: Is it unbanned ??
+[2026-07-31 14:15] Beiberr: ￼￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/c8/08/at_0_2801D25D-53B9-4F0D-8E01-D67B1165C2EE/IMG_2337.PNG>
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/c9/09/at_1_2801D25D-53B9-4F0D-8E01-D67B1165C2EE/IMG_2336.PNG>
+[2026-07-31 14:15] Vivek Unban: Try re open app
+  ...
+[2026-07-31 14:17] Vivek Unban: Close Instagram app reopen
+[2026-07-31 14:20] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/f0/00/at_0_26D17CDE-6ACC-4C0A-B7E3-524CA0C81186/IMG_2338.PNG>
+[2026-07-31 14:20] Vivek Unban: Last one also be same
+  ...
+[2026-07-31 14:38] Vivek Unban: Will be proceeding
+[2026-07-31 15:20] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/f5/05/at_0_870E44BF-DCF3-49C0-BBE1-D1E63468D491/43b391a7-1802-4e33-b3dc-830c373c825a.JPG>
+[2026-07-31 15:21] Beiberr: ￼Jabran Khan Facebook; https://m.facebook.com/jabran.khan.5 Email ; jabrankhan123@hotmail.co.uk Follower count 5k
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/b1/01/at_0_F9B90F64-F16C-4403-92C7-19A0A06E9070/6074b8d7-da1b-4fe9-bd70-2c0026dce74d.JPG>
+[2026-08-01 09:24] Vivek Unban: Hi
+[2026-08-01 15:38] Beiberr: What’s up
+[2026-08-02 05:25] Vivek Unban: Need verification on Facebook profile
+[2026-08-02 16:10] Beiberr: Which one
+  ...
+[2026-08-02 19:47] Beiberr: Vivek
+[2026-08-02 19:50] Beiberr: ￼￼￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/d9/09/at_0_951D9AC8-78A4-4E75-8847-328D9ABC1B73/IMG_7893.JPEG>
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/da/10/at_1_951D9AC8-78A4-4E75-8847-328D9ABC1B73/IMG_7893.JPEG>
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/db/11/at_2_951D9AC8-78A4-4E75-8847-328D9ABC1B73/IMG_7892.JPEG>
+[2026-08-02 21:54] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/f6/06/at_0_FCCEF092-6231-412B-BE79-F4C281DAA40F/IMG_0423.heic>
+[2026-08-02 21:54] Beiberr: Vivek
+  ...
+[2026-08-03 00:07] Vivek Unban: Back
+[2026-08-03 00:08] Vivek Unban: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/d5/05/at_0_DAC40825-61E2-4954-B5E2-528CBBDB314D/IMG_3465.jpeg>
+[2026-08-03 00:15] Beiberr: https://www.instagram.com/hooptrailer
+      <IMG MISSING non-image: /Users/locklyjailbreak/Library/Messages/Attachments/96/06/86FC7973-73BC-4CF5-A527-97F27B1FFE55/8D0E36A3-CA06-4C21-8C03-902DDF8C90AC.pluginPayloadAttachment>
+[2026-08-03 00:15] Beiberr: Vivek
+[2026-08-03 00:15] Beiberr: I need that account banned
+[2026-08-03 00:18] Vivek Unban: Bro right now focused on unban
+[2026-08-03 00:18] Vivek Unban: Later will do ban
+[2026-08-03 00:18] Vivek Unban: Username
+  ...
+[2026-08-03 00:29] Beiberr: When ?
+[2026-08-03 00:30] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/b2/02/at_0_17E1059C-4327-435A-BB59-C17CF54883A3/IMG_2821.PNG>
+[2026-08-03 00:30] Beiberr: Does he verify it ?
+[2026-08-03 00:31] Vivek Unban: Don’t do it
+  ...
+[2026-08-03 01:21] Beiberr: He didn’t
+[2026-08-03 01:21] Vivek Unban: Please don’t do anything otherwise we have to pay its a noted case rep Will take care of it
+[2026-08-03 01:22] Vivek Unban: It will be back in couple of hours
+  ...
+[2026-08-03 01:44] Beiberr: 182436 is your Instagram code. Don't share it.
+[2026-08-03 01:47] Vivek Unban: Bro he tried to verify it
+[2026-08-03 01:47] Beiberr: What does that mean
+[2026-08-03 01:47] Vivek Unban: This
+[2026-08-03 01:49] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/10/00/at_0_4D8D69C1-E02D-4ECF-B4F1-81C69C17E98C/IMG_2831.PNG>
+[2026-08-03 01:50] Vivek Unban: Need Facebook
+  ...
+[2026-08-03 01:52] Beiberr: I’m gunna check
+[2026-08-03 01:53] Vivek Unban: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/db/11/at_0_84C3A703-1058-43C7-8D4F-F35CF92CFE36/Screenshot 2026-08-03 at 7.23.01 AM.png>
+[2026-08-03 01:53] Vivek Unban: Its not rep problem
+[2026-08-03 01:53] Beiberr: Wdym
+[2026-08-03 01:54] Vivek Unban: Need login of gazelle.4173266
+[2026-08-03 01:56] Beiberr: 123Boggeman123
+  ...
+[2026-08-03 01:56] Vivek Unban: Sent on email
+[2026-08-03 01:57] Beiberr: ￼440234
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/f4/04/at_0_E4AA8A9D-0CF9-4742-B1B1-01CAF0F4E457/IMG_2837.PNG>
+[2026-08-03 02:24] Vivek Unban: Login code for Facebook
+[2026-08-03 02:40] Beiberr: He’s hasn’t gotten a code
+[2026-08-03 02:40] Vivek Unban: Facebook got unbanned
+[2026-08-03 02:41] Vivek Unban: Tell him to unlock the account asap
+  ...
+[2026-08-03 02:41] Vivek Unban: Facebook account
+[2026-08-03 02:41] Vivek Unban: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/e3/03/at_0_B21E9E20-1BAD-478F-8280-A4FF3475FA74/IMG_3472.jpeg>
+[2026-08-03 02:41] Beiberr: How would he unlock it through email
+[2026-08-03 02:42] Vivek Unban: Now Facebook got unbanned
+[2026-08-03 02:42] Beiberr: Ok what else do we do
+[2026-08-03 02:42] Vivek Unban: ￼
+      <IMG MISSING non-image: /Users/locklyjailbreak/Library/Messages/Attachments/b6/06/at_0_DAD90800-43F7-41B9-9637-1C45578FCE00/ScreenRecording_08-03-2026 08-12-25_1.mov>
+[2026-08-03 02:42] Vivek Unban: Use selfie verification option to unlock the account asap
+[2026-08-03 02:51] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/d9/09/at_0_3F4BD663-2475-4F58-BE88-AB67685053FF/IMG_2846.png>
+[2026-08-03 02:53] Vivek Unban: Send password
+  ...
+[2026-08-03 02:57] Vivek Unban: Code from mail
+[2026-08-03 03:01] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/a8/08/at_0_53018676-FFF3-4B77-9028-42E8F5953C42/IMG_2774.PNG>
+[2026-08-03 03:02] Vivek Unban: Another
+[2026-08-03 03:03] Vivek Unban: Ask Him the new password for Facebook
+[2026-08-03 03:04] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/15/05/at_0_E56AEAB4-0856-46DC-A1BD-AF43AB753AE6/IMG_2776.PNG>
+[2026-08-03 03:04] Beiberr: 123Boggeman123!
+[2026-08-03 03:04] Beiberr: New password
+[2026-08-03 03:05] Vivek Unban: Approval
+[2026-08-03 03:05] Vivek Unban: Please
+[2026-08-03 03:08] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/17/07/at_0_C43ECCD8-E73B-4DD9-B3A8-F48926449BD8/IMG_2853.png>
+[2026-08-03 03:08] Beiberr: This is what he got
+  ...
+[2026-08-03 03:09] Beiberr: Ik
+[2026-08-03 03:09] Beiberr: Where would he get approval on ?
+[2026-08-03 03:09] Vivek Unban: Bro rep almost get fired because of him
+  ...
+[2026-08-03 05:45] Beiberr: What’s app
+[2026-08-03 11:33] Vivek Unban: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/ea/10/at_0_4D987F1D-CF2A-4E6C-BF34-202055FA8696/IMG_3486.jpeg>
+[2026-08-03 11:33] Vivek Unban: Today restored 3 content total restored in hand 5 content
+[2026-08-03 12:09] Vivek Unban: Already appealed 7 content trying figure out to restore them also
+[2026-08-03 14:44] DEREK: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/f1/01/at_0_BD182DEA-2A49-45F5-B934-921B5C48E5CA/IMG_7091.JPG>
+[2026-08-03 14:44] DEREK: ￼￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/e4/04/at_0_835FA1D9-5B55-43E8-B73D-98E194CE72E0/IMG_7092.JPG>
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/e5/05/at_1_835FA1D9-5B55-43E8-B73D-98E194CE72E0/35c6f595-e307-4db8-bc97-768bb3acf569.JPG>
+[2026-08-03 14:45] DEREK: 3 done lets collect
+[2026-08-03 14:45] Beiberr: I’m alr on it
+[2026-08-03 14:45] DEREK: Kk
+[2026-08-03 14:45] Vivek Unban: Because of client Facebook this account get fucked
+[2026-08-03 14:45] Vivek Unban: Derrek we are submitting next list
+[2026-08-03 14:45] DEREK: Yes sending you crypto in next 10 minutes
+[2026-08-03 14:46] Vivek Unban: Thank you buddy
+[2026-08-03 14:46] Vivek Unban: Before sending please confirm with me the addy
+[2026-08-03 14:49] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/08/08/at_0_EA4ECBE5-AC3C-45A0-94CF-901D0D19E735/IMG_2882.jpeg>
+[2026-08-03 14:49] Beiberr: DMV.resellers
+[2026-08-03 14:50] Beiberr: Sent the wire hasn’t hit yet
+[2026-08-03 14:50] Vivek Unban: Bro i have to clear payment otherwise we can’t add on our cases
+[2026-08-03 14:50] Vivek Unban: No one waits more than a hour after unban
+[2026-08-03 14:51] Beiberr: I understand that but not everyone has crypto vivek he sent me bank wire
+[2026-08-03 14:51] Vivek Unban: Bro every case handle in crypto for unban
+[2026-08-03 14:53] Beiberr: I get that not everyone has crypto I have to exchange crypto with my guy but they need the $$ upfront
+[2026-08-03 14:54] DEREK: Then we need to do payment upfront so we can exchange
+[2026-08-03 14:55] DEREK: Reps don’t have time to wait that’s the issue
+  ...
+[2026-08-03 14:55] DEREK: I’m not covering those
+[2026-08-03 14:56] Beiberr: ￼Client been sent the wire
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/1a/10/at_0_1FAF6631-60BB-4BE0-84B3-E1937DEDFCAF/IMG_2884.PNG>
+[2026-08-03 14:56] Beiberr: For DMV.resellers
+  ...
+[2026-08-03 14:59] DEREK: Liked “I still haven’t gotten it yet”
+[2026-08-04 14:55] Vivek Unban: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/9e/14/at_0_15E7E589-793A-46C0-B094-631C505BA124/IMG_3500.PNG>
+[2026-08-04 14:56] Vivek Unban: 2 more restored
+[2026-08-04 14:56] Vivek Unban: Will update for rest of them
+[2026-08-04 15:00] Beiberr: Sounds good
+[2026-08-04 16:35] Vivek Unban: You want to ban a profile ?
+[2026-08-04 16:35] Beiberr: Yes
+  ...
+[2026-08-04 16:35] Vivek Unban: Share link
+[2026-08-04 16:35] Beiberr: https://www.instagram.com/hooptrailer
+      <IMG MISSING non-image: /Users/locklyjailbreak/Library/Messages/Attachments/ee/14/65ECD0B2-AFEE-4066-A772-D0A8177117B2/05F58B5E-EB23-45B5-9F3F-3034A7DDCDC9.pluginPayloadAttachment>
+[2026-08-05 00:05] Beiberr: ^
+[2026-08-05 00:05] Beiberr: ^
+[2026-08-05 00:05] Beiberr: Lmk when submitted
+[2026-08-05 00:06] DEREK: Give him some time he had to go to the hospital
+[2026-08-05 00:10] Beiberr: Okay
+[2026-08-05 09:38] Vivek Unban: Will lmk your pending unban case’s
+[2026-08-05 14:28] Beiberr: ^
+  ...
+[2026-08-05 14:30] Vivek Unban: And
+[2026-08-05 14:32] Vivek Unban: No hold after unban
+[2026-08-05 14:42] Beiberr: https://www.instagram.com/dkdannyy
+      <IMG MISSING non-image: /Users/locklyjailbreak/Library/Messages/Attachments/ea/10/at_0_450B2987-DA4A-449F-865B-F677EB2A97F5/1E516CCB-6251-45C8-9A1F-C52F8E138F55.pluginPayloadAttachment>
+[2026-08-05 14:43] Vivek Unban: @dkdannyy
+[2026-08-05 14:49] Beiberr: Yes
+[2026-08-05 14:50] Vivek Unban: No hold after unban
+[2026-08-05 14:50] Beiberr: ?
+  ...
+[2026-08-05 14:51] Vivek Unban: Yes
+[2026-08-05 14:51] Vivek Unban: It must be non appeal
+[2026-08-05 15:03] Beiberr: ?
+  ...
+[2026-08-05 16:48] Vivek Unban: Derrek confirmation needed
+[2026-08-05 16:48] DEREK: If they’re going back down, bro
+[2026-08-05 16:49] DEREK: There’s no reason to do the Unban
+[2026-08-05 16:49] Vivek Unban: No i did
+[2026-08-05 16:49] Vivek Unban: Them for security reay
+[2026-08-05 16:49] DEREK: Wdym
+[2026-08-05 16:49] DEREK: Ah
+[2026-08-05 16:49] Vivek Unban: I banned those two accounts
+[2026-08-05 16:49] DEREK: Beiberr these people will be ready to pay?
+[2026-08-05 16:52] Beiberr: ?
+[2026-08-05 16:54] Vivek Unban: Not yours bro
+[2026-08-05 16:56] Beiberr: Oh ok
+[2026-08-05 16:58] DEREK: Emphasized “Beiberr these people will be ready to pay?”
+[2026-08-05 16:58] DEREK: So bro
+[2026-08-05 16:58] DEREK: Those two that you sent us
+[2026-08-05 16:58] DEREK: you confirming that they’ll be ready to pay
+[2026-08-05 17:04] Beiberr: Dkdanny confirmed 👍
+[2026-08-05 17:06] Vivek Unban: Added
+[2026-08-05 17:06] Beiberr: @diabeticcoochieflakes
+[2026-08-05 17:06] Vivek Unban: Added
+[2026-08-05 17:06] Vivek Unban: Confirmed?
+[2026-08-05 17:07] Beiberr: Yes
+[2026-08-05 17:11] DEREK: Confirmed
+[2026-08-06 13:28] biebierrr@icloud.com: Yo db
+[2026-08-06 13:28] biebierrr@icloud.com: I accidentally deleted my e sim off my phone
+[2026-08-06 13:28] biebierrr@icloud.com: I have to call AT&T when I land
+[2026-08-06 13:28] Vivek Unban: Okay
+[2026-08-06 14:19] DEREK: 😂
+[2026-08-06 15:51] biebierrr@icloud.com: Ik im fucking idiot
+[2026-08-06 15:51] biebierrr@icloud.com: Top 5

@@ -1,0 +1,58 @@
+# ALTR CREW  [imessage #3482 GROUP]
+msgs=43 (in=36 out=7) window=2026-04-27..2026-06-13
+last_client=2026-06-13 (97d ago), last_derrek=2026-05-22 (119d ago)
+LAST MESSAGE FROM CLIENT — UNANSWERED: 'I need to log in'
+
+  ...
+[2026-04-27 17:23] Isa Cuneo: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/11/01/at_0_7E440432-B38C-4DFD-BEDB-0B02B368CCCE/IMG_2292.PNG>
+[2026-04-27 17:24] Valentina Pomata: Haven’t tried to log in
+[2026-04-27 17:24] Valentina Pomata: Does it shows you from what acc is that?
+[2026-04-27 17:25] Isa Cuneo: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/f2/02/at_0_93F0834C-3F6E-4A44-840E-1BEF7986FC1F/IMG_2293.PNG>
+[2026-04-27 17:25] Valentina Pomata: I think it’s a sold acc
+[2026-04-27 17:26] Isa Cuneo: Oo ok
+[2026-04-27 17:33] Isa Cuneo: What we doing today
+[2026-05-22 13:33] Isa Cuneo: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/e9/09/at_0_7F22DED8-D125-48C3-AA2D-2B171FF2D617/80114960683__E67BD208-2607-4B0E-9DD3-AA150E699B70.heic>
+[2026-05-22 13:33] Isa Cuneo: Christiannn hey trying to log in to this email from aged account
+[2026-05-22 13:34] Christian King👑👑👑: What’s the name of the account?
+[2026-05-22 13:35] Christian King👑👑👑: The handle
+[2026-05-22 13:59] Isa Cuneo: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/dd/13/at_0_C8178497-D767-41FB-82BA-9DF3404E1AE2/80115119585__C6DE2292-2A70-40D1-A982-A4EC45ED5F3D.heic>
+[2026-05-22 14:00] Christian King👑👑👑: When did you get those aged accounts?
+[2026-05-22 14:01] Christian King👑👑👑: Are we logging into them for the first time? They haven’t had themes or new handles assigned to them yet right?
+[2026-05-22 14:02] Christian King👑👑👑: If they’re new I’m not gonna have them on 2fa
+[2026-05-22 14:02] Valentina Pomata: Derrek gave us this list couple days ago to start working with Mexico farm
+[2026-05-22 14:04] Christian King👑👑👑: I won’t have any of them under my auth app then, if it’s asking for a 2fa code from auth app mark it red and tell war to replace
+[2026-05-22 14:04] Isa Cuneo: Vale im not able to edit the sheet
+[2026-05-22 14:13] Christian King👑👑👑: Ah
+[2026-05-22 14:29] Isa Cuneo: ￼This one too rip
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/1c/12/at_0_A0BB6BBE-B119-4102-AE5D-FDD4FB41CD96/IMG_5952.heic>
+[2026-05-22 14:30] Isa Cuneo: Its gonna ask for two step for everything so lmk what to do guys
+[2026-05-22 14:30] Isa Cuneo: Aka derrek lol
+[2026-05-22 14:31] Christian King👑👑👑: What’s try another way say
+[2026-05-22 14:32] Isa Cuneo: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/fa/10/at_0_F3F645BF-19DE-4613-9A4C-C687AA861B3D/80115314126__75112353-4B55-4209-8FE7-726C90786278.heic>
+[2026-05-22 14:33] Christian King👑👑👑: Hmm okay ya they have 2fa google auths active on them
+[2026-05-22 17:06] Valentina Pomata: Derrek all the accounts need 2fa with google too. What do we do?
+[2026-05-22 17:28] DEREK: Fuck they’re all 2FA
+[2026-05-22 17:28] DEREK: The whole reason we were using accounts off that sheet anyways was because we couldn’t get into the phones to make them so we should just start creating accounts
+[2026-05-22 17:28] DEREK: I can get you guys aged Gmail’s if you need
+[2026-05-22 17:28] DEREK: Also, a Gmail, you need to be on incognito mode
+[2026-05-22 17:29] Valentina Pomata: I think aged emails can work
+[2026-05-22 17:29] Valentina Pomata: What about warrior aged acc?
+[2026-05-22 17:30] DEREK: I just wanted you guys to use those 20 and then create from scratch so it’s in Mexico every time
+[2026-05-22 17:33] Valentina Pomata: Okay! So whenever you have the aged gmails send them here 🙌🏼
+[2026-05-22 17:34] DEREK: https://docs.google.com/spreadsheets/d/1W08QXQd_tKjbCwt35H-P7blvTBLfim_2SrbNDpzeUd4/edit?usp=sharing
+      <IMG MISSING non-image: /Users/locklyjailbreak/Library/Messages/Attachments/21/01/920C9998-3E49-416C-A7D9-7D10A7E2DA79/22E25C37-A92F-40AC-B7C2-F0FF35C5F7CA.pluginPayloadAttachment>
+      <IMG OK non-image: /Users/locklyjailbreak/Library/Messages/Attachments/34/04/15B60009-B2DB-41E0-A943-7E63E9C2C30B/012144F0-B040-46C0-82C8-B08D6C524C97.pluginPayloadAttachment>
+      <IMG MISSING non-image: >
+[2026-05-22 17:35] Valentina Pomata: The greens are used?
+[2026-05-22 17:35] DEREK: No, completely disregard that
+[2026-05-22 17:36] Valentina Pomata: Liked “No, completely disregard that”
+[2026-06-13 15:55] Isa Cuneo: Whats the text verified acc logins
+[2026-06-13 15:57] Valentina Pomata: Huh?
+[2026-06-13 15:57] Valentina Pomata: Oh
+[2026-06-13 15:57] Isa Cuneo: Haha
+[2026-06-13 15:57] Isa Cuneo: I need to log in

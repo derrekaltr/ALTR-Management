@@ -1,0 +1,49 @@
+{
+ "cycles": [
+  {
+   "chat": "Lauren Blake x ALTR",
+   "period_key": "2026-07-06",
+   "period": "2026-07-06..07-31",
+   "period_start": "2026-07-06T00:00:00-05:00",
+   "issued_ts": "2026-08-03T15:13:15-05:00",
+   "issued_by": "Stephski",
+   "issue_msg_ids": [
+    147
+   ],
+   "followups": [],
+   "escalations": [],
+   "payment_links": [],
+   "payment_claimed_ts": "2026-08-03T15:15:08-05:00",
+   "payment_claim_msg": 148,
+   "payment_confirmed": true,
+   "evidence": "strong",
+   "lag_days": 0.0
+  }
+ ],
+ "events": [
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 142,
+   "ts": "2026-08-01T19:08:57-05:00",
+   "sender": "Derrek"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 147,
+   "ts": "2026-08-03T15:13:15-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CLAIMED",
+   "id": 148,
+   "ts": "2026-08-03T15:15:08-05:00",
+   "sender": "Lauren Blake"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 149,
+   "ts": "2026-08-03T15:15:17-05:00",
+   "sender": "Stephski"
+  }
+ ]
+}

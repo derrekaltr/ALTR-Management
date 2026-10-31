@@ -1,0 +1,491 @@
+{
+  "client": "Lauryn",
+  "slug": "lauryn-x-altr",
+  "week_ending": "2026-09-04",
+  "summary": "Two standoffs hardened this week and neither moved. On the delivery side, Vivek did not send a single message in the entire window. Lauryn chased him three times on Sep 2 ('Hey, @fonta' / 'Any updates???' / 'We still in review ??'), again on Sep 3 ('???'), and Mayson escalated internally ('@fonta ^^', Sep 3) - nothing came back. His last words on this account remain 'Still in review' (Aug 26), so the Facebook 'not recommended' flag she first raised on 2025-09-27 is now 342 days old and 9 days without any status at all. Last week's state file predicted exactly this and said escalate off Vivek if the answer was still 'in review' on Sep 4; the answer is now worse than 'in review', it is silence. On the money side, Stephski chased on Aug 30 ('please let us know when you can get your last 2 invoices paid'), then issued the Aug 15-31 invoice on Sep 1 with a 7-day term and an explicit warning - 'Also ask that you settle this invoice within 7 days to avoid us pausing work'. Lauryn did not dispute a cent but paid nothing, and for the second week running she pointed the reason at us: 'I'm well aware of payments being team has had a very slow month things aren't dropping quick!' and 'The monies are on hold !' (Sep 2). She did volunteer a screenshot of her pending OF balance on Sep 3 - the first proof she has ever offered - and said 'Watching pending balance now just sitting soon as it opens it's coming your way'. Three billing periods are now unsettled and this is the sixth consecutive period carrying a balance. Meanwhile the only new ALTR asks of the week were for MORE unpaid work from her: Mayson demanded a fresh content Drive with '7 reels a week so 30 in total per month' (Aug 30) for what he called a 'separate instagram account', which she did not understand and had to re-ask about twice, and Mica sent a posting-consistency nudge the next night. Michelle's DMCA leak update (Sep 1) was, for the sixth straight week, the only thing ALTR actually delivered. Derrek has not posted since Aug 13 (22 days) and Lauryn has stopped asking for him. The 'Lauryn chat team' vendor group has now been silent for 86 days.",
+  "health": {
+    "score": 32,
+    "trend": "down",
+    "rationale": "Down 8 from 40. Volume recovered (32 messages vs 12) but every additional message made the position worse. (1) Vivek went from two one-liners to zero: four client chases and one internal tag across Sep 2-3 got no reply at all, so the 342-day Facebook complaint has gone a full week with no status. Communication has now failed in three consecutive weekly windows and this is the worst of the three. (2) The payment problem escalated on both sides. Stephski had to write 'we are multiple invoices unpaid' language for a second week, then attached an explicit service-pause threat to the Sep 1 invoice; Lauryn repeated and hardened the ALTR-blame framing she introduced on Aug 27, moving from 'only moving off what's being funneled' to naming us directly - 'team has had a very slow month things aren't dropping quick'. Three periods are now unsettled, the sixth consecutive period carrying a balance, and nothing was paid in seven days. (3) The only new work ALTR proposed was 30 reels a month FROM her, for a purpose she asked about three times and never got a clear answer to, while her Facebook page is still throttled and she has already said she will not post 'in this state of page'. Holding the score off the 20s: she is still warm and has never disputed an amount, she proactively sent a screenshot of her pending balance on Sep 3, Stephski invoiced on time and offered a partial-payment path, and Michelle's DMCA update landed for the sixth straight week."
+  },
+  "reminders": [
+    {
+      "employee": "Vivek",
+      "topic": "Chasing any status at all on the Facebook 'not recommended' flag. Four chases across two days plus an internal tag from Mayson, and Vivek did not reply once in the entire window. This is the fourth consecutive week she has had to open the conversation herself - she did the same on 2026-08-25 ('How we looking???'), 2026-08-18 ('Any updates ???') and 2026-08-12 ('Any update on your end ?? @fonta').",
+      "count": 4,
+      "evidence": [
+        {
+          "quote": "Hey, @fonta",
+          "date": "2026-09-02"
+        },
+        {
+          "quote": "Any updates???",
+          "date": "2026-09-02"
+        },
+        {
+          "quote": "We still in review ??",
+          "date": "2026-09-02"
+        },
+        {
+          "quote": "???",
+          "date": "2026-09-03"
+        },
+        {
+          "quote": "@fonta ^^",
+          "date": "2026-09-03"
+        },
+        {
+          "quote": "How we looking???",
+          "date": "2026-08-25"
+        },
+        {
+          "quote": "Still in review",
+          "date": "2026-08-26"
+        }
+      ]
+    },
+    {
+      "employee": "Mayson",
+      "topic": "Having to re-ask twice, over two days, what the new content Drive and the '7 reels a week' mandate are actually for. Her first three questions got a two-word answer ('No separate instagram account!') that contradicted the request itself, so she asked again the next day and got 'Yes we want to push more content out'. Same failure mode as 2026-10-09 when she had to be told her uploaded folder videos were not the reels she was being asked to make, and 2026-06-12 when she asked why lasworld.vip replaced the juicy.bio link she already had.",
+      "count": 2,
+      "evidence": [
+        {
+          "quote": "What is this for ???",
+          "date": "2026-08-30"
+        },
+        {
+          "quote": "OF to sell or ???",
+          "date": "2026-08-30"
+        },
+        {
+          "quote": "What do you mean",
+          "date": "2026-08-31"
+        },
+        {
+          "quote": "Separate IG account???",
+          "date": "2026-08-31"
+        },
+        {
+          "quote": "Yes we want to push more content out",
+          "date": "2026-08-31"
+        }
+      ]
+    }
+  ],
+  "complaints": [
+    {
+      "issue": "Facebook page still flagged 'not recommended' - 342 days after she first raised it on 2025-09-27, 28 days into the Vivek escalation, and 19 days after we were given full account access on 2026-08-16. Vivek sent zero messages this window and his last statement on it remains 'Still in review' (2026-08-26). No dated plan has ever been produced. She has held off posting on the page because of this and it is the stated reason she describes the account as at a standstill.",
+      "status": "recurring",
+      "owner": "Vivek",
+      "evidence": [
+        {
+          "quote": "Can we see what’s going on with this ?",
+          "date": "2025-09-27"
+        },
+        {
+          "quote": "It’s very important for my page to be back up and functioning due to Business reasons 🙏🏽",
+          "date": "2026-08-18"
+        },
+        {
+          "quote": "PAGE NOT RECOMMENDED",
+          "date": "2026-08-20"
+        },
+        {
+          "quote": "Still in review",
+          "date": "2026-08-26"
+        },
+        {
+          "quote": "We still in review ??",
+          "date": "2026-09-02"
+        },
+        {
+          "quote": "???",
+          "date": "2026-09-03"
+        }
+      ]
+    },
+    {
+      "issue": "Meta-rep communication has failed completely - fourth consecutive week, and the worst yet. It has degraded from wrong-platform updates (Aug 19-20) to four-day silences (Aug 21-25) to total non-response: four direct client chases and one internal escalation from Mayson across Sep 2-3, zero replies, nine days since his last message. Her explicit 2026-08-18 request 'Keep me updated pls' is now 17 days old and has never once been honoured - she has initiated every single contact for four straight weeks.",
+      "status": "recurring",
+      "owner": "Vivek",
+      "evidence": [
+        {
+          "quote": "Keep me updated pls",
+          "date": "2026-08-18"
+        },
+        {
+          "quote": "Hey, @fonta",
+          "date": "2026-09-02"
+        },
+        {
+          "quote": "Any updates???",
+          "date": "2026-09-02"
+        },
+        {
+          "quote": "???",
+          "date": "2026-09-03"
+        },
+        {
+          "quote": "@fonta ^^",
+          "date": "2026-09-03"
+        }
+      ]
+    },
+    {
+      "issue": "Client is now tying payment to ALTR non-delivery for a second consecutive week, and she has sharpened it. On 2026-08-27 the framing was passive ('only moving off what’s being funneled'); on 2026-09-02 she named the team directly - 'team has had a very slow month things aren't dropping quick'. Every payment delay in the preceding twelve months was framed as her own cash flow or OF payout timing, never as our performance. This is a churn signal dressed as a payment update and it is now an established position, not a one-off remark.",
+      "status": "recurring",
+      "owner": "Derrek",
+      "evidence": [
+        {
+          "quote": "Being that account is basically at a stand still when everything drops I’ll make those invoices expeditiously",
+          "date": "2026-08-27"
+        },
+        {
+          "quote": "I’m aware already got my side reviewing my Books but only moving off what’s being funneled",
+          "date": "2026-08-27"
+        },
+        {
+          "quote": "I’m well aware of payments being team has had a very slow month things aren’t dropping quick!",
+          "date": "2026-09-02"
+        },
+        {
+          "quote": "The monies are on hold !",
+          "date": "2026-09-02"
+        }
+      ]
+    },
+    {
+      "issue": "Nobody is chatting or managing the OnlyFans page. The 'Lauryn chat team' vendor group has not posted since 2026-06-10 - 86 days - and the replacement Mayson announced the same day ('we are putting on a different team') has never appeared in the chat or been introduced to her. There has been no mention of chatting, revenue, customs or content performance in four consecutive weekly windows. She still believes a team is working the page, which is why she describes its slow month as ours.",
+      "status": "recurring",
+      "owner": "Derrek",
+      "evidence": [
+        {
+          "quote": "Heyy LA ! Noticed your page got unlinked, please let us know what happened. Thank you!",
+          "date": "2026-06-10"
+        },
+        {
+          "quote": "Hey @lxnselot we are putting on a different team",
+          "date": "2026-06-10"
+        },
+        {
+          "quote": "I totally understand! We just need to get the team paid out thats worked on your account, and its difficult to have them continue to work unpaid, so please let us know when you can get your last 2 invoices paid please 🙏 we have another invoice coming Tuesday",
+          "date": "2026-08-30"
+        },
+        {
+          "quote": "I’m well aware of payments being team has had a very slow month things aren’t dropping quick!",
+          "date": "2026-09-02"
+        }
+      ]
+    },
+    {
+      "issue": "OWNER-LEVEL, surface privately: Derrek has not posted on this account since 2026-08-13 - 22 days. He personally instructed her through the 2FA steps, she completed them on time on 2026-08-15, reported back and tagged him twice, and the promised visual/annotated version of those steps was never sent. She stopped chasing him two weeks ago and has not mentioned him since. A client who has stopped asking has stopped expecting.",
+      "status": "recurring",
+      "owner": "Derrek",
+      "evidence": [
+        {
+          "quote": "let me get you some step by step instructions to do it",
+          "date": "2026-08-13"
+        },
+        {
+          "quote": "Visually that’s better",
+          "date": "2026-08-13"
+        },
+        {
+          "quote": "All the steps are completed",
+          "date": "2026-08-15"
+        },
+        {
+          "quote": "Let me know about login",
+          "date": "2026-08-15"
+        },
+        {
+          "quote": "Kk @ofwizz chime in",
+          "date": "2026-08-15"
+        }
+      ]
+    },
+    {
+      "issue": "Live credential exposure sitting unremediated in the group chat for 28 days - two Facebook passwords in plaintext, her FB-linked phone number and a live SMS 2FA code. No rotation has happened, no written policy has been issued, and the Aug 16 passkey add/remove method has not been made standing practice. ALTR hygiene failure rather than a client complaint - she has never raised it, and her management formally ruled out password sharing on 2026-08-15.",
+      "status": "recurring",
+      "owner": "Derrek",
+      "evidence": [
+        {
+          "quote": "PW: [REDACTED-PASSWORD]",
+          "date": "2026-08-07"
+        },
+        {
+          "quote": "New FB Password: [REDACTED-PASSWORD]",
+          "date": "2026-08-09"
+        },
+        {
+          "quote": "470 226 9179",
+          "date": "2026-08-15"
+        },
+        {
+          "quote": "Talked to my Management we can’t give out certain passwords just for confidential purposes",
+          "date": "2026-08-15"
+        },
+        {
+          "quote": "[REDACTED-2FA-CODE]",
+          "date": "2026-08-16"
+        }
+      ]
+    },
+    {
+      "issue": "NEW: the only new ALTR initiative of the week was a demand for more unpaid work from the client, delivered without context and while three invoices sit unsettled and her page is still throttled. Mayson dropped a content Drive with a 30-reels-a-month quota for a 'separate instagram account' she has never been briefed on; her three questions got two contradictory one-liners. Mica followed the next night with a posting-consistency nudge, despite Lauryn having said on 2026-08-12 that she will not resume posting while the page is in this state.",
+      "status": "new",
+      "owner": "Mayson",
+      "evidence": [
+        {
+          "quote": "Please upload all the content you have that hasn't been posted yet, then keep it topped up with 7 reels a week so 30 in total per month",
+          "date": "2026-08-30"
+        },
+        {
+          "quote": "No separate instagram account!",
+          "date": "2026-08-30"
+        },
+        {
+          "quote": "Separate IG account???",
+          "date": "2026-08-31"
+        },
+        {
+          "quote": "Hi love 💕 just wanted to reiterate how important consistent posting is for increasing social media engagement!",
+          "date": "2026-08-31"
+        },
+        {
+          "quote": "Def gotta get back to posting on page , but not in this state of page",
+          "date": "2026-08-12"
+        }
+      ]
+    }
+  ],
+  "commitments": [
+    {
+      "what": "Vivek to get the Facebook page out of 'not recommended' status. Promised 2026-08-07 conditional on logins, full account access delivered 2026-08-16, re-committed 2026-08-18. 28 days outstanding, 19 of them with full access, and zero communication in the last 9 days.",
+      "who": "Vivek",
+      "status": "overdue",
+      "due": "no date ever given",
+      "evidence": [
+        {
+          "quote": "Will do my part",
+          "date": "2026-08-18"
+        },
+        {
+          "quote": "Done with Instagram now only focus on Facebook shadow",
+          "date": "2026-08-19"
+        },
+        {
+          "quote": "Still in review",
+          "date": "2026-08-26"
+        }
+      ]
+    },
+    {
+      "what": "Vivek to give proactive status updates instead of making her check in, as she asked directly on 2026-08-18. Completely broken: she initiated every contact for the fourth straight week and this week he answered none of it.",
+      "who": "Vivek",
+      "status": "overdue",
+      "due": "2026-08-18",
+      "evidence": [
+        {
+          "quote": "Keep me updated pls",
+          "date": "2026-08-18"
+        },
+        {
+          "quote": "Any updates???",
+          "date": "2026-09-02"
+        }
+      ]
+    },
+    {
+      "what": "TOP OVERDUE PROMISE, OWNER-LEVEL: Derrek to send the visual/annotated version of the 2FA steps and to retry the Facebook login with her after she completed his instructions. She did her part on 2026-08-15 and tagged him twice. 22 days of owner silence and she has now stopped asking.",
+      "who": "Derrek",
+      "status": "overdue",
+      "due": "2026-08-13",
+      "evidence": [
+        {
+          "quote": "let me get you some step by step instructions to do it",
+          "date": "2026-08-13"
+        },
+        {
+          "quote": "Visually that’s better",
+          "date": "2026-08-13"
+        },
+        {
+          "quote": "All the steps are completed",
+          "date": "2026-08-15"
+        }
+      ]
+    },
+    {
+      "what": "Put a working chat team back on the page, or at minimum tell her who is covering it. Mayson announced a replacement team on 2026-06-10; 86 days later nobody has been introduced and no chatting, revenue or custom activity has been mentioned once. This is the gap that is now driving the payment problem.",
+      "who": "Derrek",
+      "status": "overdue",
+      "due": "2026-06-10",
+      "evidence": [
+        {
+          "quote": "Hey @lxnselot we are putting on a different team",
+          "date": "2026-06-10"
+        }
+      ]
+    },
+    {
+      "what": "Rotate the two Facebook passwords exposed in-chat on Aug 7 and Aug 9, and move all credential and code exchange out of the group chat. Logged four weeks running, never actioned, 28 days outstanding.",
+      "who": "Derrek",
+      "status": "overdue",
+      "due": "2026-08-07",
+      "evidence": [
+        {
+          "quote": "New FB Password: [REDACTED-PASSWORD]",
+          "date": "2026-08-09"
+        },
+        {
+          "quote": "[REDACTED-2FA-CODE]",
+          "date": "2026-08-16"
+        }
+      ]
+    },
+    {
+      "what": "Client to clear the outstanding invoices in increments as her OnlyFans balance releases. Verbal commitment repeated twice this week but still with no date attached, and nothing was paid inside the window. The Aug 15 invoice is 20 days out and 13 days past its 7-day terms.",
+      "who": "Lauryn (client)",
+      "status": "pending",
+      "due": "no date given - tied to her OF payout clearing",
+      "evidence": [
+        {
+          "quote": "Hey, Stephanie as it drops you will receive invoices in increments",
+          "date": "2026-09-02"
+        },
+        {
+          "quote": "Totally agree!! When all drops you will receive.",
+          "date": "2026-09-02"
+        },
+        {
+          "quote": "Watching pending balance now just sitting soon as it opens it’s coming your way",
+          "date": "2026-09-03"
+        },
+        {
+          "quote": "Hopefully tonight it moves",
+          "date": "2026-09-03"
+        }
+      ]
+    },
+    {
+      "what": "Stephski to keep the invoice conversation alive rather than letting it drift - broken badly last cycle with an 11-day gap, honoured this week. She chased on Aug 30, issued the Sep 1 invoice on schedule, offered a partial-payment path on Sep 3 and acknowledged the client's screenshot the same afternoon.",
+      "who": "Stephski",
+      "status": "done",
+      "due": "2026-09-03",
+      "evidence": [
+        {
+          "quote": "Okay great, is there any portion you can pay? even a smaller amount to chip away?",
+          "date": "2026-09-03"
+        },
+        {
+          "quote": "Okay yes hopefully tonight it moves along!",
+          "date": "2026-09-03"
+        }
+      ]
+    }
+  ],
+  "payments": [
+    {
+      "note": "Stephski chased the two unpaid invoices and pre-announced a third, using team-welfare framing for the first time. No payment resulted.",
+      "amount": "not stated in chat",
+      "date": "2026-08-30",
+      "evidence": [
+        {
+          "quote": "I totally understand! We just need to get the team paid out thats worked on your account, and its difficult to have them continue to work unpaid, so please let us know when you can get your last 2 invoices paid please 🙏 we have another invoice coming Tuesday",
+          "date": "2026-08-30"
+        }
+      ],
+      "late": true
+    },
+    {
+      "note": "Aug 15-31 invoice issued on time as a PDF attachment, with 7-day terms and an explicit service-pause warning. No total and no due date were stated in the chat body, so there is still nothing in writing in-thread that names an amount - the third cycle running with that gap. This makes three unsettled billing periods and the SIXTH consecutive period carrying a balance.",
+      "amount": "not stated in chat",
+      "date": "2026-09-01",
+      "evidence": [
+        {
+          "quote": "Hi love happy September! Here is your invoice for the period of August 15-31 ❤️ Please let me know if you have any questions, as always, all payment information is at the bottom.🙏 Thank you queen lmk if you need anything!",
+          "date": "2026-09-01"
+        },
+        {
+          "quote": "Also ask that you settle this invoice within 7 days to avoid us pausing work 🙏 Our team on your page hasnt been paid in a little while",
+          "date": "2026-09-01"
+        }
+      ],
+      "late": true
+    },
+    {
+      "note": "Client responded warmly, disputed nothing, committed to paying in increments with no date, and for the second week running attributed the delay to ALTR performance rather than her own cash flow. She also stated the funds are frozen and outside her control.",
+      "amount": "not stated",
+      "date": "2026-09-02",
+      "evidence": [
+        {
+          "quote": "Hey, Stephanie as it drops you will receive invoices in increments",
+          "date": "2026-09-02"
+        },
+        {
+          "quote": "The monies are on hold !",
+          "date": "2026-09-02"
+        },
+        {
+          "quote": "That’s is beyond my control",
+          "date": "2026-09-02"
+        },
+        {
+          "quote": "I’m well aware of payments being team has had a very slow month things aren’t dropping quick!",
+          "date": "2026-09-02"
+        }
+      ],
+      "late": true
+    },
+    {
+      "note": "Stephski asked for any partial payment; client declined to send one but volunteered a screenshot of her pending OnlyFans balance - the first documentary proof she has ever offered in twelve months of payment history. Nothing was actually paid inside the window; the Aug 15 invoice is now 20 days out and 13 days past terms, and the $1,852.15 carryover from the Aug 1 invoice remains outstanding.",
+      "amount": "$1,852.15 known carryover, plus two unquantified invoices",
+      "date": "2026-09-03",
+      "evidence": [
+        {
+          "quote": "Okay great, is there any portion you can pay? even a smaller amount to chip away?",
+          "date": "2026-09-03"
+        },
+        {
+          "quote": "Watching pending balance now just sitting soon as it opens it’s coming your way",
+          "date": "2026-09-03"
+        }
+      ],
+      "late": true
+    }
+  ],
+  "client_priorities": [
+    "Getting the Facebook page out of 'not recommended' so she can resume posting - 342 days open, framed as a business necessity ('It’s very important for my page to be back up and functioning due to Business reasons 🙏🏽', 2026-08-18) and still the only topic she initiates unprompted",
+    "Seeing the account earn again - now dominant. She pays out of what her OF balance releases and says the team's slow month is why the invoices are not moving ('team has had a very slow month things aren’t dropping quick!', 2026-09-02), which makes visible chat-team activity the precondition for the bill clearing",
+    "Proactive updates instead of having to check in ('Keep me updated pls', 2026-08-18) - she has initiated every single contact for four consecutive weeks",
+    "Account security and confidentiality, formally backed by her management ('Talked to my Management we can’t give out certain passwords just for confidential purposes', 2026-08-15). She is not uncooperative - passkeys, SMS codes and login approvals all came within minutes",
+    "Clear, VISUAL, step-by-step instructions when asked to do technical work herself ('Visually that’s better', 2026-08-13) - still never delivered, 22 days on",
+    "Knowing WHY before she does work - she asked three times what the new content Drive and the 30-reels-a-month quota were for and never got a straight answer ('OF to sell or ???', 2026-08-30)",
+    "DMCA leak takedowns and clean 'name + naked' search results for branding - the one service still on cadence",
+    "Hard content boundaries: no explicit, nude or implied-sex customs, no 'fake masturbation' content",
+    "Payments split into increments and timed to OnlyFans payout drops"
+  ],
+  "suggestions": [
+    "Take the Meta appeal off Vivek this week. He has had 28 days, 19 of them with full account access, and produced no dated plan and no reply to five direct prompts across Sep 2-3. Either name a new owner with a written plan and a date, or tell her honestly that the flag may not clear and pivot the strategy to Instagram and TikTok. Nine more days of silence will cost more than an unwelcome answer.",
+    "Answer her one open question before anything else: she asked 'We still in review ??' on Sep 2 and '???' on Sep 3 and got nothing. Even 'no change, here is what we try next and by when' resets the relationship at zero cost.",
+    "Do not send another invoice or another chase until we can point at delivered work. She has now said twice that she pays out of what the page produces. Chasing does not fix a value objection - delivering does. Reverse the order: get someone visibly working the page, tell her who they are, then bill.",
+    "Get a named chat team introduced in the thread this week. The last vendor message was 2026-06-10 and the replacement Mayson promised the same day has never appeared. 86 days of silence is the root cause of both the revenue complaint and the payment stall.",
+    "Restate the Aug 15-31 invoice IN THE CHAT with the total, the due date and an itemised $1,852.15 carryover line, and confirm which rail to use. The Aug 15 account number and Zelle details have still never had a payment attempted on them in 20 days, and the last two cycles were both delayed by ALTR-side rail failures - do not discover a broken rail during a live collections conversation.",
+    "Accept the increment offer explicitly and put a floor under it. She said 'as it drops you will receive invoices in increments' and sent a screenshot of the pending balance. Agree a first tranche and a specific date rather than leaving it open-ended for a seventh period.",
+    "Pull the 30-reels-a-month request until the page is unblocked and the bill is settled, or re-brief it properly. Asking a client for 30 pieces of unpaid content a month, for a 'separate instagram account' she has never been briefed on, while three invoices are unpaid and her page is throttled, reads as tone-deaf. If the plan is real, send her one paragraph explaining what the account is, who runs it and what she gets from it.",
+    "Rotate the two exposed Facebook passwords, delete the credential and 2FA messages from the thread, and issue a one-line written policy that credentials never go in the group chat. 28 days open, four weeks logged, zero action - and her management has already told her not to share passwords."
+  ],
+  "wins": [
+    "Michelle's weekly DMCA leak-removal update landed on schedule on 2026-09-01 - the sixth consecutive week and the only unbroken service cadence on the account.",
+    "Stephski corrected last cycle's failure. After an 11-day silence on the Aug 15 invoice she chased on Aug 30, issued the new invoice on time on Sep 1, offered a partial-payment path on Sep 3 and acknowledged the client's screenshot the same afternoon - warm, persistent and same-day throughout.",
+    "The client volunteered a screenshot of her pending OnlyFans balance on 2026-09-03 - the first documentary proof she has offered in twelve months of payment history, and a sign she is still treating this as a shared problem rather than a dispute.",
+    "Tone is still intact after four bad weeks. She has never disputed a cent, still opens with 'Hey, Stephanie', and answered the payment escalation within a day: 'Totally agree!! When all drops you will receive.'",
+    "Mayson escalated to Vivek on her behalf on 2026-09-03 ('@fonta ^^') - the first internal nudge since Aug 21, even though it went unanswered."
+  ],
+  "week_stats": {
+    "messages": 32,
+    "client_messages": 17,
+    "team_messages": 15
+  }
+}

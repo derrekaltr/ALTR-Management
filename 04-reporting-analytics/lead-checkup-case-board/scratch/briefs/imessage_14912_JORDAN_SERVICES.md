@@ -1,0 +1,41 @@
+# JORDAN SERVICES  [imessage #14912 GROUP]
+msgs=26 (in=22 out=4) window=2026-09-11..2026-09-15
+last_client=2026-09-15 (3d ago), last_derrek=2026-09-13 (5d ago)
+LAST MESSAGE FROM CLIENT — UNANSWERED: 'Can we start with these two Once they are done client will continue sending rest'
+
+  ...
+[2026-09-11 23:00] DEREK: Yo
+[2026-09-11 23:10] Jordan Reseller: ￼
+      <IMG OK: /Users/locklyjailbreak/Library/Messages/Attachments/01/01/5EB56689-40CA-4E37-B0E3-CC00E41200C1/IMG_0423.jpeg>
+[2026-09-11 23:10] Daniel Veritrade: Ads accounts unbans 9
+[2026-09-11 23:10] Daniel Veritrade: And username claims
+[2026-09-11 23:13] Jordan Reseller: 
+      <IMG OK non-image: /Users/locklyjailbreak/Library/Messages/Attachments/89/09/at_0_25E11C31-E902-4393-AE4E-08658325313F/GroupPhotoImage>
+[2026-09-11 23:13] Jordan Reseller: @sysqo
+[2026-09-11 23:13] Jordan Reseller: @zoltan
+[2026-09-11 23:13] Jordan Reseller: @sanor
+[2026-09-11 23:14] Jordan Reseller: And if bulk order on users 10+ any better pricing
+[2026-09-11 23:38] Jordan Reseller: @jimbull
+[2026-09-12 15:05] DEREK: Kk
+[2026-09-12 15:06] DEREK: I’ll have everything to u today
+[2026-09-12 17:33] Jordan Reseller: Loved “I’ll have everything to u today”
+[2026-09-13 01:10] Jordan Reseller: Bump*
+[2026-09-13 01:12] DEREK: Hey broski I was backed up today with moving something and family. Im working all night and will have something over to you
+[2026-09-13 01:16] Jordan Reseller: I know your busy and you got things going on - all good though
+[2026-09-13 01:16] Jordan Reseller: https://www.facebook.com/share/g/1EWJ3f7j8h/?mibextid=wwXIfr
+      <IMG OK non-image: /Users/locklyjailbreak/Library/Messages/Attachments/b0/00/at_0_13090801-2BC0-4A29-9C3E-F0631909DAFB/6FBC7E34-4A27-4063-AC93-8EFA98B39E6D.pluginPayloadAttachment>
+      <IMG OK non-image: /Users/locklyjailbreak/Library/Messages/Attachments/43/03/D6895317-265E-4347-9DEC-FFB9B482744A/4902F2B3-C035-4BD3-B628-CDD47A52308D.pluginPayloadAttachment>
+      <IMG OK non-image: /Users/locklyjailbreak/Library/Messages/Attachments/b1/01/at_1_13090801-2BC0-4A29-9C3E-F0631909DAFB/14E6EC71-A736-4D82-9E34-CA8C7F448A13.pluginPayloadAttachment>
+[2026-09-13 01:16] Jordan Reseller: Price to drop this &... ￼I had him down before he's got it back & blue tick verified I really need this # perm'd if doable
+      <IMG OK: /Users/locklyjailbreak/Library/Messages/Attachments/42/02/74FE6349-BDB8-425D-AAF2-64B2A2B34C44/IMG_0657.png>
+[2026-09-13 16:58] Jordan Reseller: Yallah
+[2026-09-15 04:34] Daniel Veritrade: Hey Jordan sending those pitch decks over in a few hrs putting last touches
+[2026-09-15 04:34] Daniel Veritrade: We can do 2k per on those ads accounts
+[2026-09-15 12:57] Jordan Reseller: What's the TAT
+[2026-09-15 12:57] Jordan Reseller: Loved “Hey Jordan sending those pitch decks over in a few hrs putting last touches ”
+[2026-09-15 13:39] Jordan Reseller: Clients ready to go ahead with it just need to know the ETA for it to come back each one ruffly
+[2026-09-15 14:05] Jordan Reseller: ￼￼￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/85/05/5DCF3B4C-B63B-48E4-8BD2-1271EB832F6B/IMG_8709.jpeg>
+      <IMG OK: /Users/locklyjailbreak/Library/Messages/Attachments/31/01/E1B7A880-BD91-4D92-AA90-4D987814DE3B/IMG_8708.jpeg>
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/97/07/725ED53A-E424-4A70-97C2-EC8DDD2C152F/IMG_8707.jpeg>
+[2026-09-15 14:06] Jordan Reseller: Can we start with these two Once they are done client will continue sending rest

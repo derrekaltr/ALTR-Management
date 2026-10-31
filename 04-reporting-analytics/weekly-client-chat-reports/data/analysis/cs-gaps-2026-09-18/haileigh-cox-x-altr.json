@@ -1,0 +1,255 @@
+{
+  "client": "Haileigh Cox",
+  "slug": "haileigh-cox-x-altr",
+  "status": "at_risk",
+  "status_reason": "She is present, paying and still trying — 27 of 27 invoice cycles paid, the latest one the day after it was issued with no nudge at all, in a month she herself reported as down. Collection risk is zero. What makes her at_risk is that every structural item on the account is aging and none of it is owned: her #1 stated fear (losing her main IG) has a shadowban report 51 days unanswered and an ALTR-built product (.vip domains) that restricted two of her accounts 97 days ago and was never fixed or retired; three consecutive wires have gone to three different destinations with written confirmation of receipt for none of them; she has asked in writing twice (2026-03-22, 2026-04-22) for a named point of contact and never got one; and she has now had to self-diagnose her own revenue decline twice (2026-06-22, 2026-09-13) because ALTR has published no performance figure into this chat in all of 2026. She is not disengaging — she is doing our job for us and getting @tags back.",
+  "last_client_message": "2026-09-16",
+  "dimensions": {
+    "responsiveness": {
+      "severity": 3,
+      "internal_failure": "Median reply latency is genuinely good (most of her 59 explicit questions got an answer inside an hour), but we systematically drop the high-stakes ones — three separate account-warning screenshots were never answered at all, a $7,593 chargeback took five client messages across 24 hours before a human engaged, and she has twice put the complaint in writing without anything changing.",
+      "evidence": [
+        {
+          "quote": "Who do I reach out to for general messages here. I feel like every time i reach out it's either super delayed or just no response at all.",
+          "who": "Hailey Client",
+          "date": "2026-03-22"
+        },
+        {
+          "quote": "Who should i address for these? Cause no one ever responds when i send them here",
+          "who": "Hailey Client",
+          "date": "2026-04-22"
+        },
+        {
+          "quote": "I really want to figure all this out. Can someone please be in contact with me ASAP.  [her fifth message in 24h about a $7,593 chargeback — 20:50 on 6/21, then 01:11, 14:39, 16:16 and 20:19 on 6/22 — before Nate finally replied at 20:45]",
+          "who": "Hailey Client",
+          "date": "2026-06-22"
+        },
+        {
+          "quote": "Hey will these affect my account  [screenshot of IG account warnings. Never answered by anyone. The next ALTR message, 51 minutes later, was an invitation to a complimentary yoga class at ALTR's Miami studio. She sent a third warning screenshot on 4/12 — 'Hey i got another one.. this is kinda crazy' — which was also never answered]",
+          "who": "Hailey Client",
+          "date": "2026-04-08"
+        }
+      ]
+    },
+    "follow_through": {
+      "severity": 3,
+      "internal_failure": "Our house reply is 'let me check' / 'working on it' / 'I'll get you an answer shortly' and then nothing — roughly 40 of ~68 distinct forward-looking commitments made to her across 13 months lapsed, including two we stated as explicit guarantees ('last change I promise!' and 'Yes It's safe to put it in bio'), both of which turned out to be false.",
+      "evidence": [
+        {
+          "quote": "Working on it  [Mayson's entire response to 'One of my accounts already hit a restriction with it' and 'And my other one did too'. 96 days of silence since. The only later mention of the domains was him asking HER, on 8/27, why she wasn't using them]",
+          "who": "Mayson Chat",
+          "date": "2026-06-14"
+        },
+        {
+          "quote": "Yes 100% , let's switch off the content snare. Let me confirm with our team on who to add into the shared album today & we will go from there  [218 days later Content Snare is still live and she is on her fifth parallel intake channel, the newest carrying a 30-reels-a-month quota]",
+          "who": "Eric The Efficient",
+          "date": "2026-02-12"
+        },
+        {
+          "quote": "I'll get you an answer shortly  [on 'Do i wire it over to the same place i sent last month?'. He tagged Stephski on 8/19 and again on 8/20; Stephski never answered either time. The client answered her own question on 8/20 and wired on a verbal 'thats fine' from Derrek that contradicted the written invoice]",
+          "who": "Mayson Chat",
+          "date": "2026-08-19"
+        },
+        {
+          "quote": "Thank you for your understanding, we will have plenty of updates starting next week.  [on the $40k phone-farm IG rollout. Zero updates in the 48 days since, and this remains her most recent strategic communication of any kind from ALTR]",
+          "who": "Derrek",
+          "date": "2026-08-01"
+        }
+      ]
+    },
+    "proactive_communication": {
+      "severity": 3,
+      "internal_failure": "Outbound volume is high and outbound substance is near zero — she gets 3-5 unprompted messages a week and essentially all of them are templated broadcasts (DMCA/leak counts, reel-inspo link dumps, invoice reminders) or demands for her labour; ALTR has not published a single revenue or performance figure into this chat in all of 2026, and the longest stretch with no non-templated human outbound at all is 11 days.",
+      "evidence": [
+        {
+          "quote": "Please find here your bi-weekly report. I've added here a 14 day game plan - this narrows down the suggestions in the report and supports work life balance x  This is new and we want to test it, so let us know your thoughts.  [she replied 'Amazing!!!!! I love this.' It was delivered exactly twice, 2025-09-08 and 2025-09-22, then never again — 361 days without a performance report]",
+          "who": "Sophie Logan (Raw Agency)",
+          "date": "2025-09-08"
+        },
+        {
+          "quote": "Hey guys I know revenue this month is down so what do you guys need from me to help boost this months sale  [the SECOND time she has had to self-diagnose her own revenue problem — near-verbatim what she wrote on 2026-06-22. Mayson's reply 19 seconds later was '@natehei ^' and Noah has still not replied]",
+          "who": "Hailey Client",
+          "date": "2026-09-13"
+        },
+        {
+          "quote": "We're also finalizing a new system that will give you live results and visibility into upcoming promotions. Thank you for your patience as we put the finishing touches on this  [never delivered — 377 days]",
+          "who": "Lauren Biz Assistant",
+          "date": "2025-09-07"
+        }
+      ]
+    },
+    "onboarding_handoff": {
+      "severity": 2,
+      "internal_failure": "Week 1 was warm and well-staffed, but three loose ends from it were never tied off — the Content Snare customs view was broken on day 14 and never confirmed fixed, the promised strategy call took 30 days to happen, and 'who to contact for what' was never answered at all; she was still asking 'Do I have an account manager?' seven months in, and of ten people silently added to the group over the year only two ever introduced themselves.",
+      "evidence": [
+        {
+          "quote": "I guess my question is how do i know what kind of custom to do? This is all it shows  [Sophie: 'team are working on the custom error as we speak, we'll be proactive and get this fixed asap!' — never confirmed fixed, 375 days]",
+          "who": "Hailey Client",
+          "date": "2025-09-08"
+        },
+        {
+          "quote": "Hi Michelle! Nice to meet you and look forward to working with you as well!!! are you someone i can reach out to in regards to social media? I had questions about link in the bio!  [bounced to Mica. The pattern of her having to ask who owns what starts in week 2 and has never stopped]",
+          "who": "Hailey Client",
+          "date": "2025-09-08"
+        },
+        {
+          "quote": "Do I have an account manager?  [Joseph: 'Yes you do, Let me reach out to my contacts and ask where they are at'. Nobody ever came back. 180 days]",
+          "who": "Hailey Client",
+          "date": "2026-03-22"
+        }
+      ]
+    },
+    "chatter_conduct": {
+      "severity": 2,
+      "internal_failure": "Her two explicit brand-voice rules — no text emoticons on her wall, and all customs approved by her — were both agreed to and then quietly broken or left unconfirmed, and she has had to do her own VIP protection because nobody on our side flagged her whale for her.",
+      "evidence": [
+        {
+          "quote": "whoever chats and post on my wall can we please please not do those lame ass emoji things :pppp xD .. i use only real emojis and it just isn't me lol  [her SECOND time asking, after 2026-03-06. Joseph: 'Okay I will forward that message for you' — compliance never confirmed back to her, and he left the group in July]",
+          "who": "Hailey Client",
+          "date": "2026-03-26"
+        },
+        {
+          "quote": "We also have lowered custom price in order to motivate spending.  [announced to her as a completed decision, in a month she had just told us was down, against her standing rule from 2025-12-29 — 'Moving forward can we all have all customs approved by me?' — which Nick Scott answered '100% most definitely']",
+          "who": "Ronnie Chat",
+          "date": "2026-09-13"
+        },
+        {
+          "quote": "But make just Joshsaav gets it for free! He's the one that tipped $1.5k  [the client, unprompted, protecting her own top spender on a PPV drop. There is no instance in 775 messages of ALTR proactively identifying or protecting a whale for her]",
+          "who": "Hailey Client",
+          "date": "2025-09-13"
+        }
+      ]
+    },
+    "platform_health": {
+      "severity": 3,
+      "internal_failure": "We repeatedly told her our link products were safe, they were not, and we never went back to fix it — an ALTR-built .vip domain restricted two of her Instagram accounts within 48 hours of us guaranteeing it was safe, and 96 days later the only thing we have said about it is 'Working on it', while the shadowban she reported on her main account sits 51 days untouched because nobody chased the login we asked her for.",
+      "evidence": [
+        {
+          "quote": "Yes It's safe to put it in bio  [Mayson's answer to 'This won't get my account disabled will it? I just got my main account back from a perm disable'. She put it live on 6/13 and reported within hours: 'One of my accounts already hit a restriction with it' and 'And my other one did too']",
+          "who": "Mayson Chat",
+          "date": "2026-06-11"
+        },
+        {
+          "quote": "Sure share login  [Vivek's entire contribution to this account — 1 message in 775. She never posted the login and nobody has chased her for it in 51 days. Meanwhile on 9/17 Mayson asked her for her FACEBOOK login: 'Are you able to share us the login info so we can start posting Haleigh']",
+          "who": "Vivek",
+          "date": "2026-07-29"
+        },
+        {
+          "quote": "Yes! Link.me is safe  [Mica, in answer to 'Is my link in bio safe????'. The link.me was flagged on 2026-03-21 and flagged again on 2026-03-23 after we 'fixed' it. Nobody has ever connected the .vip domains going live on 6/13 with her shadowban report on 7/29]",
+          "who": "Mica Vecco",
+          "date": "2025-11-10"
+        }
+      ]
+    },
+    "billing_ops": {
+      "severity": 3,
+      "internal_failure": "We changed our banking details roughly eight times in twelve months — including one account whose wire address did not work at all — and in 27 paid cycles we have confirmed receipt in plain words exactly twice, so three consecutive wires to three different destinations are currently unreconciled and the client has resorted to nicknaming our bank recipients by month to tell them apart.",
+      "evidence": [
+        {
+          "quote": "Wire was sent to the new banking info! Please let me know if you recieved it  [the FOURTH time she has had to ask for a receipt — 2026-06-04, 06-16, 07-09, 09-16. The answer, 108 minutes later, was 'Appreciate you ❤️'. The 8/20 and 9/7 wires are also still unconfirmed, at 29 and 11 days]",
+          "who": "Hailey Client",
+          "date": "2026-09-16"
+        },
+        {
+          "quote": "I just nicknamed it September because i have too many wire recipients and i get confused  [followed minutes later by 'these wires got me stressed 😂'. Stephski's own words in the same thread: 'everything should go through this time (i pray)', and the 9/15 invoice text refers to 'bounce backs' — the first written ALTR admission that wires have been failing]",
+          "who": "Hailey Client",
+          "date": "2026-09-16"
+        },
+        {
+          "quote": "Want to let you know we have a new bank for you to send to (last change I promise!)  [the Bank of America wire address then failed outright on 7/7 — 'The address for the new wire is not working.. idk what to do' — and the details changed again on 8/15 and again on 9/15]",
+          "who": "Stephski",
+          "date": "2026-07-01"
+        },
+        {
+          "quote": "I ask that you please pay within 7 days to avoid any pausing of work  [terms language sent to a client who has paid 27 of 27 cycles. The identical line went out again on 9/15, two days after she told us her revenue was down]",
+          "who": "Stephski",
+          "date": "2026-09-01"
+        }
+      ]
+    },
+    "ownership_escalation": {
+      "severity": 3,
+      "internal_failure": "Nobody owns this account, and our standard escalation is a bare @tag at a handle that then says nothing — the client's single most important message of the year was answered with '@natehei ^' and got no reply, her account manager question has been open 180 days, and the one person who told her to 'ping me' left the group in July 2026 and was never replaced.",
+      "evidence": [
+        {
+          "quote": "@natehei ^  [Mayson's complete response, 19 seconds after 'Hey guys I know revenue this month is down so what do you guys need from me'. Noah never replied. The identical non-answer was given on 2026-06-22 and 2026-08-18. Mayson has also tagged @roflo1424 (7/10) and @RecruitmentBLK (9/14); neither has ever spoken in this chat]",
+          "who": "Mayson Chat",
+          "date": "2026-09-13"
+        },
+        {
+          "quote": "Going forward if you have issues in regards to this please ping me  [Joseph H, the only person who ever claimed ownership of her. He left the group in July 2026 and nobody announced a replacement. Two more people were silently added on 9/10 and 9/17 and neither has said a word]",
+          "who": "Joseph H",
+          "date": "2026-04-22"
+        },
+        {
+          "quote": "I want to be kept in the loop more now moving forward. There's zero communication between me and anyone here.  [Joseph: 'Okay, I will relay this to them and they should reach out to you'. Nobody reached out. 180 days]",
+          "who": "Hailey Client",
+          "date": "2026-03-22"
+        }
+      ]
+    },
+    "disengagement_detection": {
+      "severity": 3,
+      "internal_failure": "She has gone quiet for 13-16 days on eight separate occasions and not one of those silences was ever broken by a check-in from us — they were broken by an invoice, a collections nudge, or by her; and the two times she wrote plainly that she was frustrated, we agreed with her and then did nothing.",
+      "evidence": [
+        {
+          "quote": "hi Haleigh did you see this?  [a payment nudge, and the single message that ended a 16-day client silence. She replied nine minutes later. Nobody used the following 48 hours, while she was demonstrably present, to ask about the shadowban, the domains, or anything else]",
+          "who": "Stephski",
+          "date": "2026-09-05"
+        },
+        {
+          "quote": "Theres no money in current balance and my page is not producing - what do you guys need from me to make these numbers go up  [she raised her own revenue collapse; nobody on our side had flagged it first. She repeated the same message almost word for word on 2026-09-13, 83 days later]",
+          "who": "Hailey Client",
+          "date": "2026-06-22"
+        },
+        {
+          "quote": "Hi love checking in!! How is it going this morning ??  [the last genuinely unprompted, non-transactional welfare check-in on the file. Lauren left ALTR the following month and the habit left with her — 347 days ago]",
+          "who": "Lauren Biz Assistant",
+          "date": "2025-10-06"
+        }
+      ]
+    },
+    "security_hygiene": {
+      "severity": 3,
+      "internal_failure": "We posted a live account username, password and 2FA backup code in plain text into an 18-member group chat on day 2 and never rotated it — it is still sitting in the scrollback 388 days later — and we have since asked this client for two different sets of platform credentials in that same open chat, while our own security advisory tells her never to share credentials with anyone including us.",
+      "evidence": [
+        {
+          "quote": "supercarcrashesonly - ALTR$1 - backup code: 9354 0628  [username, password and two-factor backup code for an ALTR-sourced backup IG account, posted unredacted into the group chat. Never rotated, never deleted, still readable by every member added since — including the ten people silently added over the following year]",
+          "who": "Sophie Logan (Raw Agency)",
+          "date": "2025-08-26"
+        },
+        {
+          "quote": "Please do not send your backup codes to anyone, including our team. Keep the screenshot somewhere secure that only you can access.  [correct advice, and the best-shaped ALTR message of the period — posted hours after a colleague asked her in the same chat to hand over her Facebook login, and 51 days after another colleague asked for her Instagram login with the words 'Sure share login']",
+          "who": "Mica Vecco",
+          "date": "2026-09-17"
+        },
+        {
+          "quote": "Hey i keep getting codes to login i to my acc? Is this from you guys. Just wanna make sure the acc wasn't getting hacked  [we migrated her account onto a new CRM without telling her, so she experienced our own tooling as a suspected hack. Eric: 'Hey yes ! Sorry this is from our new CRM , apologies!']",
+          "who": "Hailey Client",
+          "date": "2026-04-07"
+        }
+      ]
+    }
+  },
+  "metrics": {
+    "client_questions_total": 71,
+    "unanswered_over_24h": 20,
+    "max_team_silence_days": 11,
+    "promises_made": 68,
+    "promises_kept": 28,
+    "promises_lapsed": 40,
+    "method": "Full history: 775 non-service messages, 2025-08-25 to 2026-09-17, 313 from the client. client_questions_total = the 59 client messages containing an explicit '?' plus 12 direct non-question asks that plainly required a response (account-warning screenshots, '.vip restricted my accounts', 'let me know if you recieved it', the two emoticon requests). unanswered_over_24h = of those 71, the ones that never received a substantive on-topic answer within 24h, hand-classified by reading each thread — a bare @tag, an emoji, or a 'let me check' that was never followed up counts as unanswered. A naive 'any team message within 24h' test returns 0 because this chat is never quiet, which is exactly why it has to be read rather than counted. max_team_silence_days = 11 (2025-12-03 -> 2025-12-15) counting only non-templated human outbound; it is 9 days (2026-03-06 -> 2026-03-15) if automated DMCA/leak recaps and reel-inspo link dumps are counted as contact. promises_* = hand-enumerated distinct forward-looking commitments by ALTR staff and vendors (a regex sweep for commitment language surfaces 35 messages; reading the threads brings the true count to ~68 because many commitments are implicit in the reply). Kept = delivered or visibly actioned; lapsed = never delivered and never withdrawn."
+  },
+  "what_client_wanted": [
+    "Her main Instagram kept alive above all else. 'No i made it last week but afraid to post it up! I'm always terrified I'll lose my main account since I've lost other big accounts in the past :(' (2025-09-08), and again before trusting our domain: 'This won't get my account disabled will it? I just got my main account back from a perm disable' (2026-06-11).",
+    "One named human who answers her. 'Who do I reach out to for general messages here. I feel like every time i reach out it's either super delayed or just no response at all.' (2026-03-22) and 'I want to be kept in the loop more now moving forward. There's zero communication between me and anyone here.' (2026-03-22).",
+    "One frictionless place to hand over content. 'So I just want to address my biggest issue - using the snare. You guys get zero content from me because it's a pain. I'd like to do a shared album that I can upload all my content into. That way you guys can constantly have new stuff. It will be a win win for us all.' (2026-02-11).",
+    "To be told what to do to make the numbers go up — she volunteers the work. 'Theres no money in current balance and my page is not producing - what do you guys need from me to make these numbers go up' (2026-06-22) and 'Hey guys I know revenue this month is down so what do you guys need from me to help boost this months sale' (2026-09-13)."
+  ],
+  "what_worked": [
+    "Sophie Logan's bi-weekly performance report with a 14-day game plan (2025-09-08, 2025-09-22). Her reaction: 'Amazing!!!!! I love this. Let's schedule a LIVE FOR Sat night at 7pm PST!!! Also I'd love ideas for reels for my insta. thank you guys for everything!!! I'll be more proactive moving forward'. It was delivered twice and discontinued; it is the single highest-return thing ALTR has ever sent this client and it cost one document.",
+    "Proactive revenue news. Joseph H posted unprompted on 2026-03-28: 'Hey Haleigh !!! Amazing rev today, your new tape is at 10k sold!' and she came straight back with 'FUCK YES I SAW THAT!! So stoked how's the feedback? Are people liking it?'. Good numbers delivered without being asked for produce instant engagement from her every single time.",
+    "Same-session answers from a named person. 'You guys are so quick to respond haha thank you both!!! ' (2025-09-28, to Noah and Nick Scott on customs), and the one properly worded payment receipt on file — Stephski, 2026-05-20: 'Hi Haleigh we recieved your wire'. She also stayed warm through a crisis when Sophie simply checked in during her IRS levy: 'You are too sweet.. thank you' (2025-09-29)."
+  ],
+  "top_fix": "Give her one named, accountable account manager with a published response SLA who owns a single visible open-items list and is required to either close each item or tell her out loud that it is dead. Every other failure on this account is a symptom of that vacancy: the team demonstrably executes anything with an owner and a cadence (invoices, leak recaps, reel inspo all run like clockwork) and executes nothing that requires someone to decide they own it — which is why her shadowban, her broken .vip domains, her wire receipts, her content-intake consolidation and her account-manager question have all been open for 51 to 375 days while she keeps paying on time."
+}

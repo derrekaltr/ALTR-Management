@@ -1,0 +1,369 @@
+{
+  "client": "Lilia",
+  "slug": "lilia-x-altr",
+  "as_of": "2026-10-30",
+  "window_covered": "2026-10-16T09:06:40-04:00 -> 2026-10-30T09:05:30-04:00 (TWO-WEEK window, no run on 10/23). 129 non-service msgs + 1 service event (ChatAddUser: Antonio Veritrade test account added Oct 21 18:49). Excluding 6 Antonio Veritrade test posts: 123 msgs, 92 client, 31 team (Fred 11, Mayson 8, Vivek 8, Melissa 2, Stephski 1, Mica 1). Message id 1380 missing (deleted) on Oct 24 between 11:52 and 16:46. No unknown senders; @StardustNexus (IG farm vendor) tagged by Mayson Oct 18/19 but never posted. Jeremy Tarr / Spencer P / Aroosha not present in this chat.",
+  "open_complaints": [
+    {
+      "issue": "Chat team underprices her content against her floor ($200/video with pics, $200 pic package, $100/min customs). Oct 23: five-video sexting set (her Halloween set) sold for $200 total ('So we missed out on 1,000'). Oct 24: two videos sold to Elijah for $16 ('Not 16 dollars for two videos please'). Fred Oct 23 'sending it in sequence' (not price); Oct 24 'Team informed'. No written floor in CRM (promised Aug 28).",
+      "first_raised": "2026-07-11",
+      "last_raised": "2026-10-27",
+      "age_days": 111,
+      "escalation_count": 7,
+      "escalation_dates": ["2026-07-11", "2026-08-26", "2026-08-28", "2026-09-01", "2026-10-23", "2026-10-24", "2026-10-27"],
+      "owner": "Fred",
+      "escalate_to": "Derrek",
+      "client_estimated_loss": "~$1,000 (Oct 23) + Elijah underpricing (Oct 24)",
+      "status": "recurring - two incidents in 24h this window. Next week: any further underpricing; does a written floor appear; how was the next set sold."
+    },
+    {
+      "issue": "Custom-approval rule (Aug 31) broken Oct 27: chatters agreed a 15-min custom bundled with new content for $1,500 without asking her (she values it at $2,500). Fred Oct 29 posted a formal paid request (frumby, $1.9k, 10 min per form; she says fan agreed 15 min) + 'I've spoken to the chatters here also'.",
+      "first_raised": "2026-08-31",
+      "last_raised": "2026-10-27",
+      "age_days": 60,
+      "escalation_count": 2,
+      "owner": "Fred",
+      "status": "recurring - was 'WORKING, 46 days zero violations' as of 10/16. Open: reconcile 10 vs 15 min and $1.5k vs $1.9k; verify rule holds; she will shoot once lingerie arrives."
+    },
+    {
+      "issue": "CRM notes / fan tests not reaching chatters. Teddi deleted his account Oct 24 after chatters answered a test question ('did you remember something you said on IG') with 'I dont remember'. Fred answered in 2 min + written account same day. Client recovered him herself ('Made some shit up' about the IG question); 'Okay he’s back on' within hours. Rule now: 'if he asks anything to test always message me'. Fred: will get Elijah's notes 'reflecting on Infloww' (no proof).",
+      "first_raised": "2026-09-04",
+      "last_raised": "2026-10-24",
+      "age_days": 56,
+      "escalation_count": 3,
+      "owner": "Fred",
+      "status": "recurring - second Teddi departure under ALTR (Jul 6, Oct 24). Next: any test relayed to her live; notes screenshot."
+    },
+    {
+      "issue": "No link in bio since Oct 17. ALTR domain (Oct 11, 'won’t get flagged') flagged her Oct 12; the direct xli.ink link (Oct 15) flagged her Oct 17. Removed; flag cleared. Mayson 'Let’s leave it like that'. Her Oct 17 'So no link what about the other oranges' and Oct 18 'Did u guys make a new one?' / 'Do u guys have a new one!' / 'This one didn’t work for me' never answered. Mayson tagged @StardustNexus Oct 18 and Oct 19 ('did we get one ready for Lilia yet?'); no reply in chat.",
+      "first_raised": "2026-10-12",
+      "last_raised": "2026-10-18",
+      "age_days": 18,
+      "escalation_count": 5,
+      "owner": "Mayson",
+      "escalate_to": "Derrek",
+      "status": "recurring - 13 days without a link while an IG video 'is going huge so new fans are coming in' (Oct 23). Next: did she get a link or a plan; did it survive a week."
+    },
+    {
+      "issue": "SECURITY: IG credentials solicited and posted in the group. Vivek 'Share login Ma’am' (Oct 19 15:08). Client posted username screenshot (msg 1314), password in plaintext (msg 1315, Oct 19 21:15), login email (msg 1321, Oct 20 11:10), SMS 2FA code (msg 1325, Oct 20 11:13). IG forced a password reset the same day (posted password now stale). Vivek 19:01 'Okay share the new password' in the group - no reply, no follow-up. Messages not deleted. Group now includes the Antonio Veritrade test account (added Oct 21).",
+      "first_raised": "2026-10-19",
+      "last_raised": "2026-10-20",
+      "age_days": 11,
+      "owner": "Vivek",
+      "escalate_to": "Mayson",
+      "severity": "critical",
+      "status": "new/open - delete msgs 1314/1315/1321/1325; confirm rotation; move handoffs to DM. Next: were they deleted; did Vivek ask for a password in-group again."
+    },
+    {
+      "issue": "Shadowban / account check never completed. Requested Aug 18 (TikTok), Oct 13, Oct 19 ('I’m so shadowbanned it’s bad' / 'Like my reach is so shit'). Vivek logged into her IG Oct 20 via group credentials, reported nothing, never confirmed he was off ('Let me know when ur off my account! Please try not and delete anything if u can! Especially my new post' unanswered), silent since Oct 20 19:01. Aug 24 'Facebook' screenshots still unread.",
+      "first_raised": "2026-08-18",
+      "last_raised": "2026-10-20",
+      "age_days": 73,
+      "escalation_count": 9,
+      "owner": "Vivek",
+      "escalate_to": "Mayson",
+      "status": "recurring - THIRD stall after a login request (Aug 24, Oct 12, Oct 20). Vivek silent 9 days at window close. Next: any finding posted; reassign if not."
+    },
+    {
+      "issue": "Weekly combined earnings/performance/DMCA report missed. Mayson Oct 16: 'sent in the General chat every Friday'; Melissa delivered Oct 16. Friday Oct 23: nothing. Melissa silent since Oct 16. DMCA weekly (restored Oct 2) lapsed with it.",
+      "first_raised": "2026-10-23",
+      "last_raised": "2026-10-23",
+      "age_days": 7,
+      "owner": "Melissa",
+      "escalate_to": "Mayson",
+      "status": "new - next: did Oct 30 (Friday) report arrive; was Oct 23 backfilled."
+    },
+    {
+      "issue": "Chat team sells high spenders content they already own (frumby x3+, Matt Oct 13). 13 escalations since Jun 12. No new mis-send reported this window. Fred's Oct 13 'checking with the team now' on Matt never reported back (17d); Jul 24 chatter still unnamed (98d). Oct 23 'Do I have new chatter because usually they know not to do this' -> Fred: same chatters.",
+      "first_raised": "2026-06-12",
+      "last_raised": "2026-10-23",
+      "age_days": 140,
+      "escalation_count": 13,
+      "escalation_dates": ["2026-06-12", "2026-07-19", "2026-07-22", "2026-07-23", "2026-07-24", "2026-07-29", "2026-08-14", "2026-08-23", "2026-08-30", "2026-09-03", "2026-09-14", "2026-09-23", "2026-10-13"],
+      "unreported_incidents_disclosed": 3,
+      "spenders_affected": ["frumby", "Matt (2026-10-13)"],
+      "owner": "Fred",
+      "status": "in_progress - quiet this window; Matt report back still owed."
+    },
+    {
+      "issue": "Halloween plan (Oct 1: 10 costume sexting sets, Teddi ~$1,000/set) never got a specific OF-side plan; she delivered two sets Oct 19-21 and the first sold for $200 total (Oct 23). Oct 21 audio cut-off question ('Do u think it would be okay') unanswered; 'New content is uploaded' unacknowledged.",
+      "first_raised": "2026-10-01",
+      "last_raised": "2026-10-23",
+      "age_days": 29,
+      "owner": "Fred",
+      "status": "recurring - the predicted loss materialised. Fold into the pricing complaint if no separate movement next week."
+    },
+    {
+      "issue": "Invoicing never states a received amount. Oct 17 'All paid’' -> 'Thank you ❤️' (no figure), so $27 from Oct 6 status unknown (24d). Sep 18 round-up (42d), Sep 3 invoice receipt (57d), $192 gap (66d). Receiving details unchanged since Sep 15 (no 7th change), no written freeze.",
+      "first_raised": "2026-08-25",
+      "last_raised": "2026-10-17",
+      "age_days": 66,
+      "escalation_count": 3,
+      "owner": "Stephski",
+      "status": "in_progress - eight invoices without a stated amount. Fixed parts (cadence, reminder, pausing line) held Oct 15. Next: reminder ~Oct 30/31, invoice ~Nov 1, any amount stated."
+    },
+    {
+      "issue": "Calls with no written recap: Sep 8, Oct 5 (Mayson), Oct 15 (Melissa). No new call this window.",
+      "first_raised": "2026-09-08",
+      "last_raised": "2026-10-15",
+      "age_days": 52,
+      "owner": "Melissa / Mayson",
+      "status": "in_progress - Oct 15 recap 15 days overdue."
+    },
+    {
+      "issue": "IG account clarity: warmed-up second account with lost login (Sep 25) no reply 35d; no written account/Drive map; no Reels Drive upload confirmed. Oct 17 trending reel 'If u pass it on!' -> Mayson 'Awesome', no confirmation it was pushed to the repost network.",
+      "first_raised": "2026-06-12",
+      "last_raised": "2026-10-17",
+      "age_days": 140,
+      "escalation_count": 7,
+      "owner": "Mica Vecco / Mayson",
+      "status": "in_progress - no movement."
+    },
+    {
+      "issue": "Aug 29 lost high spender (~$300) never acknowledged (62d). Phone-number exposure Sep 22, 'I think I’m good?' never answered (38d); the number is her Zelle lookup, TikTok handle and IG 2FA route (used Oct 20).",
+      "first_raised": "2026-07-29",
+      "last_raised": "2026-09-23",
+      "age_days": 93,
+      "owner": "Fred",
+      "status": "in_progress - idle."
+    },
+    {
+      "issue": "ALTR presence thin and rotating. This window (two weeks): 31 team msgs = ~15.5/week, down from 25. Fred UP (1 -> 11), Melissa DOWN (12 -> 2), Vivek 8 (all login-extraction), Mayson 8 (4 internal tags), Stephski 1, Mica 1, Michelle 0, owner 0 (44 days).",
+      "first_raised": "2026-09-18",
+      "last_raised": "2026-10-30",
+      "age_days": 42,
+      "owner": "Fred",
+      "status": "mixed - Fred finally present; Melissa vanished after announcing a weekly fixture."
+    }
+  ],
+  "resolved_last_window": [
+    {
+      "issue": "Oct 1-14 invoice paid",
+      "closed": "2026-10-17",
+      "status": "paid in 2 days, zero chase; no amount stated by ALTR."
+    },
+    {
+      "issue": "Teddi's Oct 24 departure",
+      "closed": "2026-10-24",
+      "status": "resolved on outcome same day - by the client ('Made some shit up'), not ALTR. Root cause (test not relayed) remains open."
+    },
+    {
+      "issue": "OnlyFans maintenance outage Oct 21",
+      "closed": "2026-10-21",
+      "status": "Fred notified proactively and confirmed 'OF back online ✅' 3h17m later."
+    }
+  ],
+  "resolved_recently": [
+    {"issue": "ALTR cannot access her OnlyFans earnings to build invoices", "first_raised": "2026-08-15", "closed": "2026-10-01", "status": "CLOSED - six consecutive invoices with no screenshot request."},
+    {"issue": "The $500/day Zelle new-recipient cap", "first_raised": "2026-06-23", "closed": "2026-09-18", "status": "HOLDS - Oct 17 paid in full in one go (per client)."},
+    {"issue": "Fred only reachable by internal @fspitfire escalation", "first_raised": "2026-08-10", "closed": null, "status": "IMPROVED this window - 11 msgs, but the Oct 23 pricing complaint still needed Mayson's @fspitfire tag (2h09m) before Fred replied."},
+    {"issue": "Invoice cadence and template quality", "first_raised": "2026-09-03", "closed": "2026-09-15", "status": "HELD Oct 15. Remaining gap: receipts/amounts."},
+    {"issue": "Custom-approval rule agreed after the $750 whipped-cream incident", "first_raised": "2026-08-31", "closed": "2026-09-18", "status": "REOPENED 2026-10-27 - see open_complaints."},
+    {"issue": "Service-suspension line in her invoice template", "first_raised": "2026-09-15", "closed": "2026-10-15", "status": "RESOLVED - absent Oct 15."},
+    {"issue": "Billing questions go unanswered for over a day", "first_raised": "2026-10-04", "closed": "2026-10-15", "status": "HELD - Oct 17 'All paid’' acknowledged in 1h53m."},
+    {"issue": "Weekly DMCA leak-removal breakdown", "first_raised": "2026-09-08", "closed": "2026-10-02", "status": "REOPENED - folded into the Friday report Oct 16, then the Oct 23 report was missed."}
+  ],
+  "open_commitments": [
+    {"what": "Send the combined earnings/performance/DMCA report every Friday (announced Oct 16)", "who": "Melissa / Mayson", "promised": "2026-10-16", "due": "2026-10-23", "age_days": 7, "status": "overdue - Oct 23 missed; Oct 30 due at window close."},
+    {"what": "Enforce the $200/video floor with the chat team and write it into the CRM", "who": "Fred", "promised": "2026-08-28", "due": "2026-08-28", "age_days": 63, "status": "overdue - re-promised Oct 23 ('in sequence') and Oct 24 ('Team informed'); second incident the morning after the first promise."},
+    {"what": "Chatters ask her before accepting any custom; reconcile the frumby request (10 vs 15 min, $1.5k vs $1.9k)", "who": "Fred", "promised": "2026-10-29", "due": "2026-10-31", "age_days": 1, "status": "pending - 'I've spoken to the chatters here also'."},
+    {"what": "Get Elijah's and Teddi's notes into Infloww; chatters relay any fan 'test' to her live", "who": "Fred", "promised": "2026-10-24", "due": "2026-10-31", "age_days": 6, "status": "pending - no proof."},
+    {"what": "Report back in writing on the Oct 13 Matt incident; name the Jul 24 chatter; install a purchase-history check", "who": "Fred", "promised": "2026-10-13", "due": "2026-10-16", "age_days": 17, "status": "overdue (naming: 98 days)."},
+    {"what": "Give her a working link in bio or tell her the plan (vendor @StardustNexus asked Oct 18/19)", "who": "Mayson", "promised": "2026-10-17", "due": "2026-10-21", "age_days": 13, "status": "overdue - nothing said to her since 'Let’s leave it like that'."},
+    {"what": "Finish the account/shadowban check after the Oct 20 login: post status, confirm logged out and nothing deleted, answer shadowban; close the Aug 18 TikTok request and Aug 24 screenshots", "who": "Vivek", "promised": "2026-10-19", "due": "2026-10-21", "age_days": 73, "status": "overdue - silent since Oct 20 19:01 ('Okay share the new password')."},
+    {"what": "Delete credential messages 1314/1315/1321/1325, confirm rotation, move login handoffs to DM", "who": "Vivek / Mayson", "promised": "2026-10-19", "due": "2026-10-21", "age_days": 11, "status": "overdue - nobody has acted. Escalate to Derrek."},
+    {"what": "Post written recaps of the Oct 15 (Melissa), Oct 5 and Sep 8 (Mayson) calls", "who": "Melissa / Mayson", "promised": "2026-10-15", "due": "2026-10-16", "age_days": 15, "status": "overdue."},
+    {"what": "State received amounts in chat (Oct 17 payment incl. $27?, Sep 18 round-up, Sep 3 invoice, $192); freeze receiving details in writing", "who": "Stephski", "promised": "2026-09-15", "due": "2026-09-19", "age_days": 45, "status": "overdue."},
+    {"what": "Tell her whether ALTR still needs her second IG account; send one written account/Drive map; confirm the Oct 17 trending reel was pushed", "who": "Mayson / Mica Vecco", "promised": "2026-09-10", "due": "2026-09-12", "age_days": 50, "status": "overdue."},
+    {"what": "Older idle OF items: Aug 29 lost-spender report; phone-number close-out; $100/min shower custom (Aug 11); Adam West red set (Aug 19); Aug 26 share-for-share + repricing; $750 whipped-cream decision (Aug 31); high-spender folder organisation (Aug 10); Oct 21 audio cut-off answer", "who": "Fred", "promised": "2026-08-10", "due": "2026-09-24", "age_days": 81, "status": "overdue - all untouched."},
+    {"what": "Deliver the promised IG phone-farm / backup-posting updates (promised 2026-08-01 for the week of Aug 3)", "who": "Derrek", "promised": "2026-08-01", "due": "2026-08-03", "age_days": 90, "status": "overdue - owner silent 44 days (last owner msg 2026-09-16 01:33). OWNER-LEVEL: surface privately to Derrek only; NEVER in the client-facing team/employee section.", "owner_level": true},
+    {"what": "Client: shoot the paid frumby custom once lingerie arrives; upload the next sexting set", "who": "Lilia (client)", "promised": "2026-10-29", "due": "2026-11-06", "age_days": 1, "status": "pending."},
+    {"what": "Client: $27 remainder of the Sept 15-30 invoice", "who": "Lilia (client)", "promised": "2026-10-06", "due": "2026-10-07", "age_days": 24, "status": "unknown - may be inside Oct 17 'All paid’'. Do NOT chase; ALTR should state the ledger."},
+    {"what": "Client: upload reels to the Reels Drive; complete the private-platform intake form", "who": "Lilia (client)", "promised": "2026-09-29", "due": "2026-10-09", "age_days": 31, "status": "pending - unconfirmed; do not chase hard."},
+    {"what": "Client: pay the Oct 15-31 invoice (expected ~Nov 1)", "who": "Lilia (client)", "promised": null, "due": "2026-11-08", "age_days": 0, "status": "upcoming."}
+  ],
+  "broken_commitments": [
+    {"what": "Weekly Friday combined report (announced Oct 16)", "who": "Melissa / Mayson", "broken": "2026-10-23", "note": "Missed the first Friday after it was announced."},
+    {"what": "Custom-approval rule (Aug 31: chatters ask before selling customs)", "who": "Fred / chat team", "broken": "2026-10-27", "note": "Custom + new content agreed at $1,500 without asking her; she values it at $2,500."},
+    {"what": "'It won’t get flagged' (Oct 11) and the direct-link replacement (Oct 15)", "who": "Mayson", "broken": "2026-10-17", "note": "Second link also flagged; no link in bio since."},
+    {"what": "Price floor 'Team informed' (Oct 24) / 'in sequence' (Oct 23)", "who": "Fred", "broken": "2026-10-24", "note": "Elijah sold two videos for $16 the morning after the first promise."},
+    {"what": "Vivek account check after obtaining logins", "who": "Vivek", "broken": "2026-10-20", "note": "Third time: logins obtained, nothing reported, went silent."}
+  ],
+  "completed_recently": [
+    {"what": "Combined earnings/performance/DMCA report (last week)", "who": "Melissa", "date": "2026-10-16", "closed": "2026-10-16", "status": "done - then missed Oct 23."},
+    {"what": "DMCA folded into the weekly report; policy announced", "who": "Mayson", "date": "2026-10-16", "closed": "2026-10-16", "status": "done (announcement)."},
+    {"what": "OF maintenance notice + 'OF back online ✅'", "who": "Fred", "date": "2026-10-21", "closed": "2026-10-21", "status": "done - proactive, closed loop."},
+    {"what": "Written account of the Teddi conversation from Infloww", "who": "Fred", "date": "2026-10-24", "closed": "2026-10-24", "status": "done same day ('what I could see')."},
+    {"what": "Formal paid custom request from frumby ($1.9k, 10 min)", "who": "Fred", "date": "2026-10-29", "closed": "2026-10-29", "status": "done - client accepted; duration discrepancy open."},
+    {"what": "Weekly reel inspo", "who": "Mica Vecco", "date": "2026-10-28", "closed": "2026-10-28", "status": "done - 'Thank you x'."},
+    {"what": "Acknowledge Oct 17 payment", "who": "Stephski", "date": "2026-10-17", "closed": "2026-10-17", "status": "done in 1h53m - no amount."},
+    {"what": "Client: pay the Oct 1-14 invoice", "who": "Lilia (client)", "date": "2026-10-17", "closed": "2026-10-17", "status": "done - 2 days after issue."},
+    {"what": "Client: deliver Halloween + normal sexting sets", "who": "Lilia (client)", "date": "2026-10-21", "closed": "2026-10-21", "status": "done - 'New content is uploaded'."},
+    {"what": "Client: recover Teddi", "who": "Lilia (client)", "date": "2026-10-24", "closed": "2026-10-24", "status": "done - by text, same day."},
+    {"what": "Replace the flagged link-in-bio domain with a direct link", "who": "Mayson", "date": "2026-10-15", "closed": "2026-10-15", "status": "done Oct 15 - then flagged Oct 17."},
+    {"what": "Two-week earnings and performance report (first)", "who": "Melissa", "date": "2026-10-09", "closed": "2026-10-09", "status": "done."},
+    {"what": "Issue the Oct 1-14 invoice on cadence with day-before reminder, pausing line removed", "who": "Stephski", "date": "2026-10-15", "closed": "2026-10-15", "status": "done."}
+  ],
+  "payment_history": [
+    {"date": "2026-06-01", "note": "Premature invoice (May 27-31) sent by Stephski days after signup; Derrek retracted it ('disregard')", "late": false},
+    {"date": "2026-06-15", "note": "Combined invoice May 27-Jun 14 ($2,815). Client questioned numbers, Mercury link bounced (switched to Chase Zelle), then paid in $500 Zelle installments Jun 23-30 due to new-recipient limits; final ~$315 paid ~Jun 30", "late": true},
+    {"date": "2026-07-01", "note": "Invoice Jun 15-30 (new Bank of America details - 'last change I promise!'). Client missed it until Stephski's Jul 5 nudge; paid Jul 6 ('Invoice is paid!')", "late": false},
+    {"date": "2026-07-15", "note": "Invoice Jul 1-14. Client only saw it Jul 19 ('I just saw this I'll get that paid on Zelle'); paid ~Jul 20", "late": false},
+    {"date": "2026-08-01", "note": "Invoice Jul 15-31, 7-day window (due ~Aug 8). Chased Aug 4, Aug 9, Aug 11. Zelle sends failed Aug 12 because ALTR's Zelle ID no longer existed; replacement number [REDACTED] issued. Closed ~Aug 15, ~7 days late, cause ALTR-side.", "late": true, "days_late": 7, "resolved": "2026-08-15"},
+    {"date": "2026-08-15", "note": "Consolidated invoice Aug 1-14 plus $800 rolled-over July balance, ~$1,692. Paid in $500 sends Aug 15/17/19, remainder by Aug 25-26. Cleared to $0 per Stephski 2026-08-26. Not late, zero chasing. Open: she reported owing $192 on Aug 25 - unreconciled.", "late": false, "outstanding": 0, "resolved": "2026-08-26"},
+    {"date": "2026-09-03", "note": "Invoice Aug 15-31, issued 2026-09-03 15:07, two days late against cadence, amount only in PDF. Client: 'I will get that paid! Thank you x' (Sep 4). NO RECEIPT CONFIRMATION (57 days as of 2026-10-30).", "late": false, "outstanding": "unknown - unconfirmed 57 days after issue", "resolved": null, "receipt_verified": false},
+    {"date": "2026-09-15", "note": "Invoice Sept 1-14, issued on cadence with day-before reminder Sep 14; sixth receiving-detail change; pausing line added. PAID IN FULL IN ONE ZELLE SEND 2026-09-18 12:08 with voluntary round-up. No ALTR receipt (42 days).", "late": false, "outstanding": 0, "paid": "2026-09-18", "payment_method": "Zelle, single full send plus voluntary round-up", "receipt_verified": false},
+    {"date": "2026-10-01", "note": "Invoice Sept 15-30, issued on cadence, amount PDF-only, pausing line retained, no day-before reminder. 'Same Zelle right' answered after 29.6h. PAID Oct 6 11:02 except $27 ('I just owe u 27 I'll get that in tomorrow'). $27 never confirmed either way; may be inside Oct 17 'All paid’' (ALTR stated no amount).", "late": false, "status": "paid except $27 (unconfirmed)", "outstanding": "$27 (client-reported Oct 6) - status unknown as of 2026-10-30", "due": "2026-10-08", "paid": "2026-10-06", "days_to_pay": 5, "payment_method": "Zelle, single send short $27 due to limit", "receipt_verified": false, "billing_question_response_hours": 29.6},
+    {"date": "2026-10-15", "note": "Invoice Oct 1-14, issued 2026-10-15 13:33 ON CADENCE, day-before reminder Oct 13, pausing line REMOVED, amount PDF-only. Client 'I’ll get it paid today!' (21 min). PAID 2026-10-17 12:48 ('All paid’'), 2 days after issue, due Oct 22. Stephski 'Thank you ❤️' after 1h53m - no amount. Seventh consecutive zero-chase cycle.", "late": false, "status": "paid", "due": "2026-10-22", "paid": "2026-10-17", "days_to_pay": 2, "reminder_sent": "2026-10-13", "client_ack_minutes": 21, "ack_hours": 1.9, "receipt_verified": false},
+    {"date": "2026-11-01", "note": "EXPECTED: Oct 15-31 invoice ~Nov 1 (day-before reminder ~Oct 30/31; not yet due at window close Oct 30 09:05). Watch: amount stated; $27; Sep 3 / Sep 18 / $192 reconciled; no 7th receiving-detail change.", "late": null, "status": "upcoming"}
+  ],
+  "payment_risk": {
+    "level": "VERY LOW on client intent/ability; MEDIUM on ALTR-side bookkeeping; payment behaviour remains a CHURN TELL, not a health signal",
+    "client_behaviour": "Seven consecutive zero-chase cycles. Oct 17: paid 2 days after issue, unprompted. Self-reports her balance.",
+    "altr_side_risk": "Eight invoices without a stated received amount. $27 (24d) unknown; Sep 18 round-up (42d); Sep 3 receipt (57d); $192 (66d). Cadence/reminder/pausing-line fixes held Oct 15.",
+    "open_amount": "$27 (status unknown); Aug 15-31 invoice unconfirmed; $192 unreconciled. Oct 1-14 paid.",
+    "next_invoice": "Oct 15-31 period, expected ~2026-11-01",
+    "churn_read": "She pays instantly and cleanly while losing ~$2,000 of her own revenue to chatter errors in one window and nearly losing Teddi. Asks are UP (11), not down, so this is not the 'settling up to leave' pattern yet; it is a demanding client whose patience is being spent. If asks fall sharply next window while payment stays instant, treat as pre-exit.",
+    "watch": [
+      "Reminder ~Oct 30/31 and invoice ~Nov 1 on cadence",
+      "Any received amount stated in chat",
+      "$27 / $192 / Sep 3 / Sep 18 reconciled",
+      "No seventh receiving-detail change",
+      "Asks trend next window (11 -> ?)"
+    ]
+  },
+  "client_priorities": [
+    "Price floor in her words: 'Highs spenders pay 200 per video and some pics added to it as well' / 'Not 16 dollars for two videos please' (Oct 23-24); sexting sets sold per video with pics, not five videos for $200",
+    "Chatters ask her before agreeing a custom: 'ask me frost about the custom first before payment' (Oct 27)",
+    "Protect Teddi and frumby: read the notes at the top of the fan profile; message her live when a spender tests ('if he asks anything to test always message me', Oct 24); 'Make sure they dont do the same exact to frumby' (Oct 23)",
+    "A link in bio that does not flag her, or an answer about alternatives (Oct 17-18); her IG is pulling new fans now (Oct 23)",
+    "IG reach: 'I’m so shadowbanned it’s bad' (Oct 19); confirmation ALTR is off her account and nothing was deleted",
+    "Delivering content for the high spenders and having it sold properly: two sets Oct 19-21, 'Easy 1,000' (Oct 27), the $1.9k frumby custom once lingerie arrives",
+    "Paying cleanly (2 days, no chase)",
+    "Weekly written Friday report (earnings + DMCA)",
+    "Mica's reel inspo and getting trending reels onto the repost network",
+    "Price discipline history: $200/video, $200/pic package, $100/min customs; newest content first from her labelled folders",
+    "CRM notes the chat team actually reads (Teddi backstory: wife and kids died in a car crash; tests chatters; asks to be called)",
+    "Clarity on IG accounts: second warmed-up account with lost login unresolved",
+    "A stable payment rail and an ALTR ledger that matches hers"
+  ],
+  "churn_signals": [
+    "2026-10-30 - TWO OF FOUR EXPLICIT SIGNALS PRESENT (same two as 10/16, both worse):",
+    "(1) PRESENT - owner silent 44 days in this chat (last Derrek msg 2026-09-16 01:33). Owner-level; handle privately.",
+    "(2) NOT PRESENT - no results/revenue question deflected to a call; written report delivered Oct 16. BUT the Oct 23 report was missed and Melissa has gone quiet; if Oct 30 is also missed this flips.",
+    "(3) PRESENT - long-promised deliverables without written proof: named chatter (Jul 24, 98d), price floor in CRM (Aug 28, 63d), Teddi CRM notes (Aug 30, 61d), TikTok/shadowban (Aug 18, 73d), account map (50d), owner IG phone-farm update (Aug 1, 90d), Matt report (17d), Oct 15 call recap (15d), link-in-bio plan (13d).",
+    "(4) NOT PRESENT - billing 1 of 31 ALTR msgs.",
+    "Asks: 2 -> 8 -> 3 -> 1 -> 3 -> 11 (two-week). She is escalating, not withdrawing: profanity ('so fuck it'), self-rescue (Teddi, pricing, deletions), 'it’s whatever I’ll do it'. Lowered expectations persist ('so fuck it', 'but it’s whatever').",
+    "Fast payment continues (2 days) - not a health signal.",
+    "Client-estimated revenue lost to ALTR errors this window: ~$1,000 (Oct 23 underpriced set) + ~$1,000 (Oct 27 custom bundle) + Elijah $16 sale; plus 13 days with no IG link during a viral video; Teddi nearly lost.",
+    "No request for exports, logins back, data, or mention of other agencies/going solo this window. Note Oct 20 'Let me know when ur off my account!' - she wants ALTR out of her IG when done.",
+    "MITIGATING: 92 messages, still uploading sets, still handing us spenders ('Easy 1,000'), accepted the frumby custom with enthusiasm, warm to Fred/Mica ('Thank you x')."
+  ],
+  "health_history": [
+    {"week_ending": "2026-08-08", "score": 68},
+    {"week_ending": "2026-08-14", "score": 62},
+    {"week_ending": "2026-08-21", "score": 72},
+    {"week_ending": "2026-08-28", "score": 58},
+    {"week_ending": "2026-09-04", "score": 60, "note": "computed but never published"},
+    {"week_ending": "2026-09-11", "score": 57, "note": "two-week window"},
+    {"week_ending": "2026-09-18", "score": 54},
+    {"week_ending": "2026-09-25", "score": 51},
+    {"week_ending": "2026-10-02", "score": 50, "note": "computed mid-window, never published (run died)"},
+    {"week_ending": "2026-10-09", "score": 48, "note": "two-week window Sep 25-Oct 9"},
+    {"week_ending": "2026-10-16", "score": 49, "note": "flat; churn signals 1 and 3 present"},
+    {"week_ending": "2026-10-30", "score": 42, "note": "two-week window Oct 16-30; down 7. Two underpricing incidents, custom rule broken, Teddi left/recovered by client, no link in bio 13d, credentials in group + Vivek silent, Friday report missed. Signals 1 and 3 present. Fred present (11 msgs) kept it from falling further."}
+  ],
+  "week_stats_history": [
+    {"week_ending": "2026-08-08", "messages": 4, "client_messages": 2, "team_messages": 2},
+    {"week_ending": "2026-08-14", "messages": 36, "client_messages": 20, "team_messages": 16},
+    {"week_ending": "2026-08-21", "messages": 71, "client_messages": 47, "team_messages": 24},
+    {"week_ending": "2026-08-28", "messages": 41, "client_messages": 26, "team_messages": 15},
+    {"week_ending": "2026-09-04", "messages": 92, "client_messages": 67, "team_messages": 25, "note": "unpublished"},
+    {"week_ending": "2026-09-11", "messages": 143, "client_messages": 100, "team_messages": 42, "note": "two-week window"},
+    {"week_ending": "2026-09-18", "messages": 21, "client_messages": 9, "team_messages": 12},
+    {"week_ending": "2026-09-25", "messages": 71, "client_messages": 48, "team_messages": 23, "note": "21 Fred + 2 Mica"},
+    {"week_ending": "2026-10-02", "messages": 30, "client_messages": 14, "team_messages": 16, "client_asks": 3, "note": "unpublished; first half of the 2026-10-09 window - do not add to it"},
+    {"week_ending": "2026-10-09", "messages": 63, "client_messages": 33, "team_messages": 30, "client_asks": 4, "note": "two-week window incl. the Oct 2 half. Team: Mica 13, Stephski 7, Melissa 4, Mayson 4, Fred 2."},
+    {"week_ending": "2026-10-16", "messages": 48, "client_messages": 23, "team_messages": 25, "client_asks": 3, "note": "Melissa 12, Mayson 5, Stephski 4 (billing), Vivek 2, Fred 1, Mica 1."},
+    {"week_ending": "2026-10-30", "messages": 123, "client_messages": 92, "team_messages": 31, "client_asks": 11, "service_events": 1, "note": "TWO-WEEK window Oct 16-30. 6 Antonio Veritrade test msgs excluded (raw 129). Fred 11, Mayson 8 (4 internal tags), Vivek 8, Melissa 2, Stephski 1 (billing), Mica 1. Billing 1/31. Msg id 1380 deleted Oct 24."}
+  ],
+  "engagement_trend": [
+    {"week_ending": "2026-08-08", "messages": 4, "client_messages": 2, "health": 68},
+    {"week_ending": "2026-08-14", "messages": 36, "client_messages": 20, "health": 62},
+    {"week_ending": "2026-08-21", "messages": 71, "client_messages": 47, "health": 72},
+    {"week_ending": "2026-08-28", "messages": 41, "client_messages": 26, "health": 58},
+    {"week_ending": "2026-09-04", "messages": 92, "client_messages": 67, "health": 60},
+    {"week_ending": "2026-09-11", "messages": 143, "client_messages": 100, "health": 57},
+    {"week_ending": "2026-09-18", "messages": 21, "client_messages": 9, "health": 54},
+    {"week_ending": "2026-09-25", "messages": 71, "client_messages": 48, "health": 51},
+    {"week_ending": "2026-10-02", "messages": 30, "client_messages": 14, "health": 50, "note": "unpublished"},
+    {"week_ending": "2026-10-09", "messages": 63, "client_messages": 33, "health": 48, "note": "two-week window"},
+    {"week_ending": "2026-10-16", "messages": 48, "client_messages": 23, "health": 49},
+    {"week_ending": "2026-10-30", "messages": 123, "client_messages": 92, "health": 42, "note": "two-week window; client share 75%"}
+  ],
+  "client_asks": [
+    {"week_ending": "2026-09-18", "count": 2},
+    {"week_ending": "2026-09-25", "count": 8},
+    {"week_ending": "2026-10-02", "count": 3},
+    {"week_ending": "2026-10-09", "count": 1},
+    {"week_ending": "2026-10-16", "count": 3},
+    {"week_ending": "2026-10-30", "count": 11, "note": "two-week window (~5.5/wk). 7 of 11 unanswered at window close."}
+  ],
+  "asks_trend": [
+    {"week_ending": "2026-09-18", "client_asks": 2, "note": "retro-count"},
+    {"week_ending": "2026-09-25", "client_asks": 8, "note": "retro-count ($3k custom questions, phone number, deletions, reels)"},
+    {"week_ending": "2026-10-02", "client_asks": 3, "note": "reels use, lost 2nd-IG login, Halloween sell plan"},
+    {"week_ending": "2026-10-09", "client_asks": 1, "note": "Oct 2-9 half only: 'Same Zelle right' (billing). Two-week window total = 4."},
+    {"week_ending": "2026-10-16", "client_asks": 3, "note": "bio link flagged; shadowban question (unanswered); Matt old content (withdrawn: 'just leave it')."},
+    {"week_ending": "2026-10-30", "client_asks": 11, "note": "TWO-WEEK: alternative link (10/17, unanswered); pass trending reel on (10/17, 'Awesome' only); new link? (10/18, unanswered); shadowban/reach (10/19, unanswered); off my account? (10/20, unanswered); audio cut-off (10/21, unanswered); $200/video enforcement (10/23, 2h27m); frumby/new chatter? (10/23, answered next day); Teddi why/what said (10/24, 2 min + written); Elijah $16 + read notes (10/24, 'Team informed'); sell to high spender + custom ask-first + bunny set (10/27, ~32h, bunny unanswered)."}
+  ],
+  "churn_watch": {
+    "level": "ELEVATED (unchanged category, worse inside it)",
+    "signals_present": ["1 owner silent 44d", "3 long-promised deliverables without proof"],
+    "signals_absent": ["2 results question -> call", "4 billing majority"],
+    "this_window": "Client-estimated ~$2,000 lost to chatter errors; Teddi left and was recovered by her; no link in bio 13 days; credentials in group; Friday report missed; 7 of 11 asks unanswered. Asks UP (11), so not the quiet-exit pattern; this is the loud-exit precursor: a demanding client fixing ALTR's mistakes herself and swearing about it.",
+    "next_window_flip_conditions": ["asks drop to <=2 while payment stays instant", "Oct 30 Friday report missed too (signal 2 flips)", "any mention of another agency, going solo, or asking for logins/exports back", "she stops uploading sets"]
+  },
+  "altr_silence_tracker": {
+    "as_of": "2026-10-30T09:05:30-04:00",
+    "Derrek (owner)": {"last_message": "2026-09-16T01:33:42-04:00", "days_silent": 44, "owner_level": true},
+    "Michelle Queue": {"last_message": "2026-09-10T14:04:16-04:00", "days_silent": 49},
+    "Melissa Userfacing": {"last_message": "2026-10-16T13:45:43-04:00", "days_silent": 13},
+    "Stephski": {"last_message": "2026-10-17T14:41:09-04:00", "days_silent": 12},
+    "Vivek": {"last_message": "2026-10-20T19:01:19-04:00", "days_silent": 9, "note": "last words: 'Okay share the new password'"},
+    "Mayson Chat": {"last_message": "2026-10-23T13:08:58-04:00", "days_silent": 6, "note": "that was an internal @fspitfire tag; last client-facing message Oct 18 'Awesome'"},
+    "Mica Vecco": {"last_message": "2026-10-28T14:52:57-04:00", "days_silent": 1},
+    "Fredo (Fred)": {"last_message": "2026-10-29T07:47:25-04:00", "days_silent": 1},
+    "Eric The Efficient": {"last_message": "2026-05-26T13:48:31-04:00", "days_silent": 156},
+    "Lilia (client)": {"last_message": "2026-10-29T09:38:01-04:00", "days_silent": 0}
+  },
+  "staffing_notes": {
+    "Fred (OFM)": "11 msgs - most present he has been since Sep 25. GOOD: OF maintenance notice + 'OF back online ✅' (10/21); 2-min reply when Teddi left + specific written account same day (10/24); formal $1.9k custom request (10/29). POOR: 10/23 pricing complaint needed Mayson's tag (2h09m) and his answer was about 'sequence' not price; second underpricing the next morning; custom rule broken 10/27 and he took ~32h; ignored the 10/21 audio question and 'New content is uploaded'; Matt report (17d) and the whole Aug backlog untouched. COACH: write the floor into the CRM and show her.",
+    "Mayson (queue)": "8 msgs, 4 of them internal tags. Announced the Friday report policy (10/16) and the test-message heads-up (10/21). Second 'safe' link flagged her 10/17; 'Let’s leave it like that'; never answered her 4 link questions; tagged @StardustNexus twice with no visible result. Escalated Fred and Vivek correctly. Did not act on the credentials in the group.",
+    "Vivek (Meta Support)": "8 msgs, all extracting logins ('Share login Ma’am', 'Username', 'Authentication code', 'Sent', 'Okay share the new password'). Got password + email + 2FA posted in the group, logged in, reported nothing, never confirmed logout, silent since 10/20 19:01. THIRD stall after a login request. Recommend reassignment and a no-passwords-in-group rule.",
+    "Melissa (Userfacing)": "2 msgs, both 10/16 (the combined report). Then vanished: Friday 10/23 report missed one week after it was announced as a fixture; Oct 15 call still unrecapped. Last window's best performer; this window's clearest drop.",
+    "Stephski (invoicing)": "1 msg ('Thank you ❤️' 10/17, 1h53m after 'All paid’'). Cadence/reminder/pausing-line fixes held. Still no amount ever stated; $27 status unknown.",
+    "Mica Vecco (Social Media Director)": "1 msg: reel inspo 10/28 ('Thank you x'). Second IG account / account map still open (50d).",
+    "Michelle (Promo/DMCA)": "ZERO messages (49 days). DMCA now Melissa's.",
+    "Derrek (owner)": "No messages; last 2026-09-16 01:33 = 44 days. IG phone-farm update 90 days overdue. OWNER-LEVEL: surface privately; never in client-facing team section."
+  },
+  "credentials_flags": [
+    "IN-WINDOW (Oct 16-30): PLAINTEXT CREDENTIALS POSTED AT ALTR's REQUEST. Vivek 'Share login Ma’am' (Oct 19 15:08, msg 1308). Client posted: IG username screenshot (Oct 19 21:15, msg 1314); IG password in plaintext (Oct 19 21:15, msg 1315); login email address (Oct 20 11:10, msg 1321); SMS 2FA code (Oct 20 11:13, msg 1325). Instagram forced a password reset the same day (client 19:00 'Ya it told me to for some reason'), so the posted password is stale; the email is live. Vivek then asked 'Okay share the new password' in the group (msg 1331) - not answered. Also Oct 17 msgs 1286/1291/1293: account-status screenshots (not credentials). ACTION: delete 1314/1315/1321/1325; confirm rotation; DM-only handoffs. Redacted in findings: password quote rendered 'Password: [REDACTED]'; email and code described, not quoted.",
+    "IN-WINDOW: Fred's Oct 29 request form (msg 1410) includes the fan's OnlyFans username/ID. Fan PII, not a client secret; not copied into findings.",
+    "Historical, still in chat: 2026-05-26 client posted her first OnlyFans account password in plaintext (msg 24) and Fred repeated it back; logins later changed (Fred 2026-08-04). 2026-08-18/08-24 TikTok login (phone-number username; password likely via screenshot). Oct 13 photo (msg ~1263) likely a login screenshot. Recommend redacting all of these."
+  ],
+  "notes": "2026-10-30 RUN (two-week window). 123 msgs (92 client / 31 team). HEADLINES: (1) Money lost to the exact failures she warned about: Oct 23 five-video set sold for $200 (she: 'missed out on 1,000'); Oct 24 Elijah two videos for $16; Oct 27 custom-approval rule broken (custom + new content at $1,500 vs her $2,500). Fred's replies: 'in sequence', 'Team informed', then a proper $1.9k frumby request form Oct 29. (2) Teddi deleted his account Oct 24 after chatters failed his IG-memory test; Fred answered in 2 min with a written account; client recovered him herself by text. (3) Link in bio: second ALTR link flagged Oct 17; 'Let’s leave it like that'; her 4 questions unanswered; no link 13 days; Mayson waiting on @StardustNexus. (4) SECURITY: Vivek extracted IG password/email/2FA in the group Oct 19-20, IG forced reset, Vivek asked for the new password in-group and went silent (3rd stall). (5) Friday report announced Oct 16, missed Oct 23; Melissa silent since. (6) Paid Oct 17 in 2 days; no amount stated. (7) Owner silent 44d. Health 49 -> 42. Asks 3 -> 11. PRESERVED FACTS: Teddi lost wife and kids in a car crash, lost his old library, pays ~$1,000/set, tests chatters (Oct 24 test = 'do you remember what you said on IG'), asks to be called; she texts him directly. frumby = old-content-exposed spender, bought everything, $200/video, ~$8k/month; paid $1.9k custom Oct 29 (10 min per form, 15 per client; crotchless lingerie, mirror, plug). Elijah = new named spender (Oct 24), $100+/video. Matt = third old-content spender (Oct 13). Adam West wanted the red set. 'Bunny' set exists and was not being sent (Oct 27). Video calls on Snapchat. Her phone number = Zelle lookup, TikTok handle, IG 2FA route; was public on IG 9/22. ALTR Zelle receiving number unchanged since Aug 12 (account name changed Sep 15). IG Reels Drive 1V3QQbtME8iF93SST-YxcF9aMj35TdVVa. Direct link was xli.ink/lilia (flagged Oct 17, removed). Client Telegram @Liliaanglex; Vivek @fonta; Fred @fspitfire; IG farm vendor @StardustNexus. Still-unasked: what is 'Hayley content'. PREDICTIONS TO CHECK NEXT WEEK (window ending ~2026-11-06): (a) Did the Friday Oct 30 report arrive (and was Oct 23 backfilled)? If not, churn signal 2 flips. (b) Did Stephski send the day-before reminder ~Oct 30/31 and the Oct 15-31 invoice ~Nov 1 on cadence, and did she state an amount for the first time? (c) Does she pay within 2-5 days again (expected yes; not a health signal). (d) Did anyone delete msgs 1314/1315/1321/1325 or confirm the password rotation? Did Vivek post anything at all? Expect: no. (e) Did Mayson give her a link or a plan? Expect: still waiting on the vendor. (f) Any further underpricing or custom agreed without her - watch how the frumby custom and the next set are sold; does a written floor appear in Infloww? (g) Did Fred report back on Matt / name the chatter? Expect no. (h) Does she shoot the frumby custom (lingerie arrival) and does the 10-vs-15-minute discrepancy cause a dispute? (i) Asks: if they collapse from 11 to <=2 while she keeps paying instantly, that is the pre-exit pattern - escalate. (j) Owner silence will pass 50 days by next window unless Derrek posts - owner-level, private. (k) Teddi: does he leave again; does any test get relayed to her live? (l) Antonio Veritrade: any further test posts or has the account been removed?",
+  "predictions_checked_from_2026-10-16": {
+    "Did Fred report back on Matt despite 'leave it'": "NO (17 days).",
+    "Any frumby/Matt old-content incident": "None reported. frumby instead got a $1.9k paid custom (Oct 29).",
+    "Purchase-history check installed": "No evidence.",
+    "Halloween: price/Teddi flag/seller; costumes arrived; any set sold": "Sets delivered Oct 19-21; first sold for $200 total (Oct 23) - the loss the plan was meant to prevent. No price/flag/seller ever set.",
+    "Oct 15 invoice paid same day + ALTR receipt with amount": "Paid Oct 17 (2 days, not same day). Receipt 'Thank you ❤️' with no amount.",
+    "New direct link not flagged": "FLAGGED Oct 17. Removed. No link since.",
+    "Shadowban question answered": "No. She re-raised it Oct 19; Vivek logged in Oct 20 and reported nothing.",
+    "Vivek closes the login thread / Oct 13 screenshot removed": "No. He obtained more credentials in-group and went silent again. Nothing removed.",
+    "Day-before reminder ~Oct 30": "Not yet due at window close (09:05 Oct 30).",
+    "Melissa Oct 15 call recap": "No (15 days).",
+    "Churn tell: fast pay + waving off problems": "Fast pay yes; waving off NO - she escalated hard (11 asks). 'So fuck it' / 'it’s whatever I’ll do it' is resignation inside an escalation."
+  }
+}

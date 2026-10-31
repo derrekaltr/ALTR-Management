@@ -1,0 +1,213 @@
+{
+  "client": "Paige",
+  "slug": "paige-x-altr",
+  "week_ending": "2026-08-14",
+  "summary": "After a near-silent week the chat woke up on Aug 13 when Paige hit an Instagram account problem and tagged Vivek with two screenshots and 'please help'. What followed was a 44-message, ~19-hour recovery attempt that was still unfinished at the end of the window. Vivek asked for the login 'in dm' but then ran the entire recovery in the group chat anyway: Paige posted her email + password in plain text (twice), a 2FA code, her personal phone number and an account backup code, all in the client group. This is the second time in three weeks her credentials have been pasted into this chat. Vivek also briefly asked her to approve a login for an account that isn't hers ('Unfilteredlifiting'), which spooked her ('what the hell hold on'). He got in on Aug 14 and said 'Will update shortly', then when she confirmed the account state 4 hours later his final message of the week was 'Hell nah' — no explanation, and the issue is open going into next week. Separately, Derrek's Aug 1 promise of 'plenty of updates starting next week' on the phone-farm/IG rollout has now gone two full weeks with nothing posted, and Michelle's content-upload asks and Mica's 1-on-1 call remain unconfirmed since early July. Payments are the one clean area: no invoice was due in this window and the last one was paid early.",
+  "health": {
+    "score": 66,
+    "trend": "down",
+    "rationale": "Down from 82. An unresolved IG lockout is still open at week end, ALTR handled it by collecting the client's password, 2FA code and backup code in plain text in the group chat despite Vivek's own instruction to DM them, the last message to the client was an unexplained 'Hell nah', and Derrek's promised rollout updates are now two weeks overdue. Offsetting this: the client stayed friendly and cooperative throughout and there is no payment problem."
+  },
+  "reminders": [],
+  "complaints": [
+    {
+      "issue": "Instagram account locked out / restricted again — Paige asked for help on Aug 13 and the account was still not confirmed working when the week closed on Aug 14",
+      "status": "in_progress",
+      "first_raised": "2026-08-13",
+      "employee": "Vivek",
+      "quotes": [
+        {
+          "quote": "please help 😂💞",
+          "who": "Paige (Chey Ref)",
+          "date": "2026-08-13"
+        },
+        {
+          "quote": "Wait on it",
+          "who": "Vivek",
+          "date": "2026-08-13"
+        },
+        {
+          "quote": "no i just got logged out made me confirm my details thinking i was hacled",
+          "who": "Paige (Chey Ref)",
+          "date": "2026-08-14"
+        },
+        {
+          "quote": "Hell nah",
+          "who": "Vivek",
+          "date": "2026-08-14"
+        }
+      ]
+    },
+    {
+      "issue": "Client confusion/alarm during the recovery — Vivek asked her to approve a login for an account that was not hers, then asked for her account backup code, all in the group chat",
+      "status": "new",
+      "first_raised": "2026-08-14",
+      "employee": "Vivek",
+      "quotes": [
+        {
+          "quote": "No you give me on wrong page approval",
+          "who": "Vivek",
+          "date": "2026-08-14"
+        },
+        {
+          "quote": "Unfilteredlifiting",
+          "who": "Vivek",
+          "date": "2026-08-14"
+        },
+        {
+          "quote": "what the hell hold on",
+          "who": "Paige (Chey Ref)",
+          "date": "2026-08-14"
+        }
+      ]
+    }
+  ],
+  "commitments": [
+    {
+      "what": "Restore/secure Paige's Instagram account after the Aug 13 lockout and report back with the outcome",
+      "who": "Vivek",
+      "date": "2026-08-14",
+      "status": "overdue",
+      "quotes": [
+        {
+          "quote": "Worked",
+          "who": "Vivek",
+          "date": "2026-08-14"
+        },
+        {
+          "quote": "Will update shortly",
+          "who": "Vivek",
+          "date": "2026-08-14"
+        },
+        {
+          "quote": "Hell nah",
+          "who": "Vivek",
+          "date": "2026-08-14"
+        }
+      ]
+    },
+    {
+      "what": "Take the login/credential exchange to DM instead of the client group chat — Vivek asked for this then ran the whole recovery in the group anyway, collecting password, 2FA code, phone number and backup code in plain text",
+      "who": "Vivek",
+      "date": "2026-08-13",
+      "status": "overdue",
+      "quotes": [
+        {
+          "quote": "Send login in dm",
+          "who": "Vivek",
+          "date": "2026-08-13"
+        },
+        {
+          "quote": "So listen can you give me backup code",
+          "who": "Vivek",
+          "date": "2026-08-14"
+        },
+        {
+          "quote": "@paigeleighx did you changed the password?",
+          "who": "Vivek",
+          "date": "2026-08-14"
+        }
+      ]
+    },
+    {
+      "what": "Post regular updates on the new phone farm / IG posting rollout ('plenty of updates starting next week') — promised Aug 1, still nothing posted two weeks later",
+      "who": "Derrek",
+      "date": "2026-08-01",
+      "status": "overdue",
+      "quotes": [
+        {
+          "quote": "Thank you for your understanding, we will have plenty of updates starting next week.",
+          "who": "Derrek",
+          "date": "2026-08-01"
+        },
+        {
+          "quote": "We are waiting for a shipment that should land Monday that will be the final piece needed to begin and scale.",
+          "who": "Derrek",
+          "date": "2026-08-01"
+        }
+      ]
+    },
+    {
+      "what": "Confirm Paige's reel uploads to the Google Drive plus the story photos Michelle asked for — open since July, no follow-up in this window",
+      "who": "Michelle",
+      "date": "2026-07-18",
+      "status": "pending",
+      "quotes": [
+        {
+          "quote": "awww lol it’s okay! also if you can upload a few pictures as well for story post that’ll be great babe 💕",
+          "who": "Michelle Queue",
+          "date": "2026-07-18"
+        },
+        {
+          "quote": "omg this whole time i thought they’d upload they’d uploaded and ive just gone on it again and they’re still uploading! im so sorry!!",
+          "who": "Paige (Chey Ref)",
+          "date": "2026-07-18"
+        }
+      ]
+    },
+    {
+      "what": "Confirm the 1-on-1 socials call with Mica was booked and held — Paige said she would book on Jul 6, never confirmed; Mica sent reel inspo again on Aug 13 without touching it",
+      "who": "Mica Vecco",
+      "date": "2026-07-06",
+      "status": "pending",
+      "quotes": [
+        {
+          "quote": "hii sorry im new to telegram still figuring it out 😂 ill book now xx",
+          "who": "Paige (Chey Ref)",
+          "date": "2026-07-06"
+        },
+        {
+          "quote": "hi @paigeleighx! here’s your reel inspo for the week 🩷",
+          "who": "Mica Vecco",
+          "date": "2026-08-13"
+        }
+      ]
+    }
+  ],
+  "payments": [
+    {
+      "note": "No invoice fell due in this window. Stephski's Aug 1 invoice (July 15-31) was already paid on Aug 4, three days into a seven-day window and with no reminders — her best cycle so far. The next invoice (Aug 1-15) is due to go out around Aug 15. Outstanding nit: Stephski still has not posted an explicit 'payment received / wire landed' confirmation for the Aug 4 transfer.",
+      "date": "2026-08-04",
+      "late": false,
+      "reason": null,
+      "suggested_fix": "Have Stephski confirm the Aug 4 wire landed and send the Aug 1-15 invoice on schedule; Paige's payment behaviour has improved every cycle, so keep the same simple format and the same 7-day framing.",
+      "quotes": [
+        {
+          "quote": "hey ive sent it should arrive tomorrow c",
+          "who": "Paige (Chey Ref)",
+          "date": "2026-08-04"
+        },
+        {
+          "quote": "thanks so much 🙂",
+          "who": "Stephski",
+          "date": "2026-08-04"
+        }
+      ]
+    }
+  ],
+  "client_priorities": [
+    "Keeping her Instagram accounts alive and accessible — this is what she reaches out about, and it is the only thing she has ever proactively asked for help with",
+    "Fast, hand-held support: she is new to Telegram, does not know the platform mechanics ('yeah how do i do it'), and needs step-by-step instructions rather than terse commands",
+    "Seeing results from the new phone-farm IG posting system Derrek announced Aug 1 — she responded enthusiastically and is still waiting on the promised updates",
+    "Low-friction onboarding — she misses topic pings unless nudged directly"
+  ],
+  "suggestions": [
+    "URGENT (security): Paige's IG email + password were pasted in this group chat on Aug 13 and again on Aug 14, along with a 2FA code, her personal mobile number and an account backup code. Rotate the password and regenerate backup codes today, and delete messages 39, 54, 75, 85, 98, 100 and 110 from the chat. This is the second occurrence in three weeks (first was Jul 29).",
+    "Fix the process, not just this instance: Vivek wrote 'Send login in dm' and then ran the entire recovery in the group. Move credential handling to a password manager / share link and make it a hard rule that logins, 2FA codes and backup codes never appear in a client group chat.",
+    "Vivek's last message to the client this week was 'Hell nah' with no context, leaving her account state unexplained going into the weekend. He owes her a plain-English status update on whether the account is secured, what he changed, and what she needs to do.",
+    "Vivek asked Paige to approve a login for 'Unfilteredlifiting', an account that isn't hers. Confirm nothing was cross-linked to her account and reassure her — she reacted with 'what the hell hold on'.",
+    "Derrek's 'plenty of updates starting next week' (Aug 1) is now two weeks overdue with zero posts. Post a concrete phone-farm/IG status update before she has to ask; she has been positive and patient about it so far but that will not last.",
+    "Close the two stale onboarding loops: Michelle needs confirmation on the reel uploads plus story photos, and Mica should confirm whether the 1-on-1 call ever happened before sending another week of reel inspo."
+  ],
+  "wins": [
+    "Payment behaviour keeps improving: the July 15-31 invoice was paid on Aug 4 with no reminders at all, versus two nudges needed on her first invoice.",
+    "Paige stayed cooperative and good-humoured through a long, messy 19-hour account recovery, responding with 'perf thank you' and proactively fixing her recovery number when Vivek asked.",
+    "Vivek did regain access to the account on Aug 14 ('Worked') and correctly flagged that her recovery phone number was stale, which she then corrected.",
+    "Mica kept the weekly reel-inspo cadence running on Aug 13 without needing to be asked."
+  ],
+  "week_stats": {
+    "messages": 45,
+    "client_messages": 21,
+    "team_messages": 24
+  }
+}

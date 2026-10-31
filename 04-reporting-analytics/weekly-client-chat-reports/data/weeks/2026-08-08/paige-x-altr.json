@@ -1,0 +1,92 @@
+{
+  "client": "Paige",
+  "slug": "paige-x-altr",
+  "week_ending": "2026-08-08",
+  "summary": "Very quiet week in a still-new onboarding chat (referral from Chey Mai): only two messages. Paige sent payment for her July 15-31 invoice on Aug 4, well inside the 7-day window Stephski set, and Stephski acknowledged it — a clear improvement over the June invoice cycle that needed two nudges. The notable gap is on ALTR's side: Derrek's Aug 1 phone-farm/IG announcement promised 'plenty of updates starting next week,' but no updates were posted in the chat all week. Older onboarding threads (reel/photo uploads for Michelle, Mica's 1-on-1 call) also went untouched this week with no confirmation they were completed.",
+  "health": {
+    "score": 82,
+    "trend": "new",
+    "rationale": "Client is warm, responsive and paid promptly, but Derrek's promised weekly updates never arrived and several onboarding loops (content uploads, Mica call) remain unconfirmed."
+  },
+  "reminders": [],
+  "complaints": [],
+  "commitments": [
+    {
+      "what": "Post regular updates on the new phone farm / IG posting rollout ('plenty of updates starting next week')",
+      "who": "Derrek",
+      "date": "2026-08-01",
+      "status": "overdue",
+      "quotes": [
+        {
+          "quote": "We are waiting for a shipment that should land Monday that will be the final piece needed to begin and scale.",
+          "who": "Derrek",
+          "date": "2026-08-01"
+        },
+        {
+          "quote": "Thank you for your understanding, we will have plenty of updates starting next week.",
+          "who": "Derrek",
+          "date": "2026-08-01"
+        }
+      ]
+    },
+    {
+      "what": "Send payment for the July 15th-31st invoice",
+      "who": "Paige (client)",
+      "date": "2026-08-04",
+      "status": "done",
+      "quotes": [
+        {
+          "quote": "hey ive sent it should arrive tomorrow c",
+          "who": "Paige (Chey Ref)",
+          "date": "2026-08-04"
+        },
+        {
+          "quote": "thanks so much 🙂",
+          "who": "Stephski",
+          "date": "2026-08-04"
+        }
+      ]
+    }
+  ],
+  "payments": [
+    {
+      "note": "Invoice for July 15-31 (sent by Stephski on Aug 1 with a 7-day window) — Paige confirmed sending payment on Aug 4, no reminders needed. Wire receipt/arrival not yet explicitly confirmed in chat.",
+      "date": "2026-08-04",
+      "late": false,
+      "reason": null,
+      "suggested_fix": "Have Stephski post a quick 'payment received' confirmation once the wire lands to close the loop.",
+      "quotes": [
+        {
+          "quote": "If you could please shoot over payment within the next 7 days that would be amazing!",
+          "who": "Stephski",
+          "date": "2026-08-01"
+        },
+        {
+          "quote": "hey ive sent it should arrive tomorrow c",
+          "who": "Paige (Chey Ref)",
+          "date": "2026-08-04"
+        }
+      ]
+    }
+  ],
+  "client_priorities": [
+    "Growing and protecting her Instagram accounts (welcomed Meta support and copyright-ban protection setup)",
+    "Getting fully onboarded — she is new to Telegram and has repeatedly missed pinned tasks, so simple clear asks work best",
+    "Seeing results from the new phone-farm IG posting system Derrek announced Aug 1"
+  ],
+  "suggestions": [
+    "Derrek promised 'plenty of updates starting next week' on Aug 1 but nothing was posted during the report week — post a concrete phone-farm/IG status update to this chat early next week before the client has to ask.",
+    "Michelle is still waiting on confirmation of reel uploads (they were 'still uploading' on Jul 18) plus story photos she requested — nudge Paige once with a single simple checklist.",
+    "Confirm whether Paige ever booked/completed the 1-on-1 call with Mica from the Jul 6 thread.",
+    "Paige posted her IG password in plain text on Jul 29 — have Vivek confirm it was rotated and delete the message from the chat."
+  ],
+  "wins": [
+    "Paige paid the July 15-31 invoice within 3 days of receiving it, with zero reminders — a big improvement over her first invoice cycle which needed two nudges.",
+    "Client reacted positively to Derrek's Aug 1 infrastructure update ('im excited to see where this goes'), keeping trust high through the IG posting pause."
+  ],
+  "week_stats": {
+    "messages": 2,
+    "client_messages": 1,
+    "team_messages": 1
+  }
+}

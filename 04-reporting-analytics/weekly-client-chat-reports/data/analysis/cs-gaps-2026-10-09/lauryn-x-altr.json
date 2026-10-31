@@ -1,0 +1,120 @@
+{
+  "client": "Lauryn",
+  "slug": "lauryn-x-altr",
+  "status": "at_risk",
+  "status_reason": "Still at_risk. The risk has shifted from a quiet exit to cash strain plus anger about the Facebook page. What changed since 2026-09-25: (1) She raised Facebook again on 2026-09-28 ('So we have no time line / Is this normal to be slow like this ?? / 8 weeks in'). That ended her 25-day silence on it, so the 'stopped asking' churn tell is weaker. The only answer, which came after Mayson tagged Vivek twice, was 'Right now meta stops operations in many departments' (09-29). No case number or date was given, and nobody on either side has mentioned it in the 10 days since. The page has now been flagged for 377 days. (2) The weekly leak update came back (Melissa Userfacing, 09-25 and 10-02) after two missed weeks. Nobody ever acknowledged the gap. (3) Cash strain came back straight after the 09-22 payoff. Stephski sent the 10-01 invoice, followed by a 'tomorrow is the deadline' chase (10-06), a 6pm cutoff (10-07) and then a pause threat: 'we will have to pause work until its fully paid'. Her reply was 'Full monies are still pending / Tomorrow I'll send over what's available until further notice', which means partial payments are back. Her 10-08 'It's done' (with a screenshot) had not been acknowledged when the window closed, so we do not know whether it was a full or partial payment. (4) The weekly call Mayson offered for 09-23 11am EST never happened and was never rebooked (16 days). (5) A new repost-network push (23 accounts, 10-12) is the first growth action she has been shown in months, but her 'I don't see the accounts' went 39h without an answer until she sent '???'. (6) A 'new private platform' intake form arrived for 'whoever's on your chats' with no name attached. The vendor chat team has now been silent for 121 days. She is still engaged, still paying and still asking, but every message she gets from us now is a payment demand, a form or a template.",
+  "last_client_message": "2026-10-08",
+  "dimensions": {
+    "responsiveness": {
+      "severity": 2,
+      "internal_failure": "Our raw speed is excellent: the median first reply across 97 client questions is 2 minutes, and there is only one strict >24h breach in 13.5 months. The failure is in what gets answered. Topics where we want something (payment, content, forms) get same-hour replies. Her own asks get answered late, through a tag, or not at all: the Facebook chase (09-02/03, answered 12 days later and to a colleague), the Facebook timeline (09-28, answered only after two tags to Vivek), and the missing repost list (10-06, 39h until she had to send '???').",
+      "evidence": [
+        {"quote": "I don't see the accounts", "who": "LA Client: no reply on this topic for 39h, although Stephski chased the invoice in the meantime. Melissa answered 21 minutes after the client's '???' on 10-08", "date": "2026-10-06"},
+        {"quote": "So we have no time line / Is this normal to be slow like this ?? / 8 weeks in", "who": "LA Client: the only answer came the next day, after a second '@fonta' tag from Mayson", "date": "2026-09-28"},
+        {"quote": "But can you send me split on invoice?", "who": "LA Client: the single strict >24h breach in the whole history (43.1h)", "date": "2026-07-19"}
+      ]
+    },
+    "follow_through": {
+      "severity": 3,
+      "internal_failure": "We make specific, dated, recurring commitments and let them expire without telling her. Roughly 19 of 35 checkable promises have lapsed. These include the fortnightly report (one was ever sent), the monthly content request (none in 130 days) and the weekly call (offered for 09-23, never held or rebooked). The one partial recovery this period is the weekly leak update, which resumed on 09-25 after two missed weeks. Nobody explained the gap.",
+      "evidence": [
+        {"quote": "Morning, would tomorrow 11am EST work?", "who": "Mayson Chat: she had proposed the day herself ('How's tomorrow ??'). The call never happened, no link was sent, and Mayson has said nothing to her directly since", "date": "2026-09-22"},
+        {"quote": "Moving forward, you'll receive a report every two weeks along with a tailored 14-day game plan.", "who": "Sophie Logan (Raw Agency): only one report was ever sent. Sophie left 16 days later and nobody took over the promise (381 days ago)", "date": "2025-09-23"},
+        {"quote": "Hey LA! Here's your weekly update on the leak removal breakdown for the past 7 days 🫶🏼", "who": "Melissa Userfacing: the cadence resumed after the 09-15 and 09-22 misses. It was handed over from Michelle Queue without any announcement to the client", "date": "2026-09-25"}
+      ]
+    },
+    "proactive_communication": {
+      "severity": 3,
+      "internal_failure": "We contact her often, but almost only to get something from her: invoices, payment chases, forms, customs. She has had no revenue, subscriber or growth number since 2025-09-17 (387 days). In this period our unprompted messages were two template leak updates, an invoice plus three payment chases, an intake form and a repost notice. The repost notice was the first growth-facing action in months, and its attachment did not open for her. Longest gap with no outbound message from our side: 9.6 days excluding leak/DMCA broadcasts (8.1 days counting everything). Trailing silence at the run date was 0.7 days.",
+      "evidence": [
+        {"quote": "Last couple of days we've seen 30+ subs, team is engaging, stats are fireeee 🔥🔥", "who": "Sophie Logan (Raw Agency): the last performance stat of any kind she has received from us", "date": "2025-09-17"},
+        {"quote": "Hi love checking in", "who": "Stephski: the third payment chase in three days (10-06, 10-07, 10-08). In the same window nobody sent a single update on her account, her page or her numbers", "date": "2026-10-08"},
+        {"quote": "Hey LA, this reel is going out across our repost network on Monday, October 12 ... Attached is the list of all 23 accounts it will be posted on!", "who": "Melissa Userfacing: a genuinely proactive growth update, the first in months. She could not see the attached list", "date": "2026-10-06"}
+      ]
+    },
+    "onboarding_handoff": {
+      "severity": 2,
+      "internal_failure": "Week 1 was strong: a named org chart, a kickoff call that was booked and held, and every function owner introduced within 72 hours. None of it was kept up. Every person on the 2025-08-25 roster has since gone silent and none of the departures was announced. The Client Relations role has been vacant for 365 days. Staff changes are still unannounced: Melissa took over the leak updates and Mayson became the main contact, and neither was introduced. On 09-28 she was effectively asked to onboard again, through an intake addressed to 'whoever's on your chats'.",
+      "evidence": [
+        {"quote": "can you please fill out this intake so we (and whoever's on your chats) really understand you and rep you properly?", "who": "Melissa Userfacing: a second intake 13 months in that does not name her chat team. She has not completed it (11 days)", "date": "2026-09-28"},
+        {"quote": "This is the team we'll be working with: Ana - General Manager / Tivo - Account executive / Andrea & Said - Queue Managers / Rafael & Paulo - Content Managers / Isaac, Alfred, King, Cyd, Gelle, Giann, Steph and Lance - (Chat Managers)", "who": "Ana M | General Manager: the vendor chat team has been silent since 2026-06-10 (121 days) and no replacement roster was ever given", "date": "2025-08-25"},
+        {"quote": "I'm Sophie, I am the Client Relations manager here at ALTR!! I'll be assisting with day to day operations, leak protection, reporting, account reviews/optimisation and more", "who": "Sophie Logan (Raw Agency): last message 2025-10-09; no handover and no successor", "date": "2025-08-25"}
+      ]
+    },
+    "chatter_conduct": {
+      "severity": 3,
+      "internal_failure": "The chat team repeatedly argued a spender's case back to her after she had already said no, treating her stated limits as an opening offer. A hard no on 2026-02-20 was re-pitched three times over four days. A second hard no on 2026-06-04 was re-pitched four days later, using a refund we had caused as leverage. The promise to filter out that type of request lasted 101 days. The 09-17 custom brief is still unpriced and undated, and nobody checked it against her boundaries. There were no new incidents this period because there was no visible chat-team activity at all.",
+      "evidence": [
+        {"quote": "Hey, G / Don't do those types of customs / Implying giving head / Give him other options", "who": "LA Client: Tanya then asked her to 'make an exception for him this one time' (02-20), followed up again (02-21), and יִצְחָק bumped it a third time (02-24)", "date": "2026-02-20"},
+        {"quote": "any chance you would still do it so we can avoid the refund? we'll keep in mind to turn down this type of request from now on", "who": "Tanya | Chat Manager: four days after she wrote that she would not do those types of request going forward", "date": "2026-06-08"},
+        {"quote": "Just a close up of you licking your nipples. Nothing more nothing less", "who": "Mayson Chat: 101 days after the 'we'll turn down this type of request' promise, and with no price or deadline ever added", "date": "2026-09-18"}
+      ]
+    },
+    "platform_health": {
+      "severity": 3,
+      "internal_failure": "Her Facebook page has been flagged 'not recommended' for 377 days and is still not fixed. Ownership drifted from Sophie to Mica to an unnamed 'Facebook team' to Vivek, with no handover at any step. Vivek posts only when tagged; this is the ninth consecutive period. His updates describe the problem ('I tried to forward a case', 'meta stops operations') but never give a case number, an ETA or an alternative plan. When she directly asked for a timeline on 09-28, she got none.",
+      "evidence": [
+        {"quote": "I tried to forward a case / They haven't replied yet", "who": "Vivek: posted only after Mayson's '@fonta can we get an update on the Facebook for LA?'", "date": "2026-09-28"},
+        {"quote": "Right now meta stops operations in many departments", "who": "Vivek: the whole answer to her 'So we have no time line', given after a second tag. Nobody has said anything about it since (10 days)", "date": "2026-09-29"},
+        {"quote": "It's very important for my page to be back up and functioning due to Business reasons 🙏🏽", "who": "LA Client: the page also supports her music career, which she has explained three times", "date": "2026-08-18"}
+      ]
+    },
+    "billing_ops": {
+      "severity": 3,
+      "internal_failure": "Payment details have changed seven-plus times in 13 months. Client money was twice routed to the owner's personal Zelle/Apple Pay, and she was later told she had been paying the wrong account. This period: the invoice message still states no amount, the pause threat came out as soon as she said funds were pending, and her 10-08 payment screenshot had gone unacknowledged when the window closed. We still cannot tell her what she has paid or what she owes.",
+      "evidence": [
+        {"quote": "Okay understood, we can give a 24 hour extention but if it goes beyond that we will have to pause work until its fully paid", "who": "Stephski: the reply to 'Full monies are still pending'. This is the third pause warning (09-01, 10-01, 10-07), sent to a client who had cleared six periods 15 days earlier", "date": "2026-10-07"},
+        {"quote": "It's done", "who": "LA Client: sent with a screenshot. It had not been acknowledged when the window closed, and nobody has confirmed whether it was full or partial", "date": "2026-10-08"},
+        {"quote": "just a reminder that we need you to send to the business account not Derreks personal if possible 🙏", "who": "Stephski: sent ten hours after she wrote '✅✅✅ / Closed out'. Earlier, on 2026-08-09, we had asked her to Zelle the owner's personal number", "date": "2026-09-17"}
+      ]
+    },
+    "ownership_escalation": {
+      "severity": 3,
+      "internal_failure": "Nobody owns this account end to end. Her escalations get tags instead of answers: Mayson has now tagged @fonta on her behalf six times (08-13, 08-21, 09-03, 09-14, 09-28, 09-29). Mayson's only messages to the chat since 09-22 have been those tags; he has said nothing to her directly. Billing (Stephski), DMCA and reposts (Melissa) and Facebook (Vivek) each run in their own silo, and nobody connects them into one picture for her.",
+      "evidence": [
+        {"quote": "@fonta", "who": "Mayson Chat: the second tag in two days. It is the entire escalation path for a 377-day-old issue", "date": "2026-09-29"},
+        {"quote": "Just waiting on derrek / Once he wakes up", "who": "Vivek: said to the client as the status of the issue", "date": "2026-08-12"},
+        {"quote": "Ma'am that's on you completely", "who": "Vivek: after she declined for the third time to hand over her personal Gmail password", "date": "2026-08-16"}
+      ]
+    },
+    "disengagement_detection": {
+      "severity": 3,
+      "internal_failure": "In September every churn signal fired and nobody acted on any of them. October adds new ones: she is back to paying 'what's available until further notice', she called the Facebook delay abnormal ('Is this normal to be slow like this ??'), and she is ignoring the intake form. Our response to her cash strain was a deadline and a pause threat, not a conversation. The call she asked for herself was dropped. Nobody has asked how she is or whether the service is working for her.",
+      "evidence": [
+        {"quote": "Hey , Steph! Full monies are still pending / Tomorrow I'll send over what's available until further notice", "who": "LA Client: partial payments are back two weeks after the full payoff. Our reply was a 24h ultimatum", "date": "2026-10-07"},
+        {"quote": "How's tomorrow ??", "who": "LA Client: she asked for the call herself. It was never held or rebooked", "date": "2026-09-22"},
+        {"quote": "Is this normal to be slow like this ??", "who": "LA Client: an open trust question. Nobody acknowledged it as one or offered a call or alternative", "date": "2026-09-28"}
+      ]
+    },
+    "security_hygiene": {
+      "severity": 3,
+      "internal_failure": "Plaintext credentials are sitting in a group chat of about 20 people and have never been rotated, deleted or moved to a vault. They include an OnlyFans password (2025-08-25), Facebook passwords (2025-09-15 at our request, and again on 2026-08-07 and 08-09), her phone number and a live SMS 2FA code (2026-08-16). Staff asked three times for her personal Gmail login and only stopped when her own management stepped in. Nothing was cleaned up this period (63 days since the last exposure). The risk comes back if the Meta appeal needs logins again.",
+      "evidence": [
+        {"quote": "Facebook Login: [REDACTED credential] / PW: [REDACTED credential]", "who": "LA Client: posted in open chat because Sophie asked for her 'Email/phone number and password please x'. It is still in the log and was never rotated by us. (Redacted here; the earlier 2026-09-25 analysis file quoted this password in plaintext and should be scrubbed.)", "date": "2025-09-15"},
+        {"quote": "New FB Password: [REDACTED credential]", "who": "LA Client: posted after we told her to reset it; an SMS 2FA code [REDACTED credential] followed on 2026-08-16", "date": "2026-08-09"},
+        {"quote": "Talked to my Management we can't give out certain passwords just for confidential purposes / We're not comfortable with that", "who": "LA Client: her third refusal, after we asked on 2026-08-08 and 08-13", "date": "2026-08-15"}
+      ]
+    }
+  },
+  "metrics": {
+    "client_questions_total": 97,
+    "unanswered_over_24h": 3,
+    "max_team_silence_days": 9.6,
+    "promises_made": 35,
+    "promises_kept": 14,
+    "promises_lapsed": 19,
+    "method": "Full history 2025-08-25 to 2026-10-08 (1,901 non-service messages: 1,122 from the client, 779 from our side). Client = 'LA Client' per config/clients.yaml; everyone else counts as our side, including the Lauryn vendor chat team, Melissa Userfacing, Mayson and Vivek. Computed with src/_tmp_lauryn-x-altr.py. client_questions_total = client messages containing '?'. unanswered_over_24h = 1 by the strict rule (no outbound message of any kind within 24h; 2026-07-19, 43.1h) plus 2 on-topic failures where other outbound traffic continued (the 09-02/03 Facebook chase, answered 12 days later and to a colleague; the 10-06 'I don't see the accounts', 39h until she sent '???'). Median first reply is 2 minutes, p90 3.2h. max_team_silence_days = longest gap between our outbound messages excluding leak/DMCA broadcasts (2025-12-05 to 2025-12-15). Counting all outbound messages the maximum is 8.1d; trailing silence at the run date is 0.7d. Promises = explicit, checkable commitments, with recurring cadences counted once each. Versus the 2026-09-25 run: +3 promises made (repost on 10-12, the 24h extension, re-sending the repost list); kept rose from 12 to 14 (leak cadence resumed, list re-sent); lapsed fell from 20 to 19. Two are still pending (repost on 10-12, enforcing or withdrawing the pause)."
+  },
+  "what_client_wanted": [
+    "A working Facebook page with a real timeline. It supports her music career as well as OF, and it is the thing she has asked about most. 'It's very important for my page to be back up and functioning due to Business reasons 🙏🏽' (2026-08-18); 'So we have no time line / Is this normal to be slow like this ?? / 8 weeks in' (2026-09-28).",
+    "Momentum she can see in numbers. She tracks her own revenue closely. 'Let's make this impactful 🚀🚀🚀' (2025-08-25); 'last month was def short our LOWEST money wise' (2026-03-28); 'My books are ran off what drops after pending state' (2026-07-30).",
+    "Her brand and her limits protected without having to argue for them again. 'Just def want page protected at all costs' (2025-09-15); 'No exception for him / Just something I won't do' (2026-02-24).",
+    "To be told things instead of having to chase them. 'Keep me updated Mama 💜💜💜' (2025-09-27); 'Keep me updated pls / Well I'm periodically checking on my end as well' (2026-08-18)."
+  ],
+  "what_worked": [
+    "The DMCA/leak service is the most durable source of trust, and it is running again (09-25, 10-02). 'Insaneeee / But glad we cleaned it all up / Thank Youuuu 🙏🏽🙏🏽🙏🏽' (2025-08-28); 'Wewww / Thank you for the update 🙏🏽' (2025-09-03). Keep it weekly and never let it lapse silently.",
+    "Visible growth actions get immediate engagement. She replied to the repost-network notice the same day: 'I see my reel tho 🙏🏽' (2026-10-06). When the 30-day report and game plan were sent, she answered 'I think we are on the right track / Moving Upward 📈 / Stradgey makes sense' (2025-09-23). She responds to proof of effort.",
+    "Protecting her with fans and asking about boundaries before taking requests. Tanya pausing chatting during her live events got 'Perfect!! / Thank youuu 💜💜' (2025-12-20). King Choy setting expectations first got 'Thank Youuu / For communicating that with me 🙏🏽🙏🏽🙏🏽' (2025-08-30)."
+  ],
+  "top_fix": "Give this account one named internal owner, accountable for a standing fortnightly update, and escalate if it slips. The update should cover revenue and subscribers, Facebook status with a real owner, case number and next date, what was paid and what is still owed, and every open ask on both sides. It goes out whether or not there is good news. Every severe finding here comes from the same gap: when Sophie left on 2025-10-09, nobody took over the job of telling Lauryn anything she had not chased herself. That is why the call she asked for disappeared, why the Facebook page has gone 377 days without a timeline, why the only senior voice in her chat is a payment chase plus a pause threat, and why we cannot confirm what her 10-08 payment covered."
+}

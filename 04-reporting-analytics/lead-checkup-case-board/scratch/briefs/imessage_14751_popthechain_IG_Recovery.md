@@ -1,0 +1,87 @@
+# @popthechain IG Recovery  [imessage #14751 GROUP]
+msgs=85 (in=51 out=34) window=2026-08-26..2026-09-16
+last_client=2026-09-16 (2d ago), last_derrek=2026-09-15 (3d ago)
+LAST MESSAGE FROM CLIENT — UNANSWERED: 'All good thanks for update'
+
+  ...
+[2026-08-26 18:19] David: Sunny 🤝 Derrek Derrekk is the beast who is going to help you finally get your account back to normal. Derrick if you need anything from Sunny please let him know
+[2026-08-26 18:22] David: 
+      <IMG OK non-image: /Users/locklyjailbreak/Library/Messages/Attachments/d5/05/at_0_67FFF261-F91D-408C-8B00-38441F4A2CE7/GroupPhotoImage>
+[2026-08-26 18:49] DEREK: Hey sunny great to meet you!
+[2026-08-26 18:51] David: Derrek can we get a quote on sunny also? This is a new unban
+[2026-08-26 18:53] +16292858176: Wassup!
+[2026-08-26 18:53] +16292858176: Unban might be mission impossible I got banned on all Instagram accounts and Facebook
+[2026-08-26 18:54] DEREK: Nothing is mission impossible
+[2026-08-26 19:14] DEREK: Can you send me a screenshot of what it says when you try to login?
+[2026-08-26 19:15] +16292858176: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/51/01/1E12DEBE-13E8-4E4D-96D2-7C9F7F7E9158/IMG_0093.jpeg>
+[2026-08-26 19:16] DEREK: Damn and the other igs what do they say
+[2026-08-26 19:16] DEREK: Same thing
+[2026-08-26 19:16] DEREK: Dont appeal if it lets you
+[2026-08-26 19:16] +16292858176: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/10/00/661A0FE5-774B-478D-B9D3-A65A148C6E50/IMG_0091.PNG>
+[2026-08-26 19:17] +16292858176: Both got banned. Facebook got banned as well. Instagram was connected to Facebook.
+[2026-08-26 19:17] DEREK: Damn so didnt give you the option
+  ...
+[2026-08-26 19:17] DEREK: Click read more about this rule plz
+[2026-08-26 19:18] DEREK: Device ban then
+[2026-08-26 19:18] +16292858176: Yep
+[2026-08-26 19:18] +16292858176: Created a new Instagram 0 followers
+[2026-08-26 19:18] +16292858176: Immediate ban
+[2026-08-26 19:18] +16292858176: Can’t even open app no more
+[2026-08-26 20:06] DEREK: Yea 100%
+[2026-08-26 20:07] DEREK: Ok so unfortunately those are perm bans and gonna be pricey
+[2026-08-26 20:07] DEREK: Its around $2700 takes 0-48hrs
+[2026-08-26 20:09] +16292858176: Nah I’m good man I would do it but it’s not worth taking the chance of loosing 2700$. I appreciate you tho.
+  ...
+[2026-09-01 16:20] DEREK: Very high
+[2026-09-01 16:20] DEREK: It’s pay after so there’s no risk
+[2026-09-01 16:20] +16292858176: Ok let’s do it
+  ...
+[2026-09-01 16:20] DEREK: Yessir
+[2026-09-01 16:21] +16292858176: If you get it back is there a chance I will get banned again?
+[2026-09-01 16:21] +16292858176: I created a brand new ig and got banned instantly
+[2026-09-01 16:21] +16292858176: Ip ban
+[2026-09-01 16:21] +16292858176: Facebook banned as well
+[2026-09-01 16:23] +16292858176: I also paid mayk he couldn’t do it
+[2026-09-01 18:20] +16292858176: ??
+  ...
+[2026-09-14 03:00] +16292858176: Yo
+[2026-09-14 03:23] DEREK: Let’s get you fixed
+[2026-09-14 03:24] +16292858176: I’m ip banned bro it’s cooked
+[2026-09-14 03:24] +16292858176: I had almost 100 K followers and I literally did nothing wrong. It’s crazy.
+[2026-09-14 03:37] DEREK: iP banned is changing router and getting a new SIM card. If your device banned that’s just a new phone. Def the pricier option but still possible
+[2026-09-14 03:47] +16292858176: OK cool. Could you answer this question for me? I got someone to create me a brand new Instagram different device different SIM card different state everything I never logged into it. New phone number new email everything they login on their phone. They create…
+[2026-09-14 03:47] +16292858176: What type of ban is that?
+[2026-09-14 03:47] +16292858176: For the name, they also put the same name as my last one not the username, but where you put your real name at
+[2026-09-14 04:55] DEREK: If it was the same profile photo like exact same it had the same Meta data and it would’ve flagged being on both accounts
+[2026-09-14 04:55] DEREK: Also, if you have an account with Meta verification active, that causes more problems as well
+[2026-09-14 04:56] +16292858176: Makes sense. It was exact same. I don’t have a verification.
+[2026-09-14 04:56] +16292858176: If you think you can get it back let’s do it
+[2026-09-14 04:56] DEREK: I can for sure
+[2026-09-14 04:57] DEREK: It’s just gonna take a few days unfortunately because their backed up
+[2026-09-14 04:57] DEREK: They haven’t had Unbans for over a week
+[2026-09-14 04:57] +16292858176: Let’s do it! Just to lyk my other Instagram got banned when my main Instagram got banned. Also my Facebook got banned. They were all connected. Will that be an issue ?
+[2026-09-14 04:58] DEREK: No
+[2026-09-14 04:58] +16292858176: Ok great let’s do it
+[2026-09-14 04:58] DEREK: Loved “Ok great let’s do it”
+[2026-09-14 04:58] DEREK: Kk will begin the process shortly
+[2026-09-14 04:58] +16292858176: ok great
+[2026-09-14 17:30] +16292858176: Hey when will process begin?
+[2026-09-14 19:02] Vivek Unban: Yo
+[2026-09-14 19:07] DEREK: Hey bro
+[2026-09-14 19:25] +16292858176: Yo
+[2026-09-14 23:08] +16292858176: Hello
+[2026-09-15 08:23] DEREK: Started
+[2026-09-15 08:28] +16292858176: Great
+[2026-09-15 16:31] +16292858176: Do y’all have my login info and everything?
+[2026-09-15 17:49] DEREK: Dont need logins for this.
+[2026-09-15 17:55] +16292858176: Loved “Dont need logins for this.”
+[2026-09-15 17:55] +16292858176: Ok hopefully it works🙏
+[2026-09-15 17:55] +16292858176: I appreciate you guys
+[2026-09-16 16:54] +16292858176: Any updates?
+[2026-09-16 17:28] Vivek Unban: Not yet sir
+[2026-09-16 17:28] Vivek Unban: Case is submitted
+[2026-09-16 17:28] Vivek Unban: Due to high security and on going audit
+[2026-09-16 17:29] Vivek Unban: Agents are bit busy
+[2026-09-16 17:29] +16292858176: All good thanks for update

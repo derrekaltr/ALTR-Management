@@ -1,0 +1,569 @@
+{
+  "client": "Alex Paige Moore",
+  "slug": "alex-paige-moore-x-altr",
+  "as_of": "2026-09-25",
+  "window_covered": "2026-09-18T09:05:17-04:00 to 2026-09-25T09:08:16-04:00",
+  "account_status": {
+    "state": "CHURNED — client resigned 2026-09-17, final invoice paid 2026-09-23, departure still unacknowledged by ALTR at 2026-09-25",
+    "churn_date": "2026-09-17",
+    "churn_time": "2026-09-17T20:19:25-04:00",
+    "quote": "Hey guys I just want to let you know I’m leaving ALTR. I want to thankyou all so much for helping me with everything you’ve been amazing. I wish you all the best with your futures!",
+    "altr_response": "STILL NONE at 2026-09-25T09:08:16-04:00 — 7 days 12h49m. First ALTR message after the resignation came 4 days 0h56m later (Stephski, 2026-09-21T21:15:43) and was an invoice chase with no reference to her leaving. The only other ALTR message in the window was Mayson Chat's 'Thanks @alexpaigem' (2026-09-23T08:25:24) acknowledging her payment. Nobody has said 'sorry to hear that', asked why, offered a call, or discussed offboarding. Derrek's last message in this chat remains 2026-08-13 — 43 days.",
+    "tenure": "2025-09-14 to 2026-09-17 (12 months, 3 days). Chat migrated from «Alex x ALTR» on 2025-09-14; onboarded by Lauren (Biz Assistant), Mica Vecco and Sophie Logan (Raw Agency).",
+    "final_payment": "2026-09-23T06:27:41-04:00 — receipt photo + 'Final invoice paid', settling the $5,259.90 balance Stephski named on 2026-09-21. 33 hours from ask to payment, 6 days after resigning.",
+    "relationship_temperature": "Still warm and still responsive at window close. 'No worries' (2026-09-21T22:58:45) came 1h43m after the chase; she paid without argument. She has not gone silent — ALTR has.",
+    "precedent": "She has quietly exited a management before. 2025-09-24: 'I did tell the owner I was leaving and gave notice, but just never know with some people and managements'. The warning sat in the file for 12 months.",
+    "predicted": "Yes. The 2026-09-11 report explicitly flagged the risk. Derrek's personal contact was the #1 recommendation in FIVE consecutive reports and was never actioned, including after the resignation.",
+    "next_run_note": "If this chat is still exported next week, the ONLY things that matter are: (1) has ANYONE at ALTR — specifically Derrek — finally acknowledged that she left, and how many days elapsed; (2) was an itemised final statement issued and did ALTR confirm a zero balance after 'Final invoice paid'; (3) were the Aug 25 customs refunded before chargebacks; (4) was the referral/promo money ALTR owes her ever quantified and paid; (5) was access revoked / credentials rotated / DMCA coverage status communicated. If the chat has gone silent entirely, record the account as closed with all five unresolved and stop carrying it forward as recoverable."
+  },
+  "open_complaints": [
+    {
+      "issue": "Resignation unacknowledged for 8 days. She announced on 2026-09-17 at 20:19. The chat was silent for 4 days and 1 hour, then ALTR's first words were a payment chase ('remaining balance is currently $5,259.90, do you mind shooting that over in the AM?', Stephski, 2026-09-21). The final message in the chat is Mayson Chat's 'Thanks @alexpaigem' (2026-09-23) for the money. No acknowledgement, no reason asked, no call offered, no save attempt, no offboarding, no owner contact.",
+      "status": "recurring",
+      "first_raised": "2026-09-17",
+      "owner": "Derrek",
+      "last_activity": "2026-09-23",
+      "days_outstanding": 8,
+      "severity": "critical",
+      "note": "Aged from 1 day to 8 days this window. Retention value is gone; apology and reputation value is not — she was still replying within hours at window close. VERIFY NEXT RUN: elapsed days to first acknowledgement and whether it came from the owner."
+    },
+    {
+      "issue": "No exit conversation and no churn reason captured. Eight days, three ALTR messages, zero questions asked. She answered everything sent to her within hours throughout the window, so the door was open the whole time. The churn cause on a 12-month account exists nowhere except this report's inferences.",
+      "status": "new",
+      "first_raised": "2026-09-18",
+      "owner": "Derrek",
+      "last_activity": "2026-09-23",
+      "days_outstanding": 7,
+      "severity": "critical",
+      "note": "NEW THIS WINDOW. Candidate causes, all previously reported: 30 days of unacknowledged surgery; 115 days of undelivered @paigealexxo posting; five unanswered 'how do I earn more' asks over 255 days; a final month in which nearly every ALTR message was billing."
+    },
+    {
+      "issue": "Ledger closed in ALTR's favour only. Stephski named $5,259.90 on 2026-09-21 and the client paid it on 2026-09-23. But it was a balance, not a reconciliation: no itemised statement has ever been issued in 12 months, the $1,989 July 1-14 dispute was never mentioned during the closeout, the Sep 1-14 invoice total and the Sep 16 payment amount remain unstated (so the $7,582.74 → $5,259.90 arithmetic cannot be reconstructed), and after 'Final invoice paid' nobody from billing confirmed receipt or a zero balance.",
+      "status": "recurring",
+      "first_raised": "2026-07-27",
+      "owner": "Stephski",
+      "last_activity": "2026-09-23",
+      "days_outstanding": 60,
+      "note": "In 12 months of billing, exactly THREE figures appear anywhere in this chat: $9,821 AUD (2026-08-13), $7,582.74 (2026-09-14), $5,259.90 (2026-09-21). She paid a number she had no way to verify."
+    },
+    {
+      "issue": "ALTR still owes her referral/promo money, unquantified, and she has now paid her final invoice without it being netted off. 63 days since first raised, 43 days since Derrek's last word 'Sending'. The Sep 21-23 closeout was the natural moment to settle it and it was not mentioned.",
+      "status": "recurring",
+      "first_raised": "2026-07-24",
+      "owner": "Derrek",
+      "last_activity": "2026-08-13",
+      "days_outstanding": 63,
+      "note": "$6,594 of prior ALTR debt to her was settled by shrinking her invoices ($4,160 Jul, $2,434 Aug) rather than paying her; she then requested no deduction on four consecutive invoices. Residual unknown to both parties. She now has no commercial reason to chase it."
+    },
+    {
+      "issue": "Already-sold customs from Ronnie's 2026-08-25 spreadsheet: 31 days old, creator gone, permanently unfulfillable, unrefunded, and not mentioned in the window in which ALTR collected its own final balance. Fans were stalled for weeks using the creator's own recorded voice.",
+      "status": "recurring",
+      "first_raised": "2026-08-26",
+      "owner": "Ronnie",
+      "last_activity": "2026-09-03",
+      "days_outstanding": 30,
+      "note": "REFUND LIABILITY, ACTIVE AND NOW THE LARGEST QUANTIFIABLE MONEY RISK LEFT. Ronnie silent 22 days. Chargeback history: Derrek, 2025-12-15, '$1560 chargeback in 24hrs'. Sheet: docs.google.com/spreadsheets/d/1-xyvP5ZS9yu3F_pVVGFyDL3TlJYs7GYHu-IP3Iy-oYg"
+    },
+    {
+      "issue": "Surgery disclosed 2026-08-26 and again 2026-09-02, acknowledged zero times in 30 days across five report windows. Total recorded ALTR response in the account's history: Ronnie's 'Ok all good' (8h56m late) and 'Ok thank you for the update and VN' + '🙏💯'. Nobody ever asked how she was, how long she was out, or what she could still do.",
+      "status": "recurring",
+      "first_raised": "2026-08-26",
+      "owner": "Derrek",
+      "last_activity": "2026-09-02",
+      "days_outstanding": 30,
+      "note": "Aged 7 days this window. Carried unmet in FIVE consecutive reports (2026-08-21, 08-28, unpublished 09-04, 09-11, 09-18). In the same 30 days she received a 30-reels/month quota, a posting lecture, a request to voice-stall her own fans, a 'missed payment' chase, a Facebook-account request and, after resigning, a bill for $5,259.90. Closest thing in the file to a root cause."
+    },
+    {
+      "issue": "Weekly leak-removal report now TWO consecutive weeks missed (~2026-09-15 and ~2026-09-22), 17 days since the last send on 2026-09-08, breaking an eight-week unbroken streak. The client has not been told whether her DMCA/leak coverage is still running, being wound down, or stopped the day she resigned.",
+      "status": "recurring",
+      "first_raised": "2026-09-15",
+      "owner": "Michelle Queue",
+      "last_activity": "2026-09-08",
+      "days_outstanding": 10,
+      "note": "Cadence history: Jul 1, Jul 10, Jul 17, Jul 26, Aug 1, Aug 10, Aug 17, Aug 25, Sep 1, Sep 8, then nothing. The only reliably delivered service on the account, stopped without a word. She onboarded with 259 indexed leak URLs — this is a safety question, not an admin one."
+    },
+    {
+      "issue": "No offboarding, no access revocation, no credential rotation. She gave ALTR her account password during onboarding ('[REDACTED-PASSWORD]', 'Password update', 2025-09-17) and 8 days after resigning nobody has discussed revoking team access, removing her from management-run pages, returning assets, or telling her to rotate credentials.",
+      "status": "new",
+      "first_raised": "2026-09-18",
+      "owner": "Mica Vecco",
+      "last_activity": "2026-09-17",
+      "days_outstanding": 7,
+      "note": "NEW THIS WINDOW. Mica's 2026-09-17 IG security advisory correctly said 'Please do not send your backup codes to anyone, including our team' — which makes the absence of any offboarding follow-up more conspicuous. Live credentials for a departed creator are both her risk and ALTR's liability."
+    },
+    {
+      "issue": "Management-run IG reels/promo posting NEVER delivered — 115 days after her first ask, 59 days after Michelle Queue's 'posting will start this week' for @paigealexxo, 44 days after Derrek declared the phone-farm blocker cleared. Zero proof ever shown. Not mentioned by anyone in her final 28 days or in the 8 days since she left.",
+      "status": "recurring",
+      "first_raised": "2026-06-02",
+      "owner": "Michelle Queue",
+      "last_activity": "2026-08-12",
+      "days_outstanding": 115,
+      "note": "Her most-repeated ask (Jun 2, Jul 28, Aug 12) and the ONLY deliverable that required nothing from her body during recovery. Closed by churn, not by delivery."
+    },
+    {
+      "issue": "Persistently low OF earnings; asked at least five times (2026-01-13, 2026-02-22, 2026-05-26 x2, 2026-06-28) and never given a substantive written plan. 255 days since first raised, 184 since Derrek's 2026-03-25 'gameplan' promise, 89 since she last asked.",
+      "status": "recurring",
+      "first_raised": "2026-01-13",
+      "owner": "Mayson",
+      "last_activity": "2026-06-28",
+      "days_outstanding": 255,
+      "note": "Oldest open item on the account. The surgery-driven September dip was structurally certain and never sized — neither the Aug 15-31 nor the Sep 1-14 invoice total was ever stated, so ALTR churned this account without knowing its own per-fortnight revenue from it."
+    },
+    {
+      "issue": "Banking instability — five changes in 12 months, the fifth announced inside an invoice message three days before she quit. Stephski, 2026-09-15: 'Please note a slight name change to the account, but the same account and wire info. This should help alleviate any bounce backs or issues moving forward'. It immediately forced 'Can you confirm the account you sent to?', and her final $5,259.90 went into the same rails on 2026-09-23 with no destination re-confirmation and no receipt acknowledgement from billing.",
+      "status": "recurring",
+      "first_raised": "2025-09-27",
+      "owner": "Stephski",
+      "last_activity": "2026-09-23",
+      "days_outstanding": 363,
+      "note": "Change log: 2025-09-27 JPMorgan Chase / Social Depot LLC + Zelle trevor@altrmgmt.com; 2025-10-13 Revolut @socialdepot; 2026-07-01 Bank of America ('last change I promise!'); 2026-08-15 changed account number + new Zelle; 2026-09-15 account name change. AGENCY-WIDE FIX: announce changes separately and in advance, never inside a payment request."
+    },
+    {
+      "issue": "Mayson's 2026-09-04 trial-reels strategy call offer was never answered by the client and never chased by ALTR across three consecutive windows. 21 days dead, 18 days past the proposed Monday. The last proactive growth initiative on the account.",
+      "status": "recurring",
+      "first_raised": "2026-09-04",
+      "owner": "Mayson",
+      "last_activity": "2026-09-04",
+      "days_outstanding": 21,
+      "note": "His next and final substantive message to her was 'do you have a facebook account available to use?' (2026-09-16), never answered. Note she was blocked from trial reels in Oct 2025 ('I have been, but atm now banned from using them', 2025-10-01), so the offer may never have been viable."
+    },
+    {
+      "issue": "Google Drive upload failures — root cause untouched 345 days after the first report. The 2026-09-04 instance was fixed by Mayson in 24 minutes with an apology (the only closure in the account's history), but ALTR ran at least three competing upload destinations for one client and nothing was consolidated or communicated.",
+      "status": "recurring",
+      "first_raised": "2025-10-15",
+      "owner": "Mayson",
+      "last_activity": "2026-09-04",
+      "days_outstanding": 345,
+      "instance_resolved": "2026-09-04",
+      "note": "Occurrences: 2025-10-15, 2025-11-14, 2026-04-21, 2026-06-10, 2026-08-31, 2026-09-04. The 'new' Drive Mayson sent on 2026-08-30 (1NZDiNLuLoPK9GXX2IHz60xA0IRU0NT0J) is the exact folder Sophie Logan gave her on 2025-09-20, day 6 of onboarding. AGENCY-WIDE FIX: one upload destination per client."
+    },
+    {
+      "issue": "Extraction-only contact pattern, sustained through the exit. In her final 7 days as a client ALTR sent 13 messages, 10 of them billing. In the 8 days AFTER she resigned ALTR sent 3 messages: a bill, an @-mention chasing the bill, and 'Thanks' for the payment. Across her final 30 days every substantive ask increased the workload or outgoings of a post-surgical client: a 30-reels/month quota (Aug 30), a posting-consistency lecture (Aug 31), a request to voice-stall her own fans (Sep 2), a request to pull an OF withdrawal forward (Sep 14), a Facebook account (Sep 16), and $5,259.90 (Sep 21). She complied with all of them without complaint.",
+      "status": "recurring",
+      "first_raised": "2026-08-30",
+      "owner": "Derrek",
+      "last_activity": "2026-09-23",
+      "days_outstanding": 26,
+      "note": "THE ROSTER-SCREENING SIGNATURE: owner silent 30+ days, a disclosed personal/medical event unacknowledged, a long-promised deliverable with no proof, and a chat where most ALTR messages are billing. This account matched all four for over a month before it churned."
+    }
+  ],
+  "resolved_last_week": [
+    {
+      "issue": "Collection risk on the closing balance — rated HIGH at w/e 2026-09-18 on the grounds that a departing client with an unquantified balance and an open dispute is where receivables die.",
+      "resolved": "2026-09-23",
+      "detail": "Stephski named $5,259.90 on 2026-09-21 and the client paid in full on 2026-09-23 with a receipt and 'Final invoice paid' — 33 hours from ask to payment, 6 days after resigning. The risk was never real: in 12 months she never once refused, disputed or withheld a payment. NOTE: this closed ALTR's receivable only. The $1,989 July dispute, ALTR's referral debt to her, and the customs refunds all remain open and all run in her favour."
+    }
+  ],
+  "open_commitments": [
+    {
+      "what": "Respond personally to the resignation — acknowledge it, thank her for 12 months, apologise for the surgery silence, ask why she left, offer a call",
+      "who": "Derrek",
+      "date": "2026-09-17",
+      "status": "overdue",
+      "days_overdue": 8,
+      "note": "Aged from 1 day to 8. Owner-only. Retention value gone; apology and referral/reputation value intact while she is still replying — she answered within 1h43m as recently as 2026-09-21."
+    },
+    {
+      "what": "Run an exit conversation and record the churn reason in her own words",
+      "who": "Derrek",
+      "date": "2026-09-18",
+      "status": "overdue",
+      "days_overdue": 7,
+      "note": "NEW THIS WINDOW. Each additional day makes the ask more awkward and the answer less candid. Without it the churn cause on a 12-month account is recorded nowhere but inference."
+    },
+    {
+      "what": "Issue ONE final itemised statement from Jul 1 in both directions — every invoice total and payment amount, the $1,989 July dispute, the $4,160 and $2,434 offsets, and the referral money ALTR owes HER — and confirm in writing that the account is settled at zero",
+      "who": "Stephski",
+      "date": "2026-07-27",
+      "status": "overdue",
+      "days_overdue": 60,
+      "note": "PARTIAL PROGRESS, WRONG DIRECTION. $5,259.90 was named and collected but nothing was reconciled and nobody confirmed receipt of 'Final invoice paid'. If the net position favours her, ALTR must pay her. Never issued in 12 months."
+    },
+    {
+      "what": "Refund the already-sold customs from Ronnie's 2026-08-25 spreadsheet",
+      "who": "Ronnie",
+      "date": "2026-09-02",
+      "status": "overdue",
+      "days_overdue": 23,
+      "note": "31 days old, creator gone, permanently undeliverable. Largest quantifiable money risk left on the account. Prior exposure: $1,560 in 24 hours (2025-12-15). Did not move in the week ALTR collected its own balance."
+    },
+    {
+      "what": "Quantify and pay the referral/promo money ALTR owes her, with a receipt",
+      "who": "Derrek",
+      "date": "2026-08-13",
+      "status": "overdue",
+      "days_overdue": 43,
+      "note": "'Sending' is still the last word. Not netted off the final invoice and not mentioned during the Sep 21-23 closeout. ALTR may be the net debtor to a departed client."
+    },
+    {
+      "what": "Offboard her — confirm the status of DMCA/leak coverage, revoke ALTR access to her OF and socials, remove her from management-run pages, tell her to rotate the credentials she shared in 2025",
+      "who": "Mica Vecco",
+      "date": "2026-09-18",
+      "status": "overdue",
+      "days_overdue": 7,
+      "note": "NEW THIS WINDOW. Client-safety obligation, not admin. She has had no communication about what ALTR still holds or still runs on her behalf."
+    },
+    {
+      "what": "Send the weekly leak-removal report, or tell her it has stopped and why",
+      "who": "Michelle Queue",
+      "date": "2026-09-15",
+      "status": "overdue",
+      "days_overdue": 10,
+      "note": "TWO consecutive weeks missed (~Sep 15, ~Sep 22). 17 days since the 2026-09-08 send. Breaks an eight-week unbroken streak."
+    },
+    {
+      "what": "Acknowledge her surgery personally and adjust the plan around her recovery",
+      "who": "Derrek",
+      "date": "2026-08-26",
+      "status": "overdue",
+      "days_overdue": 30,
+      "note": "Aged 7 days. Carried unmet in FIVE consecutive reports. Only actionable now as an apology inside the exit conversation."
+    },
+    {
+      "what": "Make personal, non-billing owner contact with the client (action opened in the 2026-08-21 report)",
+      "who": "Derrek",
+      "date": "2026-08-21",
+      "status": "overdue",
+      "days_overdue": 35,
+      "note": "Five weeks unmet across five reports. Derrek's last message on this account is 2026-08-13 — 43 days, unbroken by the resignation and by the 8 days since."
+    },
+    {
+      "what": "Start posting on the management-run IG reels page @paigealexxo and send proof",
+      "who": "Michelle Queue",
+      "date": "2026-07-28",
+      "status": "overdue",
+      "days_overdue": 59,
+      "note": "115 days past her first ask. Never delivered, never proved, never mentioned in her final 28 days or since."
+    },
+    {
+      "what": "Book and run the trial-reels strategy call offered for Monday 2026-09-07",
+      "who": "Mayson",
+      "date": "2026-09-07",
+      "status": "overdue",
+      "days_overdue": 18,
+      "note": "Aged another 7 days with no chase in three consecutive windows."
+    },
+    {
+      "what": "Give her a written answer on how to lift OF earnings (Derrek promised a 'gameplan' on 2026-03-25)",
+      "who": "Mayson",
+      "date": "2026-03-25",
+      "status": "overdue",
+      "days_overdue": 184,
+      "note": "Asked five times since January, never answered in writing across 255 days."
+    },
+    {
+      "what": "Change the link-preview image for alexpaige.vip",
+      "who": "Mayson",
+      "date": "2026-07-26",
+      "status": "overdue",
+      "days_overdue": 61,
+      "note": "'Yes 100%' on 2026-07-26; never chased, never delivered, never mentioned again. A trivial ask that outlived the client relationship."
+    },
+    {
+      "what": "Rewrite invoice terms onto creators' payout cycles and record them in the account (weekly 30% instalments for this client)",
+      "who": "Stephski",
+      "date": "2026-09-11",
+      "status": "overdue",
+      "days_overdue": 14,
+      "note": "Never completed before she left. PROMOTE TO AGENCY POLICY — it is no longer a per-client fix. She stated her terms three times, Derrek ratified them once ('correct^ Shes good', 2025-11-18), and she was still billed on a 7-day window and told she had a 'missed payment' in her final fortnight."
+    },
+    {
+      "what": "Add her to the new sales-team client groupchat promised 'in the next few hours' on 2026-08-12",
+      "who": "Derrek",
+      "date": "2026-08-12",
+      "status": "overdue",
+      "days_overdue": 44,
+      "note": "Provably undelivered — she transacted entirely in this chat until she left and paid her final invoice here. The silent ChatAddUser on 2026-09-10 21:01 was never followed by an introduction from anyone."
+    },
+    {
+      "what": "Deliver the 'plenty of updates starting next week' promised in the 2026-08-01 phone-farm explanation",
+      "who": "Derrek",
+      "date": "2026-08-01",
+      "status": "overdue",
+      "days_overdue": 55,
+      "note": "Eight weeks, zero proactive updates. The only update she ever got (2026-08-12) came because she asked."
+    },
+    {
+      "what": "Renegotiate or formally defer the 30-reels-a-month quota against her recovery",
+      "who": "Mayson",
+      "date": "2026-08-30",
+      "status": "overdue",
+      "days_overdue": 26,
+      "note": "Imposed four days after her surgery disclosure and never revisited. She complied twice anyway. Closed by churn."
+    },
+    {
+      "what": "Complete the customs on Ronnie's 2026-08-25 spreadsheet once recovered",
+      "who": "Alex Paige",
+      "date": "2026-08-26",
+      "status": "pending",
+      "days_overdue": 30,
+      "note": "Her commitment, deferred medically, never given a date by anyone — now permanently unrecoverable. ALTR's failure to propose a date is what turned this into a refund liability."
+    }
+  ],
+  "completed_recently": [
+    {
+      "what": "Paid the final closing balance of $5,259.90 in full, six days after resigning",
+      "who": "Alex Paige",
+      "date": "2026-09-23",
+      "detail": "Stephski asked at 2026-09-21T21:15; she replied 'No worries' at 22:58 (1h43m); at 2026-09-23T06:27 she posted a receipt photo and 'Final invoice paid' (33h from ask). 12 months, zero refused, disputed or withheld payments. ALTR's only response was Mayson Chat's 'Thanks @alexpaigem' — billing never confirmed receipt or a zero balance."
+    },
+    {
+      "what": "Named a precise closing balance in the chat — only the THIRD figure written into this chat in 12 months",
+      "who": "Stephski",
+      "date": "2026-09-21",
+      "detail": "'Hi love! Just wanted to reach out about closing out your invoice with us ❤️ remaining balance is currently $5,259.90, do you mind shooting that over in the AM?' Clean, specific and collected in 33 hours. Two caveats for the record: it was sent 4 days and 1 hour after the client resigned with no reference to her departure, and it reconciled nothing — no itemised statement, no mention of the $1,989 dispute, no mention of the referral money ALTR owes her."
+    },
+    {
+      "what": "Stated an actual outstanding figure for the first time in 32 days",
+      "who": "Stephski",
+      "date": "2026-09-14",
+      "detail": "'We are currently still at $7,582.74 owed from last invoice due to missed payment last week'. Framing was wrong ('missed payment' for an owner-approved instalment schedule) but the transparency was overdue and correct."
+    },
+    {
+      "what": "Proposed a weekly payment cadence — the first-ever attempt to align billing with her payout cycle",
+      "who": "Stephski",
+      "date": "2026-09-13",
+      "detail": "'Maybe you can send every thursday if that works for you?'. Right instinct, 11 months late, reverted to chasing the next day, never written into the account. Promote to agency policy."
+    },
+    {
+      "what": "Sent a proactive Instagram account-security advisory",
+      "who": "Mica Vecco",
+      "date": "2026-09-17",
+      "detail": "Backup codes + identity verification guidance, including the correct safeguard 'Please do not send your backup codes to anyone, including our team.' Good practice; landed nine hours before the resignation and was never followed by any offboarding guidance."
+    },
+    {
+      "what": "Fixed the Google Drive folder permissions within 24 minutes and apologised",
+      "who": "Mayson",
+      "date": "2026-09-04",
+      "detail": "'Let me fix that asap' (18:03) → 'Can you check now @alexpaigem my apologies' (18:05) → client: 'That’s worked' (18:07). The only closure of this failure in the account's 345-day history and the single best piece of ALTR service on this account."
+    }
+  ],
+  "payment_history": [
+    {
+      "date": "2026-09-23",
+      "note": "FINAL PAYMENT — PAID IN FULL. Receipt photo at 06:27:38 plus 'Final invoice paid' at 06:27:41, settling the $5,259.90 balance named by Stephski on 2026-09-21. Paid 6 days after resigning, 33 hours after being asked, 31 days after surgery. ALTR's only acknowledgement was Mayson Chat's 'Thanks @alexpaigem' at 08:25 — billing never confirmed receipt, never confirmed a zero balance, and never issued a statement. Amount not independently restated by the client, but derivable for the first time on this account because ALTR had named the balance immediately prior.",
+      "late": false,
+      "partial": false,
+      "amount": "$5,259.90 (implied — the balance named on 2026-09-21)",
+      "invoice_period": "closing balance across 2026-08-15 to 2026-09-14",
+      "sent_date": "2026-09-21",
+      "due_date": "2026-09-22 (requested 'in the AM')",
+      "paid_date": "2026-09-23",
+      "receipt_verified": "photo posted; amount not restated by either party after payment"
+    },
+    {
+      "date": "2026-09-21",
+      "note": "CLOSING BALANCE STATED: $5,259.90. Stephski, 21:15:43 — 'Hi love! Just wanted to reach out about closing out your invoice with us ❤️ remaining balance is currently $5,259.90, do you mind shooting that over in the AM?' — plus '@alexpaigem' six seconds later. This was ALTR's FIRST message to the client after her resignation, 4 days and 1 hour later, and it contained no reference to her leaving. It is the third figure ever written into this chat in 12 months. Client replied 'No worries' at 22:58:45.",
+      "late": false,
+      "amount": "$5,259.90 outstanding",
+      "first_contact_after_churn": true
+    },
+    {
+      "date": "2026-09-16",
+      "note": "PAID, two weeks at once, exactly as promised on Sep 14 — receipt photo at 01:46 plus 'Sent last 2 weeks'. Stephski: 'Thank you love!'. AMOUNT NEVER STATED by either side. Stephski then had to ask 'Can you confirm the account you sent to?' because of the Sep 15 account name change; the client answered on Sep 17, 27 seconds after resigning: 'The one at the bottom of the invoice'.",
+      "late": false,
+      "partial": true,
+      "amount": "unknown",
+      "receipt_verified": "photo posted; amount never read or recorded by ALTR"
+    },
+    {
+      "date": "2026-09-15",
+      "note": "Invoice Sep 1-14 issued on time by Stephski — two days before the client resigned. AMOUNT NOT STATED IN CHAT. Carried ALTR BANKING CHANGE #5: 'Please note a slight name change to the account, but the same account and wire info. This should help alleviate any bounce backs or issues moving forward.' Covers a fortnight in which she was post-surgical and producing almost nothing; the surgery revenue impact was never sized against the ~$9.5-9.8k/fortnight run rate.",
+      "late": false,
+      "banking_change": 5
+    },
+    {
+      "date": "2026-09-14",
+      "note": "Stephski stated '$7,582.74 owed from last invoice due to missed payment last week' — first figure in the chat since 2026-08-13 and the first-ever sizing of the Aug 15-31 balance. Also asked her to 'initiate a OF withdrawl today', which her documented payout timing (a week in primary balance, a week pending, four days in transit) makes impossible. Client replied: 'I haven’t been with my laptop but I’ll do payment this Wednesday when I get the next pay and do two at once'.",
+      "late": true,
+      "amount": "$7,582.74 outstanding"
+    },
+    {
+      "date": "2026-09-13",
+      "note": "Stephski chased ('Okay! checking in on next payment since this was on the 3rd 🙏') and proposed a weekly Thursday cadence ('Maybe you can send every thursday if that works for you?') — the first constructive attempt in 12 months to align billing with her payout cycle. Not followed through; reverted to chasing the next day and never written into the account.",
+      "late": false
+    },
+    {
+      "date": "2026-09-11",
+      "note": "Client restated her payment terms for the THIRD time: 'I just pay 30% each pay I recieve each week from Of' — answering Stephski's Sep 5 question 6 days later. Mayson escalated with '@stephskiii' 42 minutes later. The terms were still never written down anywhere.",
+      "late": false
+    },
+    {
+      "date": "2026-09-05",
+      "note": "Stephski acknowledged the Sep 3 receipt ('Thanks love!') and asked 'this is the first payment correct?' — confirming the Sep 3 payment was a PARTIAL instalment and that ALTR had no record of her payment terms after 12 months of billing.",
+      "late": false
+    },
+    {
+      "date": "2026-09-03",
+      "note": "PARTIAL PAYMENT against the Aug 15-31 invoice. Receipt photo posted in the Invoicing topic at 22:39, 2 days after issue; confirmed as a payment by Stephski on Sep 5. AMOUNT NEVER STATED.",
+      "late": true,
+      "days_late": 3,
+      "partial": true,
+      "amount": "unknown"
+    },
+    {
+      "date": "2026-09-01",
+      "note": "Invoice Aug 15-31 issued on time by Stephski. Amount not stated in chat. First invoice covering the surgery period; never sized against the run rate.",
+      "late": false
+    },
+    {
+      "date": "2026-08-26",
+      "note": "Aug 1-14 invoice PAID in full with receipt ('Paid'), ~4 days past the requested 7-day window, 11 days after issue. Paid to the changed account number — the banking-change-#4 risk did NOT materialize. No chase; she was post-surgery. No deduction requested. Amount never stated in chat.",
+      "late": true,
+      "days_late": 4
+    },
+    {
+      "date": "2026-08-15",
+      "note": "Invoice Aug 1-14 sent by Stephski with a CHANGED ACCOUNT NUMBER and new Zelle details — ALTR banking change #4, 6 weeks after 'last change I promise!'. Sat unacknowledged 11 days while the client was in surgery.",
+      "late": false,
+      "banking_change": 4
+    },
+    {
+      "date": "2026-08-13",
+      "note": "July 15-31 invoice paid in full — $9,821 AUD with receipt ('Ill be sending $9821 aud today'), ~5 days past the 7-day window; she asked for $2,434 (money ALTR owed her) to be deducted first.",
+      "late": true,
+      "amount": "$9,821 AUD"
+    },
+    {
+      "date": "2026-08-11",
+      "note": "ALTR-side failure: PayPal hold blocked the payment ALTR owed HER; Derrek offered 'if you owe a payment your welcome to just remove it from the invoice again to make it easy'. Second consecutive month ALTR's debt to her was settled by invoice deduction. Only one of two ALTR accounts eventually worked on Aug 13; no receipt or residual balance ever confirmed.",
+      "late": true
+    },
+    {
+      "date": "2026-08-01",
+      "note": "Invoice July 15-31 sent; payment requested within 7 days (~Aug 8); not paid until Aug 13 after Stephski chased on Aug 11",
+      "late": true
+    },
+    {
+      "date": "2026-07-30",
+      "note": "Client confirmed 'Paid' (~$9,509 transfer promised Jul 28 for the current week)",
+      "late": false
+    },
+    {
+      "date": "2026-07-27",
+      "note": "RECONCILIATION DISPUTE OPENED, still unresolved 60 days later and NOT mentioned during the 2026-09-21/23 final closeout. Stephski: '$9636-$4160 (referrals)-$3487 (payment) = $1,989 remaining'. Client, Jul 28: 'But it was $3639 + 4008 =$7,647 \n- 4160 referrals - 3487 which means it’s all paid. I didn’t use the link for the extra 5% to be added I just transfered'. No activity since 2026-07-30.",
+      "late": false,
+      "disputed": true,
+      "amount": "$1,989"
+    },
+    {
+      "date": "2026-07-24",
+      "note": "Declined 5% CC-link surcharge ('I'll just pay by transfer instead'); $4,160 referral credit deducted with Derrek's approval; paid $3,487 Jul 25. Stephski quoted the invoice at 11,241.65 with the surcharge.",
+      "late": true
+    },
+    {
+      "date": "2026-07-15",
+      "note": "Stephski introduced a 5% surcharge on payment-link invoices: 'due to the credit card processing fees we have to pay on our end, we will need to add 5% to the invoice total'. The client declined it and reverted to bank transfer — a direct cause of the July 1-14 reconciliation dispute.",
+      "late": false
+    },
+    {
+      "date": "2026-07-08",
+      "note": "Client repeatedly requested payment links Jul 8-22 before Stephski delivered; delay was on the ALTR side",
+      "late": false
+    },
+    {
+      "date": "2026-07-01",
+      "note": "ALTR banking change #3 — moved to Bank of America, Stephski: 'last change I promise!'",
+      "late": false,
+      "banking_change": 3
+    },
+    {
+      "date": "2026-05-19",
+      "note": "Started using Fanbasis CC payment links for weekly installments (May-Jul)",
+      "late": false
+    },
+    {
+      "date": "2025-11-18",
+      "note": "Client: 'I pay each week as I recieve the pay from onlyfans so next Wednesday'. Derrek ratified the terms in the chat: 'correct^ Shes good'. ALTR nevertheless asked her the same question again on 2026-09-05 and called her instalment schedule a 'missed payment' on 2026-09-14.",
+      "late": false
+    },
+    {
+      "date": "2025-10-13",
+      "note": "ALTR banking change #2 — Revolut @socialdepot added",
+      "late": false,
+      "banking_change": 2
+    },
+    {
+      "date": "2025-10-08",
+      "note": "Explained structural delay: OF payout takes ~2 weeks to reach her account; pays weekly installments as payouts land; team accepted",
+      "late": true
+    },
+    {
+      "date": "2025-09-29",
+      "note": "Terms stated in full for the first time: 'i always set aside 30% off my pay each week but as I don’t get the amount paid into my account though until roughly 2 weeks after I make the money (sits in primary balance a week and pending a week and takes 4 days to actually hit my account)'",
+      "late": false
+    },
+    {
+      "date": "2025-09-27",
+      "note": "ALTR banking change #1 — JPMorgan Chase / Social Depot LLC, Zelle trevor@altrmgmt.com",
+      "late": false,
+      "banking_change": 1
+    }
+  ],
+  "payment_risk": {
+    "level": "MODERATE — direction reversed. ALTR's receivable is settled; ALTR's obligations to the client and to her fans are not.",
+    "direction": "ALTR is now the likely net debtor and the residual exposure is refund/chargeback, not collection",
+    "collection_risk": "CLOSED. Rated HIGH last week and it was never real. She paid $5,259.90 in full on 2026-09-23, 33 hours after being asked and 6 days after resigning. Twelve-month record: zero refused, disputed or withheld payments; paid post-surgically twice; paid unchased for several cycles; paid two weeks at once on the exact day she promised while already deciding to leave. Every 'late' entry in this ledger records ALTR's 7-day terms, not her reliability.",
+    "ledger_risk": "STILL CRITICAL, NOW ONE-SIDED. In 12 months of billing, exactly THREE figures appear in this chat: $9,821 AUD (2026-08-13), $7,582.74 (2026-09-14), $5,259.90 (2026-09-21). No itemised statement has ever been issued. The $7,582.74 → $5,259.90 arithmetic cannot be reconstructed by either party because the Sep 1-14 invoice total and the Sep 16 payment amount were never stated. Billing never acknowledged 'Final invoice paid' and never confirmed a zero balance. She has paid a number she had no way to verify.",
+    "forward_revenue_risk": "REALIZED IN FULL. 100% of this account's revenue ended 2026-09-17. The surgery-driven September dip was never sized — neither the Aug 15-31 nor the Sep 1-14 invoice total was ever stated — so ALTR churned this account without knowing its own per-fortnight revenue from it.",
+    "residual_liabilities": "THREE, ALL UNQUANTIFIED AND ALL AGAINST ALTR: (1) referral/promo money owed to her, 63 days open, 43 days past 'Sending', never netted off the final invoice and never mentioned during the closeout — $6,594 of prior debt was settled by shrinking her invoices rather than paying her; (2) already-sold customs from the 2026-08-25 sheet, 31 days old, creator gone, unfulfillable and unrefunded, against documented chargeback exposure of $1,560 in 24 hours (2025-12-15); (3) the $1,989 July 1-14 dispute, 60 days open, which she believes she does not owe and has now paid around rather than settled.",
+    "altr_owes_client": "Unknown residual. $6,594 settled via invoice offsets across two months ($4,160 Jul, $2,434 Aug). Derrek's last word: 'Sending' (2026-08-13, 43 days). She requested no deduction on four consecutive invoices and has now paid her final balance in full with this unresolved. Must be quantified and paid, not assumed absorbed.",
+    "banking_stability": "5 changes in 12 months (2025-09-27, 2025-10-13, 2026-07-01, 2026-08-15, 2026-09-15). The fifth was announced inside an invoice message three days before churn, admitted to ongoing 'bounce backs', and immediately forced 'Can you confirm the account you sent to?'. Her final $5,259.90 went into the same rails with no destination re-confirmation and no receipt acknowledgement. AGENCY-WIDE: stop announcing banking changes inside payment requests."
+  },
+  "client_priorities": [
+    "A clean, respectful exit — she resigned warmly on 2026-09-17, answered every message since within hours, and paid in full on 2026-09-23. Eight days on she has had no acknowledgement of her departure, no thanks for 12 months, no exit conversation and no offboarding. She is still replying; that window is days, not weeks.",
+    "Confirmation that her account is settled at zero, plus an itemised statement she can check it against — she paid $5,259.90 on trust with a 60-day-old $1,989 dispute unresolved and no ledger ever issued.",
+    "Being paid the referral/promo money ALTR owes her, in cash with a receipt, not via invoice offsets (63 days, 43 past 'Sending', never netted off her final invoice)",
+    "Knowing what happens to her DMCA/leak protection now that she has left — the weekly takedown report simply stopped after 2026-09-08 with no explanation; she onboarded with 259 indexed leak URLs",
+    "Getting her accounts back clean — she gave ALTR her password in September 2025 and no access revocation, credential rotation or removal from management-run pages has been discussed since she resigned",
+    "Being asked how she is — surgery disclosed 2026-08-26 and again 2026-09-02, never acknowledged by anyone in 30 days across five report windows. The clearest single explanation on file for the churn.",
+    "Consistent posting on the management-run IG reels/promo accounts (asked Jun 2, Jul 28, Aug 12 — her most repeated ask, 115 days, never delivered, never proved)",
+    "Maximizing OF revenue and a substantive written answer when earnings dip (asked five times since January, 255 days, never answered in writing)",
+    "Payment terms that match her OF payout cycle — 30% of each weekly payout as it lands; stated three times (2025-09-29, 2025-11-18, 2026-09-11), owner-approved once, never written down, and chased as a 'missed payment' in her final fortnight",
+    "Stable banking details and no surprise charges — five banking changes in 12 months; she declined the 5% CC surcharge in July",
+    "One clear place to upload content — at least six upload failures across three competing Drive folders over 345 days; one instance ever fixed",
+    "IG/TikTok account safety (repeat deletions, shadowbans and restrictions; she lost an account with ~50k followers and declined to pay $800-1k to recover it)",
+    "Safety boundaries: chatters must never promise in-person meetups (Adelaide fans 'Matt' and 'Kel'); no explicit nudity on the public wall (inbox only)"
+  ],
+  "health_history": [
+    {"week_ending": "2026-08-08", "score": 58, "trend": "down"},
+    {"week_ending": "2026-08-14", "score": 64, "trend": "up"},
+    {"week_ending": "2026-08-21", "score": 41, "trend": "down"},
+    {"week_ending": "2026-08-28", "score": 52, "trend": "up", "delta": 11},
+    {"week_ending": "2026-09-04", "score": 48, "trend": "down", "delta": -4, "unpublished": true, "rationale_short": "NEVER DELIVERED — the 2026-09-04 run crashed before rendering and this window was folded into the 2026-09-11 report."},
+    {"week_ending": "2026-09-11", "score": 46, "trend": "down", "delta": -6, "rationale_short": "Two-week window. Mayson closed a 331-day Drive failure in 24 minutes and offered a strategy call; Stephski asked the right reconciliation question; DMCA cadence hit 7 weeks. But 16 days of unacknowledged surgery, 29 days of owner silence, the call offer died unanswered, and 'this is the first payment correct?' exposed that ALTR has no ledger."},
+    {"week_ending": "2026-09-18", "score": 8, "trend": "down", "delta": -38, "churned": true, "rationale_short": "CLIENT RESIGNED 2026-09-17 20:19 and ALTR did not acknowledge it inside the window. Her final week: 13 ALTR messages, 10 of them billing. Surgery unacknowledged at 23 days, Derrek silent 36 days, @paigealexxo undelivered at 108 days, leak-report streak broken."},
+    {"week_ending": "2026-09-25", "score": 4, "trend": "down", "delta": -4, "churned": true, "rationale_short": "Sixth consecutive decline. Six messages in the window. The resignation went unacknowledged for a full further week; ALTR's first words after it, 4 days later, were an invoice chase for $5,259.90, and its last words were 'Thanks @alexpaigem' for the payment. She paid in full on Sep 23 — collection risk closed, and it was never real. Still open and now running against ALTR: no exit conversation, no itemised statement or zero-balance confirmation, ALTR's referral debt to her unquantified at 63 days, paid customs unrefunded at 31 days against $1,560 chargeback history, no access revocation, and the leak-removal report two weeks missed. Derrek silent 43 days."}
+  ],
+  "week_stats_history": [
+    {"week_ending": "2026-08-08", "messages": 4, "client_messages": 0, "team_messages": 4},
+    {"week_ending": "2026-08-14", "messages": 33, "client_messages": 12, "team_messages": 21},
+    {"week_ending": "2026-08-21", "messages": 3, "client_messages": 0, "team_messages": 3},
+    {"week_ending": "2026-08-28", "messages": 9, "client_messages": 3, "team_messages": 6},
+    {"week_ending": "2026-09-04", "messages": 18, "client_messages": 6, "team_messages": 12, "unpublished": true},
+    {"week_ending": "2026-09-11", "messages": 31, "client_messages": 10, "team_messages": 20, "service_events": 1, "note": "TWO-WEEK window 2026-08-28 → 2026-09-11."},
+    {"week_ending": "2026-09-18", "messages": 18, "client_messages": 5, "team_messages": 13, "service_events": 0, "note": "Senders: Stephski 10, Alex Paige 5, Mica Vecco 2, Mayson Chat 1. Zero from Derrek, Ronnie, Michelle Queue. Ten of ALTR's 13 messages were billing."},
+    {"week_ending": "2026-09-25", "messages": 6, "client_messages": 3, "team_messages": 3, "service_events": 0, "note": "Senders: Stephski 2 (both the Sep 21 invoice chase), Alex Paige 3 ('No worries', receipt photo, 'Final invoice paid'), Mayson Chat 1 ('Thanks @alexpaigem'). Zero from Derrek, Mica Vecco, Michelle Queue, Ronnie, Nick | DMCA. First window in the account's history in which 100% of ALTR's messages were about collecting money."}
+  ],
+  "engagement_trend": [
+    {"week_ending": "2026-08-08", "messages": 4, "client_messages": 0, "health": 58},
+    {"week_ending": "2026-08-14", "messages": 33, "client_messages": 12, "health": 64},
+    {"week_ending": "2026-08-21", "messages": 3, "client_messages": 0, "health": 41},
+    {"week_ending": "2026-08-28", "messages": 9, "client_messages": 3, "health": 52},
+    {"week_ending": "2026-09-04", "messages": 18, "client_messages": 6, "health": 48},
+    {"week_ending": "2026-09-11", "messages": 31, "client_messages": 10, "health": 46, "span_weeks": 2},
+    {"week_ending": "2026-09-18", "messages": 18, "client_messages": 5, "health": 8, "churned": true},
+    {"week_ending": "2026-09-25", "messages": 6, "client_messages": 3, "health": 4, "churned": true}
+  ],
+  "cadences": {
+    "michelle_queue_leak_report": "BROKEN, TWO WEEKS RUNNING — Jul 1, 10, 17, 26, Aug 1, 10, 17, 25, Sep 1, Sep 8, then NOTHING. Missed ~Sep 15 and ~Sep 22; 17 days since the last send at window close. Eight consecutive on-time sends ended in the churn fortnight. Never drew a single client reply in its entire history, and the client has never been told whether her DMCA coverage is still running.",
+    "mica_vecco_reel_inspo": "STOPPED — last message 2026-09-17 (IG security advisory), 8 days. Her Sep 15 reel-idea drop was genuine inspo after a 33-day gap; both landed in the 48 hours before the client quit and neither has been followed by any offboarding contact.",
+    "ronnie_content_requests": "SILENT since 2026-09-03 — 22 days. The sold-customs question from the Aug 25 spreadsheet was never answered, is now unfulfillable, and no refund has been issued.",
+    "mayson_chat": "TERMINAL — one message this window: 'Thanks @alexpaigem' (2026-09-23), acknowledging a payment. His preceding messages were a Facebook-account request (Sep 16, unanswered) and '@stephskiii' (Sep 11). No chase on his own Sep 4 strategy-call offer, the Aug 30 quota, or the 61-day-old alexpaige.vip link image.",
+    "stephski_invoicing": "THE ONLY LIVE CHANNEL — and the only reason ALTR spoke to this client at all after she resigned. Both of her messages this window were the Sep 21 closeout chase, sent 4 days after the resignation with no reference to it, and it worked: paid in 33 hours. Reliable on dates and collection, unreliable on reconciliation — no itemised statement in 12 months, three figures total, no acknowledgement of the final payment, no zero-balance confirmation, the $1,989 dispute unmentioned.",
+    "derrek": "SILENT since 2026-08-13 — 43 days, five consecutive report windows, silent through the client's resignation and through the eight days since.",
+    "nick_dmca": "SILENT — no message since the onboarding takedown reports in 2025. Leak reporting passed to Michelle Queue and has now stopped entirely.",
+    "sophie_logan_raw_agency": "GONE — the original client-relations voice on this account has not posted since 2025-11-12."
+  },
+  "notes": "POST-CHURN WINDOW #1. Six in-window messages, 2026-09-18T09:05:17 (exclusive) → 2026-09-25T09:08:16. Senders: Stephski 2, Alex Paige 3, Mayson Chat 1. Derrek 0, Mica 0, Michelle Queue 0, Ronnie 0.\n\nTHE FACT THAT DEFINES THE WEEK. The client resigned at 2026-09-17T20:19:25. The next word ALTR spoke to her was at 2026-09-21T21:15:43 — four days and fifty-six minutes later — and it was 'Hi love! Just wanted to reach out about closing out your invoice with us ❤️ remaining balance is currently $5,259.90, do you mind shooting that over in the AM?', followed six seconds later by '@alexpaigem'. Not one word about her leaving. She replied 'No worries' at 22:58. On 2026-09-23 at 06:27 she posted a receipt and 'Final invoice paid'. At 08:25 Mayson Chat wrote 'Thanks @alexpaigem'. That is the entire ALTR side of the week and the entire ALTR response to a twelve-month client's departure: a bill, a nudge, and a thank-you for paying it. Eight days after she resigned, nobody has acknowledged that she left.\n\nWHAT THIS CHANGES VERSUS LAST WEEK. (1) Collection risk, rated HIGH at w/e 2026-09-18, is CLOSED — and it was never real. She paid $5,259.90 in full, 33 hours after being asked, six days after quitting, 31 days after surgery. Twelve months, zero refused or withheld payments. (2) The retention window is gone; the apology and reputation window is not — she was still replying within hours at window close. (3) The residual financial risk has REVERSED DIRECTION and now runs entirely against ALTR: the referral money owed to her (63 days, unquantified, not netted off her final invoice), the unrefunded customs (31 days, creator gone, $1,560 chargeback precedent), and the $1,989 July dispute she believes she does not owe and has now paid around. (4) Two NEW open items: no exit conversation / churn reason captured, and no offboarding — access, credentials, asset return and DMCA status all unaddressed.\n\nWHAT IS NOW PERMANENTLY CLOSED BY CHURN RATHER THAN DELIVERY. Surgery acknowledgement (30 days). @paigealexxo posting (115 days). The OF earnings gameplan (255 days since first asked, 184 since promised). The trial-reels call (21 days). The alexpaige.vip link image (61 days). The sales-team groupchat (44 days). Payout-aligned payment terms (never written down in 12 months). Every one of these was carried in multiple consecutive reports.\n\nDO NOT MIS-AGE THESE NEXT RUN. All day counts above are computed from message timestamps in the .jsonl as of 2026-09-25, not from prior state files. Key anchors: resignation 2026-09-17; final payment 2026-09-23; Derrek's last message 2026-08-13; Michelle Queue's last leak report 2026-09-08; Ronnie's last message 2026-09-03; Mica's last message 2026-09-17; surgery first disclosed 2026-08-26; July dispute opened 2026-07-27; customs sold 2026-08-25.\n\nAGENCY-LEVEL LESSONS. (1) A resignation must freeze routine billing contact until the owner has responded personally — the closing invoice goes out WITH the acknowledgement, never four days ahead of it. (2) Write payment amounts in-channel every single time: twelve months of billing on this account produced three numbers. (3) Payout-aligned terms as the default for every creator. (4) Never announce banking changes inside a payment request. (5) Build an offboarding checklist — statement, refunds, access revocation, credential rotation, DMCA status, asset return — and make it mandatory on every exit. (6) Close the loop between this report and the owner's inbox: personal owner contact was the #1 recommendation in FIVE consecutive reports, the churn was predicted in writing on 2026-09-11, and nothing downstream of the analysis ever moved. (7) Screen the roster for the signature: owner silent 30+ days, a disclosed personal or medical event never acknowledged, a long-promised deliverable with no proof, and a chat where most ALTR messages are billing."
+}

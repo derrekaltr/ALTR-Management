@@ -1,0 +1,131 @@
+{
+  "client": "Lauryn",
+  "slug": "lauryn-x-altr",
+  "week_ending": "2026-08-08",
+  "summary": "A quiet-volume but friction-heavy week. The July 15-31 invoice (plus an unpaid balance carried from the prior period) is still outstanding: Lauryn tried to pay Aug 7 but reported ALTR's Zelle email isn't working and got no answer from Stephski by week's end. Late Aug 7-8, Derrek escalated her long-running 'Facebook not recommended' problem to Meta rep Vivek, but the fix stalled when Vivek asked her to unlink/verify via her Gmail, which she flatly refused on security grounds ('That's just confidential'). Her tone stays warm and cooperative, but she now has an unpaid invoice blocked on our side's payment rails and a trust-sensitive security ask hanging open.",
+  "health": {
+    "score": 58,
+    "trend": "new",
+    "rationale": "Client remains friendly and engaged, but week closed with an overdue/blocked payment, an unanswered Zelle question, an unresolved months-old Facebook restriction, and new trust friction over the Gmail access request."
+  },
+  "reminders": [
+    {
+      "employee": "Stephski",
+      "topic": "Zelle payment details not working - client trying to pay the outstanding invoice and asking for working Zelle info / phone number",
+      "count": 2,
+      "first_date": "2026-08-07",
+      "last_date": "2026-08-07",
+      "days_outstanding": 1,
+      "quotes": [
+        {"quote": "That Zelle email isn’t working", "who": "LA Client", "date": "2026-08-07"},
+        {"quote": "Or do you have # attached to that Zelle", "who": "LA Client", "date": "2026-08-07"},
+        {"quote": "Let me know!", "who": "LA Client", "date": "2026-08-07"}
+      ]
+    }
+  ],
+  "complaints": [
+    {
+      "issue": "Facebook page 'not recommended' / old violations restricting reach - client says it kills her algorithm and page growth; open since late Sept 2025, resurfaced this week and escalated to Meta rep Vivek",
+      "status": "recurring",
+      "first_raised": "2025-09-27",
+      "owner": "Vivek",
+      "quotes": [
+        {"quote": "Can we see what’s going on with this ?", "who": "LA Client", "date": "2025-09-27"},
+        {"quote": "It really messes with algorithms and traffic at this point , I’m seeing which delays the growth of page", "who": "LA Client", "date": "2025-10-08"},
+        {"quote": "And get it back open again", "who": "LA Client", "date": "2026-08-07"}
+      ]
+    },
+    {
+      "issue": "Vivek asked her to remove Gmail from Facebook Account Center / complete Gmail verification; client felt it compromised account security and refused to share Gmail access",
+      "status": "new",
+      "first_raised": "2026-08-08",
+      "owner": "Vivek",
+      "quotes": [
+        {"quote": "Your asking me to remove Gmail from FB that’s a Secruity purpose for account", "who": "LA Client", "date": "2026-08-08"},
+        {"quote": "I don’t give access to my Gmail", "who": "LA Client", "date": "2026-08-08"},
+        {"quote": "That’s just confidential", "who": "LA Client", "date": "2026-08-08"}
+      ]
+    },
+    {
+      "issue": "ALTR's Zelle payment email not working when client attempted to pay - the latest of repeated payment-rail changes (bank changed 3x, Mercury link bounced, payment-link processor down in Feb, 5% CC fee added in July)",
+      "status": "new",
+      "first_raised": "2026-08-07",
+      "owner": "Stephski",
+      "quotes": [
+        {"quote": "That Zelle email isn’t working", "who": "LA Client", "date": "2026-08-07"},
+        {"quote": "Or do you have # attached to that Zelle", "who": "LA Client", "date": "2026-08-07"}
+      ]
+    }
+  ],
+  "commitments": [
+    {
+      "what": "Vivek (Meta Support Rep) will handle getting Lauryn's Facebook page recommended again once he has her logins",
+      "who": "Derrek",
+      "date": "2026-08-07",
+      "status": "pending",
+      "quotes": [
+        {"quote": "can you shoot him your logins again and he will handle", "who": "Derrek", "date": "2026-08-07"}
+      ]
+    },
+    {
+      "what": "Vivek to walk Lauryn through completing Facebook's Google verification on her end so she never has to share Gmail credentials",
+      "who": "Derrek",
+      "date": "2026-08-08",
+      "status": "pending",
+      "quotes": [
+        {"quote": "@fonta\nwalk her through how to do that", "who": "Derrek", "date": "2026-08-07"},
+        {"quote": "If there’s a way for you to approve/complete the Google verification on your end, that works too and you wouldn’t need to give us your Gmail password.", "who": "Derrek", "date": "2026-08-08"}
+      ]
+    }
+  ],
+  "payments": [
+    {
+      "note": "Invoice for July 15-31 sent Aug 1 together with the unpaid balance carried over from the July 1-14 period (that earlier invoice was chased Jul 4, split in half Jul 20 at her request, and still not fully paid by Jul 27). Stephski nudged Aug 2; unpaid at week close.",
+      "date": "2026-08-01",
+      "late": true,
+      "reason": "Client pays in installments as OnlyFans payouts clear ('I’m awaiting drops... my books are ran off what drops after pending state'); this week additionally blocked because the Zelle email she was given doesn't work.",
+      "suggested_fix": "Reply same-day with verified working Zelle details (email + phone) and test them before invoicing; since she reliably pays via split installments timed to OF payouts, issue pre-split invoices by default and schedule due dates just after her withdrawal drops.",
+      "quotes": [
+        {"quote": "I have also included the unpaid balance from the previous period. If you could please shoot over payment within the next 7 days that would be amazing!", "who": "Stephski", "date": "2026-08-01"},
+        {"quote": "LA\nmaking sure you saw this", "who": "Stephski", "date": "2026-08-02"},
+        {"quote": "That Zelle email isn’t working", "who": "LA Client", "date": "2026-08-07"}
+      ]
+    },
+    {
+      "note": "Recurring pattern across the full history: client is never a refusal risk but consistently pays late/partial and asks for split invoices (Nov 20 pause warning, Jan 20 chase, Feb-Mar incremental payments, May and June-July splits). She has flagged that ALTR's frequent bank/processor changes add friction.",
+      "date": null,
+      "late": true,
+      "reason": "Cash flow tied to OF payout timing ('Being money is beyond low this month in account! Split those payment invoices up for me / And will pay as drops!'), compounded by ALTR-side banking changes (Chase -> Mercury bounce -> Chase -> Bank of America, Zelle email changes, link processor outages, 5% CC fee).",
+      "suggested_fix": "Lock in one stable payment rail and communicate it once; formalize a standing two-installment plan aligned to OF payout dates instead of chasing after each invoice.",
+      "quotes": [
+        {"quote": "Being money is beyond low this month in account! Split those payment invoices up for me", "who": "LA Client", "date": "2026-06-24"},
+        {"quote": "I’m awaiting drops", "who": "LA Client", "date": "2026-07-30"},
+        {"quote": "From OF my books are ran off what drops after pending state", "who": "LA Client", "date": "2026-07-30"}
+      ]
+    }
+  ],
+  "client_priorities": [
+    "Account security and confidentiality - refuses to share Gmail access, wary of scam emails and 'scammy' requests, protective of login/recovery credentials",
+    "Facebook/IG growth and algorithm health - getting the FB page recommended again is her top ongoing ask ('Gotta have page be able to have endless traction')",
+    "Brand protection - DMCA leak takedowns matter to her ('My biggest thing is when they type... My Name with Naked' shows nothing), and quickly killing fake TG/impersonation accounts",
+    "Firm content boundaries - no explicit/nude/implied-sex customs (no 'fake masturbation', no implied oral), even at the cost of refunds; she must be portrayed consistently with her music/brand career",
+    "Revenue growth with flexible payment timing - motivated to 'run it up' each month but needs invoices split and timed to OnlyFans payout drops"
+  ],
+  "suggestions": [
+    "Get Stephski to answer the Aug 7 Zelle question immediately with verified working payment details (email AND phone) - the client was actively trying to pay and was left hanging",
+    "Have Vivek deliver step-by-step instructions for completing the Google/Facebook verification entirely on Lauryn's end - never re-ask for Gmail credentials; her security stance is firm and repeated requests will erode trust",
+    "Give her a realistic status and timeline cadence (e.g. weekly update) on the Facebook 'not recommended' fix - this complaint has resurfaced since September 2025 with no resolution",
+    "Proactively offer a standing split-invoice arrangement aligned to her OF payout dates so payment chasing (and the carried-balance situation) stops recurring",
+    "Stabilize banking/payment details - this is at least the fourth payment-rail change; each one has directly delayed her payments"
+  ],
+  "wins": [
+    "Derrek personally jumped in the same night the FB issue resurfaced (Aug 7) and looped in the dedicated Meta rep, then defused the Gmail concern with a clear, respectful clarification",
+    "Client proactively attempted payment on Aug 7 without further chasing - intent to pay is clearly there",
+    "Weekly DMCA leak-removal updates keep landing on schedule (2,301+ infringements removed to date), a service she consistently thanks the team for"
+  ],
+  "week_stats": {
+    "messages": 28,
+    "client_messages": 17,
+    "team_messages": 11
+  }
+}

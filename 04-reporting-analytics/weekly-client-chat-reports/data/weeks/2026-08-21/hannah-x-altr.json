@@ -1,0 +1,96 @@
+{
+  "client": "Hannah",
+  "slug": "hannah-x-altr",
+  "week_ending": "2026-08-21",
+  "summary": "Second consecutive fully silent week — zero messages from either side. Hannah (Bella) churned on 2026-07-06 and is now 46 days silent. The last message in the entire chat is Stephski's 8/4 nudge, so the chat has been dead for 17 straight days and nobody at ALTR made a single collection, escalation, or win-back attempt during this window. The final 7/1-7/7 invoice is still unissued — it is now 37 days past the cadence date it should have gone out on (ALTR invoices on the 1st and 15th) — and the exit balance she promised is still uncollected. Critically, the outstanding amount has never been written down anywhere: the only record of it is a photo she sent on 7/6 captioned \"This is total left\" that nobody transcribed. ALTR is carrying an unquantified receivable against an unresponsive ex-client, on a dead channel, with no named owner. This needs a decision this week, not another silent week.",
+  "health": {
+    "score": 5,
+    "trend": "down",
+    "rationale": "Churned client, 46 days silent, and a second consecutive week where ALTR did nothing. Drops from 8 to 5 because the failure is now entirely ALTR-side: no contact attempted for 17 days, final invoice still unissued 37 days past cadence, and the outstanding amount is still not even quantified in any written record. There is no relationship left to score — the only remaining value is a receivable that is decaying with every week of inaction."
+  },
+  "reminders": [],
+  "complaints": [
+    {
+      "issue": "Client churn, unresolved and never discussed. She announced on 7/6 she was taking the account independent and has not sent a message since — 46 days. No exit call, no win-back attempt, and no documented root-cause debrief has ever happened.",
+      "status": "recurring",
+      "first_raised": "2026-07-06",
+      "owner": null,
+      "staleness": "Newest evidence is 46 days old; no client message exists after this one.",
+      "quotes": [
+        {"quote": "Hey guys I really appreciate working with you but I’m going to take over my account and work independently, I just sent the most recent wire and I’m going to wait for the rest of the money to transfer to pending for the next payout & will send that your way.", "who": "Bells Vale Referral (Hannah/Bella)", "date": "2026-07-06"}
+      ]
+    },
+    {
+      "issue": "DMCA takedowns perceived as ineffective — she reported leaks still live twice (6/26, 6/28) and kept sending fresh links right up to 7/5, the day before she quit. Michelle explained the 2-stage process on 7/1 but the complaint was never confirmed resolved. Carried as a churn root cause, not an active service issue.",
+      "status": "recurring",
+      "first_raised": "2026-06-26",
+      "owner": "Michelle",
+      "staleness": "56 days since first raised; last client mention 2026-06-28, 54 days old. No verification that the reported links ever came down.",
+      "quotes": [
+        {"quote": "Hi all those leaks are still up 😭", "who": "Bells Vale Referral (Hannah/Bella)", "date": "2026-06-26"},
+        {"quote": "All those leaks are still up were you able to report them", "who": "Bells Vale Referral (Hannah/Bella)", "date": "2026-06-28"},
+        {"quote": "So even if the links are still live on the websites right now, we're actively working through the removal process and will continue following up until they're taken down 🙌🏼", "who": "Michelle", "date": "2026-07-01"}
+      ]
+    }
+  ],
+  "commitments": [
+    {
+      "what": "Client to send the remaining balance owed to ALTR once her final OF payout cleared. Amount never recorded in text — she sent a screenshot captioned \"This is total left\" (message id 316) and no one on the team ever transcribed the figure into the thread.",
+      "who": "Hannah (client)",
+      "date": "2026-07-06",
+      "status": "overdue",
+      "days_overdue": 46,
+      "staleness": "Promise is 46 days old and has never been followed up on in writing. Zero chase attempts reference it — Stephski's 8/2 and 8/4 messages asked only for earning statements, not for this balance.",
+      "quotes": [
+        {"quote": "I just sent the most recent wire and I’m going to wait for the rest of the money to transfer to pending for the next payout & will send that your way.", "who": "Bells Vale Referral (Hannah/Bella)", "date": "2026-07-06"},
+        {"quote": "This is total left", "who": "Bells Vale Referral (Hannah/Bella)", "date": "2026-07-06"}
+      ]
+    },
+    {
+      "what": "Stephski to issue the final invoice for 7/1-7/7. Still unissued. On ALTR's own 1st-and-15th cadence it was due 7/15, making it 37 days late. Blocked on earning statements requested 8/2 and 8/4 that were never sent, and no attempt has been made to unblock it since.",
+      "who": "Stephski",
+      "date": "2026-08-02",
+      "status": "overdue",
+      "days_overdue": 37,
+      "staleness": "Both requests are pre-window (19 and 17 days old). No follow-up in the 8/8-8/14 window and none in this 8/15-8/21 window either — two full weeks of nothing.",
+      "quotes": [
+        {"quote": "Hi Bella Hope you're doing well, can you shoot over your final earning statements for 7/1-7/7? So we can issue our final invoice for you ❤️", "who": "Stephski", "date": "2026-08-02"},
+        {"quote": "Just making sure you saw this 🙏", "who": "Stephski", "date": "2026-08-04"}
+      ]
+    }
+  ],
+  "payments": [
+    {
+      "note": "No movement, no contact, no invoice. Two items remain outstanding and NEITHER has a number attached in the written record: (1) the final 7/1-7/7 commission invoice, never issued; (2) the exit balance she promised on 7/6, whose only record is an untranscribed screenshot. The last stated dollar figures in the chat are historical payments already collected — $931.81 on 6/23 for 5/29-6/14, and $981 on 7/6 for 6/15-6/30 (both after she deducted her self-run live earnings). Extrapolating from the 6/15-6/30 invoice ($981 at ALTR's 35% rate implies roughly $2,800 net over 16 days), a 7-day final period would put the unissued invoice in the rough range of $400-500 — this is an ALTR-side estimate only and is NOT stated anywhere in the chat.",
+      "date": null,
+      "late": true,
+      "reason": "Client churned 2026-07-06 and unresponsive for 46 days; ALTR made zero collection attempts in this window and the receivable has never been quantified in writing",
+      "amount_outstanding_stated": null,
+      "amount_outstanding_estimate": "~$400-500 for the unissued 7/1-7/7 invoice, plus an unknown exit balance shown only in a 7/6 screenshot",
+      "suggested_fix": "First, open message id 316 from 2026-07-06 and read the number off the screenshot — the amount at stake is sitting in this chat and nobody has looked at it. Then issue the 7/1-7/7 invoice from ALTR-side OF records rather than waiting on statements she will not send, and escalate off Telegram.",
+      "staleness": "Most recent ALTR payment activity of any kind: 2026-08-04, 17 days ago. Most recent client payment: 2026-07-06, 46 days ago.",
+      "quotes": [
+        {"quote": "Your total earnings from May 29-14th, minuts the amount you did on lives equals $2662.33 x 35% would be $931.81", "who": "Stephski", "date": "2026-06-23"},
+        {"quote": "Hey love subtracting my 386 live total is $981 sending that now", "who": "Bells Vale Referral (Hannah/Bella)", "date": "2026-07-02"},
+        {"quote": "Just sent wire!", "who": "Bells Vale Referral (Hannah/Bella)", "date": "2026-07-06"}
+      ]
+    }
+  ],
+  "client_priorities": [
+    "Clean exit — she volunteered to pay the remaining balance after her final OF payout and, on her past record, paid every invoice she was actually sent",
+    "Pre-churn: leak/DMCA takedowns that visibly worked, growing TikTok/IG toward a viral hit, Miami/Orlando content shoots, and not being charged commission on her self-run lives"
+  ],
+  "suggestions": [
+    "Decision required this week — pick one and put a name on it. Option A (recommended): read the 7/6 screenshot to get the real number, issue the 7/1-7/7 invoice from ALTR's own OF records (estimated $400-500 plus whatever the screenshot shows), and send it once via email or SMS with a 14-day pay-by date. Option B: write the whole thing off on 2026-09-04 and close the account. Do not choose Option C, which is what has actually happened for two weeks running: carry it silently and do nothing.",
+    "Read message id 316 from 2026-07-06 (\"This is total left\" + photo) before doing anything else. The amount at stake is already in this chat and no one has ever transcribed it. You cannot make a write-off decision on a number you have not looked at.",
+    "Stop using Telegram for this. The chat has produced zero replies in 46 days and its last message is 17 days old. Reach her at 407-587-9986, the phone number she gave in-chat on 6/4, or at [REDACTED-RECOVERY-EMAIL], the address on her OF account she shared on 5/29, or route an ask through Vale, who referred her — a warm referrer intro is the highest-probability channel left.",
+    "Her payment record was clean: $931.81 on 6/23 and $981 on 7/6, both paid within days of receiving an actual invoice. She has never once refused to pay. The blocker is that ALTR never sent the final invoice, not that she is dodging. Send the invoice and the odds of collection are materially better than the current zero.",
+    "Log the churn root causes into the retention playbook and close this account out of the weekly client rotation: weak week-1 sub numbers, a billing dispute over commission on self-run lives, three bank/payment-rail changes in five weeks (Zelle -> Mercury -> Chase -> Bank of America), and leaks she kept reporting as still live. A churned client with no receivable owner does not belong in a client-care report — it belongs in a collections list."
+  ],
+  "wins": [],
+  "week_stats": {
+    "messages": 0,
+    "client_messages": 0,
+    "team_messages": 0
+  }
+}

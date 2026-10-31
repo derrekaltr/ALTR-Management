@@ -1,0 +1,769 @@
+# BB UNBANS   [imessage #14151 GROUP]
+msgs=960 (in=838 out=122) window=2026-07-17..2026-08-05
+last_client=2026-08-05 (44d ago), last_derrek=2026-08-03 (46d ago)
+LAST MESSAGE FROM CLIENT — UNANSWERED: 'Yo'
+
+  ...
+[2026-07-17 18:39] Beiberr: Yur
+[2026-07-17 18:39] Beiberr: Justin@beyondsixfigures.org 1.2M followers @quotedfeed
+[2026-07-17 18:40] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/ff/15/at_0_C51EF4B1-ABC1-437A-9E90-89FEF7B78364/IMG_1922.PNG>
+[2026-07-17 18:40] Kartik Work: He tryna go halfsies with me on case
+[2026-07-17 18:40] Kartik Work: I said not without Derrek
+[2026-07-17 18:40] Kartik Work: We don’t do that here
+[2026-07-17 18:40] Kartik Work: Cost is 1k
+[2026-07-17 18:40] Beiberr: Ok it’s cool
+[2026-07-17 18:40] Beiberr: Lmk
+[2026-07-17 18:40] Kartik Work: So we all get 1-1-1-1
+[2026-07-17 18:41] Kartik Work: Ok just need username
+[2026-07-17 18:41] Beiberr: ^
+[2026-07-17 18:41] Beiberr: He’s paying 4k pay after
+[2026-07-17 18:41] Beiberr: Guaranteed
+  ...
+[2026-07-17 18:41] Beiberr: He’s not a play play guy
+[2026-07-17 18:41] Kartik Work: @quotedfeed
+[2026-07-17 18:41] Kartik Work: Right
+  ...
+[2026-07-17 18:42] Beiberr: Bet
+[2026-07-17 18:43] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/c6/06/at_0_EEB12653-4795-4783-998A-3CA3E97D731A/IMG_1805.PNG>
+[2026-07-17 18:43] Beiberr: Can we reinstate post
+  ...
+[2026-07-17 18:44] Beiberr: Call me nigga
+[2026-07-17 18:44] Kartik Work: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/08/08/at_0_3B2865FD-C9D3-4B3B-BC19-7460BC86FD3F/IMG_2471.jpeg>
+[2026-07-17 18:44] Kartik Work: Yes
+  ...
+[2026-07-17 18:45] Beiberr: Cuh
+[2026-07-17 18:45] Kartik Work: ￼
+      <IMG OK non-image: /Users/locklyjailbreak/Library/Messages/Attachments/66/06/B0843DF5-153F-452A-A16F-8AD025D75E48/Audio Message.caf>
+[2026-07-17 18:46] Beiberr: Okay nigga love ya ￼
+      <IMG OK: /Users/locklyjailbreak/Library/Messages/StickerCache/4f73fb9afbc51016-EF53F71A-8757-48E7-8EB9-B1601E752DBE/EF53F71A-8757-48E7-8EB9-B1601E752DBE.heic>
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/cd/13/at_1_93D31C4F-9F43-41A1-AB04-5734B0CAAE17/EF53F71A-8757-48E7-8EB9-B1601E752DBE.png>
+[2026-07-17 19:22] Kartik Work: Bro
+[2026-07-17 19:22] Kartik Work: The account u sent it already banned
+[2026-07-17 19:22] Kartik Work: What do u want more
+  ...
+[2026-07-17 19:23] Beiberr: 1 min
+[2026-07-17 20:41] Beiberr: ￼￼Unfortunately, I cannot share my fb url as it disappeared and is no longer available. Details I can share: Name: Jakub Šeda Email: sedajakub69@seznam.cz Country should be set as Czech Republic
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/a4/04/at_0_BDC90753-0691-43E6-B913-7926F511F06A/IMG_2468.PNG>
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/a5/05/at_1_BDC90753-0691-43E6-B913-7926F511F06A/IMG_2467.PNG>
+[2026-07-17 20:41] Beiberr: Unban
+  ...
+[2026-07-17 20:47] Kartik Work: Send screenshot after login
+[2026-07-20 20:22] Beiberr: ￼￼Rrovarob (rrovacapital) mayberryjrobert@gmail.com Follow: 5.5k
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/bf/15/at_0_6F144972-BD52-44BC-A800-113F8BB8E971/IMG_2007.jpeg>
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/c0/00/at_1_6F144972-BD52-44BC-A800-113F8BB8E971/IMG_2006.jpeg>
+[2026-07-20 20:24] Beiberr: Derek send me byraphs connect
+  ...
+[2026-07-20 20:57] Jaynem Chrome: What’s up bro let me know what you need
+[2026-07-20 20:58] Beiberr: ￼￼Chrome Hearts Pink & Checkered Cross Patch Carpenter Pants Tan (stock image will send actual soon) - Pink/Checkered Pacthes - Size 33 - $16k
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/f0/00/at_0_3A0A5DF1-C9D7-4155-87C0-62FCA6FD94C1/IMG_1652-Photoroom.JPG>
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/f1/01/at_1_3A0A5DF1-C9D7-4155-87C0-62FCA6FD94C1/IMG_1650-Photoroom.JPG>
+[2026-07-20 21:03] Beiberr: Nice to meet you jaynem !
+  ...
+[2026-07-24 02:58] Kartik Work: Yes
+[2026-07-24 02:58] Kartik Work: 4k
+[2026-07-24 02:58] Kartik Work: Confirm
+  ...
+[2026-07-24 02:59] Kartik Work: This
+[2026-07-24 02:59] Kartik Work: Rrovarob (rrovacapital) mayberryjrobert@gmail.com Follow: 5.5k
+[2026-07-24 02:59] Beiberr: This 1^
+  ...
+[2026-07-24 02:59] Beiberr: ^
+[2026-07-24 03:00] Beiberr: ￼Justin@beyondsixfigures.org 1.2M followers @quotedfeed
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/f4/04/at_0_E1B729AC-34B0-4AD7-B6CE-76E6BE1315B2/IMG_2303.PNG>
+[2026-07-24 03:01] Kartik Work: Bro
+  ...
+[2026-07-24 03:02] Kartik Work: And send
+[2026-07-24 03:02] Beiberr: I just sent it nigga
+[2026-07-24 03:02] Kartik Work: Ok this is confirmed
+[2026-07-24 03:02] Beiberr: Let me know once submit
+[2026-07-24 03:02] Beiberr: Yes, he will give me 4K pay after
+[2026-07-24 03:03] Kartik Work: Bro
+[2026-07-24 03:03] Kartik Work: 4k to ys
+[2026-07-24 03:03] Beiberr: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/1c/12/at_0_80C498C9-6868-4EFD-8D2B-C8C1D53EC5ED/IMG_0386.PNG>
+[2026-07-24 03:03] Kartik Work: Your tax is on top
+[2026-07-24 03:03] Kartik Work: Not included in 4k
+[2026-07-24 03:03] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/db/11/at_0_EE876297-5952-4D68-BD06-C049D07FD4B8/IMG_2304.PNG>
+[2026-07-24 03:03] Beiberr: How much do I charge him?
+[2026-07-24 03:03] Kartik Work: Whatever u want
+[2026-07-24 03:03] Kartik Work: Give me 4
+[2026-07-24 03:03] Beiberr: Okay it’s cool I’ll get u 4k
+[2026-07-24 03:03] Kartik Work: 🤣
+  ...
+[2026-07-24 03:03] Kartik Work: U have more
+[2026-07-24 03:03] Beiberr: He will pay
+[2026-07-24 03:03] Beiberr: lol he’s rich asf
+  ...
+[2026-07-24 03:04] Kartik Work: So only one?
+[2026-07-24 03:05] Beiberr: Quotedfeed only for now
+[2026-07-24 03:05] Beiberr: I got integrity Facebook unban
+  ...
+[2026-07-24 03:57] Kartik Work: Quickly please
+[2026-07-24 03:57] Kartik Work: Usdt eth
+[2026-07-24 03:57] Beiberr: My nigga hold up I’m spamming up
+  ...
+[2026-07-24 03:57] Kartik Work: Ill ban u and him in next 30 mins
+[2026-07-24 03:57] Beiberr: I didn’t know that fast fuck
+[2026-07-24 03:57] Beiberr: Nigga relax
+  ...
+[2026-07-24 03:57] Kartik Work: Spam harder
+[2026-07-24 03:57] Beiberr: Stop bugging I’ll pay
+[2026-07-24 04:01] Kartik Work: Bro cmon
+  ...
+[2026-07-24 04:13] Beiberr: Ty nigga before 8:30 am Igu all ur bread
+[2026-07-24 04:13] Beiberr: I love you fuck :)
+[2026-07-24 04:14] Beiberr: Keep 60 addys for free ❤️
+[2026-07-24 04:18] Kartik Work: Still 4k nigga
+[2026-07-24 04:18] Beiberr: Igu
+[2026-07-24 04:18] Beiberr: Ik nigga
+[2026-07-24 13:16] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/c7/07/at_0_1A6249E5-09A4-4CF8-A883-E8902A5603EC/IMG_2312.png>
+[2026-07-24 13:17] Beiberr: Derek
+[2026-07-24 13:17] Beiberr: Kartik
+[2026-07-24 13:17] Beiberr: Can one of you guys make a payment link for this ?
+[2026-07-24 13:27] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/0a/10/at_0_D857B2DA-30DB-4DDF-A27E-C28987AF5770/IMG_2313.png>
+[2026-07-24 13:27] Beiberr: I’ll just have him pay you directly
+[2026-07-24 13:27] Beiberr: Let me know asap pls
+[2026-07-24 13:27] Beiberr: Wanna get you paid
+[2026-07-24 13:27] Beiberr: I asked for Zelle or crypto he’s not sending it
+[2026-07-24 13:33] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/ad/13/at_0_287412A6-5E27-4AD2-A386-9BE333E712A5/IMG_2313.png>
+[2026-07-24 13:42] Kartik Work: Bro
+[2026-07-24 16:09] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/df/15/at_0_1D8C6191-9907-410C-BE7E-E12DDB743C6A/IMG_2335.png>
+[2026-07-24 16:44] Kartik Work: If i don’t get the money in 30 mins
+[2026-07-24 16:44] Kartik Work: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/ea/10/at_0_94622A63-5B7A-4F1A-896F-68C50DC91BBF/IMG_3202.jpeg>
+[2026-07-24 16:44] Kartik Work: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/e2/02/at_0_1E058BDB-DA79-4F90-A0C5-D295AA174D00/IMG_2563.jpeg>
+[2026-07-24 16:49] Beiberr: Loved an image
+[2026-07-24 16:49] Beiberr: Loved an image
+[2026-07-24 16:58] Beiberr: Send your Zelle info
+[2026-07-24 17:00] Beiberr: Send Zelle info
+[2026-07-24 17:00] Beiberr: Money collected
+[2026-07-24 17:00] Beiberr: It’s gone be bad my nigga
+[2026-07-24 17:01] Beiberr: Who do I Zelle nigga
+[2026-07-24 17:01] Kartik Work: Derrek
+  ...
+[2026-07-24 17:01] Beiberr: Sent
+[2026-07-24 17:01] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/de/14/at_0_D9DB360D-3BF2-4B18-86B8-7A1417AFC920/IMG_2343.PNG>
+[2026-07-24 17:01] Beiberr: It’s gone be bad my nigga
+  ...
+[2026-07-24 17:35] Kartik Work: We are working
+[2026-07-24 17:36] Beiberr: ￼Rrovarob (rrovacapital) mayberryjrobert@gmail.com Follow: 5.5k
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/fd/13/at_0_4AE4B7D0-44C9-4403-A4A5-0FC1AEE9D79F/IMG_2345.JPG>
+[2026-07-24 17:36] Beiberr: ￼Email ronbiswas24@gmail.com username ronbiswas24 Follower count 2000
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/84/04/at_0_1A025D50-8520-4B41-B412-71A8B55EA093/IMG_2346.JPG>
+[2026-07-24 17:36] Beiberr: ￼Dkdannyy 570k talismancoincd@gmail.com
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/cc/12/at_0_22BE9B02-C7B1-419E-8462-F92BA3F5323F/IMG_2347.JPG>
+[2026-07-24 17:38] Beiberr: 
+      <IMG OK non-image: /Users/locklyjailbreak/Library/Messages/Attachments/ae/14/at_0_38811145-7874-46A0-8DB9-9CE22652C8BD/GroupPhotoImage>
+[2026-07-24 17:40] Beiberr: Lmk nigga
+  ...
+[2026-07-24 17:49] Kartik Work: For the love of the game
+[2026-07-24 17:49] Beiberr: I’m not gunna snitch I love both yall and I don’t scam anymore this real business shit harder then I expected.
+[2026-07-24 17:50] Beiberr: Just know I’m working on my flying car.
+  ...
+[2026-07-24 17:51] Beiberr: I believe he’s a changed man for the better.
+[2026-07-24 17:51] Kartik Work: Laughed at “I’m not gunna snitch I love both yall and I don’t scam anymore this real business shit harder then I expected.”
+[2026-07-24 17:51] Kartik Work: Reacted 😂 to “Trying to sound like heavenly man of the Lord”
+  ...
+[2026-07-24 17:52] Kartik Work: But first i need Derrek to call me
+[2026-07-24 17:52] Beiberr: Give me price
+[2026-07-24 17:54] Beiberr: Give me whole sale price bro i’ll bring fucking volume
+[2026-07-24 18:08] Beiberr: ￼Jabran Khan Facebook; https://m.facebook.com/jabran.khan.5 Email ; jabrankhan123@hotmail.co.uk Follower count 5k
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/ee/14/at_0_E087D67D-6CB6-47F1-870D-14CB3E3B23AB/6074b8d7-da1b-4fe9-bd70-2c0026dce74d.JPG>
+[2026-07-24 18:09] Beiberr: Fw me 4 accounts
+[2026-07-24 18:19] Beiberr: Another one coming rn
+[2026-07-24 18:19] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/e7/07/at_0_9165D44A-F8DF-4805-83CC-83F66346DDD5/tmp.gif>
+[2026-07-24 18:30] Beiberr: ￼￼￼￼Name: Jakub Šeda Email: sedajakub69@seznam.cz Country should be set as Czech Republic
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/e0/00/at_0_FAA17C37-97C6-474B-A304-CD86A583FA40/20a84653-faff-46b0-8604-78cf8676496f.JPG>
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/e1/01/at_1_FAA17C37-97C6-474B-A304-CD86A583FA40/962cfd9c-e5e1-40b1-a5a7-a0b741777627.JPG>
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/e2/02/at_2_FAA17C37-97C6-474B-A304-CD86A583FA40/c16a735c-c652-4464-99c0-795f77f322dc.JPG>
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/e3/03/at_3_FAA17C37-97C6-474B-A304-CD86A583FA40/6ad3e7c8-ca77-405d-9ad6-91670e1792cb.JPG>
+[2026-07-24 18:31] Beiberr: 5th account what we doing
+  ...
+[2026-07-24 19:25] Kartik Work: 🤣🤣
+[2026-07-24 19:50] Beiberr: I’ll pay 3k submit when ur ready client paying me 4k Same guy Justin wall
+[2026-07-24 20:49] Beiberr: ^submit pls
+  ...
+[2026-07-24 20:56] DEREK: Never mind
+[2026-07-24 20:59] Beiberr: $1500 I’ll pay on that super easy fw me all accounts are confirmed for unbans more coming I have 3 pending rn
+[2026-07-24 21:07] Beiberr: ^ he’s paying me 2.5k let me make $500 Same guy Justin wall
+[2026-07-24 21:11] Beiberr: ￼That’s $6500 in business for you guys + I have more clients coming.
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/31/01/at_0_FF1EF7F7-1628-439F-BEA8-7AFCCA4A419F/IMG_2364.png>
+[2026-07-24 21:12] DEREK: Bro
+[2026-07-24 21:12] DEREK: No
+[2026-07-24 21:12] DEREK: Perm bans are no where near that price
+[2026-07-24 21:14] Beiberr: How much ?
+[2026-07-24 21:14] Beiberr: I didn’t know it was perm
+[2026-07-24 21:16] DEREK: 3.5k perms for most reasons, integrity 3.2k
+[2026-07-24 21:17] Beiberr: Nigga integrity cost like 500 bucks
+  ...
+[2026-07-24 21:17] Beiberr: Cooked
+[2026-07-24 21:18] DEREK: We make $500 off resellers anything over $2000 that’s 25%
+[2026-07-24 21:18] DEREK: kartik will try to finesse
+  ...
+[2026-07-24 21:18] DEREK: For the type of ban reason
+[2026-07-24 21:19] DEREK: If there was a way to get it cheaper such as an appealed integrity then I’m gonna give you a good price on that but the ones you sent me for the Bang reasons I can see there is no other way to get them back unless you’re waiting 14 days and hoping that a suppo…
+[2026-07-24 21:19] DEREK: I’m in the business of moving fast and making money.
+  ...
+[2026-07-24 21:28] Beiberr: Okay let’s do it
+[2026-07-24 21:28] Beiberr: 3.5k locked
+[2026-07-24 21:28] Beiberr: Just confirmed w client
+  ...
+[2026-07-24 21:31] Beiberr: Lmk on this ?
+[2026-07-24 21:31] Beiberr: What’s price on GRO UNBAN
+[2026-07-24 21:31] Beiberr: I HAVE 2
+  ...
+[2026-07-24 21:56] Beiberr: Let me know on the other Unban’s please
+[2026-07-24 21:56] Beiberr: We can have like 10 K and rev in two days
+[2026-07-24 23:27] Kartik Work: Bro
+  ...
+[2026-07-25 02:29] Kartik Work: Lol
+[2026-07-25 02:29] Beiberr: ￼
+      <IMG OK: /Users/locklyjailbreak/Library/Messages/StickerCache/b4164c11610efa5a-FBC585CC-1EDA-4616-86C9-4A6B8ADB9D3A/FBC585CC-1EDA-4616-86C9-4A6B8ADB9D3A.heic>
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/cf/15/at_0_360F1808-3AA4-4719-BBAA-F7F4C624E790/FBC585CC-1EDA-4616-86C9-4A6B8ADB9D3A.png>
+[2026-07-25 02:29] Kartik Work: 🤣
+[2026-07-25 02:34] DEREK: Is that from that video?
+[2026-07-25 02:37] Beiberr: https://youtube.com/shorts/nIY9NeiD8Ro?is=ZI5x5MJeDWAx7J67
+      <IMG MISSING non-image: /Users/locklyjailbreak/Library/Messages/Attachments/45/05/58FD3504-8194-415A-86AF-4EA42F4F3449/9AB7AF71-C717-4BFC-A317-DFB4FCC789DC.pluginPayloadAttachment>
+      <IMG OK non-image: /Users/locklyjailbreak/Library/Messages/Attachments/62/02/9EBE5F1E-B7C0-4CDD-8104-9CDDB1564499/12278EB7-2FE4-48F7-81AD-2EC5B5FB1832.pluginPayloadAttachment>
+      <IMG MISSING non-image: >
+[2026-07-25 02:38] Kartik Work: Nigfa this is hindi dubbed
+[2026-07-25 02:38] Kartik Work: 🤣🤣🤣🤣🤣🤣
+[2026-07-25 02:38] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/24/04/at_0_99ACF7B7-CEA0-4B8F-9CFF-0F75743195BB/80663992717__FE3A0695-39E1-490A-9E17-10A8762DD933.heic>
+[2026-07-25 02:39] Beiberr: Dude the stair master is the worst thing in the world
+  ...
+[2026-07-25 03:10] Beiberr: Gro unban lmk
+[2026-07-25 03:10] Beiberr: Price
+[2026-07-25 03:10] Beiberr: I got 2
+  ...
+[2026-07-25 03:12] Beiberr: Yes
+[2026-07-25 03:12] Beiberr: Client paying 15k let break bread
+[2026-07-25 03:12] Beiberr: I’ll go half
+[2026-07-25 03:12] Beiberr: 7.5k we split
+[2026-07-25 03:14] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/b9/09/at_0_0788163A-8D14-4CB8-AC2A-0795F0A58768/IMG_2388.PNG>
+[2026-07-25 03:15] DEREK: Kartik
+  ...
+[2026-07-25 03:17] Kartik Work: Idgaf if he loaded
+[2026-07-25 03:17] Kartik Work: Not gonna lose money because he said that’s the price and it’s actually more
+[2026-07-25 03:17] Kartik Work: Gonna get back to u
+  ...
+[2026-07-25 03:18] Kartik Work: Good boy
+[2026-07-25 03:19] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/fc/12/at_0_B06DBB39-F899-4B72-B08F-C45B6A44BF75/IMG_0971.JPEG>
+[2026-07-25 03:20] Beiberr: Is this good
+[2026-07-25 03:22] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/a8/08/at_0_96B0357B-51EB-4588-8E91-60D99913D084/IMG_7683.png>
+[2026-07-25 03:23] Beiberr: ￼
+      <IMG OK: /Users/locklyjailbreak/Library/Messages/StickerCache/b4164c11610efa5a-FBC585CC-1EDA-4616-86C9-4A6B8ADB9D3A/FBC585CC-1EDA-4616-86C9-4A6B8ADB9D3A.heic>
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/9d/13/at_0_4271F296-9F08-47E0-8150-B993F52561BA/FBC585CC-1EDA-4616-86C9-4A6B8ADB9D3A.png>
+[2026-07-25 03:23] Kartik Work: Ok brother
+[2026-07-25 03:24] Beiberr: 🫶🏼
+[2026-07-25 03:26] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/bf/15/at_0_38AB8FFA-4224-41A9-95E1-2512105BC3DA/IMG_2392.PNG>
+[2026-07-25 03:53] Kartik Work: Tell that nigga if he go through you
+  ...
+[2026-07-25 03:53] Kartik Work: He still gonna come to me
+[2026-07-25 03:53] Kartik Work: And if he doesn’t come through you im charging additional 3k
+[2026-07-25 03:53] Kartik Work: 🤣
+  ...
+[2026-07-25 03:56] Beiberr: When can we submit
+[2026-07-25 03:59] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/cd/13/at_0_550109D1-354C-42ED-9CDE-475F0D106C7F/IMG_2397.jpeg>
+[2026-07-25 03:59] Beiberr: Call your people
+  ...
+[2026-07-25 03:59] Beiberr: 👆👆
+[2026-07-25 04:00] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/bf/15/at_0_BAF99074-DD82-49C8-A278-90A90024A577/IMG_2398.PNG>
+[2026-07-25 04:00] Beiberr: He’s gonna tell his other rep to cancel by tomorrow morning
+  ...
+[2026-07-25 06:00] Beiberr: Can we confirm
+[2026-07-25 06:01] Beiberr: https://youtu.be/M26x4b5uCDs?is=Qi9X6YMnPUW7L-eh
+      <IMG MISSING non-image: /Users/locklyjailbreak/Library/Messages/Attachments/41/01/A5645734-D6B9-4F45-BBCB-AF67224C9CB8/14572238-E290-48CD-AD26-1A36FA31BB06.pluginPayloadAttachment>
+      <IMG OK non-image: /Users/locklyjailbreak/Library/Messages/Attachments/d9/09/AF16E69D-573F-4773-B78F-CEC1F52E1E5A/9F9B98C5-563E-4886-8CC1-088AAC908CDE.pluginPayloadAttachment>
+      <IMG MISSING non-image: >
+[2026-07-25 06:01] Beiberr: Watch this it’s fire
+[2026-07-25 07:10] Beiberr: Can we do cyber unbans
+[2026-07-25 07:19] Beiberr: ￼￼Lmk asap on this king
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/ce/14/at_0_C7E2847C-31F3-41F3-9DD8-44EF70083E45/IMG_1095.PNG>
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/cf/15/at_1_C7E2847C-31F3-41F3-9DD8-44EF70083E45/IMG_1096.PNG>
+[2026-07-25 07:31] Beiberr: https://www.instagram.com/donpicksofficial
+      <IMG MISSING non-image: /Users/locklyjailbreak/Library/Messages/Attachments/9b/11/03932E46-A7D3-41D4-B022-B2F791AC4C56/54221E9F-6D7F-4854-8D79-FDD589341CA9.pluginPayloadAttachment>
+[2026-07-25 07:31] Beiberr: Copyright ban
+  ...
+[2026-07-25 07:33] Kartik Work: Already have this case
+[2026-07-25 07:36] Beiberr: Price on this ban
+[2026-07-25 07:36] Beiberr: Oh u do
+[2026-07-25 07:37] Beiberr: ￼
+      <IMG OK: /Users/locklyjailbreak/Library/Messages/StickerCache/b4164c11610efa5a-FBC585CC-1EDA-4616-86C9-4A6B8ADB9D3A/FBC585CC-1EDA-4616-86C9-4A6B8ADB9D3A.heic>
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/d9/09/at_0_11D22365-5A19-4DE6-AF7E-EFA8874A9910/FBC585CC-1EDA-4616-86C9-4A6B8ADB9D3A.png>
+[2026-07-25 10:01] Kartik Work: ￼Bieber this has to change bro
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/db/11/at_0_493333C3-1BF0-421E-ACCF-5CE362E06EA1/IMG_3308.png>
+[2026-07-25 10:01] Kartik Work: 🤣
+  ...
+[2026-07-25 15:19] Beiberr: 💔
+[2026-07-25 15:19] Kartik Work: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/b7/07/at_0_473EBB16-CE15-41B4-BE41-0E08B2842759/IMG_3360.png>
+[2026-07-25 15:19] Kartik Work: U know i always got ur back
+[2026-07-25 15:19] Beiberr: Lmaooo
+[2026-07-25 15:20] Beiberr: ￼
+      <IMG OK: /Users/locklyjailbreak/Library/Messages/StickerCache/b4164c11610efa5a-FBC585CC-1EDA-4616-86C9-4A6B8ADB9D3A/FBC585CC-1EDA-4616-86C9-4A6B8ADB9D3A.heic>
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/a8/08/at_0_4B8D2CF2-1EF2-4A49-B4D3-702914922800/FBC585CC-1EDA-4616-86C9-4A6B8ADB9D3A.png>
+[2026-07-25 15:21] DEREK: 😂
+[2026-07-25 15:21] DEREK: Bro, I just fucking spit
+[2026-07-25 15:21] Beiberr: IGBBMN
+[2026-07-25 15:23] Kartik Work: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/d6/06/at_0_A12B665D-C780-4999-B3A6-DCB1F05D110C/IMG_3364.png>
+[2026-07-25 15:25] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/16/06/at_0_199049A7-CEDC-41CF-B3AF-AA3D27E9A00D/IMG_2406.jpeg>
+[2026-07-25 15:26] Kartik Work: 🤣🤣🤣
+[2026-07-25 15:27] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/d7/07/at_0_232CEE44-E94B-4003-AF8C-4A4F01D9347C/IMG_2407.png>
+[2026-07-25 15:29] Beiberr: Loved an image
+[2026-07-25 15:41] Beiberr: ￼Username DMV.resellers Follower 25k Email Malgburi7@gmail.com
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/f5/05/at_0_B0CF111C-566F-442C-AF77-F30F1CE10FE7/IMG_2806.PNG>
+[2026-07-25 15:42] Beiberr: Alright I charged him 4k
+[2026-07-25 15:47] Beiberr: ^
+[2026-07-25 15:56] DEREK: Kk
+[2026-07-25 15:57] Beiberr: 3.5k my bad
+[2026-07-25 15:58] Beiberr: The guy I scammed he’s now paying 3.5k pay after
+[2026-07-25 15:58] Beiberr: You see good business 👍😌
+[2026-07-25 15:58] Beiberr: No more scamming biebierrr !
+[2026-07-25 16:00] Beiberr: Btw
+[2026-07-25 16:01] Beiberr: I have a guy who sends me crypto for Zelle at 6% he’s my dads business partner I’m sure u guys deal in a lot of crypto so if u want I can connect u
+[2026-07-25 16:01] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/f2/02/at_0_4EC95A70-DB80-4C7B-9FF0-D72594B024AE/IMG_2411.PNG>
+[2026-07-25 16:30] Kartik Work: ￼￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/fb/11/at_0_033C03E5-EE03-47EE-B477-F5F8C0C6D0EA/IMG_3379.jpeg>
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/fc/12/at_1_033C03E5-EE03-47EE-B477-F5F8C0C6D0EA/IMG_3380.jpeg>
+[2026-07-25 16:31] Kartik Work: Straighten up i got u this time
+  ...
+[2026-07-25 16:31] Beiberr: Nigga I sent his unban ^
+[2026-07-25 16:31] Beiberr: 3.5k
+[2026-07-25 16:32] Kartik Work: Im not covering shit i just wanted it for my story
+[2026-07-25 16:32] Kartik Work: Na im playing
+[2026-07-25 16:32] Beiberr: I am with this crypto project I’m paying him 3k a post for Eli preme when he charged me 1k
+[2026-07-25 16:32] Kartik Work: Igy
+  ...
+[2026-07-25 16:38] Beiberr: Oh okay promised to over deliver
+[2026-07-25 16:39] Beiberr: Yeah, my goal was never to scam. I think my alcohol abuse kinda would lead on me to scamming cause I would go out one night and spend a lot of money and then just not have the money for that Unban or that service and essentially burning it I don’t go out. I do…
+[2026-07-25 16:40] DEREK: You ain’t gotta explain it, bro. I totally get it.
+  ...
+[2026-07-25 16:41] Beiberr: I burned a lot of good relationships. I wish I never did.
+[2026-07-25 16:41] Beiberr: Some people still fuck with me and I apologize too and plan on getting their money back.
+[2026-07-25 16:41] Kartik Work: U would have burnt mine a long time ago if i didnt love u
+  ...
+[2026-07-25 16:42] Kartik Work: Bro send screenshot of login
+[2026-07-25 16:43] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/99/09/at_0_2014D82C-37B3-4D58-A388-9578904AC245/IMG_2806.PNG>
+[2026-07-25 17:10] Beiberr: ?
+[2026-07-25 17:10] Kartik Work: Fraud and deception
+[2026-07-25 17:10] Kartik Work: What did u collect
+[2026-07-25 17:15] Beiberr: 3.5k pay after
+[2026-07-25 17:15] Beiberr: ?
+  ...
+[2026-07-25 17:19] Beiberr: On toilet
+[2026-07-25 17:19] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/ef/15/at_0_61CD7DBD-5245-4E2A-9280-49DAC02F4D6F/80669274822__EE89B629-4FA7-4031-B5C1-F410D9F9E49A.heic>
+[2026-07-25 17:19] Beiberr: 5 mins
+  ...
+[2026-07-25 17:20] Beiberr: I drank a coffee
+[2026-07-25 17:20] Kartik Work: Yea that shit fucks up my stomach too
+[2026-07-25 17:20] Kartik Work: But i never let it show on my shorts
+[2026-07-25 17:21] Kartik Work: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/cf/15/at_0_4204453D-CB5B-4349-A14F-06CFD218EDB0/IMG_3394.png>
+[2026-07-25 17:21] Kartik Work: Answer
+[2026-07-25 18:43] Beiberr: https://www.instagram.com/hooptrailer
+      <IMG MISSING non-image: /Users/locklyjailbreak/Library/Messages/Attachments/97/07/2DF1793F-95C7-414A-A6A0-BE0ACA9429E6/F14189EE-460C-49ED-9342-228BCEAC0710.pluginPayloadAttachment>
+[2026-07-25 18:43] Beiberr: ^
+[2026-07-25 18:46] Beiberr: https://www.instagram.com/hooptrailer
+      <IMG MISSING non-image: /Users/locklyjailbreak/Library/Messages/Attachments/fc/12/EBA1A3B2-5BBE-4846-B5A3-E7500A9E8C5D/8FA31237-232E-46DE-BE8C-A190A99EA978.pluginPayloadAttachment>
+[2026-07-25 18:47] Beiberr: BAN CPR
+  ...
+[2026-07-25 19:46] Kartik Work: Nigga
+[2026-07-25 19:46] Kartik Work: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/fe/14/at_0_8BBCB4D1-1D65-44BB-AAF6-251E6AA0880E/80670160271__883AE36E-5E72-4615-884D-A29D6D5A9775.jpeg>
+[2026-07-25 19:47] Beiberr: Hold up cause it’s not up
+  ...
+[2026-07-25 19:49] Kartik Work: Instantly
+[2026-07-25 19:49] Kartik Work: Crypto
+[2026-07-25 19:49] Kartik Work: Usdt eth
+[2026-07-25 19:49] Kartik Work: Here
+[2026-07-25 19:49] Beiberr: Zelle no crypto
+[2026-07-25 19:49] Beiberr: I’m collecting funds hold up
+  ...
+[2026-07-25 19:50] Kartik Work: Tell all ur clients
+[2026-07-25 19:50] Kartik Work: Keep crypto readh
+[2026-07-25 19:50] Kartik Work: Derrek is not available
+  ...
+[2026-07-25 19:50] Kartik Work: So it’s gonna be a problem
+[2026-07-25 19:50] Beiberr: I’ll trade for crypto
+[2026-07-25 19:50] Kartik Work: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/b1/01/at_0_741211FA-0435-4496-BE7A-6DC7EF541717/IMG_3414.jpeg>
+[2026-07-25 19:50] Kartik Work: Nigga
+  ...
+[2026-07-25 19:55] Kartik Work: Ok nigga have it prepared
+[2026-07-25 19:56] Beiberr: How much do I owe
+[2026-07-25 19:56] Beiberr: lmk rn
+[2026-07-25 19:56] Kartik Work: Bro what did u quotw
+[2026-07-25 19:56] Kartik Work: I told u 4k
+[2026-07-25 19:56] Kartik Work: For me
+  ...
+[2026-07-25 19:57] Beiberr: No it wasn’t
+[2026-07-25 19:57] Beiberr: Derek said 3.5k
+[2026-07-25 19:58] Beiberr: Let me slide night
+  ...
+[2026-07-25 20:03] Beiberr: I got gro unban tmr
+[2026-07-25 20:17] Beiberr: Send USDT ERC20
+[2026-07-25 20:17] Beiberr: Received
+[2026-07-25 20:18] Beiberr: ￼
+      <IMG OK: /Users/locklyjailbreak/Library/Messages/StickerCache/b4164c11610efa5a-FBC585CC-1EDA-4616-86C9-4A6B8ADB9D3A/FBC585CC-1EDA-4616-86C9-4A6B8ADB9D3A.heic>
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/41/01/at_0_227E3C97-FF3C-4CDC-8DF8-CDE86D1B4E1F/FBC585CC-1EDA-4616-86C9-4A6B8ADB9D3A.png>
+[2026-07-25 20:18] Kartik Work: Stop spamming bro
+  ...
+[2026-07-25 20:18] Kartik Work: What’s up
+[2026-07-25 20:18] Beiberr: Send USDT ERC 20
+[2026-07-25 20:18] Beiberr: Receive
+[2026-07-25 20:18] Beiberr: $3500 sending rn
+[2026-07-25 20:19] Beiberr: Send the receive wallet
+  ...
+[2026-07-25 20:19] Kartik Work: 0x1Ff3e577eb4010cbB5113Cf957C219a1B6Ff19F2
+[2026-07-25 20:19] Kartik Work: USDT ETH
+[2026-07-25 20:19] Kartik Work: 4k
+[2026-07-25 20:19] Beiberr: $3500
+[2026-07-25 20:19] Beiberr: Make sure u got the $1
+[2026-07-25 20:20] Beiberr: I got volume nigga
+[2026-07-25 20:20] Beiberr: I sent a test $1
+[2026-07-25 20:21] Beiberr: …
+  ...
+[2026-07-25 20:22] Kartik Work: Send
+[2026-07-25 20:23] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/d5/05/at_0_6928C5D7-CFBB-4F00-8773-7FF03493C529/IMG_2433.png>
+[2026-07-25 20:24] Beiberr: Sent nigga
+[2026-07-25 20:24] Beiberr: 🐐🐐🐐🐐
+[2026-07-25 20:24] Beiberr: ￼
+      <IMG OK: /Users/locklyjailbreak/Library/Messages/StickerCache/b4164c11610efa5a-FBC585CC-1EDA-4616-86C9-4A6B8ADB9D3A/FBC585CC-1EDA-4616-86C9-4A6B8ADB9D3A.heic>
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/00/00/at_0_E5D25B89-B15B-4FC7-A628-7B4DC389A19F/FBC585CC-1EDA-4616-86C9-4A6B8ADB9D3A.png>
+[2026-07-25 20:24] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/06/06/at_0_EF6012BC-F49B-47E6-BDA1-E2B70E61F13D/IMG_2423.jpeg>
+[2026-07-25 20:41] Beiberr: Thank you guys again I know I’m the most professional person to work with. :)
+  ...
+[2026-07-25 21:09] Kartik Work: 🤣
+[2026-07-25 21:09] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/2e/14/at_0_6DAEA35C-DBEA-46EE-9A4B-F2450CD3D199/IMG_2406.jpeg>
+[2026-07-25 21:09] Kartik Work: Ok now stip this
+[2026-07-25 21:10] Beiberr: Dude it’s my thing for the week
+[2026-07-25 21:10] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/fa/10/at_0_E4C353DE-4745-46FD-8B0A-17F1AAF67C88/IMG_7848.heic>
+[2026-07-25 21:10] Beiberr: Lmk how much on this case please it’s an unban
+[2026-07-25 21:11] Beiberr: This is a permanent ban so same price 3.5k
+[2026-07-25 21:18] DEREK: Correct let me know if you need me to submit it
+  ...
+[2026-07-25 21:53] Beiberr: Will tell u soon
+[2026-07-26 00:04] Beiberr: Give me price on this please
+[2026-07-26 00:07] DEREK: You know what beiber I’m feeling lucky you choose the price
+[2026-07-26 00:08] Beiberr: $5
+[2026-07-26 00:08] DEREK: Be realistic
+[2026-07-26 00:08] DEREK: I want you to grind out this next week
+[2026-07-26 00:08] Beiberr: $1500
+[2026-07-26 00:08] DEREK: Done
+  ...
+[2026-07-26 00:10] DEREK: I can do 1500 a piece
+[2026-07-26 00:10] DEREK: Pay after I have a different Rep Jack handling
+[2026-07-26 00:10] Beiberr: Sounds good
+  ...
+[2026-07-26 00:11] Beiberr: No I don’t like using him
+[2026-07-26 00:11] Beiberr: He owes me $300 in sol
+[2026-07-26 00:11] DEREK: Just make sure we get any bigger cases like cyber security
+[2026-07-26 00:11] Beiberr: And he’s not pay after
+[2026-07-26 00:12] DEREK: Or GTU bans
+  ...
+[2026-07-26 00:26] DEREK: Hundred percent
+[2026-07-26 00:27] Kartik Work: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/a4/04/at_0_15F45B08-3D31-4A97-AC7A-85759D230284/IMG_3429.PNG>
+[2026-07-26 00:27] Kartik Work: 🤠🤠🤠🤪🤪🤪😘🥵😏🤪😔🤪😒🐐🤣🤪🫡🤪👀🤪
+  ...
+[2026-07-26 01:05] Beiberr: I’m fr or it’s gonbebadmynigga
+[2026-07-26 01:05] Beiberr: Let’s go for 10k rev tmr nigga
+[2026-07-26 01:05] Beiberr: 20k rev by weds
+[2026-07-26 01:11] Beiberr: Laughed at “Goodnight ”
+  ...
+[2026-07-26 17:48] Kartik Work: Suspended i can
+[2026-07-26 17:48] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/84/04/at_0_4C8260D0-6276-4230-A129-B540C302AD1E/IMG_2256.PNG>
+[2026-07-26 17:48] Beiberr: He was making like 70 K in a week off his Facebook page and he needs it back
+[2026-07-26 17:49] Kartik Work: Ok i got it
+  ...
+[2026-07-26 17:52] Beiberr: Can you do it 100%?
+[2026-07-26 17:53] Kartik Work: U pay after fag
+[2026-07-26 17:53] Kartik Work: Fuck u worried about
+[2026-07-26 17:53] Beiberr: OK, can we do it tomorrow?
+[2026-07-26 17:56] Kartik Work: No
+[2026-07-26 17:58] Beiberr: Ok well what if you get it fixed and he doesn’t pay me igbbmn
+[2026-07-26 18:00] Kartik Work: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/40/00/at_0_4950C75C-9DFC-462C-AAFF-95F643DEFEBB/IMG_2563.jpeg>
+[2026-07-26 18:01] Beiberr: Loved an image
+  ...
+[2026-07-26 18:18] Beiberr: ^
+[2026-07-26 18:18] Beiberr: Let me know on fraud and deception
+[2026-07-26 18:19] Beiberr: It’s like I’m talking to myself
+  ...
+[2026-07-26 18:37] Kartik Work: Bro send case
+[2026-07-26 18:39] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/bb/11/at_0_D35CAEF4-7D47-4960-B206-573D758E6223/F6AAD625-2017-422F-A47B-C22E8A000EC3.PNG>
+[2026-07-26 18:40] Beiberr: Igu
+  ...
+[2026-07-26 19:08] Beiberr: @sysqo
+[2026-07-26 19:08] DEREK: I do $4500
+[2026-07-26 19:08] DEREK: 1-10 day TAT
+[2026-07-26 19:09] Beiberr: I need username claim @sysqo Instagram
+[2026-07-26 19:12] Beiberr: ￼￼￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/fb/11/at_0_F76F4E33-9C2A-4DD6-882B-54C3B9313BEF/IMG_5001.PNG>
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/fc/12/at_1_F76F4E33-9C2A-4DD6-882B-54C3B9313BEF/IMG_4999.PNG>
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/fd/13/at_2_F76F4E33-9C2A-4DD6-882B-54C3B9313BEF/IMG_4995.JPG>
+[2026-07-26 19:13] DEREK: Don’t have this but I can submit the TikTok
+[2026-07-26 19:13] DEREK: Pay after though
+[2026-07-26 19:22] Beiberr: Let me confirm
+[2026-07-26 19:22] DEREK: Kk
+[2026-07-26 19:22] Beiberr: I can collect $ 1st and I’ll just send it 2 u
+[2026-07-26 19:23] Beiberr: R u doing it through a TT agency
+[2026-07-26 19:23] DEREK: No lol
+[2026-07-26 19:23] DEREK: I don’t need till pay after
+[2026-07-26 19:24] DEREK: Unless you nervous
+[2026-07-26 19:24] DEREK: He won’t pay
+[2026-07-26 19:28] Beiberr: It’s a girl paying
+[2026-07-26 19:28] Beiberr: So yea
+[2026-07-26 19:29] DEREK: Hahah
+[2026-07-26 19:29] Kartik Work: Girls scam less
+[2026-07-26 19:29] Kartik Work: Per our experience
+[2026-07-26 20:59] Beiberr: Depends
+[2026-07-27 01:30] Beiberr: ￼@ripmechanicalbrilliance
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/0b/11/at_0_824082AA-785A-49CC-A46D-676DAFABA3AD/IMG_2496.PNG>
+[2026-07-27 01:30] Beiberr: TikTok unban
+  ...
+[2026-07-27 02:00] Kartik Work: Send details here
+[2026-07-27 02:00] Beiberr: I’m quoting down payments on cars
+[2026-07-27 02:20] DEREK: 1-7
+  ...
+[2026-07-27 05:02] Beiberr: Nope
+[2026-07-27 05:26] DEREK: Any Reason $2500 next 24 hrs
+[2026-07-27 05:26] DEREK: It’s gonna go back to $3000 after cause this rep gonna be fired
+[2026-07-27 05:27] Beiberr: ^
+  ...
+[2026-07-27 05:31] Beiberr: Can we do fb ?
+[2026-07-27 05:33] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/de/14/at_0_4072F22B-6F5C-4C4E-9E95-50C859AE426E/22b33ef5-b1de-4791-ad12-139a6abc1601.JPG>
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/df/15/at_1_4072F22B-6F5C-4C4E-9E95-50C859AE426E/IMG_7683.PNG>
+[2026-07-27 05:34] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/c4/04/at_0_A92B053F-4719-4DAF-A3F0-B08902D47859/1d632993-7518-446d-873e-0246cbb744ce.JPG>
+[2026-07-27 05:34] Beiberr: 3 accounts derek
+  ...
+[2026-07-27 05:36] Beiberr: ^
+[2026-07-27 05:36] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/fc/12/at_0_6B9A8225-BE90-40B7-8CB9-A75EAAE9847A/b8c12485-96af-4fbc-ae83-9bb9e2e11ca6.JPG>
+[2026-07-27 05:37] Kartik Work: Username
+  ...
+[2026-07-27 05:39] Kartik Work: 2
+[2026-07-27 05:39] Kartik Work: 3???
+[2026-07-27 05:40] Beiberr: ￼dmv.resellers
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/e8/08/at_0_4DEA6D9C-4FAD-44A3-B14C-5646E91070C1/IMG_2512.PNG>
+[2026-07-27 05:42] DEREK: Bet
+  ...
+[2026-07-27 05:43] Kartik Work: Get of yerks
+[2026-07-27 05:43] Kartik Work: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/d5/05/at_0_C6DA8D3F-4507-4668-B7DE-328149858C4A/IMG_3559.PNG>
+[2026-07-27 05:45] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/fc/12/at_0_7917BE0E-00B5-4B27-B20C-E7BBAFCA75B2/lyrics_share_image.png>
+[2026-07-27 05:45] Beiberr: https://music.youtube.com/watch?v=YnLP6r5e4Yc&si=1al5EYnWgNgoTsCI
+      <IMG MISSING non-image: /Users/locklyjailbreak/Library/Messages/Attachments/1e/14/at_1_E33FBF9E-3C70-4DF1-BB69-E3549AD3B9D6/CCA4085C-790D-4BFA-89EC-CA9F876877ED.pluginPayloadAttachment>
+      <IMG MISSING non-image: /Users/locklyjailbreak/Library/Messages/Attachments/1d/13/at_0_E33FBF9E-3C70-4DF1-BB69-E3549AD3B9D6/37B3958A-B4D5-433C-8611-C69306B27979.pluginPayloadAttachment>
+[2026-07-27 05:45] Beiberr: Thanks 🙏
+  ...
+[2026-07-27 05:47] Beiberr: I don’t want to get a call saying IGBBMN
+[2026-07-27 05:47] Beiberr: ￼
+      <IMG OK: /Users/locklyjailbreak/Library/Messages/StickerCache/b4164c11610efa5a-FBC585CC-1EDA-4616-86C9-4A6B8ADB9D3A/FBC585CC-1EDA-4616-86C9-4A6B8ADB9D3A.heic>
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/d8/08/at_0_7A4A0FBA-2C3A-4560-BCBE-4619226830BC/FBC585CC-1EDA-4616-86C9-4A6B8ADB9D3A.png>
+[2026-07-27 05:48] Kartik Work: Get crypto
+[2026-07-27 05:49] Beiberr: I asked for TAT
+[2026-07-27 05:49] Beiberr: Crypto Ik
+[2026-07-27 05:49] Beiberr: I get charged a 6% fee
+[2026-07-27 05:49] Kartik Work: Idgaf
+  ...
+[2026-07-27 05:50] Beiberr: Lmk TAT
+[2026-07-27 05:50] Kartik Work: Tell them to prepare crypto soon as you get a case
+[2026-07-27 05:50] Beiberr: ￼
+      <IMG OK: /Users/locklyjailbreak/Library/Messages/StickerCache/b4164c11610efa5a-FBC585CC-1EDA-4616-86C9-4A6B8ADB9D3A/FBC585CC-1EDA-4616-86C9-4A6B8ADB9D3A.heic>
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/0f/15/at_0_CCA333BC-1E4F-44DF-BDF8-2851E8F20A77/FBC585CC-1EDA-4616-86C9-4A6B8ADB9D3A.png>
+[2026-07-27 05:50] Kartik Work: And u won’t have ti do it last minute
+[2026-07-27 05:53] Beiberr: One guys sending me wire One guys sending me Zelle & crypto so I’ll have money on hand alright nigga
+[2026-07-27 05:53] Kartik Work: Bro
+  ...
+[2026-07-27 05:53] Kartik Work: No nigga
+[2026-07-27 05:53] Kartik Work: I have to clear payment right away
+[2026-07-27 05:53] Kartik Work: For us to continue the remaining cases
+[2026-07-27 05:53] Kartik Work: And u always got this shit
+[2026-07-27 05:53] Beiberr: Okay I can ask my Zelle to crypto guy asap
+[2026-07-27 06:22] Beiberr: ^
+  ...
+[2026-07-27 06:29] Beiberr: I need 3
+[2026-07-27 06:29] Beiberr: Get me good price
+[2026-07-27 07:50] Beiberr: how much for TikTok ban
+[2026-07-27 07:50] Beiberr: https://tiktok.com/@calvinlyman
+      <IMG MISSING non-image: /Users/locklyjailbreak/Library/Messages/Attachments/6a/10/F7837211-62B3-40D2-90D7-F3E1138855A6/0E13E4D6-5A79-49ED-A930-D656C5D3728D.pluginPayloadAttachment>
+      <IMG OK non-image: /Users/locklyjailbreak/Library/Messages/Attachments/de/14/001AA944-7780-4F67-AE98-E9D80A4380CA/43E46C52-646F-4034-86C5-F6BE7D5814F3.pluginPayloadAttachment>
+      <IMG MISSING non-image: /Users/locklyjailbreak/Library/Messages/Attachments/e7/07/at_1_D32E5362-D96F-474D-B40F-3EF5EA1F9520/7AB799E8-C73E-467B-9976-4949496BFD68.pluginPayloadAttachment>
+[2026-07-27 10:58] Kartik Work: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/b9/09/at_0_AB38888C-97C8-4449-A5E1-68553D42E460/IMG_3593.jpeg>
+[2026-07-27 10:58] Kartik Work: Collect payments fuck nigga
+[2026-07-27 14:50] Beiberr: K I just woke up
+  ...
+[2026-07-27 15:24] Beiberr: When I click links
+[2026-07-27 15:24] Kartik Work: U didn’t send me crypto in time
+[2026-07-27 15:24] Kartik Work: I said i don’t have it
+  ...
+[2026-07-27 15:24] Kartik Work: U see how it works
+[2026-07-27 15:25] Kartik Work: Get the payment to me now
+[2026-07-27 15:25] Kartik Work: Ill have them both back up and running
+  ...
+[2026-07-27 15:26] Beiberr: He’s not even awake
+[2026-07-27 15:26] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/f1/01/at_0_358BF4C9-7C7B-45E3-B099-97B78FEE8233/IMG_2523.PNG>
+[2026-07-27 15:26] Kartik Work: Wait let me go tell them reps
+  ...
+[2026-07-27 15:27] Beiberr: okay bro I was asleep tho
+[2026-07-27 15:27] Kartik Work: Payment within hour or this happens
+[2026-07-27 15:27] Kartik Work: I was covering your ass so u thought shit was sweet
+[2026-07-27 15:27] Kartik Work: I didn’t pay this time
+[2026-07-27 15:27] Kartik Work: See what happens
+  ...
+[2026-07-27 15:28] Beiberr: Like my nigga I went to bed at 4 am
+[2026-07-27 15:28] Kartik Work: Send payment
+[2026-07-27 15:28] Beiberr: How
+  ...
+[2026-07-27 15:28] Beiberr: U just sounds dumb atp
+[2026-07-27 15:42] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/e8/08/at_0_4A18A99A-BCE7-4779-9F70-C06A198259FB/80685971559__2B3E03AF-1D16-4110-B8C1-0B3E614B9C7A.heic>
+[2026-07-27 15:42] Beiberr: Kartik thanks to you
+[2026-07-27 16:07] Beiberr: ￼Yo I got a free 5k submit
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/fe/14/at_0_0658CC0F-20EB-4C88-BC8C-4F9A81548D9D/IMG_2528.PNG>
+[2026-07-27 20:11] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/f9/09/at_0_A2360FF4-2C71-4CB8-ACB0-9271346FAFFF/IMG_9399.png>
+[2026-07-27 20:11] Beiberr: Account integrity
+  ...
+[2026-07-31 14:49] Beiberr: For what?
+[2026-07-31 14:49] Kartik Work: Or make the payment for them
+[2026-07-31 14:49] Kartik Work: The 2 accounts we recovered
+  ...
+[2026-07-31 14:53] Kartik Work: From now on
+[2026-07-31 14:53] Kartik Work: No more pay after for u
+[2026-07-31 14:56] Beiberr: Nigga
+  ...
+[2026-07-31 14:57] Beiberr: U just sound stupid
+[2026-07-31 14:57] Kartik Work: ￼
+      <IMG OK non-image: /Users/locklyjailbreak/Library/Messages/Attachments/e9/09/417CE452-8DFD-4DFA-ACCC-38AA94E1A666/Audio Message.caf>
+[2026-07-31 18:54] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/1c/12/at_0_EB1BEBF6-4FD4-415C-9AEF-4C6324CC54C3/IMG_2670.PNG>
+[2026-07-31 18:55] Beiberr: This guy told me to submit after he will send payment he’s being an ass and I’m moving
+[2026-07-31 18:55] Beiberr: So if I don’t communicate sorry
+[2026-07-31 19:03] Kartik Work: That’s on you beiber
+[2026-07-31 20:55] Kartik Work: This is exactly why I told you to put me in the group with the clients and tell me whatever you wanna charge them on top. I’ll include your price because you’re not capable of recovering the money or confirming with the client before submitting a case and now …
+[2026-07-31 20:56] Kartik Work: Not tell me what solution do you have for this or how do you plan on paying me because i sent the money to rep
+[2026-07-31 20:56] Beiberr: I’m just a girl
+  ...
+[2026-07-31 21:02] Beiberr: I ain’t tryna get punched in the face at boxer so lmk up on me and just give the addys to derek
+[2026-07-31 21:03] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/c8/08/at_0_3231B76D-950B-425E-9A8B-FAE99139D423/IMG_2685.png>
+[2026-07-31 21:03] DEREK: Emphasized an image
+[2026-07-31 21:03] Beiberr: I’m only giving 40 btw so yall can split them and there for free nigga
+[2026-07-31 21:04] DEREK: Laughed at “I ain’t tryna get punched in the face at boxer so lmk up on me and just give the addys to derek ”
+[2026-07-31 21:04] Kartik Work: Bro u owe me the addys for reta
+[2026-07-31 21:04] Kartik Work: Remember that
+[2026-07-31 21:05] Beiberr: I’m giving u 20 for free
+[2026-07-31 21:05] Beiberr: Clean nice ones
+  ...
+[2026-07-31 21:06] Beiberr: I gotta make solar sales and crack up during the day
+[2026-07-31 21:07] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/ee/14/at_0_9E603402-C27F-4CCA-8DBD-424144DB97ED/80722484863__082B7EDC-FF1A-405F-9722-19F4C685CBFE.heic>
+[2026-07-31 21:07] Beiberr: This lady was arguing with the tree this morning she had to much crack kartik
+[2026-07-31 21:10] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/b0/00/at_0_07635591-A468-43C8-AC5C-A278F728832E/IMG_2687.png>
+[2026-07-31 21:11] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/f3/03/at_0_756DBC43-F367-4C93-AD18-91B2DE0EB6F0/tmp.gif>
+[2026-07-31 21:21] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/ef/15/at_0_3C175977-CCA8-400F-BD32-AC3DD3373E7F/IMG_2689.PNG>
+[2026-07-31 21:36] DEREK: Das what I’m fuckin talkin bout
+[2026-07-31 21:36] Kartik Work: Stay out
+[2026-07-31 21:40] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/d1/01/at_0_BC58E3D8-3042-455F-9CA9-EF520259862F/IMG_7893.JPEG>
+[2026-07-31 21:41] Beiberr: Let me know asap $$$
+  ...
+[2026-07-31 21:41] Kartik Work: Letting u know
+[2026-07-31 21:41] Kartik Work: Clear balance first
+[2026-07-31 21:41] Beiberr: Nigga I can’t clear that till he send the $$
+  ...
+[2026-07-31 21:42] Beiberr: Wym how
+[2026-07-31 21:42] Kartik Work: How the fuck is that my problem
+[2026-07-31 21:42] Beiberr: It’s not he’s gonna send the money once he leaves Dominican Republic
+  ...
+[2026-07-31 21:56] Beiberr: Yes nigga
+[2026-08-01 03:18] Beiberr: ￼
+      <IMG OK: /Users/locklyjailbreak/Library/Messages/StickerCache/b4164c11610efa5a-FBC585CC-1EDA-4616-86C9-4A6B8ADB9D3A/FBC585CC-1EDA-4616-86C9-4A6B8ADB9D3A.heic>
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/a7/07/at_0_486DA771-14F0-40E2-A7BB-7E0440999736/FBC585CC-1EDA-4616-86C9-4A6B8ADB9D3A.png>
+[2026-08-01 03:18] Beiberr: So yall are back together
+  ...
+[2026-08-01 03:20] Beiberr: I actually told derrek to get back together with u ur just special and need some training
+[2026-08-01 03:21] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/20/00/at_0_EDFFBB6E-9A3C-4B64-8E2E-06F42358B8E7/80724726882__D0A237D9-27C8-4977-A158-08ABF3A41CA3.heic>
+[2026-08-01 03:21] Beiberr: I got star link in the crib pussy
+  ...
+[2026-08-02 17:54] DEREK: On it
+[2026-08-02 18:16] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/9b/11/at_0_31D38037-6D63-4FB8-8374-2210DD284A2C/80738667085__0FDE144E-9770-4562-AFEE-77E627A02145.heic>
+[2026-08-02 18:16] Beiberr: Thanks bb
+  ...
+[2026-08-02 18:50] DEREK: Laughed at “Nigga”
+[2026-08-02 19:12] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/fb/11/at_0_AFD5E037-8CF7-473B-860E-8FE8B5253E79/80739071336__90FF2923-9D06-491C-80B6-71F6C9534BC2.heic>
+[2026-08-02 19:12] Beiberr: Meow
+[2026-08-02 19:12] Kartik Work: 30 here fn
+[2026-08-02 19:15] DEREK: SHEEEEEESH
+[2026-08-02 19:44] Beiberr: Derek I’m fr on Coochies page
+[2026-08-02 19:44] Beiberr: We got 2 do 2 of them
+[2026-08-02 23:56] Kartik Work: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/01/01/at_0_4435DD6F-AA86-4BBE-BE92-6D55512C0AF8/IMG_3997.jpeg>
+[2026-08-02 23:58] Beiberr: I’m on it
+[2026-08-02 23:58] Beiberr: Let me collect
+[2026-08-03 00:03] Beiberr: Gentleman
+[2026-08-03 00:11] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/c1/01/at_0_89CA9163-77D8-4E2A-A627-848D6B9001E4/RenderedImage.jpeg>
+[2026-08-03 00:11] Beiberr: He’s sending wire
+[2026-08-03 03:39] Beiberr: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/91/01/at_0_B9322628-7C49-4501-A49E-5081922FF884/Screenshot 2026-08-03 at 7.23.01 AM.PNG>
+[2026-08-03 03:39] Beiberr: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/b2/02/at_0_000572A5-0959-44DF-B942-C14BF3D0D5A3/IMG_2862.PNG>
+[2026-08-03 03:39] Beiberr: Huh
+[2026-08-03 08:38] Kartik Work: Bro
+[2026-08-03 08:38] Kartik Work: Fuck going om
+[2026-08-03 08:38] Kartik Work: I told u we need crypto
+[2026-08-03 08:38] Kartik Work: Rep blowing my phone
+[2026-08-03 13:58] Kartik Work: Yo
+[2026-08-03 13:58] Kartik Work: Derrek did u receive wire
+[2026-08-03 13:59] Kartik Work: Derrek
+[2026-08-03 13:59] Kartik Work: !
+[2026-08-03 13:59] DEREK: Yo
+[2026-08-03 14:00] DEREK: That’s not my account he wired to beiber
+[2026-08-03 14:00] DEREK: I did not receive
+[2026-08-03 14:00] DEREK: Lemme get crypto to cover
+[2026-08-03 14:00] DEREK: Standby
+[2026-08-05 16:28] Kartik Work: Yo

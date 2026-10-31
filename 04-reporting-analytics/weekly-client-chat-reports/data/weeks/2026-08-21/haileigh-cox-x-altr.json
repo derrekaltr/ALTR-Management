@@ -1,0 +1,216 @@
+{
+  "client": "Haileigh Cox",
+  "slug": "haileigh-cox-x-altr",
+  "week_ending": "2026-08-21",
+  "summary": "The silence broke, but ALTR broke it, not her. Stephski's 8/14 pre-invoice nudge and 8/15 Aug 1-14 invoice were the first contact; Hailey came back on 8/18 after 14 days quiet (last word before that was 'Wire sent!' on 8/4). She returned with two things at once: a forwarded fan screenshot ('Hi! Just got this') and confusion about the invoice, because Stephski's 8/15 message announced yet another change - 'Please note an update to the account number' - only six weeks after the 7/1 BofA switch that was billed as 'last change I promise!'. Her direct question, 'Do i wire it over to the same place i sent last month?', went unanswered by Stephski for the rest of the week. Mayson tagged '@stephskiii ^' twice (8/19 and 8/20), promised 'I'll get you an answer shortly' at 3:35am on 8/19, and Hailey still had to re-ask on 8/20 before Derrek finally answered 'yes / thats fine' - roughly 50 hours after she asked, and in direct contradiction of the written instruction on the invoice. She wired that same afternoon, 5 days after invoice, inside the 7-day terms and technically not late - but she was told to use the OLD account by the owner after being told in writing to use the NEW one, so receipt of those funds needs verifying before this is called clean. The 7/29 shadowban request was never answered: Vivek's 'Sure share login' on 7/29 is still the last word on it, nobody chased her for the login, and it is now 23 days open. Vivek has posted exactly one message in the 750-message history. Derrek's 8/1 promise of 'plenty of updates starting next week' on the $40k phone farm is now 20 days old with nothing posted. The one clean save of the week was Ronnie, who closed her forwarded fan issue in seven hours.",
+  "health": {
+    "score": 65,
+    "trend": "down",
+    "rationale": "Down from 68 despite the client re-engaging and paying inside terms, because the week produced a live, in-window re-enactment of her single most-documented complaint - and this time on money. She asked a direct payment question on 8/18 and did not get an answer for ~50 hours, needing two internal '@stephskiii ^' tags and a re-ask before the owner stepped in; that is exactly the 'no one ever responds when i send them here' behaviour she named on 4/22. The answer she got ('yes / thats fine' - send to last month's account) also contradicts the invoice instruction to use an updated account number, so the payment is unconfirmed rather than settled. Meanwhile the 7/29 shadowban ask crossed 23 days untouched with zero chases, and Derrek's phone-farm update is 20 days past his own promise. Credit where due: she is talking again, the wire went out, Ronnie handled the fan escalation same-day and leak-removal shipped on schedule - which is why this is a 3-point slip and not a collapse."
+  },
+  "reminders": [
+    {
+      "employee": "Stephski",
+      "topic": "Which bank account to wire the Aug 1-14 payment to after the invoice announced an account-number change",
+      "count": 4,
+      "first_asked": "2026-08-18",
+      "answered_by": "Derrek (not Stephski), 2026-08-20 14:48, ~50 hours after the first ask",
+      "quotes": [
+        {"quote": "Hi hun! Hope you had a great week. Below is your invoice for the period of August 1st-14th. Please note an update to the account number, please try and send using the information on the invoice. Have also attached updated Zelle info that should be easy to use now. Thanks so much!💘", "who": "Stephski", "date": "2026-08-15"},
+        {"quote": "Hi! I’m confused. Do i wire it over to the same place i sent last month?", "who": "Hailey Client", "date": "2026-08-18"},
+        {"quote": "@stephskiii ^", "who": "Mayson", "date": "2026-08-19"},
+        {"quote": "@stephskiii ^", "who": "Mayson", "date": "2026-08-20"},
+        {"quote": "I’m just going to send it to the one i sent it to last month?", "who": "Hailey Client", "date": "2026-08-20"},
+        {"quote": "yes", "who": "Derrek", "date": "2026-08-20"},
+        {"quote": "thats fine", "who": "Derrek", "date": "2026-08-20"}
+      ]
+    },
+    {
+      "employee": "Noah",
+      "topic": "Fan/OF escalations that Hailey forwards into the chat - Mayson has to @-tag him to get them picked up, and he did not answer the tag either time",
+      "count": 2,
+      "first_asked": "2026-06-22",
+      "note": "Recurring routing gap rather than a one-off. On 6/22 Mayson tagged him on the $7,593 chargeback thread and Noah replied only after several client messages; on 8/18 he did not reply at all and Ronnie covered it 7 hours later. Works out in practice, but only because someone else notices.",
+      "quotes": [
+        {"quote": "@natehei ^^", "who": "Mayson", "date": "2026-06-22"},
+        {"quote": "@natehei ^", "who": "Mayson", "date": "2026-08-18"},
+        {"quote": "Hey Haleigh! I got this taken care of we are gonna get him whatever is needed to make sure he is satisfied.", "who": "Ronnie", "date": "2026-08-18"}
+      ]
+    }
+  ],
+  "complaints": [
+    {
+      "issue": "Suspected IG shadowban / follower loss on her main account - still completely unanswered. She raised it on 7/29 the minute Vivek was introduced as the Meta Support Rep. Vivek replied 'Sure share login' and that is still the last word in the thread: she never posted the login, and in 23 days nobody from ALTR has chased her for it or mentioned it again. Vivek has sent exactly one message in the entire 750-message chat history. This is the oldest live account-safety item on the account and it sits on top of her #1 stated priority.",
+      "status": "recurring",
+      "first_raised": "2026-07-29",
+      "days_open": 23,
+      "owner": "Vivek (Meta Support Rep); escalate to Derrek",
+      "quotes": [
+        {"quote": "Hey Ive added Vivek in here ( @fonta ). He is our Meta Support Rep that will help keep your IG accounts up and safe. If you have any restrictions, shadowbans, or bans.... simply @ him in the chat and he will help.", "who": "Derrek", "date": "2026-07-29"},
+        {"quote": "Amazing!! Thank you!! I do have a question for him actually. My account is losing followers and not gaining. I’m assuming i might have a shadow ban if he could potentially look into it?", "who": "Hailey Client", "date": "2026-07-29"},
+        {"quote": "Sure share login", "who": "Vivek", "date": "2026-07-29"}
+      ]
+    },
+    {
+      "issue": "Slow or absent responses when she asks something directly, with no named point of contact. Complained about it explicitly on 3/22 and again on 4/22 and it was never structurally fixed. This week it happened again in the most sensitive place possible - a payment question. She asked on 8/18 at 12:35, was told an answer was coming, and was still asking the same question 50 hours later on 8/20. Stephski, who sent the invoice, never replied to her at all in the window.",
+      "status": "recurring",
+      "first_raised": "2026-03-22",
+      "days_open": 152,
+      "owner": "unassigned - no account manager since Joseph H left the group in July",
+      "quotes": [
+        {"quote": "Who do I reach out to for general messages here. I feel like every time i reach out it’s either super delayed or just no response at all.", "who": "Hailey Client", "date": "2026-03-22"},
+        {"quote": "Who should i address for these? Cause no one ever responds when i send them here", "who": "Hailey Client", "date": "2026-04-22"},
+        {"quote": "Hi! I’m confused. Do i wire it over to the same place i sent last month?", "who": "Hailey Client", "date": "2026-08-18"},
+        {"quote": "I’ll get you an answer shortly", "who": "Mayson", "date": "2026-08-19"},
+        {"quote": "I’m just going to send it to the one i sent it to last month?", "who": "Hailey Client", "date": "2026-08-20"}
+      ]
+    },
+    {
+      "issue": "Repeated changes to ALTR's banking details keep creating payment friction, and this week they produced a flat contradiction. Details have changed at least four times since April (heads-up 4/15, 'send to the new account instead of the old one' 5/20, Mercury link 6/15, BofA 7/1 sold as 'last change I promise!'), the 7/1 BofA wire address then failed outright on 7/7, and on 8/15 the account number changed again. When she asked which to use, the written instruction (new account number on the invoice) and the owner's verbal answer ('yes / thats fine' to last month's account) pointed in opposite directions.",
+      "status": "recurring",
+      "first_raised": "2026-05-20",
+      "owner": "Stephski (invoicing)",
+      "quotes": [
+        {"quote": "Hi Haleigh we recieved your wire 🙂 just want to double check that next month you send to the new account instead of the old one, the new details are on the invoice ❤️", "who": "Stephski", "date": "2026-05-20"},
+        {"quote": "Want to let you know we have a new bank for you to send to (last change I promise!).", "who": "Stephski", "date": "2026-07-01"},
+        {"quote": "Hi!! The address for the new wire is not working.. idk what to do", "who": "Hailey Client", "date": "2026-07-07"},
+        {"quote": "Please note an update to the account number, please try and send using the information on the invoice.", "who": "Stephski", "date": "2026-08-15"},
+        {"quote": "yes", "who": "Derrek", "date": "2026-08-20"}
+      ]
+    },
+    {
+      "issue": "OnlyFans auto-tagging glitch mass-tagging accounts on her wall posts. Raised 2025-09-08, explained away as a platform bug that 'should resolve soon' and never explicitly confirmed fixed to her. Dormant for months but still formally unclosed; carried forward.",
+      "status": "recurring",
+      "first_raised": "2025-09-08",
+      "days_open": 347,
+      "owner": "unassigned (Joseph H departed 2026-07); reassign",
+      "quotes": [
+        {"quote": "I just noticed on my OF profile page that on every post of me - we are tagging everyone. Can we take that down ASAP", "who": "Hailey Client", "date": "2025-09-08"},
+        {"quote": "Yea the tagging system on OF is completely broken has been for ab the past 30 days but it should resolve soon I believe", "who": "Noah", "date": "2025-09-08"}
+      ]
+    }
+  ],
+  "commitments": [
+    {
+      "what": "Investigate the suspected shadowban / follower loss on her main IG once the login is shared. The blocker - getting the login from her - has still never been chased by anyone. 23 days elapsed, up from 16 last week, and no message about it has been sent in either direction since 7/29.",
+      "who": "Vivek",
+      "date": "2026-07-29",
+      "status": "overdue",
+      "days_overdue": 23,
+      "quotes": [
+        {"quote": "Amazing!! Thank you!! I do have a question for him actually. My account is losing followers and not gaining. I’m assuming i might have a shadow ban if he could potentially look into it?", "who": "Hailey Client", "date": "2026-07-29"},
+        {"quote": "@fonta will assist when hes awake", "who": "Derrek", "date": "2026-07-29"},
+        {"quote": "Sure share login", "who": "Vivek", "date": "2026-07-29"}
+      ]
+    },
+    {
+      "what": "Post the promised progress updates on the $40k phone-farm / Meta-safe IG rollout. 'Next week' meant the week of Aug 3; through 8/21 nothing has been posted, 20 days after the promise and two full weeks past the promised window. She has had no strategic update of any kind since 8/1.",
+      "who": "Derrek",
+      "date": "2026-08-01",
+      "status": "overdue",
+      "days_overdue": 20,
+      "quotes": [
+        {"quote": "We are waiting for a shipment that should land Monday that will be the final piece needed to begin and scale.", "who": "Derrek", "date": "2026-08-01"},
+        {"quote": "Thank you for your understanding, we will have plenty of updates starting next week.", "who": "Derrek", "date": "2026-08-01"}
+      ]
+    },
+    {
+      "what": "Tell her which account to wire the Aug 1-14 invoice to. Mayson committed to a quick answer at 03:35 on 8/19; the answer did not arrive until Derrek replied at 14:48 on 8/20, ~35 hours after that promise and ~50 hours after she first asked. Closed, but slowly and by the wrong person - and the answer contradicts the invoice.",
+      "who": "Mayson (promised); Stephski (owner); answered by Derrek",
+      "date": "2026-08-19",
+      "status": "done",
+      "quotes": [
+        {"quote": "I’ll get you an answer shortly", "who": "Mayson", "date": "2026-08-19"},
+        {"quote": "@stephskiii ^", "who": "Mayson", "date": "2026-08-20"},
+        {"quote": "yes", "who": "Derrek", "date": "2026-08-20"},
+        {"quote": "thats fine", "who": "Derrek", "date": "2026-08-20"}
+      ]
+    },
+    {
+      "what": "Resolve the fan issue she forwarded on 8/18 - Ronnie said he would give the fan whatever he needs. Picked up within 7 hours, which is the fastest turnaround in the window, but no closing confirmation was posted back to her, so treat as open until confirmed.",
+      "who": "Ronnie",
+      "date": "2026-08-18",
+      "status": "pending",
+      "quotes": [
+        {"quote": "Hi! Just got this", "who": "Hailey Client", "date": "2026-08-18"},
+        {"quote": "@natehei ^", "who": "Mayson", "date": "2026-08-18"},
+        {"quote": "Hey Haleigh! I got this taken care of we are gonna get him whatever is needed to make sure he is satisfied.", "who": "Ronnie", "date": "2026-08-18"}
+      ]
+    },
+    {
+      "what": "Pass on to the chat team that she does not want text emoticons (:pppp, xD) used on her wall or in chats. Joseph H said he would forward it and then left the group in July; compliance has never been confirmed back to her. Escalated from pending to overdue - 148 days with no closure.",
+      "who": "Joseph H (departed); chat team",
+      "date": "2026-03-26",
+      "status": "overdue",
+      "days_overdue": 148,
+      "quotes": [
+        {"quote": "Amazing just saw!!!! Btwwww i hate to be annoying but whoever chats and post on my wall can we please please not do those lame ass emoji things :pppp xD .. i use only real emojis and it just isn’t me lol", "who": "Hailey Client", "date": "2026-03-26"},
+        {"quote": "Okay I will forward that message for you", "who": "Joseph H", "date": "2026-03-26"}
+      ]
+    },
+    {
+      "what": "Assign and announce a named account manager / point of contact with a response SLA. Implicitly owed since her 3/22 and 4/22 asks and never delivered; 121 days past the second ask. This week's 50-hour payment-question gap is the direct cost of not having one.",
+      "who": "unassigned",
+      "date": "2026-04-22",
+      "status": "overdue",
+      "days_overdue": 121,
+      "quotes": [
+        {"quote": "Who do I reach out to for general messages here. I feel like every time i reach out it’s either super delayed or just no response at all.", "who": "Hailey Client", "date": "2026-03-22"},
+        {"quote": "Who should i address for these? Cause no one ever responds when i send them here", "who": "Hailey Client", "date": "2026-04-22"}
+      ]
+    }
+  ],
+  "payments": [
+    {
+      "note": "Aug 1-14 invoice sent 8/15, paid 8/20 - 5 days, inside the 7-day terms, so not late. But this was not a clean cycle: the invoice announced an account-number change, she asked twice which account to use, got no reply from Stephski at all, and only sent after Derrek told her on 8/20 to use last month's account - the opposite of the written instruction on the invoice. Two days of her 7-day window were burned waiting on an answer.",
+      "date": "2026-08-20",
+      "late": false,
+      "reason": "Delay caused entirely by ALTR-side ambiguity about banking details, not by her.",
+      "suggested_fix": "Confirm in writing this week that the wire actually landed and in which account. If Derrek's 'yes / thats fine' routed it to a deprecated account, chase it before month-end rather than discovering it on the 9/1 invoice.",
+      "quotes": [
+        {"quote": "Hi love ❤️ just reaching out to remind you that invoicing will start tomorrow 🙏 Please withdraw from OF if needed. Will reach out to you tomorrow!", "who": "Stephski", "date": "2026-08-14"},
+        {"quote": "Please note an update to the account number, please try and send using the information on the invoice.", "who": "Stephski", "date": "2026-08-15"},
+        {"quote": "Just sent it over", "who": "Hailey Client", "date": "2026-08-20"}
+      ]
+    },
+    {
+      "note": "Standing risk: the payment behaviour is fine, the banking administration is not. Details have changed at least four times since April and every single change has cost a cycle - 5/20 'send to the new account instead of the old one', 6/1 and 6/3 reminders, 6/15 Mercury link, 7/1 BofA billed as the last change, 7/7 the new wire address outright failed, 8/15 the account number changed again. She has paid all 24 recorded cycles and only one was ever genuinely late (Oct 2025, IRS levy), so the risk here is misrouted funds and eroded confidence, not unwillingness to pay.",
+      "date": null,
+      "late": false,
+      "reason": "Repeated ALTR banking migrations (Chase/Social Depot -> Mercury -> Bank of America -> updated BofA account number).",
+      "suggested_fix": "Freeze the banking details, put one canonical set on every invoice, and have a single named person answer payment questions within 24 hours. Consider pushing her to the Zelle info attached on 8/15 - it is the lowest-friction rail she has been offered.",
+      "quotes": [
+        {"quote": "Want to let you know we have a new bank for you to send to (last change I promise!).", "who": "Stephski", "date": "2026-07-01"},
+        {"quote": "Hi!! The address for the new wire is not working.. idk what to do", "who": "Hailey Client", "date": "2026-07-07"}
+      ]
+    }
+  ],
+  "client_priorities": [
+    "Main IG account safety above everything else - shadowbans, flagged bio links and banned backups are her most repeated concern across the whole history, and the 7/29 shadowban ask sitting untouched for 23 days is squarely in this lane",
+    "Responsiveness and a clear named point of contact; complained explicitly on 3/22 and 4/22, and this week lived it again on a payment question that took ~50 hours and three chases to answer",
+    "Payment clarity - she pays reliably and fast when she knows where to send it; every friction point in the last four months traces back to ALTR changing banking details",
+    "Revenue protection: chargebacks (a single $7,593 hit in June alarmed her), OF payout timing, and fan complaints she forwards in expecting them to be handled",
+    "Brand voice and control: approving customs before acceptance, no text emoticons from chatters",
+    "Frictionless content submission via shared iPhone albums and Google Drive, never Content Snare"
+  ],
+  "suggestions": [
+    "Verify the 8/20 wire actually landed, and in which account. She was told in writing to use a new account number and verbally to use the old one; a bounced or misrouted wire would be the third banking incident in three months and the first one that costs her real money.",
+    "Close the shadowban loop this week with a direct message asking for the IG login. It is 23 days old, it is her top priority, and the Meta rep introduced to handle exactly this has sent one message ever. Have Derrek send it if Vivek is unresponsive - the point is that she hears from a human, not that the right human sends it.",
+    "Name an account manager and say so out loud in the chat, with a response window. Her 3/22 and 4/22 asks are 152 and 121 days old, and the 50-hour gap on a money question this week is what 'unassigned' costs. Joseph H was her de facto responsive contact and nobody replaced him when he left in July.",
+    "Post the phone-farm rollout update Derrek promised for the week of Aug 3, even if it is just 'shipment slipped, here is where we are'. Twenty days of nothing after a message that detailed is worse than no message at all - she responds very well to proactive transparency.",
+    "Stop changing banking details, or if a change is unavoidable, put the old and new side by side and say explicitly which one to use this cycle. Four changes in four months has trained her to ask before every payment.",
+    "Have Ronnie post the closing confirmation on the 8/18 fan issue. He picked it up in 7 hours, which is the best service moment of the week - not telling her it is done wastes the goodwill."
+  ],
+  "wins": [
+    "She is engaged again: 6 client messages after 14 days of silence, and the tone stayed warm throughout ('Thank you' on 8/19) despite the runaround.",
+    "The Aug 1-14 invoice was paid inside terms - 5 days - keeping a 12-month streak of on-time cycles intact with only one genuinely late payment ever.",
+    "Ronnie turned around the forwarded fan escalation in 7 hours on 8/18, the single fastest and cleanest response in the window.",
+    "Stephski's 8/14 pre-invoice OF-withdrawal reminder did its job - it was the first contact after the lull and set up a payment that landed without a chase message.",
+    "Michelle's leak-removal recap shipped on schedule again on 8/17, keeping the one deliverable that has never missed a week."
+  ],
+  "week_stats": {
+    "messages": 16,
+    "client_messages": 6,
+    "team_messages": 10
+  }
+}

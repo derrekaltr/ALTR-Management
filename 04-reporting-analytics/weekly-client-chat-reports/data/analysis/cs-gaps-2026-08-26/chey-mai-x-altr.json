@@ -1,0 +1,214 @@
+{
+  "client": "Chey Mai",
+  "slug": "chey-mai-x-altr",
+  "status": "at_risk",
+  "status_reason": "Client silent 15 days (since 8/11, when she asked for 4 more days to pay); combined invoice with a changed bank account is 11 days unacknowledged; tonight's chase reads 'please respond asap'; in 65 days her only non-billing message was an IG panic, and she referred Paige, so churn here costs two accounts.",
+  "last_client_message": "2026-08-11",
+  "dimensions": {
+    "responsiveness": {
+      "severity": 2,
+      "internal_failure": "Her PayPal question was acknowledged and never answered (44 days); her 'account is being targeted' alert waited 30 hours despite the chatter's 'always online' promise.",
+      "evidence": [
+        {
+          "quote": "Do you guys have PayPal",
+          "who": "Cheyene Burridge (client)",
+          "date": "2026-07-13"
+        },
+        {
+          "quote": "Let me check on that for you",
+          "who": "Stephski (ALTR billing)",
+          "date": "2026-07-13"
+        },
+        {
+          "quote": "My Cheymai_ account is being targeted now",
+          "who": "Cheyene Burridge (client)",
+          "date": "2026-07-22"
+        }
+      ]
+    },
+    "follow_through": {
+      "severity": 3,
+      "internal_failure": "'Always online… ALWAYS' → 30h lag; 'let me check' → never; owner's 'plenty of updates starting next week' → 25 days of nothing in Promo or Social Media.",
+      "evidence": [
+        {
+          "quote": "I'm always online so I will get a response to your promptly... ALWAYS!!!",
+          "who": "Mayson (ALTR chatter)",
+          "date": "2026-06-22"
+        },
+        {
+          "quote": "Thank you for your understanding, we will have plenty of updates starting next week.",
+          "who": "Derrek (ALTR owner)",
+          "date": "2026-08-01"
+        },
+        {
+          "quote": "Let me check on that for you",
+          "who": "Stephski (ALTR billing)",
+          "date": "2026-07-13"
+        }
+      ]
+    },
+    "proactive_communication": {
+      "severity": 3,
+      "internal_failure": "Since 7/1 every non-templated ALTR message is an invoice or a chase; two 8-day and one 10-day silences; no OF stats, no posting output, no phone-farm restart update. Only recurring service touch is a leak-removal screenshot.",
+      "evidence": [
+        {
+          "quote": "@cheymai1 Hey we're still missing payment 🙂",
+          "who": "Stephski (ALTR billing)",
+          "date": "2026-07-11"
+        },
+        {
+          "quote": "Hi love! Here’s your weekly update on the leak removal breakdown for the past 7 days 💕",
+          "who": "Michelle (ALTR promo)",
+          "date": "2026-08-25"
+        },
+        {
+          "quote": "@cheymai1 Hi love we haven’t heard back from you regarding payment, please respond asap",
+          "who": "Stephski (ALTR billing)",
+          "date": "2026-08-26"
+        }
+      ]
+    },
+    "onboarding_handoff": {
+      "severity": 3,
+      "internal_failure": "Previous-team unlink and start time never confirmed in chat; sales-preferences form never confirmed; no Social Media Director intro or kickoff call at all; reels Drive uploads never confirmed. Onboarding never visibly completed.",
+      "evidence": [
+        {
+          "quote": "@mmayson  can you please coordinate with start time so she can unlink her current team :)",
+          "who": "Eric (ALTR)",
+          "date": "2026-06-22"
+        },
+        {
+          "quote": "@cheymai1 please let me know when you’re previous team can get off so we can assign our team!",
+          "who": "Mayson (ALTR chatter)",
+          "date": "2026-06-23"
+        },
+        {
+          "quote": "When you're able please fill out the form that will give the team everything they need to know about yourself AND the ability to sell in confidence.",
+          "who": "Mayson (ALTR chatter)",
+          "date": "2026-06-22"
+        }
+      ]
+    },
+    "chatter_conduct": {
+      "severity": 1,
+      "internal_failure": "No conduct complaint, but chatters have been selling for 65 days with no in-chat confirmation that her do-not-sell form was ever completed.",
+      "evidence": [
+        {
+          "quote": "Making sure that nothing you DO NOT want sold is ever sold... with that being said here is the form link for the form",
+          "who": "Mayson (ALTR chatter)",
+          "date": "2026-06-22"
+        }
+      ]
+    },
+    "platform_health": {
+      "severity": 2,
+      "internal_failure": "Her main-IG alert got a 30h reply and a three-word triage; Vivek was added as Meta Support 7/29 and has never posted; backup-IG posting paused since late July with no restart date.",
+      "evidence": [
+        {
+          "quote": "Looks all good ⏎ Don’t worry ⏎ The content that needs to be removed you can archive it",
+          "who": "Mayson (ALTR chatter)",
+          "date": "2026-07-23"
+        },
+        {
+          "quote": "He is our Meta Support Rep that will help keep your IG accounts up and safe. If you have any restrictions, shadowbans, or bans.... simply @ him in the chat",
+          "who": "Derrek (ALTR owner)",
+          "date": "2026-07-29"
+        },
+        {
+          "quote": "if you noticed that we may have paused in the last week or so, it is due to us, making sure your accounts are completely secure",
+          "who": "Derrek (ALTR owner)",
+          "date": "2026-08-01"
+        }
+      ]
+    },
+    "billing_ops": {
+      "severity": 3,
+      "internal_failure": "Every invoice needed a chase; PayPal never answered; she misses invoices posted in the topic; pause-in-work threat; balances combined; bank account number changed mid-relationship with no confirmation she saw it; then a 10-day gap before a curt 'respond asap'.",
+      "evidence": [
+        {
+          "quote": "Oh I didn’t even see this was for 2nd of August! I’m so sorry",
+          "who": "Cheyene Burridge (client)",
+          "date": "2026-08-11"
+        },
+        {
+          "quote": "Please note an update to the account number, please try and send using the information on the invoice.",
+          "who": "Stephski (ALTR billing)",
+          "date": "2026-08-15"
+        },
+        {
+          "quote": "please get this paid in a timely manner so we dont have to pause work due to non payment 🙏",
+          "who": "Stephski (ALTR billing)",
+          "date": "2026-08-15"
+        }
+      ]
+    },
+    "ownership_escalation": {
+      "severity": 2,
+      "internal_failure": "IG bounced Mayson → Derrek → Vivek (silent); unlink coordination assigned to Mayson never closed; owner owns the phone-farm restart and went silent; nobody owns the relationship beyond invoicing.",
+      "evidence": [
+        {
+          "quote": "@mmayson  can you please coordinate with start time so she can unlink her current team :)",
+          "who": "Eric (ALTR)",
+          "date": "2026-06-22"
+        },
+        {
+          "quote": "Hey Ive added Vivek in here ( @fonta ).",
+          "who": "Derrek (ALTR owner)",
+          "date": "2026-07-29"
+        }
+      ]
+    },
+    "disengagement_detection": {
+      "severity": 3,
+      "internal_failure": "She broke a same-day-reply pattern on 8/11 and has been silent 15 days; nobody reached out about anything but payment; the only non-billing outbound in that time is templated.",
+      "evidence": [
+        {
+          "quote": "Can you give me 4 more days please I’m just waiting for money to turn over from OF",
+          "who": "Cheyene Burridge (client)",
+          "date": "2026-08-11"
+        },
+        {
+          "quote": "Hey babes! Here’s your weekly update on the leak removal breakdown for the past 7 days 🫶🏼",
+          "who": "Michelle (ALTR promo)",
+          "date": "2026-08-17"
+        },
+        {
+          "quote": "@cheymai1 Hi love we haven’t heard back from you regarding payment, please respond asap",
+          "who": "Stephski (ALTR billing)",
+          "date": "2026-08-26"
+        }
+      ]
+    },
+    "security_hygiene": {
+      "severity": 0,
+      "internal_failure": "No credentials in chat; banking details delivered via invoice PDF.",
+      "evidence": [
+        {
+          "quote": "Located at the bottom of the invoice is all of the wire information.",
+          "who": "Stephski (ALTR billing)",
+          "date": "2026-07-01"
+        }
+      ]
+    }
+  },
+  "metrics": {
+    "client_questions_total": 3,
+    "unanswered_over_24h": 2,
+    "max_team_silence_days": 10,
+    "promises_made": 7,
+    "promises_kept": 3,
+    "promises_lapsed": 4,
+    "method": "Client sent only 7 messages in 65 days; questions = PayPal (7/13), 'being targeted' (7/22), 4-more-days (8/11). Unanswered >24h: PayPal (never), targeted (30h). Team silence = 7/1→7/11. Promises: 'always online', 'let me check', combined invoice, 'reach out tomorrow', weekly leak updates, 'updates starting next week', unlink coordination — kept: combined invoice, tomorrow follow-up, leak updates."
+  },
+  "what_client_wanted": [
+    "A payment rail that fits her: 'Do you guys have PayPal' (2026-07-13); timing tied to her payout: 'I’m just waiting for money to turn over from OF' (2026-08-11)",
+    "Her main IG protected: 'My Cheymai_ account is being targeted now' (2026-07-22)",
+    "To actually see invoices: 'Oh I didn’t even see this was for 2nd of August! I’m so sorry' (2026-08-11)"
+  ],
+  "what_worked": [
+    "No explicit praise in 65 days. Trust moments: Stephski granting the extension within a minute — 'Okay no problem, just a heads up we have another invoice going out in 4 days' (2026-08-11)",
+    "Michelle's leak-removal report is the only cadence that has held (8/10, 8/17, 8/25)",
+    "Reminders do produce payment — 'Paid xx' the morning after the 7/20 nudge (2026-07-21); same-minute IG triage 'Looks all good / Don’t worry' (2026-07-23)"
+  ],
+  "top_fix": "Fix the payment rail and delivery channel before chasing again: answer PayPal, set a due date aligned to her OF payout, DM/tag her on every invoice instead of a topic she doesn't read — and pair every chase with a service update so 'pay' isn't the only thing she hears from us."
+}

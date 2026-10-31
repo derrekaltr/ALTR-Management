@@ -1,0 +1,203 @@
+{
+  "client": "Vale",
+  "slug": "vale-x-altr",
+  "week_ending": "2026-08-14",
+  "summary": "A quiet-volume week (30 messages) with one loud incident. On Aug 11 Vale found that her paid private 1:1 live had been cut up and sold as PPV — including being sent back to the very fan who had paid for the private conversation. That is the fourth time in 26 days she has had to police how her fans are being handled (Jul 17 scam screenshots, Jul 23 chargeback warning, Aug 1 Shayna misrepresentation, Aug 11 private live resold), and for the second week running the fix was a same-shape 'I spoke to him' from Ollie rather than a written rule for her account. The scheduling backlog also failed to move: Ryan's $600 call was pushed to 'early next week' on Aug 8 and never confirmed, John's $1,800 call has now gone two full weeks without a booking despite her offering 'Friday, anytime', and on Aug 9 she was still asking about missing lives and one open custom — she has now supplied her availability five separate times. Two time-sensitive asks went unanswered: her Aug 7 request for fan notes ahead of the Aug 8 11am OF call (never answered at all) and her Aug 8 question about how to run a private live, which sat ~14 hours until Mayson had to tag Ollie — by then she had solved it herself. No invoice fell inside the window, so no payment risk this week. Mood: still constructive and gracious when apologised to, but she is doing the agency's quality control for it.",
+  "health": {
+    "score": 62,
+    "trend": "down",
+    "rationale": "Down from 70 last week. A fourth fan-trust breach in four weeks (her paid private live resold as PPV), zero confirmed movement on ~$3,400+ of paid calls and lives owed to fans since spring, and two unanswered time-sensitive asks. Partly offset by a fast apology, her gracious response, a flawless payment record, and steady delivery from Michelle (DMCA) and Mica (social)."
+  },
+  "reminders": [
+    {
+      "employee": "Ollie Mckinlay",
+      "topic": "Booking her outstanding paid video calls / 1:1 lives and the one open custom — she has now chased this in some form every single week since May 22 and has given her availability five times",
+      "count": 5,
+      "in_window_count": 1,
+      "first_date": "2026-05-22",
+      "last_date": "2026-08-09",
+      "days_outstanding": 84,
+      "quotes": [
+        {"quote": "I think I’m still missing a video call too that we never scheduled", "who": "Vale", "date": "2026-05-22"},
+        {"quote": "Also I think I’m only missing Tyler’s custom and I have some video calls to schedule?", "who": "Vale", "date": "2026-07-18"},
+        {"quote": "Pls let’s get those schedule they’ve been waiting for a minute", "who": "Vale", "date": "2026-07-30"},
+        {"quote": "I think I have more lives to schedule too", "who": "Vale", "date": "2026-08-03"},
+        {"quote": "I think I’m still missing some lives to schedule and that one custom", "who": "Vale", "date": "2026-08-09"},
+        {"quote": "I’m pretty open, I’m cool any day anytime after 3pm", "who": "Vale", "date": "2026-08-09"}
+      ]
+    },
+    {
+      "employee": "Ollie Mckinlay",
+      "topic": "Time-sensitive asks going unanswered — fan prep notes before her Aug 8 OF call (never answered) and how to run a private live for a paying sub (answered ~14 hours later, after she had already solved it herself); Mayson had to @-escalate him twice in four days",
+      "count": 2,
+      "in_window_count": 1,
+      "first_date": "2026-08-07",
+      "last_date": "2026-08-09",
+      "days_outstanding": 7,
+      "quotes": [
+        {"quote": "Can you guys tell me what you have on him on your notes ?", "who": "Vale", "date": "2026-08-07"},
+        {"quote": "So how does that work", "who": "Vale", "date": "2026-08-08"},
+        {"quote": "Sorry just seen this", "who": "Ollie Mckinlay", "date": "2026-08-09"},
+        {"quote": "I figured it out", "who": "Vale", "date": "2026-08-09"},
+        {"quote": "Had to create a list for private live and add that sub", "who": "Vale", "date": "2026-08-09"}
+      ]
+    }
+  ],
+  "complaints": [
+    {
+      "issue": "Her paid private 1:1 live was recorded and resold as PPV — including being sent to the same fan who had paid for that private conversation. She was not made up, it was not a public live, and nothing sexual happened. This is the fourth incident since Jul 17 in the same cluster: chat/PPV staff overstepping with her fans and undermining fan trust.",
+      "status": "recurring",
+      "first_raised": "2026-07-17",
+      "incident_date": "2026-08-11",
+      "owner": "Ollie Mckinlay",
+      "quotes": [
+        {"quote": "Pls no scamming people ☹️", "who": "Vale", "date": "2026-07-17"},
+        {"quote": "I’ve gotten this a couple times now, please be mindful. I don’t wanna deal with crazy chargebacks", "who": "Vale", "date": "2026-07-23"},
+        {"quote": "I don’t want my fans to feel scammed !!!", "who": "Vale", "date": "2026-08-01"},
+        {"quote": "Why is the private live being sent out ?", "who": "Vale", "date": "2026-08-11"},
+        {"quote": "I was literally just talking to the guy, I wasnt even wearing make up. He payed to have a private conversation with me so why is being sold ?", "who": "Vale", "date": "2026-08-11"},
+        {"quote": "And selling the live to the guy that I had the live with", "who": "Vale", "date": "2026-08-11"},
+        {"quote": "Thank you ! If it was a sexy live or something like that I understand but like that live was personal with the guy so like just seems odd to try to sell that, specially cause it wasn’t a public live", "who": "Vale", "date": "2026-08-12"}
+      ]
+    },
+    {
+      "issue": "Paid video calls and 1:1 lives sold months ago are still unscheduled — Ryan ($600) was pushed to 'early next week' on Aug 8 and never confirmed, John ($1,800, 15 min) has gone two weeks since she offered Friday anytime, and she was still flagging missing lives plus one open custom on Aug 9",
+      "status": "recurring",
+      "first_raised": "2026-05-22",
+      "owner": "Ollie Mckinlay",
+      "quotes": [
+        {"quote": "I think I’m still missing a video call too that we never scheduled", "who": "Vale", "date": "2026-05-22"},
+        {"quote": "John we can do Friday ?", "who": "Vale", "date": "2026-08-03"},
+        {"quote": "He wanted to go for early next week i believe", "who": "Ollie Mckinlay", "date": "2026-08-08"},
+        {"quote": "Okay I’m open all week", "who": "Vale", "date": "2026-08-08"},
+        {"quote": "I think I’m still missing some lives to schedule and that one custom", "who": "Vale", "date": "2026-08-09"}
+      ]
+    },
+    {
+      "issue": "Unauthorized girl-girl videos are still in her vault with no confirmation of removal — she raised it Aug 1/2, Ollie said he would tell the team, and nothing has been confirmed back to her in the two weeks since",
+      "status": "recurring",
+      "first_raised": "2026-08-01",
+      "owner": "Ollie Mckinlay",
+      "quotes": [
+        {"quote": "She doesn’t do OF anymore and that video was supposed to be deleted from my vault", "who": "Vale", "date": "2026-08-01"},
+        {"quote": "Yeah the girl girl videos I have are not even supposed to be there", "who": "Vale", "date": "2026-08-02"},
+        {"quote": "Okay thank you will let them know", "who": "Ollie Mckinlay", "date": "2026-08-02"}
+      ]
+    }
+  ],
+  "commitments": [
+    {
+      "what": "Stop the mass-message/PPV specialist from selling her private 1:1 live content — Ollie briefed him the morning after she flagged it",
+      "who": "Ollie Mckinlay",
+      "date": "2026-08-12",
+      "status": "done",
+      "note": "Briefing delivered within ~12 hours, but this is the second week in a row the remedy was a verbal one-to-one with a single staff member; no written rule for her account has been produced or shown to her.",
+      "quotes": [
+        {"quote": "Apologies spoke to the MM PPV specialist for your account and he knows now not to be doing this", "who": "Ollie Mckinlay", "date": "2026-08-12"}
+      ]
+    },
+    {
+      "what": "Schedule her outstanding 1:1 lives 'this week' — Ollie agreed on Aug 9 and took her availability, but nothing was booked or confirmed in chat by week end",
+      "who": "Ollie Mckinlay",
+      "date": "2026-08-09",
+      "status": "pending",
+      "quotes": [
+        {"quote": "yes we can schedule them for this week", "who": "Ollie Mckinlay", "date": "2026-08-09"},
+        {"quote": "what is your availability like?", "who": "Ollie Mckinlay", "date": "2026-08-09"},
+        {"quote": "I’m pretty open, I’m cool any day anytime after 3pm", "who": "Vale", "date": "2026-08-09"}
+      ]
+    },
+    {
+      "what": "Reschedule and complete Ryan's ($600 rave-theme fan) videocall — moved to 'early next week' on Aug 8; she confirmed she was free all week and it was never confirmed as booked or completed",
+      "who": "Ollie Mckinlay",
+      "date": "2026-08-08",
+      "status": "overdue",
+      "quotes": [
+        {"quote": "Ryan rescheduled for tomorrow", "who": "Vale", "date": "2026-08-03"},
+        {"quote": "He wanted to go for early next week i believe", "who": "Ollie Mckinlay", "date": "2026-08-08"},
+        {"quote": "Okay I’m open all week", "who": "Vale", "date": "2026-08-08"}
+      ]
+    },
+    {
+      "what": "Confirm John's ($1,800, 15-minute) videocall — she offered Friday anytime on Aug 3 and has had no booking confirmation in the eleven days since",
+      "who": "Ollie Mckinlay",
+      "date": "2026-08-03",
+      "status": "overdue",
+      "quotes": [
+        {"quote": "John we can do Friday ?", "who": "Vale", "date": "2026-08-03"},
+        {"quote": "Anytime", "who": "Vale", "date": "2026-08-03"}
+      ]
+    },
+    {
+      "what": "Send the sexting-set template and the formal content request promised 'in the morning' on Jul 28 — still not delivered in chat 17 days later, while she is actively refreshing her vault",
+      "who": "Ollie Mckinlay",
+      "date": "2026-07-28",
+      "status": "overdue",
+      "quotes": [
+        {"quote": "I’ll send you a template over in the morning getting 3 good new sexting sets", "who": "Ollie Mckinlay", "date": "2026-07-28"},
+        {"quote": "I’ll get a content request over in the morning", "who": "Ollie Mckinlay", "date": "2026-07-28"}
+      ]
+    },
+    {
+      "what": "Route and follow up on Vale's referral (a creator interested in management) — Vivek tagged @ofwizz on Aug 3 and there has been no visible follow-up to her since",
+      "who": "Vivek",
+      "date": "2026-08-03",
+      "status": "pending",
+      "quotes": [
+        {"quote": "I have a girl interested in management", "who": "Vale", "date": "2026-08-03"},
+        {"quote": "@ofwizz", "who": "Vivek", "date": "2026-08-03"}
+      ]
+    }
+  ],
+  "payments": [
+    {
+      "note": "No invoice was issued or due inside the Aug 8-14 window. The Jul 15-31 invoice was already paid before Stephski's Aug 4 check-in, keeping Vale 8-for-8 on on-time payments since March. No payment risk this week.",
+      "date": null,
+      "late": false,
+      "reason": null,
+      "suggested_fix": "Next invoice (Aug 1-14) lands Aug 15-16 — check the Bank of America account for receipt before nudging her, as she has already paid every time a nudge was sent.",
+      "quotes": []
+    },
+    {
+      "note": "Process gap: Stephski used to send a pre-invoice OF withdrawal reminder (May 13 and Jun 30) so funds land in time. No such reminder went out in this window ahead of the Aug 15 invoice.",
+      "date": "2026-06-30",
+      "late": false,
+      "reason": null,
+      "suggested_fix": "Reinstate the standing 'do your OF withdrawal' nudge on the 13th/14th and 29th/30th — it is the cheapest thing protecting her perfect payment record.",
+      "quotes": [
+        {"quote": "Hi love! Just reaching out to give a gentle reminder to do your OF withdrawal today, as invoicing is tomorrow and doing so will help keep you on track for a timely payment ❤️ let me know if you need anything! Chat tomorrow", "who": "Stephski", "date": "2026-06-30"},
+        {"quote": "Hi love ❤️ Just wanted to reach out and remind you to begin a funds withdrawl on OF ahead of invoicing on the 15th so the funds can have enough time to hit your account 🙏", "who": "Stephski", "date": "2026-05-13"}
+      ]
+    }
+  ],
+  "client_priorities": [
+    "Fan trust and authenticity — no lying, no scam-feeling tactics, and nothing that makes her look bad to fans who know her real life from IG",
+    "Privacy of paid private interactions — 1:1 lives and private calls are not PPV inventory and must never be resold, least of all to the fan who bought them",
+    "Getting paid video calls, 1:1 lives and customs scheduled and delivered promptly so fans aren't left waiting months",
+    "Not underselling her content — clear minimums (solo toy $200+, OF 1:1 $400 non-nude / $800+ with nudity, VC talking $500/15min, striptease $800+, masturbation $1k+)",
+    "Content boundaries — no B/G, unauthorized girl-girl removed from the vault, protecting Shayna's identity",
+    "Avoiding chargebacks; vault hygiene and replacing old pre-nose-job content"
+  ],
+  "suggestions": [
+    "Write a one-page 'Vale account rules' doc and pin it in the OnlyFans topic: never fabricate real people (Shayna), never resell 1:1 live or private call recordings, no fake-hardship pushes, price minimums, girl-girl restricted to Mia Sorety content. Four incidents in 26 days have each been closed with a verbal word to one individual — that pattern is not holding, and she is the one catching them.",
+    "Send her written confirmation that the private-live recordings have been pulled from PPV inventory and that the unauthorized girl-girl videos are out of the vault. She asked about the vault on Aug 1/2 and has still never been told it is done.",
+    "Stand up a dated call/live tracker (fan, amount paid, date sold, scheduled date, status) in the OnlyFans topic. Ryan ($600) and John ($1,800) are both unconfirmed after two weeks and she has now supplied availability five separate times since May.",
+    "Assign a named backup responder when Ollie is offline. Mayson had to @-escalate him on Aug 8, Aug 9 and Aug 11; her live question sat ~14 hours and she solved it herself.",
+    "Make fan prep notes an automatic pre-call deliverable — her Aug 7 request for notes before the Aug 8 11am OF call was never answered at all. Fred used to send these unprompted.",
+    "Close the loop on her Aug 3 referral. A client who refers creators while simultaneously catching your chat team's mistakes is worth a personal thank-you from Derrek.",
+    "Reinstate Stephski's pre-invoice OF withdrawal reminder before the Aug 15 invoice."
+  ],
+  "wins": [
+    "Vale handled the Aug 11 PPV incident graciously once Ollie apologised — 'Thank you !' — and explained her boundary calmly rather than escalating; she is still giving the team the benefit of the doubt",
+    "Ollie apologised and briefed the PPV specialist within ~12 hours of her flagging it (Aug 12)",
+    "She figured out OnlyFans private-live setup on her own and ran the paid live anyway — 'Had to create a list for private live and add that sub'",
+    "Ollie responded same-day on Aug 9 offering to schedule her outstanding lives and asked for her availability",
+    "Service cadence held from the rest of the team: Michelle delivered the weekly leak-removal breakdown on Aug 10 and Mica delivered the weekly reel inspo on Aug 13",
+    "Zero payment friction — no invoice due in the window and her perfect on-time record is intact"
+  ],
+  "week_stats": {
+    "messages": 30,
+    "client_messages": 18,
+    "team_messages": 12
+  }
+}

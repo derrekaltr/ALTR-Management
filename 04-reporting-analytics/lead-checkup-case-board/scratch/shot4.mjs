@@ -1,0 +1,13 @@
+import { chromium } from 'playwright';
+const b = await chromium.launch();
+const pg = await b.newPage({viewport:{width:1440,height:1000}});
+const errs=[]; pg.on('pageerror',e=>errs.push(String(e)));
+await pg.goto('file:///Users/locklyjailbreak/conductor/workspaces/Starter%20project/chennai/dashboard/index.html');
+await pg.waitForTimeout(800);
+await pg.screenshot({path:'chennai_big.png'});
+const m = await b.newPage({viewport:{width:390,height:844},isMobile:true,hasTouch:true,deviceScaleFactor:2});
+await m.goto('file:///Users/locklyjailbreak/conductor/workspaces/Starter%20project/chennai/dashboard/index.html');
+await m.waitForTimeout(800);
+await m.screenshot({path:'chennai_m.png'});
+console.log('errors:', errs);
+await b.close();

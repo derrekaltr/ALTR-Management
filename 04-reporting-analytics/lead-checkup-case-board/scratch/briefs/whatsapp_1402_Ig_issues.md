@@ -1,0 +1,43 @@
+# Ig issues  [whatsapp #1402 GROUP]
+msgs=36 (in=29 out=7) window=2026-06-29..2026-07-12
+last_client=2026-07-12 (68d ago), last_derrek=2026-07-10 (70d ago)
+LAST MESSAGE FROM CLIENT — UNANSWERED: 'we understand, no worries'
+
+  ...
+[2026-06-29 16:42] 197405874085999@lid: {"subject":"Ig issues","should_use_identity_header":true,"parent_group_jid":null,"is_hidden_sub_group":false,"is_open_group":true,"auto_add_disabled":true,"show_membership_string":true,"is_initially_empty":false,"context_group":null,"parent_group_name":null,"a…
+[2026-06-29 16:42] 120363425997697212@g.us: 197405874085999@lid
+[2026-06-29 16:44] 106429558059136@lid: 197405874085999@lid
+[2026-06-29 16:45] 106429558059136@lid: Why a groupppp
+[2026-06-29 16:45] 197405874085999@lid: He’s my partner
+[2026-06-29 16:45] 106429558059136@lid: Oh okay
+[2026-06-29 16:45] 106429558059136@lid: Do u have any reviews ?
+[2026-06-29 16:45] 197405874085999@lid: About
+[2026-06-29 16:46] 106429558059136@lid: Getting back the accs? I got scammed once in the past months
+[2026-06-29 16:46] 197405874085999@lid: What’s your issue
+[2026-06-29 16:48] 106429558059136@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363425997697212@g.us/a/c/ac827e29-8a4d-44d7-821b-1f2c5363ce0d.jpg>
+[2026-06-29 16:49] 106429558059136@lid: Appealed denied
+[2026-06-29 16:49] 106429558059136@lid: 15 march 2026
+[2026-06-29 16:52] 197405874085999@lid: Permanently disabled
+[2026-06-29 16:52] 197405874085999@lid: Got it
+[2026-06-29 16:54] 106429558059136@lid: Yes
+[2026-06-29 16:54] 106429558059136@lid: it had around500k
+[2026-06-29 16:54] 106429558059136@lid: Followers
+[2026-06-29 16:54] 106429558059136@lid: How much u charge for it and how much time do u resolve it?
+[2026-06-29 16:55] DEREK: Hi!
+[2026-06-29 16:55] DEREK: I’m derrek nice to meet you
+[2026-06-29 16:56] 106429558059136@lid: Hi !!
+[2026-06-29 18:36] 106429558059136@lid: ??
+[2026-06-29 20:52] DEREK: @197405874085999
+[2026-06-29 20:52] 197405874085999@lid: Hey sorry
+[2026-06-29 20:52] 197405874085999@lid: Im getting you a quote soon
+[2026-06-29 20:52] 197405874085999@lid: Waiting for rep to clock in
+[2026-06-30 17:39] 197405874085999@lid: Hey
+[2026-06-30 17:39] 197405874085999@lid: The price is 6k rn
+[2026-07-10 14:26] DEREK: Hi Luchi
+[2026-07-10 14:26] DEREK: We can do this unban for $4500
+[2026-07-10 14:26] DEREK: And you can pay after
+[2026-07-10 14:26] DEREK: We’ve been getting them back in a few hours recently, but at Max will take 48 hours
+[2026-07-12 23:11] 197405874085999@lid: hey sending list let us know if you got any cases, only need username. 4k pay after
+[2026-07-12 23:16] 106429558059136@lid: Sorry guys it’s a lot for me :(
+[2026-07-12 23:22] 197405874085999@lid: we understand, no worries

@@ -1,0 +1,120 @@
+{
+  "client": "Barbara",
+  "slug": "barbara-x-altr",
+  "status": "at_risk",
+  "status_reason": "Still at_risk and worse than at 10/09. Since 2026-10-09 (32 new messages, Oct 9 -> Oct 15; client 14, our side 18) neither of the two big items moved. (1) Her 9/14 retention message ('where the numbers are right now isn’t sustainable for me') is now 32 days old. Its only reply is still Mayson's 9/14 call offer. Nothing has been written, no numbers have been shared, and nobody on our side mentioned it this window. Invoice #6 went out 10/15 regardless, the second invoice in a row for a fortnight with her main banned the whole time. (2) Main @thebrazilianfitbarbie: still banned, now 29 days. On 10/11 Mayson asked how it was doing; she answered 'it’s still in limbo :-)', his '@fonta any updates on this?' got no answer, and nobody has given her a date or a cause. New harm this window: on 10/11 we relaunched the barbarasilva.vip bio link as 'completely safe' and 'won’t get flagged', and our team added it to a recovered backup. The backup went down the next day (10/12) and she linked the two. Our first reply asked her to remove a link our team had added. Vivek's 'Will check link too' got no follow-up. We pulled the domain 10/15 and switched her to a direct link, with no incident note, no account named, no recovery plan and no apology. Her 'which one for profile picture?' and 'bio is gone btw' (10/12) are unanswered. She has said nothing since 10/12 22:55, including no reply to invoice #6 or the 10/15 link switch. Derrek has not posted since 10/01.",
+  "last_client_message": "2026-10-12",
+  "dimensions": {
+    "responsiveness": {
+      "severity": 3,
+      "internal_failure": "First replies are still fast, but the answers carry no substance, and her one urgent ask took 6 hours. On 10/12 she asked 'lmk asap so i can log out'. Mayson pinged Vivek twice. Vivek replied at 22:36 with 'Yes / Brother / You can ma'am', which she could not act on, so she had to ask again before getting 'Logout'. Her ban report got Mayson's 'Can you please take it out' within 14 minutes, which put the fix on her for a link our team had added. 'which one for profile picture?' and 'bio is gone btw' (10/12) have had no answer for 4 days. Across the full history, about 39 of 77 asks were unanswered in substance or answered after more than 24h.",
+      "evidence": [
+        {"quote": "i don’t wanna stay logged in on my phone so lmk asap so i can log out please", "who": "Barb Brazil", "date": "2026-10-12"},
+        {"quote": "You can ma'am", "who": "Vivek", "date": "2026-10-12"},
+        {"quote": "i can log in? or should log out?", "who": "Barb Brazil", "date": "2026-10-12"},
+        {"quote": "which one for profile picture?", "who": "Barb Brazil", "date": "2026-10-12"}
+      ]
+    },
+    "follow_through": {
+      "severity": 3,
+      "internal_failure": "The biggest promises are still open: answer the 9/14 retention message (32 days, call offer only), recover the main or give a date (29 days), and Vivek's 9/27 'Starting today' unbans. This window added two more broken ones. The 10/11 relaunch was sold as 'won’t get flagged and it’s completely safe', and the account carrying it went down within 21 hours. Vivek's 'Will check link too' (10/12) never got a result. Vivek's 10/6 'I will check in lookup' also lapsed. One item was delivered: a working bio link (asked 7/31), but only after the relaunch failed. Running total: ~50 commitments, ~18 kept, ~29 lapsed.",
+      "evidence": [
+        {"quote": "It routes through our own protected infrastructure before it ever reaches your page, it won’t get flagged and it’s completely safe.", "who": "Mayson Chat", "date": "2026-10-11"},
+        {"quote": "hey so my account went down, and this link was just added. it makes me believe the link may have had something to do with it", "who": "Barb Brazil", "date": "2026-10-12"},
+        {"quote": "Will check link too", "who": "Vivek", "date": "2026-10-12"}
+      ]
+    },
+    "proactive_communication": {
+      "severity": 2,
+      "internal_failure": "The routine touchpoints held up. Melissa sent her third weekly leak report in a row (10/9). Stephski gave a 2-day invoice heads-up. Mayson sent two clear, unprompted written link updates and checked in on the main without being asked. But nothing proactive covered what she actually cares about. There was no written account status, no incident note after the 10/12 ban, no numbers, and no reply to 9/14. Mica sent no reel inspo this window (last link drop 9/29, last tip 10/6), and Olivia's OFTV thread has been silent since 9/29. Our longest silence this window was 2.13 days (Oct 9 15:29 -> Oct 11 18:38). The all-time maximum is still 3.82 days.",
+      "evidence": [
+        {"quote": "Hey @barbsilvaxo Here’s your weekly update on the leak removal breakdown for the past 7 days 🫶🏼", "who": "Melissa Userfacing", "date": "2026-10-09"},
+        {"quote": "How’s your main instagram doing?", "who": "Mayson Chat", "date": "2026-10-11"},
+        {"quote": "We've taken the domain down, so please remove it from your bio if it's still up. We're switching you over to your direct link instead", "who": "Mayson Chat", "date": "2026-10-15"}
+      ]
+    },
+    "onboarding_handoff": {
+      "severity": 2,
+      "internal_failure": "On day 88 she still does not know who does what on her accounts. She had to ask whether we are logged in ('aren’t u guys logged into that page?'), and then had to point out that she did not add the link ('I think the team is logged in'). Nobody has told her in writing what the VA team will change on recovered accounts (bio, links, profile picture) or which devices she may use. The people added on 9/10, 9/17 and 9/25 were never introduced. The OFTV and Facebook-page workstreams have no owner she can name.",
+      "evidence": [
+        {"quote": "hey aren’t u guys logged into that page? to add it in", "who": "Barb Brazil", "date": "2026-10-11"},
+        {"quote": "I didn’t add it in, I think the team is logged in. I’ve been trying to not use any of my devices to log into these accounts so I know that’s not adding to the problem.", "who": "Barb Brazil", "date": "2026-10-12"}
+      ]
+    },
+    "chatter_conduct": {
+      "severity": 1,
+      "internal_failure": "No fan-facing incident in 88 days, and nothing new on this this window. She has still never been told who chats her pages, or whether chatting on her free page continues under Olivia's team. The 9/28 intake referred to 'whoever’s on your chats'.",
+      "evidence": [
+        {"quote": "can you please fill out this intake so we (and whoever’s on your chats) really understand you and rep you properly?", "who": "Melissa Userfacing", "date": "2026-09-28"},
+        {"quote": "Hey Mayson, please pull chatters from her free page. I will handle everything from here on @barbaraevelynnn", "who": "Olivia", "date": "2026-09-21"}
+      ]
+    },
+    "platform_health": {
+      "severity": 3,
+      "internal_failure": "We now look like a possible cause of a ban, not just slow to fix one. Our team added a domain we had called 'completely safe' to a freshly recovered backup, and the account went down the next day. We pulled the domain 3 days later with no explanation, no word on which account went down, and no recovery plan. Meanwhile the main has been banned 29 days ('still in limbo'), with no owner who answers, no date and no confirmed cause. Her 10/5 @itsbarbxoxo plan and her Threads-appeal question got no mention this window. Her 9/22 theory that the vip link was a root cause had never been checked before we relaunched the same domain.",
+      "evidence": [
+        {"quote": "it’s still in limbo", "who": "Barb Brazil", "date": "2026-10-11"},
+        {"quote": "@fonta any updates on this?", "who": "Mayson Chat", "date": "2026-10-11"},
+        {"quote": "Can you please take it out and see if that’s the problem", "who": "Mayson Chat", "date": "2026-10-12"}
+      ]
+    },
+    "billing_ops": {
+      "severity": 2,
+      "internal_failure": "Billing process improved: invoice #6 had a 2-day heads-up, went out on cadence, had no pause-of-work clause, and has had no chasers so far. Two problems remain. First, the amounts are still only in the PDF, and she has never been offered ACH or wire. Second, the timing: #6 bills a fortnight with her main banned the whole time, and it landed 3 days after a backup went down following our link change, with 9/14 still unanswered. Neither the heads-up nor the invoice acknowledged any of that. Her payout setting was found switched to manual on 10/6 and has never been explained. The historic issues stand: the #1 Zelle failures and the #4 under-invoice of $1,683.12.",
+      "evidence": [
+        {"quote": "hi love! just writing to inform you that your next invoice will be sent out in 2 days. today is a great day to withdrawl your funds from OF to avoid any delays ❤️", "who": "Stephski", "date": "2026-10-13"},
+        {"quote": "Hey queen happy thursday! Here is your invoice for October 1st-14th. Please use the invoicing information at the bottom of the PDF to ensure a smooth process ❤️", "who": "Stephski", "date": "2026-10-15"},
+        {"quote": "hey idk why my payouts were set as manual, i just changed it back to weekly but requested a payout so as soon as it hits my account i will be paying the invoice :)", "who": "Barb Brazil", "date": "2026-10-06"}
+      ]
+    },
+    "ownership_escalation": {
+      "severity": 3,
+      "internal_failure": "Instagram still has no owner who answers the client. Mayson routes and Vivek doesn't respond. This window Mayson tagged Vivek four times in 2 days ('@fonta any updates on this?', '@fonta', '@fonta please !'). The main-account question got no answer at all, and the urgent login question took 6 hours. Nobody took responsibility for the 10/12 incident. Mayson asked the client to undo our change, Vivek promised to 'check', and the domain was pulled silently. Derrek, who owns the 9/14 retention message, has not posted since 10/01.",
+      "evidence": [
+        {"quote": "@fonta any updates on this?", "who": "Mayson Chat", "date": "2026-10-11"},
+        {"quote": "@fonta please !", "who": "Mayson Chat", "date": "2026-10-12"},
+        {"quote": "Yes", "who": "Vivek", "date": "2026-10-12"}
+      ]
+    },
+    "disengagement_detection": {
+      "severity": 3,
+      "internal_failure": "Every churn tell is present, and nobody on our side has said so or acted on it. Her 9/14 warning is 32 days old with no written reply. She paid #5 fast and silently. Her asks are now only reactions to things we broke. 'still in limbo :-)' is resigned in tone. Since 10/12 22:55 she has said nothing, including about invoice #6 or the new link. Our response to a frustrated client whose account went down the day after we changed it was an invoice and a link swap. Nobody checked in, offered a call, apologised, or revisited the numbers. The next decision point is #6's due date (~10/22).",
+      "evidence": [
+        {"quote": "i really want to continue working together, i just need to see some changes because where the numbers are right now isn’t sustainable for me.", "who": "Barb Brazil", "date": "2026-09-14"},
+        {"quote": "Let’s hop on a call tomorrow @barbsilvaxo and go over it!", "who": "Mayson Chat", "date": "2026-09-14"},
+        {"quote": ":-)", "who": "Barb Brazil", "date": "2026-10-11"},
+        {"quote": "done :)", "who": "Barb Brazil", "date": "2026-10-12"}
+      ]
+    },
+    "security_hygiene": {
+      "severity": 2,
+      "internal_failure": "No credentials were posted this window, which is an improvement on 10/1, when login emails went into the group. Account access is still unmanaged where she can see it. Our VA team logs in and changes her profile without telling her. She was told to log in on her own phone and then waited 6 hours to be told to log out. She has never had written rules on devices, wifi, number or email, or on who holds her credentials. Her 9/18 'is this you guys' login alert has never had an access-log answer. Earlier credentials have never been confirmed as rotated.",
+      "evidence": [
+        {"quote": "i don’t wanna stay logged in on my phone so lmk asap so i can log out please", "who": "Barb Brazil", "date": "2026-10-12"},
+        {"quote": "Logout", "who": "Vivek", "date": "2026-10-12"},
+        {"quote": "@barbsilvaxo send the login when ready", "who": "Mayson Chat", "date": "2026-10-01"}
+      ]
+    }
+  },
+  "metrics": {
+    "client_questions_total": 77,
+    "unanswered_over_24h": 39,
+    "max_team_silence_days": 3.82,
+    "promises_made": 50,
+    "promises_kept": 18,
+    "promises_lapsed": 29,
+    "method": "Extends the 2026-10-09 manual pass (72 asks / 36 unanswered / 47 promises / 17 kept / 26 lapsed, through Oct 7 19:51) with a manual read of the 32 records from Oct 9 11:11 to Oct 15 22:02. Senders: Barb Brazil 14 (client, per client_aliases); Mayson 9, Vivek 5, Stephski 3, Melissa Userfacing 1 (our side). No service events, no vendor teams, no credentials posted. New asks: 5 (submit links in chat; aren't you logged in to add it; account down, was it the link; which profile picture; log in or out asap). New unanswered in substance or after more than 24h: 3 (link-cause explanation, profile picture, 'bio is gone'). New promises: 3 (Mayson 'Yeah we’re on it!' = kept, link added; Mayson 'won’t get flagged and it’s completely safe' = broken by the 10/12 ban; Vivek 'Will check link too' = lapsed). Vivek's 10/6 'I will check in lookup' moved from open to lapsed. max_team_silence_days is all-time, from consecutive our-side timestamps (Sep 10 18:04 -> Sep 14 13:43). This window's longest gap is 2.13d (Oct 9 15:29 -> Oct 11 18:38). Client silent since Oct 12 22:55 (about 3.4 days at analysis)."
+  },
+  "what_client_wanted": [
+    "Results and a plan, in writing. 9/14, still unanswered beyond a call offer: 'i’d love to figure out a clear plan for what we can do to start getting things moving back in the right direction ... where the numbers are right now isn’t sustainable for me.'",
+    "Her main account back, or at least a straight status. 10/11: 'it’s still in limbo :-)'.",
+    "Accounts that stay up, and our team not causing the problem. 10/12: 'my account went down, and this link was just added. it makes me believe the link may have had something to do with it' and 'I’ve been trying to not use any of my devices to log into these accounts so I know that’s not adding to the problem.'",
+    "Clear, fast instructions she can act on. 10/12: 'lmk asap so i can log out please', then 'i can log in? or should log out?'."
+  ],
+  "what_worked": [
+    "The weekly leak report keeps landing. Melissa's third consecutive report (10/9) drew 'thank you!' and an offer to take part herself ('if i have links to submit can i send them directly in here?'). It is the one deliverable she reliably engages with.",
+    "Clear, self-contained written updates from Mayson. Both link messages (10/11, 10/15) say what changed, what she needs to do, and offer edits. His unprompted 'How’s your main instagram doing?' got an immediate honest answer. The format works. The 10/11 one overpromised.",
+    "Billing process discipline improved. The 2-day heads-up and on-cadence #6 with no pause-of-work clause and no chasers removed the friction that #4 and #5 created."
+  ],
+  "top_fix": "Name one owner for Barbara's accounts. That owner, not a chain of @fonta tags, should send her a written incident note and status before invoice #6 is due (~10/22). The note should cover: which account went down on 10/12 and whether our link change caused it (and an apology if so); the main's status, with a date or an honest 'no date'; and the written answer to her 9/14 retention message, with real numbers and a dated plan. Add a standing rule that the VA team never changes a recovered account without telling her first."
+}

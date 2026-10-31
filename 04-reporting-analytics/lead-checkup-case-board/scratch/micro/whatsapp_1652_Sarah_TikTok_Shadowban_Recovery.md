@@ -1,0 +1,3 @@
+## Sarah TikTok Shadowban Recovery [whatsapp#1652 GRP] msgs=22 win=2026-08-26..2026-08-29 lastClient=2026-08-29(20d) lastDerek=2026-08-26(23d) UNANSWERED
+...
+[2026-08-26 07:30]ASK| 120363413396993862: {"is_initially_empty":false,"auto_add_disabled":true,"should_use_identity_header":true,"context_group":null,"show_membership_string":true,"parent_group_name":null,"parent_group_jid":null,"is_open_grou

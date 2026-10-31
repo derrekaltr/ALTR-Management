@@ -1,0 +1,9 @@
+## Damien IG Clients [imessage#14570] msgs=51 win=2026-08-14..2026-08-18 lastClient=2026-08-18(31d) lastDerek=2026-08-18(31d) 
+...
+[2026-08-16 03:11]ANGRY| Damien IG Clients: Hey any update so far?
+...
+[2026-08-17 15:51]PAY| DEREK: I gotta get this Rep paid out on your account
+[2026-08-17 15:52]PAY| DEREK: Let me know what the best way to send payment is for you
+...
+[2026-08-17 16:16]PAY| DEREK: I can take: Zelle: 5618011087 Apple Pay: 5618011087 Venmo: @brownderrek
+[2026-08-17 16:16]PAY| Damien IG Clients: Bet will have u paid today, just wanted to confirm that was 1200

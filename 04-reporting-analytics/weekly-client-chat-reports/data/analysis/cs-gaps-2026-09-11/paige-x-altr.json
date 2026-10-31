@@ -1,0 +1,121 @@
+{
+  "client": "Paige",
+  "slug": "paige-x-altr",
+  "status": "churned",
+  "status_reason": "Churned — and the prior 2026-09-04 'churned' label was NOT wrong; this account has not re-engaged. The ~98-messages-in-30-days figure is a false re-engagement signal: it is the last 98 ROWS of the file, and 97 of them fall between 2026-08-13 and 2026-09-02 (a burst of Instagram login/ban firefighting with Vivek plus two invoice cycles). The only 'activity through 2026-09-10' is a ChatAddUser service event at 2026-09-10 21:01 with zero text — a join, not a message, and not from the client. Paige gave explicit written notice on 2026-09-02 ('i just wanted to inform that i'm leaving the agency tomorrow... its just not working for me I'm sorry!') and has not sent a single message in the 9 days since. In those 9 days ALTR sent her exactly two messages, both payment chases from invoicing, one threatening to 'pause work in the morning'. The save call Mayson offered was never booked and never re-offered, the owner never spoke, and the Aug 15-31 invoice is unpaid — her first miss in six cycles.",
+  "last_client_message": "2026-09-02",
+  "dimensions": {
+    "responsiveness": {
+      "severity": 2,
+      "internal_failure": "Meta/IG pings got minute-level replies, but the two things Paige raised that were not login-related — her content leak and her payment confirmations — sat for days or forever; we were fast on tasks we had already queued and slow on anything new she brought us.",
+      "evidence": [
+        {"quote": "https://live.pushub.net/filter?q=fan+swingers&i=AJ0YIjzgq1I_0&ci=-1751194247205874075&t=662749722&h=4", "who": "Paige (Chey Ref) — posted the leak link Michelle asked for; never answered by anyone, 10 days and counting", "date": "2026-09-01"},
+        {"quote": "i already sent it babe x", "who": "Paige (Chey Ref) — replying to an invoice chase; her proof then waited ~64h for Stephski's 'Amazing thank you!' on 2026-08-29", "date": "2026-08-26"},
+        {"quote": "hi ive sent x", "who": "Paige (Chey Ref) — payment + screenshot sent 2026-07-21 22:45; acknowledged 2026-07-23 10:52, ~36h later", "date": "2026-07-21"}
+      ]
+    },
+    "follow_through": {
+      "severity": 3,
+      "internal_failure": "Nearly every commitment we made in this chat quietly lapsed — the promised weekly updates after the phone-farm announcement never came, the leak we said we would 'take care of' was never touched, and the weekly creative cadence Mica sold on day one ran three times in ten weeks.",
+      "evidence": [
+        {"quote": "Thank you for your understanding, we will have plenty of updates starting next week.", "who": "Derrek", "date": "2026-08-01"},
+        {"quote": "send me the link of this babes and we will take care of it", "who": "Michelle Queue — Paige sent the link the next day; no one ever acted on it or replied", "date": "2026-08-31"},
+        {"quote": "I'm always online so I will get a response to your promptly... ALWAYS!!!", "who": "Mayson Chat — 6 messages total from the OF lead across the entire 70-day relationship", "date": "2026-06-25"}
+      ]
+    },
+    "proactive_communication": {
+      "severity": 3,
+      "internal_failure": "In 70 days we never once sent this client a number — no OF revenue, no IG growth, no report of any kind. Outbound was invoices, templated reel-link dumps, and requests for things we needed from her; our longest total silence was 8.8 days and it was broken by her reporting a problem, not by us.",
+      "evidence": [
+        {"quote": "Hi love 💕 just wanted to reiterate how important consistent posting is for increasing social media engagement!", "who": "Mica Vecco — the last proactive message before churn was another ask, not a result", "date": "2026-08-31"},
+        {"quote": "hi @paigeleighx! here's your reel inspo for the week 🩷", "who": "Mica Vecco — 'weekly' inspo actually landed only 3 times (07-29, 08-13, 08-31) in 10 weeks, and was a bare link dump each time", "date": "2026-08-13"},
+        {"quote": "thanks so much 🙂", "who": "Stephski — our last outbound of 2026-08-04; nothing from any of the 6 ALTR people in the chat until 2026-08-13 10:33, an 8.8-day blackout ended only because Paige tagged Vivek with a broken account", "date": "2026-08-04"}
+      ]
+    },
+    "onboarding_handoff": {
+      "severity": 3,
+      "internal_failure": "Week 1 was five separate people each dropping a link and a form, none of them ever closed the loop: the kickoff call was never confirmed booked, the sales-boundaries form was never confirmed returned, and the content-drive process had to be re-explained from scratch on day 67 — and nobody ever told her who to contact for what.",
+      "evidence": [
+        {"quote": "oh i didnt see this sorry im new to telegram ill do this now x", "who": "Paige (Chey Ref) — 12 days into onboarding, still unoriented in the tool we run the account from; no one offered to walk her through it", "date": "2026-07-06"},
+        {"quote": "hii sorry im new to telegram still figuring it out 😂 ill book now xx", "who": "Paige (Chey Ref) — re Mica's calendly; no record the 1:1 kickoff call ever happened and nobody followed up", "date": "2026-07-06"},
+        {"quote": "Hi @paigeleighx this one is important! Here's your content Drive: ... Everything goes in the New Content folder from now on.", "who": "Mayson Chat — the same Drive link Michelle sent on 2026-07-06, re-issued with new rules 67 days in", "date": "2026-08-30"}
+      ]
+    },
+    "chatter_conduct": {
+      "severity": 2,
+      "internal_failure": "We sent Paige the do-not-sell boundaries form on day 1 and never once chased it or confirmed it came back, so whoever was chatting her OF page ran for 70 days with no written limits; separately our Meta rep's register with the client slid into dismissive one-liners.",
+      "evidence": [
+        {"quote": "When you're able please fill out the form that will give the team everything they need to know about yourself AND the ability to sell in confidence. Making sure that nothing you DO NOT want sold is ever sold", "who": "Mayson Chat — never referenced again in 70 days; no confirmation it was completed", "date": "2026-06-25"},
+        {"quote": "Hell nah", "who": "Vivek — the entire response to Paige's screenshot of a fresh account problem", "date": "2026-08-14"},
+        {"quote": "No you give me on wrong page approval", "who": "Vivek — mid-incident, no explanation to a client who had just said 'yeah how do i do it'", "date": "2026-08-14"}
+      ]
+    },
+    "platform_health": {
+      "severity": 3,
+      "internal_failure": "Her Instagram broke at least six separate times between 07-29 and 08-30 and our entire process was to re-borrow her login and fix it silently — we never once wrote down what happened, why, or whether it was resolved, so from her seat the account just kept dying with no one accountable for stopping it.",
+      "evidence": [
+        {"quote": "please help 😂💞", "who": "Paige (Chey Ref) — third separate IG restriction in two weeks", "date": "2026-08-13"},
+        {"quote": "i had to change my password again", "who": "Paige (Chey Ref) — recurring lockouts, never root-caused for her", "date": "2026-08-21"},
+        {"quote": "Ma'am can you click on read more about this rule and take a screenshot", "who": "Vivek — she complied the next day and supplied logins; no outcome was ever reported back to her", "date": "2026-08-26"}
+      ]
+    },
+    "billing_ops": {
+      "severity": 3,
+      "internal_failure": "We chased her for an invoice she had already paid, changed bank rails mid-relationship without explanation, took 36-64h to confirm receipts — and then, seven days after she resigned, sent two collection messages threatening to pause work, because invoicing had no idea the client had quit.",
+      "evidence": [
+        {"quote": "@paigeleighx Hi love! just wanted to reach out because we are still missing payment... If we dont receive we will have to pause work in the morning until we receive", "who": "Stephski — sent 7 days after Paige gave notice on 2026-09-02", "date": "2026-09-09"},
+        {"quote": "Please note an update to the account number, please try and send using the information on the invoice. Have also attached updated Zelle info that should be easy to use now.", "who": "Stephski — payment rails changed mid-engagement with no advance notice", "date": "2026-08-15"},
+        {"quote": "@paigeleighx Making sure you saw this", "who": "Stephski — chasing the Aug 1-14 invoice; Paige replied 'i already sent it babe x' with proof", "date": "2026-08-26"}
+      ]
+    },
+    "ownership_escalation": {
+      "severity": 3,
+      "internal_failure": "Six ALTR people sat in this group and none of them owned the account: Paige had to @-tag individuals to get anything moving, a chatter had to relay her messages to the right person, and her leak was routed to the promo team instead of the dedicated DMCA topic and the DMCA specialist that already existed in our org.",
+      "evidence": [
+        {"quote": "@fonta ^", "who": "Mayson Chat — a chatter manually relaying the client's screenshot to the Meta rep because nothing was routed by default", "date": "2026-08-27"},
+        {"quote": "hey @fonta ive just realised i cant share links xx", "who": "Paige (Chey Ref) — the client tagging named individuals to get service, from day 35 onward", "date": "2026-07-29"},
+        {"quote": "ive got a leak. someone using my stuff on a swingers website x", "who": "Paige (Chey Ref) — posted to the general chat, picked up by promo (Michelle), never handed to Nick | DMCA despite a dedicated DMCA topic in this very group", "date": "2026-08-31"}
+      ]
+    },
+    "disengagement_detection": {
+      "severity": 3,
+      "internal_failure": "Nobody noticed she was drifting and nobody fought to keep her: from 2026-08-14 to 2026-09-02 every single ALTR-initiated message was a request for something (logins, content, money), the resignation landed with zero prior alarm raised, and after one offer of a call went unanswered we made no second attempt, no owner outreach, and no exit conversation.",
+      "evidence": [
+        {"quote": "hey!! i just wanted to inform that i'm leaving the agency tomorrow! thank you for what you have been doing but its just not working for me I'm sorry!", "who": "Paige (Chey Ref)", "date": "2026-09-02"},
+        {"quote": "Hey Paige would you like to hop on a call today and go over it?", "who": "Mayson Chat — the entire save attempt; never followed up when she didn't reply, and the owner never spoke at all", "date": "2026-09-02"},
+        {"quote": "@paigeleighx checking back in on this", "who": "Stephski — our final message to a churned client is a payment chase, 7 days after notice", "date": "2026-09-09"}
+      ]
+    },
+    "security_hygiene": {
+      "severity": 3,
+      "internal_failure": "We repeatedly asked for and accepted Instagram passwords, 2FA codes, a backup recovery code and her personal phone number in plaintext in a 7-person group chat, never rotated any of them, and after she churned on 2026-09-02 we left every live credential sitting in a chat we no longer have a contract to be in.",
+      "evidence": [
+        {"quote": "Share login", "who": "Vivek — asked in-channel; Paige posted 'xpaigex18 / paigelgrogan4@icloud.com / Tylerthomas2014' in the group two minutes later", "date": "2026-07-29"},
+        {"quote": "So listen can you give me backup code", "who": "Vivek — she posted the account recovery code '23167850' in the group; it was never invalidated", "date": "2026-08-14"},
+        {"quote": "Send login in dm", "who": "Vivek — we knew DMs were correct, said so once, then kept taking passwords and WhatsApp codes in-channel on 08-14, 08-20, 08-21, 08-27 and 08-29", "date": "2026-08-13"}
+      ]
+    }
+  },
+  "metrics": {
+    "client_questions_total": 15,
+    "unanswered_over_24h": 4,
+    "max_team_silence_days": 8.8,
+    "promises_made": 16,
+    "promises_kept": 4,
+    "promises_lapsed": 9,
+    "method": "Full history read manually: 166 rows = 157 messages + 9 service events, 2026-06-24 to 2026-09-10. Client side = alias 'Paige (Chey Ref)' (64 msgs) per config/clients.yaml; our side = Vivek 53, Stephski 20, Mica Vecco 6, Michelle Queue 6, Mayson Chat 6, Derrek 2 (93 msgs) per config/team.yaml — no vendor chat team is present in this group. client_questions_total counts distinct client messages posing a question or making an explicit request/report that required a response from us (excludes acknowledgements and replies to our own asks). unanswered_over_24h = the leak link of 2026-09-01 (never answered), the 2026-08-29 second-account fix request (logins supplied, outcome never reported), and the payment confirmations of 2026-07-21 (~36h) and 2026-08-26 (~64h). max_team_silence_days = longest gap between consecutive ALTR messages: 2026-08-04 15:47 to 2026-08-13 10:33 = 8.8d (runners-up 8.1d on 07-07 to 07-15 and 6.5d on 09-02 to 09-09); note the two longest blackouts ended with an invoice and a client-reported outage respectively, never with a proactive update. Promises = explicit commitments by our side ('we will...', 'I'll...', stated cadences); the 3 not counted as kept or lapsed were partially delivered. Remainder of promises_made - kept - lapsed = 3 partial.",
+    "promises_partial": 3
+  },
+  "what_client_wanted": [
+    "Visible results she could actually feel — the reason she gave for leaving was outcome, not price or conduct: 'thank you for what you have been doing but its just not working for me I'm sorry!' (2026-09-02). In 70 days we never sent her a single revenue or growth figure to argue against that.",
+    "Her Instagram kept alive and unrestricted — she raised account breakages at least six times: 'please help 😂💞' (2026-08-13) and 'i had to change my password again' (2026-08-21).",
+    "Her leaked content taken down: 'ive got a leak. someone using my stuff on a swingers website x' (2026-08-31) — she chased the source herself and supplied the link on 2026-09-01.",
+    "To be told what's going on and walked through it — she was new to the tooling and said so: 'oh i didnt see this sorry im new to telegram ill do this now x' (2026-07-06), and she responded warmly the one time we explained ourselves at length."
+  ],
+  "what_worked": [
+    "Derrek's long-form transparency update about the Instagram guideline changes and the phone-farm investment produced the single warmest message in the entire chat: 'oh wow! thats insane hopefully it works out thank you for updating me 💗 im excited to see where this goes. thank youu. xx' (2026-08-01). One honest, unprompted, substantive update bought more goodwill than ten weeks of templates — and we never sent another.",
+    "Vivek's fast hands-on account recovery when he was actually on it: password change reported 05:27:43, fixed and confirmed by 05:34:37 on 2026-08-21, client replied 'perfect thank you so much'. The technical capability was real; only the reporting around it was missing.",
+    "Stephski's warm, personal, reliable billing voice — 'my phone number is 4079217561 if you ever need to reach me' (2026-07-01) and 'Its okay! Thats why I ping reminders haha' (2026-07-07). Paige never once pushed back on an invoice and paid five of six cycles; billing tone was a trust asset until the post-resignation chases undid it."
+  ],
+  "top_fix": "Give every client one named account owner who sends an unprompted weekly results update — actual OF revenue and IG growth numbers plus what we did and what broke — and who owns the churn signal. Paige never saw a single number in 70 days, so when she asked herself whether this was working she had nothing but invoices and requests to weigh; the one time we did send a real, substantive update (2026-08-01) she replied with genuine excitement. That same owner would have caught the unreturned boundaries form, the unrouted leak, the 8.8-day blackout, and would have stopped invoicing from sending collection threats to a client who had already resigned."
+}

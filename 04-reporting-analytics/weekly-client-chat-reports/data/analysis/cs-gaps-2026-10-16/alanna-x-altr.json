@@ -1,0 +1,130 @@
+{
+  "client": "Alanna",
+  "slug": "alanna-x-altr",
+  "status": "at_risk",
+  "status_reason": "Exit-in-progress shape: no client message for 12 days (last 10/4, billing only), and her last non-billing message was the 9/24 'for the millionth time' escalation. Since 10/09 we posted 6 messages to her (leak report, domain, a bare Snapchat-add ask, two billing messages) and none was a direct relationship check-in. She says she runs most of her own accounts herself, and on this account a quick payment followed by zero asks is a churn tell.",
+  "last_client_message": "2026-10-04",
+  "changes_since_2026-10-09": [
+    "Client: 0 messages and 0 asks in the 10/09-10/16 window. That is the third straight week with no non-billing asks.",
+    "10/9 Melissa: third weekly leak-removal update in a row (9/25, 10/2, 10/9). The 8/12 weekly-report promise is finally being kept, 6 weeks late.",
+    "10/11 Mayson: 'Your domain is back' for alannasworld.vip. This shows the link was down at some point, and the outage was never disclosed while it happened.",
+    "10/12 Ollie: first message in 28 days was a one-line ask to add a third party on Snapchat (handle not reproduced). No context, and nothing on the OF backlog, releases or the content she handed over.",
+    "10/13 + 10/15 Stephski: withdrawal heads-up and invoice #5 (Oct 1-14), issued into an unreconciled ledger. There is still no written receipt for invoices #2-#4, and #5 points to the PDF banking details, not the Zelle request she said works.",
+    "Message ids 158-161 and 163 (10/9-10/12) are missing from the export, probably deleted. The sender is unknown.",
+    "Nobody on our side, Derrek included, has acknowledged her silence or sent a non-billing check-in. Derrek's last non-billing message was 9/24."
+  ],
+  "dimensions": {
+    "responsiveness": {
+      "severity": 2,
+      "internal_failure": "Direct asks were mostly answered within hours, but handovers and instructions were dropped. Her 'stop chatting' instruction during lives was never acknowledged, the 9/10 handover of 5000+ photos sat 3+ days and only got a generic 'Thank you', and a Zelle request she sent on 9/22 took 21h to reach a non-working answer.",
+      "evidence": [
+        {"quote": "Forgot to say I’m on live on my vip page so maybe stop chatting", "who": "Alanna<3", "date": "2026-08-19"},
+        {"quote": "Heyyy I uploaded 5000+ new photos to post on my wall and x", "who": "Alanna<3", "date": "2026-09-10"},
+        {"quote": "@alannaapow can you please do it as a wire instead of zelle it wont work for some reason", "who": "Stephski", "date": "2026-09-23"}
+      ]
+    },
+    "follow_through": {
+      "severity": 3,
+      "internal_failure": "Most of our visible promises lapsed without anyone saying so: the new IG account, the 'push heavy' customs, the Calendly 1:1, the impersonator takedown and proof that we're pulling from her Drive/Dropbox. The weekly reports were promised on 8/12 and only started on 9/8.",
+      "evidence": [
+        {"quote": "yes we are warming up an insta account for you", "who": "Michelle Queue", "date": "2026-09-01"},
+        {"quote": "hey we sent it in on our end", "who": "Derrek", "date": "2026-08-04"},
+        {"quote": "You will get weekly reports", "who": "Derrek", "date": "2026-08-12"}
+      ]
+    },
+    "proactive_communication": {
+      "severity": 2,
+      "internal_failure": "Outbound is frequent (longest team silence was 9 days, 8/17-8/26), but almost none of it reports results. It is mostly templated invoices and reminders, generic reel tips, leak screenshots and call or login requests. There was never an OF revenue, subs or customs update, even after Ollie raised the free-to-VIP funnel himself. Since 10/09 every outbound message has been a template or an ask.",
+      "evidence": [
+        {"quote": "Alanna could I ask how many subs does your paid page get coming in a day?", "who": "Ollie Mckinlay", "date": "2026-08-27"},
+        {"quote": "Hey @alannaapow let me know when you wanna hop on our check up call?", "who": "Mayson Chat", "date": "2026-10-05"},
+        {"quote": "Hey @alannaapow can you please add this guy on snap", "who": "Ollie Mckinlay", "date": "2026-10-12"}
+      ]
+    },
+    "onboarding_handoff": {
+      "severity": 3,
+      "internal_failure": "Week-1 loose ends were never closed. The chatter FAQ form was sent and not chased after a single 'will do'. The social kickoff call was never booked. The pinned release schedule (Aug 17/24/29) was not followed up. Nobody captured that she keeps her library in her own Drive/Dropbox, which she shared on day 1. That gap caused a 6-week upload argument, and a second intake form went out on 9/28.",
+      "evidence": [
+        {"quote": "All my social and of content", "who": "Alanna<3", "date": "2026-08-03"},
+        {"quote": "Guys for the millionth time I HAVE MY OWN DRIVE AND DROPBOX", "who": "Alanna<3", "date": "2026-09-24"},
+        {"quote": "that’s fine! i didn’t see any of that in this thread", "who": "Mica Vecco", "date": "2026-09-24"}
+      ]
+    },
+    "chatter_conduct": {
+      "severity": 1,
+      "internal_failure": "She praised the chatting early on. However, the live-stream pause instruction was never confirmed as a chatter protocol, and her offer to verify 'I'm real' for fans was acknowledged but never shown being used.",
+      "evidence": [
+        {"quote": "Loving the chatting so far", "who": "Alanna<3", "date": "2026-08-08"},
+        {"quote": "if a fan wants any specific content you can’t find or need me to send something to prove I’m reel the chatters can always message me", "who": "Alanna<3", "date": "2026-08-07"},
+        {"quote": "Forgot to say I’m on live on my vip page so maybe stop chatting", "who": "Alanna<3", "date": "2026-08-19"}
+      ]
+    },
+    "platform_health": {
+      "severity": 2,
+      "internal_failure": "The impersonator account (alannaworldx0) was reported to us on day 1, and in 74 days nobody confirmed it was removed. The link-in-bio domain went down and came back with no notice of the outage. The second IG account was promised and then dropped without a word. Mica's IG security broadcast was the one proactive platform-safety move.",
+      "evidence": [
+        {"quote": "Hey sorry to be annoying on the first day but is there a way to remove this insta", "who": "Alanna<3", "date": "2026-08-03"},
+        {"quote": "Your domain is back, same one as before, but with new technology running behind it.", "who": "Mayson Chat", "date": "2026-10-11"},
+        {"quote": "The account is being warmed up now, so I want to make sure everything is ready to go once it’s ready in a few days", "who": "Michelle Queue", "date": "2026-09-10"}
+      ]
+    },
+    "billing_ops": {
+      "severity": 3,
+      "internal_failure": "We chased her hard on invoice #1, including a work-pause threat. After that, Zelle failed on our side, the payee name changed without confirmation, and invoices #2-#5 were stacked with no written receipt for #2-#4 and no amounts in chat. Derrek had to send the Zelle request himself. Invoice #5 (10/15) still doesn't point to the Zelle-request rail she said works.",
+      "evidence": [
+        {"quote": "We will unfortunately have to pause work if it remains unpaid by the morning", "who": "Stephski", "date": "2026-08-30"},
+        {"quote": "Hey can you Zelle request me on [REDACTED phone number] it’s not working for me", "who": "Alanna<3", "date": "2026-09-22"},
+        {"quote": "I got the zele request last time can you do it again", "who": "Alanna<3", "date": "2026-10-04"}
+      ]
+    },
+    "ownership_escalation": {
+      "severity": 3,
+      "internal_failure": "Seven ALTR voices plus the unidentified handles @sotom225 and @ofwizz, and nobody owns the account. Mayson relays questions instead of answering them. Mica routed the new-IG ask to Michelle. Ollie (the account's OF/chatting lead) was silent for 28 days. The owner had to step in to settle the Drive argument and to send a Zelle request.",
+      "evidence": [
+        {"quote": "Are we able to do that @sotom225 ?", "who": "Mayson Chat", "date": "2026-09-11"},
+        {"quote": "yes you can speak to michelle about creating more accounts in the promo tab here on telegram!!", "who": "Mica Vecco", "date": "2026-08-31"},
+        {"quote": "yes we can easily do this", "who": "Derrek", "date": "2026-09-24"}
+      ]
+    },
+    "disengagement_detection": {
+      "severity": 3,
+      "internal_failure": "Early signs she was doing it herself and getting frustrated were treated as logistics. After the 9/24 blow-up, nobody checked in with her personally. Since 10/4 she has been silent for 12 days and the team has kept sending templates, invoices and asks. Nobody has named the silence or reached out.",
+      "evidence": [
+        {"quote": "I’m already running a lot myself", "who": "Alanna<3", "date": "2026-08-31"},
+        {"quote": "I have 3 but just run them myself", "who": "Alanna<3", "date": "2026-09-16"},
+        {"quote": "I’m not uploading to yours!! Why would I, I have 5000 + videos in my own that I have already organised", "who": "Alanna<3", "date": "2026-09-24"}
+      ]
+    },
+    "security_hygiene": {
+      "severity": 2,
+      "internal_failure": "We asked her twice in the shared group for login credentials (second IG, Facebook) rather than using a secure channel. Her full-library Dropbox/Drive access links sit in a group with three unattributed member additions. On 10/12 we posted a third party's Snapchat handle with no context. Five messages were deleted with no record. To her credit, the client posted no passwords.",
+      "evidence": [
+        {"quote": "Would you be willing to share the login credentials with us so our team can get started on posting content on the account?", "who": "Mayson Chat", "date": "2026-08-28"},
+        {"quote": "Are you able to give us login to one?", "who": "Mayson Chat", "date": "2026-09-16"},
+        {"quote": "Hey @alannaapow can you please add this guy on snap [third-party Snapchat handle redacted]", "who": "Ollie Mckinlay", "date": "2026-10-12"}
+      ]
+    }
+  },
+  "metrics": {
+    "client_questions_total": 14,
+    "unanswered_over_24h": 3,
+    "max_team_silence_days": 9,
+    "promises_made": 13,
+    "promises_kept": 5,
+    "promises_lapsed": 6,
+    "promises_partial": 2,
+    "method": "Read all 161 lines by hand (51 client messages). Client questions = distinct requests or instructions from Alanna<3. Unanswered >24h counts any with no substantive team reply within 24h: the 8/19 live-pause instruction (never answered), the 9/10 photo handover (~3.3d, generic ack) and the 9/12 sexting set (~30h). Team silence = largest gap between consecutive non-client, non-service messages, computed by script (8/17 19:31 -> 8/26 19:17). Promises = explicit 'we will / I'll' commitments by our side. Kept means a delivery is visible in chat (release sent, trailer sorted, domain delivered, invoicing started, Zelle request 10/4). Partial means delivered late or irregularly (weekly reports, weekly creative ideas). Lapsed means no delivery or a failure (impersonator takedown, customs push report, Calendly kickoff, new IG account, Drive-ingestion proof, 9/23 Zelle)."
+  },
+  "what_client_wanted": [
+    "Use HER OWN library, not our upload folders: 'I’m not uploading to yours!! Why would I, I have 5000 + videos in my own that I have already organised' (2026-09-24)",
+    "Collab scenes released on schedule: 'Yes 7pm for all releases' (2026-08-12) and the pinned list of scheduled scenes (2026-08-03)",
+    "More Instagram reach handled for her: 'Would it possible to start more instas for me?' / 'I’m already running a lot myself' (2026-08-31)",
+    "Leak control and easy payment: 'Let me know what I need to do to get on top of my leaks' (2026-08-12); 'I got the zele request last time can you do it again' (2026-10-04)"
+  ],
+  "what_worked": [
+    "Chatting quality early on: 'Loving the chatting so far' / 'It sounds so good' (2026-08-08)",
+    "Ollie fixing the trailer gap himself without asking her to do more: 'Don’t worry I sorted something' -> 'Thankyou!' (2026-08-12)",
+    "Fast owner answers that removed work for her: Derrek 'Hi! We have it already started' on leaks -> 'Aw yay thanks' (2026-08-12), and the Zelle request sent 10 minutes after she asked (2026-10-04). Weekly leak reports have now held for 3 straight weeks (9/25-10/9)"
+  ],
+  "top_fix": "Assign one named account owner who sends a short written status every week: what was posted from HER Drive/Dropbox, releases scheduled, OF subs/revenue and customs, IG account progress, and which invoices are paid. They also close every promise in writing (done, or dropped with a reason). Alanna was never short on replies. What went missing was proof that her handovers turned into results, and that is how a self-sufficient creator decides she doesn't need us."
+}

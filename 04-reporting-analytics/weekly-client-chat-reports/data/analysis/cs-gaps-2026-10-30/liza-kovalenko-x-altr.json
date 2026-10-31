@@ -1,0 +1,240 @@
+{
+  "client": "Liza Kovalenko",
+  "slug": "liza-kovalenko-x-altr",
+  "status": "at_risk",
+  "status_reason": "Still at risk. Two-week window (10-16..10-30, no run on 10-23): the client sent 4 messages in 14 days, the lowest volume on record (0.29/day), paid the Oct 1-14 invoice about 28h after it was issued and posted the wire proof unprompted, and asked two questions, both reactive ('Are the profiles currently recommended?' 10-20 after a vendor status; 'what other customs are pending?' 10-28 after the fourth chase). Movement on the 10-16 open items: (1) 10-08 2FA incident / unintroduced IG-growth accounts: NOT addressed. No ALTR person has yet said who Stardust Nexus and Theta SDX are or what was done in the 10-08 session; instead Mayson publicly asked the vendor for an update (10-20), which produced two new undisclosed facts, that the vendor 'created' a backup account in her name (@lizanaughty) and that one of her accounts 'was banned but we managed to restore it'. Nobody at ALTR followed up on either. (2) Exposed passwords (08-31 client, 09-12 Michelle) and the 10-08 2FA code: UNMOVED, still in chat, not deleted, not rotated, never disclosed to her; room membership grew again on 10-21 (test account 'Antonio Veritrade' added, 6 test posts). (3) Written IG status: PARTIALLY moved, first written status in 51 days, but from the vendor, only after Mayson prompted, and silent on @Lizaakovalenk0; Vivek (the named Meta Support Rep) has not posted since 10-12. (4) 'What exactly you need, reels/ picks?' (09-24): UNMOVED, 36 days; Mica posted a second bare 8-link drop (10-28). (5) Customs: WORSE in form, four chases in 12 days (Jeremy 10-16, Spencer 10-22 and 10-27, Jeremy 10-28) none naming the fan, content or price; she had to ask what was pending; Jeremy answered wrong, corrected within a minute, and still gave no price; 09-24 customs still not confirmed delivered (36d); 10-08 price still not given. (6) Billing: REGRESSED on confirmation, Stephski's reply to the wire proof was 'Thanks love!' with no amount or 'received' (the 10-15 standard was not repeated); $420 bounce cause, $3,189 vs $2,224.88, and the $5,000 under-credit (51d) all still unexplained. (7) Link-in-bio reversal: UNMOVED, nobody checked whether she switched to xli.ink. (8) Derrek: UNMOVED, 87 days silent. One item closed: DMCA reporting, dark since 03-04, was folded into the weekly earnings report (10-16), but the 'every Friday' report then missed its first Friday (10-23). Also new: ALTR staff tag her as @xanaduexpress while the vendor and Mica tag @yelikovaa; if her handle changed, half the team's messages are not notifying her. Last client message 2026-10-28.",
+  "last_client_message": "2026-10-28",
+  "dimensions": {
+    "responsiveness": {
+      "severity": 3,
+      "internal_failure": "This window was clean on new questions (10-20 answered in 3.5h by the vendor after a Mayson tag; 10-28 answered by Jeremy in 3 minutes), but the standing backlog is what makes this severe: 22 of 70 historical question bursts waited more than 24h, the all-time silence record is 27 days, and several questions were never answered at all. 'What exactly you need , reels/ picks?' is now 36 days old and had two bare link drops posted over it. 'Was it someone from the team that logged in ?' (2026-03-18) is 226 days old and the 10-08 vendor login reopened it. 'How much he paid for this?' (10-08) still has no price after four customs chases.",
+      "evidence": [
+        {
+          "quote": "Hey! I see the voice note request, but what other customs are pending?",
+          "who": "Eli (client), after being chased for 'pending customs' four times in 12 days without anyone naming them. Jeremy replied in 3 minutes: 'it looks like it's just the voice note' then 'scratch that, i see there are actually 2 customs'. No price or content was given.",
+          "date": "2026-10-28"
+        },
+        {
+          "quote": "What exactly you need , reels/ picks?",
+          "who": "Eli (client). Still unanswered at 36 days. Mica's 10-14 and 10-28 posts in the same topic are bare reel links and do not answer it.",
+          "date": "2026-09-24"
+        },
+        {
+          "quote": "Was it someone from the team that logged in ?",
+          "who": "Eli (client), about an unrecognised IG login. Never answered (226 days). The 10-08 vendor 2FA login and the 10-20 disclosure of a backup account created in her name make it the live question.",
+          "date": "2026-03-18"
+        }
+      ]
+    },
+    "follow_through": {
+      "severity": 3,
+      "internal_failure": "A brand-new promise lapsed inside the window: on 10-16 Mayson and Melissa committed to a combined earnings/performance/DMCA report 'every Friday'; the 10-23 report was not posted. Spencer's small promise was kept ('ill follow up again in a few days', 10-22 -> 10-27), but the follow-up was a bare bump. The large promises remain lapsed: Phone Farm updates (08-01, 90 days), paid-IG-ads statistics (2025-11-18, 346 days), written recovery outcome on three IG handles (credentials handed over 08-31, 60 days), and Aroosha's 'check in with the team that was handling everything before me' (10-08), which was never closed out before customs moved to Spencer.",
+      "evidence": [
+        {
+          "quote": "From now on, your DMCA report will be included in your weekly earnings and performance report, sent in the General chat every Friday.",
+          "who": "Mayson Chat. Melissa posted the first combined report 36 minutes later. The next Friday (10-23) nothing was posted.",
+          "date": "2026-10-16"
+        },
+        {
+          "quote": "hi  there are some pending customs and a voice note. thanks guys ill follow up again in a few days!",
+          "who": "Spencer P. He did follow up (10-27: 'just bumping these pending customs and voice note!'), but neither message named the customs, the fan, or the price, and neither mentioned the 09-24 customs she delivered.",
+          "date": "2026-10-22"
+        },
+        {
+          "quote": "we have a working solution that it will last",
+          "who": "Derrek, in the Phone Farm message promising 'plenty of updates starting next week'. 90 days later no update has been posted and he has not written in the chat since 08-04.",
+          "date": "2026-08-01"
+        }
+      ]
+    },
+    "proactive_communication": {
+      "severity": 2,
+      "internal_failure": "Unprompted outbound existed and was mostly the right kind: Mayson closed the DMCA blackout (10-16), prompted the vendor for an IG status without being asked (10-20), and pre-warned her about system test messages (10-21); Melissa sent the combined report (10-16). But the cadence broke on week two (no 10-23 report; longest outbound gap in the window 5.1 days, 10-22 -> 10-27), Mica's content outreach is back to bare links, and the two things she most needs to hear, who the vendor is and that her credentials are sitting in this chat, were still never volunteered. The all-time maximum silence remains 27 days.",
+      "evidence": [
+        {
+          "quote": "Hey @StardustNexus can we give Liza an update on the accounts she gave us to post on!!",
+          "who": "Mayson Chat, unprompted. This is the first time anyone at ALTR pushed for an IG status in writing. It drew her first question in 12 days. It also exposed that the vendor had created @lizanaughty and restored a banned account without telling her, and nobody at ALTR followed up on that.",
+          "date": "2026-10-20"
+        },
+        {
+          "quote": "hi @yelikovaa! heres your reel inspo this week 🫶",
+          "who": "Mica Vecco, followed by 8 bare Instagram links. Second consecutive bare drop (10-14, 10-28) after the specific 10-06 tip that got 'thanks for the tip I'll try it'. Tagged @yelikovaa while Jeremy, Mayson and Melissa tag @xanaduexpress; the team does not agree on her handle.",
+          "date": "2026-10-28"
+        },
+        {
+          "quote": "Hey @xanaduexpress! Here is your earnings and performance report for the last week. Your DMCA report is incorporated in this report as well. For future reference, we will be sending everything together in this report.",
+          "who": "Melissa Userfacing. Right format, right promise. No report followed on 10-23, and she never acknowledged this one.",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "onboarding_handoff": {
+      "severity": 3,
+      "internal_failure": "Fifteen months in, the roles introduced on 10-13 are already blurred: Spencer 'handles all customs' but Jeremy (AM) is the one who answered the customs question, and neither inherited the open items (09-24 delivery confirmation, 10-08 price, Aroosha's check-in). The IG-growth accounts (Stardust Nexus, Theta SDX) have still never been introduced by ALTR, 22 days after logging into her Instagram and 10 days after revealing they run a third account in her name. Nobody has told her who owns IG recovery or security. The team cannot agree on her Telegram handle.",
+      "evidence": [
+        {
+          "quote": "right now we are posting for three accounts / one trial each day for @lizkovalenkoo / one trial each day for @Lizakovaal / and one Reels for the back up we have created for her @lizanaughty",
+          "who": "Theta SDX (IG farm vendor), in response to Mayson. This is the first time anyone told her what the vendor does, and it came from the vendor, not from ALTR. No ALTR person has said who this is, why they have her logins, or why a backup account was created in her name.",
+          "date": "2026-10-20"
+        },
+        {
+          "quote": "scratch that, i see there are actually 2 customs / 1 for jose and 1 for Cammy / are those showing up on your end when you click the customs tab on the bottom?",
+          "who": "Jeremy Tarr (AM), answering the customs question that Spencer P ('Ill be handling all customs', 10-13) had chased twice without detail. His own question to her was still unanswered at window close and nobody followed up.",
+          "date": "2026-10-28"
+        },
+        {
+          "quote": "Hi @xanaduexpress , hope you are having a great day! We are still waiting on a couple customs. Please let me know when you are able to complete them 😀😀😀",
+          "who": "Jeremy Tarr, first message after his 10-13 intro. A chase with no custom names, no price, no acknowledgement of the three customs she already delivered on 09-24.",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "chatter_conduct": {
+      "severity": 2,
+      "internal_failure": "Customs are still sold and chased without a brief. Four 'pending customs' chases in 12 days never named the fan, content, or price; when she asked, the AM read the sheet wrong, corrected himself, and still gave no price. The three customs she delivered on 09-24 to an $8.6k top spender have not been confirmed delivered in 36 days, and the 10-08 request's price was never answered. There is still no written customs policy (price, limits, turnaround) since the original 07-20 breach.",
+      "evidence": [
+        {
+          "quote": "just bumping these pending customs and voice note!",
+          "who": "Spencer P. Third of four chases; no fan, no content, no price, no deadline, no mention of the customs she had already sent.",
+          "date": "2026-10-27"
+        },
+        {
+          "quote": "Hey Eli, it looks like it's just the voice note I dont see that any other customs have populated on the sheet yet",
+          "who": "Jeremy Tarr, 3 minutes after her question, corrected 30 seconds later to 'there are actually 2 customs'. The customs owner (Spencer) had chased these twice without checking what they were.",
+          "date": "2026-10-28"
+        },
+        {
+          "quote": "Hi Ronnie! I had never done custom videos before, I thought it's a topic for discussion with me first",
+          "who": "Eli (client). The original boundary breach: customs sold to fans before she was briefed. 102 days later a written customs policy still does not exist.",
+          "date": "2026-07-20"
+        }
+      ]
+    },
+    "platform_health": {
+      "severity": 3,
+      "internal_failure": "First written IG status in 51 days (10-20), but it came from the unintroduced vendor, only because Mayson asked, and it revealed two things that happened to her accounts without disclosure: a backup account created in her name (@lizanaughty) and a ban-and-restore on one handle. @Lizaakovalenk0, the third handle she gave credentials for, was not mentioned. 'Are the profiles currently recommended?' got 'yes they are', with no detail on which was banned or when. Vivek, the named Meta Support Rep, has posted nothing about her accounts since 08-31 and nothing at all since 10-12. IG integrity has been her stated top concern since 2025-10-10.",
+      "evidence": [
+        {
+          "quote": "yes they are. one of them was banned but we managed to restore it",
+          "who": "Theta SDX (IG farm vendor), 3.5h after her question and a Mayson tag. Which account, when, and how it was restored were not stated, and no ALTR person added anything.",
+          "date": "2026-10-20"
+        },
+        {
+          "quote": "Are the profiles currently recommended?",
+          "who": "Eli (client), her first question in 12 days, asked within 2 minutes of the vendor's status. A written status is what draws her out; ALTR had not provided one since she handed over credentials on 08-31.",
+          "date": "2026-10-20"
+        },
+        {
+          "quote": "All Instagram I gave you guys got deleted. Any news with recovery's?",
+          "who": "Eli (client). 61 days later the only status is the vendor's 10-20 message; nothing ALTR-written, nothing on @Lizaakovalenk0.",
+          "date": "2026-08-30"
+        }
+      ]
+    },
+    "billing_ops": {
+      "severity": 2,
+      "internal_failure": "No new billing errors, and she paid Oct 1-14 in about 28h with proof posted unprompted. But the receipt-confirmation standard set on 10-15 ('we recieved! it was $3189') was dropped the very next cycle: her wire screenshot got 'Thanks love!' with no amount and no 'received'. Still unexplained: why the $420 (09-24) wire bounced, why $3,189 arrived against $2,224.88 owed, and the $5,000 under-credit she found with her own receipts (silently corrected 09-09, 51 days without acknowledgement). Six banking changes since 2025-09-27 remain the root cause of her bounce history.",
+      "evidence": [
+        {
+          "quote": "Thanks love!",
+          "who": "Stephski, 21h after the client posted 'Wire confirmation' with a screenshot for the Oct 1-14 invoice. No figure, no confirmation of receipt. The 10-15 message had shown the better pattern.",
+          "date": "2026-10-17"
+        },
+        {
+          "quote": "Wire confirmation",
+          "who": "Eli (client), posting proof about 28h after the invoice and 6 days before it was due. Second consecutive instant settlement in a near-silent window.",
+          "date": "2026-10-16"
+        },
+        {
+          "quote": "Okay ive rolled over 7499.59 to this invoice so the new amount due is 4231.69",
+          "who": "Stephski. This silently corrected the $5,000 under-credit the client proved with receipts. 51 days later nobody has named the mistake or apologised.",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "ownership_escalation": {
+      "severity": 2,
+      "internal_failure": "Billing (Stephski) and link-in-bio (Mayson) still have owners. Nobody owns the vendor relationship: Mayson had to tag @StardustNexus and then @thetasdx to get a reply, and when the reply disclosed a backup account and a ban, no one picked it up. Customs now have two voices (Spencer chases, Jeremy answers) and no one closed the loop on Jeremy's open question. IG recovery has had no ALTR-side owner post since Vivek's 'Check dms' (08-31). Derrek has been silent 87 days. Seven different ALTR/vendor accounts posted in the window; the hard items still belong to no one.",
+      "evidence": [
+        {
+          "quote": "@thetasdx",
+          "who": "Mayson Chat, re-tagging the vendor 9 minutes after her question because the first tag (@StardustNexus) had not produced an answer to it. ALTR is brokering between the client and a vendor it never introduced.",
+          "date": "2026-10-20"
+        },
+        {
+          "quote": "Hey @xanaduexpress, quick heads up: over the next few days you might see messages like \"test message (disregard)\" pop up in here.",
+          "who": "Mayson Chat. Good pre-warning, but it also meant a new account ('Antonio Veritrade') was added to a chat that still contains her plaintext passwords, and nobody weighed that.",
+          "date": "2026-10-21"
+        },
+        {
+          "quote": "Which dms ?",
+          "who": "Eli (client), replying to Vivek's 'Check dms' about the deleted accounts. Never answered; IG recovery has had no ALTR owner in the chat since.",
+          "date": "2026-08-31"
+        }
+      ]
+    },
+    "disengagement_detection": {
+      "severity": 3,
+      "internal_failure": "Every churn-signature signal is present and nobody acted: record-low volume (4 messages in 14 days), fast settlement with proof posted before anyone asked, no reaction to the IG status, DMCA change, link-in-bio switch, or either inspo drop, and both of her asks were reactive. The only personal-sounding outreach ('hope you are having a great day!') was a customs chase. Nobody senior checked in, the owner is 87 days silent, and the team is not even certain which Telegram handle reaches her.",
+      "evidence": [
+        {
+          "quote": "Hi @xanaduexpress , hope you are having a great day!",
+          "who": "Jeremy Tarr, immediately followed by 'We are still waiting on a couple customs.' This is the closest thing to a check-in she received in two weeks.",
+          "date": "2026-10-16"
+        },
+        {
+          "quote": "Wire confirmation",
+          "who": "Eli (client). Two of her four messages in the window were this payment proof. Fast, unprompted settlement with zero asks is the exit signature; nobody on our side asked how she was doing.",
+          "date": "2026-10-16"
+        },
+        {
+          "quote": "Will send shortly",
+          "who": "Eli (client), one minute after the previous invoice. The pattern has now repeated two cycles in a row.",
+          "date": "2026-10-15"
+        }
+      ]
+    },
+    "security_hygiene": {
+      "severity": 3,
+      "internal_failure": "Unchanged from 10-16, and the surface grew. Three IG handles with plaintext passwords (client, 08-31, at Vivek's request), one re-posted by Michelle (09-12), and a live 2FA code (client, 10-08, at the vendor's request) are all still in the chat; nothing deleted, nothing rotated, nothing disclosed to her. On 10-21 another account was added to the group. On 10-20 the vendor confirmed it is actively operating two of those handles plus a third account it created in her name, so the exposed credentials are for live accounts. No ALTR person has yet explained the 10-08 session or who holds her logins.",
+      "evidence": [
+        {
+          "quote": "would please give me the 2fa code here?",
+          "who": "Theta SDX (IG farm vendor), in the open group. The client posted the code ([2FA code redacted]) and the vendor replied 'I'm in.' 22 days later no ALTR person has mentioned it.",
+          "date": "2026-10-08"
+        },
+        {
+          "quote": "hey babes this login below doesn't work, can you check on password when you get a chance pls 💕 / @Lizakovaal / [password redacted]",
+          "who": "Michelle Queue, re-posting the client's plaintext password in the group. Still not deleted or rotated at 48 days. The vendor now posts daily on this handle.",
+          "date": "2026-09-12"
+        },
+        {
+          "quote": "Hey Ma'am please send me id password",
+          "who": "Vivek (Meta Support Rep), requesting logins for three IG accounts in the group chat. The client replied the next day with three handles and plaintext passwords ([credentials redacted]); 60 days later they are still in the chat and the room has gained members three times since.",
+          "date": "2026-08-30"
+        }
+      ]
+    }
+  },
+  "metrics": {
+    "client_questions_total": 72,
+    "unanswered_over_24h": 22,
+    "max_team_silence_days": 27,
+    "promises_made": 46,
+    "promises_kept": 20,
+    "promises_lapsed": 25,
+    "method": "Carried forward from the 10-09/10-16 full-history runs (2025-07-24 onward): client = 'Eli' per config/clients.yaml, every other non-service sender counted as our side (vendor accounts included), client messages grouped into bursts by topic with gaps under 6h, and a burst counted as 'unanswered >24h' if nobody on our side posted in the same topic within 24h. The 10-16..10-30 window was read in full: 4 client messages, 2 questions, both answered same day (3.5h via vendor after a Mayson tag; 3 min by Jeremy), so questions 70 -> 72 and unanswered stays 22. A topic-agnostic re-count over the whole file (79 question messages, 57 bursts, 16 bursts with no team reply within 24h) is consistent in direction; the topic-aware 22 is kept for continuity. Longest gap between our messages in the window was 5.1 days (10-22 -> 10-27), so the all-time maximum stays 27.0 (2026-05-05 -> 06-01). Promises added: 'every Friday' combined report (Mayson/Melissa 10-16, missed 10-23, lapsed) and Spencer's 'follow up again in a few days' (10-22, kept 10-27). One promise still open (Aroosha's 10-08 'check in with the team', ownership passed to Spencer without closure)."
+  },
+  "what_client_wanted": [
+    "To know whether her Instagram profiles are alive and recommended, in writing: 'Are the profiles currently recommended?' (2026-10-20), her first question in 12 days, asked within two minutes of the vendor's status; and before that 'All Instagram I gave you guys got deleted. Any news with recovery's?' (2026-08-30).",
+    "To be told what is wanted from her before being chased: 'Hey! I see the voice note request, but what other customs are pending?' (2026-10-28) after four unnamed chases; and 'What exactly you need , reels/ picks?' (2026-09-24), still open.",
+    "To know who is touching her accounts and what they do: 'Was it someone from the team that logged in ?' (2026-03-18), never answered; the vendor's 10-20 disclosure of a backup account 'we have created for her' is the kind of thing she should have heard from ALTR first.",
+    "Her money seen to arrive, with numbers: she posts proof unprompted ('Wire confirmation', 2026-10-16) and asks 'How much did you deduct babe?' (2026-09-02); the 10-15 confirmation with a figure got 'Hi dear thank you so much xx', the 10-17 'Thanks love!' got nothing."
+  ],
+  "what_worked": [
+    "A written status pulls her back in. Mayson's 10-20 prompt to the vendor produced the first IG status in 51 days and she replied within two minutes with a real question ('Are the profiles currently recommended?'). Keep doing it, but have ALTR write it, cover all three handles, and do it on a cadence rather than once.",
+    "Consolidating reporting into one Friday message (10-16) ended a 226-day DMCA blackout and gives her a predictable touchpoint; it only works if it actually goes out every Friday (10-23 was missed).",
+    "Billing with numbers still earns warmth and trust: 'we recieved! it was $3189 so i rolled over the over payment' (10-15) got 'Hi dear thank you so much xx' with no audit or pushback. When the figure was dropped on 10-17 she said nothing, which is the pattern to avoid."
+  ],
+  "top_fix": "Name one ALTR owner for Liza's Instagram access and security and have that person post a single written status this week, co-signed by Derrek (87 days silent): for each of @Lizakovaal, @lizkovalenkoo and @Lizaakovalenk0 what its state is, who Stardust Nexus and Theta SDX are and what they did after the 10-08 2FA login, what @lizanaughty is and why it was created in her name, which account was banned and restored, and whether the vendor's session is still active. In the same message tell her plainly that her passwords and a 2FA code are in this chat, delete those messages, and walk her through a password change and 2FA reset in DM. Then make two rules: no outside account posts in a client chat or asks for a login without an ALTR introduction first, and every 'pending customs' message names the fan, the content, the price and the deadline."
+}

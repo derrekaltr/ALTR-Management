@@ -1,0 +1,195 @@
+{
+  "client": "Liza Kovalenko",
+  "slug": "liza-kovalenko-x-altr",
+  "week_ending": "2026-10-02",
+  "summary": "Billing finally spoke in numbers; everything else stayed silent, and so did the client. Of the 10 messages this window, 7 were Stephski on 10-01 and 1 was Melissa's agency-wide intake-form broadcast (09-28). Stephski issued the Sep 15-30 invoice on schedule and, for the first time in eight billing cycles, stated the credit as a figure: 'we rolled over -$3,537.95 from your over payment from last month and the $1,500.00 we received on the 28th' / 'which totals the $5,037.95 we deducted from the invoice'. That implicitly confirms the 09-16 $10,000 landed (it produced the $3,537.95 overpayment) and the first 09-24 $1,500 wire arrived ('recieved this!'). But the SECOND 09-24 wire (sender Jose M Munoz Linss, amount visible only in a receipt photo) is missing at day 7: 'not seeing this one i double checked just now'. Liza now has to chase it herself: 'I’m checking on it'.\n\nNobody else from ALTR posted at all. Her 09-24 question 'What exactly you need , reels/ picks?' and her delivered customs ('All done ☑️') are now 8 days unanswered, two full windows. Ronnie, Mica, Mayson, Michelle, Vivek and Derrek sent nothing. ALTR's leak of her plaintext IG password (her 08-31 post, re-posted by Michelle 09-12, password [REDACTED]) is still in the room, still untold, 32 days on. Vivek: 32 days silent on three deleted IG accounts. Derrek: 59 days silent; the $5,000 under-credit is 23 days unacknowledged. Melissa's 09-25 weekly leak-removal update did not reach this chat, so DMCA output here is still zero since 2026-03-04.\n\nCHURN WATCH: signal (a) is now present. After 17 messages met with silence last window, Liza sent nothing for 7 days, then only two short replies to billing ('Hi love 🤍', 'I’m checking on it'). She ignored the intake form. Signal (b) carries over: unprompted pre-invoice wires 'Towards next month commission' with zero service asks. No signals (c) or (d). The 09-25 report's trigger has fired: a second window closed with her 09-24 service messages unanswered. Treat the account as actively at risk despite flawless payment conduct and a still-warm tone.",
+  "health": {
+    "score": 45,
+    "trend": "down",
+    "rationale": "Down 3 from 48. One real improvement: Stephski posted an explicit credit figure ($3,537.95 + $1,500 = $5,037.95) for the first time in eight cycles, confirmed one of the 09-24 wires, issued the Sep 15-30 invoice on time, and by implication closed the 9-day-old $10,000 clearance question. That is worth points on payment risk. It is outweighed by service failure and a new churn signal. For the second window running, nobody answered the client's 09-24 content question or acknowledged her delivered customs (8 days). The only non-billing ALTR message was a generic intake-form broadcast, which she ignored. Her own output fell from 17 messages to 2, both short billing replies, after 7 days of silence. That is churn signal (a), quiet/short, on top of signal (b) from last window: unprompted pre-invoice wires with zero asks. A second 09-24 wire is unaccounted for at day 7 and she is chasing it. Standing ALTR-caused risks are unchanged and still ageing: the plaintext-password leak (32 days, untold, and she said she would 'double check on this log in'), three deleted IG accounts with no status (Vivek 32 days silent), owner silence 59 days, $5,000 error unacknowledged 23 days. Held up only by her payment reliability and warm tone ('Hi love 🤍')."
+  },
+  "reminders": [
+    {
+      "employee": "Mica Vecco",
+      "topic": "Content upload: ALTR chased three times (Mayson 08-30, Michelle 09-10, Mica 09-23). The client agreed and asked what format was wanted. That question has gone unanswered through a second full window (8 days). The ball is ALTR's. Do not chase again until someone answers her.",
+      "count": 3,
+      "evidence": [
+        {"quote": "Please upload all the content you have that hasn't been posted yet, then keep it topped up with 7 reels a week so 30 in total per month", "date": "2026-08-30", "sender": "Mayson Chat"},
+        {"quote": "I noticed there hasn’t been anything uploaded yet, so I just wanted to check in with you!", "date": "2026-09-10", "sender": "Michelle Queue"},
+        {"quote": "Hey @xanaduexpress! 💕 Just a quick reminder to please upload your content to the Google Drive when you get a chance so we can keep everything organized and up to date. Thank you!!", "date": "2026-09-23", "sender": "Mica Vecco"},
+        {"quote": "What exactly you need , reels/ picks?", "date": "2026-09-24", "sender": "Eli (Liza)", "note": "Still unanswered at 2026-10-02 window close - 8 days."}
+      ]
+    },
+    {
+      "employee": "Vivek",
+      "topic": "Status on the three deleted/suspended IG accounts (@Lizakovaal, @lizkovalenkoo, @Lizaakovalenk0). She asked 3x on 08-30/08-31 and has not asked since. No status ever issued. Vivek has not posted since 2026-08-31, now 32 days.",
+      "count": 3,
+      "evidence": [
+        {"quote": "All Instagram I gave you guys got deleted. Any news with recovery’s?", "date": "2026-08-30", "sender": "Eli (Liza)"},
+        {"quote": "Let me know please", "date": "2026-08-31", "sender": "Eli (Liza)"},
+        {"quote": "Which dms ?", "date": "2026-08-31", "sender": "Eli (Liza)"},
+        {"quote": "Also let me double check on this log in", "date": "2026-09-24", "sender": "Eli (Liza)"}
+      ]
+    },
+    {
+      "employee": "Stephski",
+      "topic": "Wire receipt confirmation. Improved this window: a numeric credit was stated and the first 09-24 wire was confirmed. The second 09-24 wire is still not received at day 7, and the client is now chasing it herself. This continues the six-cycle pattern of her having to verify ALTR's receipts.",
+      "count": 7,
+      "evidence": [
+        {"quote": "Lmk when it hits", "date": "2026-09-09", "sender": "Eli (Liza)"},
+        {"quote": "And one more", "date": "2026-09-24", "sender": "Eli (Liza)"},
+        {"quote": "not seeing this one i double checked just now", "date": "2026-10-01", "sender": "Stephski"},
+        {"quote": "I’m checking on it", "date": "2026-10-01", "sender": "Eli (Liza)"}
+      ]
+    },
+    {
+      "employee": "Ronnie",
+      "topic": "Customs delivery never acknowledged, plus the OF 'tag a creator' flag he committed to investigate on 08-09. Her follow-up has been unanswered for 54 days. Ronnie posted nothing this window.",
+      "count": 2,
+      "evidence": [
+        {"quote": "So I just tag someone and that’s it ?", "date": "2026-08-09", "sender": "Eli (Liza)"},
+        {"quote": "pending customs above", "date": "2026-09-23", "sender": "Ronnie Chat"},
+        {"quote": "All done ☑️", "date": "2026-09-24", "sender": "Eli (Liza)", "note": "No acknowledgement from Ronnie or anyone at 8 days."}
+      ]
+    }
+  ],
+  "complaints": [
+    {
+      "issue": "Second consecutive window with the client's 09-24 service messages unanswered. Her format question and her delivered customs have gone 8 days with no reply. The only non-billing ALTR message all window was a generic intake-form broadcast. The 09-25 report set this as the churn trigger, and it has fired.",
+      "status": "recurring",
+      "owner": "Mica Vecco / Ronnie / Mayson / Derrek",
+      "first_raised": "2026-09-25",
+      "evidence": [
+        {"quote": "What exactly you need , reels/ picks?", "date": "2026-09-24", "sender": "Eli (Liza)"},
+        {"quote": "Here the link", "date": "2026-09-24", "sender": "Eli (Liza)"},
+        {"quote": "All done ☑️", "date": "2026-09-24", "sender": "Eli (Liza)"}
+      ]
+    },
+    {
+      "issue": "ALTR-caused credential exposure, still unaddressed at 32 days. Liza posted three IG logins on 08-31 at Vivek's request. Michelle re-posted one of them, password [REDACTED], as a new message on 09-12. Nobody has told her, deleted either message, or rotated anything. On 09-24 she said she would go back to that login. Room membership changed again on 09-25 (ChatAddUser), the fourth change since the post.",
+      "status": "recurring",
+      "owner": "Derrek / Vivek / Michelle",
+      "first_raised": "2026-08-31",
+      "escalation": "Owner-level. Termination-grade if she discovers it unprompted.",
+      "evidence": [
+        {"quote": "Hey Ma’am please send me id password", "date": "2026-08-30", "sender": "Vivek"},
+        {"quote": "hey babes this login below doesn’t work, can you check on password when you get a chance pls 💕\n\n@Lizakovaal\n[REDACTED]", "date": "2026-09-12", "sender": "Michelle Queue"},
+        {"quote": "Also let me double check on this log in", "date": "2026-09-24", "sender": "Eli (Liza)"}
+      ]
+    },
+    {
+      "issue": "Three deleted/suspended IG accounts with no status of any kind. Credentials were handed over 32 days ago. Vivek has been silent since 08-31. This is the same IG-integrity problem raised since 2025-10-10 (357 days), and it is what the Phone Farm and the Meta Support Rep were sold as fixing.",
+      "status": "recurring",
+      "owner": "Vivek / Derrek",
+      "first_raised": "2025-10-10",
+      "evidence": [
+        {"quote": "All Instagram I gave you guys got deleted. Any news with recovery’s?", "date": "2026-08-30", "sender": "Eli (Liza)"},
+        {"quote": "Okay on it", "date": "2026-08-31", "sender": "Vivek"},
+        {"quote": "Check dms", "date": "2026-08-31", "sender": "Vivek"}
+      ]
+    },
+    {
+      "issue": "Second 09-24 wire (sender Jose M Munoz Linss) not received at day 7. Its amount exists only in a receipt photo and was never stated in text. Stephski only acknowledged it on 10-01, 7 days after it was sent, and the client now has to trace it. It was sent against the 6th ALTR banking change (beneficiary name, 09-15) with a new sender-name variant, so a bounce is plausible. Her Mexican banks need in-person branch visits.",
+      "status": "new",
+      "owner": "Stephski",
+      "first_raised": "2026-10-01",
+      "evidence": [
+        {"quote": "These will be coming from Jose M Munoz Linss", "date": "2026-09-24", "sender": "Eli (Liza)"},
+        {"quote": "not seeing this one i double checked just now", "date": "2026-10-01", "sender": "Stephski"},
+        {"quote": "im sure this one will show just isnt yet but ill lyk!", "date": "2026-10-01", "sender": "Stephski"},
+        {"quote": "I’m checking on it", "date": "2026-10-01", "sender": "Eli (Liza)"}
+      ]
+    },
+    {
+      "issue": "Invoice credits stated without numbers: largely fixed this cycle. After seven cycles of wording-only credits, Stephski gave explicit figures. The invoice gross and net due are still only in the attached file, not in text. The $10,000 clearance was never confirmed in words, only implied by the overpayment figure.",
+      "status": "in_progress",
+      "owner": "Stephski",
+      "first_raised": "2026-07-14",
+      "evidence": [
+        {"quote": "I've deducted the overpayment from last period + the 1500 you sent earlier", "date": "2026-09-15", "sender": "Stephski"},
+        {"quote": "we rolled over -$3,537.95 from your over payment from last month and the $1,500.00 we received on the 28th", "date": "2026-10-01", "sender": "Stephski"},
+        {"quote": "which totals the $5,037.95 we deducted from the invoice", "date": "2026-10-01", "sender": "Stephski"}
+      ]
+    },
+    {
+      "issue": "Owner silence: 59 days (last Derrek message 2026-08-04). The $5,000 under-credit the client found herself on 09-08/09-09 is still unacknowledged at 23 days. The Phone Farm update promise ('plenty of updates starting next week', 08-01) is 62 days old.",
+      "status": "recurring",
+      "owner": "Derrek",
+      "first_raised": "2026-08-14",
+      "evidence": [
+        {"quote": "Thank you for your understanding, we will have plenty of updates starting next week.", "date": "2026-08-01", "sender": "Derrek"},
+        {"quote": "Okay ive rolled over 7499.59 to this invoice so the new amount due is 4231.69", "date": "2026-09-09", "sender": "Stephski"}
+      ]
+    },
+    {
+      "issue": "DMCA/leak-takedown reporting is still dark in this chat: 212 days since the last report (2026-03-04). Melissa's agency-wide 09-25 weekly leak-removal update did not land in this group.",
+      "status": "recurring",
+      "owner": "Nick (DMCA) / Melissa / Derrek",
+      "first_raised": "2026-03-04",
+      "evidence": [
+        {"quote": "Amazing thank you Nick great job 👏", "date": "2025-12-11", "sender": "Eli (Liza)"}
+      ]
+    },
+    {
+      "issue": "OF 'tag a creator' flag never diagnosed. First raised 2026-01-26 (249 days). Ronnie committed on 08-09 and her follow-up has been unanswered for 54 days.",
+      "status": "recurring",
+      "owner": "Ronnie",
+      "first_raised": "2026-01-26",
+      "evidence": [
+        {"quote": "So I just tag someone and that’s it ?", "date": "2026-08-09", "sender": "Eli (Liza)"}
+      ]
+    }
+  ],
+  "commitments": [
+    {"what": "Tell Liza ALTR re-posted her plaintext IG password, delete both credential messages (08-31, 09-12), and rotate all three passwords", "who": "Derrek / Vivek", "date": "2026-08-31", "status": "overdue", "days_overdue": 32, "evidence": [{"quote": "Hey Ma’am please send me id password", "date": "2026-08-30", "sender": "Vivek"}]},
+    {"what": "Recover, or state the outcome on, @Lizakovaal / @lizkovalenkoo / @Lizaakovalenk0", "who": "Vivek", "date": "2026-08-31", "status": "overdue", "days_overdue": 32, "evidence": [{"quote": "Okay on it", "date": "2026-08-31", "sender": "Vivek"}]},
+    {"what": "Locate the second 09-24 wire (Jose M Munoz Linss) and let her know when it shows", "who": "Stephski", "date": "2026-10-01", "status": "pending", "evidence": [{"quote": "im sure this one will show just isnt yet but ill lyk!", "date": "2026-10-01", "sender": "Stephski"}]},
+    {"what": "Client: trace the missing second 09-24 wire on her side", "who": "Liza Kovalenko (client)", "date": "2026-10-01", "status": "pending", "evidence": [{"quote": "I’m checking on it", "date": "2026-10-01", "sender": "Eli (Liza)"}]},
+    {"what": "Confirm the 09-16 $10,000 cleared. Kept implicitly on 10-01 through the $3,537.95 overpayment roll-over, never confirmed in words.", "who": "Stephski", "date": "2026-09-16", "status": "done", "evidence": [{"quote": "Its currently in processing on hold ill let you know when it clears", "date": "2026-09-16", "sender": "Stephski"}, {"quote": "we rolled over -$3,537.95 from your over payment from last month and the $1,500.00 we received on the 28th", "date": "2026-10-01", "sender": "Stephski"}]},
+    {"what": "Answer 'What exactly you need , reels/ picks?' and acknowledge the Dropbox customs delivery", "who": "Mica Vecco / Ronnie", "date": "2026-09-24", "status": "overdue", "days_overdue": 8, "evidence": [{"quote": "What exactly you need , reels/ picks?", "date": "2026-09-24", "sender": "Eli (Liza)"}, {"quote": "All done ☑️", "date": "2026-09-24", "sender": "Eli (Liza)"}]},
+    {"what": "Client: upload content to the Drive. Blocked on ALTR answering her format question.", "who": "Liza Kovalenko (client)", "date": "2026-09-24", "status": "pending", "evidence": [{"quote": "I’ll get this done today will upload content", "date": "2026-09-24", "sender": "Eli (Liza)"}]},
+    {"what": "Acknowledge the $5,000 under-credit to the client", "who": "Derrek", "date": "2026-09-09", "status": "overdue", "days_overdue": 22, "evidence": [{"quote": "So maybe you missed one of them", "date": "2026-09-08", "sender": "Eli (Liza)"}]},
+    {"what": "Phone Farm / backup-IG rollout updates", "who": "Derrek", "date": "2026-08-01", "status": "overdue", "days_overdue": 54, "evidence": [{"quote": "Thank you for your understanding, we will have plenty of updates starting next week.", "date": "2026-08-01", "sender": "Derrek"}]},
+    {"what": "Investigate the OF tag-a-creator flag", "who": "Ronnie", "date": "2026-08-09", "status": "overdue", "days_overdue": 54, "evidence": [{"quote": "So I just tag someone and that’s it ?", "date": "2026-08-09", "sender": "Eli (Liza)"}]},
+    {"what": "Paid-IG-ads statistics summary (she paid an extra 5%)", "who": "Derrek", "date": "2025-11-18", "status": "overdue", "days_overdue": 313},
+    {"what": "Trial-reels call follow-up (offered 09-04, unanswered, never chased)", "who": "Mayson", "date": "2026-09-04", "status": "overdue", "days_overdue": 25},
+    {"what": "Monthly call (asked 07-20, dropped)", "who": "Mayson / Derrek", "date": "2026-07-20", "status": "overdue", "days_overdue": 73},
+    {"what": "Restart or explain DMCA takedown reporting in this chat", "who": "Nick (DMCA) / Melissa / Derrek", "date": "2026-03-04", "status": "overdue", "days_overdue": 212},
+    {"what": "Close the Facebook-access loop with one owner (Mica 03-11, Mayson 09-16, both unanswered)", "who": "Mica Vecco / Mayson", "date": "2026-03-11", "status": "overdue", "days_overdue": 205}
+  ],
+  "payments": [
+    {"note": "Sep 15-30 invoice issued on schedule 2026-10-01 14:43 with 7-day terms (due ~2026-10-08). The gross and net due are in the attached file only, not stated in text. Credit stated explicitly for the first time in eight cycles: $3,537.95 overpayment from Sep 1-14 + $1,500 received 09-28 = $5,037.95 deducted.", "date": "2026-10-01", "amount": "credit $5,037.95; net due not stated in text", "status": "issued, due ~2026-10-08"},
+    {"note": "09-16 $10,000 wire: implicitly cleared. The $3,537.95 'over payment from last month' implies the Sep 1-14 net due was ~$6,462.05 (inference; ~$8,730 gross before the $768.31 + $1,500 credits). Never confirmed in words.", "date": "2026-09-16", "amount": 10000, "status": "received (inferred)"},
+    {"note": "First 09-24 wire ($1,500, 'Towards next month commission') confirmed: 'recieved this!' 7 days after sending. Credited 09-28.", "date": "2026-09-24", "amount": 1500, "status": "received"},
+    {"note": "Second 09-24 wire (sender Jose M Munoz Linss) NOT received at day 7. The amount is in a receipt photo only. Client is chasing it ('I’m checking on it'). Possible bounce against the 09-15 beneficiary-name change.", "date": "2026-09-24", "amount": "unknown (photo only)", "status": "missing"},
+    {"note": "Pattern: payment intent is flawless (early, unprompted, overpays), but verification and reconciliation keep failing on ALTR's side. Payment risk lowered from HIGH to MEDIUM-HIGH: numbers were stated and the $10k is resolved, but one wire is lost in transit."}
+  ],
+  "client_priorities": [
+    "Getting her three deleted IG accounts back, or at least a status (32 days, none given)",
+    "Instagram account safety generally - her #1 concern for ~357 days",
+    "Being answered when she responds - 09-24 question and customs delivery unanswered 8 days",
+    "Knowing her money arrived, with numbers - first numeric credit given 10-01; one wire still missing",
+    "Clear, concrete asks (named deliverable, destination, deadline) - proven by her 33-minute customs turnaround",
+    "Leak/impersonator takedowns - no visible output in this chat since 2026-03-04",
+    "Definitive answers on OF/IG warning flags"
+  ],
+  "suggestions": [
+    "Derrek, personally, this week: one message that (1) tells her about the re-posted password, then deletes the 08-31 and 09-12 messages and asks her to rotate all three, (2) names the $5,000 under-credit, and (3) gives a status on the three IG accounts. This also breaks 59 days of owner silence.",
+    "Mica/Ronnie today: answer 'reels or pics?' with a concrete spec (e.g. '7 vertical reels, 10-20s, upload to [Drive] by Friday') and thank her for the customs. Two windows of silence on her compliance is the active churn driver.",
+    "Stephski: post the invoice's gross and net due in text alongside the credit, and give the missing wire an owner and a date. Ask her for the amount and tracking number rather than leaving her to chase. Keep the new numeric-credit format permanently.",
+    "Do not change banking details again. Check whether the missing wire bounced on the 09-15 beneficiary-name change.",
+    "Treat the Melissa intake form as low priority for this client until the open items are cleared. A generic broadcast landing on a client with 8-day-old unanswered questions reads as indifference.",
+    "Route the weekly leak-removal update into this chat. DMCA has shown nothing here for 212 days."
+  ],
+  "wins": [
+    "Stephski stated the invoice credit as an explicit number for the first time in eight cycles ($3,537.95 + $1,500 = $5,037.95), and the figure is internally consistent with the known credits.",
+    "The Sep 15-30 invoice was issued on schedule (10-01) with clear 7-day terms, and no new banking change was announced in the text.",
+    "The 09-16 $10,000 question is effectively closed (the overpayment roll-over implies it cleared), and the first 09-24 $1,500 wire was confirmed received.",
+    "Client tone is still warm ('Hi love 🤍') and she engaged with billing within 3 minutes of the invoice."
+  ],
+  "week_stats": {
+    "messages": 10,
+    "client_messages": 2,
+    "team_messages": 8
+  }
+}

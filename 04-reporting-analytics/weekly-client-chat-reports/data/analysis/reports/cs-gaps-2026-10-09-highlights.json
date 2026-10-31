@@ -1,0 +1,148 @@
+{
+  "verdict": "Flat on the dimensions, slightly better at the edges: no new exits since Amber Haze gave notice on 9/21, and Liza, Sarah Lloyd, Mila and Sarah have all re-engaged on their own since 9/25, mostly because the weekly leak report came back and Melissa's repost network gave people something real to react to. Underneath, nothing that was broken got fixed: follow_through is 3.00 across all eighteen accounts for the third run in a row, every live client is still at_risk, and five of the six churned clients still have money, access or credentials dangling with nobody owning the exit. The new danger this week is security: an IG-growth vendor nobody introduced got a live 2FA code in Liza's group chat on 10/8 and logged in, and Lauren Blake's Instagram login was sitting in plaintext on our own published team site for three weeks.",
+  "fires": [
+    {
+      "client": "Liza Kovalenko + Lauren Blake",
+      "owner": "Derrek",
+      "why": "Two accounts posting as 'Stardust Nexus' and 'Theta SDX' joined client chats between 10/5 and 10/8 with no introduction from anyone at ALTR, posted IG growth screenshots ('Crushing IG farms', '2k growth in 2 days using only trial'), and on 10/8 asked Liza in the open group for an Instagram 2FA code. She sent a live one and they replied 'I'm in.' From her side, a stranger asked for a code and got into her account, three weeks after we broadcast 'do not send your backup codes to anyone, including our team.' Liza's plaintext passwords from 8/31 and 9/12 are also still in that chat, and Lauren's IG and Snapchat logins (same password on both) have been unrotated for 28 days. Separately, Lauren's Instagram username and password were quoted in plaintext in the published 9/18 and 9/25 team-site reports. Those pages are now redacted locally, but the live site still serves the old ones until it is republished.",
+      "action": "Today: confirm in writing who this vendor is, who hired them and what access they hold. If nobody can, remove them from every chat and treat the login as a compromise. Then message Liza and Lauren yourself, explain it plainly, and walk them through a password change over a private channel. Republish the team site so the redacted pages replace the leaked ones. Have Vivek check whether the same vendor is in any other client chat.",
+      "draft": "Liza — Derrek. I want to flag something myself rather than have you wonder about it.\n\nOn [10/8] two accounts in this chat, [Stardust Nexus / Theta SDX], asked you for an Instagram code and you sent it. [They are our IG growth partner, working on [which handles] / We can't confirm who they are and have removed them], and either way they should have been introduced to you properly first, and nobody should ever ask you for a code in a group chat. That's on us, not you.\n\nTo be safe, I'd like to change the passwords on [which accounts] with you today, privately, not in this chat. [Vivek / I] will message you directly at [time] and it'll take ten minutes. Once that's done we'll delete every message in here that has a login in it, yours and ours.\n\nBy [date] you'll also get a written status on each of your three IG handles: what's been recovered, what hasn't, and the next step. Sorry this one needed me to say it."
+    },
+    {
+      "client": "Amber Haze",
+      "owner": "Derrek",
+      "why": "She gave notice on 9/21, 86 minutes after her seventh written escalation of the same low-revenue complaint got another call offer instead of a number. In the 18 days since, ALTR has sent her nothing. She asked for her final invoice and said she'd pay it 'straight away', and it was never issued. She still has our laptop. Her Instagram password was posted in plaintext three times and the 9/7 one was never rotated, and we still hold every account login, the link.me, the .vip domain and her Drives. This is the newest exit and the one we can still close cleanly.",
+      "action": "Message her today: acknowledge the exit, give a dated final invoice, set up the laptop return, and list every access item we are handing back or shutting down, with dates. Billing issues the invoice the same day; Vivek owns the access list.",
+      "draft": "Amber — Derrek. You told us on the 21st that you were finishing up, and we've said nothing to you since. That's not okay and I'm sorry.\n\nYou were clear about what you needed and you were right: real numbers, not another call. I'm sorry we didn't get there.\n\nSo you're not left chasing us, here's what happens next:\n• Your final invoice will be with you by [date], itemised, for [period]. [Any credit/adjustment]\n• For the laptop, [return method / courier details / address] by [date]. We'll cover the postage.\n• By [date] we'll hand back or shut down everything we hold: your link.me, amberhaze.vip, your Drive folders and any account access, and remove ourselves from your logins. Please change your Instagram password once we confirm we're out. I'll send you a checklist.\n\nIf you're open to fifteen minutes on what we got wrong, I'd value it, but no pressure at all. Thank you for everything you put into this."
+    },
+    {
+      "client": "Barbara",
+      "owner": "Derrek",
+      "why": "Her 9/14 retention message ('her own rescue plan') is 25 days old and still has no written answer. It was on your list last run. Her main Instagram has been banned for 22 days with no owner and no date. The backup we recovered was banned again on 10/1, the same day our team logged in, and Vivek's explanation changed three times in 24 hours, ending up blaming her phone and wifi habits. She has gone from questions to thank-yous and paid invoice #5 without a word, which on this book is the quiet-exit signature. Invoice #6 goes out around 10/15.",
+      "action": "Answer her 9/14 message in writing today with a yes or no on her plan, and name one Instagram-recovery owner who posts a weekly written status. Don't let invoice #6 land before that message.",
+      "draft": "Barbara — Derrek. On the 14th you sent me a clear plan for what would make this work, and I never answered it. I'm sorry. You deserved a straight reply three weeks ago.\n\nMy answer: [yes to X / yes to X with this change / we can't do Y, and here's why].\n\nOn Instagram, [name] now owns your account recovery start to finish. Every [day] they'll post here which accounts are up, which are down, what we think the cause is and the next step with a date. No more 'will see'. The first one comes [date].\n\nAnd because your main account has been down this whole cycle, [what you're doing about invoice #6 — e.g. adjustment / hold until we talk]. I'd rather you hear that from me before the invoice than after."
+    },
+    {
+      "client": "Lauryn",
+      "owner": "Derrek",
+      "why": "This is her third pause warning, sent 15 days after she had paid everything off, on an invoice message that never stated an amount. She has been paying 'what's available until further notice' since 10/7, and her 10/8 'It's done' payment is unacknowledged. Her Facebook page has been flagged for 377 days, and Vivek's last word on it was 'meta stops operations' on 9/29, with no case number, ETA or fallback. The call she asked for on 9/23 was never held. She's under cash strain, and we're answering with deadlines.",
+      "action": "Confirm her 10/8 payment in writing today with the exact amount and remaining balance, and withdraw the pause threat. Agree a written payment plan with her rather than at her. Book the 9/23 call with a fixed time and bring a real Facebook status: owner, case number, next date.",
+      "draft": "Lauryn — Derrek. Got your payment yesterday, thank you: [$amount] received, which leaves [$balance / you're fully up to date].\n\nI also want to take back the pause message. It went out after you'd already cleared everything, it didn't even say an amount, and that's not how I want us talking to you. If things are tight right now, tell me what works and we'll put a simple plan in writing together: [proposal, e.g. split the next invoice into two dates].\n\nOn Facebook: I know it's been far too long. By [date] [name] will send you the case number, exactly where it stands and what we do if Meta doesn't move. And I still owe you the call you asked for. Does [day/time] or [day/time] work?"
+    },
+    {
+      "client": "Sarah Lloyd",
+      "owner": "Vivek",
+      "why": "She's the clearest re-engagement in the book: up from 2 messages a week to 9, and she took Mayson's 10/5 check-up call within 7 minutes. Then the change we made to her link-in-bio broke her link and her IG highlights got banned. On 10/7 she got 'I'll get back to you', and she had to chase it again this morning (10/9). Vivek hasn't posted in her chat for 22 days. How fast this gets answered will probably decide which way she goes. The 10/5 call also has no written recap, and the $200 OFTV editing credit has been left off an invoice twice.",
+      "action": "Today: Vivek answers in the thread with what broke, the fix and a time. Mayson posts a written recap of the 10/5 call with dated next steps. Billing confirms the $200 credit on the next invoice."
+    }
+  ],
+  "this_week": [
+    {"client": "Vale", "owner": "Vivek", "action": "Her OnlyFans link has been missing from her Instagram bio for ~16 days since we removed it to clear the restriction. She has chased four times. Confirm in writing that the 10/7 workaround works, then rotate her IG password privately and delete it from the chat (16 days in plaintext)."},
+    {"client": "Haileigh Cox", "owner": "Noah", "action": "Answer her 10/4 'what link is safe on my main?' in writing (4.7 days open) and post a plain receipt for all four unreconciled wires (50/32/23/3 days). A heart emoji is not a receipt."},
+    {"client": "Lauren Blake", "owner": "Stephski", "action": "Before invoice #6 (~10/15), send one written message with the Meta ad spend for all five billed periods, her top-spender table and @itsqueenblake insights, and confirm the 10/7 wire arrived. Her 'did we lose some top spenders?' (9/28) is still unanswered."},
+    {"client": "Lilia", "owner": "Fred", "action": "Follow up on 'we'll check' (16 days). Post how many PPVs were mis-sent to her top spender, who sent them, and what we're comping her. Then add a purchase-history check before any PPV goes to a named high spender."},
+    {"client": "Shayna", "owner": "Fred", "action": "Close 'Will keep you updated!' (9/26, silent 10 days), confirm the Sept 15–30 invoice was paid, and answer her 10/3 'I don't think we've ever started an extra IG for me' with proof, not a Drive link. Name a backup owner."},
+    {"client": "Sarah", "owner": "Mica", "action": "Book the content-strategy call she asked for on 10/1 at a fixed time in Perth hours and send a written recap after: main IG status (down 61 days), whether the 'new ig name' is verified, earnings plan, chargeback."},
+    {"client": "Mila", "owner": "Melissa", "action": "Become her named owner. Before the 10/15 invoice, send one message reconciling all five payment cycles with no receipt, plus the 108-day IG suspension status. The owner-silent signal fires 10/16."},
+    {"client": "Alanna", "owner": "Mayson", "action": "Close the 9/24 'yeah we can pull from your drives' loop with proof (what was pulled, what was posted, next release dates) and state which of invoices #2–#4 are paid."},
+    {"client": "Liza Kovalenko", "owner": "Aroosha", "action": "The customs she delivered on 9/24 were lost in the Ronnie→Aroosha handoff and still showed 'pending' to an $8.6k fan 14 days later. Confirm delivery in writing and answer her 'What exactly you need, reels/picks?' (15 days)."},
+    {"client": "Lauryn / Barbara / Mila", "owner": "Stephski", "action": "Every payment gets a written receipt with the amount and the remaining balance within 24h. No pause warnings without a stated amount and Derrek's sign-off."}
+  ],
+  "monitor": [
+    {"client": "Liza Kovalenko", "note": "The best turnaround in the book. She came back on her own with 37 messages, wired $6k a day after the invoice, and warmed up to a dated repost-network update and a specific coaching tip. Billing now states credits in dollars and confirms receipts with a balance. Keep doing exactly that. Security is the only thing that can undo it (see fires)."},
+    {"client": "Mila", "note": "Melissa's 23-account repost with the account list attached got her questioning the video choice, offering new America content and uploading within 86 minutes. Concrete, visible work gets engagement from her. Do more of it, and put a number on it."},
+    {"client": "Haileigh Cox", "note": "Noah handled $4.1k of chargebacks in about 30 minutes each and won the $1.7k fan back the same day. That's what owned work looks like. Tell her it happened and what it saved."},
+    {"client": "Barbara / Mila / Shayna / Sarah", "note": "The weekly leak-removal report restarting (Melissa from 9/25, DMCA on 9/25 and 10/2) drew the first thank-yous after several silences. Don't let it lapse again; it's the one proactive touch every client sees."}
+  ],
+  "churned": [
+    {"client": "Amber Haze", "money": "Final invoice never issued, though she asked for it and said she'd pay 'straight away'. She still has our laptop.", "action": "Fire #2: dated final invoice, laptop return, and a hand-back list (link.me, amberhaze.vip, Drives, account access), then ask her to rotate her IG password once we're out."},
+    {"client": "Alex Paige Moore", "money": "Never reconciled: her $5,259.90 receipt not confirmed, no zero-balance statement, the July $1,989 dispute never closed, the $2,434 referral deduction never confirmed.", "action": "Her resignation is 22 days old and still unacknowledged. It was fire #1 last run. Send the personal message, then a written reconciliation. Her passport/ID images are still in the chat. Delete them, and rotate the 2025 credential."},
+    {"client": "Vicky", "money": "Final figure never stated in a message, ~$1,700 of fan money paid for undelivered work and not refunded.", "action": "She asked for two things on 8/18, a final figure and an Infloww disconnect, and got neither in 52 days. She left the chat on 8/27, so contact her directly. Refund the fan money, confirm the disconnect, and confirm her five password-change requests were done."},
+    {"client": "Paige", "money": "Aug 15–31 invoice unreconciled. The only contact since she left is two collection chases.", "action": "Freeze collections until there's a defensible balance. The leak she reported (URL supplied 9/1) was never actioned, so do it. Six plaintext IG passwords are still in the group, along with an unidentified account added on 9/10."},
+    {"client": "Kaitlynn", "money": "We owe her ~$90: you waived $91, then billing charged it back in her closing balance.", "action": "Refund it with an apology. It's the cheapest goodwill on the list and was on your list last run. Then hand back her domain, three Drives and the backup IG."},
+    {"client": "Chey Mai", "money": "Two billing periods unpaid, two never invoiced. No final statement, no write-off decision.", "action": "Before any write-off, check the NEW account for her transfer (the number changed on her invoice). Then one owner-signed message saying the relationship has ended, with an itemised final statement. Revoke the domain and Drive."}
+  ],
+  "delegate": [
+    {
+      "person": "Derrek (you)",
+      "tasks": [
+        "Decide today what to do about the unintroduced IG vendor (Stardust Nexus / Theta SDX): confirm who hired them or remove them. Then message Liza and Lauren yourself (fire #1).",
+        "Approve republishing the team site so the redacted 9/18 and 9/25 pages replace the ones that exposed Lauren Blake's Instagram login.",
+        "Message Amber Haze: acknowledge the exit, final invoice, laptop, hand-back list (fire #2).",
+        "Answer Barbara's 9/14 retention message in writing before invoice #6 (fire #3).",
+        "Message Lauryn: confirm the 10/8 payment, withdraw the pause threat, book the call (fire #4).",
+        "Acknowledge Alex Paige Moore's resignation. Still not done, 22 days on.",
+        "Refund Kaitlynn the $90. Still not done.",
+        "Decide the Chey Mai path (check the new account → statement → collect or record a write-off).",
+        "Post in Mila's chat before 10/16. Your last post was 9/16."
+      ]
+    },
+    {
+      "person": "Vivek",
+      "tasks": [
+        "Sarah Lloyd: answer the broken link-in-bio / banned highlights in her thread today with the cause, the fix and a time.",
+        "Vale: confirm the bio-link workaround works in writing, then rotate her IG password privately.",
+        "Barbara: one consistent written explanation of the 10/1 backup ban, and no more blaming her devices without evidence.",
+        "Lauryn: send the Facebook case number, status and fallback by a date she's given.",
+        "Find out whether the IG vendor accounts are in any other client chat, and list what access they hold.",
+        "Own the credential-rotation list, churned chats included (Amber, Paige, Vicky, Alex)."
+      ]
+    },
+    {
+      "person": "Stephski (billing)",
+      "tasks": [
+        "Written receipt with amount and remaining balance within 24h of every payment. Start with Lauryn (10/8), Haileigh (four wires), Lauren Blake (10/7) and Mila (five cycles).",
+        "No pause warnings without a stated amount and Derrek's sign-off.",
+        "Issue Amber Haze's final invoice. Put the $200 OFTV credit on Sarah Lloyd's next invoice.",
+        "Prepare final statements for Alex Paige Moore, Vicky, Paige and Chey Mai for Derrek to review. No collection messages until he signs off."
+      ]
+    },
+    {
+      "person": "Fred",
+      "tasks": [
+        "Lilia: post the mis-sent PPV count, who sent them and the comp, and name the chatter you promised to remove on 7/24.",
+        "Shayna: close 'Will keep you updated!' from 9/26, and write every instruction she gives into the team's notes within 24h.",
+        "Track the ~$2,100 of Shayna fan money paid for lives that were never delivered."
+      ]
+    },
+    {
+      "person": "Mayson",
+      "tasks": [
+        "Sarah Lloyd: post a written recap of the 10/5 call with dated next steps.",
+        "Alanna: close the 9/24 drives loop with proof.",
+        "Stop assigning work by @-tag alone. If Vivek hasn't answered within a working day, it's still yours. You tagged him 11 times in Barbara's chat this window."
+      ]
+    },
+    {
+      "person": "Melissa",
+      "tasks": [
+        "Become Mila's named owner and send the weekly written status (money, IG, what was posted, with links).",
+        "Keep the weekly leak-removal report going every Thursday. It's the most-thanked message in the book right now.",
+        "Keep sending repost-network updates with the account list. Add one number each time (views or follows)."
+      ]
+    },
+    {
+      "person": "Noah",
+      "tasks": [
+        "Haileigh Cox: answer the 10/4 link-safety question in writing and send a revenue + chargeback summary with a date for the private live."
+      ]
+    },
+    {
+      "person": "Mica",
+      "tasks": [
+        "Sarah: book the 10/1 content-strategy call at a fixed Perth-hours time and post the written recap after."
+      ]
+    },
+    {
+      "person": "Aroosha",
+      "tasks": [
+        "Liza: confirm delivery of the 9/24 customs to the $8.6k fan, and answer 'reels/picks?'.",
+        "Introduce yourself with what you own in every chat you've joined, including Haileigh's."
+      ]
+    }
+  ],
+  "systemic_fix": "Make every account's exit and every new member visible. Two rules. (1) Nobody joins a client chat without a named ALTR person introducing them in that chat, saying who they are and what they'll touch. Anyone who asks for a login or code without that introduction is removed. This week a vendor nobody introduced got a live 2FA code and logged in. (2) When a client gives notice, the owner opens an exit ticket the same day with four lines: acknowledgement sent, final statement issued, access handed back, credentials rotated. It stays on the dashboard until all four are done. Five of six churned clients have at least one of those still open, three of them for over a month. Under both sits the same fix as every run: one named owner per account, a weekly written status with a real number, and every promise either closed in writing or declared dead out loud. follow_through is 3.00 on all eighteen accounts for the third straight run, and it will stay there until promises are tracked somewhere other than the chat.",
+  "team_broadcast": "Team — two things, effective today.\n\nFIRST: nobody new joins a client chat without being introduced in that chat by one of us. Name, what they do, what they'll touch. If someone asks a client for a login or a code without that introduction, they come out of the chat and you tell me. This week someone we never introduced asked a client for a 2FA code in the group, got it, and logged in. Three weeks ago we told every client not to share codes with anyone, including us. We can't keep sending the opposite message.\n\nSECOND: when a client tells us they're leaving, their owner tells me within the hour and opens an exit checklist the same day: (1) a personal acknowledgement, (2) a final statement with real numbers, (3) access handed back, (4) passwords rotated. No collection messages to a departing client until I've signed off on the final figure. Right now we have clients who left a month ago and are still waiting on all four.\n\nAnd the standing rule: if you say 'I'll check' or 'I'll update you', you post the answer within 24h or say out loud that it isn't happening. Tagging someone else doesn't hand it off. It's still yours until they answer.\n\nThe good news is real: the weekly leak report and Melissa's repost updates got thank-yous from clients who'd gone quiet. That's what clients notice, so keep it going.",
+  "pattern": "We are fast and we are liked, and that still isn't the problem. The new data point this week is that visible, concrete work wins clients back almost immediately: Liza, Mila, Sarah Lloyd and Sarah all re-engaged within days of getting something specific (a dated repost update with the account list, a weekly leak report, a real call). What loses them is the same as ever. A promise goes out by @-tag, nobody owns it, and it lapses without anyone deciding it should. The six exits all followed the same request answered several times with a holding reply, a call offer or 'solved', and never with a number. Exits are the pattern's worst case, because nothing on our side stops when a client leaves except the talking.",
+  "integrity": "Owner-only, four items.\n\n1. LAST RUN'S LIST WASN'T DONE. Of the nine personal actions on your 9/18 card, these are visibly still open 21 days later: Alex Paige Moore's resignation unacknowledged, Barbara's 9/14 retention message unanswered, Kaitlynn's $90 not refunded, Hannah's resignation never replied to, and the Chey Mai decision unrecorded. The team takes its cue from which of your items get closed.\n\n2. OUR OWN SITE LEAKED A CLIENT LOGIN. Lauren Blake's Instagram username and password were quoted verbatim in the published 9/18 and 9/25 team-site reports (index pages plus Mayson's and Michelle's employee pages), visible to everyone with site access, for three weeks. The local pages are redacted now. The live site needs a republish, and her password needs rotating regardless.\n\n3. AN UNIDENTIFIED VENDOR HAS CLIENT ACCESS. Nobody in any chat has said who 'Stardust Nexus' / 'Theta SDX' are or who brought them in. If it was you, tell the team. If it wasn't, it's an access incident.\n\n4. LILIA'S VAULT. She says content was deleted from her vault that she didn't delete, and nobody has investigated or answered. Together with the unidentified account bulk-added to the Paige, Kaitlynn and Alex chats at the same second on 9/10 (chats that still hold credentials), that's two unexplained-access events with no owner."
+}

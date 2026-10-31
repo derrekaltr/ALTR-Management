@@ -1,0 +1,29 @@
+{
+ "name": "D. Perez",
+ "name_confidence": 0.35,
+ "category": "Personal",
+ "category_confidence": 0.55,
+ "summary": "Internal collaborator/business partner rather than a client \u2014 the thread is almost entirely one-way shares of infrastructure and ops material for ALTR's own stack: cloudflared/Railway DNS setup commands, pm2 launchd startup commands, Vercel preview deployments, the quote.altrservices.com partner portal (with a demo login), invoice links, and meeting invites (Ro.am, Google Meet). They appear to be building/operating the ALTR Services quoting and invoicing platform alongside the phone owner, and in September drafted the merchant/underwriting response describing ALTR Platform Services, LLC's business model. No purchase or sale occurs in this thread. Follow-up should treat them as a technical/ops counterpart, not a lead.",
+ "key_facts": [
+  "Sends infra setup commands: cloudflared tunnel mapping quote.altrservices.com \u2192 localhost:3003, Railway TXT verification record, Cloudflare nameservers (cruz/hayes.ns.cloudflare.com), pm2 launchd startup for user 'redwizardai'",
+  "Shared a partner-portal demo login for quote.altrservices.com (sarah.h@altrservices.com) on 2026-08-10",
+  "Sent quote.altrservices.com invoice links on 2026-09-11 and 2026-09-15",
+  "Clarified when sending a Vercel/Conductor playground link: 'Not for you\u2026 using for ur computer'",
+  "2026-09-16: drafted underwriting/dispute-rebuttal language \u2014 ALTR Platform Services, LLC (Florida), clients are creators/artists/small businesses, services quoted in writing, invoiced per project, billed after delivery",
+  "Misc shares: Solana pump token contract address, partners@verified.trading, 'Harbor-Miami-3316', IG handle alisonclements_, MFT camera lens listings (Samyang 12mm, Laowa 7.5mm/9mm, OM System)",
+  "Meetings held via Ro.am links and Google Meet; one calendar invite titled 'Emanay | Re: Riderr Intro' (2026-06-16)",
+  "Other projects shared: tantra-brief.vercel.app, altr-map-share.vercel.app"
+ ],
+ "services_discussed": [
+  "ALTR Services quoting/invoicing portal (quote.altrservices.com)",
+  "Partner dashboard / partner portal access",
+  "Domain + DNS setup (Cloudflare tunnel, Railway verification)",
+  "Server process management (pm2 on macOS)",
+  "Merchant account / payment dispute underwriting response"
+ ],
+ "handle": "dperez3030@icloud.com",
+ "analyzed_rowid": 1624253,
+ "message_count": 34,
+ "first_date": "2026-04-19",
+ "last_date": "2026-09-16"
+}

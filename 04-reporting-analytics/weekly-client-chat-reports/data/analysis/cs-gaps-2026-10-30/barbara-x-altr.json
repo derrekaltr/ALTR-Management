@@ -1,0 +1,120 @@
+{
+  "client": "Barbara",
+  "slug": "barbara-x-altr",
+  "status": "at_risk",
+  "status_reason": "Still at_risk, and worse than at 10/16. Window 10/16 09:06 -> 10/30 09:05: 22 real messages (client 9, ALTR staff 9, IG-farm vendor 'Theta SDX' 4; 8 'Antonio Veritrade' test posts and 4 service events excluded). Movement on the four open items from the 10/16 run: (1) 9/14 'not sustainable' message: NOT MOVED in substance, now 46 days. The only new activity is Melissa's 10/26 'let me know what day and time works for you for a call!' with no agenda, no reference to 9/14 and no numbers; the client has not answered it in 4 days. Still nothing in writing from Derrek or Mayson. (2) Banned main @thebrazilianfitbarbie: NOT MOVED, 43 days banned. Nobody on either side mentioned it in the 14-day window; Vivek posted zero messages. (3) Backup @barbarasilvanew (down 10/12): MOVED, BUT NOT BY ALTR AND NOT IN A GOOD DIRECTION. ALTR still has no incident note, has never named the account, and 'which one for profile picture?' / 'bio is gone btw' are 18 days unanswered. Instead an unintroduced account 'Theta SDX' was added 10/18 17:45, asked for a login code 2 minutes later, got a 6-digit code from her in the open group within 10 minutes ('we are logged in'), and on 10/28 collected a second code 'for @barbarasilvanew' after telling her it was for 'bugs on the account after the links problem'. That vendor line is the first and only acknowledgement anywhere that our 10/11 link caused the 10/12 ban. No ALTR member introduced the vendor, intervened, or moved it private. (4) Invoice #6: CLOSED. Paid ~10/19 (inferred from Stephski's 'Thanks' in Invoicing; no client confirmation), 3 days before due, after a day-2 'just making sure you saw this' nudge, with no amount query and no comment on billing a second banned fortnight in full: the silent-fast-payment churn tell. New this window: the weekly leak report (the one deliverable she engaged with) stopped after 10/9 and Mayson's 10/16 promise of a Friday 'weekly earnings and performance report' was missed on 10/16 and 10/23 with nothing posted by 10/30 09:05; a one-covered-shoot-per-quarter policy was pinned 10/20 and on 10/22 her 10/23 Halloween shoot was ruled 'at your expense' ('okay got it'); Ollie's 10/19 Halloween-help offer was dropped after her 10/20 reply; reel inspo has now been missed four weeks. Derrek 29 days silent (30 on 10/31), Vivek 18, Olivia 31, Michelle 52. Client asks fell to 2 in 14 days, both reactive; last substantive client message 10/22 16:32 ('okay got it'); her last message (10/28) is a login code handed to the vendor. No exit language yet, she still answers every request within minutes and has paid 6 of 6 invoices, which is why this is at_risk and not churned.",
+  "last_client_message": "2026-10-28",
+  "dimensions": {
+    "responsiveness": {
+      "severity": 3,
+      "internal_failure": "This window's first replies were quick when they came (Mica answered the shoot question in 23 minutes; the vendor answered 'what's the code for' in 1 minute), but the pattern of fast acknowledgement with no substance has not changed and the unanswered backlog aged another 14 days: 'which one for profile picture?' and 'bio is gone btw' (10/12) are 18 days without an answer, her 10/20 reply to Ollie's Halloween offer got nothing back in 10 days, and the 9/14 retention message is 46 days with only call offers. The 10/28 'what's the code for ???' was answered by an unintroduced vendor, not by anyone at ALTR. Across the full history about 39 of 79 client asks were unanswered in substance or answered after more than 24h.",
+      "evidence": [
+        {"quote": "hey, I’m just seeing this now, ok, so I had scheduled to do Halloween Content tomorrow morning, am I still able to shoot then or no?", "who": "Barb Brazil", "date": "2026-10-22"},
+        {"quote": "Heyy not yet i don’t! i was going to order some", "who": "Barb Brazil", "date": "2026-10-20"},
+        {"quote": "which one for profile picture?", "who": "Barb Brazil", "date": "2026-10-12"}
+      ]
+    },
+    "follow_through": {
+      "severity": 3,
+      "internal_failure": "Every big promise from 10/16 is still open and three new ones were broken inside the window. Mayson's 10/16 'your DMCA report will be included in your weekly earnings and performance report, sent in the General chat every Friday' was not met on 10/16 or 10/23, no such report has ever appeared in this chat, and the standalone leak report it replaced also stopped. Ollie offered Halloween help 10/19, she said yes 10/20, nothing followed. Mica's weekly reel inspo (last links 9/29) has now been missed four weeks. Vivek's 'Will check link too' (10/12) was never reported back; the vendor's 'after the links problem' (10/28) is the only follow-up that exists. Still open from before: the 9/14 written answer (46d), main recovery or a date (43d), 'Starting today' unbans (9/27), @itsbarbxoxo and Threads decisions (10/5), the backup-main integrity explanation (10/2), written hygiene rules (since 8/18), Michelle's backup @ (8/1). Running total: ~53 commitments, ~18 kept, ~31 lapsed, 4 open.",
+      "evidence": [
+        {"quote": "From now on, your DMCA report will be included in your weekly earnings and performance report, sent in the General chat every Friday.", "who": "Mayson Chat", "date": "2026-10-16"},
+        {"quote": "Hey, do you have any outfit content planned for halloween or would you like some help @barbsilvaxo", "who": "Ollie Mckinlay", "date": "2026-10-19"},
+        {"quote": "Will check link too", "who": "Vivek", "date": "2026-10-12"}
+      ]
+    },
+    "proactive_communication": {
+      "severity": 3,
+      "internal_failure": "Raised from 2 to 3: the routine touchpoints that held this dimension at 2 on 10/16 have now stopped. No leak report since 10/9, the promised Friday earnings/performance report never appeared, no reel inspo since 9/29, the OFTV thread silent since 9/29, and nobody mentioned her main account, the 10/12 ban or her numbers in 14 days. The only unprompted outbound was a dropped Halloween offer, a shoot-coverage restriction, a test-message heads-up (good) and an agenda-less call offer. ALTR staff set a new all-time silence record of 3.86 days (Oct 22 16:26 -> Oct 26 13:10, beating the 3.82 from September) and were 3.83 days silent again at analysis time (10/26 13:10 -> 10/30 09:05). Nothing has ever been sent to her unprompted about earnings, traffic or account status.",
+      "evidence": [
+        {"quote": "You'll get everything in one place each week: earnings, performance, and the leaks we've found and taken down.", "who": "Mayson Chat", "date": "2026-10-16"},
+        {"quote": "Hey @barbsilvaxo, let me know what day and time works for you for a call! 🤍", "who": "Melissa Userfacing", "date": "2026-10-26"},
+        {"quote": "hi @barbsilvaxo! here’s your reel inspo for the week 💕", "who": "Mica Vecco", "date": "2026-09-29"}
+      ]
+    },
+    "onboarding_handoff": {
+      "severity": 2,
+      "internal_failure": "Day 102 and she still does not know who is in her chat or what the agency covers. A fifth unannounced addition (Theta SDX, 10/18) asked her for account access two minutes after joining and nobody from ALTR said who it was; Ollie Mckinlay first posted 10/19 without an introduction; the people added 9/10, 9/17 and 9/25 were never introduced. The one-covered-shoot-per-quarter rule was first disclosed on day 92, pinned in a new topic, and applied the day before a shoot she had already scheduled; she had proposed weekly OFTV shoots on 8/24 and nobody told her then that it was out of scope. Nobody has told her in writing what the VA team or the vendor may change on her accounts, which devices she may use, or who to ask about what. Scored 2 rather than 3 only because the new failures are counted under security and ownership.",
+      "evidence": [
+        {"quote": "hey @barbsilvaxo! just a heads up the agency covers one photo/video shoot every 3 months. if you’ve already had one this quarter, your next covered shoot will be in january", "who": "Mica Vecco", "date": "2026-10-20"},
+        {"quote": "so if you decide to shoot tomorrow it will be at your expense just fyi!", "who": "Mica Vecco", "date": "2026-10-22"},
+        {"quote": "Hey @barbsilvaxo  / hope you are having a nice day / can we have access to a code in one of these options? we are trying to sign in your account.", "who": "Theta SDX", "date": "2026-10-18"}
+      ]
+    },
+    "chatter_conduct": {
+      "severity": 1,
+      "internal_failure": "No fan-facing incident in 102 days and nothing new this window. The gap is informational: she has never been told who chats her VIP page, whether Olivia's team still runs the free page, or how the free-page chatting has performed since 9/21, and the 9/28 intake still refers to 'whoever’s on your chats'. The earnings report that would have shown chatter results was promised 10/16 and never sent.",
+      "evidence": [
+        {"quote": "can you please fill out this intake so we (and whoever’s on your chats) really understand you and rep you properly?", "who": "Melissa Userfacing", "date": "2026-09-28"},
+        {"quote": "Hey Mayson, please pull chatters from her free page. I will handle everything from here on @barbaraevelynnn", "who": "Olivia", "date": "2026-09-21"}
+      ]
+    },
+    "platform_health": {
+      "severity": 3,
+      "internal_failure": "Main banned 43 days with no owner, no date and no mention by anyone in the 14-day window. The 10/12 ban of @barbarasilvanew still has no incident note from ALTR 18 days on; the first party to name the account and admit a cause was an outside vendor ('bugs on the account after the links problem', 10/28), which confirms her 10/12 theory that our 'completely safe' link took the account down. Vivek, introduced 7/29 as the person to '@' for bans, posted nothing in the window; his 'Will check link too' and 'I will check in lookup' never closed. Her 10/5 @itsbarbxoxo plan and Threads-appeal question are 25 days without a response. Recovery work is now happening through a vendor's 'Meta team' with no ALTR owner, no status to the client and no explanation of what they are doing in her account.",
+      "evidence": [
+        {"quote": "Our Meta team is trying to solve some bugs on the account after the links problem / We want to increase the engagements and reach", "who": "Theta SDX", "date": "2026-10-28"},
+        {"quote": "hey so my account went down, and this link was just added. it makes me believe the link may have had something to do with it", "who": "Barb Brazil", "date": "2026-10-12"},
+        {"quote": "it’s still in limbo", "who": "Barb Brazil", "date": "2026-10-11"}
+      ]
+    },
+    "billing_ops": {
+      "severity": 2,
+      "internal_failure": "Mechanics are now nearly clean: #6 had a 2-day heads-up, went out on cadence with no pause-of-work clause, and was paid ~day 4 (10/19), 3 days early. One regression: a day-2 'just making sure you saw this' nudge on 10/17. Structural issues unchanged: the amount is still only in the PDF, ACH/wire has never been offered, her payouts being found on 'manual' (10/6) was never explained, and the #4 under-invoice of $1,683.12 remains the history. The larger failure is that billing runs blind to the service: #6 was the second consecutive fortnight invoiced in full with her main banned throughout and the backup down after our link change, with no acknowledgement and no goodwill credit considered. #7 (Oct 15-31) will be the third; its heads-up was due ~10/30 and had not been posted by 09:05.",
+      "evidence": [
+        {"quote": "hi hun! just making sure you saw this ❤️", "who": "Stephski", "date": "2026-10-17"},
+        {"quote": "Hey i saw it now thank you!", "who": "Barb Brazil", "date": "2026-10-17"},
+        {"quote": "Thanks ❤️", "who": "Stephski", "date": "2026-10-19"}
+      ]
+    },
+    "ownership_escalation": {
+      "severity": 3,
+      "internal_failure": "Nobody at ALTR owns Barbara's Instagram work any more; a vendor does. Vivek posted zero messages in 14 days, Mayson posted two housekeeping notes, and when an unintroduced account asked her for codes twice, no ALTR member stepped in either time; when she asked 'what’s the code for ???' the vendor answered, not us. Derrek, who owns the 9/14 retention message, has been silent 29 days (30 on 10/31). Melissa offered a call without saying what it is for or who would be on it. The shoot refusal came from Mica with no account manager context. The 10/12 incident still has no named owner: Mayson asked her to undo it, Vivek said he'd check, the domain was pulled silently, and now a third party is 'solving bugs' in the account.",
+      "evidence": [
+        {"quote": "hey yeah what’s the code for ???", "who": "Barb Brazil", "date": "2026-10-28"},
+        {"quote": "thank you. we are logged in", "who": "Theta SDX", "date": "2026-10-18"},
+        {"quote": "@fonta please !", "who": "Mayson Chat", "date": "2026-10-12"}
+      ]
+    },
+    "disengagement_detection": {
+      "severity": 3,
+      "internal_failure": "Every churn tell from the 10/16 run is still present and new ones were added, and still nobody on our side has named it or acted on it in writing. Asks fell to 2 in 14 days, both reactive; she accepted a surprise cost ruling the day before her shoot with 'okay got it'; she paid #6 silently and early; her last substantive message is 8 days old and her last message is a login code handed to a stranger. Melissa's 10/26 call offer is the only thing that could be read as a check-in, and it carries no agenda, no reference to 9/14, no numbers and no follow-up when she did not reply. Our actual response to a client who warned us 46 days ago that the numbers are 'not sustainable' has been: an invoice, a dropped offer, a policy restriction, two code requests, and a silent Friday.",
+      "evidence": [
+        {"quote": "i really want to continue working together, i just need to see some changes because where the numbers are right now isn’t sustainable for me.", "who": "Barb Brazil", "date": "2026-09-14"},
+        {"quote": "okay got it", "who": "Barb Brazil", "date": "2026-10-22"},
+        {"quote": "Hey @barbsilvaxo, let me know what day and time works for you for a call! 🤍", "who": "Melissa Userfacing", "date": "2026-10-26"}
+      ]
+    },
+    "security_hygiene": {
+      "severity": 3,
+      "internal_failure": "Raised from 2 to 3. On 10/18 an account nobody introduced was added to the group and within two minutes asked her for a login code; she posted a 6-digit code in the open group eight minutes later and it replied 'we are logged in'. On 10/28 it asked for a 'WhatsApp code for @barbarasilvanew'; she asked what it was for, got a one-line reason, and posted a second code. No ALTR member intervened, confirmed the account was ours, moved the exchange private, or told her never to post codes in the group. She now cannot distinguish a legitimate request from a hijack, and the group has conditioned her to hand over codes to whoever asks. Earlier items remain: her 9/18 'is this you guys' login alert never got an access answer, two login email addresses were posted 10/1, no credential has ever been confirmed rotated, and there are still no written rules on devices, codes or who holds access.",
+      "evidence": [
+        {"quote": "can we have access to a code in one of these options? we are trying to sign in your account.  / if you are available, just lmk", "who": "Theta SDX", "date": "2026-10-18"},
+        {"quote": "[6-digit login code redacted]", "who": "Barb Brazil", "date": "2026-10-18"},
+        {"quote": "Are you available to give us a WhatsApp code for @barbarasilvanew Instagram account? / I would really appreciate it", "who": "Theta SDX", "date": "2026-10-28"},
+        {"quote": "[6-digit login code redacted]", "who": "Barb Brazil", "date": "2026-10-28"}
+      ]
+    }
+  },
+  "metrics": {
+    "client_questions_total": 79,
+    "unanswered_over_24h": 39,
+    "max_team_silence_days": 3.86,
+    "promises_made": 53,
+    "promises_kept": 18,
+    "promises_lapsed": 31,
+    "method": "Extends the 2026-10-16 manual pass (77 asks / 39 unanswered / 50 promises / 18 kept / 29 lapsed, through Oct 15 22:02) with a manual read of the 34 records from Oct 16 13:40 to Oct 28 13:28. Senders in window: Barb Brazil 9 (client, per client_aliases); ALTR staff 9 (Mayson 2, Stephski 2, Mica Vecco 3, Melissa Userfacing 1, Ollie Mckinlay 1); IG farm vendor 'Theta SDX' 4 (our side per team.yaml vendors); 'Antonio Veritrade' 8 test posts excluded; 4 service events (ChatAddUser x2, TopicCreate, PinMessage). New client asks: 2 ('am I still able to shoot then or no?' 10/22, answered in 23 min; 'what’s the code for ???' 10/28, answered by the vendor in 1 min). No new >24h-unanswered asks, so unanswered stays 39; the two 10/12 asks (profile picture, bio) remain open. New promises: 3 (Mayson 10/16 Friday earnings/performance report = lapsed, missed 10/16 and 10/23; Ollie 10/19 Halloween help = lapsed after her 10/20 reply; Theta SDX 10/28 fix bugs / increase reach = open). Reel-inspo cadence counted once as already lapsed. max_team_silence_days is all-time over consecutive ALTR-staff timestamps (vendor and test posts excluded): Oct 22 16:26:48 -> Oct 26 13:10:25 = 3.86d, replacing Sep 10 -> Sep 14 (3.82d). Including the vendor's 10/28 posts, the window maximum is still 3.86d. Staff silent 3.83d at analysis time (Oct 26 13:10 -> Oct 30 09:05). Client silent 1.8d at analysis; last substantive client message Oct 22 16:32 (7.7d)."
+  },
+  "what_client_wanted": [
+    "Results and a written plan. 9/14, still unanswered beyond call offers after 46 days: 'i’d love to figure out a clear plan for what we can do to start getting things moving back in the right direction ... where the numbers are right now isn’t sustainable for me.'",
+    "To know what the agency covers before she spends her own money. 10/22: 'I had scheduled to do Halloween Content tomorrow morning, am I still able to shoot then or no?'",
+    "To know who is in her chat and why they want access to her accounts. 10/28: 'hey yeah what’s the code for ???'; 10/12: 'I didn’t add it in, I think the team is logged in. I’ve been trying to not use any of my devices to log into these accounts so I know that’s not adding to the problem.'",
+    "Her main account back, or a straight status. 10/11: 'it’s still in limbo :-)'. Nobody has mentioned it since."
+  ],
+  "what_worked": [
+    "The weekly leak report, while it ran (9/25, 10/2, 10/9), was the one deliverable she reliably thanked us for and wanted to join: 10/9 'thank you! if i have links to submit can i send them directly in here?'. It stopped after that; restarting it (or the promised Friday report) is the cheapest trust repair available.",
+    "Direct, same-day answers to direct questions. Mica answered the shoot question in 23 minutes and she accepted it without friction ('okay got it', 10/22); Mayson's 10/21 pre-warning about test messages meant eight junk posts caused zero confusion. The format works; it needs to be applied to the questions she actually cares about.",
+    "Low-friction invoicing: 2-day heads-up, on-cadence #6, no pause-of-work clause, paid 3 days early ('Hey i saw it now thank you!', 10/17). Earlier, the OFTV shoot with Olivia and Ben was her happiest moment in the relationship ('I had the best time today shooting', 8/27; 'These are too good Liv!!!!!', 9/4), which the new one-shoot-per-quarter rule now cuts against."
+  ],
+  "top_fix": "Put one named ALTR person (not a vendor, not an @fonta chain) in charge of Barbara's accounts this week, and have that person post, before invoice #7 goes out (~11/1): (1) who 'Theta SDX' is and that all login/2FA code requests move to a private channel with a named ALTR contact, with a plain instruction never to post codes in the group; (2) the incident note on @barbarasilvanew (our link caused the 10/12 ban, what has been done since, what we will not change on her accounts without asking) and the main's status with a date or an honest no-date; (3) the written answer to her 9/14 message with real numbers and a dated plan, plus a goodwill credit for the ALTR-caused outage; and (4) the first actual Friday earnings/performance report. The 10/26 call offer should be replaced by that written note, with the call as a follow-up, not a substitute."
+}

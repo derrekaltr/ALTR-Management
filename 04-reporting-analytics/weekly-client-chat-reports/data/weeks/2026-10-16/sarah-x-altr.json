@@ -1,0 +1,557 @@
+{
+  "client": "Sarah",
+  "slug": "sarah-x-altr",
+  "week_ending": "2026-10-16",
+  "summary": "BEST WEEK SINCE EARLY AUGUST. ALTR CLOSED THINGS, BUT THE LINK-IN-BIO FIX BROKE TWICE. Sarah made 6 distinct requests (up from 4 over the previous two weeks, and 0 on Sep 25). She is engaged and enthusiastic ('So so motivated to keep pushing!!'). WHAT CLOSED: (1) Melissa Userfacing posted a written 'earnings and performance report for the last two weeks' on Oct 9. This is the first written results deliverable on record since her Aug 8 earnings question, and she loved it. (2) The content-strategy call she asked for on Oct 1 finally happened on Oct 14, 13 days after the ask, with a reel-inspo list sent that afternoon ('I saved so many to recreate'). (3) Mayson made her link-page changes overnight: removed her real name, changed the background photo, swapped TikTok for IG. (4) Melissa's weekly DMCA breakdown ran a third week in a row, and Melissa announced a 23-account repost of her reel for Oct 17. (5) Stephski sent the Oct 13 heads-up and the Oct 1-14 invoice on time on Oct 15. (6) Vivek is back after 25 days of silence (4 messages). WHAT WENT WRONG: the link in bio. On Oct 11 Mayson relaunched sarahsworld.vip and promised 'it won't get flagged and it's completely safe'. She reported it flagged on Oct 13. On Oct 15 ALTR took the domain down and switched her to a direct link. On Oct 16 she reported 'The link flagged my account again'. This problem has been open since May 7 (162 days, third domain attempt), and it puts her IG at risk again after losing her main in August. Vivek's 'Team already on it' is the only answer so far. STILL OPEN: Olivia never answered the Oct 7 OFTV editor-access problem (9 days; Olivia silent 10 days). ALTR has still never written down what happened to @sarah.h44; she now says plainly 'my ig name is Sarah Harvey', and ALTR's new link is xli.ink/sarahharvey. There is no written status on the backup IGs (71 days), though Mayson asked her for their 2FA in the group chat on Oct 10. The leak-keyword confirmation from Oct 6 is still unwritten. Other open items: chargeback (28 days), credential purge (56 days), voice clone (48 days), Snapchat scope (37 days), Phone Farm (76 days). The call produced an inspo list, not a written plan for the 69-day earnings drop. CHURN WATCH: improving. Asks are up, and a written earnings report partly answers signal #2. Billing was only 3 of 30 ALTR messages. The live risk is signal #1: Derrek has not posted in 28 days, and the 30-day mark is Oct 18. SECURITY: no credentials were posted this window. However, ALTR (Mayson) asked for backup-account 2FA in the ~19-person group, and Sarah offered her login ('Do you need my login or are you already in?'), which went unanswered. Move both to a private channel.",
+  "health": {
+    "score": 55,
+    "trend": "up",
+    "rationale": "Score 55, up from 47 (Oct 9), 44 (Oct 2, unpublished) and the low of 37 (Sep 25). This is the highest since Aug 14 (66). Client asks were 2 (Sep 11, 14d) → 4 (Sep 18) → 0 (Sep 25) → 1 (Oct 2 partial) → 4 (Oct 9, 14d) → 6 this window, the most in the tracked history. Tone is enthusiastic. What lifted it: (1) for the first time in seven periods, carried items actually closed: the Oct 1 call was held (Oct 14) and a written earnings/performance report was delivered (Oct 9); (2) three link-page edits were done within ~13h; (3) the reel-view question was answered the same day; (4) billing ran cleanly (heads-up Oct 13, invoice on time Oct 15); (5) the DMCA cadence held a third week; (6) Vivek re-engaged. What held it back: (a) the link-in-bio domain flagged her account twice in 5 days, two days after ALTR said 'it won't get flagged'. That issue is 162 days old, and her IG history makes it high-stakes. (b) The call took 13 days to happen, and its only written output is an inspo list. The 69-day earnings drop still has no written plan, so the earnings report only partly mitigates churn signal #2. (c) The OFTV access request has gone unanswered for 9 days. (d) @sarah.h44 and the backup IGs still have no written status, the chargeback has been unanswered for 28 days, and the credentials have been in scrollback for 56 days. CHURN SIGNALS: #1 owner silence: Derrek 28 days, trips Oct 18 (WATCH, imminent). #2 results question answered with a call: partially mitigated by the Oct 9 written earnings report, but the call itself produced no written plan. #3 long-promised deliverables with no written proof: PRESENT (Phone Farm 76d, @sarah.h44 status 68d, backup IGs 71d). #4 most ALTR messages billing: ABSENT (3 of 30). Her asks rose rather than fell, which argues against a quiet exit. Payment for Oct 1-14 had not arrived ~19h after the invoice. That is normal for her and not a risk signal, and the absence of an instant payment is not itself a negative."
+  },
+  "reminders": [
+    {
+      "employee": "Mayson",
+      "topic": "Link in bio keeps flagging her Instagram. On Oct 11 he relaunched sarahsworld.vip and said 'it won't get flagged and it's completely safe'. Flagged Oct 13; domain pulled Oct 15 in favour of xli.ink/sarahharvey; that flagged her account 'again' on Oct 16. This is the third domain attempt since she first asked on May 7 (162 days). Also still unconfirmed: the Oct 6 leak-keyword request ('On it right now !', 10 days, no written close). Also still unscoped: Snapchat team (37d), content-Drive volume (47d), Facebook (30d). Credit: the Oct 11 link-page edits (real name removed, background, TikTok→IG) were done by the next morning.",
+      "count": 4,
+      "first_date": "2026-05-07",
+      "last_date": "2026-10-16",
+      "days_outstanding": 162,
+      "chased_this_week": true,
+      "note": "Stop promising 'won't get flagged'. Tell her in writing what the link is, how it was tested, and what to use until it is proven. One more flag on her IG after losing her main in August is a serious risk.",
+      "evidence": [
+        {"quote": "Hey! Derek said he would sort it but ik he’s super busy so just thought I’d ask if anyone could also help to change the link in my bio so that it doesn’t flag my account!? 🫶🏻", "who": "Sarah H", "date": "2026-05-07"},
+        {"quote": "It routes through our own protected infrastructure before it ever reaches your page, it won’t get flagged and it’s completely safe.", "who": "Mayson Chat", "date": "2026-10-11"},
+        {"quote": "Hey! My links been flagged😢 so I’ll remove it again", "who": "Sarah H", "date": "2026-10-13"},
+        {"quote": "We've taken the domain down, so please remove it from your bio if it's still up. We're switching you over to your direct link instead:", "who": "Mayson Chat", "date": "2026-10-15"},
+        {"quote": "The link flagged my account again so I removed it :(", "who": "Sarah H", "date": "2026-10-16"}
+      ]
+    },
+    {
+      "employee": "Vivek",
+      "topic": "Back after 25 silent days (4 messages), but he only acknowledges: 'Yes ma’am' to her Oct 10 request to clear removed content on IG, a bare 'Yes' to Mayson's '@fonta do you know what’s up?', and 'Team already on it' on the Oct 16 link flag. There has still been no written status on @sarah.h44 (68 days) or the backup IGs @onlysarahh_xx / @sarah.hxx (71 days). She now states her IG is 'Sarah Harvey', so the client-side answer exists, but ALTR has never confirmed what happened to the 530k main.",
+      "count": 9,
+      "first_date": "2026-08-07",
+      "last_date": "2026-10-16",
+      "days_outstanding": 68,
+      "chased_this_week": true,
+      "evidence": [
+        {"quote": "Hey @fonta can you please help clear some of my removed content on my Ig? 😊", "who": "Sarah H", "date": "2026-10-10"},
+        {"quote": "Yes ma’am", "who": "Vivek", "date": "2026-10-11"},
+        {"quote": "Can we please change my name I don’t want my real name getting out there, my ig name is Sarah Harvey😊", "who": "Sarah H", "date": "2026-10-11"},
+        {"quote": "Team already on it", "who": "Vivek", "date": "2026-10-16"}
+      ]
+    },
+    {
+      "employee": "Olivia",
+      "topic": "OFTV folder editor access, reported Oct 7 ('still not working'): unanswered for 9 days, and Olivia has been silent 10 days. Also open: AI voice clone (48d, unknown whether live) and Sep 2 OFTV call write-up (44d).",
+      "count": 3,
+      "first_date": "2026-08-29",
+      "last_date": "2026-10-07",
+      "days_outstanding": 48,
+      "chased_this_week": false,
+      "evidence": [
+        {"quote": "Hey liv I’m so sorry it’s still not working o think you may have to change the settings in the folder to editor so I can add videos in xx", "who": "Sarah H", "date": "2026-10-07"},
+        {"quote": "I’ve submitted but the voice definitely needs fixing. Maybe you shouldn’t use the voice for me", "who": "Sarah H", "date": "2026-08-29"},
+        {"quote": "Okay bb!! I’ll try to fix it if possible", "who": "Olivia", "date": "2026-08-29"}
+      ]
+    },
+    {
+      "employee": "Mica Vecco",
+      "topic": "The call she asked for on Oct 1 was finally held Oct 14, 13 days later. Mica proactively re-opened it on Oct 13, which is good. The written follow-up was an inspo-reel list only, with no written plan for the 69-day earnings drop, IG status or content volume. The timezone friction repeated ('it’s late night here in miami now') and the call ended up at ~11pm Perth.",
+      "count": 3,
+      "first_date": "2026-10-01",
+      "last_date": "2026-10-14",
+      "days_outstanding": 13,
+      "chased_this_week": true,
+      "note": "Closed as a call. To close the earnings question, post 3-5 written bullets: what was agreed, targets, owner, dates.",
+      "evidence": [
+        {"quote": "Hey Mica! Do you think we could have a call soon to go over new content strategies ect? X", "who": "Sarah H", "date": "2026-10-01"},
+        {"quote": "Hey!! Yes I’d love to jump on sometime today if your available? X", "who": "Sarah H", "date": "2026-10-13"},
+        {"quote": "it’s late night here in miami now but i can hop on in the morning for me!!", "who": "Mica Vecco", "date": "2026-10-13"},
+        {"quote": "good speaking to you earlier!! here’s the inspo we talked about, lmk what you think 🫶", "who": "Mica Vecco", "date": "2026-10-14"}
+      ]
+    },
+    {
+      "employee": "Michelle",
+      "topic": "The ~20 leak URLs she hand-submitted on Jul 18 are 90 days old with no count and no date. Michelle has been silent 38 days. Melissa's weekly breakdown (Oct 9, third in a row) does not say whether it covers those links or the Oct 6 name keywords.",
+      "count": 9,
+      "first_date": "2025-12-18",
+      "last_date": "2026-10-06",
+      "days_outstanding": 90,
+      "chased_this_week": false,
+      "evidence": [
+        {"quote": "yes, send over the links :)", "who": "Michelle Queue", "date": "2026-07-18"},
+        {"quote": "their being worked on babes 💕", "who": "Michelle Queue", "date": "2026-09-04"},
+        {"quote": "Hey Sarah! Here's your weekly update on the leak removal breakdown for the past 7 days 🤍", "who": "Melissa Userfacing", "date": "2026-10-09"}
+      ]
+    }
+  ],
+  "owner_notes": {
+    "audience": "Derrek only. Owner-level, NOT for the employee/Team section of the dashboard",
+    "carried_from": ["2026-08-21", "2026-08-28", "2026-09-11", "2026-09-18", "2026-09-25", "2026-10-09"],
+    "note": "(1) You have been silent here for 28 days (last message Sep 18); the 30-day owner-silence churn mark is Oct 18. This is a good week to post: she is happy (earnings report, call, link edits), so one short message from you lands well. Cover the chargeback and the link-flag fix. (2) The Sep 18 chargeback is 28 days unanswered and could come up against the Oct 15 invoice; she reconciles every invoice. (3) Phone Farm updates promised Aug 1: 76 days, nothing written. (4) The link-in-bio problem started with 'Derek said he would sort it' on May 7. The third domain has now flagged her account twice. (5) Credential purge and rotation: 56 days. Also, Mayson asked for backup-account 2FA in the group on Oct 10 and she offered her login on Oct 12. Set a rule that access goes through DM or a password manager only. (6) Jul-Sep figures: the Oct 9 earnings report may cover this; confirm it sizes the drop since August.",
+    "evidence": [
+      {"quote": "damn OF Is on their shit", "who": "Derrek", "date": "2026-09-18"},
+      {"quote": "Hiiii I really don’t want this one back charged😁", "who": "Sarah H", "date": "2026-09-18"},
+      {"quote": "Hey Sarah are you able to give 2fa for backup accounts ?", "who": "Mayson Chat", "date": "2026-10-10"},
+      {"quote": "Thankyou! Do you need my login or are you already in?", "who": "Sarah H", "date": "2026-10-12"}
+    ]
+  },
+  "complaints": [
+    {
+      "issue": "Link in bio flags her Instagram. Raised May 7 ('so that it doesn’t flag my account'); link.me rename (May 7), then a custom .vip domain (Jun 11, 'help you from shadow bans'). On Oct 11 that domain was relaunched with a 'won't get flagged' promise and it flagged by Oct 13. It was replaced Oct 15 by xli.ink/sarahharvey, which flagged her account 'again' on Oct 16. This is the third approach in five months and two flags in five days. It is high-stakes given that she lost her 530k main in August.",
+      "status": "recurring",
+      "first_raised": "2026-05-07",
+      "days_open": 162,
+      "owner": "Mayson",
+      "escalate_to": "Derrek",
+      "severity": "high",
+      "evidence": [
+        {"quote": "Hey! Derek said he would sort it but ik he’s super busy so just thought I’d ask if anyone could also help to change the link in my bio so that it doesn’t flag my account!? 🫶🏻", "who": "Sarah H", "date": "2026-05-07"},
+        {"quote": "It routes through our own protected infrastructure before it ever reaches your page, it won’t get flagged and it’s completely safe.", "who": "Mayson Chat", "date": "2026-10-11"},
+        {"quote": "Hey! My links been flagged😢 so I’ll remove it again", "who": "Sarah H", "date": "2026-10-13"},
+        {"quote": "The link flagged my account again so I removed it :(", "who": "Sarah H", "date": "2026-10-16"},
+        {"quote": "Team already on it", "who": "Vivek", "date": "2026-10-16"}
+      ]
+    },
+    {
+      "issue": "MAIN Instagram @sarah.h44 (~530k), down since 2026-08-09: 68 days and a TENTH consecutive window with no written ALTR status. She now says plainly 'my ig name is Sarah Harvey', and ALTR's own new link is xli.ink/sarahharvey. She has effectively moved on, but ALTR never recorded whether the main was recovered and renamed, or lost. This is her third main-account loss in 11 months.",
+      "status": "recurring",
+      "first_raised": "2026-08-09",
+      "days_open": 68,
+      "owner": "Vivek",
+      "escalate_to": "Derrek",
+      "severity": "high",
+      "evidence": [
+        {"quote": "Hey Vivek! Please help! My main account has gone down! My username is Sarah.h44", "who": "Sarah H", "date": "2026-08-09"},
+        {"quote": "my new ig name sarah Harvey? 😊", "who": "Sarah H", "date": "2026-10-06"},
+        {"quote": "Can we please change my name I don’t want my real name getting out there, my ig name is Sarah Harvey😊", "who": "Sarah H", "date": "2026-10-11"}
+      ]
+    },
+    {
+      "issue": "Earnings/ranking drop (raised 2026-08-08, 69 days). PARTIAL PROGRESS: Melissa delivered a written 'earnings and performance report for the last two weeks' on Oct 9 (file; contents not visible in chat), and Sarah loved it. The strategy call was held Oct 14. Still missing is a written plan to recover earnings with targets and a named owner. The call's only written output was an inspo-reel list. Ronnie, the original owner, has been silent 63 days.",
+      "status": "in_progress",
+      "first_raised": "2026-08-08",
+      "days_open": 69,
+      "owner": "Mica Vecco",
+      "escalate_to": "Derrek",
+      "severity": "high",
+      "evidence": [
+        {"quote": "Hey guys!! I’m not trying to be that annoying hassling client but why have I gone down to 3k days😭 what’s happened, what should I be doing to get back up?", "who": "Sarah H", "date": "2026-08-08"},
+        {"quote": "Hey Sarah! Here is your earnings and performance report for the last two weeks 🫶🏽", "who": "Melissa Userfacing", "date": "2026-10-09"},
+        {"quote": "Omg I love this! Thankyou so much for sending that through!! So so motivated to keep pushing!!😍", "who": "Sarah H", "date": "2026-10-09"},
+        {"quote": "good speaking to you earlier!! here’s the inspo we talked about, lmk what you think 🫶", "who": "Mica Vecco", "date": "2026-10-14"}
+      ]
+    },
+    {
+      "issue": "OFTV Drive folder access: on Oct 7 she reported it is 'still not working' and needs editor permission to upload. Unanswered for 9 days, and Olivia has posted nothing since Oct 6. This blocks OFTV uploads on an account with 113 days of recurring audio rejections.",
+      "status": "in_progress",
+      "first_raised": "2026-10-07",
+      "days_open": 9,
+      "owner": "Olivia",
+      "severity": "medium",
+      "evidence": [
+        {"quote": "Hi babe, added Raw folders to OFTV drive folder", "who": "Olivia", "date": "2026-10-06"},
+        {"quote": "Hey liv I’m so sorry it’s still not working o think you may have to change the settings in the folder to editor so I can add videos in xx", "who": "Sarah H", "date": "2026-10-07"}
+      ]
+    },
+    {
+      "issue": "2 backup Instagram accounts (@onlysarahh_xx, @sarah.hxx), down since 2026-08-06: 71 days. First movement in six weeks: on Oct 10 Mayson asked her in the group chat for the backups' 2FA. She did not reply in the chat, and there is still no written status.",
+      "status": "recurring",
+      "first_raised": "2026-08-06",
+      "days_open": 71,
+      "owner": "Vivek",
+      "severity": "medium",
+      "evidence": [
+        {"quote": "Sarah hi ma'am send the password for suspended account", "who": "Vivek", "date": "2026-09-02"},
+        {"quote": "Hey Sarah are you able to give 2fa for backup accounts ?", "who": "Mayson Chat", "date": "2026-10-10"}
+      ]
+    },
+    {
+      "issue": "DMCA / leaks. The weekly breakdown held for a third consecutive week (Melissa, Oct 9). The Oct 6 request to add her legal name and IG name to monitoring and to action leaks under Sarah.h44 got 'On it right now !' from Mayson but no written confirmation in 10 days. The ~20 Jul 18 links still have no count after 90 days, and Michelle has been silent 38 days. (Her legal name, posted Oct 6, is PII and is not repeated here.)",
+      "status": "in_progress",
+      "first_raised": "2026-07-18",
+      "days_open": 90,
+      "owner": "Melissa",
+      "severity": "medium",
+      "evidence": [
+        {"quote": "Also I have a lot of leaked videos under Sarah.h44", "who": "Sarah H", "date": "2026-10-06"},
+        {"quote": "On it right now !", "who": "Mayson Chat", "date": "2026-10-06"},
+        {"quote": "Hey Sarah! Here's your weekly update on the leak removal breakdown for the past 7 days 🤍", "who": "Melissa Userfacing", "date": "2026-10-09"}
+      ]
+    },
+    {
+      "issue": "Sep 18 chargeback unanswered: 28 days. The only reply is Derrek's 'damn OF Is on their shit'. The Oct 1-14 invoice went out Oct 15, and she reconciles every invoice against her dashboard.",
+      "status": "recurring",
+      "first_raised": "2026-09-18",
+      "days_open": 28,
+      "owner": "Derrek",
+      "severity": "high",
+      "evidence": [
+        {"quote": "Hiiii I really don’t want this one back charged😁", "who": "Sarah H", "date": "2026-09-18"},
+        {"quote": "damn OF Is on their shit", "who": "Derrek", "date": "2026-09-18"}
+      ]
+    },
+    {
+      "issue": "SECURITY: plaintext credentials are still in group scrollback after 56 days, ninth window unactioned (2025-09-18 through 2026-09-14; values withheld). No credentials were posted this window, but the group chat is still being used for account access. On Oct 10 Mayson asked for backup-account 2FA in the ~19-person group (Mica told her on Sep 17 never to share backup codes). On Oct 12 she offered her login ('Do you need my login or are you already in?'), and that went unanswered. Separately, the published 2026-09-25 and earlier findings files must be confirmed scrubbed.",
+      "status": "recurring",
+      "first_raised": "2026-08-21",
+      "days_open": 56,
+      "owner": "Derrek",
+      "severity": "critical",
+      "evidence": [
+        {"quote": "Please do not send your backup codes to anyone, including our team. Keep the screenshot somewhere secure that only you can access.", "who": "Mica Vecco", "date": "2026-09-17"},
+        {"quote": "Hey Sarah are you able to give 2fa for backup accounts ?", "who": "Mayson Chat", "date": "2026-10-10"},
+        {"quote": "Thankyou! Do you need my login or are you already in?", "who": "Sarah H", "date": "2026-10-12"}
+      ]
+    },
+    {
+      "issue": "AI voice clone (closeknit.ai free-page autochat) with the wrong accent: 48 days, no update, and still unknown whether it is live.",
+      "status": "in_progress",
+      "first_raised": "2026-08-29",
+      "days_open": 48,
+      "owner": "Olivia",
+      "severity": "medium",
+      "evidence": [
+        {"quote": "I’ve submitted but the voice definitely needs fixing. Maybe you shouldn’t use the voice for me", "who": "Sarah H", "date": "2026-08-29"},
+        {"quote": "Okay bb!! I’ll try to fix it if possible", "who": "Olivia", "date": "2026-08-29"}
+      ]
+    },
+    {
+      "issue": "OFTV: recurring audio rejections since 2026-06-25 (113 days). The Sep 2 call write-up is missing (44 days), and the 'mt cook hike' confirmation is 63 days old (Ronnie absent). Blocked now by the folder-access issue.",
+      "status": "recurring",
+      "first_raised": "2026-06-25",
+      "days_open": 113,
+      "owner": "Olivia",
+      "severity": "medium",
+      "evidence": [
+        {"quote": "Hi love are you available for a call tomorrow so we can catch up and get on the same page for OFTV status?", "who": "Olivia", "date": "2026-08-31"},
+        {"quote": "Hi babe, added Raw folders to OFTV drive folder", "who": "Olivia", "date": "2026-10-06"}
+      ]
+    },
+    {
+      "issue": "Snapchat handoff (37 days) and main content-Drive volume (47 days) are still unscoped. The Snapchat team is unnamed and the Facebook offer is unanswered. Not touched this window.",
+      "status": "in_progress",
+      "first_raised": "2026-08-30",
+      "days_open": 47,
+      "owner": "Mayson",
+      "severity": "low",
+      "evidence": [
+        {"quote": "Hi Sarah this one is important!\n\nHere's your content Drive:", "who": "Mayson Chat", "date": "2026-08-30"},
+        {"quote": "We got a new team who works really good around snapchat posting and would love to take your account!", "who": "Mayson Chat", "date": "2026-09-09"}
+      ]
+    },
+    {
+      "issue": "Sep 15 banking contradiction: three clean cycles since (Sep 20, Oct 1, and the Oct 15 invoice). The Oct 15 invoice points her to 'the invoicing information at the bottom of the PDF', so instructions now travel with each invoice. Still not pinned in the Invoicing topic. Risk is low.",
+      "status": "in_progress",
+      "first_raised": "2026-09-15",
+      "days_open": 31,
+      "owner": "Stephski",
+      "severity": "low",
+      "evidence": [
+        {"quote": "It is very important that you send to this Bank of America account instead of the Chase you've sent to in the past because we no longer have that account open, thank you ❤️", "who": "Stephski", "date": "2026-09-15"},
+        {"quote": "Happy thursday! Here is your invoice for October 1st-14th. Please use the invoicing information at the bottom of the PDF to ensure a smooth process ❤️ Here if you need anything or have any questions!", "who": "Stephski", "date": "2026-10-15"}
+      ]
+    },
+    {
+      "issue": "Content-strategy call: asked Oct 1 and HELD Oct 14 (13 days). Mica re-opened it proactively on Oct 13 and sent an inspo list after. It slipped twice over the Miami/Perth gap, and no Perth-hours backup has been named (33 days).",
+      "status": "resolved",
+      "first_raised": "2026-10-01",
+      "days_open": 13,
+      "owner": "Mica Vecco",
+      "severity": "medium",
+      "evidence": [
+        {"quote": "hi love! checking in on your availability this week to hop on a call 🤍", "who": "Mica Vecco", "date": "2026-10-13"},
+        {"quote": "Ready!", "who": "Sarah H", "date": "2026-10-14"},
+        {"quote": "good speaking to you earlier!! here’s the inspo we talked about, lmk what you think 🫶", "who": "Mica Vecco", "date": "2026-10-14"},
+        {"quote": "AMAZING THANKYOU!! I saved so many to recreate thankyou!", "who": "Sarah H", "date": "2026-10-16"}
+      ]
+    },
+    {
+      "issue": "Link page showed her real name: on Oct 11 she asked to remove it ('I don’t want my real name getting out there'), along with changing the background photo and swapping TikTok for IG. Mayson did all three by the next morning (~13h).",
+      "status": "resolved",
+      "first_raised": "2026-10-11",
+      "days_open": 1,
+      "owner": "Mayson",
+      "severity": "medium",
+      "evidence": [
+        {"quote": "Can we please change my name I don’t want my real name getting out there, my ig name is Sarah Harvey😊", "who": "Sarah H", "date": "2026-10-11"},
+        {"quote": "All done Sarah !", "who": "Mayson Chat", "date": "2026-10-12"},
+        {"quote": "Perfect! Thankyou😁", "who": "Sarah H", "date": "2026-10-12"}
+      ]
+    }
+  ],
+  "commitments": [
+    {
+      "what": "Fix the link in bio so it stops flagging her IG. Confirm in writing what to use and how it was tested ('Team already on it').",
+      "who": "Mayson",
+      "date": "2026-10-16",
+      "status": "pending",
+      "days_outstanding": 0,
+      "escalate_to": "Derrek",
+      "evidence": [
+        {"quote": "The link flagged my account again so I removed it :(", "who": "Sarah H", "date": "2026-10-16"},
+        {"quote": "Team already on it", "who": "Vivek", "date": "2026-10-16"}
+      ]
+    },
+    {
+      "what": "Link-in-bio domain that 'won't get flagged'. Broken: flagged within 2 days, then replaced, and the replacement flagged too.",
+      "who": "Mayson",
+      "date": "2026-10-11",
+      "status": "overdue",
+      "days_overdue": 3,
+      "evidence": [
+        {"quote": "It routes through our own protected infrastructure before it ever reaches your page, it won’t get flagged and it’s completely safe.", "who": "Mayson Chat", "date": "2026-10-11"},
+        {"quote": "Hey! My links been flagged😢 so I’ll remove it again", "who": "Sarah H", "date": "2026-10-13"}
+      ]
+    },
+    {
+      "what": "Link-page edits: remove real name, change background photo, swap TikTok for IG.",
+      "who": "Mayson",
+      "date": "2026-10-11",
+      "status": "done",
+      "evidence": [
+        {"quote": "All done Sarah !", "who": "Mayson Chat", "date": "2026-10-12"}
+      ]
+    },
+    {
+      "what": "Hold the content-strategy call she asked for on Oct 1.",
+      "who": "Mica Vecco",
+      "date": "2026-10-01",
+      "status": "done",
+      "evidence": [
+        {"quote": "good speaking to you earlier!! here’s the inspo we talked about, lmk what you think 🫶", "who": "Mica Vecco", "date": "2026-10-14"}
+      ]
+    },
+    {
+      "what": "Written recap of the Oct 14 call: earnings plan with targets, owner and dates, plus IG status and content volume. Only the inspo list was sent.",
+      "who": "Mica Vecco",
+      "date": "2026-10-14",
+      "status": "pending",
+      "days_outstanding": 2,
+      "escalate_to": "Derrek",
+      "evidence": [
+        {"quote": "good speaking to you earlier!! here’s the inspo we talked about, lmk what you think 🫶", "who": "Mica Vecco", "date": "2026-10-14"}
+      ]
+    },
+    {
+      "what": "Clear removed content on her IG.",
+      "who": "Vivek",
+      "date": "2026-10-10",
+      "status": "pending",
+      "days_outstanding": 6,
+      "evidence": [
+        {"quote": "Hey @fonta can you please help clear some of my removed content on my Ig? 😊", "who": "Sarah H", "date": "2026-10-10"},
+        {"quote": "Yes ma’am", "who": "Vivek", "date": "2026-10-11"}
+      ]
+    },
+    {
+      "what": "Give her editor access to the OFTV Drive folder.",
+      "who": "Olivia",
+      "date": "2026-10-07",
+      "status": "overdue",
+      "days_overdue": 9,
+      "evidence": [
+        {"quote": "Hey liv I’m so sorry it’s still not working o think you may have to change the settings in the folder to editor so I can add videos in xx", "who": "Sarah H", "date": "2026-10-07"}
+      ]
+    },
+    {
+      "what": "Add her legal name and IG name to leak monitoring and action the Sarah.h44 leaks; confirm in writing.",
+      "who": "Mayson",
+      "date": "2026-10-06",
+      "status": "overdue",
+      "days_overdue": 10,
+      "evidence": [
+        {"quote": "Also I have a lot of leaked videos under Sarah.h44", "who": "Sarah H", "date": "2026-10-06"},
+        {"quote": "On it right now !", "who": "Mayson Chat", "date": "2026-10-06"}
+      ]
+    },
+    {
+      "what": "Weekly DMCA breakdown (Sep 25, Oct 2, Oct 9 delivered).",
+      "who": "Melissa",
+      "date": "2026-09-25",
+      "status": "done",
+      "evidence": [
+        {"quote": "Hey Sarah! Here's your weekly update on the leak removal breakdown for the past 7 days 🤍", "who": "Melissa Userfacing", "date": "2026-10-09"}
+      ]
+    },
+    {
+      "what": "Repost her reel across the 23-account repost network on Oct 17.",
+      "who": "Melissa",
+      "date": "2026-10-14",
+      "due": "2026-10-17",
+      "status": "pending",
+      "days_outstanding": 2,
+      "evidence": [
+        {"quote": "Hey Sarah! This reel is going out across our repost network on Saturday, October 17: https://www.instagram.com/reel/Dd60h2FAGKE/?stkn=aWg1bHBycnMwbHll\nAttached is the list of all 23 accounts it will be posted on!\nThank you 🫶", "who": "Melissa Userfacing", "date": "2026-10-14"}
+      ]
+    },
+    {
+      "what": "Oct 13 heads-up and Oct 1-14 invoice on Oct 15.",
+      "who": "Stephski",
+      "date": "2026-10-15",
+      "status": "done",
+      "evidence": [
+        {"quote": "hi love! just writing to inform you that your next invoice will be sent out in 2 days. today is a great day to withdrawl your funds from OF to avoid any delays ❤️", "who": "Stephski", "date": "2026-10-13"},
+        {"quote": "Happy thursday! Here is your invoice for October 1st-14th. Please use the invoicing information at the bottom of the PDF to ensure a smooth process ❤️ Here if you need anything or have any questions!", "who": "Stephski", "date": "2026-10-15"}
+      ]
+    },
+    {
+      "what": "WRITTEN status on @sarah.h44 (recovered/renamed to 'Sarah Harvey' or lost).",
+      "who": "Vivek",
+      "date": "2026-08-09",
+      "status": "overdue",
+      "days_overdue": 68,
+      "escalate_to": "Derrek",
+      "evidence": [
+        {"quote": "Hey Vivek! Please help! My main account has gone down! My username is Sarah.h44", "who": "Sarah H", "date": "2026-08-09"},
+        {"quote": "Yo Ma’am check dm", "who": "Vivek", "date": "2026-09-14"}
+      ]
+    },
+    {
+      "what": "Recover or take over @onlysarahh_xx and @sarah.hxx (Oct 10 2FA request was the first movement in six weeks).",
+      "who": "Vivek",
+      "date": "2026-08-08",
+      "status": "overdue",
+      "days_overdue": 69,
+      "evidence": [
+        {"quote": "Hey Sarah are you able to give 2fa for backup accounts ?", "who": "Mayson Chat", "date": "2026-10-10"}
+      ]
+    },
+    {
+      "what": "Action the ~20 leak URLs from 2026-07-18; give her a count and a date.",
+      "who": "Michelle",
+      "date": "2026-07-18",
+      "status": "overdue",
+      "days_overdue": 90,
+      "evidence": [
+        {"quote": "yes, send over the links :)", "who": "Michelle Queue", "date": "2026-07-18"},
+        {"quote": "their being worked on babes 💕", "who": "Michelle Queue", "date": "2026-09-04"}
+      ]
+    },
+    {
+      "what": "Phone Farm rollout updates promised 2026-08-01.",
+      "who": "Derrek",
+      "date": "2026-08-01",
+      "status": "overdue",
+      "days_overdue": 76,
+      "evidence": [
+        {"quote": "Thank you for your understanding, we will have plenty of updates starting next week.", "who": "Derrek", "date": "2026-08-01"}
+      ]
+    },
+    {
+      "what": "Answer the Sep 18 chargeback: can it be disputed, who owns it, by when.",
+      "who": "Derrek",
+      "date": "2026-09-18",
+      "status": "overdue",
+      "days_overdue": 28,
+      "evidence": [
+        {"quote": "Hiiii I really don’t want this one back charged😁", "who": "Sarah H", "date": "2026-09-18"},
+        {"quote": "damn OF Is on their shit", "who": "Derrek", "date": "2026-09-18"}
+      ]
+    },
+    {
+      "what": "Purge plaintext credentials from scrollback and published findings, have her rotate, and move all account access out of the group chat.",
+      "who": "Derrek",
+      "date": "2026-08-21",
+      "status": "overdue",
+      "days_overdue": 56,
+      "evidence": [
+        {"quote": "Please do not send your backup codes to anyone, including our team. Keep the screenshot somewhere secure that only you can access.", "who": "Mica Vecco", "date": "2026-09-17"}
+      ]
+    },
+    {
+      "what": "Fix or switch off the AI voice clone and confirm whether it is live.",
+      "who": "Olivia",
+      "date": "2026-08-29",
+      "status": "overdue",
+      "days_overdue": 48,
+      "evidence": [
+        {"quote": "Okay bb!! I’ll try to fix it if possible", "who": "Olivia", "date": "2026-08-29"}
+      ]
+    },
+    {
+      "what": "Write up the Sep 2 OFTV call; confirm the 'Justin' release form is on file.",
+      "who": "Olivia",
+      "date": "2026-09-02",
+      "status": "overdue",
+      "days_overdue": 44,
+      "evidence": [
+        {"quote": "Also the guy in my vids is in the release form section under Justin. Thanks heaps x", "who": "Sarah H", "date": "2026-09-20"}
+      ]
+    },
+    {
+      "what": "Name the Snapchat team, scope it, agree main-Drive volume, answer Facebook.",
+      "who": "Mayson",
+      "date": "2026-09-09",
+      "status": "overdue",
+      "days_overdue": 37,
+      "evidence": [
+        {"quote": "We got a new team who works really good around snapchat posting and would love to take your account!", "who": "Mayson Chat", "date": "2026-09-09"}
+      ]
+    },
+    {
+      "what": "Fansly question (standing, low value).",
+      "who": "Eric",
+      "date": "2026-03-28",
+      "status": "overdue",
+      "days_overdue": 202,
+      "evidence": [
+        {"quote": "Doing absolutely amazing. Let me check on this & get back to you! 🙏", "who": "Eric The Efficient", "date": "2026-03-28"}
+      ]
+    }
+  ],
+  "payments": [
+    {
+      "note": "Oct 1-14 invoice: heads-up sent Oct 13 (restored after it was skipped on Sep 30), and the invoice was issued ON TIME Oct 15 13:42 ET, with banking instructions in the PDF. Unpaid at window close (~19h24m later). That is within her normal range (prior four: 4 min to 4d14h) and not late. Amount is not stated in chat.",
+      "date": "2026-10-15",
+      "invoice_period": "2026-10-01 to 2026-10-14",
+      "late": false,
+      "paid": false,
+      "evidence": [
+        {"quote": "hi love! just writing to inform you that your next invoice will be sent out in 2 days. today is a great day to withdrawl your funds from OF to avoid any delays ❤️", "who": "Stephski", "date": "2026-10-13"},
+        {"quote": "Happy thursday! Here is your invoice for October 1st-14th. Please use the invoicing information at the bottom of the PDF to ensure a smooth process ❤️ Here if you need anything or have any questions!", "who": "Stephski", "date": "2026-10-15"}
+      ]
+    },
+    {
+      "note": "Outstanding: Oct 1-14 invoice (not yet due-late). Collection risk is near zero: every invoice in 12+ months has been paid. Watch items: (1) the Sep 18 chargeback is unanswered and could become a query on this invoice; (2) whether she pays in one transfer (fifth in a row would mean billings are still below her 50k AUD/day cap, i.e. about half the pre-August level) or two; (3) banking details are still not pinned in the topic, though they are now on the PDF. Billing was 3 of 30 ALTR messages this window."
+    }
+  ],
+  "client_priorities": [
+    "Instagram safety: the link in bio must stop flagging her account. She removed it twice this week and is clearly anxious ('flagged my account again :(').",
+    "Growth and earnings: she loved the written earnings report and the call ('So so motivated to keep pushing!!'). She wants actionable content direction ('I saved so many to recreate').",
+    "Privacy: keeping her real name off public pages ('I don’t want my real name getting out there'); her public identity is now 'Sarah Harvey'.",
+    "Leak removal under every name she uses, with weekly breakdowns.",
+    "OFTV: being able to upload (editor access), and ending audio rejections.",
+    "Reach and exposure: reposts across the network (Oct 17, 23 accounts).",
+    "Invoice accuracy: she reconciles every invoice; the chargeback is still open.",
+    "Responsiveness in her Perth (UTC+8) hours: the call slipped twice over the time difference.",
+    "Authenticity of anything AI-generated in her name (voice clone, 48d)."
+  ],
+  "suggestions": [
+    "Mayson/Vivek: before giving her another link, test it on a non-critical account. Then send her one written message: what went wrong with the .vip domain and xli.ink, what to use now (or 'leave the bio link off until X'), and who owns it. Do not promise 'won't get flagged' again.",
+    "Mica: post a 3-5 bullet written recap of the Oct 14 call (targets, posting cadence, owner, next check-in). That turns the call plus the Oct 9 earnings report into a closed answer to the Aug 8 earnings question.",
+    "Olivia: switch the OFTV folder to editor today and say so in the topic. Add one line on the voice clone.",
+    "Vivek: one written line on @sarah.h44 (was it renamed to Sarah Harvey or lost?) and on the backup IGs. Confirm the removed-content cleanup is done.",
+    "Mayson: stop requesting 2FA in the group chat. Move backup-account access to DM or a password manager, and answer her Oct 12 'Do you need my login' privately.",
+    "Melissa: show the new name keywords and the Sarah.h44 leaks explicitly in the Oct 16 breakdown, and confirm the Oct 17 repost went out.",
+    "Derrek (privately): post before Oct 18. A short note on the chargeback and the link fix lands well in a good week."
+  ],
+  "wins": [
+    "Written earnings and performance report delivered Oct 9 (Melissa), the first written results deliverable since her Aug 8 earnings question. Her reply: 'Omg I love this! ... So so motivated to keep pushing!!'",
+    "Content-strategy call held Oct 14 after Mica proactively re-opened it, followed the same day by a detailed inspo list: 'AMAZING THANKYOU!! I saved so many to recreate'.",
+    "Link-page edits (real name removed, background photo, TikTok→IG) done within ~13h ('All done Sarah !').",
+    "Reel scheduled across a 23-account repost network for Oct 17. Melissa answered her can't-view problem the same day with a screenshot ('Oh yes that should go really well!!').",
+    "Weekly DMCA breakdown held a third consecutive week (Oct 9).",
+    "Billing ran as designed: heads-up Oct 13, invoice on time Oct 15.",
+    "Vivek re-engaged after 25 silent days; client asks rose to 6, the highest in the tracked history."
+  ],
+  "week_stats": {
+    "messages": 59,
+    "client_messages": 29,
+    "team_messages": 30,
+    "client_asks": 6,
+    "service_events": 0,
+    "note": "Window 2026-10-09T09:05:57-04:00 → 2026-10-16T09:06:40-04:00, ids 1947-2005, no gaps. ALTR 30: Melissa Userfacing 9 (DMCA, earnings report, repost network), Mayson Chat 8 (link in bio, 2FA ask, @fonta tags), Mica Vecco 6 (call + inspo), Vivek 4, Stephski 3 (billing = 3/30). Client: Sarah H 29. Client asks 6: Oct 10 clear removed IG content; Oct 11 remove real name from link page; Oct 11 change background photo; Oct 11 swap TikTok→IG; Oct 13/16 link flagged, fix it; Oct 14 alternative way to view repost reel. (Her Oct 13 'jump on sometime today' continues the Oct 1 call ask and is not counted.) Unanswered: Oct 12 'Do you need my login or are you already in?'. Asks trend: 2 (Sep 11, 14d) → 4 → 0 → 1 (Oct 2 partial) → 4 (Oct 9, 14d) → 6. Silent: Derrek 28d (30-day mark Oct 18), Olivia 10d, Michelle 38d, Ronnie 63d, Eric 92d. No credentials posted. Mica's Google Meet invite (Oct 14) included a dial-in number/PIN for the meeting; not reproduced. All senders mapped to known team.yaml aliases; Jeremy Tarr and Spencer P did not appear in this chat; no unknown senders."
+  }
+}

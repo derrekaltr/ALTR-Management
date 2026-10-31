@@ -1,0 +1,101 @@
+{
+  "client": "Mila",
+  "slug": "mila-x-altr",
+  "week_ending": "2026-08-08",
+  "summary": "Quiet, friendly week centered on the July 15th-31st invoice and content uploads. Callie acknowledged the invoice after one nudge from Stephski, then reported on Aug 8 that her bank's fraud flag had stopped the payment and she has re-sent it, asking the team to confirm receipt and check it doesn't come through twice. Michelle nudged for more reels twice and Callie promised to upload new content-day footage. Client mood remains warm and cooperative, though she is still waiting on the promised IG/phone-farm updates from Derrek's Aug 1 announcement.",
+  "health": {
+    "score": 82,
+    "trend": "new",
+    "rationale": "Warm, responsive client with no complaints this week; minor friction from the payment fraud-flag hiccup, repeated content nudges, and paused IG posting awaiting the phone-farm rollout."
+  },
+  "reminders": [
+    {
+      "employee": "Stephski",
+      "topic": "Confirming that wire/payment was received on ALTR's side",
+      "count": 3,
+      "first_date": "2026-07-12",
+      "last_date": "2026-08-08",
+      "days_outstanding": 0,
+      "quotes": [
+        {"quote": "Has it been received ??", "who": "Callie (Mila)", "date": "2026-07-12"},
+        {"quote": "?", "who": "Callie (Mila)", "date": "2026-07-13"},
+        {"quote": "Hiya, just letting you know my bank had a fraud flag thing so my payment got stopped, I’ve only just seen but it’s sorted now and I’ve redone it please let me know when you’ve received it and if you could just double check it doesn’t come through twice🙄 thank you! Xx", "who": "Callie (Mila)", "date": "2026-08-08"}
+      ]
+    }
+  ],
+  "complaints": [
+    {
+      "issue": "Instagram account suspensions / paused IG posting — client's account was suspended in June, and ALTR's backup-IG posting has been flagged/paused pending the new phone-farm solution",
+      "status": "recurring",
+      "first_raised": "2026-06-23",
+      "owner": "Derrek",
+      "quotes": [
+        {"quote": "Hey guys my accounts been suspended again, I haven’t clicked appeal this time as you said not to, so what happens now x", "who": "Callie (Mila)", "date": "2026-06-23"},
+        {"quote": "We have been working nonstop to find a solution and as of last week, we have a working solution that it will last long-term.", "who": "Derrek", "date": "2026-08-01"}
+      ]
+    }
+  ],
+  "commitments": [
+    {
+      "what": "Roll out the new phone-farm/IG posting solution (shipment landing Monday Aug 3) and provide 'plenty of updates starting next week'",
+      "who": "Derrek",
+      "date": "2026-08-01",
+      "status": "overdue",
+      "quotes": [
+        {"quote": "We are waiting for a shipment that should land Monday that will be the final piece needed to begin and scale.", "who": "Derrek", "date": "2026-08-01"},
+        {"quote": "Thank you for your understanding, we will have plenty of updates starting next week.", "who": "Derrek", "date": "2026-08-01"}
+      ]
+    }
+  ],
+  "payments": [
+    {
+      "note": "July 15th-31st invoice sent Aug 1 with a 7-day window; Callie acknowledged Aug 4 after one nudge, but on Aug 8 reported her bank's fraud flag stopped the first payment. She re-sent it the same day and asked ALTR to confirm receipt and check for a duplicate charge — confirmation still pending at week end.",
+      "date": "2026-08-08",
+      "late": false,
+      "reason": "my bank had a fraud flag thing so my payment got stopped",
+      "suggested_fix": "Confirm receipt within 24h and explicitly verify no duplicate payment; going forward, invoice in GBP by default (she has asked for GBP twice) and proactively confirm every payment landing so she never has to chase.",
+      "quotes": [
+        {"quote": "If you could please shoot over payment within the next 7 days that would be amazing!", "who": "Stephski", "date": "2026-08-01"},
+        {"quote": "Just making sure you saw this 🙏", "who": "Stephski", "date": "2026-08-04"},
+        {"quote": "Hiya yesss will send over !🥰", "who": "Callie (Mila)", "date": "2026-08-04"},
+        {"quote": "Hiya, just letting you know my bank had a fraud flag thing so my payment got stopped, I’ve only just seen but it’s sorted now and I’ve redone it please let me know when you’ve received it and if you could just double check it doesn’t come through twice🙄 thank you! Xx", "who": "Callie (Mila)", "date": "2026-08-08"}
+      ]
+    },
+    {
+      "note": "Recurring pattern: client is UK-based and has twice had to request the invoice in GBP before paying (Jul 7 and Jul 19), delaying payment each cycle even though the team said the exchange would be on the next invoice.",
+      "date": "2026-07-19",
+      "late": true,
+      "reason": "Invoice issued in USD; client needed GBP conversion before her bank would send",
+      "suggested_fix": "Issue all invoices dual-currency (USD + GBP at current rate) from the start so payment can go out same-day.",
+      "quotes": [
+        {"quote": "Is it possible to get the invoice is GBP? So I can get it paid :)", "who": "Callie (Mila)", "date": "2026-07-07"},
+        {"quote": "Hello! Coukd I have it in pounds please:) xx", "who": "Callie (Mila)", "date": "2026-07-19"},
+        {"quote": "We will make sure the exchange is on the next invoice", "who": "Alex Camus", "date": "2026-07-07"}
+      ]
+    }
+  ],
+  "client_priorities": [
+    "Being kept in the loop on promo/IG posting — she asks for plans and links to what's posted ('if you could send me links when you do just so I can be in the loop')",
+    "Invoices in GBP with a clear due date so she can pay quickly",
+    "Prompt confirmation that her payments were received on ALTR's side",
+    "Instagram account safety — suspensions handled correctly without risking her main account",
+    "Clear guidance on OF pricing/custom boundaries (she's flexible but wants alignment)"
+  ],
+  "suggestions": [
+    "Confirm the re-sent Jul 15-31 payment immediately and explicitly tell her no duplicate came through — she asked directly on Aug 8 and this was still unanswered at week end.",
+    "Send invoices dual-currency (USD + GBP) by default; she has requested GBP twice and it delays payment every cycle.",
+    "Have Derrek deliver the promised phone-farm/IG update — updates were promised 'starting next week' on Aug 1 and none arrived during the week.",
+    "Share links to reposted content on the sugarcrystalll IG proactively so she doesn't have to ask about promo status.",
+    "Set a light weekly content-upload cadence/reminder — Michelle has had to chase reels three times (Jul 18, Aug 6, and the pending Aug 8 upload)."
+  ],
+  "wins": [
+    "Client acknowledged the new invoice within hours of a single nudge and proactively flagged her bank's fraud stop, re-sending payment the same day she noticed",
+    "Client did two content days and committed to uploading fresh reels for the promo team",
+    "Rapport is excellent — warm, emoji-heavy exchanges with Stephski and Michelle, no complaints raised all week"
+  ],
+  "week_stats": {
+    "messages": 7,
+    "client_messages": 4,
+    "team_messages": 3
+  }
+}

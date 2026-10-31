@@ -1,0 +1,126 @@
+{
+ "cycles": [
+  {
+   "chat": "Vicky x ALTR",
+   "period_key": "2026-06-17",
+   "period": "2026-06-17..06-30",
+   "period_start": "2026-06-17T00:00:00-05:00",
+   "issued_ts": "2026-07-01T17:00:38-05:00",
+   "issued_by": "Stephski",
+   "issue_msg_ids": [
+    185,
+    186
+   ],
+   "followups": [],
+   "escalations": [],
+   "payment_links": [],
+   "payment_claimed_ts": "2026-07-09T02:29:13-05:00",
+   "payment_claim_msg": 263,
+   "payment_confirmed": false,
+   "evidence": "claimed_only",
+   "lag_days": 7.4
+  },
+  {
+   "chat": "Vicky x ALTR",
+   "period_key": "2026-07-01",
+   "period": "2026-07-01..07-14",
+   "period_start": "2026-07-01T00:00:00-05:00",
+   "issued_ts": "2026-07-15T19:47:12-05:00",
+   "issued_by": "Stephski",
+   "issue_msg_ids": [
+    327,
+    328
+   ],
+   "followups": [],
+   "escalations": [],
+   "payment_links": [],
+   "payment_claimed_ts": null,
+   "payment_claim_msg": null,
+   "payment_confirmed": false,
+   "evidence": "none",
+   "lag_days": null
+  },
+  {
+   "chat": "Vicky x ALTR",
+   "period_key": "2026-07-15",
+   "period": "2026-07-15..07-31",
+   "period_start": "2026-07-15T00:00:00-05:00",
+   "issued_ts": "2026-08-01T15:48:31-05:00",
+   "issued_by": "Stephski",
+   "issue_msg_ids": [
+    471,
+    472
+   ],
+   "followups": [],
+   "escalations": [],
+   "payment_links": [],
+   "payment_claimed_ts": null,
+   "payment_claim_msg": null,
+   "payment_confirmed": false,
+   "evidence": "none",
+   "lag_days": null
+  }
+ ],
+ "events": [
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 185,
+   "ts": "2026-07-01T17:00:38-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 186,
+   "ts": "2026-07-01T17:00:51-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 246,
+   "ts": "2026-07-06T13:46:37-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CLAIMED",
+   "id": 263,
+   "ts": "2026-07-09T02:29:13-05:00",
+   "sender": "Valerie"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 324,
+   "ts": "2026-07-13T13:15:28-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 327,
+   "ts": "2026-07-15T19:47:12-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 328,
+   "ts": "2026-07-15T19:47:15-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 471,
+   "ts": "2026-08-01T15:48:31-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 472,
+   "ts": "2026-08-01T15:48:34-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 473,
+   "ts": "2026-08-01T19:09:08-05:00",
+   "sender": "Derrek"
+  }
+ ]
+}

@@ -1,0 +1,6 @@
+## JORDAN SERVICES [imessage#14912 GRP] msgs=26 win=2026-09-11..2026-09-15 lastClient=2026-09-15(3d) lastDerek=2026-09-13(5d) UNANSWERED
+...
+[2026-09-13 01:16]PAY|OUTCOME|IMG| Jordan Reseller: Price to drop this &... ￼I had him down before he's got it back & blue tick verified I really need this # perm'd if doable
+   <IMG OK: /Users/locklyjailbreak/Library/Messages/Attachments/42/02/74FE6349-BDB8-425D-AAF2-64B2A2B34C44/IMG_0657.png>
+...
+[2026-09-15 14:06]OUTCOME| Jordan Reseller: Can we start with these two Once they are done client will continue sending rest

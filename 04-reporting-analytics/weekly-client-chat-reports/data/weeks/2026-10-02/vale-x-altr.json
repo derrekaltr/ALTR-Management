@@ -1,0 +1,753 @@
+{
+  "client": "Vale",
+  "slug": "vale-x-altr",
+  "week_ending": "2026-10-02",
+  "summary": "A quiet week: 16 messages, and only 5 were from Vale. That is down from 16 client messages last week and is her lowest count since Aug 28. Three things went right. The weekly leak-removal report came back on Sep 25 after 17 days, now posted from the new Melissa Userfacing account (an agency-wide handover from Michelle). Her Instagram restriction looks resolved: Vivek posted a screenshot on Sep 27 and she replied 'Thank you guys'. And Stephski sent the Sep 15-30 invoice on schedule on Oct 1. The biggest new problem came out of that Instagram fix. Vivek told her 'Ma'am you need new bio link', admitted 'Didn't tested that' when she asked whether a link in stories was safe, and promised 'By tomorrow I will get a update on link' (Sep 27). No update has come in four days. On Oct 1 Vale asked again: 'Also I need a new link for OF'. Mayson, who sold her the valebragg.vip and valesworld.vip domains in June, replied 'Wdym?' / 'Domain in bio?'. He did not know about Vivek's thread. So the top of her OnlyFans funnel, an Instagram account whose reach had already fallen from 200k+ to under 3k, has had no working OF link for about five days, and two ALTR staff are not talking to each other about it. The Instagram password she posted in plain text on Sep 23 at Vivek's request is still in the chat, unrotated and not deleted, nine days later. Another unintroduced member joined on Sep 25 (probably the Melissa account, 21 minutes before its first post). Nothing else moved. Ollie Mckinlay, the account lead, sent zero messages for a second week and has been silent for 17 days. The roughly $5,300 of paid but undelivered fan work has now gone seven windows without a mention: John's $2,200 custom is unconfirmed at 41 days, Ryan's sale is 118 days old, John's videocall 154 and Tyler's custom 180. Stephski skipped the pre-invoice OF-withdrawal reminder that produced Vale's two fastest payments. She also invoiced again without confirming the Aug 17, Sep 5 and Sep 16 deposits (now 46, 27 and 16 days) or explaining the 'bounce backs' line from Sep 15. Mica came back after 12 days with a list of reel inspiration links, but still no result from the hook test Vale ran in early September. CHURN WATCH, moderate: signal (a) is present. Vale has gone quiet and short (5 messages, 'Sorry just saw this' three days after the intake link), and she has now left Mayson's Sep 22 call request unanswered for 10 days, the first ignored call ask in six months. The other three signals are absent. The Oct 1 invoice is not yet due, so there is no fast-payment tell. She has not asked for exports or logins, and has not mentioned another agency or doing it herself. One counter-signal: she said 'Doing it now' about ALTR's new intake form, which means she is still putting effort in. She is still engaged when something affects her accounts directly, and she has stopped engaging with everything else.",
+  "health": {
+    "score": 40,
+    "trend": "flat",
+    "rationale": "Up 2 from 38, which is effectively flat. On the plus side: the leak-removal report resumed on Sep 25 after a 17-day gap; the Instagram restriction appears to have cleared (Vivek's Sep 27 screenshot, Vale's 'Thank you guys'); Mica is posting again; and the Oct 1 invoice went out on schedule, the 12th in a row. On the minus side: the fix left her Instagram with no OF link. Vivek promised an update 'By tomorrow' on Sep 27 and it is four days late. When Vale raised it again on Oct 1, Mayson had no idea what she meant ('Wdym?'). Her live Instagram password is still sitting in the group chat nine days after she posted it. The account lead, Ollie Mckinlay, has been absent for 17 days and has closed nothing in seven straight reports: John's $2,200 delivery is unconfirmed at 41 days, the reconciliation is unstarted at 45, there is still no written rulebook at 51 days, and the girl-girl vault purge is unconfirmed at 61. Stephski skipped the withdrawal reminder and invoiced on top of three unreconciled deposits (46/27/16 days). Derrek has been silent for 62 days. CHURN WATCH: signal (a), going quiet and short, is present. Client messages fell 16 → 5, she replied 'Sorry just saw this' three days late, and Mayson's Sep 22 call ask is now 10 days unanswered with no new call offer. Signals (b) fast payment with no asks, (c) requests for exports or logins, and (d) mentions of another agency or doing it herself are all absent this week, and she agreed to fill in the intake form ('Doing it now'). Prior scores: 70, 62, 60, 48, 52 (unpublished), 47, 45, 38."
+  },
+  "reminders": [
+    {
+      "employee": "Vivek",
+      "topic": "Promised Vale an update on her new Instagram bio link 'By tomorrow' (Sep 28). Four days later there is no update. She had to raise it again herself on Oct 1, and Mayson did not know about the thread. Her main Instagram has been running without a working OF link since about Sep 27.",
+      "count": 2,
+      "in_window_count": 2,
+      "first_date": "2026-09-27",
+      "last_date": "2026-10-01",
+      "days_outstanding": 4,
+      "owner": "Vivek",
+      "evidence": [
+        {"quote": "Ma'am you need new bio link", "date": "2026-09-27"},
+        {"quote": "Link on stories to be safe ?", "date": "2026-09-27"},
+        {"quote": "Didn't tested that", "date": "2026-09-27"},
+        {"quote": "By tomorrow I will get a update on link", "date": "2026-09-27"},
+        {"quote": "Also I need a new link for OF", "date": "2026-10-01"}
+      ],
+      "quotes": [
+        {"quote": "Ma'am you need new bio link", "who": "Vivek", "date": "2026-09-27"},
+        {"quote": "Link on stories to be safe ?", "who": "Vale", "date": "2026-09-27"},
+        {"quote": "Didn't tested that", "who": "Vivek", "date": "2026-09-27"},
+        {"quote": "By tomorrow I will get a update on link", "who": "Vivek", "date": "2026-09-27"},
+        {"quote": "Also I need a new link for OF", "who": "Vale", "date": "2026-10-01"}
+      ],
+      "note": "Credit: he stayed on the restriction until it appears to have cleared. But the link is the reason the account exists commercially. Every day without one is lost OF traffic from an account already down from 200k+ reach to under 3k."
+    },
+    {
+      "employee": "Vivek",
+      "topic": "The live Instagram password Vale posted at Vivek's request ('Share password', Sep 22) is still in the group chat nine days later. She has not been asked to rotate it, the messages have not been deleted, and there is no private credential channel. Another unintroduced member joined on Sep 25.",
+      "count": 2,
+      "in_window_count": 0,
+      "first_date": "2026-09-22",
+      "last_date": "2026-10-02",
+      "days_outstanding": 9,
+      "owner": "Vivek",
+      "evidence": [
+        {"quote": "Share password", "date": "2026-09-22"},
+        {"quote": "@valebragg\n\n[REDACTED]", "date": "2026-09-23"},
+        {"quote": "Okay let me change it", "date": "2026-09-23"},
+        {"quote": "[REDACTED]", "date": "2026-09-23"},
+        {"quote": "Should I change my password?", "date": "2026-07-28"}
+      ],
+      "quotes": [
+        {"quote": "Share password", "who": "Vivek", "date": "2026-09-22"},
+        {"quote": "@valebragg\n\n[REDACTED]", "who": "Vale", "date": "2026-09-23"},
+        {"quote": "Okay let me change it", "who": "Vale", "date": "2026-09-23"},
+        {"quote": "[REDACTED]", "who": "Vale", "date": "2026-09-23"},
+        {"quote": "Should I change my password?", "who": "Vale", "date": "2026-07-28"}
+      ],
+      "note": "Second week carried. This is a process gap rather than one person's fault, but Vivek is the one holding the credential and can close it with one message."
+    },
+    {
+      "employee": "Ollie Mckinlay",
+      "topic": "The account lead sent zero messages for a second straight week (last seen Sep 15, 17 days ago). Seven consecutive reports have closed nothing: John's $2,200 delivery is unconfirmed, the custom/call reconciliation has not started, there is no written rulebook, the girl-girl purge is unconfirmed, the fan-alert screenshots are still unexplained, and the Sep 17-18 photos have had no reply.",
+      "count": 7,
+      "in_window_count": 0,
+      "first_date": "2026-08-12",
+      "last_date": "2026-10-02",
+      "days_outstanding": 51,
+      "owner": "Ollie Mckinlay",
+      "evidence": [
+        {"quote": "Apologies spoke to the MM PPV specialist for your account and he knows now not to be doing this", "date": "2026-08-12"},
+        {"quote": "We got an extra $200 out of him for asap delivery on it", "date": "2026-08-18"},
+        {"quote": "John’s custom is uploaded", "date": "2026-08-22"},
+        {"quote": "Yeah no worries at all, you won’t lose your account", "date": "2026-09-14"}
+      ],
+      "quotes": [
+        {"quote": "Apologies spoke to the MM PPV specialist for your account and he knows now not to be doing this", "who": "Ollie Mckinlay", "date": "2026-08-12"},
+        {"quote": "We got an extra $200 out of him for asap delivery on it", "who": "Ollie Mckinlay", "date": "2026-08-18"},
+        {"quote": "John’s custom is uploaded", "who": "Vale", "date": "2026-08-22"},
+        {"quote": "Yeah no worries at all, you won’t lose your account", "who": "Ollie Mckinlay", "date": "2026-09-14"}
+      ]
+    },
+    {
+      "employee": "Stephski",
+      "topic": "Sent the Oct 1 invoice without the pre-invoice OF-withdrawal reminder, and without confirming the Aug 17, Sep 5 and Sep 16 deposits or explaining the Sep 15 'bounce backs' line. This is the fourth report in a row asking for that reconciliation.",
+      "count": 4,
+      "in_window_count": 1,
+      "first_date": "2026-08-17",
+      "last_date": "2026-10-01",
+      "days_outstanding": 46,
+      "owner": "Stephski",
+      "evidence": [
+        {"quote": "Hi love! Just letting you know your invoice will be sent tomorrow, so it would be great if you could initiate a OF withdrawl today so the funds hit your account in time!", "date": "2026-09-14"},
+        {"quote": "Goodmorning love! Here is your invoice for September 1-14th ❤️ Let me know if you need anything, all banking info and zelle info is at the bottom. Please note a slight name change to the account, but the same account and wire info. This should help alleviate any bounce backs or issues moving forward. As always we appreciate you paying within the next 7 days to avoid any pausing in work! 🙏", "date": "2026-09-15"},
+        {"quote": "Good afternoon queen! Here is your invoice for September 15-30th ❤️ Let me know if you need anything, all banking info and zelle info is at the bottom. As always, we appreciate you paying within the next 7 days to avoid any pausing in work! 🙏 Let me know if you have any questions!", "date": "2026-10-01"}
+      ],
+      "quotes": [
+        {"quote": "Hi love! Just letting you know your invoice will be sent tomorrow, so it would be great if you could initiate a OF withdrawl today so the funds hit your account in time!", "who": "Stephski", "date": "2026-09-14"},
+        {"quote": "Good afternoon queen! Here is your invoice for September 15-30th ❤️ Let me know if you need anything, all banking info and zelle info is at the bottom. As always, we appreciate you paying within the next 7 days to avoid any pausing in work! 🙏 Let me know if you have any questions!", "who": "Stephski", "date": "2026-10-01"}
+      ]
+    },
+    {
+      "employee": "Mica Vecco",
+      "topic": "Came back after 12 days with a reel-inspiration list, but has still not reported the result of the hook test Vale ran in early September (32 days). Nothing about the Instagram restriction or the missing bio link.",
+      "count": 5,
+      "in_window_count": 1,
+      "first_date": "2026-08-31",
+      "last_date": "2026-09-29",
+      "days_outstanding": 32,
+      "owner": "Mica Vecco",
+      "evidence": [
+        {"quote": "Ever since I got the Flag of not shown to below 18 it went down but Derrek said it shouldn’t affect but definitely does", "date": "2026-08-31"},
+        {"quote": "Been struggling to get new followers", "date": "2026-09-15"},
+        {"quote": "hi @valebragg05! here’s your reel inspo for the week 💕", "date": "2026-09-29"}
+      ],
+      "quotes": [
+        {"quote": "Ever since I got the Flag of not shown to below 18 it went down but Derrek said it shouldn’t affect but definitely does", "who": "Vale", "date": "2026-08-31"},
+        {"quote": "Been struggling to get new followers", "who": "Vale", "date": "2026-09-15"},
+        {"quote": "hi @valebragg05! here’s your reel inspo for the week 💕", "who": "Mica Vecco", "date": "2026-09-29"}
+      ],
+      "note": "The Sep 29 list also contains the same reel link twice (DcsikjeNwv_), which reads as a template rather than an account-specific brief."
+    },
+    {
+      "employee": "Mayson",
+      "topic": "Did not know about Vivek's bio-link thread ('Wdym?' / 'Domain in bio?') even though he sold Vale the custom domains in June to protect against exactly this kind of restriction. The strategy call has not happened since Jul 13 (81 days), and he did not follow up on the Sep 22 call ask she left unanswered. Her Snapchat and Facebook questions are still unanswered.",
+      "count": 6,
+      "in_window_count": 2,
+      "first_date": "2026-07-13",
+      "last_date": "2026-10-01",
+      "days_outstanding": 81,
+      "owner": "Mayson",
+      "evidence": [
+        {"quote": "Hey @valebragg05 let me know when you’re available for our call!", "date": "2026-09-22"},
+        {"quote": "Also I need a new link for OF", "date": "2026-10-01"},
+        {"quote": "Wdym?", "date": "2026-10-01"},
+        {"quote": "Domain in bio?", "date": "2026-10-01"}
+      ],
+      "quotes": [
+        {"quote": "Hey @valebragg05 let me know when you’re available for our call!", "who": "Mayson", "date": "2026-09-22"},
+        {"quote": "Also I need a new link for OF", "who": "Vale", "date": "2026-10-01"},
+        {"quote": "Wdym?", "who": "Mayson", "date": "2026-10-01"},
+        {"quote": "Domain in bio?", "who": "Mayson", "date": "2026-10-01"}
+      ]
+    }
+  ],
+  "complaints": [
+    {
+      "issue": "Her main Instagram (@valebragg) has had no working OF link since the restriction fix. Vivek told her she needs a new bio link and promised an update the next day. Four days later there is nothing, she asked again on Oct 1, and Mayson did not know what she meant.",
+      "status": "new",
+      "first_raised": "2026-09-27",
+      "days_outstanding": 5,
+      "owner": "Vivek",
+      "severity": "high",
+      "evidence": [
+        {"quote": "Ma'am you need new bio link", "date": "2026-09-27"},
+        {"quote": "By tomorrow I will get a update on link", "date": "2026-09-27"},
+        {"quote": "Also I need a new link for OF", "date": "2026-10-01"},
+        {"quote": "Wdym?", "date": "2026-10-01"},
+        {"quote": "Domain in bio?", "date": "2026-10-01"}
+      ],
+      "quotes": [
+        {"quote": "Ma'am you need new bio link", "who": "Vivek", "date": "2026-09-27"},
+        {"quote": "By tomorrow I will get a update on link", "who": "Vivek", "date": "2026-09-27"},
+        {"quote": "Also I need a new link for OF", "who": "Vale", "date": "2026-10-01"},
+        {"quote": "Wdym?", "who": "Mayson", "date": "2026-10-01"},
+        {"quote": "Domain in bio?", "who": "Mayson", "date": "2026-10-01"}
+      ],
+      "note": "This follows on from the Sep 22-25 restriction, which appears to have cleared (Vivek photo Sep 27, Vale 'Thank you guys'). Vivek and Mayson need one agreed answer on which link or domain is safe."
+    },
+    {
+      "issue": "Her live Instagram password is still in the group chat in plain text, nine days after ALTR asked her to post it. It has not been rotated, the messages have not been deleted, and there is no private credential channel. Her Jul 28 'Should I change my password?' is now 66 days unanswered. Another member was added on Sep 25 without introduction (probably the Melissa Userfacing account, 21 minutes before its first post).",
+      "status": "recurring",
+      "first_raised": "2026-09-22",
+      "days_outstanding": 10,
+      "owner": "Vivek",
+      "severity": "high",
+      "evidence": [
+        {"quote": "Share password", "date": "2026-09-22"},
+        {"quote": "@valebragg\n\n[REDACTED]", "date": "2026-09-23"},
+        {"quote": "[REDACTED]", "date": "2026-09-23"},
+        {"quote": "Please do not send your backup codes to anyone, including our team. Keep the screenshot somewhere secure that only you can access.", "date": "2026-09-17"},
+        {"quote": "Should I change my password?", "date": "2026-07-28"}
+      ],
+      "quotes": [
+        {"quote": "Share password", "who": "Vivek", "date": "2026-09-22"},
+        {"quote": "@valebragg\n\n[REDACTED]", "who": "Vale", "date": "2026-09-23"},
+        {"quote": "[REDACTED]", "who": "Vale", "date": "2026-09-23"},
+        {"quote": "Please do not send your backup codes to anyone, including our team. Keep the screenshot somewhere secure that only you can access.", "who": "Mica Vecco", "date": "2026-09-17"},
+        {"quote": "Should I change my password?", "who": "Vale", "date": "2026-07-28"}
+      ],
+      "note": "No new credentials were posted in this window. Her OnlyFans password from Mar 23 is also still in the chat history."
+    },
+    {
+      "issue": "About $5,300 of paid but undelivered or unconfirmed fan work has gone a SEVENTH window without anyone mentioning it. John's $2,000 custom plus the $200 ASAP fee was delivered by Vale on Aug 22 and is still unconfirmed (41 days). The March-to-date reconciliation has not started (45 days), including whether fan u490240243 is owed one delivery or two. Ryan's $600 videocall: 118 days since sale. John's $1,800 videocall: 154 days. Tyler's $700 custom: 180 days. The outstanding 1:1 lives: 54 days past 'this week'.",
+      "status": "recurring",
+      "first_raised": "2026-05-22",
+      "days_outstanding": 133,
+      "owner": "Ollie Mckinlay",
+      "severity": "high",
+      "evidence": [
+        {"quote": "Google sheets is acting weird but this fan paid 2k in may for a custom (so not when we were on the page) I don't know if you ever saw it", "date": "2026-08-18"},
+        {"quote": "We got an extra $200 out of him for asap delivery on it", "date": "2026-08-18"},
+        {"quote": "John’s custom is uploaded", "date": "2026-08-22"},
+        {"quote": "Pls let’s get those schedule they’ve been waiting for a minute", "date": "2026-07-30"},
+        {"quote": "I’ve gotten this a couple times now, please be mindful. I don’t wanna deal with crazy chargebacks", "date": "2026-07-23"}
+      ],
+      "quotes": [
+        {"quote": "Google sheets is acting weird but this fan paid 2k in may for a custom (so not when we were on the page) I don't know if you ever saw it", "who": "Ollie Mckinlay", "date": "2026-08-18"},
+        {"quote": "We got an extra $200 out of him for asap delivery on it", "who": "Ollie Mckinlay", "date": "2026-08-18"},
+        {"quote": "John’s custom is uploaded", "who": "Vale", "date": "2026-08-22"},
+        {"quote": "Pls let’s get those schedule they’ve been waiting for a minute", "who": "Vale", "date": "2026-07-30"},
+        {"quote": "I’ve gotten this a couple times now, please be mindful. I don’t wanna deal with crazy chargebacks", "who": "Vale", "date": "2026-07-23"}
+      ],
+      "note": "Vale stopped chasing these about seven weeks ago. That reads as disengagement, not resolution."
+    },
+    {
+      "issue": "Vale is afraid of losing her OnlyFans account and has been given reassurance instead of answers. Her alert screenshots (from Aug 29 onward) are still unexplained, and the four uncaptioned photos she posted on Sep 17-18 (most likely Lost Lands festival content) have had no reply for 15 days. Ollie sent nothing again this week.",
+      "status": "recurring",
+      "first_raised": "2026-08-29",
+      "days_outstanding": 34,
+      "owner": "Ollie Mckinlay",
+      "severity": "high",
+      "evidence": [
+        {"quote": "What is going on ?", "date": "2026-09-14"},
+        {"quote": "I am not sure what that is about to be honest", "date": "2026-09-14"},
+        {"quote": "Yeah no worries at all, you won’t lose your account", "date": "2026-09-14"},
+        {"quote": "Ok. Thank you for clarifying. I lost access to my account for Nine days before because I had a chatter say that I was 16 in one of the videos so that was really stressful getting my account back so anytime I see any alerts I’m just scared of losing my account again especially now with more money on it but thank you.", "date": "2026-09-15"}
+      ],
+      "quotes": [
+        {"quote": "What is going on ?", "who": "Vale", "date": "2026-09-14"},
+        {"quote": "I am not sure what that is about to be honest", "who": "Ollie Mckinlay", "date": "2026-09-14"},
+        {"quote": "Yeah no worries at all, you won’t lose your account", "who": "Ollie Mckinlay", "date": "2026-09-14"},
+        {"quote": "Ok. Thank you for clarifying. I lost access to my account for Nine days before because I had a chatter say that I was 16 in one of the videos so that was really stressful getting my account back so anytime I see any alerts I’m just scared of losing my account again especially now with more money on it but thank you.", "who": "Vale", "date": "2026-09-15"}
+      ]
+    },
+    {
+      "issue": "Fan-trust and content-boundary breaches by the chat/PPV team: five incidents Jul 17 - Aug 11. The clean streak is now 52 days. But there is still no written account rulebook (51 days), no age-language rule, no confirmation that recordings of her private lives were pulled from PPV inventory, and the unauthorized girl-girl vault purge is unconfirmed after 61 days.",
+      "status": "recurring",
+      "first_raised": "2026-07-17",
+      "days_outstanding": 77,
+      "owner": "Ollie Mckinlay",
+      "severity": "high",
+      "evidence": [
+        {"quote": "Apologies spoke to the MM PPV specialist for your account and he knows now not to be doing this", "date": "2026-08-12"},
+        {"quote": "Okay thank you will let them know", "date": "2026-08-02"}
+      ],
+      "quotes": [
+        {"quote": "Apologies spoke to the MM PPV specialist for your account and he knows now not to be doing this", "who": "Ollie Mckinlay", "date": "2026-08-12"},
+        {"quote": "Okay thank you will let them know", "who": "Ollie Mckinlay", "date": "2026-08-02"}
+      ]
+    },
+    {
+      "issue": "Instagram reach collapsed from 200k+ to under 3k (Aug 31). Mica's hook test, which the client ran, has never been reported back (32 days). The 'not shown to below 18' flag has never been escalated. Mica's only message this week was a generic reel-inspiration list.",
+      "status": "recurring",
+      "first_raised": "2026-08-31",
+      "days_outstanding": 32,
+      "owner": "Mica Vecco",
+      "severity": "high",
+      "evidence": [
+        {"quote": "Same kind of content but barely even reach 3k", "date": "2026-08-31"},
+        {"quote": "Ever since I got the Flag of not shown to below 18 it went down but Derrek said it shouldn’t affect but definitely does", "date": "2026-08-31"},
+        {"quote": "Been struggling to get new followers", "date": "2026-09-15"},
+        {"quote": "hi @valebragg05! here’s your reel inspo for the week 💕", "date": "2026-09-29"}
+      ],
+      "quotes": [
+        {"quote": "Same kind of content but barely even reach 3k", "who": "Vale", "date": "2026-08-31"},
+        {"quote": "Ever since I got the Flag of not shown to below 18 it went down but Derrek said it shouldn’t affect but definitely does", "who": "Vale", "date": "2026-08-31"},
+        {"quote": "Been struggling to get new followers", "who": "Vale", "date": "2026-09-15"},
+        {"quote": "hi @valebragg05! here’s your reel inspo for the week 💕", "who": "Mica Vecco", "date": "2026-09-29"}
+      ]
+    },
+    {
+      "issue": "Three client payments are still unreconciled against a bank account ALTR has changed five times: Aug 17 (46 days), Sep 5 (27) and Sep 16 (16). The 'bounce backs' line on the Sep 15 invoice has gone 17 days without an explanation. Stephski invoiced again on Oct 1 without addressing any of it.",
+      "status": "recurring",
+      "first_raised": "2026-09-15",
+      "days_outstanding": 46,
+      "owner": "Stephski",
+      "severity": "medium",
+      "evidence": [
+        {"quote": "Sent", "date": "2026-08-17"},
+        {"quote": "Perf thank you love", "date": "2026-09-05"},
+        {"quote": "Thank you love!", "date": "2026-09-16"},
+        {"quote": "Good afternoon queen! Here is your invoice for September 15-30th ❤️ Let me know if you need anything, all banking info and zelle info is at the bottom. As always, we appreciate you paying within the next 7 days to avoid any pausing in work! 🙏 Let me know if you have any questions!", "date": "2026-10-01"}
+      ],
+      "quotes": [
+        {"quote": "Sent", "who": "Vale", "date": "2026-08-17"},
+        {"quote": "Perf thank you love", "who": "Stephski", "date": "2026-09-05"},
+        {"quote": "Thank you love!", "who": "Stephski", "date": "2026-09-16"},
+        {"quote": "Good afternoon queen! Here is your invoice for September 15-30th ❤️ Let me know if you need anything, all banking info and zelle info is at the bottom. As always, we appreciate you paying within the next 7 days to avoid any pausing in work! 🙏 Let me know if you have any questions!", "who": "Stephski", "date": "2026-10-01"}
+      ],
+      "note": "The client has not complained. It is logged because the risk was created by ALTR."
+    },
+    {
+      "issue": "Access asks have been opened and not closed. Her Snapchat question 'What’s its for ?' (Sep 10) is 22 days unanswered, her Facebook reply (Sep 16) is 16 days unacknowledged, and the Jul 28 sexting-set template / content request and the Aug 7 fan-notes request are still outstanding. Separately, ALTR's new intake form (Sep 28) asks her for even more information.",
+      "status": "recurring",
+      "first_raised": "2026-08-07",
+      "days_outstanding": 56,
+      "owner": "Mayson",
+      "severity": "medium",
+      "evidence": [
+        {"quote": "What’s its for ?", "date": "2026-09-10"},
+        {"quote": "I have my personal and an of one", "date": "2026-09-10"},
+        {"quote": "I have my one with my family members and old friends", "date": "2026-09-16"},
+        {"quote": "Can you guys tell me what you have on him on your notes ?", "date": "2026-08-07"}
+      ],
+      "quotes": [
+        {"quote": "What’s its for ?", "who": "Vale", "date": "2026-09-10"},
+        {"quote": "I have my personal and an of one", "who": "Vale", "date": "2026-09-10"},
+        {"quote": "I have my one with my family members and old friends", "who": "Vale", "date": "2026-09-16"},
+        {"quote": "Can you guys tell me what you have on him on your notes ?", "who": "Vale", "date": "2026-08-07"}
+      ]
+    },
+    {
+      "issue": "CHURN WATCH: the client is disengaging. Client messages fell 16 → 5. She answered the Sep 28 intake link three days late ('Sorry just saw this'). Mayson's Sep 22 call request has been unanswered for 10 days, the first ignored call ask in six months, and nobody has offered her a concrete call time since. She still engages on account emergencies. There is no hostility, no dispute and no talk of leaving.",
+      "status": "recurring",
+      "first_raised": "2026-09-22",
+      "days_outstanding": 10,
+      "owner": "Mayson",
+      "severity": "medium",
+      "evidence": [
+        {"quote": "Hey @valebragg05 let me know when you’re available for our call!", "date": "2026-09-22"},
+        {"quote": "Sorry just saw this", "date": "2026-10-01"},
+        {"quote": "Doing it now", "date": "2026-10-01"}
+      ],
+      "quotes": [
+        {"quote": "Hey @valebragg05 let me know when you’re available for our call!", "who": "Mayson", "date": "2026-09-22"},
+        {"quote": "Sorry just saw this", "who": "Vale", "date": "2026-10-01"},
+        {"quote": "Doing it now", "who": "Vale", "date": "2026-10-01"}
+      ]
+    },
+    {
+      "issue": "RESOLVED: the weekly leak-removal report resumed on Sep 25 after a 17-day gap. It now comes from the Melissa Userfacing account (handover from Michelle). Still open: written confirmation that 'Valebragg' is permanently included in the sweep. Vale did not respond to the report.",
+      "status": "resolved",
+      "first_raised": "2026-09-15",
+      "days_outstanding": 0,
+      "owner": "Melissa",
+      "severity": "low",
+      "evidence": [
+        {"quote": "Hey love! Here’s your weekly update on the leak removal breakdown for the past 7 days 🫶🏼", "date": "2026-09-08"},
+        {"quote": "@valebragg05 Hey love! Here’s your weekly update on the leak removal breakdown for the past 7 days 🫶🏼", "date": "2026-09-25"},
+        {"quote": "You guys have to look under Valebragg mainly", "date": "2026-08-30"}
+      ],
+      "quotes": [
+        {"quote": "Hey love! Here’s your weekly update on the leak removal breakdown for the past 7 days 🫶🏼", "who": "Michelle", "date": "2026-09-08"},
+        {"quote": "@valebragg05 Hey love! Here’s your weekly update on the leak removal breakdown for the past 7 days 🫶🏼", "who": "Melissa", "date": "2026-09-25"},
+        {"quote": "You guys have to look under Valebragg mainly", "who": "Vale", "date": "2026-08-30"}
+      ],
+      "note": "Agency-wide broadcast. Check next week that the Oct 2 report arrives on time."
+    }
+  ],
+  "commitments": [
+    {
+      "what": "Give Vale an update on a safe new Instagram bio link / OF link ('By tomorrow I will get a update on link').",
+      "who": "Vivek",
+      "date": "2026-09-27",
+      "deadline": "2026-09-28",
+      "days_outstanding": 4,
+      "status": "overdue",
+      "evidence": [
+        {"quote": "By tomorrow I will get a update on link", "date": "2026-09-27"},
+        {"quote": "Also I need a new link for OF", "date": "2026-10-01"}
+      ],
+      "quotes": [
+        {"quote": "By tomorrow I will get a update on link", "who": "Vivek", "date": "2026-09-27"},
+        {"quote": "Also I need a new link for OF", "who": "Vale", "date": "2026-10-01"}
+      ]
+    },
+    {
+      "what": "Get her Instagram password out of the group chat: have her rotate it through a private channel, delete the plaintext messages, and set up a credential channel that is not a group chat.",
+      "who": "Vivek",
+      "date": "2026-09-23",
+      "deadline": "2026-09-26",
+      "days_outstanding": 9,
+      "status": "overdue",
+      "evidence": [
+        {"quote": "Share password", "date": "2026-09-22"},
+        {"quote": "Okay let me change it", "date": "2026-09-23"}
+      ],
+      "quotes": [
+        {"quote": "Share password", "who": "Vivek", "date": "2026-09-22"},
+        {"quote": "Okay let me change it", "who": "Vale", "date": "2026-09-23"}
+      ]
+    },
+    {
+      "what": "Close out the Instagram restriction: tell her what triggered it and whether it connects to the under-18 flag or the reach collapse.",
+      "who": "Vivek",
+      "date": "2026-09-25",
+      "deadline": "2026-09-26",
+      "days_outstanding": 0,
+      "status": "done",
+      "evidence": [
+        {"quote": "It’s in review", "date": "2026-09-25"},
+        {"quote": "Thank you guys", "date": "2026-09-27"},
+        {"quote": "Ma'am you need new bio link", "date": "2026-09-27"}
+      ],
+      "quotes": [
+        {"quote": "It’s in review", "who": "Vivek", "date": "2026-09-25"},
+        {"quote": "Thank you guys", "who": "Vale", "date": "2026-09-27"},
+        {"quote": "Ma'am you need new bio link", "who": "Vivek", "date": "2026-09-27"}
+      ],
+      "note": "Marked done because the restriction appears to have cleared (Sep 27 screenshot). The cause was the link, so the follow-up is the open bio-link commitment. The connection to the under-18 flag was never explained."
+    },
+    {
+      "what": "Resume the weekly leak-removal breakdown.",
+      "who": "Melissa",
+      "date": "2026-09-08",
+      "deadline": "2026-09-15",
+      "days_outstanding": 0,
+      "status": "done",
+      "evidence": [
+        {"quote": "@valebragg05 Hey love! Here’s your weekly update on the leak removal breakdown for the past 7 days 🫶🏼", "date": "2026-09-25"}
+      ],
+      "quotes": [
+        {"quote": "@valebragg05 Hey love! Here’s your weekly update on the leak removal breakdown for the past 7 days 🫶🏼", "who": "Melissa", "date": "2026-09-25"}
+      ],
+      "note": "Delivered by the new Melissa Userfacing account. Confirming 'Valebragg' is permanently in the sweep is still open."
+    },
+    {
+      "what": "Send the pre-invoice OF-withdrawal reminder on Sep 29/30.",
+      "who": "Stephski",
+      "date": "2026-09-25",
+      "deadline": "2026-09-30",
+      "days_outstanding": 2,
+      "status": "overdue",
+      "evidence": [
+        {"quote": "Good afternoon queen! Here is your invoice for September 15-30th ❤️ Let me know if you need anything, all banking info and zelle info is at the bottom. As always, we appreciate you paying within the next 7 days to avoid any pausing in work! 🙏 Let me know if you have any questions!", "date": "2026-10-01"}
+      ],
+      "quotes": [
+        {"quote": "Good afternoon queen! Here is your invoice for September 15-30th ❤️ Let me know if you need anything, all banking info and zelle info is at the bottom. As always, we appreciate you paying within the next 7 days to avoid any pausing in work! 🙏 Let me know if you have any questions!", "who": "Stephski", "date": "2026-10-01"}
+      ],
+      "note": "Missed. The invoice went out without it. The reminder has worked both times it was used (paid in 2 days and in 1 day)."
+    },
+    {
+      "what": "Confirm receipt of the Aug 17, Sep 5 and Sep 16 payments by amount and date, and say whether any transfer bounced.",
+      "who": "Stephski",
+      "date": "2026-08-17",
+      "deadline": "2026-10-01",
+      "days_outstanding": 46,
+      "status": "overdue",
+      "evidence": [
+        {"quote": "Sent", "date": "2026-08-17"},
+        {"quote": "Thank you love!", "date": "2026-09-16"}
+      ],
+      "quotes": [
+        {"quote": "Sent", "who": "Vale", "date": "2026-08-17"},
+        {"quote": "Thank you love!", "who": "Stephski", "date": "2026-09-16"}
+      ]
+    },
+    {
+      "what": "Confirm to Vale that John's $2,000 custom (plus the $200 ASAP fee) reached the fan.",
+      "who": "Ollie Mckinlay",
+      "date": "2026-08-22",
+      "deadline": "2026-08-22",
+      "days_outstanding": 41,
+      "status": "overdue",
+      "evidence": [
+        {"quote": "John’s custom is uploaded", "date": "2026-08-22"}
+      ],
+      "quotes": [
+        {"quote": "John’s custom is uploaded", "who": "Vale", "date": "2026-08-22"}
+      ]
+    },
+    {
+      "what": "Run the March-to-date reconciliation of paid customs, calls and lives against OnlyFans records (including whether John, u490240243, is owed one delivery or two).",
+      "who": "Ollie Mckinlay",
+      "date": "2026-08-18",
+      "deadline": "2026-08-18",
+      "days_outstanding": 45,
+      "status": "overdue",
+      "evidence": [
+        {"quote": "Google sheets is acting weird but this fan paid 2k in may for a custom (so not when we were on the page) I don't know if you ever saw it", "date": "2026-08-18"}
+      ],
+      "quotes": [
+        {"quote": "Google sheets is acting weird but this fan paid 2k in may for a custom (so not when we were on the page) I don't know if you ever saw it", "who": "Ollie Mckinlay", "date": "2026-08-18"}
+      ]
+    },
+    {
+      "what": "Publish a written account rulebook (no fabricating real people, no reselling private lives or calls, no age references, price minimums, girl-girl limited to Mia Sorety) and confirm the private-live recordings were pulled from PPV.",
+      "who": "Ollie Mckinlay",
+      "date": "2026-08-12",
+      "deadline": "2026-08-12",
+      "days_outstanding": 51,
+      "status": "overdue",
+      "evidence": [
+        {"quote": "Apologies spoke to the MM PPV specialist for your account and he knows now not to be doing this", "date": "2026-08-12"}
+      ],
+      "quotes": [
+        {"quote": "Apologies spoke to the MM PPV specialist for your account and he knows now not to be doing this", "who": "Ollie Mckinlay", "date": "2026-08-12"}
+      ]
+    },
+    {
+      "what": "Reply to the four uncaptioned photos posted Sep 17-18 in the OnlyFans topic.",
+      "who": "Ollie Mckinlay",
+      "date": "2026-09-17",
+      "deadline": "2026-09-18",
+      "days_outstanding": 15,
+      "status": "overdue",
+      "note": "Photo-only messages, so there is no text to quote (ids 886, 887, 888, 890)."
+    },
+    {
+      "what": "Identify the recurring OnlyFans alerts Vale has screenshotted since Aug 29 and tell her what they mean.",
+      "who": "Ollie Mckinlay",
+      "date": "2026-08-29",
+      "deadline": "2026-08-30",
+      "days_outstanding": 34,
+      "status": "overdue",
+      "evidence": [
+        {"quote": "I am not sure what that is about to be honest", "date": "2026-09-14"}
+      ],
+      "quotes": [
+        {"quote": "I am not sure what that is about to be honest", "who": "Ollie Mckinlay", "date": "2026-09-14"}
+      ]
+    },
+    {
+      "what": "Confirm the unauthorized girl-girl videos were purged from the vault.",
+      "who": "Ollie Mckinlay",
+      "date": "2026-08-02",
+      "deadline": "2026-08-02",
+      "days_outstanding": 61,
+      "status": "overdue",
+      "evidence": [
+        {"quote": "Okay thank you will let them know", "date": "2026-08-02"}
+      ],
+      "quotes": [
+        {"quote": "Okay thank you will let them know", "who": "Ollie Mckinlay", "date": "2026-08-02"}
+      ]
+    },
+    {
+      "what": "Schedule the outstanding 1:1 lives and Tyler's $700 custom ('yes we can schedule them for this week').",
+      "who": "Ollie Mckinlay",
+      "date": "2026-08-09",
+      "deadline": "2026-08-16",
+      "days_outstanding": 54,
+      "status": "overdue",
+      "evidence": [
+        {"quote": "yes we can schedule them for this week", "date": "2026-08-09"}
+      ],
+      "quotes": [
+        {"quote": "yes we can schedule them for this week", "who": "Ollie Mckinlay", "date": "2026-08-09"}
+      ]
+    },
+    {
+      "what": "Reschedule and complete Ryan's $600 videocall (moved to 'early next week' on Aug 8).",
+      "who": "Ollie Mckinlay",
+      "date": "2026-08-08",
+      "deadline": "2026-08-11",
+      "days_outstanding": 55,
+      "status": "overdue"
+    },
+    {
+      "what": "Book John's $1,800 videocall (Vale offered Friday on Aug 3; logged May 1).",
+      "who": "Ollie Mckinlay",
+      "date": "2026-08-03",
+      "deadline": "2026-08-07",
+      "days_outstanding": 60,
+      "status": "overdue"
+    },
+    {
+      "what": "Send the sexting-set template and the content request promised Jul 28; follow up with Infloww on the possible vault/access issue and answer 'Should I change my password?'.",
+      "who": "Ollie Mckinlay",
+      "date": "2026-07-28",
+      "deadline": "2026-07-29",
+      "days_outstanding": 66,
+      "status": "overdue",
+      "evidence": [
+        {"quote": "Should I change my password?", "date": "2026-07-28"}
+      ],
+      "quotes": [
+        {"quote": "Should I change my password?", "who": "Vale", "date": "2026-07-28"}
+      ]
+    },
+    {
+      "what": "Answer Vale's Aug 7 request for the team's fan notes before a booked call.",
+      "who": "Ollie Mckinlay",
+      "date": "2026-08-07",
+      "deadline": "2026-08-08",
+      "days_outstanding": 56,
+      "status": "overdue",
+      "evidence": [
+        {"quote": "Can you guys tell me what you have on him on your notes ?", "date": "2026-08-07"}
+      ],
+      "quotes": [
+        {"quote": "Can you guys tell me what you have on him on your notes ?", "who": "Vale", "date": "2026-08-07"}
+      ]
+    },
+    {
+      "what": "Report back on the reel hook test, say whether reach recovered, and connect it to the restriction and the age flag.",
+      "who": "Mica Vecco",
+      "date": "2026-08-31",
+      "deadline": "2026-09-04",
+      "days_outstanding": 32,
+      "status": "overdue",
+      "evidence": [
+        {"quote": "It could honestly just be Instagram being inconsistent", "date": "2026-08-31"}
+      ],
+      "quotes": [
+        {"quote": "It could honestly just be Instagram being inconsistent", "who": "Mica Vecco", "date": "2026-08-31"}
+      ]
+    },
+    {
+      "what": "Book and hold a strategy call with a date, time and link (biweekly cadence dead since Jul 13; the Sep 22 ask is unanswered).",
+      "who": "Mayson",
+      "date": "2026-07-13",
+      "deadline": "2026-07-27",
+      "days_outstanding": 81,
+      "status": "overdue",
+      "evidence": [
+        {"quote": "Hey @valebragg05 let me know when you’re available for our call!", "date": "2026-09-22"}
+      ],
+      "quotes": [
+        {"quote": "Hey @valebragg05 let me know when you’re available for our call!", "who": "Mayson", "date": "2026-09-22"}
+      ]
+    },
+    {
+      "what": "Answer Vale's Snapchat question (which account, and what it is for) and close the Facebook ask.",
+      "who": "Mayson",
+      "date": "2026-09-10",
+      "deadline": "2026-09-17",
+      "days_outstanding": 22,
+      "status": "overdue",
+      "evidence": [
+        {"quote": "What’s its for ?", "date": "2026-09-10"},
+        {"quote": "I have my one with my family members and old friends", "date": "2026-09-16"}
+      ],
+      "quotes": [
+        {"quote": "What’s its for ?", "who": "Vale", "date": "2026-09-10"},
+        {"quote": "I have my one with my family members and old friends", "who": "Vale", "date": "2026-09-16"}
+      ]
+    },
+    {
+      "what": "Route and follow up on Vale's Aug 3 management referral (@ofwizz).",
+      "who": "Vivek",
+      "date": "2026-08-03",
+      "deadline": "2026-08-04",
+      "days_outstanding": 60,
+      "status": "overdue"
+    },
+    {
+      "what": "OWNER-LEVEL: deliver the Aug 1 'plenty of updates starting next week' on the IG posting infrastructure, and reply to her Aug 31 pushback on the under-18 flag.",
+      "who": "Derrek",
+      "date": "2026-08-01",
+      "deadline": "2026-08-08",
+      "days_outstanding": 62,
+      "status": "overdue",
+      "evidence": [
+        {"quote": "Ever since I got the Flag of not shown to below 18 it went down but Derrek said it shouldn’t affect but definitely does", "date": "2026-08-31"}
+      ],
+      "quotes": [
+        {"quote": "Ever since I got the Flag of not shown to below 18 it went down but Derrek said it shouldn’t affect but definitely does", "who": "Vale", "date": "2026-08-31"}
+      ],
+      "note": "Owner item. Handle privately; keep out of the employee section."
+    }
+  ],
+  "payments": [
+    {
+      "note": "Sep 15-30 invoice sent on schedule on Oct 1 at 15:05 (file attachment; the amount is not stated in chat). Due about Oct 8. Not yet paid at window close, which is normal at day 1. The pre-invoice OF-withdrawal reminder (due Sep 29/30) was NOT sent.",
+      "amount": null,
+      "date": "2026-10-01",
+      "invoice_period": "2026-09-15 to 2026-09-30",
+      "due": "2026-10-08",
+      "late": false,
+      "days_late": 0,
+      "reason": null,
+      "suggested_fix": "Send a gentle withdrawal nudge now. Next run, check payment date and whether there were any asks alongside it (a fast payment with zero asks would be a churn tell).",
+      "evidence": [
+        {"quote": "Good afternoon queen! Here is your invoice for September 15-30th ❤️ Let me know if you need anything, all banking info and zelle info is at the bottom. As always, we appreciate you paying within the next 7 days to avoid any pausing in work! 🙏 Let me know if you have any questions!", "date": "2026-10-01"}
+      ],
+      "quotes": [
+        {"quote": "Good afternoon queen! Here is your invoice for September 15-30th ❤️ Let me know if you need anything, all banking info and zelle info is at the bottom. As always, we appreciate you paying within the next 7 days to avoid any pausing in work! 🙏 Let me know if you have any questions!", "who": "Stephski", "date": "2026-10-01"}
+      ]
+    },
+    {
+      "note": "ALTR-side reconciliation risk. The Aug 17 (46 days), Sep 5 (27) and Sep 16 (16) payments have never been confirmed by amount, and the Sep 15 'bounce backs' line is still unexplained. A new invoice has now been issued on top of them.",
+      "amount": null,
+      "date": "2026-10-02",
+      "invoice_period": "2026-08-01 to 2026-09-14",
+      "late": false,
+      "days_late": 0,
+      "reason": "ALTR reconciliation gap across five banking changes; no client-side fault.",
+      "suggested_fix": "Confirm all three deposits in one message before the Oct 1 invoice is paid.",
+      "evidence": [
+        {"quote": "Sent", "date": "2026-08-17"},
+        {"quote": "Hi yes I sent it already", "date": "2026-09-05"},
+        {"quote": "Sending now", "date": "2026-09-16"}
+      ],
+      "quotes": [
+        {"quote": "Sent", "who": "Vale", "date": "2026-08-17"},
+        {"quote": "Hi yes I sent it already", "who": "Vale", "date": "2026-09-05"},
+        {"quote": "Sending now", "who": "Vale", "date": "2026-09-16"}
+      ]
+    },
+    {
+      "note": "Fan-money chargeback exposure is about $5,300 and has not changed in seven windows: John $2,200 delivered but unconfirmed (41 days), Ryan $600 (118 days since sale), John's videocall $1,800 (154 days), Tyler $700 (180 days).",
+      "amount": 5300,
+      "date": "2026-10-02",
+      "late": false,
+      "days_late": 0,
+      "reason": "Delivery and confirmation failure on ALTR's side.",
+      "suggested_fix": "Confirm the John delivery and put calendar dates on the three outstanding calls/customs.",
+      "evidence": [
+        {"quote": "We got an extra $200 out of him for asap delivery on it", "date": "2026-08-18"},
+        {"quote": "John’s custom is uploaded", "date": "2026-08-22"}
+      ],
+      "quotes": [
+        {"quote": "We got an extra $200 out of him for asap delivery on it", "who": "Ollie Mckinlay", "date": "2026-08-18"},
+        {"quote": "John’s custom is uploaded", "who": "Vale", "date": "2026-08-22"}
+      ]
+    },
+    {
+      "note": "Client-side payment record: 11 for 11 on time since March, never disputed. No client-side payment risk.",
+      "amount": null,
+      "date": "2026-10-02",
+      "late": false,
+      "days_late": 0,
+      "reason": null
+    }
+  ],
+  "client_priorities": [
+    "Getting a working OF link back on her Instagram after the restriction: 'Also I need a new link for OF' (Oct 1), 'Link on stories to be safe ?' (Sep 27)",
+    "Keeping her accounts alive and under her own control. She fears losing OnlyFans access again after a nine-day loss caused by a chatter's age comment. Her Instagram password is still in the group chat, and 'Should I change my password?' (Jul 28) has never been answered",
+    "Instagram reach and follower growth as the top of her OF funnel (200k+ down to under 3k; she believes the 'not shown to below 18' flag is the cause)",
+    "Leak-removal coverage, especially 'Valebragg' ('That one gets the most leaks since it’s my instagram name'). The weekly report resumed on Sep 25",
+    "Fan trust and authenticity: no lying, no scam tactics, no reselling private lives or calls",
+    "Prompt delivery of paid customs, calls and lives. She has stopped chasing these, which is a disengagement signal",
+    "Control over which personal accounts ALTR touches (personal vs OF Snapchat; Facebook is personal only)",
+    "Not underselling content (price minimums) and content boundaries (no B/G; girl-girl limited to Mia Sorety)",
+    "Avoiding chargebacks; vault hygiene"
+  ],
+  "suggestions": [
+    "Today: Vivek and Mayson agree on ONE safe OF link (one of the valebragg.vip / valesworld.vip domains Mayson sold her, or a fresh one). Give it to Vale in a single message with a clear 'bio or stories' instruction. Vivek's 'By tomorrow' is four days late and Mayson's 'Wdym?' shows the two of them are not coordinating.",
+    "Move the Instagram credential to a private channel. Have her rotate the password, delete the messages from Sep 22-23, and answer her Jul 28 'Should I change my password?' in the same message. Introduce or remove the member added on Sep 25.",
+    "Send Mayson a call invite with an actual date, time and Meet link rather than another 'let me know when you're available'. The Sep 22 ask has been ignored for 10 days and she has slowed to 5 messages a week. A real call is the cheapest churn countermeasure on the account.",
+    "Stephski: send a short OF-withdrawal nudge now (the reminder was skipped), and confirm the Aug 17, Sep 5 and Sep 16 deposits by amount before the Oct 1 invoice is paid.",
+    "Ollie needs to be back in this chat this week or replaced on the account. One message can confirm John's $2,200 delivery, reply to the Sep 17-18 photos, and give dates for Ryan, John's videocall and Tyler.",
+    "Mica: reply to the hook test with a one-line verdict and current reach numbers, instead of only generic reel inspiration (the Sep 29 list contained the same link twice).",
+    "Melissa / leak team: confirm in writing that 'Valebragg' is in the standing sweep, and keep the weekly report on schedule from the new account.",
+    "Use the intake form she said she is filling in ('Doing it now') as a reason to get back in touch. Acknowledge it when it arrives and turn her answers into the long-promised written account rulebook."
+  ],
+  "wins": [
+    "The weekly leak-removal report resumed on Sep 25 after a 17-day gap, now from the Melissa Userfacing account",
+    "The Instagram restriction on @valebragg appears to have cleared. Vivek followed it through to a Sep 27 screenshot, and Vale replied 'Thank you guys'",
+    "Sep 15-30 invoice sent on schedule on Oct 1, the 12th consecutive on-time invoice",
+    "Mica is posting again after 12 days silent (Sep 29 reel inspiration)",
+    "Vale is cooperating with ALTR's new intake form ('Doing it now') and is still raising operational needs herself, which shows she is still invested",
+    "Fan-trust clean streak: 52 days without a chatter or PPV boundary incident"
+  ],
+  "week_stats": {
+    "messages": 16,
+    "client_messages": 5,
+    "team_messages": 11
+  }
+}

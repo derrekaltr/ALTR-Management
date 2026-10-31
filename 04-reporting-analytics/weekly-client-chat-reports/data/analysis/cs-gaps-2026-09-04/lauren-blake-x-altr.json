@@ -1,0 +1,120 @@
+{
+  "client": "Lauren Blake",
+  "slug": "lauren-blake-x-altr",
+  "status": "at_risk",
+  "status_reason": "Nothing in her behaviour is failing - in 63 days she has never missed a content request, gave advance travel notice twice, personally messaged all 24 top spenders, and when OUR wire rail broke she phoned Chase herself, diagnosed it (beneficiary-name mismatch plus a fraud/scam flag on ALTR's receiving account), invented the 3-day Zelle-split workaround and settled invoice 2 in full, apologising to us for a delay we caused. The risk is entirely ours: four days after she reported that a major US bank has flagged ALTR MANAGEMENT LLC for fraud, nobody has acknowledged it; the wire rail is still unusable so she is splitting every invoice into $5k Zelles; the 5% paid-ads fee has now ridden three invoices with no Meta report ever produced (32 days); twelve of our own commitments are open; and the account manager's only two messages in the last seven days were both requests of her - the second, on Sep 4, asking where content she had already uploaded on Aug 31 was.",
+  "last_client_message": "2026-09-03",
+  "dimensions": {
+    "responsiveness": {
+      "severity": 2,
+      "internal_failure": "Transactional asks get answered in minutes, but anything substantive sits past 24h or needs a repeat nudge and a Mayson @-mention to move; the worst case is still open - her Aug 31 report that Chase flagged ALTR's account for fraud/scam has never received any answer at all, and her Sep 3 banking question needed a page and 4h20m to get a one-line partial reply.",
+      "evidence": [
+        {"quote": "And your account was flagged by Chase for fraud/scam transactions so they won’t send it through so they won’t send it even if I say so", "who": "Lauren Blake (4 days later, no one on our side has acknowledged the fraud flag; Stephski's next two messages were 'so so sorry for the difficulties!' and 'going to shoot you new invoice here in a moment')", "date": "2026-08-31"},
+        {"quote": "Can you confirm the name of the account? Chase said the reason why I can’t wire is because the name on the invoice does not match the name on the account. If we can get that matched up then I don’t have to send individual Zelle’s", "who": "Lauren Blake (ignored until Mayson posted '@stephskiii ^^' 1h later; the reply came 4h20m after that and gave only the name - no routing/SWIFT, no address, no corrected invoice)", "date": "2026-09-03"},
+        {"quote": "Please clarify asap / @olkmck", "who": "Lauren Blake (mid-shoot and blocked on a custom brief; answered 8.8h later, and only after Mayson paged Ollie again)", "date": "2026-08-14"}
+      ]
+    },
+    "follow_through": {
+      "severity": 3,
+      "internal_failure": "Twelve of our twenty-five commitments never closed and the stack aged another week untouched: phone-farm updates (Derrek, 34d), written chatter-boundary confirmation (Ollie, 33d), Meta ad-stats call (Derrek, 32d - the fee has now ridden three invoices), whale-reactivation report (Ollie, 28d), verified/corrected banking details (Stephski, 20d - now proven to be the wire root cause), CodyBeebs proof screenshot (Ollie, 17d), livestream re-booking (14d), OnlyFans-stories confirmation (Michelle, 13d). Ollie owns five of these and sent exactly two messages in the last seven days, both new asks.",
+      "evidence": [
+        {"quote": "Thank you for your understanding, we will have plenty of updates starting next week.", "who": "Derrek (announcing the $40k phone farm; zero updates posted in the 34 days since, and zero messages of any kind in the last 7 days)", "date": "2026-08-01"},
+        {"quote": "You're welcome! Derreks going to give you a ring and walk you through your current ad stats 🙂", "who": "Stephski (she replied 'Tell him to call tomorrow pls'; 32 days later the call has never happened and the 5% fee rode a third invoice on Sep 1)", "date": "2026-08-03"},
+        {"quote": "Yes Ill get that for you", "who": "Ollie Mckinlay (the CodyBeebs redistribution proof she asked to see; never sent, 17 days, and no update on whether the $2k apology push landed)", "date": "2026-08-18"}
+      ]
+    },
+    "proactive_communication": {
+      "severity": 2,
+      "internal_failure": "In 63 days we have never once volunteered a performance number - no revenue, whale, IG-growth or Meta ad-spend report - on a service that bills a 5% paid-ads fee. Michelle's weekly leak report is the single unprompted recurring output and it is templated; everything else our side initiated in the last two weeks was a payment chase or a monetization ask, including the fraud flag on our own bank account, which we let the client discover and report to us.",
+      "evidence": [
+        {"quote": "Hi love! Here’s your weekly update on the leak removal breakdown for the past 7 days 💕", "who": "Michelle Queue (the only unprompted recurring report on the account - unbroken weekly since Jul 17, on time again Sep 1, never once chased)", "date": "2026-09-01"},
+        {"quote": "I’d like to see the ad reports of the 5% being spent on meta", "who": "Lauren Blake (asked once on Aug 3; never delivered and never volunteered since, across three invoices carrying the fee)", "date": "2026-08-03"},
+        {"quote": "Yes let us know, as we arent seeing anything on our side still, and just want to remind that another invoice comes Tuesday 🙏", "who": "Stephski (chase #5 of 6, sent while she was travelling - and the only non-templated outbound of that week besides the leak report)", "date": "2026-08-30"}
+      ]
+    },
+    "onboarding_handoff": {
+      "severity": 2,
+      "internal_failure": "Week 1 delivered an intro round and drive links but no substance: her intake doc was filled and then not read, the promised content-requirements doc never came, no strategy call happened until day 32, the paid ads she signed up for on day 3 have still never visibly launched (day 63), the trial-reel method promised at signup was never set up, and her boundaries and price floors were never captured before chatters started selling - the direct cause of the later breach.",
+      "evidence": [
+        {"quote": "Oh weird I did fill it out", "who": "Lauren Blake (after Ollie asked her mid-holiday to 'fill the rest of this out' - the doc she had already completed)", "date": "2026-07-10"},
+        {"quote": "Will send content requirements tomorrow to make this page pop", "who": "Ollie Mckinlay (day 3; the content-requirements doc was never sent, and her limits were never captured anywhere chatters could see them)", "date": "2026-07-06"},
+        {"quote": "Where do I turn in the reels once I’ve filmed them? Do we have a drive to work with? Derrek mentioned that you guys will be taking over my trial reels", "who": "Lauren Blake (she self-resolved the drive half - 'Nvm I found it in another chat!' - and the trial-reel half was answered 38 days later with 'right now it’s regular reels')", "date": "2026-07-11"}
+      ]
+    },
+    "chatter_conduct": {
+      "severity": 3,
+      "internal_failure": "Chatters were put on her page with no brief on her limits: they offered porn/sex-tape/anal content she does not produce, priced topless at $500 against her $8k diamond floor, sold a topless-JOI-with-face custom AFTER she banned it, and blocked a $27k whale without telling her. Her boundaries - stated three times - have still never been confirmed back in writing, and the sell-first-tell-later pattern continued this window with an $800 follow sold on her personal Instagram before anyone asked her.",
+      "evidence": [
+        {"quote": "Also I’d like this changed. I don’t have actual porn, sex tapes or anything anal. This message it outside of my comfort zone", "who": "Lauren Blake (Ollie replied 'Will get this sorted' the next day; 33 days on, still no written confirmation that scripts, custom intake or pricing changed)", "date": "2026-08-01"},
+        {"quote": "The second one is topless Joi with face. I already told yall anything topless is mute just music and faceless.", "who": "Lauren Blake (13 days after she set the boundary the custom had already been sold to a fan - a live breach, not a near-miss)", "date": "2026-08-14"},
+        {"quote": "He’s spent 27k.. what’re we doing here / Is this a strategy?", "who": "Lauren Blake (her top spender was blocked without her being told; the answer, after a Mayson page, was 'This was a strategy' plus 'everything is under control')", "date": "2026-08-06"}
+      ]
+    },
+    "platform_health": {
+      "severity": 2,
+      "internal_failure": "IG traffic growth is her stated number-one goal and nobody visibly owns it. The only substantive platform update in 63 days was Derrek's Aug 1 phone-farm broadcast promising 'plenty of updates starting next week' - none in the 34 days since; Vivek, introduced Jul 29 as the dedicated Meta Support Rep, has never posted a single message in the group; and the trial-reel method promised at onboarding was never running.",
+      "evidence": [
+        {"quote": "My ultimate goal is to get traffic picked up. Please let me know what you need from me to get started and getting momentum ☺️ / I’ve signed up for paid ads so I would love to get those launched too", "who": "Lauren Blake (day 3; on day 43 the answer was still 'ads will be ran as well')", "date": "2026-07-06"},
+        {"quote": "Hey Ive added Vivek in here ( @fonta ). He is our Meta Support Rep that will help keep your IG accounts up and safe... simply @ him in the chat and he will help.", "who": "Derrek (Vivek has zero messages in this chat in the 37 days since being introduced as the named escalation path)", "date": "2026-07-29"},
+        {"quote": "right now it’s regular reels, ads will be ran as well so the page will kick off 🚀", "who": "Michelle Queue (day 43, in answer to her asking a second time whether the trial method was running; it never was)", "date": "2026-08-18"}
+      ]
+    },
+    "billing_ops": {
+      "severity": 3,
+      "internal_failure": "The payment failure is confirmed as ours and is still not fixed. We changed the receiving account number on the Aug 15 invoice, never verified it, sent six chases (Aug 21/25/26/27/30/31), and only learned from the client that the beneficiary name on our invoice does not match the registered account AND that Chase has flagged ALTR's account for fraud/scam. Twenty days later the only correction issued is one line naming the account; no routing/SWIFT, no registered address, no corrected invoice, no acknowledgement of the fraud flag - so she is still paying every invoice in daily $5k Zelle installments she designed herself.",
+      "evidence": [
+        {"quote": "They said that the name ALTR mgmt LLC is not matching the name on the account even though the numbers are", "who": "Lauren Blake (root cause found by the CLIENT, on the phone to Chase, 16 days after our account-number change and after two rejected wires and six chases)", "date": "2026-08-31"},
+        {"quote": "Sent the first Zelle instead. It’s my limit so I’ll do 5k tomorrow then 4103 the next day", "who": "Lauren Blake (the settlement plan for invoice 2 was invented by the client, from LA/Mexico, and executed exactly - Aug 31 / Sep 1 / Sep 2 '3/3 Zelle for last invoice')", "date": "2026-08-31"},
+        {"quote": "The name on the account is ALTR MANAGEMENT LLC", "who": "Stephski (the entire remediation to date: one line, 4h20m after a page, with the fraud flag unmentioned - while invoice 3 had already gone out Sep 1 carrying the unevidenced 5% ads fee for the third time)", "date": "2026-09-03"}
+      ]
+    },
+    "ownership_escalation": {
+      "severity": 3,
+      "internal_failure": "No one owns this account end to end. Mayson - a queue chatter - has acted as the human pager five separate times (Jul 17, Aug 7, Aug 15, Aug 22, Sep 3) because the account lead is not watching the group; Ollie owns five open items and sent two messages in seven days, both new requests of her; Derrek sent six messages in the collection week and zero in the week after; and the wire investigation was handed to the client with 'you gotta just call to verify it' rather than owned by anyone here.",
+      "evidence": [
+        {"quote": "normally if it says that you gotta just call to verify it / happens to me with chase often", "who": "Derrek (the entirety of our troubleshooting on a failure that turned out to be a fraud flag on our own account; the client then did the vendor-side diagnostics for us)", "date": "2026-08-27"},
+        {"quote": "@stephskiii ^^", "who": "Mayson Chat (fifth time a queue chatter has had to route a client message to its actual owner; the previous four were Jul 17, Aug 7, Aug 15 and Aug 22)", "date": "2026-09-03"},
+        {"quote": "Let me work on this for you 🙂", "who": "Stephski (the 5% ad report - reassigned to Derrek as a phone call 3 minutes later, then owned by nobody for 32 days)", "date": "2026-08-03"}
+      ]
+    },
+    "disengagement_detection": {
+      "severity": 2,
+      "internal_failure": "We only notice her when we want something. Every team-initiated contact in the last two weeks was a payment chase or a monetization ask - none was a check-in on her trip, the livestream she committed to, the customs due on her return, or the fraud flag she flagged to us. Her genuine trust hits (the blocked $27k whale, 'outside my comfort zone', the fraud flag) keep being answered with reassurance and empathy instead of evidence, and the real churn signal - twelve open promises she has stopped chasing - is not tracked anywhere.",
+      "evidence": [
+        {"quote": "Hey Lauren, where are the new pictures?", "who": "Ollie Mckinlay (his second and last message of the week, four days after she wrote 'Uploaded some new pics' on Aug 31 - the third time we have lost content she already delivered)", "date": "2026-09-04"},
+        {"quote": "Sorry that’s happening :( I know it’s frustrating and we appreciate you", "who": "Stephski (empathy in place of remediation; the name mismatch and the fraud flag were neither explained nor fixed)", "date": "2026-08-31"},
+        {"quote": "This was a strategy / Will explain it in more detail on the call - everything is under control", "who": "Ollie Mckinlay (reassurance instead of an explanation after she asked three times about her top spender being blocked)", "date": "2026-08-07"}
+      ]
+    },
+    "security_hygiene": {
+      "severity": 2,
+      "internal_failure": "Credential handling has no process and no closure. Her OnlyFans password was routed to Derrek personally and also written into a shared, editable onboarding Google Doc; the only hygiene question ever asked ('Will you be changing your password in an hour?') was never followed up, and no rotation was ever confirmed. Two weeks later we asked for IG login details in the open 8-person group chat rather than a secure channel. Nothing has ever been rotated, moved or deleted, and the Aug 31 fraud flag on our own receiving account compounds the trust exposure.",
+      "evidence": [
+        {"quote": "I sent it to Derrek. Are we all set? / It’s in the doc too", "who": "Lauren Blake (her OF credential duplicated into the shared editable intake doc; the question 'Are we all set?' was never answered by anyone)", "date": "2026-07-06"},
+        {"quote": "Will you be changing your password in an hour?", "who": "Ollie Mckinlay (the only credential-hygiene question ever asked on this account; never followed up and no rotation ever confirmed)", "date": "2026-07-06"},
+        {"quote": "Hi babes, going to get an update for you. Send over the login details and we can get that going 💕", "who": "Michelle Queue (requesting account access in the open group chat with eight-plus members instead of a secure channel)", "date": "2026-07-21"}
+      ]
+    }
+  },
+  "metrics": {
+    "client_questions_total": 34,
+    "unanswered_over_24h": 10,
+    "max_team_silence_days": 3.06,
+    "promises_made": 25,
+    "promises_kept": 13,
+    "promises_lapsed": 12,
+    "method": "Manual read of all 360 non-service messages from 2026-07-03 to 2026-09-04. Questions = client messages containing '?' plus unambiguous imperative asks (34; +1 this window, her Sep 3 account-name question). Unanswered >24h = 10: paid-ads launch (Jul 6), 'Are we all set?' on the credential (Jul 6), trial-reel method (Jul 11), IG page/promo status (Jul 20, real answer 29 days later), 5% Meta ad report (Aug 3, still open), livestream poll (Aug 14, only actioned after she re-asked), CodyBeebs screenshot (Aug 17, still open), OnlyFans-stories confirmation (Aug 22, still open), corrected banking details after the wire bounced (Aug 24, still only partially answered), and the Aug 31 fraud-flag report, which has had no substantive answer at all. Her Sep 3 question was answered in 4h20m but only after a Mayson page and only in part, so it is not counted. Team silence = longest gap between consecutive messages from any team.yaml/vendor sender: Jul 14 10:04 to Jul 17 11:38 = 3.06d (runner-up Aug 22 to Aug 25 = 2.67d). That figure badly understates the problem - Derrek sent zero messages in the last 7 days after six the week before, and Ollie has averaged two messages a week for three weeks. Promises = explicit forward commitments by our side where the client is left waiting; 25 made, 13 kept, 12 lapsed. Lapsed set: content-requirements doc (Jul 6), IG status update (Jul 21), Vivek as the working Meta escalation path (Jul 29), phone-farm updates (Aug 1), chatter-boundary fix confirmed in writing (Aug 2), ad-report work (Aug 3), Derrek's ad-stats call (Aug 3), whale-reactivation report (Aug 7), CodyBeebs proof screenshot (Aug 18), livestream re-booking (Aug 21), OnlyFans-stories confirmation (Aug 22), and working/verified payment details (Aug 15 - the client worked around them; they were never fixed). No new promises were made in the Sep 3-4 window."
+  },
+  "what_client_wanted": [
+    "Traffic growth she can actually see, on the service she signed up for: 'My ultimate goal is to get traffic picked up. Please let me know what you need from me to get started and getting momentum' and 'I've signed up for paid ads so I would love to get those launched too' (both Jul 6, day 3). On day 43 the answer was still 'right now it's regular reels, ads will be ran as well'; on day 63 there is still no ad evidence.",
+    "Her content boundaries and price floors respected without repeating herself: 'When I do topless, it's no face, no sound. I don't do it any other way' and '$500 is wayyy too low for topless. I was only going that for diamond tiers who paid 8k' (Aug 1), restated Aug 14 and Aug 18. Never confirmed back in writing, and breached once in between.",
+    "Financial transparency for what she is billed: 'I'd like to see the ad reports of the 5% being spent on meta' and 'Also, do we account for the 6k in chargebacks?' (both Aug 3). The chargeback answer took 12 minutes and satisfied her completely; the ad report has never come. Payment details that actually work belong in this bucket too - she is the one who proved ours do not.",
+    "To be treated as a collaborator rather than a supplier: she brought the whale strategy herself ('24 whales, 13 ghosted since takeover. Strategy to wake them and keep them happy (they made 59% of rev)', Aug 6), brought tactics from her previous team ('do you guys do stories for only fans? My previous team would always keep a story alive', Aug 22), gives unprompted travel notice so fan messaging stays aligned, and even fixed our payment rail for us ('I'll get it handled today', Aug 31)."
+  ],
+  "what_worked": [
+    "Named fan, named number, specific ask. Ollie flagged Joe at $6.3k in a day and she delivered pics and a video within 40 minutes while driving home, then celebrated us: 'Bravo team!! That's what we love to see!!' and 'Run it up fam' (Aug 18). The same pattern worked again on Aug 30-31 - asked to follow a $13k spender, she did it over the weekend and went past the ask: 'Followed :)' then 'Liked a few pics too'. Concrete, evidenced requests get instant enthusiastic compliance from this client every single time.",
+    "Michelle's weekly DMCA/leak-removal report: promised Jul 14 ('you can expect your first report by the end of this week'), delivered Jul 17 and every week since including Sep 1 - eight consecutive weeks, never once chased. It is the only service line on the account that has never needed a reminder, and her first unprompted praise - 'Hi team! I'm super happy with how my page is being ran so far' (Jul 17) - landed the same hour as the first report.",
+    "Fast, specific money answers with evidence attached. Stephski's 12-minute chargeback explanation with a screenshot ('the charge backs just deduct from this number before i pull it... so we are not invoicing on earnings not earned') got 'Awesome thanks sis' (Aug 3), and same-day 'Recieved!' confirmations kept the tone cooperative even at the bottom of the wire mess. Warmth works on her - it just cannot keep substituting for the fix."
+  ],
+  "top_fix": "Fix and prove the payment rail before asking for another dollar: get the Chase fraud/scam flag on ALTR MANAGEMENT LLC cleared, reissue the invoice with the beneficiary name exactly as registered plus routing/SWIFT and registered address in one standalone message, explain the flag to her proactively, and attach the Meta ad-spend report that has now ridden three invoices - she made five payment attempts across two rails and apologised twice for a failure that was ours. Structurally, give the account one named owner running a written promise ledger with dates, so the twelve open commitments (boundary confirmation, whale-reactivation report, CodyBeebs proof, phone-farm updates, livestream re-booking, OnlyFans-stories confirmation) close in writing without her asking. This client currently does our follow-through, our diagnostics and our project management for us, and she will eventually price that in."
+}

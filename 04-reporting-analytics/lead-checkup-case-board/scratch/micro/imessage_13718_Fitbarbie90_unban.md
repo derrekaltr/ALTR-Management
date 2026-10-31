@@ -1,0 +1,6 @@
+## Fitbarbie90 unban [imessage#13718 GRP] msgs=25 win=2026-06-05..2026-06-07 lastClient=2026-06-07(103d) lastDerek=2026-06-05(105d) UNANSWERED
+...
+[2026-06-05 02:30]ASK| Kartik Sighroha: Or you will be permanently disabled
+[2026-06-05 02:31]PAY|ASK| Joey Fowler: Ok she didn’t appeal it. She has her friend that can get it back for her but he’s vacationing in turkey right now so he didn’t answer which is why I hit up derek. She told me to wait to hear back from
+...
+[2026-06-07 09:46]OUTCOME| Kartik Sighroha: hey brother rep is in office let me know if we still need this done, reps come for few days and then disappear for weeks or months. let me know if our services are still needed thanks

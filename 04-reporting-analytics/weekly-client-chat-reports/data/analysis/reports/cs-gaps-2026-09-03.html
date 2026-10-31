@@ -1,0 +1,1302 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
+<title>ALTR CS Command Center — 2026-09-03</title>
+<style>
+:root {
+  color-scheme: light;
+  --page:#f9f9f7; --surface:#fcfcfb; --ink:#0b0b0b; --ink-2:#52514e; --muted:#898781;
+  --grid:#e1e0d9; --baseline:#c3c2b7; --ring:rgba(11,11,11,.10); --series-1:#2a78d6;
+  --good:#0ca30c; --warning:#fab219; --serious:#ec835a; --critical:#d03b3b; --delta-good:#006300;
+  --good-bg:rgba(12,163,12,.10); --warning-bg:rgba(250,178,25,.16); --serious-bg:rgba(236,131,90,.18); --critical-bg:rgba(208,59,59,.14);
+}
+@media (prefers-color-scheme: dark) {
+  :root { color-scheme:dark; --page:#0d0d0d; --surface:#1a1a19; --ink:#fff; --ink-2:#c3c2b7;
+    --grid:#2c2c2a; --baseline:#383835; --ring:rgba(255,255,255,.10); --series-1:#3987e5; --delta-good:#0ca30c;
+    --warning-bg:rgba(250,178,25,.13); --serious-bg:rgba(236,131,90,.15); --critical-bg:rgba(208,59,59,.17); }
+}
+*{box-sizing:border-box} body{margin:0;background:var(--page);color:var(--ink);font:15px/1.55 system-ui,-apple-system,"Segoe UI",sans-serif}
+.wrap{max-width:1080px;margin:0 auto;padding:30px 24px 80px}
+h1{font-size:23px;margin:0} .sub{color:var(--ink-2);margin:2px 0 4px;font-size:13.5px}
+.internal{display:inline-block;font-size:11px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--critical);border:1px solid var(--critical);border-radius:999px;padding:1px 10px}
+.hero{display:grid;grid-template-columns:300px 1fr;gap:16px;margin:20px 0 8px;align-items:stretch}
+@media(max-width:820px){.hero{grid-template-columns:1fr}}
+.scorecard{background:var(--surface);border:1px solid var(--ring);border-radius:14px;padding:18px 20px}
+.scorecard .big{font-size:44px;font-weight:700;line-height:1.05;display:flex;align-items:baseline;gap:10px}
+.scorecard .big .trendword{font-size:15px;font-weight:650;color:var(--critical)}
+.scorecard .lab{color:var(--ink-2);font-size:13px;margin-bottom:8px}
+.spark polyline{fill:none;stroke:var(--series-1);stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+.spark circle{fill:var(--series-1)}
+.verdict{background:var(--surface);border:1px solid var(--ring);border-radius:14px;padding:18px 20px;font-size:16px;line-height:1.6;display:flex;align-items:center}
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:10px;margin:10px 0 6px}
+.kpi{background:var(--surface);border:1px solid var(--ring);border-radius:10px;padding:9px 13px}
+.kpi .v{font-size:20px;font-weight:650} .kpi .l{color:var(--ink-2);font-size:12px}
+h2{font-size:17px;margin:36px 0 4px} .h2sub{color:var(--muted);font-size:13px;margin:0 0 12px}
+.fire{background:var(--surface);border:1px solid var(--ring);border-left:4px solid var(--critical);border-radius:12px;padding:16px 18px;margin-top:12px}
+.fire .top{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+.fire .nm{font-weight:700;font-size:16.5px}
+.chip{font-size:12px;font-weight:650;border-radius:999px;padding:2px 10px;border:1px solid var(--ring);white-space:nowrap}
+.chip.owner{background:var(--warning-bg)} .chip.you{background:var(--critical-bg)}
+.hp{font-size:12.5px;color:var(--muted);margin-left:auto;display:flex;align-items:center;gap:6px}
+.fire .why{color:var(--ink-2);font-size:14px;margin:8px 0}
+.fire .act{font-size:14.5px;margin:0}.fire .act b{font-weight:700}
+details.draft{margin-top:10px}
+details.draft summary{cursor:pointer;font-size:13px;font-weight:650;color:var(--series-1);list-style:none;display:inline-flex;gap:6px;align-items:center}
+details.draft summary::-webkit-details-marker{display:none}
+.draftbox{position:relative;margin-top:8px;background:color-mix(in oklab,var(--surface) 94%,var(--ink));border:1px dashed var(--baseline);border-radius:8px;padding:12px 14px;font-size:13.5px;color:var(--ink-2);white-space:pre-wrap}
+.copybtn{position:absolute;top:8px;right:8px;font:600 12px system-ui;border:1px solid var(--ring);background:var(--surface);color:var(--ink);border-radius:6px;padding:3px 10px;cursor:pointer}
+.copybtn:hover{background:color-mix(in oklab,var(--surface) 90%,var(--ink))}
+table.week{width:100%;border-collapse:collapse;background:var(--surface);border:1px solid var(--ring);border-radius:12px;overflow:hidden}
+table.week td{padding:10px 12px;border-bottom:1px solid var(--grid);font-size:14px;vertical-align:top}
+table.week tr:last-child td{border-bottom:none}
+table.week td.c{font-weight:650;white-space:nowrap;width:130px}
+table.week td.o{width:110px}
+.delegate{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:12px}
+.dcard{background:var(--surface);border:1px solid var(--ring);border-radius:12px;padding:14px 16px}
+.dcard h3{margin:0 0 8px;font-size:14px;display:flex;justify-content:space-between;align-items:center}
+.dcard ul{margin:0;padding-left:18px}.dcard li{margin:5px 0;font-size:13.5px}
+.callout{background:var(--surface);border:1px solid var(--ring);border-radius:12px;padding:15px 18px;margin-top:12px;font-size:14.5px}
+.callout.red{border-left:4px solid var(--critical)} .callout.amber{border-left:4px solid var(--warning)} .callout.green{border-left:4px solid var(--good)}
+.callout h3{margin:0 0 6px;font-size:14px}
+.money td.m{color:var(--critical);font-weight:650;white-space:nowrap}
+.badge{display:inline-flex;align-items:center;gap:5px;font-size:12.5px;font-weight:600;padding:2px 9px;border-radius:999px;border:1px solid var(--ring);white-space:nowrap}
+.dot{width:8px;height:8px;border-radius:50%;display:inline-block}
+.b-churned{background:var(--critical-bg)} .b-churned .dot{background:var(--critical)}
+.b-at_risk{background:var(--serious-bg)} .b-at_risk .dot{background:var(--serious)}
+.b-active{background:var(--good-bg)} .b-active .dot{background:var(--good)}
+.up{color:var(--critical)} .down{color:var(--delta-good)} .flat{color:var(--muted)}
+details.appendix{margin-top:40px;border-top:1px solid var(--grid);padding-top:10px}
+details.appendix>summary{cursor:pointer;font-size:16px;font-weight:650;padding:10px 0;list-style:none}
+details.appendix>summary::-webkit-details-marker{display:none}
+details.appendix>summary .note{font-weight:400;color:var(--muted);font-size:13px}
+table.matrix{border-collapse:separate;border-spacing:2px;width:100%;background:var(--surface);border:1px solid var(--ring);border-radius:12px;padding:12px;font-variant-numeric:tabular-nums;margin-top:10px}
+table.matrix th{font-size:10.5px;color:var(--muted);font-weight:600;text-transform:uppercase;padding:2px 4px}
+table.matrix th.col{writing-mode:vertical-rl;transform:rotate(180deg);height:96px;vertical-align:bottom;text-align:left}
+table.matrix td{width:42px;height:29px;text-align:center;border-radius:6px;font-size:13px;font-weight:600}
+table.matrix td.name{width:auto;text-align:left;font-weight:600;font-size:13.5px;padding:0 10px 0 4px;white-space:nowrap}
+.s0{background:transparent;color:var(--muted)} .s1{background:var(--warning-bg)} .s2{background:var(--serious-bg)} .s3{background:var(--critical-bg);color:var(--critical)}
+.dimbars{background:var(--surface);border:1px solid var(--ring);border-radius:12px;padding:16px 18px;margin-top:10px}
+.dimrow{display:grid;grid-template-columns:180px 1fr 96px;gap:12px;align-items:center;padding:5px 0}
+.dimrow .bar{height:12px;border-radius:4px;background:var(--series-1)}
+.dimrow .track{background:color-mix(in oklab,var(--surface) 88%,var(--ink));border-radius:4px}
+.dimrow .lab{font-size:13.5px} .dimrow .val{font-size:13px;text-align:right;font-variant-numeric:tabular-nums;color:var(--ink-2)}
+details.client{background:var(--surface);border:1px solid var(--ring);border-radius:12px;margin-top:10px}
+details.client summary{list-style:none;cursor:pointer;display:flex;align-items:center;gap:12px;padding:12px 16px;flex-wrap:wrap}
+details.client summary::-webkit-details-marker{display:none}
+details.client summary .nm{font-weight:650;font-size:15px;min-width:140px}
+details.client summary .fix{color:var(--ink-2);font-size:13px;flex:1;min-width:200px}
+.cbody{padding:2px 16px 16px;border-top:1px solid var(--grid)}
+h4{font-size:12px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);margin:14px 0 5px}
+blockquote{margin:6px 0 0;padding:5px 12px;border-left:3px solid var(--baseline);color:var(--ink-2);font-size:13.5px}
+.q-meta{color:var(--muted);font-size:12px}
+.cols{display:grid;grid-template-columns:1fr 1fr;gap:0 28px} @media(max-width:760px){.cols{grid-template-columns:1fr}}
+.fixbox{background:var(--good-bg);border:1px solid var(--ring);border-radius:8px;padding:8px 12px;font-size:13.5px;margin-top:12px}
+.meta{color:var(--muted);font-size:13px}
+footer{color:var(--muted);font-size:12.5px;margin-top:44px}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <h1>ALTR — CS Command Center</h1>
+  <div class="sub">2026-09-03 · vs 2026-08-28 · every client chat, full history · <span class="internal">Internal — Derrek only</span></div>
+</header>
+
+<div class="hero">
+  <div class="scorecard">
+    <div class="lab">Client-book health (avg of all weekly scores)</div>
+    <div class="big">46<span style="font-size:18px;color:var(--muted)">/100</span>
+      <span class="trendword">▼ 7.7 pts/week</span>
+    </div>
+    <svg class="spark" width="260" height="64" role="img" aria-label="health trend">
+      <polyline points="6.0,22.1 88.7,26.3 171.3,30.4 254.0,34.1"/>
+      
+      <circle cx="254.0" cy="34.1" r="3.5"/>
+    </svg>
+    <div class="meta">2026-08-08 → 2026-08-28 (69 → 61 → 53 → 46)</div>
+  </div>
+  <div class="verdict">The book is losing ~8 health points a week. Four churns in nine weeks, all preventable, all on-time payers. Every save this week came from one thing: a fast, specific, human answer. Every loss came from silence or pressure.</div>
+</div>
+
+<div class="kpis">
+  <div class="kpi"><div class="v">13</div><div class="l">at risk</div></div>
+  <div class="kpi"><div class="v">2</div><div class="l">healthy</div></div>
+  <div class="kpi"><div class="v">4</div><div class="l">churned (9 wks)</div></div>
+  <div class="kpi"><div class="v">52%</div><div class="l">promises lapsed</div></div>
+  <div class="kpi"><div class="v">16%</div><div class="l">questions unanswered &gt;24h</div></div>
+</div>
+
+<h2>🔥 Today — 4 fires</h2>
+<p class="h2sub">Ranked by risk. Each has one action, one owner, and a message you can paste into Telegram (edit the [brackets] first).</p>
+
+<div class="fire">
+  <div class="top">
+    <span class="nm">Lauryn</span>
+    <span class="chip you">👤 Derrek</span>
+    
+    <span class="hp">health 40
+      <svg class="spark" width="80" height="24"><polyline points="3.0,13.1 41.0,14.5 79.0,13.8 117.0,17.4" transform="scale(0.667,0.8)"/></svg></span>
+  </div>
+  <div class="why">Hardest churn signal in the book: she has formally tied paying to delivery (&#34;invoices in increments as it drops&#34;), 6th carried balance, and the vendor team on her account hasn&#39;t posted in 85 days — but she pitched new content ideas today, so the door is open.</div>
+  <p class="act"><b>Do:</b> Call her today. Reconcile the balances in writing, name who now runs her account, give one dated Facebook next-step. No payment chase until something ships.</p>
+  
+  <details class="draft"><summary>✉️ Ready-to-send message ▾</summary>
+    <div class="draftbox"><button class="copybtn" onclick="copyDraft(this)">Copy</button>Hey L — Derrek. I owe you straight talk: we&#39;ve been chasing invoices while our side owes you delivery, and that&#39;s backwards. Today I&#39;m doing three things: 1) a written breakdown of every invoice and payment so we&#39;re looking at the same numbers, 2) naming exactly who runs your account day-to-day going forward (you&#39;ll hear from them today), 3) a real answer on the Facebook review with a date, not another &#39;still in review&#39;. Nothing to pay until you&#39;ve seen all three. Your music-video idea is great — I want us earning that kind of energy from you again.</div>
+  </details>
+  
+</div>
+
+<div class="fire">
+  <div class="top">
+    <span class="nm">Liza Kovalenko</span>
+    <span class="chip owner">👤 Stephski</span>
+    
+    <span class="hp">health 57
+      <svg class="spark" width="80" height="24"><polyline points="3.0,8.3 41.0,10.2 79.0,11.2 117.0,13.3" transform="scale(0.667,0.8)"/></svg></span>
+  </div>
+  <div class="why">First frustrated message in 13 months over the wires — and it turns out she OVERPAID ~$2,499.59. Her ALTR-run backup IGs got deleted, and she posted 3 passwords in the group after we asked. Highest-paying, lowest-maintenance client in the book.</div>
+  <p class="act"><b>Do:</b> Send an itemized wire ledger (every wire: date, amount, received/bounced), apply the overpayment credit explicitly, move credentials to DM, and give a status on the deleted IGs — one message, today.</p>
+  
+  <details class="draft"><summary>✉️ Ready-to-send message ▾</summary>
+    <div class="draftbox"><button class="copybtn" onclick="copyDraft(this)">Copy</button>Hi Liza — I put together the full wire ledger so we&#39;re 100% on the same page: every wire you sent, the date, and what landed on our side, line by line [attach]. You actually overpaid by $2,499.59 — that&#39;s credited on your next invoice, already applied. That confusion was our fault (we changed bank details mid-cycle) and it won&#39;t happen again: your payment details are now frozen. Also — please never send passwords in this chat, that was wrongly asked of you; I&#39;ll DM you a secure way. IG status coming separately today.</div>
+  </details>
+  
+</div>
+
+<div class="fire">
+  <div class="top">
+    <span class="nm">Barbara</span>
+    <span class="chip you">👤 Derrek</span>
+    
+    <span class="hp">health 55
+      <svg class="spark" width="80" height="24"><polyline points="3.0,9.7 41.0,11.6 79.0,13.1 117.0,13.8" transform="scale(0.667,0.8)"/></svg></span>
+  </div>
+  <div class="why">&#34;Im very nervous with the situation&#34; is now 10 days without a real answer. She proposed her own fallback plan and got a reels quota instead. Still paying, still pitching ideas — this one is savable with one message.</div>
+  <p class="act"><b>Do:</b> Answer her yourself: root cause of the IG flags in plain words, one number that&#39;s true, and a yes/no on her weekly-OFTV proposal.</p>
+  
+  <details class="draft"><summary>✉️ Ready-to-send message ▾</summary>
+    <div class="draftbox"><button class="copybtn" onclick="copyDraft(this)">Copy</button>Barbara — Derrek here. You said you were nervous 10 days ago and you deserved a proper answer then. Here it is straight: your IG keeps flagging because [root cause — fill from Vivek before sending], and here&#39;s where each account stands today: [1-line status per account]. Your weekly-OFTV idea: yes — let&#39;s run it starting this week, Olivia will own it. And you&#39;ll get a short written status from us every Friday from now on so you&#39;re never guessing again. That&#39;s a promise with my name on it.</div>
+  </details>
+  
+</div>
+
+<div class="fire">
+  <div class="top">
+    <span class="nm">Alex Paige Moore</span>
+    <span class="chip you">👤 Derrek</span>
+    
+    <span class="hp">health 52
+      <svg class="spark" width="80" height="24"><polyline points="3.0,13.1 41.0,11.6 79.0,17.2 117.0,14.5" transform="scale(0.667,0.8)"/></svg></span>
+  </div>
+  <div class="why">She told us she had surgery 8 days ago. Since then she got a reels mandate, a customs request and an invoice — and complied with all of it from recovery. Not one person acknowledged the surgery.</div>
+  <p class="act"><b>Do:</b> A human message today. Pause content demands for two weeks. Then the $1,989 ledger.</p>
+  
+  <details class="draft"><summary>✉️ Ready-to-send message ▾</summary>
+    <div class="draftbox"><button class="copybtn" onclick="copyDraft(this)">Copy</button>Alex — just saw properly that you had surgery and I&#39;m sorry nobody said anything sooner, that&#39;s on us. Please rest — consider content paused on our side for the next two weeks, we&#39;ll run with what&#39;s in the vault. When you&#39;re back on your feet I&#39;ll have the $1,989 question closed out with a proper ledger and a plan for the reels page waiting for you. Heal up. — Derrek</div>
+  </details>
+  
+</div>
+
+
+<h2>📋 This week</h2>
+<p class="h2sub">One line each — forward these to their owners (grouped lists below).</p>
+<table class="week">
+  
+  <tr><td class="c">Shayna</td><td class="o"><span class="chip owner">Fred</span></td><td>Answer the $4,700 private-live question (sold after her ban) and confirm her Aug 26 payment landed — she&#39;s home and auditing.</td></tr>
+  
+  <tr><td class="c">Sarah</td><td class="o"><span class="chip owner">Vivek</span></td><td>530k main IG is 25 days down: give her a written status + ETA today, and stop asking for passwords in the group.</td></tr>
+  
+  <tr><td class="c">Lauren Blake</td><td class="o"><span class="chip owner">Stephski</span></td><td>Fix the Chase fraud-flag/name mismatch on OUR receiving account; tell her proactively with the Meta ad report attached.</td></tr>
+  
+  <tr><td class="c">Sarah Lloyd</td><td class="o"><span class="chip owner">Noah</span></td><td>Written whale protocol + weekly recap; stop invoicing on the bank account her bank rejects.</td></tr>
+  
+  <tr><td class="c">Lilia</td><td class="o"><span class="chip owner">Fred</span></td><td>Answer the Teddi question from Sep 3; make the high-spender folder rule mechanical — she says the mishandling already cost her a whale.</td></tr>
+  
+  <tr><td class="c">Amber Haze</td><td class="o"><span class="chip owner">Ollie</span></td><td>Answer her Sep 2 critique (editing quality, ~150 views/post, competitor at 40k) — it&#39;s 30+ hours stale and she nudged today.</td></tr>
+  
+  <tr><td class="c">Vale</td><td class="o"><span class="chip owner">Ollie</span></td><td>Confirm John&#39;s $2,200 custom was delivered, confirm the Aug 17 payment, book the oldest owed call (151 days).</td></tr>
+  
+  <tr><td class="c">Haileigh Cox</td><td class="o"><span class="chip owner">Mayson</span></td><td>She asked for an account manager 165 days ago: name one in the chat, confirm the 8/20 wire, fix the .vip domains.</td></tr>
+  
+  <tr><td class="c">Mila</td><td class="o"><span class="chip owner">Vivek</span></td><td>Her main IG is 72 days suspended on our &#39;don&#39;t appeal&#39; advice — give her a plan; confirm the duplicate-wire check.</td></tr>
+  
+</table>
+
+<h2>👥 Delegate it</h2>
+<p class="h2sub">Each card is one person's list — screenshot or paste it to them as-is.</p>
+<div class="delegate">
+  
+  <div class="dcard"><h3>Derrek (you)<span class="meta">5 items</span></h3>
+    <ul><li>Call Lauryn (fire #1)</li><li>Answer Barbara yourself (fire #3)</li><li>Surgery message to Alex Paige Moore (fire #4)</li><li>Vicky: who deleted the 9 messages?</li><li>Decide Paige/Chey Mai win-back vs offboard</li></ul></div>
+  
+  <div class="dcard"><h3>Stephski<span class="meta">5 items</span></h3>
+    <ul><li>Liza wire ledger + $2,499.59 credit (fire #2, with Derrek)</li><li>Lauren Blake: fix fraud-flagged receiving account, then tell her</li><li>Confirm Shayna + Mila + Haileigh payment receipts</li><li>Hannah final invoice (deadline tomorrow)</li><li>Stop pause-work threats where the blocker is ours</li></ul></div>
+  
+  <div class="dcard"><h3>Vivek<span class="meta">3 items</span></h3>
+    <ul><li>Sarah main IG written status + ETA</li><li>Mila main IG plan (72 days)</li><li>NO more credential requests in group chats — rotate everything exposed (9+ accounts)</li></ul></div>
+  
+  <div class="dcard"><h3>Fred<span class="meta">2 items</span></h3>
+    <ul><li>Shayna: $4,700 answer + boundary sheet into the chatter vault</li><li>Lilia: Teddi answer + mechanical high-spender rule</li></ul></div>
+  
+  <div class="dcard"><h3>Ollie<span class="meta">3 items</span></h3>
+    <ul><li>Amber Haze Sep 2 critique answer</li><li>Vale: custom/payment confirmations + book the oldest call</li><li>Whale playbook across chat books</li></ul></div>
+  
+  <div class="dcard"><h3>Mayson / Noah<span class="meta">2 items</span></h3>
+    <ul><li>Haileigh: named AM announcement + open-items list</li><li>Sarah Lloyd: weekly written recap + whale protocol</li></ul></div>
+  
+</div>
+
+
+<div class="callout green" style="margin-top:24px"><h3>🔧 If you fix one process this week</h3>If you change one process this week: give every account ONE named owner who sends a short written Friday update (numbers, what shipped, open items with dates). Both churn post-mortems, both saves, and 15 of 19 analyst top-fixes point at this same move. The team broadcast draft is ready below.
+
+<details class="draft"><summary>✉️ Team broadcast, ready to send ▾</summary>
+  <div class="draftbox"><button class="copybtn" onclick="copyDraft(this)">Copy</button>Team — three changes effective today. 1) Every client now has ONE named owner (list coming this afternoon) — if you see a client question, tag the owner, and owners: nothing sits unanswered past 24h, even if the answer is &#39;checking, back to you Thursday&#39;. 2) Every Friday each owner posts a short written update in their client&#39;s chat: numbers, what shipped, open items with dates. Clients who can&#39;t see the work assume there isn&#39;t any — that&#39;s how we lost Paige. 3) Credentials NEVER go in group chats again — not asked for, not posted. Anything currently sitting in a chat gets rotated this week. No exceptions on any of the three.</div>
+</details>
+
+</div>
+
+<div class="callout amber"><h3>⚠ Pattern of the week</h3>Pressure replaced service this week: Sep 1 invoices carried first-ever &#34;pay within 7 days to avoid pausing of work&#34; threats — including to clients whose payment blockers are OURS — while 7-reels/week content mandates landed on five accounts, one of them recovering from surgery. Quiet clients got demands instead of check-ins.</div>
+<div class="callout red"><h3>🚩 For your eyes only</h3>~9 messages were deleted from Vicky&#39;s chat within 48h of her termination — including her posted OF password and her &#34;who did this?&#34; message about the unauthorized post. The password was never rotated: the record was removed without fixing the exposure. Worth finding out who deleted them and why.</div>
+
+<h2>✖ Churned — money still on the table</h2>
+<table class="week money">
+  
+  <tr><td class="c">Vicky</td><td class="m">$1,700 fan money held against undelivered work + final figure never stated</td><td>State the figure on her TRC20 rail, verify the Infloww disconnect, rotate credentials — and find out who deleted the 9 messages.</td></tr>
+  
+  <tr><td class="c">Hannah</td><td class="m">Final invoice unissued 50 days — write-off deadline is tomorrow</td><td>Issue from our own records today or write it off explicitly.</td></tr>
+  
+  <tr><td class="c">Chey Mai</td><td class="m">2 invoices outstanding</td><td>One human non-billing message (answer her 44-day-old PayPal question) or clean offboarding.</td></tr>
+  
+  <tr><td class="c">Paige</td><td class="m">Credentials still in group chat, unrotated</td><td>Rotate + purge regardless of churn; a &#39;show the work&#39; win-back note is worth one try.</td></tr>
+  
+</table>
+
+
+<h2>✅ Doing fine — keep it that way</h2>
+<table class="week">
+  
+  <tr><td class="c">Kaitlynn</td><td>Saved last week by an 18h data-backed answer — keep the Friday numbers recap going; hold the kickoff call she booked herself.</td></tr>
+  
+  <tr><td class="c">Alanna</td><td>Re-engaged and paying; close the FAQ form and confirm drop results so she stays.</td></tr>
+  
+</table>
+
+
+<details class="appendix">
+<summary>📊 The full data — every client, every dimension, all evidence <span class="note">(click to expand)</span></summary>
+
+<div class="dimbars">
+  
+  <div class="dimrow">
+    <div class="lab">Follow-through</div>
+    <div class="track"><div class="bar" style="width:98.3%"></div></div>
+    <div class="val">2.95
+      <span class="down">▼</span>
+      · 18×3</div>
+  </div>
+  
+  <div class="dimrow">
+    <div class="lab">Proactive comms</div>
+    <div class="track"><div class="bar" style="width:89.3%"></div></div>
+    <div class="val">2.68
+      <span class="up">▲</span>
+      · 13×3</div>
+  </div>
+  
+  <div class="dimrow">
+    <div class="lab">Platform health</div>
+    <div class="track"><div class="bar" style="width:86.0%"></div></div>
+    <div class="val">2.58
+      <span class="up">▲</span>
+      · 11×3</div>
+  </div>
+  
+  <div class="dimrow">
+    <div class="lab">Billing ops</div>
+    <div class="track"><div class="bar" style="width:84.3%"></div></div>
+    <div class="val">2.53
+      <span class="down">▼</span>
+      · 12×3</div>
+  </div>
+  
+  <div class="dimrow">
+    <div class="lab">Quiet-client detection</div>
+    <div class="track"><div class="bar" style="width:84.3%"></div></div>
+    <div class="val">2.53
+      <span class="down">▼</span>
+      · 10×3</div>
+  </div>
+  
+  <div class="dimrow">
+    <div class="lab">Ownership</div>
+    <div class="track"><div class="bar" style="width:82.3%"></div></div>
+    <div class="val">2.47
+      <span class="down">▼</span>
+      · 9×3</div>
+  </div>
+  
+  <div class="dimrow">
+    <div class="lab">Responsiveness</div>
+    <div class="track"><div class="bar" style="width:80.7%"></div></div>
+    <div class="val">2.42
+      <span class="up">▲</span>
+      · 8×3</div>
+  </div>
+  
+  <div class="dimrow">
+    <div class="lab">Chatter conduct</div>
+    <div class="track"><div class="bar" style="width:77.3%"></div></div>
+    <div class="val">2.32
+      <span class="down">▼</span>
+      · 9×3</div>
+  </div>
+  
+  <div class="dimrow">
+    <div class="lab">Security</div>
+    <div class="track"><div class="bar" style="width:73.7%"></div></div>
+    <div class="val">2.21
+      <span class="down">▼</span>
+      · 8×3</div>
+  </div>
+  
+  <div class="dimrow">
+    <div class="lab">Onboarding</div>
+    <div class="track"><div class="bar" style="width:68.3%"></div></div>
+    <div class="val">2.05
+      <span class="down">▼</span>
+      · 4×3</div>
+  </div>
+  
+  <div class="meta" style="margin-top:8px">Average severity 0–3 across all accounts. ▲ worse / ▼ better vs 2026-08-28. "n×3" = accounts at max severity.</div>
+</div>
+
+<table class="matrix">
+  <thead><tr><th></th><th></th><th class="col">Responsiveness</th><th class="col">Follow-through</th><th class="col">Proactive comms</th><th class="col">Onboarding</th><th class="col">Chatter conduct</th><th class="col">Platform health</th><th class="col">Billing ops</th><th class="col">Ownership</th><th class="col">Quiet-client detection</th><th class="col">Security</th><th class="col">Total (Δ)</th></tr></thead>
+  <tbody>
+  
+  <tr>
+    <td class="name">Vicky</td>
+    <td style="width:auto;text-align:left"><span class="badge b-churned"><span class="dot"></span>churned</span></td>
+    <td class="s2">2</td><td class="s3">3</td><td class="s3">3</td><td class="s2">2</td><td class="s3">3</td><td class="s3">3</td><td class="s3">3</td><td class="s3">3</td><td class="s3">3</td><td class="s3">3</td>
+    <td class="s0" style="font-weight:650;color:var(--ink)">28 <span class="flat">→</span></td>
+  </tr>
+  
+  <tr>
+    <td class="name">Paige</td>
+    <td style="width:auto;text-align:left"><span class="badge b-churned"><span class="dot"></span>churned</span></td>
+    <td class="s2">2</td><td class="s3">3</td><td class="s3">3</td><td class="s3">3</td><td class="s2">2</td><td class="s3">3</td><td class="s2">2</td><td class="s3">3</td><td class="s3">3</td><td class="s3">3</td>
+    <td class="s0" style="font-weight:650;color:var(--ink)">27 <span class="up">▲</span></td>
+  </tr>
+  
+  <tr>
+    <td class="name">Chey Mai</td>
+    <td style="width:auto;text-align:left"><span class="badge b-churned"><span class="dot"></span>churned</span></td>
+    <td class="s2">2</td><td class="s3">3</td><td class="s3">3</td><td class="s3">3</td><td class="s2">2</td><td class="s3">3</td><td class="s3">3</td><td class="s3">3</td><td class="s3">3</td><td class="s1">1</td>
+    <td class="s0" style="font-weight:650;color:var(--ink)">26 <span class="up">▲</span></td>
+  </tr>
+  
+  <tr>
+    <td class="name">Hannah</td>
+    <td style="width:auto;text-align:left"><span class="badge b-churned"><span class="dot"></span>churned</span></td>
+    <td class="s2">2</td><td class="s3">3</td><td class="s2">2</td><td class="s2">2</td><td class="s2">2</td><td class="s2">2</td><td class="s3">3</td><td class="s2">2</td><td class="s3">3</td><td class="s3">3</td>
+    <td class="s0" style="font-weight:650;color:var(--ink)">24 <span class="flat">→</span></td>
+  </tr>
+  
+  <tr>
+    <td class="name">Lauryn</td>
+    <td style="width:auto;text-align:left"><span class="badge b-at_risk"><span class="dot"></span>at risk</span></td>
+    <td class="s3">3</td><td class="s3">3</td><td class="s3">3</td><td class="s2">2</td><td class="s3">3</td><td class="s3">3</td><td class="s3">3</td><td class="s3">3</td><td class="s3">3</td><td class="s3">3</td>
+    <td class="s0" style="font-weight:650;color:var(--ink)">29 <span class="up">▲</span></td>
+  </tr>
+  
+  <tr>
+    <td class="name">Haileigh Cox</td>
+    <td style="width:auto;text-align:left"><span class="badge b-at_risk"><span class="dot"></span>at risk</span></td>
+    <td class="s3">3</td><td class="s3">3</td><td class="s3">3</td><td class="s2">2</td><td class="s2">2</td><td class="s3">3</td><td class="s3">3</td><td class="s3">3</td><td class="s3">3</td><td class="s2">2</td>
+    <td class="s0" style="font-weight:650;color:var(--ink)">27 <span class="up">▲</span></td>
+  </tr>
+  
+  <tr>
+    <td class="name">Sarah Lloyd</td>
+    <td style="width:auto;text-align:left"><span class="badge b-at_risk"><span class="dot"></span>at risk</span></td>
+    <td class="s3">3</td><td class="s3">3</td><td class="s2">2</td><td class="s2">2</td><td class="s3">3</td><td class="s3">3</td><td class="s3">3</td><td class="s2">2</td><td class="s2">2</td><td class="s3">3</td>
+    <td class="s0" style="font-weight:650;color:var(--ink)">26 <span class="up">▲</span></td>
+  </tr>
+  
+  <tr>
+    <td class="name">Sarah</td>
+    <td style="width:auto;text-align:left"><span class="badge b-at_risk"><span class="dot"></span>at risk</span></td>
+    <td class="s2">2</td><td class="s3">3</td><td class="s3">3</td><td class="s2">2</td><td class="s2">2</td><td class="s3">3</td><td class="s2">2</td><td class="s3">3</td><td class="s3">3</td><td class="s3">3</td>
+    <td class="s0" style="font-weight:650;color:var(--ink)">26 <span class="up">▲</span></td>
+  </tr>
+  
+  <tr>
+    <td class="name">Vale</td>
+    <td style="width:auto;text-align:left"><span class="badge b-at_risk"><span class="dot"></span>at risk</span></td>
+    <td class="s2">2</td><td class="s3">3</td><td class="s3">3</td><td class="s3">3</td><td class="s3">3</td><td class="s2">2</td><td class="s3">3</td><td class="s2">2</td><td class="s3">3</td><td class="s2">2</td>
+    <td class="s0" style="font-weight:650;color:var(--ink)">26 <span class="up">▲</span></td>
+  </tr>
+  
+  <tr>
+    <td class="name">Amber Haze</td>
+    <td style="width:auto;text-align:left"><span class="badge b-at_risk"><span class="dot"></span>at risk</span></td>
+    <td class="s3">3</td><td class="s3">3</td><td class="s3">3</td><td class="s2">2</td><td class="s3">3</td><td class="s2">2</td><td class="s1">1</td><td class="s3">3</td><td class="s2">2</td><td class="s3">3</td>
+    <td class="s0" style="font-weight:650;color:var(--ink)">25 <span class="down">▼</span></td>
+  </tr>
+  
+  <tr>
+    <td class="name">Liza Kovalenko</td>
+    <td style="width:auto;text-align:left"><span class="badge b-at_risk"><span class="dot"></span>at risk</span></td>
+    <td class="s3">3</td><td class="s3">3</td><td class="s3">3</td><td class="s1">1</td><td class="s2">2</td><td class="s3">3</td><td class="s3">3</td><td class="s2">2</td><td class="s2">2</td><td class="s3">3</td>
+    <td class="s0" style="font-weight:650;color:var(--ink)">25 <span class="down">▼</span></td>
+  </tr>
+  
+  <tr>
+    <td class="name">Mila</td>
+    <td style="width:auto;text-align:left"><span class="badge b-at_risk"><span class="dot"></span>at risk</span></td>
+    <td class="s3">3</td><td class="s3">3</td><td class="s3">3</td><td class="s2">2</td><td class="s1">1</td><td class="s3">3</td><td class="s3">3</td><td class="s2">2</td><td class="s3">3</td><td class="s2">2</td>
+    <td class="s0" style="font-weight:650;color:var(--ink)">25 <span class="up">▲</span></td>
+  </tr>
+  
+  <tr>
+    <td class="name">Alex Paige Moore</td>
+    <td style="width:auto;text-align:left"><span class="badge b-at_risk"><span class="dot"></span>at risk</span></td>
+    <td class="s2">2</td><td class="s3">3</td><td class="s3">3</td><td class="s1">1</td><td class="s3">3</td><td class="s2">2</td><td class="s3">3</td><td class="s2">2</td><td class="s3">3</td><td class="s2">2</td>
+    <td class="s0" style="font-weight:650;color:var(--ink)">24 <span class="down">▼</span></td>
+  </tr>
+  
+  <tr>
+    <td class="name">Lauren Blake</td>
+    <td style="width:auto;text-align:left"><span class="badge b-at_risk"><span class="dot"></span>at risk</span></td>
+    <td class="s2">2</td><td class="s3">3</td><td class="s2">2</td><td class="s2">2</td><td class="s3">3</td><td class="s2">2</td><td class="s3">3</td><td class="s3">3</td><td class="s2">2</td><td class="s2">2</td>
+    <td class="s0" style="font-weight:650;color:var(--ink)">24 <span class="flat">→</span></td>
+  </tr>
+  
+  <tr>
+    <td class="name">Shayna</td>
+    <td style="width:auto;text-align:left"><span class="badge b-at_risk"><span class="dot"></span>at risk</span></td>
+    <td class="s3">3</td><td class="s3">3</td><td class="s2">2</td><td class="s2">2</td><td class="s3">3</td><td class="s2">2</td><td class="s3">3</td><td class="s2">2</td><td class="s2">2</td><td class="s2">2</td>
+    <td class="s0" style="font-weight:650;color:var(--ink)">24 <span class="down">▼</span></td>
+  </tr>
+  
+  <tr>
+    <td class="name">Lilia</td>
+    <td style="width:auto;text-align:left"><span class="badge b-at_risk"><span class="dot"></span>at risk</span></td>
+    <td class="s2">2</td><td class="s3">3</td><td class="s2">2</td><td class="s1">1</td><td class="s3">3</td><td class="s3">3</td><td class="s2">2</td><td class="s2">2</td><td class="s2">2</td><td class="s2">2</td>
+    <td class="s0" style="font-weight:650;color:var(--ink)">22 <span class="down">▼</span></td>
+  </tr>
+  
+  <tr>
+    <td class="name">Barbara</td>
+    <td style="width:auto;text-align:left"><span class="badge b-at_risk"><span class="dot"></span>at risk</span></td>
+    <td class="s3">3</td><td class="s3">3</td><td class="s2">2</td><td class="s2">2</td><td class="s0">0</td><td class="s3">3</td><td class="s2">2</td><td class="s3">3</td><td class="s2">2</td><td class="s1">1</td>
+    <td class="s0" style="font-weight:650;color:var(--ink)">21 <span class="down">▼</span></td>
+  </tr>
+  
+  <tr>
+    <td class="name">Alanna</td>
+    <td style="width:auto;text-align:left"><span class="badge b-active"><span class="dot"></span>active</span></td>
+    <td class="s2">2</td><td class="s3">3</td><td class="s3">3</td><td class="s3">3</td><td class="s2">2</td><td class="s2">2</td><td class="s2">2</td><td class="s2">2</td><td class="s2">2</td><td class="s2">2</td>
+    <td class="s0" style="font-weight:650;color:var(--ink)">23 <span class="up">▲</span></td>
+  </tr>
+  
+  <tr>
+    <td class="name">Kaitlynn</td>
+    <td style="width:auto;text-align:left"><span class="badge b-active"><span class="dot"></span>active</span></td>
+    <td class="s2">2</td><td class="s2">2</td><td class="s3">3</td><td class="s2">2</td><td class="s2">2</td><td class="s2">2</td><td class="s1">1</td><td class="s2">2</td><td class="s2">2</td><td class="s0">0</td>
+    <td class="s0" style="font-weight:650;color:var(--ink)">18 <span class="down">▼</span></td>
+  </tr>
+  
+  </tbody>
+</table>
+<div class="meta" style="margin:6px 0 14px">0 = fine · 1 = minor · 2 = real problem · 3 = severe.</div>
+
+
+<details class="client">
+  <summary>
+    <span class="nm">Vicky</span>
+    <span class="badge b-churned"><span class="dot"></span>churned</span>
+    <svg class="spark" width="80" height="24"><polyline points="3.0,10.2 41.0,12.6 79.0,25.1 117.0,26.3" transform="scale(0.667,0.8)"/></svg>
+    <span class="fix">Ban closing a client complaint with an assertion - require a number, a screenshot or a dated commitm…</span>
+    <span class="meta">last msg 2026-08-18</span>
+  </summary>
+  <div class="cbody">
+    <p style="margin:12px 0 0">Terminated in writing on 2026-08-18 00:00 (&#39;I would like to stop this collaboration&#39;), roughly 18 hours after being told &#39;Yes all solved&#39; about a complaint she had raised three times. 16 days later she has still not been told in words what she owes, her Infloww disconnection has never been confirmed in this chat, the owner has never responded, a ChatDeleteUser fired on 2026-08-27, and the only ALTR message since is Vivek&#39;s one-word &#39;Hi&#39; on 2026-09-02. Additionally, ~8-9 messages were deleted from the chat history between the 8/26 and 8/28 data pulls — including the message where she posted her OnlyFans credentials and her &#39;who did this&#39; message from the 7/17 unauthorized-post incident.</p>
+    
+      <h4>Follow-through</h4>
+      <div style="font-size:13.5px">The central promise of the engagement - replacement traffic after we told her to switch off the paid traffic she was funding herself - was re-promised five times over two months and never delivered or measured once. Around it, at least eight other named commitments lapsed with nobody ever mentioning them again; post-churn, both termination requests have now joined them.</div>
+      <blockquote>“oh traffic should kick in by end of week one” <span class="q-meta">— Derrek, 2026-06-19</span></blockquote>
+    
+      <h4>Proactive comms</h4>
+      <div style="font-size:13.5px">In 62 days she was never shown one performance number. Every substantive update in the file was extracted by her asking, usually more than once; the only reliably unprompted outbound was templated reel inspo and invoice chases. The one big proactive message, Derrek&#39;s 8/1 phone-farm broadcast, promised &#39;plenty of updates starting next week&#39; and was followed by none. Post-churn outbound in 16 days: one collections chase and one one-word &#39;Hi&#39;.</div>
+      <blockquote>“Hello, is there any updates on marketing side?” <span class="q-meta">— Valerie (client), 2026-07-27</span></blockquote>
+    
+      <h4>Chatter conduct</h4>
+      <div style="font-size:13.5px">We sold a $700 video call and a $1,000 custom without briefing the model, made promises to a fan we then denied, and chatted as her on OF while she was talking to the same fan on Snapchat - to the point the fan worked out she had a team. She asked us to protect her long-term whales from generic mass DMs and we agreed and did nothing. $1,700 of fan money is still held against work that was never delivered and is now undeliverable through her.</div>
+      <blockquote>“I say you sent them massage &#39;are you single&#39;. Some of them i know for a long time and some of them married, so when you ask this they understand that this is not me talking” <span class="q-meta">— Valerie (client), 2026-06-30</span></blockquote>
+    
+      <h4>Platform health</h4>
+      <div style="font-size:13.5px">Her second page went days with no new fans; she screenshotted it three times in six days and each answer was a bare assertion with no data. Separately, on 7/24 she was silently disconnected from Infloww and locked out of her own OnlyFans accounts, and the response was to ask whether she had changed her password. The agency-wide IG/phone-farm crisis was communicated as a broadcast and never translated into anything account-specific for her.</div>
+      <blockquote>“Hello, on my second page many days no fans @mermaidua” <span class="q-meta">— Valerie (client), 2026-08-11</span></blockquote>
+    
+      <h4>Billing ops</h4>
+      <div style="font-size:13.5px">We sent her a wrong-chain crypto address for a payment she had specified precisely, needed three nudges to collect a single invoice, changed the account number and pushed a new Zelle rail at her in the middle of her worst week, and then handled the final settlement by attaching a file with no covering message and no amount. 16 days after termination she has still never been told in words what she owes, and no payment is recorded in the chat.</div>
+      <blockquote>“Hello, I asked USDT trc 20 / This is not the right one” <span class="q-meta">— Valerie (client), 2026-07-06</span></blockquote>
+    
+      <h4>Ownership</h4>
+      <div style="font-size:13.5px">She had to tag people to be served - @ofmfrederick, @olkmck, @stephskiii, @sotom225 - and internal routing was performed with bare &#39;^^&#39; tags that were treated as resolutions. The account manager was swapped in week 2 with no introduction and no handover message. Nobody ever owned the traffic problem, and nobody now owns the offboarding: 16 days after termination the sum of ALTR activity is one collections chase and Vivek&#39;s one-word &#39;Hi&#39;.</div>
+      <blockquote>“@olkmck ^^” <span class="q-meta">— Mayson Chat, 2026-08-14</span></blockquote>
+    
+      <h4>Quiet-client detection</h4>
+      <div style="font-size:13.5px">Every signal was present in writing and none of them triggered anything: a repeat complaint three times in six days, an explicit &#39;it&#39;s been 2 months and getting worse&#39; on 8/10, and then a termination message that produced one holding reply, one uncommented file, eight days of silence, a collections chase, a ChatDeleteUser, six more days of silence, and a one-word &#39;Hi&#39;. The owner, who personally owned her top complaint, has never responded to her leaving on any recorded channel.</div>
+      <blockquote>“Hello, is this complaint solved ?” <span class="q-meta">— Valerie (client), 2026-08-17</span></blockquote>
+    
+      <h4>Security</h4>
+      <div style="font-size:13.5px">Seven single-use OnlyFans face-authentication deep links were pasted into a group chat over two months as standard operating procedure; her repeated requests to change her OF passwords were deferred four times and never confirmed done; her single concrete offboarding request - disconnect both accounts from ALTR&#39;s Infloww - has been ignored for 16 days. And in the 48 hours after she left, the message containing her posted OF credentials and her &#39;who did this&#39; question from the 7/17 unauthorized-post incident were deleted from the history instead of the password being rotated and the incident being written up.</div>
+      <blockquote>“Did you change passwords yourself? Or you disconnect my accounts from infloww and now we are connecting it again?” <span class="q-meta">— Valerie (client), 2026-06-27</span></blockquote>
+    
+    <div class="cols">
+      <div><h4>What they want from us</h4><ul style="margin:0;padding-left:18px;font-size:13.5px"><li style="margin:4px 0">Replacement traffic, and to be shown that it was working - the reason she signed and the reason she left</li><li style="margin:4px 0">Her long-term whales protected: no generic mass DMs, persona consistency, voice notes to rebuild trust</li><li style="margin:4px 0">Never to be put on a sold call or custom without knowing the fan, the price, the duration and exactly what was promised</li></ul></div>
+      <div><h4>What's working — keep doing</h4><ul style="margin:0;padding-left:18px;font-size:13.5px"><li style="margin:4px 0">Fred&#39;s day-1 setup: warm introduction, hands-on login through both OF accounts inside three hours, and cheerful recovery when a link failed. She was fully engaged from the first hour.</li><li style="margin:4px 0">Ollie&#39;s honest diagnosis of the whale damage she had inherited - he explained exactly how the previous agency had taken her top fans off-platform and burned their trust. She opened up immediately and volunteered detail about individual fans. The most genuine trust-building minutes in the whole file.</li><li style="margin:4px 0">Stephski&#39;s unprompted heads-up before the invoicing window, telling her to withdraw from OF first. Small, practical, and the only genuinely proactive service message in 62 days. She paid 3 of 3 invoices.</li></ul></div>
+    </div>
+    <div class="fixbox"><b>The fix:</b> Ban closing a client complaint with an assertion - require a number, a screenshot or a dated commitment, and auto-escalate to a named owner the second time the same complaint is raised. Vicky&#39;s three highest-stakes threads (replacement traffic, the mermaidua page, the undelivered $700 call) were each closed with &#39;its live&#39;, &#39;Yes all solved&#39; and &#39;we are managing him&#39;; she terminated roughly 18 hours after the third bare assertion. Post-churn, the same discipline gap repeated as offboarding-by-assertion: no stated amount, no disconnect confirmation, no rotation - and now message deletion in place of remediation. Immediate actions: state the final figure in words with the verified TRC20 rail via her off-Telegram contacts, verify and document the Infloww disconnect in the tool, rotate the exposed credentials, settle the two fans ($1,700), and prohibit deleting messages in client groups.</div>
+  </div>
+</details>
+
+<details class="client">
+  <summary>
+    <span class="nm">Paige</span>
+    <span class="badge b-churned"><span class="dot"></span>churned</span>
+    <svg class="spark" width="80" height="24"><polyline points="3.0,7.3 41.0,11.2 79.0,13.3 117.0,15.5" transform="scale(0.667,0.8)"/></svg>
+    <span class="fix">Show the work: a weekly one-screen recap (revenue, posts made, leaks killed, account status) would h…</span>
+    <span class="meta">last msg 2026-09-02</span>
+  </summary>
+  <div class="cbody">
+    <p style="margin:12px 0 0">She resigned on 9/2 — &#39;i just wanted to inform that i&#39;m leaving the agency tomorrow! ... its just not working for me&#39; — after 70 days in which we never once showed her a result, her sixth login/lockout cycle was left dangling, and her 9/1 leak link was never acknowledged; the only save attempt is Mayson&#39;s same-day call offer, unanswered since.</p>
+    
+      <h4>Follow-through</h4>
+      <div style="font-size:13.5px">Michelle&#39;s &#39;we will take care of it&#39; on the leak was still unconfirmed when she resigned; Vivek&#39;s 8/30 &#39;Need approval for the account&#39; was never closed out; the Mica call she agreed to book on 7/6 was never held or chased in 8 weeks; the FAQ form was never confirmed — our promise ledger on this account ends 3 kept, 9 lapsed.</div>
+      <blockquote>“send me the link of this babes and we will take care of it” <span class="q-meta">— Michelle Queue, 2026-08-31</span></blockquote>
+    
+      <h4>Proactive comms</h4>
+      <div style="font-size:13.5px">In 70 days we never sent one unprompted stat, revenue figure, post link, or growth update — her entire inbound from us was invoices, credential requests, and templated reel inspo — so when she left she could honestly say she didn&#39;t know what &#39;what you have been doing&#39; was; the final touch before her resignation was a boilerplate posting lecture sent mid-lockout-crisis.</div>
+      <blockquote>“hey!! i just wanted to inform that i’m leaving the agency tomorrow! thank you for what you have been doing but its just not working for me I’m sorry!” <span class="q-meta">— Paige (Chey Ref), 2026-09-02</span></blockquote>
+    
+      <h4>Onboarding</h4>
+      <div style="font-size:13.5px">No kickoff call was ever held, no account manager was ever named, the sales-limits form was never confirmed, and 7 weeks in she still didn&#39;t know how to approve a login — the referral of an existing client was onboarded by template and left to figure the rest out alone.</div>
+      <blockquote>“yeah how do i do it” <span class="q-meta">— Paige (Chey Ref), 2026-08-14</span></blockquote>
+    
+      <h4>Platform health</h4>
+      <div style="font-size:13.5px">Six lockout/approval cycles in five weeks (7/29, 8/13-14, 8/20, 8/21, 8/26-27, 8/28-30) with no root-cause diagnosis, no move off SMS codes, and the last cycle still open when she quit; we made her our 2FA relay at 00:35 and 02:29 her time and her only diagnosis ever was IG &#39;thinking i was hacled&#39;.</div>
+      <blockquote>“no i just got logged out made me confirm my details thinking i was hacled” <span class="q-meta">— Paige (Chey Ref), 2026-08-14</span></blockquote>
+    
+      <h4>Ownership</h4>
+      <div style="font-size:13.5px">Everything moved by relay ping (&#39;@fonta ^&#39;, &#39;@paigeleighx ^&#39;), nobody owned the lockout saga or the relationship, and her resignation was fielded solely by the chatting queue account — more than 24 hours on, no owner or manager has appeared in the chat.</div>
+      <blockquote>“@fonta ^” <span class="q-meta">— Mayson Chat, 2026-08-27</span></blockquote>
+    
+      <h4>Quiet-client detection</h4>
+      <div style="font-size:13.5px">Every interaction she initiated for ten weeks was a problem report — five-plus lockouts, a leak, invoice confusion — which is the textbook profile of a client seeing cost without value, and nobody flagged it; the first retention effort in the account&#39;s history came one hour after she quit.</div>
+      <blockquote>“please help 😂💞” <span class="q-meta">— Paige (Chey Ref), 2026-08-13</span></blockquote>
+    
+      <h4>Security</h4>
+      <div style="font-size:13.5px">Plaintext passwords for two IG accounts, a WhatsApp code, a login code and a backup code were posted in-group repeatedly, with fresh credential posts on 8/20, 8/27 and 8/29 AFTER the prior audit flagged this (credentials withheld from this report); Vivek asked for logins &#39;in dm&#39; once on 8/13 then reverted to &#39;Drop the logins&#39; in-group on 8/29; nothing was ever rotated by us or moved to a vault, and post-churn those credentials still sit in a chat we&#39;re now being removed from.</div>
+      <blockquote>“Share login” <span class="q-meta">— Vivek, 2026-07-29</span></blockquote>
+    
+    <div class="cols">
+      <div><h4>What they want from us</h4><ul style="margin:0;padding-left:18px;font-size:13.5px"><li style="margin:4px 0">Her Instagram kept alive and stable — &#39;please help 😂💞&#39; (8/13), &#39;i had to change my password again&#39; (8/21)</li><li style="margin:4px 0">Leaks removed — &#39;ive got a leak. someone using my stuff on a swingers website x&#39; (8/31)</li><li style="margin:4px 0">To see value for what she paid — her exit line &#39;its just not working for me&#39; (9/2) is a value-visibility complaint from a client who paid every invoice on time</li></ul></div>
+      <div><h4>What's working — keep doing</h4><ul style="margin:0;padding-left:18px;font-size:13.5px"><li style="margin:4px 0">Vivek&#39;s raw speed on lockouts kept her loyal for weeks — &#39;perfect thank you so much&#39; (8/21), and she kept coming back to him by name (&#39;@fonta&#39;)</li><li style="margin:4px 0">Derrek&#39;s 8/1 phone-farm letter bought real goodwill — &#39;oh wow! thats insane... im excited to see where this goes. thank youu. xx&#39;</li><li style="margin:4px 0">Warm billing rapport kept payments frictionless — &#39;i already sent it babe x&#39; (8/26)</li></ul></div>
+    </div>
+    <div class="fixbox"><b>The fix:</b> Show the work: a weekly one-screen recap (revenue, posts made, leaks killed, account status) would have been the difference on an account that paid on time for ten weeks and never once saw a result — and regardless of the churn, her credentials must be treated as compromised, rotated with her today, and the plaintext posts purged before we leave the chat.</div>
+  </div>
+</details>
+
+<details class="client">
+  <summary>
+    <span class="nm">Chey Mai</span>
+    <span class="badge b-churned"><span class="dot"></span>churned</span>
+    <svg class="spark" width="80" height="24"><polyline points="3.0,12.1 41.0,13.8 79.0,16.4 117.0,19.1" transform="scale(0.667,0.8)"/></svg>
+    <span class="fix">Decide this week, with a named owner: one human, non-billing contact offering the PayPal answer she …</span>
+    <span class="meta">last msg 2026-08-11</span>
+  </summary>
+  <div class="cbody">
+    <p style="margin:12px 0 0">Functionally churned: 23 days of client silence, a combined invoice unpaid 19 days, and since 8/26 we have stopped trying — zero messages from either side in 8 days, the weekly leak reports quietly stopped after 8/25, and no 9/1 invoice was even issued; nobody has ever attempted a human, non-billing contact.</p>
+    
+      <h4>Follow-through</h4>
+      <div style="font-size:13.5px">&#39;Plenty of updates starting next week&#39; (8/1 phone-farm letter) produced zero updates in 33 days; the PayPal check never came back; the previous-team unlink was never confirmed; even the one kept promise — weekly leak reports — stopped without notice after 8/25.</div>
+      <blockquote>“Thank you for your understanding, we will have plenty of updates starting next week.” <span class="q-meta">— Derrek, 2026-08-01</span></blockquote>
+    
+      <h4>Proactive comms</h4>
+      <div style="font-size:13.5px">In ten weeks we never once shared a chatting or revenue result; every ALTR message since 8/1 was an invoice chase or a templated leak report, and since 8/26 our outbound is literally zero — we went silent at a client who was already silent.</div>
+      <blockquote>“@cheymai1 Hi love we haven’t heard back from you regarding payment, please respond asap” <span class="q-meta">— Stephski, 2026-08-26</span></blockquote>
+    
+      <h4>Onboarding</h4>
+      <div style="font-size:13.5px">The onboarding form was never confirmed complete, the previous-team unlink was never confirmed done, no kickoff call was ever held, and no account manager was ever named — she was handed from Eric&#39;s intro straight into an invoicing relationship.</div>
+      <blockquote>“@mmayson  can you please coordinate with start time so she can unlink her current team :)” <span class="q-meta">— Eric The Efficient, 2026-06-22</span></blockquote>
+    
+      <h4>Platform health</h4>
+      <div style="font-size:13.5px">Her only platform escalation — &#39;my account is being targeted&#39; — was answered 29 hours later with &#39;Looks all good / Don&#39;t worry&#39; and a suggestion to archive content, never diagnosed; the promised phone-farm/promo restart was never reported for her account.</div>
+      <blockquote>“My Cheymai_ account is being targeted now” <span class="q-meta">— Cheyene Burridge, 2026-07-22</span></blockquote>
+    
+      <h4>Billing ops</h4>
+      <div style="font-size:13.5px">Five chases across two invoices, an extension granted 8/11 and then nothing but more chasing — and after the 8/26 &#39;please respond asap&#39; we abandoned both the receivable and the client: no 9/1 invoice, no escalation, no write-off decision, just limbo.</div>
+      <blockquote>“Can you give me 4 more days please I’m just waiting for money to turn over from OF” <span class="q-meta">— Cheyene Burridge, 2026-08-11</span></blockquote>
+    
+      <h4>Ownership</h4>
+      <div style="font-size:13.5px">Nobody owns this human: the only people who ever address her are the billing function and templated queue accounts; her going dark was never escalated to Derrek, Eric, or anyone empowered to save the account.</div>
+      <blockquote>“Hi @cheymai1 this will be the main group super excited to begin working with you!” <span class="q-meta">— Eric The Efficient, 2026-06-22</span></blockquote>
+    
+      <h4>Quiet-client detection</h4>
+      <div style="font-size:13.5px">A client who told us she was waiting on OF money — a cash-flow distress signal — then went silent for 23 days, and our complete response was four collection pings followed by giving up; no call, no payment plan, no results recap to remind her why we&#39;re worth paying, no owner notification.</div>
+      <blockquote>“Can you give me 4 more days please I’m just waiting for money to turn over from OF” <span class="q-meta">— Cheyene Burridge, 2026-08-11</span></blockquote>
+    
+    <div class="cols">
+      <div><h4>What they want from us</h4><ul style="margin:0;padding-left:18px;font-size:13.5px"><li style="margin:4px 0">A payment method she could actually use — &#39;Do you guys have PayPal&#39; (7/13, never answered)</li><li style="margin:4px 0">Cash-flow patience — &#39;Can you give me 4 more days please I’m just waiting for money to turn over from OF&#39; (8/11)</li><li style="margin:4px 0">Protection for her targeted IG — &#39;My Cheymai_ account is being targeted now&#39; (7/22)</li></ul></div>
+      <div><h4>What's working — keep doing</h4><ul style="margin:0;padding-left:18px;font-size:13.5px"><li style="margin:4px 0">Stephski&#39;s flexible handling on 8/11 — &#39;Okay no problem, just a heads up we have another invoice going out in 4 days so I will shoot you a new invoice with whatevers remaining&#39; — got an instant apology and goodwill</li><li style="margin:4px 0">The weekly leak-removal reports were the one recurring deliverable she could see (8/10, 8/17, 8/25)</li><li style="margin:4px 0">Fast payment confirmation on 7/13 (&#39;Recieved!&#39;) closed her first billing loop cleanly</li></ul></div>
+    </div>
+    <div class="fixbox"><b>The fix:</b> Decide this week, with a named owner: one human, non-billing contact offering the PayPal answer she asked for 52 days ago, a payment plan, and a results recap — or a formal offboarding; the current state (work presumably paused, receivable uncollected, zero contact) is the worst of every option and is how a quiet churn becomes an unpaid one.</div>
+  </div>
+</details>
+
+<details class="client">
+  <summary>
+    <span class="nm">Hannah</span>
+    <span class="badge b-churned"><span class="dot"></span>churned</span>
+    <svg class="spark" width="80" height="24"><polyline points="3.0,24.6 41.0,25.1 79.0,25.8 117.0,26.3" transform="scale(0.667,0.8)"/></svg>
+    <span class="fix">Give every account one named owner whose job is closing complaints with evidence rather than routing…</span>
+    <span class="meta">last msg 2026-07-06</span>
+  </summary>
+  <div class="cbody">
+    <p style="margin:12px 0 0">Explicitly ended the engagement on 2026-07-06 (&#39;I&#39;m going to take over my account and work independently&#39;). 59 days of silence since. Nobody on our side ever replied to that message; the only post-churn outbound was two templated broadcasts four days later and two collections asks in early August. The chat has now been completely dead for 30 days (last message of any kind: Stephski&#39;s &#39;Just making sure you saw this&#39;, 2026-08-04).</p>
+    
+      <h4>Follow-through</h4>
+      <div style="font-size:13.5px">We made small, easy promises constantly and dropped roughly half of them silently. The client, not us, discovered the failures: she caught that 13 voice notes had never been processed, and she twice had to report that leaks we had declared removed were still live. Post-mortem addendum: our promise to ourselves (&#39;so we can issue our final invoice&#39;) has now also lapsed for 50 days.</div>
+      <blockquote>“Hey @ofmfrederick were you able to get those voice memos in!” <span class="q-meta">— Bells Vale Referral (client), 2026-06-11</span></blockquote>
+    
+      <h4>Billing ops</h4>
+      <div style="font-size:13.5px">Four payment rails in 33 days - Zelle with no phone number, then a non-working ALTR email, then a Mercury link we later admitted was incorrect, then Chase, then Bank of America - plus an unresolved commission policy the client ended up applying herself. The first invoice was never paid on its own rail; the last invoice has now NEVER been issued: 50 days past cadence as of 2026-09-03, with the receivable amount still existing nowhere in writing except an unread photo (msg id 316).</div>
+      <blockquote>“Hi checking in here, if you want we can just add this invoice to the next one we&#39;ll be sending out in 5 days, let me know” <span class="q-meta">— Stephski, 2026-06-10</span></blockquote>
+    
+      <h4>Quiet-client detection</h4>
+      <div style="font-size:13.5px">Zero detection at any stage. Two repeats of an identical complaint in 48 hours triggered nothing; her explicit resignation was never replied to by any person; two templated broadcasts fired four days after she left; and the first human contact afterwards, 27 days later, was a request for paperwork so we could bill her. Nothing has changed since: 30 further days of dead air.</div>
+      <blockquote>“Hey guys I really appreciate working with you but I&#39;m going to take over my account and work independently, I just sent the most recent wire and I&#39;m going to wait for the rest of the money to transfer to pending for the next payout &amp; will send that your way.” <span class="q-meta">— Bells Vale Referral (client), 2026-07-06</span></blockquote>
+    
+      <h4>Security</h4>
+      <div style="font-size:13.5px">We instructed the client to change her OnlyFans password and then had her post the new credentials into a multi-member group chat; the same happened with her Instagram login and a live two-factor code. Nothing was ever rotated, moved to a vault, or revoked - and at churn there was no offboarding at all, so our access to her OF, IG and the FB page we built was never removed or confirmed removed. As of the 2026-09-03 refetch all of those credentials are still sitting in the chat history.</div>
+      <blockquote>“Bella you have to change the password” <span class="q-meta">— Mayson Chat, 2026-05-29</span></blockquote>
+    
+    <div class="cols">
+      <div><h4>What they want from us</h4><ul style="margin:0;padding-left:18px;font-size:13.5px"><li style="margin:4px 0">Visible growth and a breakout - she was doing the work and waiting for one hit</li><li style="margin:4px 0">Leaks actually off the internet, not a monthly graphic saying they were removed</li><li style="margin:4px 0">Not to pay 35% on money she generated herself on her own lives</li></ul></div>
+      <div><h4>What's working — keep doing</h4><ul style="margin:0;padding-left:18px;font-size:13.5px"><li style="margin:4px 0">Fred&#39;s unprompted, honest explanation of the day-3 subscriber collapse, with a stated plan. It is the only proactive performance communication in the file and it defused the single biggest early risk.</li><li style="margin:4px 0">Mica&#39;s weekly reel inspo drops. Cheap, on time, and the client thanked her every single time - the most consistently appreciated thing ALTR did for this account.</li><li style="margin:4px 0">Fred asking consent before pushing a custom, rather than selling first and briefing later.</li></ul></div>
+    </div>
+    <div class="fixbox"><b>The fix:</b> Give every account one named owner whose job is closing complaints with evidence rather than routing them - and make that owner&#39;s churn duties non-optional: reply to a resignation within 24 hours, and issue the final invoice from ALTR&#39;s own records within 7 days. Hannah&#39;s two loudest issues (leaks still live, the promised paid promo) were each answered with a graphic or an @-tag and dropped; her resignation and her volunteered exit payment then sat unowned for five consecutive weekly reviews. This account should now be closed: transcribe msg id 316, issue the 7/1-7/7 invoice off ALTR&#39;s OF records with a 14-day pay-by via her known off-Telegram contacts, or write it off on 2026-09-04 as previously agreed - and stop producing reports about it.</div>
+  </div>
+</details>
+
+<details class="client">
+  <summary>
+    <span class="nm">Lauryn</span>
+    <span class="badge b-at_risk"><span class="dot"></span>at risk</span>
+    <svg class="spark" width="80" height="24"><polyline points="3.0,13.1 41.0,14.5 79.0,13.8 117.0,17.4" transform="scale(0.667,0.8)"/></svg>
+    <span class="fix">Deliver something visible before chasing money again: this week we sent a sixth consecutive carried-…</span>
+    <span class="meta">last msg 2026-09-03</span>
+  </summary>
+  <div class="cbody">
+    <p style="margin:12px 0 0">Still warm and still engaging (she pitched a new B/G music-video content idea on 2026-09-03), but the churn signal first seen 2026-08-27 hardened this week: payment is now formally restructured around our non-delivery (&#39;as it drops you will receive invoices in increments&#39;, 2026-09-02), the vendor chat team is 85 days silent, Vivek has ignored three direct status pings since 2026-09-02, and we answered with a pause-work threat instead of delivery.</p>
+    
+      <h4>Responsiveness</h4>
+      <div style="font-size:13.5px">Raised from 2: routine replies are still fast, but the messages that matter most now go unanswered for days - her direct payment/churn message sat 3.5 days before any reply, and her three direct status pings to Vivek on the no.1 issue (2026-09-02/03, plus a Mayson bump) have drawn zero response through end of data.</div>
+      <blockquote>“Hey, @fonta / Any updates??? / We still in review ??” <span class="q-meta">— LA Client, 2026-09-02</span></blockquote>
+    
+      <h4>Follow-through</h4>
+      <div style="font-size:13.5px">We promised recurring deliverables at onboarding - fortnightly report + 14-day game plan, FB monetisation, live-results dashboard, bi-weekly content ideas, weekly calls - shipped most exactly once and let them silently die; the Aug 13 visual 2FA steps Derrek promised were never sent and he has now been absent 21 days.</div>
+      <blockquote>“This is your first report and game plan with us... Moving forward, you&#39;ll receive a report every two weeks along with a tailored 14-day game plan.” <span class="q-meta">— Sophie Logan (Raw Agency), 2025-09-23</span></blockquote>
+    
+      <h4>Proactive comms</h4>
+      <div style="font-size:13.5px">One strategy report ever (2025-09-23), zero revenue reporting ever; current outbound is a templated invoice, an automated leak screenshot and a tone-deaf &#39;post consistently&#39; reminder (Aug 31) sent while the page sits unrecommendable - she initiates every substantive contact and Vivek stopped answering entirely.</div>
+      <blockquote>“Keep me updated pls / Well I&#39;m periodically checking on my end as well” <span class="q-meta">— LA Client, 2026-08-18</span></blockquote>
+    
+      <h4>Chatter conduct</h4>
+      <div style="font-size:13.5px">The vendor chat team repeatedly sold customs violating boundaries she set in week 1, told her a fan had &#39;bagged&#39; payment before she agreed, and pressured her four separate times to make exceptions after she said no - protecting vendor revenue over her stated limits.</div>
+      <blockquote>“And No explicit / No Sex / No Naked” <span class="q-meta">— LA Client, 2025-08-30</span></blockquote>
+    
+      <h4>Platform health</h4>
+      <div style="font-size:13.5px">The Facebook page has been &#39;not recommended&#39; since 2025-09-27 - 341 days - through three ownership hand-offs and no dated plan ever; Vivek&#39;s last substantive words were &#39;Still in review&#39; (Aug 26) and he has not answered her direct &#39;We still in review??&#39; in the 8 days since, despite a bump from Mayson.</div>
+      <blockquote>“Timeline wise it is hard to say, it could take one month or 6 months for the flags to clear.” <span class="q-meta">— Sophie Logan (Raw Agency), 2025-10-08</span></blockquote>
+    
+      <h4>Billing ops</h4>
+      <div style="font-size:13.5px">Seven ALTR-side payment-rail disruptions in 12 months, and the Sept 1 invoice repeated every known mistake: sent with the Aug 15 invoice still unpaid (sixth consecutive period carrying the $1,852.15 balance), no total or due date stated in chat, on an account number never once exercised - paired with a pause-work threat that leans on a team the client has not seen post in 85 days.</div>
+      <blockquote>“Also ask that you settle this invoice within 7 days to avoid us pausing work 🙏 Our team on your page hasnt been paid in a little while” <span class="q-meta">— Stephski, 2026-09-01</span></blockquote>
+    
+      <h4>Ownership</h4>
+      <div style="font-size:13.5px">Nobody owns the account end-to-end: Mayson&#39;s only role on the FB issue is bumping Vivek with &#39;@fonta ^^&#39; (again 2026-09-03, unanswered), the vendor team was swapped with a one-line aside and never replaced visibly, Derrek has been gone 21 days, and another ChatDeleteUser event fired 2026-09-03 with no explanation to the client.</div>
+      <blockquote>“Hey @lxnselot we are putting on a different team” <span class="q-meta">— Mayson Chat, 2026-06-10</span></blockquote>
+    
+      <h4>Quiet-client detection</h4>
+      <div style="font-size:13.5px">She has now tied payment to our non-delivery twice in a week - restructuring invoices to &#39;increments as it drops&#39; - and the only response was a harder collections push; nobody on our side has acknowledged the delivery complaint, the 85-day vendor absence, or that her new content pitch (2026-09-03) is a re-engagement gift going unanswered.</div>
+      <blockquote>“Being that account is basically at a stand still when everything drops I&#39;ll make those invoices expeditiously” <span class="q-meta">— LA Client, 2026-08-27</span></blockquote>
+    
+      <h4>Security</h4>
+      <div style="font-size:13.5px">We asked for plaintext credentials in the group chat (2025-09-15 and again 2026-08-07) and collected her FB-linked phone number and a live SMS 2FA code in-thread; three passwords, the number and the code still sit unrotated 27+ days later with no written credential policy, and the Aug 16 passkey workaround was never made standing practice.</div>
+      <blockquote>“Hey LA, Can I please get your Facebook log in details? ❤️ Email/phone number and password please x” <span class="q-meta">— Sophie Logan (Raw Agency), 2025-09-15</span></blockquote>
+    
+    <div class="cols">
+      <div><h4>What they want from us</h4><ul style="margin:0;padding-left:18px;font-size:13.5px"><li style="margin:4px 0">The Facebook page functioning again, as a business necessity - &#39;It&#39;s very important for my page to be back up and functioning due to Business reasons 🙏🏽&#39; (2026-08-18); now the stated reason the account is &#39;basically at a stand still&#39; (2026-08-27).</li><li style="margin:4px 0">To be updated without having to ask - &#39;Keep me updated pls&#39; (2026-08-18) - and visual step-by-step instructions for technical work: &#39;Visually that&#39;s better&#39; (2026-08-13). This week she asked Vivek for an update three times and got nothing.</li><li style="margin:4px 0">Her boundaries and credentials respected without argument - &#39;And No explicit / No Sex / No Naked&#39; (2025-08-30); &#39;Talked to my Management we can&#39;t give out certain passwords just for confidential purposes&#39; (2026-08-15). She completes every non-password step we give her, usually within minutes.</li></ul></div>
+      <div><h4>What's working — keep doing</h4><ul style="margin:0;padding-left:18px;font-size:13.5px"><li style="margin:4px 0">A chatter confirming limits BEFORE taking fan requests: King Choy asked her video-call boundaries up front (2025-08-30) and she replied &#39;Thank Youuu / For communicating that with me 🙏🏽🙏🏽🙏🏽&#39;.</li><li style="margin:4px 0">DMCA takedowns with visible results - &#39;Looking much more clear&#39; (2025-09-03); Michelle&#39;s weekly leak update landed again 2026-09-01, sixth consecutive week, the only unbroken cadence on the account.</li><li style="margin:4px 0">The single report + 14-day game plan: &#39;Thank you for this Report... Stradgey makes sense&#39; (2025-09-23) - one report bought more goodwill than the following eleven months.</li></ul></div>
+    </div>
+    <div class="fixbox"><b>The fix:</b> Deliver something visible before chasing money again: this week we sent a sixth consecutive carried-balance invoice with a pause-work threat &#39;to pay the team&#39; while the client has seen no chat team in 85 days, no FB progress in 341 days and no answer from Vivek in 8 - one named owner who restarts visible service (chat team back in the group or a named replacement, a dated FB next-action, a short weekly written status) would convert her stated willingness to pay &#39;as it drops&#39; back into actual payments, because she has explicitly made our delivery the faucet.</div>
+  </div>
+</details>
+
+<details class="client">
+  <summary>
+    <span class="nm">Haileigh Cox</span>
+    <span class="badge b-at_risk"><span class="dot"></span>at risk</span>
+    <svg class="spark" width="80" height="24"><polyline points="3.0,7.8 41.0,10.7 79.0,11.4 117.0,13.1" transform="scale(0.667,0.8)"/></svg>
+    <span class="fix">Name one accountable account manager in the chat, in writing, with a stated response SLA and a visib…</span>
+    <span class="meta">last msg 2026-08-20</span>
+  </summary>
+  <div class="cbody">
+    <p style="margin:12px 0 0">Commercially perfect (25 of 25 invoice cycles paid, last wire 2026-08-20) but relationally hollowed out and now 14 days silent — at the top of her historical silence range (12/14/16-day gaps). She has told us in writing three times (3/22, 4/22, 6/22) that nobody responds and nobody owns her account; no account manager has existed since Joseph H was deleted from the group 7/8 with no announcement; her #1 fear (losing her main IG) has a shadowban ask 36 days untouched and an ALTR-built product (.vip domains) that restricted two of her accounts 82 days unfixed. Since her last message on 8/20, every one of the six ALTR messages has been a broadcast, a bill, or a demand for her labor — capped by the 9/1 invoice&#39;s first-ever &#39;pay within 7 days to avoid any pausing of work&#39; warning to a client who has never truly missed a payment. Textbook quiet-churn shape, and this week we started applying pressure instead of service.</p>
+    
+      <h4>Responsiveness</h4>
+      <div style="font-size:13.5px">We routinely let her direct questions die: at least 13 questions over the history got no substantive answer ever (2/16 &#39;no one has been on my account&#39;, 3/25 outdoor-scene price, 6/4, 6/16 and 7/9 payment-receipt asks, 7/29 shadowban, among others), and the ones we do answer often need two or three nudges from her plus internal @tags — her 8/18 banking question took 50.2h and was answered by the owner, not the owner-of-the-task.</div>
+      <blockquote>“Who do I reach out to for general messages here. I feel like every time i reach out it&#39;s either super delayed or just no response at all.” <span class="q-meta">— Hailey Client, 2026-03-22</span></blockquote>
+    
+      <h4>Follow-through</h4>
+      <div style="font-size:13.5px">Our house reply is &#39;let me check / working on it / will keep you updated&#39; and then nothing — roughly 28 of ~42 commitments in the history lapsed with no closure. This week deepened the pattern: instead of closing his 82-day-old .vip domain fix, Mayson followed up his own unanswered 8/27 question with an 8/30 demand for 30 fresh reels a month, and Derrek&#39;s 8/1 promise of &#39;plenty of updates starting next week&#39; is now 33 days old with zero updates posted.</div>
+      <blockquote>“Working on it  [Mayson&#39;s only reply to &#39;One of my accounts already hit a restriction with it&#39;; 75 days of silence followed, then on 8/27 a question and on 8/30 a content demand — never a fix or an answer]” <span class="q-meta">— Mayson Chat, 2026-06-14</span></blockquote>
+    
+      <h4>Proactive comms</h4>
+      <div style="font-size:13.5px">Raised from 2 to 3: unprompted contact is high-volume but has become purely templated or extractive. She has not received a performance or revenue number since 2025-09-22 (~50 weeks); the bi-weekly report + game plan she explicitly loved died with Sophie Logan; the &#39;live results&#39; system promised 2025-09-07 never shipped; and in the 14 days since her last message our entire human outreach has been demands (upload 30 reels/month, post more consistently) and an invoice — not one message informing her of anything or checking on her.</div>
+      <blockquote>“In the past week we have seen an increase in revenue by 35.7% and new subs are up 257.7%  [the last time anyone sent her a number about her own business, ~50 weeks ago]” <span class="q-meta">— Sophie Logan (Raw Agency), 2025-09-15</span></blockquote>
+    
+      <h4>Platform health</h4>
+      <div style="font-size:13.5px">We pushed her through three successive link products (juicy.bio, link.me, then our own .vip domains), she reported a restriction or shadowban after every single one, and we never delivered a root cause or written all-clear. Mayson told her a domain WE built was safe after she asked point-blank whether it would get her disabled; two accounts were restricted within 48 hours and the fix has been open 82 days — and his only activity since is asking her why she isn&#39;t using the broken product (8/27) and demanding content (8/30). The shadowban ask on her main is 36 days old; Vivek, the dedicated Meta rep, has still posted exactly one message ever.</div>
+      <blockquote>“This won&#39;t get my account disabled will it? I just got my main account back from a perm disable.  [Mayson&#39;s answer: &#39;Yes It&#39;s safe to put it in bio&#39;]” <span class="q-meta">— Hailey Client, 2026-06-11</span></blockquote>
+    
+      <h4>Billing ops</h4>
+      <div style="font-size:13.5px">We have moved her banking rails at least five times since April, shipped a wire address that did not work at all, changed the account number again on 8/15, then verbally told her to ignore the invoice&#39;s written instruction — and 14 days later still have not stated which account received the 8/20 wire. This week we compounded it: the 9/1 invoice arrived without confirming the prior payment and added a first-ever &#39;pausing of work&#39; threat against a client who has paid 25 of 25 cycles.</div>
+      <blockquote>“Hi!! The address for the new wire is not working.. idk what to do  [the Bank of America wire address we published 7/1 was invalid; fixed 22h later]” <span class="q-meta">— Hailey Client, 2026-07-07</span></blockquote>
+    
+      <h4>Ownership</h4>
+      <div style="font-size:13.5px">Nobody owns this account. She asked outright in March whether she has an account manager, was told yes and that they would reach out, and 165 days later nobody ever has. Her named contacts left one after another with zero announcement or handover (Sophie 10/9, Lauren 11/4, Joseph deleted 7/8, never replaced), and her requests bounce between staff via @tags — three tags over 48h on the August banking question before the owner answered it himself. Six-plus open items have five nominal owners and no one accountable, which is why nothing has moved in three consecutive weekly windows.</div>
+      <blockquote>“Do I have an account manager?  [Joseph: &#39;Yes you do, Let me reach out to my contacts and ask where they are at&#39; — nobody ever reached out, 165 days ago]” <span class="q-meta">— Hailey Client, 2026-03-22</span></blockquote>
+    
+      <h4>Quiet-client detection</h4>
+      <div style="font-size:13.5px">She has escalated to explicit written distress three times and each time we answered the narrow ticket and stepped over the relationship complaint. She is now 14 days silent — tied with her longest-ever gaps — after four straight weekly health declines, and not one human has checked in on her; instead her feed since 8/20 has been a leak recap, a two-word &#39;Thank you!&#39;, an accusatory product question, a 30-reels-a-month demand, a posting lecture, and an invoice with a pay-or-pause warning. If she reads the chat top to bottom right now, every recent message asks something OF her.</div>
+      <blockquote>“I really want to figure all this out. Can someone please be in contact with me ASAP.  [after three unanswered messages about a $7.5k chargeback; the reply addressed the maths only, never the &#39;can someone be in contact with me&#39;]” <span class="q-meta">— Hailey Client, 2026-06-22</span></blockquote>
+    
+    <div class="cols">
+      <div><h4>What they want from us</h4><ul style="margin:0;padding-left:18px;font-size:13.5px"><li style="margin:4px 0">Her main Instagram kept alive above everything else — &#39;I&#39;m always terrified I&#39;ll lose my main account since I&#39;ve lost other big accounts in the past :(&#39; (2025-09-08) and &#39;This won&#39;t get my account disabled will it? I just got my main account back from a perm disable.&#39; (2026-06-11)</li><li style="margin:4px 0">One named person who owns her and keeps her informed — &#39;Do I have an account manager?&#39; and &#39;I want to be kept in the loop more now moving forward. There&#39;s zero communication between me and anyone here.&#39; (2026-03-22)</li><li style="margin:4px 0">Content submission that fits her life, not our tooling — &#39;I just want to address my biggest issue - using the snare. You guys get zero content from me because it&#39;s a pain. I&#39;d like to do a shared album that I can upload all my content into.&#39; (2026-02-11)</li></ul></div>
+      <div><h4>What's working — keep doing</h4><ul style="margin:0;padding-left:18px;font-size:13.5px"><li style="margin:4px 0">Sophie Logan&#39;s high-touch cadence in Sep-Oct 2025: bi-weekly report plus a 14-day game plan, mid-week check-ins, and a real strategy call. Her reaction: &#39;Amazing!!!!! I love this.&#39; (2025-09-08) and &#39;You are so sweet Sophie! Thank you so much for checking in&#39; (2025-10-03) — the only period she volunteered &#39;I&#39;ll be more proactive moving forward&#39;.</li><li style="margin:4px 0">Same-day operational turnaround on customs and content from Noah and Nick Scott — &#39;You guys are so quick to respond haha thank you both!!!&#39; (2025-09-28).</li><li style="margin:4px 0">Proactive good news on the girthmaster drop: &#39;Amazing rev today, your new tape is at 10k sold!&#39; got back &#39;FUCK YES I SAW THAT!! So stoked how&#39;s the feedback?&#39; (2026-03-28). Michelle&#39;s weekly leak-removal recap remains the one deliverable with an unbroken record (delivered again 9/1) — &#39;Thank you so much!!!!!&#39; (2026-06-26).</li></ul></div>
+    </div>
+    <div class="fixbox"><b>The fix:</b> Name one accountable account manager in the chat, in writing, with a stated response SLA and a visible open-items list they close in writing — she asked for exactly this on 2026-03-22, was told she had one, and 165 days later nobody has ever introduced themselves. Every other failure (13 dead questions, 28 lapsed promises, an 82-day broken .vip domain, a 36-day shadowban ask, an unconfirmed wire) is a symptom of the same missing role — and the first thing that owner must do is reverse this week&#39;s polarity: before her 9/8 pay-by date, send her something (wire confirmation, .vip resolution, phone-farm update) instead of a fourth consecutive contact that only asks her for content or money.</div>
+  </div>
+</details>
+
+<details class="client">
+  <summary>
+    <span class="nm">Sarah Lloyd</span>
+    <span class="badge b-at_risk"><span class="dot"></span>at risk</span>
+    <svg class="spark" width="80" height="24"><polyline points="3.0,10.7 41.0,12.1 79.0,16.4 117.0,16.9" transform="scale(0.667,0.8)"/></svg>
+    <span class="fix">Give the account one named owner (Noah) who posts a short weekly written status in-chat covering eve…</span>
+    <span class="meta">last msg 2026-09-01</span>
+  </summary>
+  <div class="cbody">
+    <p style="margin:12px 0 0">Still paying (7/7 cycles) and investing more (Chaturbate funnel, weekly uploads), but health has slid 68-&gt;42, she delivered a verdict on the core chat service on 08-24, and since 08-26 she has gone silent on chat quality entirely - on this account silence on a topic has preceded every escalation. Last client message 2026-09-01 (an invoicing question).</p>
+    
+      <h4>Responsiveness</h4>
+      <div style="font-size:13.5px">Chat-team issues routinely need 2-6 client nudges plus a Mayson &#39;@natehei ^^&#39; relay before anyone answers; several direct questions sat &gt;24h, including a payment-blocking one on the Sept 1 invoice (36h).</div>
+      <blockquote>“Hey! Any confirmation that this has been seen pls?? @natehei @roflo1424” <span class="q-meta">— Sarah Lloyd, 2026-07-17</span></blockquote>
+    
+      <h4>Follow-through</h4>
+      <div style="font-size:13.5px">Promises are made verbally and never confirmed done in writing; the 08-20 whale-monitoring promise failed publicly twice within 48h, the Aug 25 call produced no write-up, and the Phone Farm &#39;updates starting next week&#39; is 33 days silent.</div>
+      <blockquote>“I’ll make sure to monitor him very closely so we can be sure to bring him back!” <span class="q-meta">— Nate (Noah) - whale then ignored all day on both 08-24 and 08-25, 2026-08-20</span></blockquote>
+    
+      <h4>Chatter conduct</h4>
+      <div style="font-size:13.5px">Repeated wrong-content sends (BG mass-sent to the $25k whale on 06-09 AND 08-20, custom as PPV, pre-Oct content, GGG for BGG), sales-push-first chatting on new subs&#39; first interaction, and top spenders ignored for whole days.</div>
+      <blockquote>“Guysss this is my biggest whale!! Ive asked so many times no BG! You’ll have lost him because of this, really upset” <span class="q-meta">— Sarah Lloyd, 2026-08-20</span></blockquote>
+    
+      <h4>Platform health</h4>
+      <div style="font-size:13.5px">Meta issues have no owner cadence: 18 days to get her a Meta rep, the FB non-recommendable/IG reach collapse (20M-&gt;4M) still unexplained 8 weeks on, and the $40k Phone Farm has had zero promised updates in 33 days. Credit: the 08-28 IG &#39;hacked account&#39; lockout was picked up in 8 minutes and resolved same day by call/DM.</div>
+      <blockquote>“Main Facebook is non recommendable (no specific post &amp; no option to appeal). Instagram ... trial reels have gone from consistently getting 100k+ views 2-3 times daily to getting 200-400 views.” <span class="q-meta">— Sarah Lloyd (no Meta owner existed until Vivek was added 07-29), 2026-07-11</span></blockquote>
+    
+      <h4>Billing ops</h4>
+      <div style="font-size:13.5px">Five consecutive invoices needed client-side correction, three receiving-bank changes in ten weeks bounced her wires twice, the owner chased money that physically could not arrive - and the Sept 1 invoice STILL went out on the account her bank rejects instead of defaulting to the working 4709 account, forcing her to ask permission to pay.</div>
+      <blockquote>“It keeps flagging as a suspicious transaction then last night it bounced back so I tried again” <span class="q-meta">— Sarah Lloyd, 2026-08-21</span></blockquote>
+    
+      <h4>Security</h4>
+      <div style="font-size:13.5px">Staff solicited her Facebook login in the group chat and she posted the credentials in clear (twice); the password has never been rotated or scrubbed in 36 days, in a chat containing outsourced vendor staff - and on 08-28 her IG was locked for &#39;hacked account&#39; activity. The good early practice (DM logins privately) was not enforced later.</div>
+      <blockquote>“Share login” <span class="q-meta">— Vivek (in the group chat; she then posted her Facebook email and password in-chat, and re-posted the password minutes later - credentials not reproduced here), 2026-07-29</span></blockquote>
+    
+    <div class="cols">
+      <div><h4>What they want from us</h4><ul style="margin:0;padding-left:18px;font-size:13.5px"><li style="margin:4px 0">Whale and top-spender protection: &#39;It’s really really important this guy isn’t sent BG!! He’s my biggest whale&#39; (06-09); &#39;the chatters need to just message him at 9am AEST saying good morning&#39; (08-25, first given 06-14).</li><li style="margin:4px 0">Actual chatting and relationship-building before sales: &#39;just really frustrating seeing no whales long-term being built, my top spenders being ignored and in general no actual chatting but just MM bumps&#39; (08-24).</li><li style="margin:4px 0">Her content used as built, with variety: &#39;I have soooo much content, there’s no need to be reusing the same photos and videos &amp; text every single day for weeks&#39; (07-13); one sexting set per session (06-13, 08-19).</li></ul></div>
+      <div><h4>What's working — keep doing</h4><ul style="margin:0;padding-left:18px;font-size:13.5px"><li style="margin:4px 0">The chatting itself, when done properly, earns explicit praise: &#39;Love the English &amp; sales tactics of the chatters&#39; (06-27), &#39;Loving the chatting from what I’ve seen!&#39; (06-11) - the product is good; the wrapper of follow-through is what is failing.</li><li style="margin:4px 0">The 08-25 call + one real stat instantly defused a two-day escalation: &#39;yeah great stats, apologies I hadn’t looked at that. I know you guys are great at sales&#39; (08-25). Data shared proactively works on this client.</li><li style="margin:4px 0">Fast mechanical ops build trust: weekly DMCA report (&#39;Amazing thankyou!&#39;, 07-10), tracking domains delivered same day (08-24), CB free-pic protocol relayed in 5 minutes (&#39;Done ✅&#39;, 08-26).</li></ul></div>
+    </div>
+    <div class="fixbox"><b>The fix:</b> Give the account one named owner (Noah) who posts a short weekly written status in-chat covering every open commitment - whale protocol and spend recovery, the Aug 25 call outcomes, chargebacks, Meta/Phone Farm, sexting sets - because this account&#39;s entire decline is driven by verbal promises that silently lapse while the client does the monitoring herself; her only leverage left is escalation or leaving.</div>
+  </div>
+</details>
+
+<details class="client">
+  <summary>
+    <span class="nm">Sarah</span>
+    <span class="badge b-at_risk"><span class="dot"></span>at risk</span>
+    <svg class="spark" width="80" height="24"><polyline points="3.0,7.3 41.0,11.2 79.0,17.9 117.0,17.2" transform="scale(0.667,0.8)"/></svg>
+    <span class="fix">Give Sarah one named account owner who sends a short weekly written status (open items with owners a…</span>
+    <span class="meta">last msg 2026-09-02</span>
+  </summary>
+  <div class="cbody">
+    <p style="margin:12px 0 0">Trending better this week — she re-engaged warmly (Aug 29-Sep 2), the Sep 1 invoice went out on time and was paid next day, and Olivia got her onto a proactive OFTV call — but her 530k main IG is 25 days down with zero ALTR word since Aug 9 (she has stopped asking), her Aug 8 earnings question still has no plan after 26 days, and the 2 backup IGs are ~28 days down and only just moved to &#39;need password&#39;.</p>
+    
+      <h4>Follow-through</h4>
+      <div style="font-size:13.5px">17 of 43 promises silently lapsed: weekly Wednesday DMCA updates died for 4 months, the cancelled WA content day was never rebooked, Derrek&#39;s Aug 1 &#39;plenty of updates&#39; on the phone-farm rollout is 33 days old with zero updates, the Aug 9 main-IG recovery has never been mentioned again, and the earnings-drop plan never materialised.</div>
+      <blockquote>“Scans and takedowns are ran daily and we will be shooting weekly updates here every Wednesday 🦾” <span class="q-meta">— Nick | DMCA, 2025-09-19</span></blockquote>
+    
+      <h4>Proactive comms</h4>
+      <div style="font-size:13.5px">No performance/stats update in ~11 months since Sophie&#39;s early drops; outbound is templated (reel inspo, leak counts, invoices). This week brought the first genuinely proactive non-billing outreach in months (Olivia&#39;s OFTV call offer, Mayson&#39;s content-drive system) — but still not one word about her main account, her earnings, or the phone farm. Longest raw team silence 9.0 days (Mar 19-28).</div>
+      <blockquote>“Hey guys!! I’m not trying to be that annoying hassling client but why have I gone down to 3k days😭 what’s happened, what should I be doing to get back up?” <span class="q-meta">— Sarah H, 2026-08-08</span></blockquote>
+    
+      <h4>Platform health</h4>
+      <div style="font-size:13.5px">Her #1 pain, never owned end-to-end: main @sarah.h44 (530k) suspended Aug 9 — 25 days with zero ALTR word and she has stopped asking; the 2 backup accounts are ~28 days down and when she re-asked on Aug 31 our named Meta rep replied &#39;Which one&#39;, showing nobody was tracking them; earlier unbans took 5+ days while she self-recovered in Dec.</div>
+      <blockquote>“Is my other 2 accounts back again?” <span class="q-meta">— Sarah H, 2026-08-31</span></blockquote>
+    
+      <h4>Ownership</h4>
+      <div style="font-size:13.5px">Still no named account owner since Sophie left; issues move by @-tag relay — Mayson @-tagged Vivek for the down accounts on Aug 31 and Vivek didn&#39;t know which accounts were meant; the main-IG recovery has no owner at all; Olivia&#39;s OFTV ownership this week is the first real single-owner behaviour in months but covers only one workstream.</div>
+      <blockquote>“@fonta ^” <span class="q-meta">— Mayson Chat, 2026-08-31</span></blockquote>
+    
+      <h4>Quiet-client detection</h4>
+      <div style="font-size:13.5px">Her only performance complaint (Aug 8) got a 45h holding reply and still no plan 26 days later; nobody noticed her 11-day silence or that she has now stopped asking about her lost 530k main account. This week&#39;s outreach (OFTV call, content drive) re-engaged her — but as new service pushes, not as anyone acknowledging the silence, the complaint, or the account.</div>
+      <blockquote>“looks like it is due to your reach being low at the moment. How are socials going for you ?? Any issues there ?” <span class="q-meta">— Ronnie Chat, 2026-08-10</span></blockquote>
+    
+      <h4>Security</h4>
+      <div style="font-size:13.5px">Credential handling is unchanged after being flagged in two prior reports: she has posted plaintext OF/IG passwords and live 2FA codes into the ~19-member group, Vivek asked her to &#39;send the password&#39; in the group again on Sep 1 and Sep 2, Olivia&#39;s new bot form requests both page logins, and nobody has ever asked her to rotate a credential or offered a private channel.</div>
+      <blockquote>“Need password” <span class="q-meta">— Vivek, 2026-09-01</span></blockquote>
+    
+    <div class="cols">
+      <div><h4>What they want from us</h4><ul style="margin:0;padding-left:18px;font-size:13.5px"><li style="margin:4px 0">Fast, predictable IG recovery and to stop losing accounts: &#39;Praying this doesn’t keep happening to me it seriously seriously sucks!!&#39; (2025-11-04); &#39;I just wish the turnover time for getting accounts back were quicker!&#39; (2025-12-04); &#39;Is my other 2 accounts back again?&#39; (2026-08-31)</li><li style="margin:4px 0">To understand her numbers and what to do about them: &#39;why have I gone down to 3k days😭 what’s happened, what should I be doing to get back up?&#39; (2026-08-08); &#39;Would you mind sharing a quick breakdown of how those figures are worked out?&#39; (2026-05-02)</li><li style="margin:4px 0">Visibility of the marketing accounts we run for her: &#39;Let me know when the socials are up and running so I can follow them! 😍&#39; (2025-10-03); &#39;could I get the accounts please!! Then I can also see what vids do better than others&#39; (2025-10-11)</li></ul></div>
+      <div><h4>What's working — keep doing</h4><ul style="margin:0;padding-left:18px;font-size:13.5px"><li style="margin:4px 0">Chatting results plus unprompted stat drops in month one built the whole relationship: &#39;Your chatting is INSANE!!&#39; (2025-09-19); &#39;Literally can’t believe it every single day!!!!&#39; after Sophie&#39;s 30-day before/after (2025-10-16)</li><li style="margin:4px 0">Visible leak takedowns on a never-lapsed weekly cadence: &#39;Thanks heaps I’ve noticed a huge difference with leaks!&#39; (2025-10-08); &#39;Thanks so much I appreciate the updates!&#39; (2026-03-04)</li><li style="margin:4px 0">Single-owner fast fixes and proactive human contact: Vivek restoring jxstin.media in a day (&#39;Your amazing! Thankyou!!&#39; 2026-08-08), and Olivia&#39;s unprompted OFTV call offer instantly re-warming her after weeks of billing-only contact (&#39;Hiii sounds amazing I’d love that thankyou!!🩷&#39; 2026-09-01)</li></ul></div>
+    </div>
+    <div class="fixbox"><b>The fix:</b> Give Sarah one named account owner who sends a short weekly written status (open items with owners and ETAs, her numbers, next steps) and is accountable for closing loops instead of @-tagging. This week proved the demand side — one proactive call offer from Olivia re-warmed her overnight — but the owner gap is why the 530k main IG has had zero updates in 25 days, the earnings question has no plan after 26 days, and the backup accounts died in a &#39;Which one&#39; / &#39;Need password&#39; relay.</div>
+  </div>
+</details>
+
+<details class="client">
+  <summary>
+    <span class="nm">Vale</span>
+    <span class="badge b-at_risk"><span class="dot"></span>at risk</span>
+    <svg class="spark" width="80" height="24"><polyline points="3.0,10.2 41.0,12.1 79.0,12.6 117.0,15.5" transform="scale(0.667,0.8)"/></svg>
+    <span class="fix">Same structural fix, more urgent: one named account owner running a single client-visible order ledg…</span>
+    <span class="meta">last msg 2026-08-31</span>
+  </summary>
+  <div class="cbody">
+    <p style="margin:12px 0 0">She came back Aug 29-31 after a near-silent week — ~24 messages — but every one of them was either her delivering content or her reporting a problem to us (a fan issue, a leak surge she had to direct our DMCA team on, an IG reach collapse after an under-18 flag that contradicts what Derrek told her). Meanwhile nothing on our side moved: John&#39;s $2,200 custom she uploaded Aug 22 is still unconfirmed 12 days later, her Aug 17 payment is still unacknowledged at 17 days, the paid-call backlog (Tyler 151d, John&#39;s videocall 125d, Ryan 89d) went a third straight week unmentioned by anyone, and Ollie&#39;s only contributions in the window were one-line thank-yous plus a new &#39;Will look into this for you&#39; that was never closed. Re-engagement driven by problems is not recovery.</p>
+    
+      <h4>Follow-through</h4>
+      <div style="font-size:13.5px">The entire stale-promise stack aged another six days with zero movement — Tyler&#39;s $700 custom 151d, John&#39;s $1,800 videocall 125d, Ryan&#39;s $600 call 89d past sale, sexting-set template 37d, Infloww enquiry 37d, girl-girl vault purge 32d, lives &#39;this week&#39; 25d past — and instead of closing anything Ollie added a fresh open-ended &#39;Will look into this for you&#39; (Aug 29) that had no follow-up by the time the window closed; nobody has confirmed the fan received the $2,200 custom Vale delivered Aug 22.</div>
+      <blockquote>“I’ll send you a template over in the morning getting 3 good new sexting sets ... I’ll get a content request over in the morning” <span class="q-meta">— Ollie Mckinlay, 2026-07-28</span></blockquote>
+    
+      <h4>Proactive comms</h4>
+      <div style="font-size:13.5px">Human outbound went to zero for ~9 days (Ollie&#39;s Aug 20 thank-you to his Aug 29 thank-you) with only Michelle&#39;s templated leak reports in between; the biweekly strategy call is now 52 days dead; no performance stat has been volunteered since Jul 12; and our first &#39;proactive&#39; human touch of the window was Mica reiterating the importance of consistent posting to a client already posting three times a day — Vale had to correct us with her own analytics before we engaged with her real problem.</div>
+      <blockquote>“just wanted to reiterate how important consistent posting is for increasing social media engagement!” <span class="q-meta">— Mica Vecco, 2026-08-31</span></blockquote>
+    
+      <h4>Onboarding</h4>
+      <div style="font-size:13.5px">Unchanged and unrepaired: onboarding was a form nobody reviewed with her (produced $250 1:1 lives and a $30 full-nude sale), and the Fred-to-Ollie handoff on Jul 10 lost the customs Drive, the request log and the pricing guide, surfacing three lost paid orders by accident (Loven 4 months, an April custom, John&#39;s $2k) — the order-reconciliation audit flagged two runs ago has still not started, so we still cannot say whether John is owed one delivery or two.</div>
+      <blockquote>“I can’t even access the folder anymore ... There’s another custom I made from April / That never got uploaded either ... Yeah that’s kinda fucked” <span class="q-meta">— Vale, 2026-07-28</span></blockquote>
+    
+      <h4>Chatter conduct</h4>
+      <div style="font-size:13.5px">Three-plus clean weeks since the Aug 11 private-live resale, but zero mechanical change behind the streak: no written account rulebook, no confirmation her private 1:1 recordings were pulled from PPV inventory, no confirmation the unauthorized girl-girl videos were purged from the vault (32 days since &#39;will let them know&#39;) — the only remedy on record for five fan-trust breaches in 26 days is still a verbal word to one PPV specialist, so recurrence risk is fully intact now that page activity is picking back up.</div>
+      <blockquote>“He payed to have a private conversation with me so why is being sold ? ... And selling the live to the guy that I had the live with” <span class="q-meta">— Vale, 2026-08-11</span></blockquote>
+    
+      <h4>Billing ops</h4>
+      <div style="font-size:13.5px">Her Aug 17 payment — sent against an account number that changed on that very invoice, the 4th banking change in 5 months — is still unacknowledged at 17 days, and we stacked the Sep 1 invoice on top without reconciling it; the pre-invoice OF-withdrawal reminder cadence (sent Aug 14 for the Aug 15 invoice, and every prior cycle) silently broke this cycle. If those funds went to the superseded account, she will find out before we do. She remains 9-for-9 on time.</div>
+      <blockquote>“Sent” <span class="q-meta">— Vale, 2026-08-17</span></blockquote>
+    
+      <h4>Quiet-client detection</h4>
+      <div style="font-size:13.5px">Her volume cratered 37 -&gt; 18 -&gt; 11 -&gt; 3 and nobody noticed; when she returned Aug 29-31 it was met with two one-line thank-yous and a deflection — no one acknowledged the gap, restored the 52-days-dead strategy call, or used the re-engagement to close a single open item; she has now gone three consecutive weeks without chasing the paid-order backlog she pursued nearly weekly from May 22 to Aug 9, and both sides are silent on it — mutual silence on money owed to fans is the loudest churn signal on the account.</div>
+      <blockquote>“John’s custom is uploaded” <span class="q-meta">— Vale, 2026-08-22</span></blockquote>
+    
+    <div class="cols">
+      <div><h4>What they want from us</h4><ul style="margin:0;padding-left:18px;font-size:13.5px"><li style="margin:4px 0">Fans to believe they are talking to the real her, with no lies she can be caught in: &#34;If I send them pictures or voice notes it feels more real like they’re talking to me&#34; (Mar 28); &#34;the lying is not good cause it fucks up the longevity of my fans / I don’t want my fans to feel scammed !!!&#34; (Aug 1)</li><li style="margin:4px 0">Private paid interactions kept private and content boundaries respected: &#34;He payed to have a private conversation with me so why is being sold ?&#34; (Aug 11); &#34;Only ones I have are with Mia sorety&#34; (Aug 2); &#34;Hi, I don’t do that kind of content&#34; (Jul 21)</li><li style="margin:4px 0">One clear running list of what she owes, and paid calls actually booked: &#34;Cans I have a list of what you guys need from me&#34; (May 22); &#34;Can you please tell me what customs I’m behind on ?&#34; (Jun 29); &#34;Pls let’s get those schedule they’ve been waiting for a minute&#34; (Jul 30)</li></ul></div>
+      <div><h4>What's working — keep doing</h4><ul style="margin:0;padding-left:18px;font-size:13.5px"><li style="margin:4px 0">Concrete, data-level engagement when she raises a problem: Mica&#39;s Aug 31 response to the reach collapse — recreate a 200k+ reel&#39;s exact structure, three trial versions with different hooks — turned Vale&#39;s frustration into an active back-and-forth where she volunteered analytics screenshots within minutes. It is the template for how every complaint on this account should be met.</li><li style="margin:4px 0">Fred&#39;s fan-prep notes before calls (&#34;Video Call Notes: ... Names Dante, lives in New Jersey&#34;, Apr 2) drew &#34;Jesus 😭😭😭 ... Thank you&#34; — she asked for exactly this again Aug 7 and never got it.</li><li style="margin:4px 0">Showing revenue impact bought instant pricing trust: &#34;Out of the 3 days we have been on, 2 of them have been your highest days in the last 3 months, with today at 2.5k&#34; (Jul 12) converted &#34;I just don’t want my stuff to be super cheap&#34; into &#34;Okay I’ll let you guys handle it then&#34; in half an hour — still the only performance stat we have ever volunteered.</li></ul></div>
+    </div>
+    <div class="fixbox"><b>The fix:</b> Same structural fix, more urgent: one named account owner running a single client-visible order ledger (every custom, call and 1:1 live with fan handle, amount, date sold, status, booked time) reviewed with her in a restored fixed weekly touchpoint, backed by a written account rulebook (pricing minimums, no B/G, girl-girl = Mia Sorety only, private lives never resold, no lie-pushes) every chatter signs. The three messages that buy the save this week cost minutes: (1) confirm John received the $2,200 custom she uploaded Aug 22, (2) confirm the Aug 17 payment landed in the right account before she pays the Sep 1 invoice into the same uncertainty, (3) close Ollie&#39;s Aug 29 &#39;Will look into this for you&#39; with an actual answer.</div>
+  </div>
+</details>
+
+<details class="client">
+  <summary>
+    <span class="nm">Amber Haze</span>
+    <span class="badge b-at_risk"><span class="dot"></span>at risk</span>
+    <svg class="spark" width="80" height="24"><polyline points="3.0,10.7 41.0,12.1 79.0,11.4 117.0,15.5" transform="scale(0.667,0.8)"/></svg>
+    <span class="fix">Give the account one named owner who sends a short weekly numbers update (IG followers/views, ad spe…</span>
+    <span class="meta">last msg 2026-09-03</span>
+  </summary>
+  <div class="cbody">
+    <p style="margin:12px 0 0">She re-engaged Aug 30 - Sep 2 with a long, constructive critique of how her two management-run IGs are being managed (third time she has benchmarked us against a friend&#39;s agency) and it sat unanswered ~29h until her &#39;@mmayson ?&#39; nudge on Sep 3, which is the last message in the chat. Core money/growth items remain open 32-94 days (Meta-rep cost 32d, phone-farm updates 33d, Wesley anniversary sends 23d past due, growth complaint 94d since Jun 2). Pays every invoice within days; the risk is churn, not collection.</p>
+    
+      <h4>Responsiveness</h4>
+      <div style="font-size:13.5px">The client&#39;s documented escalation ladder (&#39;?&#39;, &#39;??&#39;, &#39;Hello anyone going to reply?&#39;) exists because our default is silence; her Aug 2 money question was never answered (32 days) and her Sep 2 critique sat &gt;24h until she nudged again on Sep 3 - still unanswered at export.</div>
+      <blockquote>“Hello anyone going to reply?” <span class="q-meta">— Kirsten (amber Haze), 2026-07-24</span></blockquote>
+    
+      <h4>Follow-through</h4>
+      <div style="font-size:13.5px">Promises are made in crisis moments and silently lapse: Derrek&#39;s Aug 1 &#39;plenty of updates starting next week&#39; produced one uncaptioned screenshot in 33 days; Vivek&#39;s &#39;Will check&#39; (Aug 14) never returned; the Wesley anniversary sends (briefed May 16, content delivered by her twice, due Aug 11/14) have zero confirmation 23 days later.</div>
+      <blockquote>“Thank you for your understanding, we will have plenty of updates starting next week.” <span class="q-meta">— Derrek, 2026-08-01</span></blockquote>
+    
+      <h4>Proactive comms</h4>
+      <div style="font-size:13.5px">Outside Michelle&#39;s leak reports and Stephski&#39;s invoices, nearly all information flows only when she chases; on Aug 30 she had to ask for the links to her own management-run IG accounts, and her Sep 2 message revealed she&#39;d never been told they average ~150 views/post. Longest all-channel team silence: 5.1 days (Aug 25-30); Derrek sent no substantive message between Aug 1 and export end (Sep 3).</div>
+      <blockquote>“how are the instagrams doing that you guys post on? as I haven’t heard much, can you please send me the links to them? X” <span class="q-meta">— Kirsten (amber Haze), 2026-08-30</span></blockquote>
+    
+      <h4>Chatter conduct</h4>
+      <div style="font-size:13.5px">Repeated breaches of her documented boundaries: other-girl content sold from her vault (May 13/20), chatters promising fans she&#39;d &#39;show pussy&#39; (Jul 29), a snap-add script that left fan &#39;Moggy&#39; believing he&#39;d paid for a video call and harassing her with calls (Jul 13, Aug 6-7), and three dildo asks after her written Jul 14 rule; her Jul 14 brief has never demonstrably been operationalized (Ollie didn&#39;t know her vault already holds &#39;loads&#39; of titjob content, Aug 20).</div>
+      <blockquote>“I need this fully removed immediately and I need a proper explanation as to how this even happened, because this is a massive breach of trust and professionalism.” <span class="q-meta">— Kirsten (amber Haze), 2026-05-20</span></blockquote>
+    
+      <h4>Ownership</h4>
+      <div style="font-size:13.5px">Mayson operates as a human router (&#39;@joshiepooh ^^&#39;, &#39;@fonta any updates on this^&#39;, &#39;@sotom225 ^&#39;) and items die after the tag: Derrek&#39;s Aug 21 &#39;@olkmck&#39; on her counter-offers got no visible reply in 13 days, Michelle&#39;s &#39;derrek is going to reach out&#39; (Jul 24) has no follow-up on record, and on Jun 29 a login SHE flagged was first answered &#39;not us&#39; before Eric owned it 7 hours later.</div>
+      <blockquote>“@olkmck” <span class="q-meta">— Derrek, 2026-08-21</span></blockquote>
+    
+      <h4>Security</h4>
+      <div style="font-size:13.5px">Her IG password (Teigan0011$) was posted in plain chat on May 9 and again unchanged on May 20 despite Derrek&#39;s May 10 &#39;I&#39;ll change everything in a few days for you&#39; (no rotation ever confirmed); LinkMe credentials, a 2FA backup code, phone number and personal email all live in chat history; and the block-list mirroring she asked for on May 10 was still not done on Aug 30, when Mayson asked her to manually screenshot usernames.</div>
+      <blockquote>“INSTAGRAM LOGIN:
+Amber_hazee
+Teigan0011$” <span class="q-meta">— Kirsten (amber Haze), 2026-05-09</span></blockquote>
+    
+    <div class="cols">
+      <div><h4>What they want from us</h4><ul style="margin:0;padding-left:18px;font-size:13.5px"><li style="margin:4px 0">Real, visible growth and proof the promised marketing exists: &#39;I just need to see things actually being done and see some real growth. For this amount of time, hearing that it&#39;s because of flagging issues and Instagram problems just isn&#39;t good enough.&#39; (Jun 4)</li><li style="margin:4px 0">Proactive updates instead of chasing: &#39;I was also told at the beginning that I would be shown and given monthly updates on exactly what had been posted... and how everything was performing.&#39; (Jun 4); numbers, not reassurance (&#39;Campaign ?&#39; Aug 22)</li><li style="margin:4px 0">Whale protection and honesty within her written boundaries: &#39;please don&#39;t loose my high spenders keeps them happy and understand my boundaries&#39; (Jul 14 brief); &#39;please tell the chatters not to lie to my spenders&#39; (Jul 29)</li></ul></div>
+      <div><h4>What's working — keep doing</h4><ul style="margin:0;padding-left:18px;font-size:13.5px"><li style="margin:4px 0">Fast, warm billing recovery: every invoice error she flagged was corrected same-day and she has paid 8 straight cycles - &#39;Omg ignore me sorry I am such an idiot... I understand now let me try send now&#39; (May 18) shows the patience Stephski&#39;s tone buys us.</li><li style="margin:4px 0">Derrek&#39;s personal, detailed ownership of the May 20 vault-breach crisis: &#39;Thanks for explaining everything and I appreciate the apology... it&#39;s good to hear&#39; (May 20) - direct, non-defensive owner engagement de-escalated the worst incident on the account.</li><li style="margin:4px 0">Vivek clearing the IG posting restriction: &#39;I started already thank you! Any issues I&#39;ll message you 😊&#39; (Aug 19), and Michelle&#39;s unbroken weekly leak-removal reports (&#39;Thank you 🙏🏼&#39;, Jun 26) - the only recurring proactive deliverables, and she values both.</li></ul></div>
+    </div>
+    <div class="fixbox"><b>The fix:</b> Give the account one named owner who sends a short weekly numbers update (IG followers/views, ad spend and results, phone-farm status, open items with dates) and closes the loop on every promise in-thread. Every major escalation she has written (Jun 4, Sep 2) is the same sentence - she cannot see what we are doing - and she is currently drafting our growth plan for us for free while her Sep 2 message sits unanswered.</div>
+  </div>
+</details>
+
+<details class="client">
+  <summary>
+    <span class="nm">Liza Kovalenko</span>
+    <span class="badge b-at_risk"><span class="dot"></span>at risk</span>
+    <svg class="spark" width="80" height="24"><polyline points="3.0,8.3 41.0,10.2 79.0,11.2 117.0,13.3" transform="scale(0.667,0.8)"/></svg>
+    <span class="fix">Institute a 24-hour written payment-confirmation SOP on this account (amount received, sender name, …</span>
+    <span class="meta">last msg 2026-09-02</span>
+  </summary>
+  <div class="cbody">
+    <p style="margin:12px 0 0">Still paying (in fact overpaid ~$2,500 last cycle) and still responsive, but the relationship now runs almost entirely on billing traffic; the Aug wire dispute closed with money found but zero apology or written reconciliation, her ALTR-run backup IGs were deleted and she found out by asking, and the owner has been silent 30 days.</p>
+    
+      <h4>Responsiveness</h4>
+      <div style="font-size:13.5px">Multi-day lags on the account&#39;s most sensitive topic (money): 6 days of silence after she sent payment proof on 08-19, ~96h before anyone replied to &#39;out of all wires you only got 5k?&#39;, and her 08-31 &#39;Which dms ?&#39; to Vivek about her deleted IG accounts was never answered at all.</div>
+      <blockquote>“So out of all wires you only got 5k?” <span class="q-meta">— Eli (client), 2026-08-26</span></blockquote>
+    
+      <h4>Follow-through</h4>
+      <div style="font-size:13.5px">The promise stack keeps growing and none of it closed this window: Derrek&#39;s paid-ads summary (289 days), Phone Farm &#39;plenty of updates starting next week&#39; (promised 08-01, never delivered — instead the backup accounts got deleted), monthly call never scheduled (45 days), Ronnie&#39;s OF tag-flag investigation never happened (25 days).</div>
+      <blockquote>“ill get you full summary” <span class="q-meta">— Derrek (paid ads stats she paid an extra 5% for; still undelivered), 2025-11-18</span></blockquote>
+    
+      <h4>Proactive comms</h4>
+      <div style="font-size:13.5px">She learned her ALTR-run Instagram backups were DELETED only because she asked mid-conversation about a content upload; the $40k Phone Farm has had zero updates in 33 days; the only non-billing outbound this window (Mayson&#39;s content drive, Mica&#39;s posting reminder) asked things OF her rather than reporting TO her.</div>
+      <blockquote>“All Instagram I gave you guys got deleted. Any news with recovery’s?” <span class="q-meta">— Eli (client — first mention of the deletions came from her), 2026-08-30</span></blockquote>
+    
+      <h4>Platform health</h4>
+      <div style="font-size:13.5px">Her #1 stated concern for ~11 months ended this window in the worst possible state: the backup IG accounts ALTR ran were deleted, the Meta rep (Vivek, added 07-29) posted his first-ever message 32 days later only when pinged, and recovery status at window close is &#39;Check dms&#39; with no confirmation anything was recovered; the OF tag-a-creator flag remains undiagnosed since 2026-01-26.</div>
+      <blockquote>“All Instagram I gave you guys got deleted. Any news with recovery’s?” <span class="q-meta">— Eli (client), 2026-08-30</span></blockquote>
+    
+      <h4>Billing ops</h4>
+      <div style="font-size:13.5px">Fourth consecutive discrepancy cycle closed without a written reconciliation: &#39;Okay perf recieved&#39; was the entire resolution of the bounced-wire crisis, the ~$2,499.59 overpayment surfaced only because SHE asked what was deducted, and the next invoice went out with new &#39;avoid any pausing of work&#39; pressure language to a client who had just overpaid — the bounce itself was caused by ALTR&#39;s 08-15 account-number change.</div>
+      <blockquote>“Please check your account cause wires bounced back we did them from banking online they all bounce back and we had to resend them” <span class="q-meta">— Eli (client), 2026-08-26</span></blockquote>
+    
+      <h4>Security</h4>
+      <div style="font-size:13.5px">Vivek asked for credentials IN THE GROUP CHAT and the client posted plaintext passwords for three Instagram accounts; nobody moved her to a secure channel, deleted the message, or rotated the passwords afterwards — in a chat that also contains bank details and a crypto address, and where her 2026-03-18 &#39;was it someone from the team that logged in?&#39; went unanswered.</div>
+      <blockquote>“Hey Ma’am please send me id password” <span class="q-meta">— Vivek (in the group chat, not a secure channel), 2026-08-30</span></blockquote>
+    
+    <div class="cols">
+      <div><h4>What they want from us</h4><ul style="margin:0;padding-left:18px;font-size:13.5px"><li style="margin:4px 0">Written confirmation her money arrived, every cycle: &#39;Pls confirm if you guys received those too thank you&#39; (2026-08-25); &#39;Can you please confirm you received them&#39; (2026-04-03)</li><li style="margin:4px 0">Her Instagram accounts kept safe and recovered when lost — her top concern since 2025-10: &#39;All Instagram I gave you guys got deleted. Any news with recovery’s?&#39; (2026-08-30)</li><li style="margin:4px 0">Definitive answers about platform warnings, not workarounds: &#39;Ok. Is it going to affect my account ?&#39; (2026-01-28)</li></ul></div>
+      <div><h4>What's working — keep doing</h4><ul style="margin:0;padding-left:18px;font-size:13.5px"><li style="margin:4px 0">Named, visible DMCA output: &#39;Amazing thank you Nick great job 👏&#39; (2025-12-11) — the FB impersonator takedown with a 2-day update loop (report → ETA → &#39;accounts are now down&#39;) is the single best-executed loop on the record</li><li style="margin:4px 0">Sophie/Raw&#39;s calls, reports and 14-day game plans: &#39;Was a pleasure you so nice!! ❤️ thank you for sending this over too xx&#39; (2025-09-18)</li><li style="margin:4px 0">Consistent early-era reel inspo + cheerleading: &#39;wanted to thank a team for an amazing job let’s continue crushing it 👏🏼👏🏼👏🏼&#39; (2026-01-01)</li></ul></div>
+    </div>
+    <div class="fixbox"><b>The fix:</b> Institute a 24-hour written payment-confirmation SOP on this account (amount received, sender name, remaining balance, in the chat, every cycle) and freeze banking-detail changes — four consecutive cycles of discrepancies, a bounce caused by ALTR&#39;s own mid-cycle account change, and an overpayment she had to discover herself all trace to the absence of this one habit. Close second: the owner breaking his 30-day silence with the promised Phone Farm/recovery update.</div>
+  </div>
+</details>
+
+<details class="client">
+  <summary>
+    <span class="nm">Mila</span>
+    <span class="badge b-at_risk"><span class="dot"></span>at risk</span>
+    <svg class="spark" width="80" height="24"><polyline points="3.0,7.3 41.0,9.2 79.0,11.2 117.0,14.0" transform="scale(0.667,0.8)"/></svg>
+    <span class="fix">Unchanged from 8/28 and now overdue: close the money and platform loops in writing within 24 hours —…</span>
+    <span class="meta">last msg 2026-09-01</span>
+  </summary>
+  <div class="cbody">
+    <p style="margin:12px 0 0">Her 14-day silence after delivering 48 videos broke on 8/31 only because a templated blast happened to land, and her reply revealed the core open wound — she is still &#39;wait[ing] to get my bigger account back&#39; 70 days after we told her not to appeal her suspension — while the post links, wire confirmations, and any word on what her 48 videos achieved all remain owed.</p>
+    
+      <h4>Responsiveness</h4>
+      <div style="font-size:13.5px">Her day-3 question — what happens now that her account is suspended — has never been answered in 72 days; her 8/8 request to check for a duplicate wire was never answered; and when she volunteered on 8/31 that she&#39;s still waiting for her main account back, the entire response was &#39;amazing! 🤍&#39;.</div>
+      <blockquote>“Hey guys my accounts been suspended again, I haven’t clicked appeal this time as you said not to, so what happens now x” <span class="q-meta">— Callie (Mila), 2026-06-23</span></blockquote>
+    
+      <h4>Follow-through</h4>
+      <div style="font-size:13.5px">&#39;Will do babes&#39; on sending her the IG post links (7/8) is now 8 weeks unkept; &#39;Will update you shortly!&#39; on the fraud-flagged wire (8/11) never came; the phone-farm &#39;plenty of updates starting next week&#39; (8/1) never came; and the 48 videos she uploaded on our request have produced no visible usage report or thanks beyond the night-of emoji.</div>
+      <blockquote>“Amazinggg, if you could send me links when you do just so I can be in the loop🫶🏼” <span class="q-meta">— Callie (Mila), 2026-07-08</span></blockquote>
+    
+      <h4>Proactive comms</h4>
+      <div style="font-size:13.5px">From 8/17 to 8/31 the only ALTR message in the chat was a bare, unexplained &#39;crystalmila.vip&#39;; our steady-state contact is invoices plus templated reel inspo, and in 10 weeks we have never volunteered a performance number, post link, or status update — she pulls everything (&#39;what&#39;s the plan for promos&#39;, &#39;Has it been received ??&#39;).</div>
+      <blockquote>“crystalmila.vip” <span class="q-meta">— Mayson Chat, 2026-08-23</span></blockquote>
+    
+      <h4>Platform health</h4>
+      <div style="font-size:13.5px">Her main Instagram has been suspended since at least 6/23 on our &#39;don&#39;t appeal&#39; advice, the follow-up question was never answered, Vivek was added 7/29 and never applied to her case, and 8/31 confirmed she is still on a backup account with no plan, owner, or ETA ever communicated.</div>
+      <blockquote>“Hey guys my accounts been suspended again, I haven’t clicked appeal this time as you said not to, so what happens now x” <span class="q-meta">— Callie (Mila), 2026-06-23</span></blockquote>
+    
+      <h4>Billing ops</h4>
+      <div style="font-size:13.5px">Every cycle has friction we never smooth: the GBP conversion took a week and a bank-details paste in-chat, the fraud-flagged wire&#39;s &#39;will update you shortly&#39; was never closed, her duplicate-payment check was ignored, and the receiving account number changed 8/15 with no out-of-band verification for a client wiring internationally.</div>
+      <blockquote>“please let me know when you’ve received it and if you could just double check it doesn’t come through twice🙄 thank you! Xx” <span class="q-meta">— Callie (Mila), 2026-08-08</span></blockquote>
+    
+      <h4>Quiet-client detection</h4>
+      <div style="font-size:13.5px">Fourteen days of client silence immediately after her biggest delivery (48 videos) drew zero personal outreach — the silence broke by templated accident, and when her reply exposed the 70-day-old main-account wound, nobody picked it up; the pattern that preceded the 8/28 at_risk call is fully intact.</div>
+      <blockquote>“Have uploaded 48 vids to the drive 🤍” <span class="q-meta">— Callie (Mila), 2026-08-17</span></blockquote>
+    
+    <div class="cols">
+      <div><h4>What they want from us</h4><ul style="margin:0;padding-left:18px;font-size:13.5px"><li style="margin:4px 0">To be kept in the loop on promo — &#39;if you could send me links when you do just so I can be in the loop🫶🏼&#39; (7/8)</li><li style="margin:4px 0">Her main Instagram back — &#39;so what happens now x&#39; (6/23) and still &#39;wait[ing] to get my bigger account back&#39; (8/31)</li><li style="margin:4px 0">Payment certainty — &#39;please let me know when you’ve received it and if you could just double check it doesn’t come through twice&#39; (8/8)</li></ul></div>
+      <div><h4>What's working — keep doing</h4><ul style="margin:0;padding-left:18px;font-size:13.5px"><li style="margin:4px 0">The 6/29 kickoff call — held on time, the only one across these five accounts — set an early warm tone (&#39;Amaze… I’ll be ready in 2 mins xx&#39;)</li><li style="margin:4px 0">Michelle&#39;s warm content loop kept her producing — culminating in 48 videos uploaded on request (&#39;yay! you’re the best!&#39;)</li><li style="margin:4px 0">Stephski hunting down the mis-matched wire on 7/13 (&#39;found your name in the system, we&#39;re all good here!&#39;) visibly defused her payment anxiety</li></ul></div>
+    </div>
+    <div class="fixbox"><b>The fix:</b> Unchanged from 8/28 and now overdue: close the money and platform loops in writing within 24 hours — starting with a real answer on her main Instagram (assign Vivek, state a plan and ETA) and a report on what her 48 videos have actually been used for, because the 8/31 exchange proves she will keep smiling right up until the day she doesn&#39;t.</div>
+  </div>
+</details>
+
+<details class="client">
+  <summary>
+    <span class="nm">Alex Paige Moore</span>
+    <span class="badge b-at_risk"><span class="dot"></span>at risk</span>
+    <svg class="spark" width="80" height="24"><polyline points="3.0,13.1 41.0,11.6 79.0,17.2 117.0,14.5" transform="scale(0.667,0.8)"/></svg>
+    <span class="fix">Give the account a single named owner with a same-day human-response rule: that one change would hav…</span>
+    <span class="meta">last msg 2026-09-02</span>
+  </summary>
+  <div class="cbody">
+    <p style="margin:12px 0 0">Still transacting (paid Aug 26, recorded a fan voice-note Sep 2 while recovering) but 8 days after disclosing surgery not one person has acknowledged it; instead we sent her content demands. She has form for quiet exits (&#39;I did tell the owner I was leaving and gave notice&#39;, 2025-09-24).</p>
+    
+      <h4>Follow-through</h4>
+      <div style="font-size:13.5px">Signature promises silently lapsed: management IG reels posting promised Oct 2025 and re-promised Jul 28 / Aug 12 2026 with zero proof of a post by Sep 3; referral money &#39;Sending&#39; Aug 13 never receipted; sales groupchat &#39;in the next few hours&#39; (Aug 12) and &#39;plenty of updates starting next week&#39; (Aug 1) never delivered.</div>
+      <blockquote>“Hey no videos have been uploaded to my reel page in ages ... Nothing since last year” <span class="q-meta">— Alex Paige, 2026-07-28</span></blockquote>
+    
+      <h4>Proactive comms</h4>
+      <div style="font-size:13.5px">Performance reporting died after the week-1 report (Sep 23 2025); since then outbound is invoices, content asks, templated reel-inspo and leak reports. Longest all-team silence 8.7 days (Aug 1-10 2026); she asked &#39;how do I lift earnings&#39; 5+ times and never received an unprompted stat or plan.</div>
+      <blockquote>“Congrats on an incredible first week with us 🥳 Your account is already up 27.4%...” <span class="q-meta">— Sophie Logan (Raw Agency), 2025-09-23</span></blockquote>
+    
+      <h4>Chatter conduct</h4>
+      <div style="font-size:13.5px">Chatters promised in-person meetups to local whales, reversed her explicit instruction within a day, offered calls to a fan threatening suicide, and posted explicit content to her wall against her stated boundaries — repeatedly requiring her to police the snares herself.</div>
+      <blockquote>“The chatters have just gone back on everything and told him I’ll see him soon and I didn’t mean what I said about never seeing him | What the fuck” <span class="q-meta">— Alex Paige, 2026-06-18</span></blockquote>
+    
+      <h4>Billing ops</h4>
+      <div style="font-size:13.5px">Four banking changes in 11 months, a surprise 5% credit-card surcharge added mid-relationship, ALTR&#39;s own PayPal hold blocking money owed TO her (settled twice by shrinking her invoices with no ledger), and an unreconciled $1,989 dispute left open since Jul 27 — net position still unstatable.</div>
+      <blockquote>“we have a new bank for you to send to (last change I promise!)” <span class="q-meta">— Stephski, 2026-07-01</span></blockquote>
+    
+      <h4>Quiet-client detection</h4>
+      <div style="font-size:13.5px">Nobody noticed her 12d19h silence (Aug 13-26); the surgery surfaced only because she volunteered it while paying an invoice, and through Sep 3 — 8 days later — no one has acknowledged it as a human event; instead we sent a &#39;7 reels a week&#39; demand (Aug 30) and a fan voice-note request (Sep 2).</div>
+      <blockquote>“Hey I’ve just had surgery so probably not for a few weeks unfortunately” <span class="q-meta">— Alex Paige, 2026-08-26</span></blockquote>
+    
+    <div class="cols">
+      <div><h4>What they want from us</h4><ul style="margin:0;padding-left:18px;font-size:13.5px"><li style="margin:4px 0">A plan to lift OF earnings — asked 5+ times over 8 months, never answered substantively: &#39;Hey guys money is looking crazy low… what can I do to increase this&#39; (2026-05-26)</li><li style="margin:4px 0">The management-run IG reels/promo machine actually running: &#39;How’s the management social media accounts for me going? Xx&#39; (2025-10-26) … &#39;Nothing since last year&#39; (2026-07-28)</li><li style="margin:4px 0">Hard boundaries enforced by chatters — no meetups, no explicit wall posts: &#39;I don’t want people to think I’m ever ever meeting them&#39; (2026-05-15)</li></ul></div>
+      <div><h4>What's working — keep doing</h4><ul style="margin:0;padding-left:18px;font-size:13.5px"><li style="margin:4px 0">Data-rich week-1 report and warm onboarding — &#39;Wohooo thannk you so much!&#39; (2025-09-23); keep concrete stats coming, they visibly landed</li><li style="margin:4px 0">Fast concrete actions on request — free-page switch done within hours: &#39;Wohoo thankyou so much!!! X | You’re the best&#39; (2026-05-22)</li><li style="margin:4px 0">The weekly leak-removal report — the only unbroken proactive cadence on the account (on time again Sep 1), quietly building trust</li></ul></div>
+    </div>
+    <div class="fixbox"><b>The fix:</b> Give the account a single named owner with a same-day human-response rule: that one change would have produced a surgery acknowledgment on Aug 26 (instead of 8 days of content demands), outreach during the 12-day silence, a written earnings plan after her first &#39;money is low&#39;, and a receipt for the referral money — the four wounds most likely to churn her.</div>
+  </div>
+</details>
+
+<details class="client">
+  <summary>
+    <span class="nm">Lauren Blake</span>
+    <span class="badge b-at_risk"><span class="dot"></span>at risk</span>
+    <svg class="spark" width="80" height="24"><polyline points="3.0,10.7 41.0,14.5 79.0,11.6 117.0,13.8" transform="scale(0.667,0.8)"/></svg>
+    <span class="fix">Fix and verify the payment rail before touching invoice 3: get the receiving account&#39;s registered be…</span>
+    <span class="meta">last msg 2026-09-02</span>
+  </summary>
+  <div class="cbody">
+    <p style="margin:12px 0 0">Her behaviour is still exemplary - while travelling she called Chase herself, diagnosed OUR broken payment rail (beneficiary name mismatch plus a fraud/scam flag on ALTR&#39;s receiving account), invented the 3-day Zelle-split workaround, and settled invoice 2 in full by Sep 2 - but the risk is entirely ours: six chases preceded her diagnosis, nobody has explained the fraud flag or fixed the wire details, invoice 3 (issued Sep 1, 3 days late, period silently extended to Aug 15-31) carries the 5% ads fee for a THIRD time with no Meta report ever produced, and eight of our own promises are still open. Ollie has sent one substantive message per week for two straight weeks, and Derrek went silent again the moment the money question stopped being a chase.</p>
+    
+      <h4>Follow-through</h4>
+      <div style="font-size:13.5px">Eleven of our twenty-three commitments never closed, and the stack aged another week untouched: phone-farm updates (Derrek, 33d), written chatter-boundary confirmation (Ollie, 32d), Meta ad-stats call (Derrek, 31d - the 5% fee has now ridden THREE invoices), whale-reactivation report (Ollie, 27d), corrected/verified banking details (Stephski, 19d - now proven to be the wire root cause), CodyBeebs proof screenshot (Ollie, 16d), livestream re-booking (13d), OnlyFans-stories confirmation (Michelle, 12d). Ollie&#39;s only appearance since Aug 22 was a new monetization ask, not a closure.</div>
+      <blockquote>“Thank you for your understanding, we will have plenty of updates starting next week.” <span class="q-meta">— Derrek (zero phone-farm updates posted in the 33 days since), 2026-08-01</span></blockquote>
+    
+      <h4>Chatter conduct</h4>
+      <div style="font-size:13.5px">Chatters were put on her page with no brief on her limits: they offered porn/sex-tape/anal she does not produce, priced topless at $500 against her $8k diamond floor, sold a topless-JOI-with-face custom AFTER she banned it, and blocked a $27k whale without telling her. Her boundaries - stated three times - have STILL never been confirmed back in writing, and the sell-first-tell-later pattern continued this window: an $800 follow on her personal Instagram was sold before anyone asked her.</div>
+      <blockquote>“Also I’d like this changed. I don’t have actual porn, sex tapes or anything anal. This message it outside of my comfort zone” <span class="q-meta">— Lauren Blake (Ollie: &#39;Will get this sorted&#39; - never confirmed in writing, then breached; 32 days as of Sep 3), 2026-08-01</span></blockquote>
+    
+      <h4>Billing ops</h4>
+      <div style="font-size:13.5px">The wire failure is now confirmed as OUR fault and still unfixed: Chase told her on Aug 31 that the beneficiary name &#39;ALTR mgmt LLC&#39; does not match the account and that ALTR&#39;s receiving account is flagged for fraud/scam - after we changed the account number on Aug 15, never re-verified it, and sent SIX chases (Aug 21, 25, 26, 27, 30, 31). She then designed her own workaround (three Zelle payments over three days, completed Sep 2). Invoice 3 went out Sep 1 - three days late, period silently extended to Aug 15-31 - with &#39;all payment information at the bottom&#39;, no acknowledgment of the mismatch or the flag, and the 5% ads fee unbacked for the third consecutive invoice.</div>
+      <blockquote>“They said that the name ALTR mgmt LLC is not matching the name on the account even though the numbers are” <span class="q-meta">— Lauren Blake (root cause found by the CLIENT, 16 days after the Aug 15 account-number change and after two rejected wires and six chases), 2026-08-31</span></blockquote>
+    
+      <h4>Ownership</h4>
+      <div style="font-size:13.5px">Nobody owns this account end-to-end and nobody owned the wire investigation - Derrek&#39;s guidance was &#39;you gotta just call to verify it&#39; and the client then did the vendor-side diagnostics herself. Mayson has acted as a human pager four times because the chat lead is not watching the group; Ollie has sent one substantive message per week for two straight weeks while owning five open items; the fraud-flag revelation landed with no named owner responding.</div>
+      <blockquote>“normally if it says that you gotta just call to verify it / happens to me with chase often” <span class="q-meta">— Derrek (the entirety of our wire-failure troubleshooting - pushed onto the client, who then found OUR name mismatch and fraud flag), 2026-08-27</span></blockquote>
+    
+    <div class="cols">
+      <div><h4>What they want from us</h4><ul style="margin:0;padding-left:18px;font-size:13.5px"><li style="margin:4px 0">Traffic growth she can see, on the service she signed up for: &#39;My ultimate goal is to get traffic picked up. Please let me know what you need from me to get started and getting momentum&#39; (Jul 6) and &#39;I&#39;ve signed up for paid ads so I would love to get those launched too&#39; (Jul 6). On day 43 the answer was still &#39;right now it&#39;s regular reels, ads will be ran as well&#39;.</li><li style="margin:4px 0">Her content boundaries and price floors respected without repeating herself: &#39;When I do topless, it&#39;s no face, no sound. I don&#39;t do it any other way&#39; and &#39;$500 is wayyy too low for topless. I was only going that for diamond tiers who paid 8k&#39; (Aug 1); restated Aug 14 and Aug 18, still unconfirmed in writing.</li><li style="margin:4px 0">Financial transparency for what she is billed: &#39;I&#39;d like to see the ad reports of the 5% being spent on meta&#39; (Aug 3) and &#39;Also, do we account for the 6k in chargebacks?&#39; (Aug 3). The chargeback answer took 12 minutes and satisfied her; the ad report has never come and the fee has now been billed three times. Payment details that actually work belong here too - she personally proved ours don&#39;t.</li></ul></div>
+      <div><h4>What's working — keep doing</h4><ul style="margin:0;padding-left:18px;font-size:13.5px"><li style="margin:4px 0">Named fan, named number, specific ask: Ollie flagged Joe at $6.3k in a day; she delivered pics and video in 40 minutes while driving, and celebrated &#39;Bravo team!! That&#39;s what we love to see!!&#39; / &#39;Run it up fam&#39; (Aug 18). Same pattern worked again Aug 30-31: asked to follow a $13k spender, she did it within the weekend and added &#39;Liked a few pics too&#39;. Concrete, evidenced asks get instant enthusiastic compliance.</li><li style="margin:4px 0">Michelle&#39;s weekly DMCA/leak-removal report - promised Jul 14, delivered Jul 17 and every week since including Aug 25 and Sep 1, never once chased. Still the only service line that has never needed a reminder; her first &#39;I&#39;m super happy with how my page is being ran&#39; (Jul 17) came right after the first report.</li><li style="margin:4px 0">Fast, warm money-ops touches land well: Stephski&#39;s 12-minute chargeback explanation with screenshot got &#39;Awesome thanks sis&#39; (Aug 3), and the Aug 31 &#39;Sorry that&#39;s happening :( I know it&#39;s frustrating and we appreciate you&#39; plus same-day &#39;Recieved!&#39; confirmations (Sep 1) kept the tone cooperative even at the bottom of the wire mess. Empathy works on her - it just cannot keep substituting for fixes.</li></ul></div>
+    </div>
+    <div class="fixbox"><b>The fix:</b> Fix and verify the payment rail before touching invoice 3: get the receiving account&#39;s registered beneficiary name and the Chase fraud/scam flag resolved, explain both to her proactively in one standalone message, and attach the Meta ad-spend report that has now ridden three invoices - no more chases (six on invoice 2 for a failure that was ours). Structurally, give the account one named owner running a written promise ledger so commitments (boundary confirmation, whale report, CodyBeebs proof, phone-farm updates, livestream re-booking) get closed in writing without her asking - this client does our follow-through for us and will eventually price that in.</div>
+  </div>
+</details>
+
+<details class="client">
+  <summary>
+    <span class="nm">Shayna</span>
+    <span class="badge b-at_risk"><span class="dot"></span>at risk</span>
+    <svg class="spark" width="80" height="24"><polyline points="3.0,13.1 41.0,16.0 79.0,16.9 117.0,17.4" transform="scale(0.667,0.8)"/></svg>
+    <span class="fix">Make her rules and our promises mechanically binding: every rule she states gets written into the ch…</span>
+    <span class="meta">last msg 2026-09-03</span>
+  </summary>
+  <div class="cbody">
+    <p style="margin:12px 0 0">Still warm and engaged (messaging through 9/3) and pays every invoice, but health fell 4 straight weeks (58-&gt;46-&gt;42-&gt;40), the only QC on the account is her own OF inbox, and her post-Africa audit (9/1) surfaced a $4,700 private live sold AFTER her 7/27 ban - Fred admitted 9/3 the internal notes still said she does 1:1s. Every recurring breach traces to us not writing her rules down.</p>
+    
+      <h4>Responsiveness</h4>
+      <div style="font-size:13.5px">Fred answers sales asks in minutes but client problems in days or never; she had to ask Mayson to get the chat answered at all, and her Aug 7 custom question is still unanswered 27 days later.</div>
+      <blockquote>“Can someone answer in the chat all my messages are just left on seen 🥲” <span class="q-meta">— Shayna Holt, 2026-08-11</span></blockquote>
+    
+      <h4>Follow-through</h4>
+      <div style="font-size:13.5px">Promises silently lapse: vault-notes rule (8/6) never confirmed, PG media folder (8/5) never built, time-waster filter (7/28) never confirmed, replacement chatter (8/11) never named, and the customs tracker she asked for 7/20 was finally created 39 days later - by her.</div>
+      <blockquote>“Relaying to the team - will add this to the vault notes as well!” <span class="q-meta">— fred SPITFIRE (never confirmed done; free-content breaches recurred 8/9), 2026-08-06</span></blockquote>
+    
+      <h4>Chatter conduct</h4>
+      <div style="font-size:13.5px">Her three hard rules (no vagina promises, nothing explicit free on a free page, no private lives) were each breached repeatedly for months; the 9/1 audit revealed a $4,700 private live sold after her 7/27 ban, and Fred admitted 9/3 the internal notes never recorded the ban.</div>
+      <blockquote>“Why are people paying and are promised they’ll see pussy? I don’t want charge backs or upset fans” <span class="q-meta">— Shayna Holt (same issue first raised 4/15), 2026-08-11</span></blockquote>
+    
+      <h4>Billing ops</h4>
+      <div style="font-size:13.5px">Three bank changes in three months; her 8/18 Zelle-cap question was never answered so the Aug invoice went 4 days late; her 8/26 payment has NEVER been receipt-confirmed, yet the 9/1 invoice arrived with a threat to pause work - the exact confirmation gap she halted payment over on 7/5.</div>
+      <blockquote>“Will send right now, if it’s a new Zelle I may only be able to do 1000 at a time. Let me check” <span class="q-meta">— Shayna Holt (implicit question; no reply for 8 days), 2026-08-18</span></blockquote>
+    
+    <div class="cols">
+      <div><h4>What they want from us</h4><ul style="margin:0;padding-left:18px;font-size:13.5px"><li style="margin:4px 0">Hard content boundaries enforced: &#34;A big thing on my page is I never agree to show pussy. ... please be mindful to never promise people that&#34; (4/15) and &#34;My page is free. I have so many freeloaders. Absolutely everything is paid for always&#34; (7/27)</li><li style="margin:4px 0">Every custom approved and tracked so fans never surprise her: &#34;Yeah this guy has a custom waiting, i need to be informed of this stuff please. If I didn’t look through my messages i wouldn’t have known&#34; (6/23)</li><li style="margin:4px 0">To be heard without repeating herself: &#34;I really wanna make sure the things that I’m saying are being heard please&#34; (7/28) and &#34;Can someone answer in the chat all my messages are just left on seen&#34; (8/11)</li></ul></div>
+      <div><h4>What's working — keep doing</h4><ul style="margin:0;padding-left:18px;font-size:13.5px"><li style="margin:4px 0">Michelle&#39;s weekly leak-removal reports - 9 consecutive on-time weeks, repeatedly praised: &#34;Thank you for being so on top of this&#34; (5/21), &#34;Wow thank you!&#34; (6/26), &#34;Hi amazing thank you!&#34; (8/18)</li><li style="margin:4px 0">Stephski&#39;s fast payment confirmations when they happen: her 7/5 &#34;please just confirm that you have received those&#34; got &#34;Yes received!&#34; in 90 minutes and she immediately sent the rest - proof that confirmation speed directly unlocks payment</li><li style="margin:4px 0">Mayson&#39;s minutes-fast responsiveness and proactive check-in calls (6/6, 7/13, 8/28) - he is the only ALTR person who reliably answers her same-hour, and she keeps engaging with him</li></ul></div>
+    </div>
+    <div class="fixbox"><b>The fix:</b> Make her rules and our promises mechanically binding: every rule she states gets written into the chatter-facing internal notes/vault within 24h with confirmation posted back in the chat, and every commitment gets a dated owner on the Notion board she built. Fred&#39;s 9/3 admission - internal notes still said she does 1:1 lives five weeks after she banned them, while a fan paid $4,700 for one - shows verbal &#39;I&#39;ll speak to the team&#39; is the root cause of every recurring breach on this account.</div>
+  </div>
+</details>
+
+<details class="client">
+  <summary>
+    <span class="nm">Lilia</span>
+    <span class="badge b-at_risk"><span class="dot"></span>at risk</span>
+    <svg class="spark" width="80" height="24"><polyline points="3.0,10.7 41.0,12.1 79.0,9.7 117.0,13.1" transform="scale(0.667,0.8)"/></svg>
+    <span class="fix">Make whale-handling mechanical instead of promised: a CRM-enforced purchase-history check plus her $…</span>
+    <span class="meta">last msg 2026-09-03</span>
+  </summary>
+  <div class="cbody">
+    <p style="margin:12px 0 0">Highly engaged and pays flawlessly, but on 2026-08-29 she explicitly said &#39;I&#39;ve lost my high spender because of communication and this&#39; after an unbriefed chargeback cost ~$300; the whale-mishandling complaint is now ~9 occurrences over 83 days and she is still doing ALTR&#39;s QA herself (Sep 3 chase unanswered at export end). Teddi&#39;s return and Fred&#39;s Sep 2 pause-and-verify are the counterweight.</p>
+    
+      <h4>Follow-through</h4>
+      <div style="font-size:13.5px">Promises are made in minutes and never closed: the Jul 24 promise to remove/name the offending chatter is 41 days old and the failure recurred Aug 23 and again Sep 3; the Aug 23 and Aug 29-30 &#39;I&#39;ll look into it&#39; incidents got zero report-backs; the Aug 11 $100/min shower custom and the Jun 9 VIP push have never been mentioned again by anyone.</div>
+      <blockquote>“it&#39;s the same chatter who&#39;s letting the side down so I will take them off your account!” <span class="q-meta">— fred SPITFIRE (chatter never named, resell recurred Aug 14, Aug 23, and chased again Sep 3), 2026-07-24</span></blockquote>
+    
+      <h4>Chatter conduct</h4>
+      <div style="font-size:13.5px">The defining failure of this account: chatters resold owned content to named whales ~9 times (latest chase Sep 3), fire-sold full-explicit videos at $12-20 against her $200 floor within hours of Fred&#39;s &#39;content value high&#39; assurance, pushed a $750 custom to a fan without her acceptance (Aug 31), were rude to Teddi, and once invented a husband to a fan.</div>
+      <blockquote>“Hey let the chatter know not to sell a 2 min video that shows everything and pictures for 12 dollars” <span class="q-meta">— Lilia (same day, 23:54: &#39;They keep sending 4 min videos for 20 dollars&#39;), 2026-08-28</span></blockquote>
+    
+      <h4>Platform health</h4>
+      <div style="font-size:13.5px">TikTok shadowban raised Aug 18, confirmed by the client herself Aug 22, Vivek asked for a login code Aug 24 and has not posted since - 16 days, channel dead, zero updates in the Aug 26-Sep 3 window; her Aug 24 Facebook screenshots are still unread; Derrek&#39;s Aug 1 promise of weekly phone-farm updates has produced nothing in 33 days.</div>
+      <blockquote>“I’m definitely shadowbanned on TikTok so I can’t really post anything” <span class="q-meta">— Lilia (client did ALTR&#39;s diagnosis), 2026-08-22</span></blockquote>
+    
+    <div class="cols">
+      <div><h4>What they want from us</h4><ul style="margin:0;padding-left:18px;font-size:13.5px"><li style="margin:4px 0">Whale protection above all - new content only, from the high-spender folder she files herself: &#39;Please sell the new red set idk why they are selling him old content&#39; (Aug 23); &#39;Can u please remind chatters no old content for teddi&#39; (Sep 3)</li><li style="margin:4px 0">Price discipline - $200 floor, no firesales: &#39;please don&#39;t have the chatters sell that for 10 dollars or we will be missing out on money&#39; (Aug 28); &#39;No negotiationing prives&#39; (Aug 28)</li><li style="margin:4px 0">To be consulted before anything is sold in her name: &#39;Every custom needs to go through me first if I will do it or not&#39; (Aug 31); &#39;communicate with me if he asks anything or proof&#39; (Aug 30)</li></ul></div>
+      <div><h4>What's working — keep doing</h4><ul style="margin:0;padding-left:18px;font-size:13.5px"><li style="margin:4px 0">Michelle&#39;s weekly DMCA leak-removal breakdown, unbroken since Jun 25 - &#39;U guys are seriously the best!&#39; (Jul 1), &#39;Thank u!!!&#39; (Sep 1)</li><li style="margin:4px 0">Fred&#39;s Sep 2 Teddi handling - pausing the team, verifying the tattoo message and the call request before acting - earned an explicit &#39;Thanks for communicating&#39; (Sep 2); this is the exact behaviour that fixes the account</li><li style="margin:4px 0">Revenue discovery she credits us for: &#39;My other agency never told me about this custom!&#39; (Jun 10) and the custom .vip link - &#39;U guys are the best!&#39; (Jun 10); &#39;We made good money in the last two days! Yayyy!&#39; (Sep 2)</li></ul></div>
+    </div>
+    <div class="fixbox"><b>The fix:</b> Make whale-handling mechanical instead of promised: a CRM-enforced purchase-history check plus her $200 price floor before any PPV/custom to a named high spender (Teddi, frumby, Adam West), owned by a named person with a written report-back for every incident - and take the TikTok job off Vivek today. She is currently ALTR&#39;s QA layer, and Aug 29 shows what one missed check costs.</div>
+  </div>
+</details>
+
+<details class="client">
+  <summary>
+    <span class="nm">Barbara</span>
+    <span class="badge b-at_risk"><span class="dot"></span>at risk</span>
+    <svg class="spark" width="80" height="24"><polyline points="3.0,9.7 41.0,11.6 79.0,13.1 117.0,13.8" transform="scale(0.667,0.8)"/></svg>
+    <span class="fix">Give the IG/traffic crisis one named owner with a 24-hour substantive-answer SLA on client escalatio…</span>
+    <span class="meta">last msg 2026-09-01</span>
+  </summary>
+  <div class="cbody">
+    <p style="margin:12px 0 0">Still engaged and paying (last message 2026-09-01, thanked the team 3x that week), but her Aug 24 &#39;very nervous&#39; escalation about falling traffic — tagging three people by name — has NEVER been substantively answered (10 days as of 2026-09-03). Instead she was asked to produce more content (Aug 30) and billed with a new &#39;pausing of work&#39; threat (Sep 1). Client message volume has fallen four straight weeks (40 → 22 → 22 → 14).</p>
+    
+      <h4>Responsiveness</h4>
+      <div style="font-size:13.5px">We acknowledge within minutes but do not answer: the Aug 24 named-tag escalation is 10 days without substance, the Aug 11 engagement-software and linkme questions are 23 days old, and her Aug 18 &#39;is this too risqué&#39; was never answered (she deleted the post herself 3 minutes later).</div>
+      <blockquote>“Lmk im very nervous with the situation @mmayson @ofwizz @sotom225” <span class="q-meta">— Barb Brazil, 2026-08-24</span></blockquote>
+    
+      <h4>Follow-through</h4>
+      <div style="font-size:13.5px">A stack of ~11 lapsed promises: talking-to-camera examples (Michelle, Jul 23, 42d), 3 link-in-bio versions (Mayson, Jul 31, 34d), backup IG @ &#39;next week&#39; (Michelle, Aug 1, 33d), adultsearch takedown &#39;yes&#39; (Derrek, Aug 7, 27d, never confirmed), device-migration report &#39;tn&#39; (Derrek, Aug 11), engagement-software answer (Mayson, Aug 11), Mayson&#39;s Aug 24 &#39;answer soon&#39; and Vivek&#39;s Aug 24 &#39;Yeah will do&#39; both dead at 10d.</div>
+      <blockquote>“your backup account for IG reels is currently being warmed up as soon as it’s ready next week I will send you the @ name babes 💕” <span class="q-meta">— Michelle Queue, 2026-08-01</span></blockquote>
+    
+      <h4>Platform health</h4>
+      <div style="font-size:13.5px">IG loss/recovery cycling since early August with no owner, no root-cause and no update cadence; Derrek told her &#39;Dont worry about why&#39;; the client produced the best root-cause lead herself (barbarasilva.vip restricting her main) and the assigned Meta rep has been silent 10 days; her reported outcome is traffic &#39;super down&#39;.</div>
+      <blockquote>“i’m having account issues every other day, i’m losing recovering losing recovering” <span class="q-meta">— Barb Brazil, 2026-08-11</span></blockquote>
+    
+      <h4>Ownership</h4>
+      <div style="font-size:13.5px">Mayson is a router, not an owner — &#39;@sotom225 ^^&#39;, &#39;@Liv_Lee ^^&#39; — and the IG crisis has bounced Mayson→Michelle→Vivek→Derrek with nobody closing; she tagged three people by name in her escalation and got zero owners; Michelle ignored a direct tag while posting 6+ other messages; Derrek&#39;s last message in the chat is Aug 12 (22 days).</div>
+      <blockquote>“@sotom225 any updates on instagrams?” <span class="q-meta">— Mayson Chat, 2026-08-24</span></blockquote>
+    
+    <div class="cols">
+      <div><h4>What they want from us</h4><ul style="margin:0;padding-left:18px;font-size:13.5px"><li style="margin:4px 0">Numbers going up, and proof of it: &#39;i definitely wanna see my numbers increase not keep going down 😭&#39; (Aug 24) — she has never been shown a single metric in 45 days.</li><li style="margin:4px 0">A real answer and a plan on the IG/traffic situation: &#39;Lmk im very nervous with the situation @mmayson @ofwizz @sotom225&#39; (Aug 24); she even proposed her own rescue plan (weekly OFTV pivot) and asked for a yes/no.</li><li style="margin:4px 0">Creative direction she can shoot against: &#39;will someone be able to send me maybe some ideas for reels and tiktoks ?? i like to shoot with my photographer to batch up content&#39; (Jul 21); &#39;do you have some examples of talking to camera reels for girls in my niche&#39; (Jul 22).</li></ul></div>
+      <div><h4>What's working — keep doing</h4><ul style="margin:0;padding-left:18px;font-size:13.5px"><li style="margin:4px 0">OFTV execution by Olivia — the gun-range shoot (&#39;I had the best time today shooting and shooting 🔫 Ben is awesome&#39;, Aug 27), the same-day call offer on Aug 31, and the Sep 2 delivery of three edited videos (&#39;Airplane, coffee shop, and the backflip video&#39;) — the only workstream producing visible output, and it keeps re-engaging her.</li><li style="margin:4px 0">Michelle&#39;s weekly leak-removal report, now four consecutive weeks (Aug 10, 17, 25, Sep 1): &#39;Thank you queen!&#39; (Sep 1) — the one reliable proactive cadence on the account.</li><li style="margin:4px 0">Early creative support landed: &#39;this is perfect i love this&#39; (Jul 22, on Michelle&#39;s inspo reels) — proof that when we give direction she uses it enthusiastically.</li></ul></div>
+    </div>
+    <div class="fixbox"><b>The fix:</b> Give the IG/traffic crisis one named owner with a 24-hour substantive-answer SLA on client escalations: a written status covering what happened to her accounts, what we&#39;re doing, current posting/growth numbers, the backup IG @, and an explicit yes/no on her weekly-OFTV pivot proposal. Ten days of silence after &#39;very nervous&#39; — while asking her for more content and threatening work pauses over an invoice — is the exact shape churn takes.</div>
+  </div>
+</details>
+
+<details class="client">
+  <summary>
+    <span class="nm">Alanna</span>
+    <span class="badge b-active"><span class="dot"></span>active</span>
+    <svg class="spark" width="80" height="24"><polyline points="3.0,7.3 41.0,7.8 79.0,9.7 117.0,11.4" transform="scale(0.667,0.8)"/></svg>
+    <span class="fix">Give her release calendar and customs pipeline a named owner who confirms every drop in-chat and boo…</span>
+    <span class="meta">last msg 2026-09-03</span>
+  </summary>
+  <div class="cbody">
+    <p style="margin:12px 0 0">She broke her 7-day silence on 8/26, paid the overdue invoice within the hour of a late-night pause-work threat, and is asking for more work from us (customs a third time, more IG accounts) — engaged and warm as of 9/3, but every re-engagement was chase-driven and her 8/19 pause-chatting instruction is still unacknowledged 15 days on.</p>
+    
+      <h4>Follow-through</h4>
+      <div style="font-size:13.5px">&#39;Will push heavy on them&#39; (customs, 8/15) has now produced three straight &#39;no new customs&#39; declines with no plan; Derrek&#39;s promised weekly DMCA reports (8/12) have never appeared once in three weeks; her pinned Aug 17, 24 and 29 drops all passed with zero go-live confirmation; the day-one FAQ form was never confirmed complete.</div>
+      <blockquote>“Will push heavy on them” <span class="q-meta">— Ollie Mckinlay, 2026-08-15</span></blockquote>
+    
+      <h4>Proactive comms</h4>
+      <div style="font-size:13.5px">The 9-day zero-outbound stretch (8/17→8/26) was ended by an invoice chase, not a check-in; since then our only non-billing outbound was a templated consistency lecture that ignored that her reels do 32M views — she had to correct us — and we have never once sent a stats or drop recap.</div>
+      <blockquote>“@alannaapow Hi love checking in on this” <span class="q-meta">— Stephski, 2026-08-26</span></blockquote>
+    
+      <h4>Onboarding</h4>
+      <div style="font-size:13.5px">Day 31: the FAQ form that briefs chatters on her limits is still unconfirmed, no kickoff call was ever booked or chased, her pinned release calendar has no owner, and she had to offer customs three separate times to discover there is no customs pipeline.</div>
+      <blockquote>“Hey Alanna, could you fill out this FAQ form for us please” <span class="q-meta">— Ollie Mckinlay, 2026-08-03</span></blockquote>
+    
+    <div class="cols">
+      <div><h4>What they want from us</h4><ul style="margin:0;padding-left:18px;font-size:13.5px"><li style="margin:4px 0">Her custom content sold hard — &#39;Any new customs or try to sell heaps I’ll do them in the next few days&#39; (8/15, offered again 8/26)</li><li style="margin:4px 0">Her pinned five-date release calendar executed and confirmed (8/3)</li><li style="margin:4px 0">Leak protection — &#39;Let me know what I need to do to get on top of my leaks&#39; (8/12)</li></ul></div>
+      <div><h4>What's working — keep doing</h4><ul style="margin:0;padding-left:18px;font-size:13.5px"><li style="margin:4px 0">Chatting quality won her trust in week one — &#39;Loving the chatting so far / It sounds so good&#39; (8/8)</li><li style="margin:4px 0">Ollie explaining strategy instead of dictating it — the Tip-$5 and trailer-conversion walkthroughs got &#39;Yes sounds good&#39; (8/4-8/7)</li><li style="margin:4px 0">Closing her more-IGs ask within a day — Mica answered same evening and Michelle confirmed the warmup next morning (8/31-9/1)</li></ul></div>
+    </div>
+    <div class="fixbox"><b>The fix:</b> Give her release calendar and customs pipeline a named owner who confirms every drop in-chat and books her offered customs into actual sales pushes — she keeps handing us revenue (customs, viral traffic, more IGs) and the only workstream that reliably closes the loop with her is collections.</div>
+  </div>
+</details>
+
+<details class="client">
+  <summary>
+    <span class="nm">Kaitlynn</span>
+    <span class="badge b-active"><span class="dot"></span>active</span>
+    <svg class="spark" width="80" height="24"><polyline points="3.0,4.9 41.0,6.6 79.0,7.8 117.0,10.2" transform="scale(0.667,0.8)"/></svg>
+    <span class="fix">Institutionalize what the 8/29 save proved works: every direct ask gets a written yes/no/when inside…</span>
+    <span class="meta">last msg 2026-09-03</span>
+  </summary>
+  <div class="cbody">
+    <p style="margin:12px 0 0">Recovered from the 8/28 at_risk call: she re-engaged heavily (18 messages since 8/28), booked the kickoff call herself, paid up, and her first real complaint (the $300 day) got a data-backed answer within 18 hours — but the complaint cycle left visible sarcasm and several small asks are still being ignored, so the recovery is ours to lose.</p>
+    
+      <h4>Proactive comms</h4>
+      <div style="font-size:13.5px">We still send zero unprompted reporting — she compiles her own dashboard screenshots and asks us to explain our work (&#39;taking some notes for the week&#39;); the first performance context we ever volunteered (8/29) came only after her complaint, and 8/21→8/27 was 6 days of zero outbound.</div>
+      <blockquote>“Also, I wanted to check in, this week’s numbers are quite lower than the previous two weeks!” <span class="q-meta">— Kaitlynn Anderson Koda, 2026-08-28</span></blockquote>
+    
+    <div class="cols">
+      <div><h4>What they want from us</h4><ul style="margin:0;padding-left:18px;font-size:13.5px"><li style="margin:4px 0">A consistent, known chatter team on her page — &#39;would love to keep a consistent rotation of the same chatters on my profile. Instead of throwing in multiple different people who don’t really know my account.&#39; (8/28)</li><li style="margin:4px 0">Explanations for revenue swings without having to chase — &#39;let me know about the $800 day and the $300 day&#39; (8/28)</li><li style="margin:4px 0">A call plus a posting cadence — &#39;would love a couple wall post a day… as well as story posts that is actually something that I was gonna talk about on the call&#39; (8/14)</li></ul></div>
+      <div><h4>What's working — keep doing</h4><ul style="margin:0;padding-left:18px;font-size:13.5px"><li style="margin:4px 0">The data-backed answer to her revenue complaint — &#39;we have been able to produce the same numbers with 1/7 of the subs this month as the best month in 2026&#39; (Ollie, 8/29) — she stayed, kept sharing wins, and booked the call two days later.</li><li style="margin:4px 0">Same-hour swarm on her Drive failure — &#39;on it right now with the google drive fix&#39; (Derrek, 9/2) and &#39;send me all the content and I’ll personally put it in drive!!&#39; (Mayson, 9/2).</li><li style="margin:4px 0">Chat quality earned the account in week one — &#39;Impressed already with chat omg.. thanks guys. Kill it&#39; (8/7).</li></ul></div>
+    </div>
+    <div class="fixbox"><b>The fix:</b> Institutionalize what the 8/29 save proved works: every direct ask gets a written yes/no/when inside 24 hours and a weekly one-screen numbers recap sent before she has to screenshot her own dashboard — she is currently doing our account-management job herself, politely, and the sarcasm on 8/29 is what it looks like when that patience starts to run out.</div>
+  </div>
+</details>
+
+</details>
+
+<footer>Generated locally from Telegram chat data · internal management document · refreshed automatically every Friday morning.</footer>
+</div>
+<script>
+function copyDraft(btn){
+  var text = btn.parentElement.innerText.replace(/^Copy\n?/, '');
+  function done(){ btn.textContent='Copied ✓'; setTimeout(function(){btn.textContent='Copy';}, 1600); }
+  if (navigator.clipboard && navigator.clipboard.writeText) { navigator.clipboard.writeText(text).then(done); }
+  else { var ta=document.createElement('textarea'); ta.value=text; document.body.appendChild(ta); ta.select(); document.execCommand('copy'); document.body.removeChild(ta); done(); }
+}
+</script>
+</body>
+</html>

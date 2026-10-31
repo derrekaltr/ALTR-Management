@@ -1,0 +1,45 @@
+# IX AR (IG Lead)  [imessage #5595]
+msgs=38 (in=19 out=19) window=2026-03-18..2026-06-05
+last_client=2026-06-05 (105d ago), last_derrek=2026-06-05 (105d ago)
+LAST MESSAGE FROM CLIENT — UNANSWERED: 'Following up here'
+
+  ...
+[2026-03-18 19:17] IX AR (IG Lead): Hey Derek, what’s the other service you haver with Trend sounds? Also, what other services do you provide for generating traffic for OF? Are you able to do a fan page accounts? Like reposting and repurpose content? Clipping live content too? Send me all your s…
+[2026-04-17 17:49] IX AR (IG Lead): Hey Derek, what instagram marketing services do you provide? Also, for OF any marketing strategies you provide as well. I’m looking for the right marketing guy.
+[2026-04-17 17:50] IX AR (IG Lead): Edited to “Hey Derek, what instagram marketing services do you provide? Also, for OF any marketing strategies you provide as well. I’m looking for the right marketing guy. ”
+[2026-04-17 17:51] IX AR (IG Lead): I’m tryna spend some money let me know
+[2026-04-17 18:17] DEREK: Loved “Hey Derek, what instagram marketing services do you provide? Also, for OF any marketing strategies you provide as well. I’m looking for the right marketing guy. ”
+[2026-04-17 18:17] DEREK: Hey I run ads on my pages starting at 1k budgets
+[2026-04-17 18:17] DEREK: Mainly story reposts and reposts
+[2026-04-17 18:17] DEREK: We’re doing about 10 billion organic views a month across them
+[2026-04-17 18:19] IX AR (IG Lead): I’m talking about the type of marketing you’re doing with your OF models.
+[2026-04-17 18:20] IX AR (IG Lead): We can run some of those type of campaigns. I can pay you. Just let me know what type on marketing strategy and what you’ll charge. Liken packages or not
+[2026-04-17 18:21] IX AR (IG Lead): So you do anything around fan page accounts and distributing content?
+[2026-04-17 18:27] IX AR (IG Lead): Also which pages are we talking do you have like the top ones?
+[2026-04-17 20:18] DEREK: This is what I do with my OF Models. I have backup pages/OFTV too but what really hits is the theme pages
+[2026-04-17 20:18] DEREK: Lemme get you some top ones
+[2026-04-17 20:19] DEREK: @postingcatslapss @bikerssmashingmirrorss @only_scarepranks @WarzoneReality @onlyfunnybloopers @bad.dad.jokess @hikingmishaps @bikershelpingpeople @prankss.gone.wrong @protestersgettinghurt @peoplefartingvids @boyfriends.meeting.parents @boyfriends.being.funny…
+[2026-04-17 20:19] DEREK: Heres an idea of some pages
+[2026-04-17 20:19] DEREK: With heavy male 21+ usa followers
+[2026-04-17 20:21] DEREK: 2 Reels reposted + Story Reposted with a CTA/Poll is $1000 and lasts around 72 hours. It goes across 500+ pages that are built up. I have 4x Reels reposted + Story Reposted with a CTA/Poll as well as a month long story highlight on all the pages is $1500
+[2026-04-18 15:24] DEREK: Let me know if you need any more info info on it
+[2026-04-18 15:24] DEREK: I could show you some examples
+[2026-04-18 15:25] DEREK: ￼
+      <IMG MISSING non-image: >
+[2026-04-21 14:01] DEREK: Yo yo
+[2026-04-21 14:02] IX AR (IG Lead): Good morning
+[2026-06-05 01:40] IX AR (IG Lead): Yo the link in bio method. It’s mad annoying man. We don’t get shadow ban or anything because w moved quick. What are method you using right now. I saw your story today
+[2026-06-05 01:54] DEREK: Yo-yo, I have custom domains with a safari browser tweak technology
+[2026-06-05 01:54] DEREK: It’s pretty sick. It works on Google Chrome too, but it’s mainly for iPhones anything else it goes per usual.
+[2026-06-05 01:54] IX AR (IG Lead): so like bouncy?
+[2026-06-05 01:55] IX AR (IG Lead): With a custom domain
+[2026-06-05 01:55] DEREK: I tried bouncy it worked for like four of my creators and then the rest It didn’t and they got flags
+[2026-06-05 01:55] DEREK: Bouncy is not compliant. It’s still cloaks
+[2026-06-05 01:55] DEREK: The reason why it works is simply because people are switching over and putting a domain that no notes
+[2026-06-05 01:56] IX AR (IG Lead): Bet Send me a insta account so I can go through the motion on the link in bio
+[2026-06-05 01:56] IX AR (IG Lead): An example
+[2026-06-05 02:11] IX AR (IG Lead): Loved “The reason why it works is simply because people a…”
+[2026-06-05 02:11] IX AR (IG Lead): Loved “It’s pretty sick. It works on Google Chrome too, b…”
+[2026-06-05 02:11] IX AR (IG Lead): Loved “Yo-yo, I have custom domains with a safari browser…”
+[2026-06-05 13:19] IX AR (IG Lead): Morning, do you have an example of any instagram using it in their bio?
+[2026-06-05 17:50] IX AR (IG Lead): Following up here

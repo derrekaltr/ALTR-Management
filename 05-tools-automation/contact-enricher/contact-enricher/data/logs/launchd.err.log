@@ -1,0 +1,272 @@
+Traceback (most recent call last):
+  File "/Users/locklyjailbreak/conductor/workspaces/conctact-list-creator/santo-domingo/contact-enricher/extract.py", line 211, in <module>
+    main()
+    ~~~~^^
+  File "/Users/locklyjailbreak/conductor/workspaces/conctact-list-creator/santo-domingo/contact-enricher/extract.py", line 173, in main
+    chat = sqlite3.connect(common.snapshot_db(common.CHAT_DB, tmpdir))
+                           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/locklyjailbreak/conductor/workspaces/conctact-list-creator/santo-domingo/contact-enricher/common.py", line 35, in snapshot_db
+    shutil.copy2(path, dest)
+    ~~~~~~~~~~~~^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.8/Frameworks/Python.framework/Versions/3.14/lib/python3.14/shutil.py", line 529, in copy2
+    copyfile(src, dst, follow_symlinks=follow_symlinks)
+    ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.8/Frameworks/Python.framework/Versions/3.14/lib/python3.14/shutil.py", line 313, in copyfile
+    with open(src, 'rb') as fsrc:
+         ~~~~^^^^^^^^^^^
+PermissionError: [Errno 1] Operation not permitted: '/Users/locklyjailbreak/Library/Messages/chat.db'
+Traceback (most recent call last):
+  File "/Users/locklyjailbreak/conductor/workspaces/conctact-list-creator/santo-domingo/contact-enricher/extract.py", line 211, in <module>
+    main()
+    ~~~~^^
+  File "/Users/locklyjailbreak/conductor/workspaces/conctact-list-creator/santo-domingo/contact-enricher/extract.py", line 173, in main
+    chat = sqlite3.connect(common.snapshot_db(common.CHAT_DB, tmpdir))
+                           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/locklyjailbreak/conductor/workspaces/conctact-list-creator/santo-domingo/contact-enricher/common.py", line 35, in snapshot_db
+    shutil.copy2(path, dest)
+    ~~~~~~~~~~~~^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.8/Frameworks/Python.framework/Versions/3.14/lib/python3.14/shutil.py", line 529, in copy2
+    copyfile(src, dst, follow_symlinks=follow_symlinks)
+    ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.8/Frameworks/Python.framework/Versions/3.14/lib/python3.14/shutil.py", line 313, in copyfile
+    with open(src, 'rb') as fsrc:
+         ~~~~^^^^^^^^^^^
+PermissionError: [Errno 1] Operation not permitted: '/Users/locklyjailbreak/Library/Messages/chat.db'
+Traceback (most recent call last):
+  File "/Users/locklyjailbreak/conductor/workspaces/conctact-list-creator/santo-domingo/contact-enricher/extract.py", line 211, in <module>
+    main()
+    ~~~~^^
+  File "/Users/locklyjailbreak/conductor/workspaces/conctact-list-creator/santo-domingo/contact-enricher/extract.py", line 173, in main
+    chat = sqlite3.connect(common.snapshot_db(common.CHAT_DB, tmpdir))
+                           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/locklyjailbreak/conductor/workspaces/conctact-list-creator/santo-domingo/contact-enricher/common.py", line 35, in snapshot_db
+    shutil.copy2(path, dest)
+    ~~~~~~~~~~~~^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.8/Frameworks/Python.framework/Versions/3.14/lib/python3.14/shutil.py", line 529, in copy2
+    copyfile(src, dst, follow_symlinks=follow_symlinks)
+    ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.8/Frameworks/Python.framework/Versions/3.14/lib/python3.14/shutil.py", line 313, in copyfile
+    with open(src, 'rb') as fsrc:
+         ~~~~^^^^^^^^^^^
+PermissionError: [Errno 1] Operation not permitted: '/Users/locklyjailbreak/Library/Messages/chat.db'
+Traceback (most recent call last):
+  File "/Users/locklyjailbreak/conductor/workspaces/conctact-list-creator/santo-domingo/contact-enricher/extract.py", line 211, in <module>
+    main()
+    ~~~~^^
+  File "/Users/locklyjailbreak/conductor/workspaces/conctact-list-creator/santo-domingo/contact-enricher/extract.py", line 173, in main
+    chat = sqlite3.connect(common.snapshot_db(common.CHAT_DB, tmpdir))
+                           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/locklyjailbreak/conductor/workspaces/conctact-list-creator/santo-domingo/contact-enricher/common.py", line 35, in snapshot_db
+    shutil.copy2(path, dest)
+    ~~~~~~~~~~~~^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.8/Frameworks/Python.framework/Versions/3.14/lib/python3.14/shutil.py", line 529, in copy2
+    copyfile(src, dst, follow_symlinks=follow_symlinks)
+    ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.8/Frameworks/Python.framework/Versions/3.14/lib/python3.14/shutil.py", line 313, in copyfile
+    with open(src, 'rb') as fsrc:
+         ~~~~^^^^^^^^^^^
+PermissionError: [Errno 1] Operation not permitted: '/Users/locklyjailbreak/Library/Messages/chat.db'
+Traceback (most recent call last):
+  File "/Users/locklyjailbreak/conductor/workspaces/conctact-list-creator/santo-domingo/contact-enricher/extract.py", line 211, in <module>
+    main()
+    ~~~~^^
+  File "/Users/locklyjailbreak/conductor/workspaces/conctact-list-creator/santo-domingo/contact-enricher/extract.py", line 173, in main
+    chat = sqlite3.connect(common.snapshot_db(common.CHAT_DB, tmpdir))
+                           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/locklyjailbreak/conductor/workspaces/conctact-list-creator/santo-domingo/contact-enricher/common.py", line 35, in snapshot_db
+    shutil.copy2(path, dest)
+    ~~~~~~~~~~~~^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.8/Frameworks/Python.framework/Versions/3.14/lib/python3.14/shutil.py", line 529, in copy2
+    copyfile(src, dst, follow_symlinks=follow_symlinks)
+    ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.8/Frameworks/Python.framework/Versions/3.14/lib/python3.14/shutil.py", line 313, in copyfile
+    with open(src, 'rb') as fsrc:
+         ~~~~^^^^^^^^^^^
+PermissionError: [Errno 1] Operation not permitted: '/Users/locklyjailbreak/Library/Messages/chat.db'
+Traceback (most recent call last):
+  File "/Users/locklyjailbreak/conductor/workspaces/conctact-list-creator/santo-domingo/contact-enricher/extract.py", line 211, in <module>
+    main()
+    ~~~~^^
+  File "/Users/locklyjailbreak/conductor/workspaces/conctact-list-creator/santo-domingo/contact-enricher/extract.py", line 173, in main
+    chat = sqlite3.connect(common.snapshot_db(common.CHAT_DB, tmpdir))
+                           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/locklyjailbreak/conductor/workspaces/conctact-list-creator/santo-domingo/contact-enricher/common.py", line 35, in snapshot_db
+    shutil.copy2(path, dest)
+    ~~~~~~~~~~~~^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.8/Frameworks/Python.framework/Versions/3.14/lib/python3.14/shutil.py", line 529, in copy2
+    copyfile(src, dst, follow_symlinks=follow_symlinks)
+    ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.8/Frameworks/Python.framework/Versions/3.14/lib/python3.14/shutil.py", line 313, in copyfile
+    with open(src, 'rb') as fsrc:
+         ~~~~^^^^^^^^^^^
+PermissionError: [Errno 1] Operation not permitted: '/Users/locklyjailbreak/Library/Messages/chat.db'
+Traceback (most recent call last):
+  File "/Users/locklyjailbreak/conductor/workspaces/conctact-list-creator/santo-domingo/contact-enricher/extract.py", line 211, in <module>
+    main()
+    ~~~~^^
+  File "/Users/locklyjailbreak/conductor/workspaces/conctact-list-creator/santo-domingo/contact-enricher/extract.py", line 173, in main
+    chat = sqlite3.connect(common.snapshot_db(common.CHAT_DB, tmpdir))
+                           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/locklyjailbreak/conductor/workspaces/conctact-list-creator/santo-domingo/contact-enricher/common.py", line 35, in snapshot_db
+    shutil.copy2(path, dest)
+    ~~~~~~~~~~~~^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.8/Frameworks/Python.framework/Versions/3.14/lib/python3.14/shutil.py", line 529, in copy2
+    copyfile(src, dst, follow_symlinks=follow_symlinks)
+    ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.8/Frameworks/Python.framework/Versions/3.14/lib/python3.14/shutil.py", line 313, in copyfile
+    with open(src, 'rb') as fsrc:
+         ~~~~^^^^^^^^^^^
+PermissionError: [Errno 1] Operation not permitted: '/Users/locklyjailbreak/Library/Messages/chat.db'
+Traceback (most recent call last):
+  File "/Users/locklyjailbreak/conductor/workspaces/conctact-list-creator/santo-domingo/contact-enricher/extract.py", line 211, in <module>
+    main()
+    ~~~~^^
+  File "/Users/locklyjailbreak/conductor/workspaces/conctact-list-creator/santo-domingo/contact-enricher/extract.py", line 173, in main
+    chat = sqlite3.connect(common.snapshot_db(common.CHAT_DB, tmpdir))
+                           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/locklyjailbreak/conductor/workspaces/conctact-list-creator/santo-domingo/contact-enricher/common.py", line 35, in snapshot_db
+    shutil.copy2(path, dest)
+    ~~~~~~~~~~~~^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.8/Frameworks/Python.framework/Versions/3.14/lib/python3.14/shutil.py", line 529, in copy2
+    copyfile(src, dst, follow_symlinks=follow_symlinks)
+    ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.8/Frameworks/Python.framework/Versions/3.14/lib/python3.14/shutil.py", line 313, in copyfile
+    with open(src, 'rb') as fsrc:
+         ~~~~^^^^^^^^^^^
+PermissionError: [Errno 1] Operation not permitted: '/Users/locklyjailbreak/Library/Messages/chat.db'
+Traceback (most recent call last):
+  File "/Users/locklyjailbreak/conductor/workspaces/conctact-list-creator/santo-domingo/contact-enricher/extract.py", line 211, in <module>
+    main()
+    ~~~~^^
+  File "/Users/locklyjailbreak/conductor/workspaces/conctact-list-creator/santo-domingo/contact-enricher/extract.py", line 173, in main
+    chat = sqlite3.connect(common.snapshot_db(common.CHAT_DB, tmpdir))
+                           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/locklyjailbreak/conductor/workspaces/conctact-list-creator/santo-domingo/contact-enricher/common.py", line 35, in snapshot_db
+    shutil.copy2(path, dest)
+    ~~~~~~~~~~~~^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.8/Frameworks/Python.framework/Versions/3.14/lib/python3.14/shutil.py", line 529, in copy2
+    copyfile(src, dst, follow_symlinks=follow_symlinks)
+    ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.8/Frameworks/Python.framework/Versions/3.14/lib/python3.14/shutil.py", line 313, in copyfile
+    with open(src, 'rb') as fsrc:
+         ~~~~^^^^^^^^^^^
+PermissionError: [Errno 1] Operation not permitted: '/Users/locklyjailbreak/Library/Messages/chat.db'
+Traceback (most recent call last):
+  File "/Users/locklyjailbreak/conductor/workspaces/conctact-list-creator/santo-domingo/contact-enricher/extract.py", line 211, in <module>
+    main()
+    ~~~~^^
+  File "/Users/locklyjailbreak/conductor/workspaces/conctact-list-creator/santo-domingo/contact-enricher/extract.py", line 173, in main
+    chat = sqlite3.connect(common.snapshot_db(common.CHAT_DB, tmpdir))
+                           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/locklyjailbreak/conductor/workspaces/conctact-list-creator/santo-domingo/contact-enricher/common.py", line 35, in snapshot_db
+    shutil.copy2(path, dest)
+    ~~~~~~~~~~~~^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.8/Frameworks/Python.framework/Versions/3.14/lib/python3.14/shutil.py", line 529, in copy2
+    copyfile(src, dst, follow_symlinks=follow_symlinks)
+    ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.8/Frameworks/Python.framework/Versions/3.14/lib/python3.14/shutil.py", line 313, in copyfile
+    with open(src, 'rb') as fsrc:
+         ~~~~^^^^^^^^^^^
+PermissionError: [Errno 1] Operation not permitted: '/Users/locklyjailbreak/Library/Messages/chat.db'
+Traceback (most recent call last):
+  File "/Users/locklyjailbreak/conductor/workspaces/conctact-list-creator/santo-domingo/contact-enricher/extract.py", line 211, in <module>
+    main()
+    ~~~~^^
+  File "/Users/locklyjailbreak/conductor/workspaces/conctact-list-creator/santo-domingo/contact-enricher/extract.py", line 173, in main
+    chat = sqlite3.connect(common.snapshot_db(common.CHAT_DB, tmpdir))
+                           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/locklyjailbreak/conductor/workspaces/conctact-list-creator/santo-domingo/contact-enricher/common.py", line 35, in snapshot_db
+    shutil.copy2(path, dest)
+    ~~~~~~~~~~~~^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.8/Frameworks/Python.framework/Versions/3.14/lib/python3.14/shutil.py", line 529, in copy2
+    copyfile(src, dst, follow_symlinks=follow_symlinks)
+    ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.8/Frameworks/Python.framework/Versions/3.14/lib/python3.14/shutil.py", line 313, in copyfile
+    with open(src, 'rb') as fsrc:
+         ~~~~^^^^^^^^^^^
+PermissionError: [Errno 1] Operation not permitted: '/Users/locklyjailbreak/Library/Messages/chat.db'
+Traceback (most recent call last):
+  File "/Users/locklyjailbreak/conductor/workspaces/conctact-list-creator/santo-domingo/contact-enricher/extract.py", line 211, in <module>
+    main()
+    ~~~~^^
+  File "/Users/locklyjailbreak/conductor/workspaces/conctact-list-creator/santo-domingo/contact-enricher/extract.py", line 173, in main
+    chat = sqlite3.connect(common.snapshot_db(common.CHAT_DB, tmpdir))
+                           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/locklyjailbreak/conductor/workspaces/conctact-list-creator/santo-domingo/contact-enricher/common.py", line 35, in snapshot_db
+    shutil.copy2(path, dest)
+    ~~~~~~~~~~~~^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.8/Frameworks/Python.framework/Versions/3.14/lib/python3.14/shutil.py", line 529, in copy2
+    copyfile(src, dst, follow_symlinks=follow_symlinks)
+    ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.8/Frameworks/Python.framework/Versions/3.14/lib/python3.14/shutil.py", line 313, in copyfile
+    with open(src, 'rb') as fsrc:
+         ~~~~^^^^^^^^^^^
+PermissionError: [Errno 1] Operation not permitted: '/Users/locklyjailbreak/Library/Messages/chat.db'
+Traceback (most recent call last):
+  File "/Users/locklyjailbreak/conductor/workspaces/conctact-list-creator/santo-domingo/contact-enricher/extract.py", line 211, in <module>
+    main()
+    ~~~~^^
+  File "/Users/locklyjailbreak/conductor/workspaces/conctact-list-creator/santo-domingo/contact-enricher/extract.py", line 173, in main
+    chat = sqlite3.connect(common.snapshot_db(common.CHAT_DB, tmpdir))
+                           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/locklyjailbreak/conductor/workspaces/conctact-list-creator/santo-domingo/contact-enricher/common.py", line 35, in snapshot_db
+    shutil.copy2(path, dest)
+    ~~~~~~~~~~~~^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.8/Frameworks/Python.framework/Versions/3.14/lib/python3.14/shutil.py", line 529, in copy2
+    copyfile(src, dst, follow_symlinks=follow_symlinks)
+    ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.8/Frameworks/Python.framework/Versions/3.14/lib/python3.14/shutil.py", line 313, in copyfile
+    with open(src, 'rb') as fsrc:
+         ~~~~^^^^^^^^^^^
+PermissionError: [Errno 1] Operation not permitted: '/Users/locklyjailbreak/Library/Messages/chat.db'
+Traceback (most recent call last):
+  File "/Users/locklyjailbreak/conductor/workspaces/conctact-list-creator/santo-domingo/contact-enricher/extract.py", line 211, in <module>
+    main()
+    ~~~~^^
+  File "/Users/locklyjailbreak/conductor/workspaces/conctact-list-creator/santo-domingo/contact-enricher/extract.py", line 173, in main
+    chat = sqlite3.connect(common.snapshot_db(common.CHAT_DB, tmpdir))
+                           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/locklyjailbreak/conductor/workspaces/conctact-list-creator/santo-domingo/contact-enricher/common.py", line 35, in snapshot_db
+    shutil.copy2(path, dest)
+    ~~~~~~~~~~~~^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.8/Frameworks/Python.framework/Versions/3.14/lib/python3.14/shutil.py", line 529, in copy2
+    copyfile(src, dst, follow_symlinks=follow_symlinks)
+    ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.8/Frameworks/Python.framework/Versions/3.14/lib/python3.14/shutil.py", line 313, in copyfile
+    with open(src, 'rb') as fsrc:
+         ~~~~^^^^^^^^^^^
+PermissionError: [Errno 1] Operation not permitted: '/Users/locklyjailbreak/Library/Messages/chat.db'
+Traceback (most recent call last):
+  File "/Users/locklyjailbreak/conductor/workspaces/conctact-list-creator/santo-domingo/contact-enricher/extract.py", line 211, in <module>
+    main()
+    ~~~~^^
+  File "/Users/locklyjailbreak/conductor/workspaces/conctact-list-creator/santo-domingo/contact-enricher/extract.py", line 173, in main
+    chat = sqlite3.connect(common.snapshot_db(common.CHAT_DB, tmpdir))
+                           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/locklyjailbreak/conductor/workspaces/conctact-list-creator/santo-domingo/contact-enricher/common.py", line 35, in snapshot_db
+    shutil.copy2(path, dest)
+    ~~~~~~~~~~~~^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.8/Frameworks/Python.framework/Versions/3.14/lib/python3.14/shutil.py", line 529, in copy2
+    copyfile(src, dst, follow_symlinks=follow_symlinks)
+    ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.8/Frameworks/Python.framework/Versions/3.14/lib/python3.14/shutil.py", line 313, in copyfile
+    with open(src, 'rb') as fsrc:
+         ~~~~^^^^^^^^^^^
+PermissionError: [Errno 1] Operation not permitted: '/Users/locklyjailbreak/Library/Messages/chat.db'
+Traceback (most recent call last):
+  File "/Users/locklyjailbreak/conductor/workspaces/conctact-list-creator/santo-domingo/contact-enricher/extract.py", line 211, in <module>
+    main()
+    ~~~~^^
+  File "/Users/locklyjailbreak/conductor/workspaces/conctact-list-creator/santo-domingo/contact-enricher/extract.py", line 173, in main
+    chat = sqlite3.connect(common.snapshot_db(common.CHAT_DB, tmpdir))
+                           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/locklyjailbreak/conductor/workspaces/conctact-list-creator/santo-domingo/contact-enricher/common.py", line 35, in snapshot_db
+    shutil.copy2(path, dest)
+    ~~~~~~~~~~~~^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.8/Frameworks/Python.framework/Versions/3.14/lib/python3.14/shutil.py", line 529, in copy2
+    copyfile(src, dst, follow_symlinks=follow_symlinks)
+    ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.8/Frameworks/Python.framework/Versions/3.14/lib/python3.14/shutil.py", line 313, in copyfile
+    with open(src, 'rb') as fsrc:
+         ~~~~^^^^^^^^^^^
+PermissionError: [Errno 1] Operation not permitted: '/Users/locklyjailbreak/Library/Messages/chat.db'

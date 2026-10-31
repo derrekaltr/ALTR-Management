@@ -1,0 +1,257 @@
+{
+  "client": "Barbara",
+  "slug": "barbara-x-altr",
+  "status": "at_risk",
+  "status_reason": "Terminal-stage at_risk, not churned: she paid in full on 2026-09-22 (2 hours after a day-7 chase) and has made no exit statement. But every churn tell is now lit. Her written retention warning of 2026-09-14 — 'i really want to continue working together, i just need to see some changes because where the numbers are right now isn't sustainable for me' — is 11 days old and has never been answered by anyone; Mayson offered a call for Sep 15 and no message in the chat has referenced that call since. Her main Instagram has been banned 8 days, the two backups Derrek declared recovered on Sep 19 were down again within 24 hours, and Threads is suspended. Most important: she has gone silent since 2026-09-22 07:29 after asking the same frightened question three times ('what should i do should i use this phone to log in') and getting no reply — the longest client silence in the 67-day history of this account, and the first one she has not broken herself. In the 3 days since, the only traffic in her chat is Mayson asking Vivek for a status over her head. Treat the silence plus the Sep 29 invoice as a two-part exit trigger.",
+  "last_client_message": "2026-09-22",
+  "dimensions": {
+    "responsiveness": {
+      "severity": 3,
+      "internal_failure": "Our median reply is still ~43 minutes, but this week we did the two things speed cannot excuse: we went dark for 52 hours in the middle of her worst crisis (Sep 17 15:46 -> Sep 19 19:51, while she posted an unanswered screenshot on Sep 18), and we left her final message — a fear about device safety she raised three separate times — unanswered for 3 days and counting. 29 of ~60 substantive asks across the account's life have never been answered. The dimension moved from 2 to 3 because the failure is no longer 'she has to nudge'; it is that she nudged, got nothing, and stopped talking.",
+      "evidence": [
+        {
+          "quote": "@ofwizz what should i do should i use this phone to log in",
+          "who": "Barb Brazil",
+          "date": "2026-09-22"
+        },
+        {
+          "quote": "I only own three phones, so I’m just scared to login because each phone is already attached to an account",
+          "who": "Barb Brazil",
+          "date": "2026-09-22"
+        },
+        {
+          "quote": "is this you guys",
+          "who": "Barb Brazil",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "follow_through": {
+      "severity": 3,
+      "internal_failure": "We now break promises faster than we make them, and this week we made one we could not substantiate. Derrek announced 'Yes we got both of your backup accounts back' on Sep 19; within 24 hours the client reported one down again and told us she never received a recovery email for @barbarasilvanew and did not believe it was hers — nobody verified the claim before or after. Vivek has now broken the same account-recovery commitment four times (Jul 31 'For sure ma’am', Sep 10 'Will do tomorrow', Sep 15 'Will do it today', Sep 22 'Will unban these accounts one by one') and has delivered nothing to the client in 56 days. Derrek's 'We will check' on the Threads root cause she identified herself is 3 days old with no reply. Mayson's 'I'll get back to you Barbara' (Sep 21) never happened. Running total: ~41 commitments, ~15 kept, ~23 silently lapsed.",
+      "evidence": [
+        {
+          "quote": "Yes we got both of your backup accounts back",
+          "who": "Derrek",
+          "date": "2026-09-19"
+        },
+        {
+          "quote": "i never got a “you’re back on instagram” email for my @barbarasilvanew account either so i’m not sure what the other backup that was recovered was but i don’t think it was mine",
+          "who": "Barb Brazil",
+          "date": "2026-09-20"
+        },
+        {
+          "quote": "We will check",
+          "who": "Derrek",
+          "date": "2026-09-22"
+        }
+      ]
+    },
+    "proactive_communication": {
+      "severity": 3,
+      "internal_failure": "Both proactive cadences she valued have now stopped and nothing replaced them. Michelle's weekly DMCA leak-removal report ran six straight weeks and was thanked every single time; the last one was Sep 8 and Michelle has not sent a single message to this client in 16 days. Mica's weekly reel inspo stopped Sep 17. In the 7 days after her main Instagram was banned, the only unprompted message we sent her about anything was a payment chase. In 67 days we have never once sent her a posting log, a view count, a follower number or a revenue figure — she found her own traffic collapse in her own OnlyFans dashboard on Sep 14, and only because we asked her to withdraw funds for an invoice. Longest stretch with zero outbound from our side: 3.8 days (Sep 10 18:04 -> Sep 14 13:43).",
+      "evidence": [
+        {
+          "quote": "Hey love! Here’s your weekly update on the leak removal breakdown for the past 7 days 🫶🏼",
+          "who": "Michelle Queue",
+          "date": "2026-09-08"
+        },
+        {
+          "quote": "Hi love! just wanted to check in on payment! Are you able to send by tomorrow? Tomorrow is day 7 since recieving invoice so just wanted to bump ❤️",
+          "who": "Stephski",
+          "date": "2026-09-21"
+        },
+        {
+          "quote": "hey guys, i was looking at my numbers since i was asked to withdraw for my invoice tomorrow, and unless i’m missing something, it looks like something may have happened last week because the numbers are significantly lower.",
+          "who": "Barb Brazil",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "onboarding_handoff": {
+      "severity": 2,
+      "internal_failure": "Week-one loose ends from July are still open in week ten. Nobody ever wrote down who owns what, so 'who would be the right person to reach out to' needed a follow-up and 28 hours to answer, and she is still tagging three people at once two months later. She handed X/Twitter logins to Derrek believing we ran it — we do not, and she only found out on day 11 ('to be honest, I'm very confused lol'). The three link-in-bio versions Mayson promised at onboarding were never built; she was handed a bare domain instead, which she later reported was restricting her main IG, and the review she asked for on it is 32 days old. Mica's kickoff call slipped twice before landing.",
+      "evidence": [
+        {
+          "quote": "Hey guys, if i have any questions regarding anything who would be the right person to reach out to from the group?",
+          "who": "Barb Brazil",
+          "date": "2026-07-26"
+        },
+        {
+          "quote": "I’ll create you 3 different versions tiktok/twitter/instagram",
+          "who": "Mayson Chat",
+          "date": "2026-07-31"
+        },
+        {
+          "quote": "he doesn’t run twitter, maybe it was from your last management?",
+          "who": "Mica Vecco",
+          "date": "2026-07-31"
+        }
+      ]
+    },
+    "chatter_conduct": {
+      "severity": 1,
+      "internal_failure": "No fan-facing conduct incident exists in 67 days — no VIP/whale mishandling, no content-boundary breach, no unbriefed sales, and the one boundary call we had to make we made correctly (Mica: 'Please do not send your backup codes to anyone, including our team'). The single failure is that chatter staffing on her pages is invisible to her and gets changed by internal instruction posted in her own group: Olivia offered her team for the free page on Sep 17 during the ban panic, then on Sep 21 told Mayson in front of the client to 'pull chatters from her free page'. The client was never told who was chatting, that they started, or that they were pulled.",
+      "evidence": [
+        {
+          "quote": "My team is ready to start chatting on the free page.",
+          "who": "Olivia",
+          "date": "2026-09-17"
+        },
+        {
+          "quote": "Hey Mayson, please pull chatters from her free page. I will handle everything from here on @barbaraevelynnn",
+          "who": "Olivia",
+          "date": "2026-09-21"
+        },
+        {
+          "quote": "Please do not send your backup codes to anyone, including our team. Keep the screenshot somewhere secure that only you can access.",
+          "who": "Mica Vecco",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "platform_health": {
+      "severity": 3,
+      "internal_failure": "This is the service she pays 40% of net for and she currently has no working Instagram at all. 53-day arc: cycling loss/recovery from Aug 8, her Aug 24 escalation by name ignored 17 days, main @thebrazilianfitbarbie banned Sep 17, backups declared recovered Sep 19 and dead again Sep 20, Threads suspended, and the only substantive platform update in the last 3 days is Vivek telling Mayson 'Clearing notes of ai'. She has still never been given a cause, a date, or a named accountable owner. Two further failures this week: when the recovery unravelled, Derrek's response was to ask whether she had changed her profile picture and tell her 'Any changes like that normally bring the account right back down' — shifting cause onto the client without ever having given her the rule in advance; and she, not us, identified the likely root cause (Threads suspension cascading into Instagram) after 53 days of us failing to.",
+      "evidence": [
+        {
+          "quote": "did anyone even log into that one or what happened",
+          "who": "Barb Brazil",
+          "date": "2026-09-20"
+        },
+        {
+          "quote": "Any changes like that normally bring the account right back down",
+          "who": "Derrek",
+          "date": "2026-09-20"
+        },
+        {
+          "quote": "can you work on threads first ? i have a feeling this is the could be the root cause for all the other problems",
+          "who": "Barb Brazil",
+          "date": "2026-09-22"
+        },
+        {
+          "quote": "Clearing notes of ai",
+          "who": "Vivek",
+          "date": "2026-09-24"
+        }
+      ]
+    },
+    "billing_ops": {
+      "severity": 2,
+      "internal_failure": "Billing is the only function on this account that operates reliably, and we still managed to make it the last thing we said to her. Five invoices, five paid, never a dispute. But our receiving details have changed four times in ten weeks, three consecutive Zelle rails failed in August until the owner posted his personal phone number in the group, she has hit her Zelle per-transaction cap on three separate invoices and 53 days later we still have not offered ACH or wire, and invoice #4 was under-billed by $1,683.12 (a 143% error) with the correction requested after she had already paid. This week we sent a day-7 payment chase on Sep 21 — while her main account had been dead for four days, her retention warning had gone seven days unanswered, and the balance being chased existed only because of our own arithmetic error. She paid in 2 hours and apologised. Credit where due: Stephski self-disclosed the error with the full arithmetic shown rather than burying it.",
+      "evidence": [
+        {
+          "quote": "Hi love! just wanted to check in on payment! Are you able to send by tomorrow? Tomorrow is day 7 since recieving invoice so just wanted to bump ❤️",
+          "who": "Stephski",
+          "date": "2026-09-21"
+        },
+        {
+          "quote": "Oh hey sorry yes it slipped my mind my bad!",
+          "who": "Barb Brazil",
+          "date": "2026-09-22"
+        },
+        {
+          "quote": "I'm so sorry there was a typo on my side regarding your total. The Net revenue and % is correct, but the total shouldve been 2,859.72 based on that math not $1176.60.",
+          "who": "Stephski",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "ownership_escalation": {
+      "severity": 3,
+      "internal_failure": "Nobody owns this account and the escalation path is a dead end that the client can watch. Mayson is the designated 'go to for all things altr' and has no authority: this week he tagged Vivek on Sep 21, Sep 22 and Sep 24, asked 'How long do you it will take?' and was never answered by his own colleague in front of the client. His Aug 24 tag to Michelle is now 32 days unanswered. The retention warning of Sep 14 has no owner at all — Derrek has been in the chat on Sep 19, 20 and 22 and has not addressed it once. Olivia issues staffing directives to Mayson inside the client's group. Four people have been added to this chat unannounced (Jul 24, Jul 29, Sep 10, Sep 17) and two were never introduced.",
+      "evidence": [
+        {
+          "quote": "How long do you it will take?",
+          "who": "Mayson Chat",
+          "date": "2026-09-21"
+        },
+        {
+          "quote": "Hey @fonta how are we doing with Barbaras backup accounts?",
+          "who": "Mayson Chat",
+          "date": "2026-09-24"
+        },
+        {
+          "quote": "Lmk im very nervous with the situation @mmayson @ofwizz @sotom225",
+          "who": "Barb Brazil",
+          "date": "2026-08-24"
+        }
+      ]
+    },
+    "disengagement_detection": {
+      "severity": 3,
+      "internal_failure": "She told us in writing she was leaving unless something changed, and eleven days later nobody has replied to the message. Mayson offered a call for Sep 15; there is no evidence anywhere in the chat that it happened, no plan was ever posted, and the numbers question was never answered — the next thing we asked her for was a Facebook account. She has now been silent for 3 days after a thrice-repeated frightened question, which is the longest gap she has ever left and the first she has not broken herself, and no one on our side has noticed: the only messages since are internal. Every early-warning signal on this account — Aug 6, Aug 11, Aug 24, Sep 14 — was raised by the client, and she wrote her own rescue plan on Aug 24 which is still awaiting a yes or no 32 days later.",
+      "evidence": [
+        {
+          "quote": "i really want to continue working together, i just need to see some changes because where the numbers are right now isn’t sustainable for me.",
+          "who": "Barb Brazil",
+          "date": "2026-09-14"
+        },
+        {
+          "quote": "Let’s hop on a call tomorrow @barbsilvaxo and go over it!",
+          "who": "Mayson Chat",
+          "date": "2026-09-14"
+        },
+        {
+          "quote": "Someone sent me something you had posted on ur story for the current unban situation @ofwizz we are good for my main right? ... i just wanna make sure im good and don’t need to figure out a back up plan in case im just anxious about it 🥺",
+          "who": "Barb Brazil",
+          "date": "2026-09-20"
+        },
+        {
+          "quote": "and is the same thing ganna happen with my main when it comes back i’m scared 😭😭😭😭😭",
+          "who": "Barb Brazil",
+          "date": "2026-09-20"
+        }
+      ]
+    },
+    "security_hygiene": {
+      "severity": 3,
+      "internal_failure": "We invited credentials into an open group chat, never inventoried them, never rotated them after four account compromises, and now cannot answer the client's direct question about whether our own access is killing her accounts. Her first operational question was 'is this where i can send my logins for my socials?' and the answer was effectively yes; Vivek replied to a flagged-account screenshot with a bare 'Send login' in the group. This week she posted what appears to be a login alert with 'is this you guys' (never answered), asked 'did anyone even log into that one or what happened' (never answered), and asked Mayson directly whether anyone logged in after recovery and got a one-word 'No' with no access log behind it. Then Vivek instructed her to log into the suspended account and screenshot it; she raised a device-safety concern three times and we never replied — that unanswered question is the last thing she said to us. Derrek's Aug 11 promise to move her accounts onto our devices and swap the flagged numbers/emails was never reported back, 45 days ago.",
+      "evidence": [
+        {
+          "quote": "Can you login your Instagram account send me the read more about this rule screenshot",
+          "who": "Vivek",
+          "date": "2026-09-22"
+        },
+        {
+          "quote": "@mmayson is there someone who logged into it when we got it back? i’m just paranoid using this device to log in",
+          "who": "Barb Brazil",
+          "date": "2026-09-22"
+        },
+        {
+          "quote": "Send login",
+          "who": "Vivek",
+          "date": "2026-07-31"
+        },
+        {
+          "quote": "Were putting them on our devices tn, and changing up the flagged numbers or emails",
+          "who": "Derrek",
+          "date": "2026-08-11"
+        }
+      ]
+    }
+  },
+  "metrics": {
+    "client_questions_total": 60,
+    "unanswered_over_24h": 29,
+    "max_team_silence_days": 3.8,
+    "promises_made": 41,
+    "promises_kept": 15,
+    "promises_lapsed": 23,
+    "method": "Manual read of all 457 non-service messages in data/chats/barbara-x-altr.jsonl (2026-07-20T17:26 -> 2026-09-24T09:17): 249 from the client (Barb Brazil, per client_aliases in config/clients.yaml) and 208 from our side (Mayson 38, Stephski 35, Olivia 32, Derrek 32, Michelle 27, Vivek 24, Mica 20 — all direct ALTR staff per config/team.yaml; no vendor chat team operates in this group). Counts extend the 2026-09-18 pass forward over the Sep 18-24 window using the same rules. 'Client question' = a client message containing an explicit ask, punctuated or not; a multi-message ask counts once. A naive '?' count over the raw file gives 43; the manual figure is higher because many asks are unpunctuated. 'Unanswered >24h' = never answered, answered only after 24h, or acknowledged with no substance (a tag, an emoji, 'We will check'). ~10 new asks landed Sep 18-24 and ~7 are unanswered, including the terminal device-safety question asked three times. 'Promise' = an explicit first-person commitment by our side to do or send something; 'kept' = evidenced in chat; 'lapsed' = never delivered and never mentioned again. 3 commitments made Sep 21-22 are still technically in-window and counted as neither. Derrek's Sep 19 'we got both of your backup accounts back' is counted as kept-then-reversed (1 kept), since the client contradicted it within 24h. max_team_silence_days computed from consecutive our-side timestamps: 3.82d (Sep 10 18:04 -> Sep 14 13:43), then 3.77d (Sep 4 -> Sep 8), 3.19d (Aug 27 -> Aug 30), and notably 2.17d (Sep 17 15:46 -> Sep 19 19:51) which falls entirely inside the ban crisis."
+  },
+  "what_client_wanted": [
+    "Her numbers to go up, and to be shown them. Aug 24: 'i definitely wanna see my numbers increase not keep going down 😭'. Sep 14: 'where the numbers are right now isn't sustainable for me.' In 67 days we have never shown her a single posting, view, follower or revenue figure — she found the collapse herself in her own dashboard.",
+    "A written plan with a named owner. Sep 14: 'i'd love to figure out a clear plan for what we can do to start getting things moving back in the right direction' — she even nominated the owner ('not sure if @fonta can prioritize that this week') and had already drafted her own version on Aug 24 ('maybe we can just do like a very heavy OFTV focus like I shoot once a week').",
+    "To be told her accounts are safe, by someone who can prove it. Sep 20: 'we are good for my main right? ... i just wanna make sure im good and don't need to figure out a back up plan'. Sep 22: 'is there someone who logged into it when we got it back? i'm just paranoid using this device to log in'. She is not asking for speed, she is asking for certainty, and we have never given her an access log or a root cause.",
+    "To know who at ALTR owns what. Jul 26: 'if i have any questions regarding anything who would be the right person to reach out to from the group?' Jul 31, on discovering we do not run her X: 'to be honest, I'm very confused lol'.",
+    "To stay. Sep 14: 'i really want to continue working together, i just need to see some changes.'"
+  ],
+  "what_worked": [
+    "A concrete, specific win delivered and announced gets an instant, warm response — Derrek's Sep 19 'Yes we got both of your backup accounts back / Working on the next one' drew 'AMAZING THANK YOU! 🙏🏼' within 90 seconds, the only positive exchange in the final three weeks. The lesson cuts both ways: it unravelled within 24 hours because nobody verified it with her before announcing it.",
+    "Olivia's OFTV workstream is the one part of this account that reliably delivers, and she praises it unprompted. Aug 27, after Olivia organised the gun-range shoot end to end: 'I had the best time today shooting and shooting 🔫 Ben is awesome'. Sep 4, on the edits: 'These are too good Liv!!!!! thank you super star!!!!!!!! uploading now'. Olivia also gave the best crisis response on the account — 14 minutes after 'I AM FREAKING OUT' she reframed to what was controllable and put three concrete actions on the table.",
+    "Michelle's weekly DMCA leak-removal report was our only flawless service and the only thing she volunteered thanks for six weeks running (Aug 10, 17, 25, Sep 1, 8) — and the only thing she ever asked us to expand ('Do we also have my free page we are looking for leaks for?'). It has now been dead for 16 days, which is a self-inflicted loss of the single trust asset we had.",
+    "Stephski's billing honesty. She caught her own $1,683.12 under-billing, disclosed it with the full arithmetic shown rather than burying it, and told the client to take her time. Five invoices, five paid, zero disputes — she is the only person on this account with a perfect close rate."
+  ],
+  "top_fix": "Give this account one named owner who closes loops in writing, and make a weekly written status containing at least one real number a non-negotiable deliverable. Every failure here is the same failure wearing a different hat: we reply in 43 minutes and we close in never — 23 lapsed promises, 29 unanswered asks, a client-written rescue plan sitting 32 days without a yes or no, and a retention warning that got a call offer and no call. A single owner posting 'here is what we posted, here is what it did, here is every open item with a date and a name' every Friday would have surfaced the traffic collapse in week two instead of letting her find it in her own OnlyFans dashboard in week eight; would have made it impossible for a Meta-support rep to re-promise the same account recovery four times in eight weeks; and would have caught the one thing that actually ends this relationship — a frightened client asking the same question three times, getting silence, and going quiet for the first time in 67 days while the only messages in her chat were about her rather than to her."
+}

@@ -1,0 +1,49 @@
+# Jack Unban New  [whatsapp #50]
+msgs=41 (in=41 out=0) window=2026-03-31..2026-09-17
+CLIENT-ONLY, last_client=2026-09-17 (1d ago), DEREK NEVER REPLIED
+LAST MESSAGE FROM CLIENT — UNANSWERED: "I didn't do anything wrong with the account, I recovered it and removed the restrictions, and then he wanted me to unshadowban him, so I asked Vivek if he had any idea"
+
+  ...
+[2026-03-31 16:01] Jack Unbans: Send lookup Price 150$
+[2026-04-13 01:14] Jack Unbans: Yo
+[2026-04-13 01:14] Jack Unbans: Any cases
+[2026-07-10 21:04] 106421353971842@lid: Send cases good price
+[2026-07-10 21:05] 106421353971842@lid: Can beat anyone’s price
+[2026-07-11 17:20] 106421353971842@lid: 2100
+[2026-07-12 17:20] 106421353971842@lid: What price are others offering you?
+[2026-07-12 17:21] 106421353971842@lid: I will give you a better price
+[2026-07-13 18:19] 106421353971842@lid: 1800$ for integrity
+[2026-07-14 21:00] 106421353971842@lid: Yooo
+[2026-07-16 15:32] 106421353971842@lid: 1k for integrity
+[2026-07-16 15:48] 106421353971842@lid: 900$
+[2026-07-17 15:22] 106421353971842@lid: Derrek dm on tg asapp
+[2026-07-23 16:21] 106421353971842@lid: Derrek I’m collecting cases for rep
+[2026-07-23 16:21] 106421353971842@lid: Lmk
+[2026-07-23 16:34] 106421353971842@lid: Derreklk
+[2026-07-23 16:34] 106421353971842@lid: Rep active
+[2026-07-23 16:34] 106421353971842@lid: Send asap
+[2026-07-24 02:55] 106421353971842@lid: Rep in again
+[2026-07-24 03:16] 106421353971842@lid: Derrek rep in send cases asap
+[2026-07-24 14:59] 106421353971842@lid: Send cases best price in market
+[2026-07-24 15:04] 106421353971842@lid: 2k
+[2026-07-24 15:36] 106421353971842@lid: My rep started
+[2026-07-25 15:30] 106421353971842@lid: My rep in for 6-7h For 24h tat price 1550$ For 12h tat price 1750$
+[2026-07-25 17:59] 106421353971842@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/106421353971842@lid/c/f/cf5bbcee-b97c-48d6-9fca-16bfc71cca8b.jpg>
+[2026-07-29 23:33] 106421353971842@lid: Yo
+[2026-07-29 23:33] 106421353971842@lid: Derrek
+[2026-07-29 23:33] 106421353971842@lid: Listen
+[2026-07-29 23:34] 106421353971842@lid: My Telegram account is no longer active because I had purchased a number from the website and didn't have the money to renew it, and someone else bought it. Contact me here.
+[2026-07-29 23:35] 106421353971842@lid: Please check if the account has a username and send it to me; I want to contact him.
+[2026-07-29 23:57] 106421353971842@lid: Yo
+[2026-07-30 00:03] 106421353971842@lid: You created a group between me, you, and Kartik. Please add me to the group from this account @jack_unban. I want to contact the person in my account
+[2026-07-30 00:21] 106421353971842@lid: Yo lmk asap
+[2026-07-30 03:19] 106421353971842@lid: .
+[2026-07-30 15:06] 106421353971842@lid: Brooo
+[2026-07-30 15:06] 106421353971842@lid: It is very important
+[2026-07-31 02:46] 106421353971842@lid: Is there any update on the work you told me about?
+[2026-09-04 16:10] 106421353971842@lid: Yo see dm on tg for claim ASAP
+[2026-09-17 16:07] 106421353971842@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/106421353971842@lid/1/e/1ebfc3b2-a765-4af7-8aa8-477a8c6bbd76.jpg>
+[2026-09-17 16:07] 106421353971842@lid: Bro lol why does he say that to the customers?
+[2026-09-17 16:08] 106421353971842@lid: I didn't do anything wrong with the account, I recovered it and removed the restrictions, and then he wanted me to unshadowban him, so I asked Vivek if he had any idea

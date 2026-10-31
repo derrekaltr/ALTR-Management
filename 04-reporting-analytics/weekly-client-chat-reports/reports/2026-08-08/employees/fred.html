@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
+<title>Fred — Weekly Summary 2026-08-08</title>
+<style>
+:root {
+  color-scheme: light;
+  --page: #f9f9f7; --surface: #fcfcfb;
+  --ink: #0b0b0b; --ink-2: #52514e; --muted: #898781;
+  --grid: #e1e0d9; --baseline: #c3c2b7; --ring: rgba(11,11,11,0.10);
+  --series-1: #2a78d6;
+  --good: #0ca30c; --warning: #fab219; --serious: #ec835a;
+  --delta-good: #006300;
+  --good-bg: rgba(12,163,12,.10); --warning-bg: rgba(250,178,25,.14); --serious-bg: rgba(236,131,90,.14);
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: dark;
+    --page: #0d0d0d; --surface: #1a1a19;
+    --ink: #ffffff; --ink-2: #c3c2b7; --grid: #2c2c2a; --baseline: #383835;
+    --ring: rgba(255,255,255,0.10); --series-1: #3987e5; --delta-good: #0ca30c;
+  }
+}
+@media print { :root { color-scheme: light; --page: #ffffff; --surface: #ffffff; } }
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--page); color: var(--ink); font: 15px/1.55 system-ui, -apple-system, "Segoe UI", sans-serif; }
+.wrap { max-width: 760px; margin: 0 auto; padding: 32px 24px 64px; }
+.card { background: var(--surface); border: 1px solid var(--ring); border-radius: 12px; padding: 24px 26px; }
+h1 { font-size: 21px; margin: 0; display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+.sub { color: var(--ink-2); margin: 2px 0 16px; }
+.badge { display: inline-flex; align-items: center; gap: 5px; font-size: 12.5px; font-weight: 600; padding: 2px 9px; border-radius: 999px; border: 1px solid var(--ring); }
+.badge.good { background: var(--good-bg); } .badge.warning { background: var(--warning-bg); } .badge.serious { background: var(--serious-bg); }
+.dot { width: 8px; height: 8px; border-radius: 50%; display: inline-block; }
+.dot.good { background: var(--good); } .dot.warning { background: var(--warning); } .dot.serious { background: var(--serious); }
+.pill { font-size: 12px; border: 1px solid var(--ring); border-radius: 999px; padding: 1px 8px; color: var(--ink-2); }
+h2 { font-size: 13px; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); margin: 22px 0 8px; }
+table { width: 100%; border-collapse: collapse; font-size: 13.5px; }
+th { text-align: left; color: var(--muted); font-weight: 600; font-size: 12px; padding: 4px 8px 4px 0; border-bottom: 1px solid var(--grid); }
+td { padding: 6px 8px 6px 0; border-bottom: 1px solid var(--grid); vertical-align: top; font-variant-numeric: tabular-nums; }
+ul { margin: 0; padding-left: 20px; } li { margin: 5px 0; }
+.strength::marker { content: "✓  "; } .strength { color: var(--ink-2); }
+.flag::marker { content: "⚠  "; } .flag { color: var(--ink-2); }
+blockquote { margin: 8px 0 0; padding: 6px 12px; border-left: 3px solid var(--baseline); color: var(--ink-2); font-size: 13.5px; }
+.q-meta { color: var(--muted); font-size: 12px; }
+footer { color: var(--muted); font-size: 12.5px; margin-top: 20px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+<div class="card">
+  <h1>Fred
+    <span class="pill">OFM</span>
+    
+    <span class="badge serious"><span class="dot serious"></span>10 open items</span>
+  </h1>
+  <div class="sub">ALTR weekly summary · week ending 2026-08-08</div>
+
+  <p>Two books, both with boundary problems. Lilia: chatters mishandling her top spenders (6 escalations since June, a high spender lost Jul 29), removal of the offending chatter never confirmed. Shayna (58 health, lowest in the book with Lauryn): she&#39;s re-stated the same rules for months — no feed posts (asked 4x, 4th unauthorized post Aug 5), no free explicit content (asked ~8x since April), track customs (5x) — and says outright she doesn&#39;t feel heard. He responds fast and root-caused the Aug 5 feed post, but fixes keep un-sticking.</p>
+
+  
+  <h2>By client</h2>
+  <table>
+    <thead><tr><th>Client</th><th>Reminders</th><th>Complaints</th><th>Commitments</th><th>Notes</th></tr></thead>
+    <tbody>
+    
+      <tr><td>Shayna</td><td>19</td><td>3</td>
+          <td>2 kept</td>
+          <td style="font-size:12.5px">Feed posts x4, free explicit content x8, customs tracking x5, no-lives x2; Aug 7 custom question unanswered at week end; customs tracker broken since ~Jul 20; she leaves for a month-long Africa trip imminently</td></tr>
+    
+      <tr><td>Lilia</td><td>6</td><td>2</td>
+          <td>0 kept</td>
+          <td style="font-size:12.5px">VIP mishandling recurring since June; chatter removal + OF reconnection both unconfirmed</td></tr>
+    
+    </tbody>
+  </table>
+  
+
+  
+  <h2>What went well</h2>
+  <ul><li class="strength">Fast, apologetic responses — root-caused Shayna&#39;s feed-post bug to an orphaned auto-scheduler and disconnected it same week; briefed the team on her travel</li></ul>
+  
+
+  
+  <h2>Focus areas this week</h2>
+  <ul><li class="flag">Close loops in writing: the chatter-removal promise (Jul 24, Lilia) and the post-login-change reconnection both lack written confirmation — silence reads as inaction</li><li class="flag">Shayna&#39;s rules need to be made structural, not repeated verbally: client-approved media folder, vault notes, and the shared customs tracker are all still pending — she has asked the same things ~19 times</li><li class="flag">Same VIP/boundary-protection gap as the other chat books — coordinate a shared playbook with Ollie</li></ul>
+  
+
+  
+  <blockquote>“Missed out on my highest spender kind of pissed about it when it took me ages to get him back” <span class="q-meta">— Lilia, 2026-07-29</span></blockquote>
+  
+  <blockquote>“Guyss third time I&#39;ve asked that no feed posts go up. please relay this to the rest of the” <span class="q-meta">— Shayna, 2026-07-29</span></blockquote>
+  
+</div>
+<footer>Generated by ALTR client-chat reporting · confidential — for Fred and management.</footer>
+</div>
+</body>
+</html>

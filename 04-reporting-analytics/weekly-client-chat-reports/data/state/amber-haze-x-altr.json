@@ -1,0 +1,397 @@
+{
+  "client": "Amber Haze",
+  "slug": "amber-haze-x-altr",
+  "as_of": "2026-09-25",
+  "window_covered": "2026-09-18T09:05:17-04:00 -> 2026-09-25T09:08:16-04:00 (12 messages, 9 client / 3 team)",
+  "account_status": {
+    "state": "CHURNED",
+    "terminated": "2026-09-21T12:55:21-04:00",
+    "termination_quote": "Hey guys, I’ve decided to go another way with my account. Thank you for everything you guys have been great, I just got an opportunity I can’t pass up! Please send me the final invoice I’ll get that paid straight away ❤️",
+    "altr_response": "NONE. No ALTR message of any kind after 2026-09-21 11:28:54. At window close (2026-09-25 09:08) the termination notice is 3 days 20 hours unanswered.",
+    "trigger": "2026-09-21 11:28 she asked 'Hi money had been very very low for a while now is there anything the team is doing to help this what’s the next step?' and tagged @mmayson. Mayson replied 35 seconds later with 'Let’s hop on a call tomorrow and go over it!' — the THIRD call offer in 18 days. She replied 'Okay but we did this already nothing Has been changed since?' and terminated 86 minutes later.",
+    "tone_at_exit": "warm, non-hostile, no dispute, no refund demand, offered to pay the final invoice immediately",
+    "next_run_note": "THIS CHAT WILL NOW BE SILENT. A silent chat produces no findings, so the account will vanish from the dashboard with its final invoice still uncollected. KEEP IT ON THE BOARD until the final invoice is issued AND paid. Do not let next week's run interpret silence as health or as resolution."
+  },
+  "open_complaints": [
+    {
+      "issue": "CHURN. Client terminated 2026-09-21 12:55 and nobody at ALTR has replied. No acknowledgement, no save attempt, no final invoice, no offboarding. Derrek has not posted in this chat since 2026-09-13. The polite wrapper was 'I just got an opportunity I can’t pass up'; the substance is seven unanswered escalations of the same growth/revenue complaint since 2026-05-20 and a 2026-09-02 staffing request that was never answered at all.",
+      "first_raised": "2026-09-21",
+      "owner": "Derrek",
+      "status": "recurring",
+      "weeks_open": 1,
+      "days_open": 4,
+      "days_unanswered": 4,
+      "severity": "critical"
+    },
+    {
+      "issue": "EARNINGS — the complaint that ended the account. 2026-09-21: 'Hi money had been very very low for a while now is there anything the team is doing to help this what’s the next step?'. Seventh escalation of the growth/revenue complaint (2026-05-20, 2026-06-02, 2026-06-04, 2026-07-21, 2026-09-02, 2026-09-15, 2026-09-21) and the direct descendant of 'Will help boost the money' six days earlier. The only response was a call offer 35 seconds later. Never answered with a figure, a plan or an owner.",
+      "first_raised": "2026-06-02",
+      "owner": "Mayson",
+      "status": "recurring",
+      "weeks_open": 17,
+      "days_open": 115,
+      "days_unanswered": 4,
+      "severity": "critical"
+    },
+    {
+      "issue": "A CALL OFFERED INSTEAD OF AN ANSWER, THREE TIMES IN EIGHTEEN DAYS. 2026-09-03 'Are you available for a call tomorrow morning UK time?' (Sept 4 10:30 UK call, zero messages in chat that day); 2026-09-11 a bare Google Meet link with no message, time or context, never answered, never chased; 2026-09-21 'Let’s hop on a call tomorrow and go over it!' which she rejected explicitly — 'Okay but we did this already nothing Has been changed since?' — before quitting 86 minutes later. Earlier meeting links Jun 6 and Jul 26. ZERO written outcomes from any of them. THE TRANSFERABLE AGENCY LESSON: on this account, offering a call was how ALTR avoided answering.",
+      "first_raised": "2026-09-03",
+      "owner": "Mayson",
+      "status": "recurring",
+      "weeks_open": 4,
+      "days_open": 22,
+      "severity": "critical"
+    },
+    {
+      "issue": "HER 2026-09-02 INSTAGRAM-MANAGEMENT COMPLAINT WAS NEVER ANSWERED — 23 days from ask to churn. Editing and management 'quite poor', same songs reused, ~150 views per post, a friend's management taking two extra accounts to ~40k followers on the identical brief by re-editing existing content, and a direct request for a named specialist on her two accounts with an offer to hand over all her content. Zero written replies across 23 days; only a bare meeting link (Sept 11) and a call offer (Sept 21). ROOT CAUSE OF THE CHURN.",
+      "first_raised": "2026-06-02",
+      "owner": "Derrek",
+      "status": "recurring",
+      "weeks_open": 17,
+      "days_open": 115,
+      "unanswered_since": "2026-09-02",
+      "days_unanswered": 23,
+      "severity": "critical"
+    },
+    {
+      "issue": "HER 2026-09-15 FACEBOOK PROOF REQUEST WAS NEVER ANSWERED — 10 days from ask to churn. 'Hi can I see some updates and proof of Facebook advertising please as I feel like none has been done for ages' + 'Will help boost the money'. She requested the boost herself 2026-08-20, Mayson announced a launch 2026-08-21, she asked 'Campaign ?' 2026-08-22 and got 'The ads are running on Facebook'. 32 days of campaign, zero figures ever. Last week's report ranked this FIRST on the action list and called it a ten-minute job in Ads Manager (FB page id 61588804088551). It was still not done.",
+      "first_raised": "2026-08-20",
+      "owner": "Mayson",
+      "status": "recurring",
+      "weeks_open": 5,
+      "days_open": 36,
+      "unanswered_since": "2026-09-15",
+      "days_unanswered": 10,
+      "severity": "critical"
+    },
+    {
+      "issue": "OWNER ABSENT AT THE MOMENT OF CHURN. Derrek: zero messages this window, silent since 2026-09-13, last substantive message 2026-08-01 (55 days). Two owner-level questions leave the engagement permanently unanswered (Meta-rep cost split 54d, $40k phone-farm weekly updates 55d). Last week's report said to escalate this account to him as a churn risk; there is no evidence in the chat that it reached him, and he has not responded to the termination notice.",
+      "first_raised": "2026-08-22",
+      "owner": "Derrek",
+      "status": "recurring",
+      "weeks_open": 5,
+      "days_open": 34,
+      "severity": "critical"
+    },
+    {
+      "issue": "WESLEY UNCONFIRMED AT EXIT. Anniversary flowers video due 2026-08-11 and five-part custom/sexting session due 2026-08-14 — 45 and 42 days, ZERO trace in the full 1,137-message history, sixth consecutive report carrying it. Wesley (@wesley_amber_haze_lover) was her top spender and the fan she was personally protective of. If the sends never went out it is a concrete contributor to 'money had been very very low for a while now' and the most likely thing to surface after she leaves. VERIFY WITH OLLIE OUT OF BAND.",
+      "first_raised": "2026-08-11",
+      "owner": "Ollie Mckinlay",
+      "status": "recurring",
+      "weeks_open": 7,
+      "days_open": 45,
+      "severity": "critical"
+    },
+    {
+      "issue": "SECURITY, UNRESOLVED AT EXIT: the Instagram password she pasted in plain text into the group chat on 2026-09-07 at Vivek's request (Amber_hazee / [REDACTED-PASSWORD]) has still never been confirmed rotated — 18 days, still live. Third time she was prompted to paste credentials (2026-05-09, 2026-05-20, 2026-09-07). ALTR still holds logins to her main Instagram and both management-run accounts. Vivek zero messages for 18 days, hospitalised as of 2026-09-13, no cover ever named. Now an OFFBOARDING item: rotate, hand back, revoke, confirm in writing.",
+      "first_raised": "2026-09-07",
+      "owner": "Vivek",
+      "status": "in_progress",
+      "weeks_open": 3,
+      "days_open": 18,
+      "severity": "high"
+    },
+    {
+      "issue": "THE LAST THING ALTR EVER ASKED HER FOR WAS MORE CONTENT — fourth wall-photo request (Jul 3, Jul 13, Jul 29, Sept 18), answered by her on 2026-09-21 with 'You should have loads still on the folders I sent you? Has that been all used up?' — the same pushback as 2026-07-14. Ollie replied 'Yes a lot of it has been used up' (the first substantive statement in five months about what happened to her Drive content). She was still cooperative: 'I see well I am away atm I’ll try get some done when I am back next week is that okay?'. Four minutes later she asked about the money; ninety minutes later she left. Eight seconds to answer what she owed us; 23 days of nothing on what we owed her.",
+      "first_raised": "2026-07-14",
+      "owner": "Ollie Mckinlay",
+      "status": "recurring",
+      "weeks_open": 11,
+      "days_open": 73,
+      "severity": "high"
+    },
+    {
+      "issue": "THE 30-REELS-A-MONTH QUOTA SHE REFUSED ON 2026-09-02 WAS NEVER ANSWERED — 23 days, open at exit. Quota imposed 2026-08-30 with no discussion and no reciprocal reporting (7/week, 30/month, fresh only, nothing reusable from her main). She refused on economic grounds and proposed the fix herself (recut long videos into 3-4 distinct versions). Three further content requests were made of her afterwards (Sept 10 Drive re-send, Sept 18 wall photos, Sept 21 confirmation) and zero figures were ever sent back.",
+      "first_raised": "2026-09-02",
+      "owner": "Mayson",
+      "status": "recurring",
+      "weeks_open": 4,
+      "days_open": 23,
+      "severity": "high"
+    },
+    {
+      "issue": "BOTH PROACTIVE DELIVERABLES RESTORED LAST WEEK STOPPED AGAIN IMMEDIATELY. Michelle's weekly leak-removal report: SECOND consecutive miss, 17 days since 2026-09-08, against a cadence that never missed Jul 1 -> Sept 8 (Jul 1, 10, 17, 26, Aug 1, 10, 17, 25, Sept 1, 8); Michelle zero messages, silent since 2026-09-10. Mica Vecco's reel-inspo drop: restored 2026-09-15 (11 links, largest ever), due again ~2026-09-22, never came; Mica zero messages. Last week's report said the Mica cadence had to hold two more weeks to count as durable — it did not hold one.",
+      "first_raised": "2026-09-15",
+      "owner": "Michelle",
+      "status": "recurring",
+      "weeks_open": 2,
+      "days_open": 17,
+      "severity": "high"
+    },
+    {
+      "issue": "Chat-team conduct and boundary items close out unresolved: the written 2026-07-14 boundary brief never pinned and the one-page vault index never built (recommended in SIX consecutive reports, 73 days, three breaches of the same written rule on Jul 14 / Aug 10 / Aug 20); chatters overpromising to fans open since 2026-07-29 (58 days); Moggy (snap will17489) OnlyFans damage control promised twice on 2026-08-07 and never confirmed back to her (49 days, revenue outcome still unknown).",
+      "first_raised": "2026-07-14",
+      "owner": "Ollie Mckinlay",
+      "status": "recurring",
+      "weeks_open": 11,
+      "days_open": 73,
+      "severity": "high"
+    },
+    {
+      "issue": "Block list never mirrored from her main Instagram onto the two management-run accounts. 138 days from the 2026-05-10 request she flagged as 'very important'. Two consecutive windows with no movement and no mention from either side; stalled since 2026-08-30 when the work was handed back to her on accounts ALTR holds the login for. Oldest unactioned item on the file; leaves the engagement undone.",
+      "first_raised": "2026-05-10",
+      "owner": "Mayson",
+      "status": "recurring",
+      "weeks_open": 20,
+      "days_open": 138,
+      "severity": "medium"
+    },
+    {
+      "issue": "The Instagram 'can’t go live' restriction was never verified. Vivek marked it 'Fixed' 2026-09-07; she reported it still live 2026-09-13 and tagged @fonta; the only answer was 'Nope it won’t' from Derrek, not the Meta rep, with no check attached. Vivek unreachable 18 days, no cover ever named. 12 days unverified at exit — flag it in the handover as possibly still live.",
+      "first_raised": "2026-07-21",
+      "owner": "Vivek",
+      "status": "in_progress",
+      "weeks_open": 10,
+      "days_open": 66,
+      "severity": "medium"
+    }
+  ],
+  "resolved_last_week": [],
+  "open_commitments": [
+    {
+      "what": "RESPOND TO THE TERMINATION NOTICE, OWNER-LEVEL. 3 days 20 hours of silence since she gave notice. Acknowledge, thank her, answer the Meta-rep cost and what the $40k phone farm produced, and either make a concrete written retention offer (named people, real numbers) or run a clean handover. DO NOT OFFER HER A CALL — a fourth call offer is what ended this.",
+      "who": "Derrek",
+      "date": "2026-09-21",
+      "status": "overdue",
+      "days_overdue": 4,
+      "severity": "critical"
+    },
+    {
+      "what": "SEND THE FINAL INVOICE. She asked for it herself 2026-09-21 and said she would pay straight away. Not sent 4 days later; Stephski silent since 2026-09-16. Billing stopped at the 2026-09-14 period end, so 2026-09-15 -> 2026-09-21 revenue is unbilled and uncollected.",
+      "who": "Stephski",
+      "date": "2026-09-21",
+      "status": "overdue",
+      "days_overdue": 4,
+      "severity": "critical"
+    },
+    {
+      "what": "OFFBOARDING / SECURITY: rotate the Instagram password pasted in-chat 2026-09-07 (Amber_hazee / [REDACTED-PASSWORD]), return access to her main Instagram and @hazeyamberr / @amberhazey_, release her Drives and the shared iPhone album, hand over or shut down FB page 61588804088551 and the link.me/amber_hazee login (amber_hazee / [REDACTED-PASSWORD]), and confirm every item to her in writing. Assign to someone present — Vivek has been unreachable 18 days.",
+      "who": "Vivek",
+      "date": "2026-09-07",
+      "status": "overdue",
+      "days_overdue": 18,
+      "severity": "critical"
+    },
+    {
+      "what": "VERIFY WESLEY OUT OF BAND: did the 2026-08-11 flowers video and the 2026-08-14 five-part custom/sexting session ever go out? 45 and 42 days, zero trace in 1,137 messages, sixth consecutive report. Revenue question and exit-risk question. Ask Ollie directly; do not raise it with her.",
+      "who": "Ollie Mckinlay",
+      "date": "2026-08-11",
+      "status": "overdue",
+      "days_overdue": 45,
+      "severity": "critical"
+    },
+    {
+      "what": "NEVER DELIVERED: written answer to her 2026-09-02 complaint — real numbers for @hazeyamberr and @amberhazey_, a named editor with a start date, a yes/no on the 30-reels quota. Due at the 2026-09-04 call. Three calls arranged or offered instead; not one produced a written word. This is the item the account died on.",
+      "who": "Mayson",
+      "date": "2026-09-04",
+      "status": "overdue",
+      "days_overdue": 21,
+      "severity": "critical"
+    },
+    {
+      "what": "NEVER DELIVERED: Facebook ad proof and figures — spend, reach, follower delta, screenshots of live ads on page 61588804088551. Asked 2026-09-15, 10 days to churn. Put it in the handover summary if one is produced.",
+      "who": "Mayson",
+      "date": "2026-09-15",
+      "status": "overdue",
+      "days_overdue": 10,
+      "severity": "critical"
+    },
+    {
+      "what": "NEVER DELIVERED: performance figures for the two management-run Instagram accounts. Asked 2026-08-30, answered with two links and 'Working on it!!'. 26 days to churn, and in four and a half months she never received a single metric on accounts ALTR ran for her. Mechanical root cause of every complaint on the file.",
+      "who": "Mayson",
+      "date": "2026-08-30",
+      "status": "overdue",
+      "days_overdue": 26,
+      "severity": "critical"
+    },
+    {
+      "what": "NEVER ANSWERED: her 2026-08-02 Meta higher-up rep questions (cost split, what it covers, whether she needed it, whether ALTR needed anything from her for the Monday switch). 54 days, eight consecutive weekly reports, owner-level, client gone.",
+      "who": "Derrek",
+      "date": "2026-08-02",
+      "status": "overdue",
+      "days_overdue": 54,
+      "severity": "critical"
+    },
+    {
+      "what": "NEVER DELIVERED: weekly $40k phone-farm / IG rollout updates ('plenty of updates starting next week', 2026-08-01). 55 days, one uncaptioned screenshot on 2026-08-13 as the entire output. The rollout was the stated reason her accounts would improve and she was never shown it working.",
+      "who": "Derrek",
+      "date": "2026-08-01",
+      "status": "overdue",
+      "days_overdue": 55,
+      "severity": "critical"
+    },
+    {
+      "what": "Moggy (snap will17489) OnlyFans damage control, promised twice 2026-08-07, never confirmed back to her. 49 days. Get the revenue answer — retained, churned or charged back — before archiving; it feeds the 'money was low' post-mortem.",
+      "who": "Ollie Mckinlay",
+      "date": "2026-08-07",
+      "status": "overdue",
+      "days_overdue": 49,
+      "severity": "high"
+    },
+    {
+      "what": "Counter-offers never taken back to the two out-of-boundary dildo fans: the $900 spender from 2026-08-10 (name on boobs + tit wank) and the 2026-08-20 fan (oil up first, or name on boobs). 46 and 36 days. She supplied the wording and the discretion; Derrek tagged @olkmck 2026-08-21 and got no reply in 35 days. Revenue lost to silence on an account that ended over low revenue.",
+      "who": "Ollie Mckinlay",
+      "date": "2026-08-10",
+      "status": "overdue",
+      "days_overdue": 46,
+      "severity": "high"
+    },
+    {
+      "what": "Tell her what happens to the DMCA / leak-removal service now she is leaving — continue, stop or transfer — and hand over the removal history. The report ran Jul 1 -> Sept 8 then stopped with no explanation; 17 days, two consecutive misses. It was the deliverable she got the most consistent value from.",
+      "who": "Michelle",
+      "date": "2026-09-15",
+      "status": "overdue",
+      "days_overdue": 17,
+      "severity": "high"
+    },
+    {
+      "what": "Confirm whether the Instagram 'can’t go live' restriction was ever cleared and flag it in the handover if not. 12 days unverified at exit; Vivek unreachable, no cover named.",
+      "who": "Vivek",
+      "date": "2026-09-13",
+      "status": "overdue",
+      "days_overdue": 12,
+      "severity": "medium"
+    },
+    {
+      "what": "Never done: mirror her Instagram block list onto both management accounts (asked 2026-05-10, 'very important'). 138 days. If accounts are handed back, hand them back in the state she asked for or tell her plainly it was never done.",
+      "who": "Mayson",
+      "date": "2026-05-10",
+      "status": "overdue",
+      "days_overdue": 138,
+      "severity": "medium"
+    },
+    {
+      "what": "Never done: pin her 2026-07-14 boundaries message into the chat-team brief and build the one-page vault index. Recommended in SIX consecutive reports, 73 days, never actioned. Carry the recommendation to the other accounts — it was never an Amber-Haze-specific problem.",
+      "who": "Ollie Mckinlay",
+      "date": "2026-07-14",
+      "status": "overdue",
+      "days_overdue": 73,
+      "severity": "high"
+    },
+    {
+      "what": "Client-side: wall photos she agreed on 2026-09-21 to produce 'when I am back next week'. SUPERSEDED BY HER TERMINATION 90 MINUTES LATER — DO NOT CHASE. Recorded only to close the loop.",
+      "who": "Kirsten (amber Haze)",
+      "date": "2026-09-21",
+      "status": "pending",
+      "days_outstanding": 4,
+      "severity": "low"
+    },
+    {
+      "what": "MOOT: Stephski's pre-invoice withdrawal reminder due 2026-09-30 ahead of an Oct 1 invoice. The client left on 2026-09-21, so there is no Oct 1 cycle. She will still need to initiate an OnlyFans withdrawal to pay the FINAL invoice — say so when it is sent.",
+      "who": "Stephski",
+      "date": "2026-09-30",
+      "status": "pending",
+      "days_outstanding": 0,
+      "severity": "low"
+    }
+  ],
+  "completed_recently": [
+    {
+      "what": "Ollie Mckinlay answered both of her 2026-09-21 content questions within 8 and 11 seconds ('Yes a lot of it has been used up', 'Yes that is fine'). The only ALTR responsiveness in the window, and it was spent entirely on what she owed us.",
+      "who": "Ollie Mckinlay",
+      "date": "2026-09-21",
+      "status": "done"
+    },
+    {
+      "what": "Carried from last window and still the best unprompted work on the account: Mica Vecco's 2026-09-17 Instagram security advisory (fresh 2FA backup codes, selfie verification, 'Please do not send your backup codes to anyone, including our team'). Client complied in 10 minutes. STANDARDISE ACROSS EVERY ALTR CLIENT CHAT regardless of this outcome.",
+      "who": "Mica Vecco",
+      "date": "2026-09-17",
+      "status": "done"
+    },
+    {
+      "what": "Carried from last window: Stephski's pre-invoice withdrawal reminder 2026-09-14 13:40 -> invoice 2026-09-15 13:54 -> PAID 2026-09-15 15:55. 2h 1m, fastest cycle of the engagement, tenth consecutive cycle paid. The reminder/speed correlation is proven and should be standard on every account.",
+      "who": "Stephski",
+      "date": "2026-09-15",
+      "status": "done"
+    }
+  ],
+  "payment_history": [
+    {"date": "2026-05-19", "invoice_period": "2026-05-10 to 2026-05-14", "issued": "2026-05-16", "days_to_pay": 3, "note": "First invoice: rate corrected 35%->30% at her request; payment delayed ~2 days by UK bank international-wire setup failures, then paid.", "late": true, "receipt_verified": true},
+    {"date": "2026-06-02", "invoice_period": "2026-05-15 to 2026-05-31", "issued": "2026-06-01", "days_to_pay": 1, "note": "Total revenue figure was wrong, she caught it against her OF dashboard, Stephski reissued same day; paid next morning.", "late": false, "receipt_verified": true},
+    {"date": "2026-06-21", "invoice_period": "2026-06-01 to 2026-06-14", "issued": "2026-06-20", "days_to_pay": 1, "note": "ALTR sent it late on Jun 20 due to their own technical difficulties; she paid next day. Receipt confirmed by Stephski 2026-07-01 ('All good for the last one! we recieved it').", "late": false, "receipt_verified": true},
+    {"date": "2026-07-03", "invoice_period": "2026-06-15 to 2026-06-30", "issued": "2026-07-01", "days_to_pay": 2, "note": "New Bank of America details, billed as 'last change I promise!'; paid 2 days later after a 3-day wedding. Stephski acknowledged 'Thanks love!!'.", "late": false, "receipt_verified": true},
+    {"date": "2026-07-17", "invoice_period": "2026-07-01 to 2026-07-14", "issued": "2026-07-15", "days_to_pay": 2, "note": "Paid 2 days later: 'Sorry for he delay had a busy few days!!'. Stephski acknowledged 2026-07-20.", "late": false, "receipt_verified": true},
+    {"date": "2026-08-04", "invoice_period": "2026-07-15 to 2026-07-31", "issued": "2026-08-01", "days_to_pay": 3, "note": "Needed one ping on Aug 4, then she flagged a total mismatch against her OF dashboard; a $159 chargeback explained it, corrected to $7,705, paid same day. Stephski acknowledged 2026-08-06.", "late": false, "amount": 7705, "receipt_verified": true},
+    {"date": "2026-08-17", "invoice_period": "2026-08-01 to 2026-08-14", "issued": "2026-08-15", "days_to_pay": 2, "note": "Updated account number and new Zelle info; paid in ~35 hours with no ping, no audit challenge, no correction. Pre-invoice withdrawal reminder HAD been sent (Aug 14). She noted 'Sorry forgot to use the invoicing chat'.", "late": false, "receipt_verified": true},
+    {"date": "2026-09-07", "invoice_period": "2026-08-15 to 2026-08-31", "issued": "2026-09-01", "days_to_pay": 6, "note": "Slowest cycle of the engagement. Invoice on time Sept 1 16:57 with PDF, no dispute, no correction. On Sept 5 her UK bank blocked/limited the transfer — she sent a screenshot unprompted and asked to try Sunday. Mayson tagged Stephski in 14 min, Stephski agreed in 35 min, paid Sept 7 05:15 with 'All paid sorry for the wait! xx'. Cause was bank-side and she flagged it herself. THE ONLY CYCLE SINCE AUG 14 WITH NO PRE-INVOICE WITHDRAWAL REMINDER.", "late": false, "receipt_verified": true},
+    {"date": "2026-09-15", "invoice_period": "2026-09-01 to 2026-09-14", "issued": "2026-09-15", "days_to_pay": 0.08, "hours_to_pay": 2.02, "note": "FASTEST CYCLE OF THE ENGAGEMENT and the LAST ONE PAID. Pre-invoice withdrawal reminder sent 2026-09-14 13:40 exactly as recommended. Invoice out 2026-09-15 13:54, PAID 2026-09-15 15:55 with screenshot and 'Paid'. No dispute, no audit challenge, no correction. Stephski confirmed receipt 2026-09-16. FOURTH change to receiving details announced inside this invoice message: 'Please note a slight name change to the account, but the same account and wire info.' NOTE FOR THE POST-MORTEM: she paid in two hours on the same day she asked us to prove any advertising work existed, and quit six days later.", "late": false, "receipt_verified": true},
+    {"date": null, "invoice_period": "2026-09-15 to 2026-09-21 (partial, to termination)", "issued": null, "paid": null, "status": "REQUESTED BY CLIENT 2026-09-21, NOT YET ISSUED", "days_outstanding": 4, "note": "FINAL INVOICE. She asked for it herself — 'Please send me the final invoice I’ll get that paid straight away ❤️' — and it has not been sent 3 days 20 hours later. Stephski silent since 2026-09-16. This is unbilled, uncollected revenue and the only live commercial item on the account. Issue it itemised against her OF dashboard, check the Sept 15-21 window for chargebacks first ($159 precedent 2026-08-04), bill at 30% (corrected down from 35% at her request 2026-05-17), use the Sept 15 receiving details UNCHANGED, and check the separate invoicing chat before treating it as outstanding.", "late": false, "receipt_verified": false}
+  ],
+  "payment_risk": {
+    "next_invoice_due": "IMMEDIATE — final invoice, requested by the client 2026-09-21, still not issued",
+    "invoice_period": "2026-09-15 to 2026-09-21 (partial, to termination)",
+    "cadence": "was semi-monthly (1st and 15th); ENDED — client terminated 2026-09-21",
+    "rate": "30% (corrected down from 35% at her request on 2026-05-17)",
+    "risk": "medium",
+    "reason": "Credit risk on the client remains LOW — ten of ten invoices paid, days-to-pay 3, 1, 1, 2, 2, 3, 1.5, 6, 0.08, every receipt verified in chat, no dispute ever escalated, and she asked for the final invoice herself and volunteered to pay it immediately. The risk is ENTIRELY ALTR-SIDE: the invoice has not been sent. Goodwill peaks on the day of exit and decays from there; a departing client's unbilled balance is exactly the money agencies lose. Compounding it, this chat will now go silent, and a silent chat produces no weekly findings — Amber Haze will read as 'nothing outstanding' on the dashboard even if the final invoice is never issued or never paid. THE LESSON FOR EVERY OTHER ACCOUNT: payment behaviour on this client was flawless right up to the churn and masked the failure completely. She paid the fastest invoice of the engagement six days before quitting, on the same day she said she did not believe any work was being done. Fast payment is not health. Check the fast payers first.",
+    "action": "1) ISSUE THE FINAL INVOICE TODAY for 2026-09-15 to 2026-09-21 at 30%, itemised, after checking the period for chargebacks. 2) Use the 2026-09-15 receiving details unchanged — four changes since May (Wise -> Bank of America Jul 1 'last change I promise!' -> updated account number + new Zelle Aug 15 -> account NAME change Sept 15) for a UK international-wire payer whose bank has already failed her twice (May 18 setup failure, Sept 5 block). 3) Remind her to initiate an OnlyFans withdrawal so the funds land. 4) Check the separate invoicing chat before treating it as outstanding ('Sorry forgot to use the invoicing chat', 2026-08-17). 5) Keep this account on the dashboard until the money is received, regardless of chat silence."
+  },
+  "client_priorities": [
+    "SHE HAS LEFT — these are retained for offboarding, post-mortem and any save attempt, not as a service plan",
+    "Results she can see in her own bank account. Final substantive message: 'Hi money had been very very low for a while now is there anything the team is doing to help this what’s the next step?'",
+    "An ANSWER, in writing, in the chat — never another call. Three call offers in 18 days produced nothing written; the third triggered the exit ('Okay but we did this already nothing Has been changed since?')",
+    "PROOF, not adjectives. Asked to be shown screenshots of ads and flagged posts 2026-06-04 and again 2026-09-15 and never was. In 4.5 months: two links, 'Working on it!!', 'The ads are running on Facebook', and not one follower, view, reach or spend figure",
+    "A named, skilled person on her two management accounts. Asked 2026-09-02, offered to hand over all her content, never answered in the 23 days before she quit",
+    "Reuse and re-edit over more raw production — recut long videos into 3-4 versions rather than doubling raw output for low-view accounts. Never answered",
+    "A prompt final invoice she can pay immediately — the only thing she has asked ALTR for since giving notice",
+    "Clean handback: password rotated, logins to her main and @hazeyamberr / @amberhazey_ returned, Drives and shared iPhone album released, and a straight answer on whether the 'can’t go live' restriction was ever cleared",
+    "Protecting big spenders, especially Wesley (@wesley_amber_haze_lover). His Aug 11 and Aug 14 sends leave the engagement unconfirmed at 45 and 42 days",
+    "Hard boundaries written out 2026-07-14: no video calls, no dildo sucking, never her face with dildo content, no meetups, no location sharing, family limited to 'a dad', explicit content reserved for proven big spenders; she speaks Polish (voice notes ok, can't type it). Never pinned in 73 days",
+    "Not being asked for content she has already supplied — four wall-photo requests since July against three shared Drives, the last three days before she left",
+    "Being chased on her own deliverables — 2026-09-09: 'Also next time please just pester me message me laods to make sure I do it as I just completely forgot about it'. She delivered within 48 hours when reminded; she was more reliable about our asks than we were about hers",
+    "Accurate invoices reconcilable against her OF dashboard, at 30%, with stable receiving details (four changes since May)"
+  ],
+  "health_history": [
+    {"week_ending": "2026-08-08", "score": 68, "trend": "new"},
+    {"week_ending": "2026-08-14", "score": 62, "trend": "down"},
+    {"week_ending": "2026-08-21", "score": 65, "trend": "up"},
+    {"week_ending": "2026-08-28", "score": 48, "trend": "down"},
+    {"week_ending": "2026-09-04", "score": 45, "trend": "down", "note": "scored but NEVER PUBLISHED — run crashed before rendering; its window was folded into the 2026-09-11 report"},
+    {"week_ending": "2026-09-11", "score": 38, "trend": "down", "note": "covered the TWO-week window 2026-08-28 -> 2026-09-11"},
+    {"week_ending": "2026-09-18", "score": 35, "trend": "down", "note": "#1 item aged 9d -> 16d unanswered; she opened a second front asking for 'proof'; offset by the fastest payment of the engagement and a full Mica Vecco turnaround"},
+    {"week_ending": "2026-09-25", "score": 5, "trend": "down", "note": "CHURNED 2026-09-21 12:55 after a third call offer in 18 days; termination notice unanswered by ALTR for 3d20h at window close. Not 0 only because the exit was clean, undisputed and she volunteered to pay the final invoice"}
+  ],
+  "week_stats_history": [
+    {"week_ending": "2026-08-08", "messages": 112, "client_messages": 73, "team_messages": 39},
+    {"week_ending": "2026-08-14", "messages": 24, "client_messages": 11, "team_messages": 13},
+    {"week_ending": "2026-08-21", "messages": 45, "client_messages": 28, "team_messages": 17},
+    {"week_ending": "2026-08-28", "messages": 4, "client_messages": 2, "team_messages": 2},
+    {"week_ending": "2026-09-04", "messages": 22, "client_messages": 9, "team_messages": 13, "note": "unpublished; subset of the 2026-09-11 window"},
+    {"week_ending": "2026-09-11", "messages": 60, "client_messages": 30, "team_messages": 30, "note": "TWO-WEEK window 2026-08-28 -> 2026-09-11; includes the 22 above"},
+    {"week_ending": "2026-09-18", "messages": 22, "client_messages": 10, "team_messages": 12},
+    {"week_ending": "2026-09-25", "messages": 12, "client_messages": 9, "team_messages": 3, "note": "all 12 fell in a 91-minute span on 2026-09-21; chat silent before and after"}
+  ],
+  "engagement_trend": [
+    {"week_ending": "2026-08-08", "messages": 112, "client_messages": 73, "health": 68},
+    {"week_ending": "2026-08-14", "messages": 24, "client_messages": 11, "health": 62},
+    {"week_ending": "2026-08-21", "messages": 45, "client_messages": 28, "health": 65},
+    {"week_ending": "2026-08-28", "messages": 4, "client_messages": 2, "health": 48},
+    {"week_ending": "2026-09-04", "messages": 22, "client_messages": 9, "health": 45},
+    {"week_ending": "2026-09-11", "messages": 60, "client_messages": 30, "health": 38},
+    {"week_ending": "2026-09-18", "messages": 22, "client_messages": 10, "health": 35},
+    {"week_ending": "2026-09-25", "messages": 12, "client_messages": 9, "health": 5}
+  ],
+  "sender_counts_in_window": {
+    "Kirsten (amber Haze)": 9,
+    "Ollie Mckinlay": 2,
+    "Mayson": 1,
+    "Derrek": 0,
+    "Stephski": 0,
+    "Mica Vecco": 0,
+    "Michelle": 0,
+    "Vivek": 0,
+    "Amber Haze chat team": 0
+  },
+  "last_message_by_person": {
+    "Kirsten (amber Haze)": "2026-09-21T12:55:21-04:00 (termination notice)",
+    "Mayson": "2026-09-21T11:28:54-04:00",
+    "Ollie Mckinlay": "2026-09-21T11:27:49-04:00",
+    "Mica Vecco": "2026-09-17T11:05:59-04:00",
+    "Stephski": "2026-09-16T14:34:46-04:00",
+    "Derrek": "2026-09-13T07:11:45-04:00",
+    "Michelle": "2026-09-10T17:22:10-04:00",
+    "Vivek": "2026-09-07T12:56:41-04:00",
+    "Amber Haze chat team (vendor)": "2026-06-29T05:03:42-04:00"
+  },
+  "notes": "HEALTH 5, DOWN 30 FROM 35. THE CLIENT CHURNED ON 2026-09-21 AND NOBODY HAS REPLIED TO HER.\n\nTHE 91 MINUTES, IN ORDER, ALL ON 2026-09-21: 11:24 she answers Ollie's Sept 18 wall-photo request (the 4th since July) with 'You should have loads still on the folders I sent you? Has that been all used up?' and 'This is for OF page right?'. 11:24:32 Ollie: 'Yes a lot of it has been used up'. 11:27 she is still cooperative — 'I see well I am away atm I’ll try get some done when I am back next week is that okay?', 'I can’t do do revealing because OFTV get annoyed right', 'So just normal clothes just fit ?'. 11:27:49 Ollie: 'Yes that is fine'. 11:28:14 'Hi money had been very very low for a while now is there anything the team is doing to help this what’s the next step?'. 11:28:19 '@mmayson'. 11:28:54 Mayson: 'Let’s hop on a call tomorrow and go over it!'. 11:29:26 'Okay but we did this already nothing Has been changed since?'. 12:55:21 'Hey guys, I’ve decided to go another way with my account. Thank you for everything you guys have been great, I just got an opportunity I can’t pass up! Please send me the final invoice I’ll get that paid straight away ❤️'. Then nothing, from anyone, through the window close on 2026-09-25 09:08.\n\nEXPORT NOTE: message ids 1126-1128 are absent from the .jsonl between 11:24:32 and 11:27:08 (likely deleted or unexported). Nothing in the surrounding thread suggests they change the reading, but if the raw export is re-pulled, check them.\n\nWHY SHE LEFT, IN ONE SENTENCE: nobody ever reported results to her and nobody owned her at a senior level — seven times in four months she asked how the work was going and got adjectives, a link or a meeting invitation.\n\nTHE CALL PATTERN IS THE AGENCY-LEVEL FINDING: three call offers in 18 days (Sept 3/4, Sept 11 bare Meet link, Sept 21) produced zero written outcomes, zero figures and zero named owners, and the third one ended the engagement 86 minutes later. Earlier links Jun 6 and Jul 26. RULE TO CARRY TO EVERY OTHER ACCOUNT: never answer a client's results question with a call; answer in writing in the chat first.\n\nWHAT WAS NEVER ANSWERED, AT THE MOMENT OF EXIT: her 2026-09-02 staffing complaint (23d, never answered at all); her 2026-09-15 Facebook proof request (10d, never answered at all); her 2026-09-02 quota refusal (23d); Derrek's Meta-rep cost (54d); Derrek's $40k phone-farm weekly updates (55d); IG account metrics (26d); Wesley's Aug 11 / Aug 14 sends (45d/42d, zero trace in 1,137 messages); Moggy OF damage control (49d); the two dildo-fan counter-offers (46d/36d); the boundary brief pin + vault index (73d, six consecutive reports); the block list (138d); the IG password rotation (18d); the 'can’t go live' verification (12d).\n\nPRESENCE THIS WINDOW: Derrek 0 messages (silent since Sept 13, last substantive Aug 1), Stephski 0 (silent since Sept 16 — including through the final-invoice request), Mica Vecco 0 (reel drop due ~Sept 22 never came, one week after being credited as the turnaround story), Michelle 0 (leak report missed a SECOND consecutive week, 17 days), Vivek 0 (18 days, hospitalised, no cover ever named), Amber Haze chat team (vendor) 0 (last vendor activity remains 2026-06-29). Only Ollie (2) and Mayson (1) spoke, both inside the same four minutes.\n\nIMMEDIATE ACTIONS, IN ORDER: (1) Derrek replies to her personally today — acknowledge, thank, answer the Meta-rep cost and what the phone farm produced; no call offer. (2) Stephski issues the final invoice for Sept 15-21 at 30%, itemised, chargebacks checked, Sept 15 receiving details unchanged. (3) Security/offboarding: rotate [REDACTED-PASSWORD], return account access, release Drives and the shared album, confirm in writing. (4) Verify Wesley out of band with Ollie. (5) If a save is attempted it must be one written post with real IG numbers, a named senior owner with a start date, and the Facebook ad data — if those three artefacts cannot be produced in an hour, there is no save and that is the post-mortem.\n\nDASHBOARD WARNING FOR NEXT RUN: this chat is now silent. A silent chat generates no findings, so Amber Haze will disappear from the weekly view with an unbilled final invoice attached to it. Pin the account until the final invoice is issued AND paid, and record the churn in the agency-level numbers.\n\nCROSS-CLIENT AUDIT TO RUN THIS WEEK: for every remaining client, check (a) days since they were last sent an actual number about their own accounts, (b) any request of theirs unanswered >7 days, (c) whether the last three ALTR messages to them were asks rather than reports. Amber Haze failed all three for four months while paying every invoice on time — payment health masked it completely. Start with the fastest payers.\n\nREFERENCE / IDs (retain for offboarding): her handle @Kirs10xx, email [REDACTED-RECOVERY-EMAIL], phone +[REDACTED-NUMBER]. Management-run IG @hazeyamberr and @amberhazey_; her own main @hazeyhamber / amber_hazee. IG credentials pasted in-chat: [REDACTED-PASSWORD] (May 9/20), [REDACTED-PASSWORD] (Sept 7 — LIVE, UNROTATED). Facebook page id 61588804088551. Custom domain amberhaze.vip; link.me/amber_hazee (login amber_hazee / [REDACTED-PASSWORD]). Drives: content 1iBpMNnHopqn4DN17P6oecXj8gLU27Gc_ (DEAD for her uploads since May 13), customs 1N_nQLrBqD4RYMb_zZcsaVMc18C6eqQiR, wall 1mZ3J8JJKU4z3SrOl5APIMzGvoMnjdbny, hers 1xUEXQz8rqWXZxGv4UhvEuQOVtwwVe11w and 1jAuaKpSdoYecGpbR06eXKwjO7r24q1be; shared iPhone album created by Michelle 2026-05-13 is the authoritative upload destination. Customs sheet https://docs.google.com/spreadsheets/d/1bXH74Iw3clPl1w-_7xgj2vGc1blImJesx0D1PXllPQo/edit?usp=sharing. Wesley = @wesley_amber_haze_lover, 'Anniversary Volume II' brief posted 2026-05-16 by smurf(offline) (Amber Haze chat team), re-sent by her 2026-08-06. Moggy = snap will17489. Vivek = Meta Support Rep, Telegram @fonta. Separate invoicing chat exists.\n\nATTRIBUTION: client-side alias is 'Kirsten (amber Haze)' ONLY. Jonasito, smurf(offline), Arlo, Joshiepoo and Nick Granberry are the 'Amber Haze chat team' VENDOR group per config/team.yaml — roll them up to the group name, never the individual; none posted in this window and the group has been silent since 2026-06-29. In-house on this account: Ollie Mckinlay ran chatting with Mayson (Mayson Chat, @mmayson) and Michelle (Michelle Queue, @sotom225) as queue accounts, Mica Vecco was Social Media Director, Vivek the Meta support rep, Stephski owned invoicing. OWNER RULE: Derrek is the agency owner — his items are surfaced privately, never in the client-facing employee section."
+}

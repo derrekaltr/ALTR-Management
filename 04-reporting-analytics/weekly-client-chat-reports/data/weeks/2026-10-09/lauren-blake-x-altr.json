@@ -1,0 +1,575 @@
+{
+  "client": "Lauren Blake",
+  "slug": "lauren-blake-x-altr",
+  "week_ending": "2026-10-09",
+  "summary": "TWO-WEEK WINDOW (Sep 25 - Oct 9; the Oct 2 run was never published). 62 messages, 26 from Lauren. The two halves look very different. FIRST WEEK (to Oct 2): she re-engaged hard. She reported a harasser ('Ryan') who messaged her mother, asked \"Did we lose some top spenders?\", filled in the new private-platform intake form in under an hour of saying she would, and Ollie came back with 19 messages. But the top-spender question needed a chase (\"Can someone tell me what’s happening here?\") and was never answered, and Ollie admitted \"But we haven't blocked this account\". SECOND WEEK (Oct 2 - Oct 9): Ollie sent nothing, and has now been silent 10 days. On Oct 5 Lauren asked three results questions in one sitting: \"How are the insights for the page @itsqueenblake\", \"Can i please get a report on how much we’ve spent on meta ads?\" and for a photographer other than Zeus. Only the photographer one was handled (Mica: \"just grouped you with someone!\"). The meta-ads report is her SECOND written ask (first was Aug 3, 67 days ago, answered then with a promised Derrek call that never happened). The next ALTR message after she asked was an invoice chase (\"tomorrow is the deadline\") that ignored it. Of the 7 messages ALTR staff sent in the second week, 4 were billing. MONEY: invoice 5 (Sep 15-30) issued Oct 1, chased Oct 2 and Oct 6, paid by wire Oct 7 on the deadline day (~6 days). Paid in full, not late, but slower than invoice 4 (25h) and needed two chases. ALTR thanked her but never confirmed the wire actually landed, which matters given the unaddressed Chase fraud flag (39 days). WINS: weekly leak report on cadence Oct 2 and she thanked for it; Melissa scheduled a reel on 23 repost accounts for Oct 11; the IG farm vendor (Stardust Nexus) posted \"2k growth in 2 days using only trial\" and she replied \"Great work!\". CHURN READ: ELEVATED. Present: owner silent 43 days; long-promised ad report still with no written proof (67 days); results questions going unanswered; billing was the majority of ALTR-staff messages in week two. Not present: asks did not collapse (7 distinct asks this window vs 1 the prior week), and payment was not suspiciously fast. No new plaintext credentials posted; the Sep 11-13 ones are still in the scrollback, 28 days unrotated.",
+  "health": {
+    "score": 47,
+    "trend": "up",
+    "rationale": "Up 9 from the last published score (38, week ending Sep 25). The unpublished mid-window run scored 52 at Oct 2, so the second week gave back about 5 points. Why it is up: engagement recovered (62 messages, 26 client, vs 3 total the prior published week) and she is asking for things again. client_asks = 7 this window (Ryan harassment, 'who is this/what's happening', top spenders, does Beebs still spend, @itsqueenblake insights, meta-ads spend report, a new photographer) against 1 in the week ending Sep 25 (the nuropod link). Asks did not drop to zero, which is the healthy direction. Invoice 5 was paid in full, and the leak report and a repost-network push went out on time. Why it is not higher: (1) Her results questions are not being answered. 'Did we lose some top spenders?' is 11 days open, the @itsqueenblake insights question 3.6 days, and the meta-ads spend report (first asked Aug 3) is now a second written ask, 67 days after the first, with an invoice chase sent the next day instead of an answer. (2) The account manager went dark again: Ollie 0 messages since Sep 29, and zero fan-add/custom requests across the whole window. (3) Owner silence: Derrek 43 days. (4) Structural items unmoved: Chase fraud flag 39 days unacknowledged, credentials 28 days unrotated, boundaries 68 days unconfirmed, CodyBeebs proof 52 days, harasser block unconfirmed 12 days. Payment was a slower, chased payment (2 chases, paid on deadline day), not a fast-clean one, so it is not a churn tell here, but the pace slowed from invoice 4. Churn signals present: owner 30+ days silent (yes, 43); long-promised deliverable with no written proof (yes, ad report 67 days, whale results 64 days); results question answered with a call offer (the original Aug 3 ad-report answer was a call that never came, and the Oct 5 re-ask got no answer at all); most ALTR messages billing (yes in week two: 4 of 7 ALTR-staff messages).",
+    "previous_score": 38,
+    "delta": 9,
+    "interim_unpublished_score": 52,
+    "split": "Week 1 (Sep 25 - Oct 2): 45 msgs, client 18, Ollie 19, strong re-engagement. Week 2 (Oct 2 - Oct 9): 17 msgs, client 8, ALTR staff 7 (4 billing) + IG farm vendor 2; Ollie 0."
+  },
+  "reminders": [
+    {
+      "employee": "Derrek",
+      "topic": "OWNER-LEVEL: the meta-ads spend report behind the 5% fee. She asked again in writing Oct 5, 63 days after the first ask, and was sent an invoice chase the next day instead of an answer",
+      "count": 3,
+      "first_date": "2026-08-03",
+      "last_date": "2026-10-05",
+      "days_outstanding": 67,
+      "chases_this_window": 1,
+      "owner_level": true,
+      "note": "First asked twice on Aug 3, answered with a promised Derrek call that never happened (the 'call instead of written answer' churn pattern). Re-asked Oct 5 18:25. Unanswered at window close (3.6 days). Stephski's Oct 6 invoice chase in the same chat ignored it. Five billing periods now carry the fee with no report. Surface privately; keep out of the Team tab.",
+      "evidence": [
+        {"quote": "I’d like to see the ad reports of the 5% being spent on meta", "who": "Lauren Blake", "date": "2026-08-03"},
+        {"quote": "You're welcome! Derreks going to give you a ring and walk you through your current ad stats 🙂", "who": "Stephski", "date": "2026-08-03"},
+        {"quote": "Can i please get a report on how much we’ve spent on meta ads?", "who": "Lauren Blake", "date": "2026-10-05"},
+        {"quote": "Hi hun just wanted to check back on your invoice 🫶 tomorrow is the deadline so just tapping in to remind 🩷", "who": "Stephski", "date": "2026-10-06"}
+      ]
+    },
+    {
+      "employee": "Ollie Mckinlay",
+      "topic": "'Did we lose some top spenders?' needed a chase and is still unanswered 11 days later; Ollie silent since Sep 29",
+      "count": 2,
+      "first_date": "2026-09-28",
+      "last_date": "2026-09-29",
+      "days_outstanding": 11,
+      "chases_this_window": 1,
+      "note": "Asked Sep 28 18:17 with a screenshot; no reply for ~19.5h until she chased. The reply covered the 'Ryan' harasser only. This is the whale-retention item (her #1 agenda item on Aug 6) in her own words. Ollie has sent nothing since Sep 29 15:56.",
+      "evidence": [
+        {"quote": "Did we lose some top spenders?", "who": "Lauren Blake", "date": "2026-09-28"},
+        {"quote": "Can someone tell me what’s happening here?", "who": "Lauren Blake", "date": "2026-09-29"},
+        {"quote": "Sending you an update on this shortly", "who": "Ollie Mckinlay", "date": "2026-09-29"}
+      ]
+    },
+    {
+      "employee": "Mayson",
+      "topic": "Results on the ALTR-run IG page: @itsqueenblake insights asked Oct 5 and unanswered; trial-reel outcome (34d) and Facebook campaign numbers (24d) still owed",
+      "count": 2,
+      "first_date": "2026-07-20",
+      "last_date": "2026-10-05",
+      "days_outstanding": 34,
+      "chases_this_window": 0,
+      "note": "She asked for IG page status on Jul 20 and asked for @itsqueenblake insights Oct 5. Mayson sent 0 messages after Sep 26. The IG farm vendor posted a growth screenshot Oct 5 but nobody gave her numbers for her own page. Ownership of the insights answer is not clear in-chat (Mayson built/ran it with Michelle); assign one person.",
+      "evidence": [
+        {"quote": "Hi babe! What’s the status of the IG page and the promos being posted? Also, I was told someone was going to be doing all the trial reel posting on my account. How do we get that going?", "who": "Lauren Blake", "date": "2026-07-20"},
+        {"quote": "How are the insights for the page @itsqueenblake", "who": "Lauren Blake", "date": "2026-10-05"},
+        {"quote": "Hey Lauren go check your Facebook profile, we have a campaign running!!", "who": "Mayson Chat", "date": "2026-09-15"}
+      ]
+    },
+    {
+      "employee": "Ollie Mckinlay",
+      "topic": "Carry-forward stack, none moved: written boundary confirmation (68d), whale-reactivation result (64d), CodyBeebs proof (52d), livestream dates (49d), third custom never chased (55d), harasser block unconfirmed (12d)",
+      "count": 6,
+      "first_date": "2026-08-01",
+      "last_date": "2026-09-29",
+      "days_outstanding": 68,
+      "chases_this_window": 0,
+      "note": "All 19 of Ollie's messages this window were about the harasser. No fan adds, customs, wall posts or whale work were requested of her in 14 days.",
+      "evidence": [
+        {"quote": "Will get this sorted", "who": "Ollie Mckinlay", "date": "2026-08-02"},
+        {"quote": "Yes Ill get that for you", "who": "Ollie Mckinlay", "date": "2026-08-18"},
+        {"quote": "But we haven't blocked this account", "who": "Ollie Mckinlay", "date": "2026-09-29"}
+      ]
+    },
+    {
+      "employee": "Stephski",
+      "topic": "Invoice 5 chased twice while the standalone banking block, Chase fraud-flag acknowledgement (39d) and her Oct 5 ad-spend question went unaddressed; wire receipt never confirmed",
+      "count": 2,
+      "first_date": "2026-08-31",
+      "last_date": "2026-10-07",
+      "days_outstanding": 39,
+      "chases_this_window": 2,
+      "note": "First chase came ~20.5h after issue. Second chase on Oct 6 came the morning after her meta-ads report request and did not mention it. On Oct 7 she said the wire was sent; Stephski replied with thanks but did not confirm receipt.",
+      "evidence": [
+        {"quote": "And your account was flagged by Chase for fraud/scam transactions so they won’t send it through so they won’t send it even if I say so", "who": "Lauren Blake", "date": "2026-08-31"},
+        {"quote": "Hi Lauren just making sure you saw this ❤️", "who": "Stephski", "date": "2026-10-02"},
+        {"quote": "Yes wire was sent", "who": "Lauren Blake", "date": "2026-10-07"},
+        {"quote": "you're amazing!!", "who": "Stephski", "date": "2026-10-07"}
+      ]
+    }
+  ],
+  "complaints": [
+    {
+      "issue": "5% paid-ads fee transparency: she asked again for the meta-ads spend report on Oct 5, 67 days after the first ask. Five billed periods, zero reports. The original answer was a call from Derrek that never happened. The re-ask was unanswered at window close and was followed by an invoice chase.",
+      "status": "recurring",
+      "first_raised": "2026-08-03",
+      "owner": "Derrek / Stephski",
+      "severity": "critical",
+      "days_open": 67,
+      "churn_signal": true,
+      "evidence": [
+        {"quote": "Also, how do we account for the 5% that’s going towards paid ads?", "who": "Lauren Blake", "date": "2026-08-03"},
+        {"quote": "You're welcome! Derreks going to give you a ring and walk you through your current ad stats 🙂", "who": "Stephski", "date": "2026-08-03"},
+        {"quote": "Can i please get a report on how much we’ve spent on meta ads?", "who": "Lauren Blake", "date": "2026-10-05"}
+      ]
+    },
+    {
+      "issue": "Results questions going unanswered: 'Did we lose some top spenders?' (Sep 28, 11 days) and @itsqueenblake insights (Oct 5). Whale retention has been her top priority since Aug 6 (13 of 24 whales ghosted, 59% of revenue) with no list-level result ever sent.",
+      "status": "recurring",
+      "first_raised": "2026-08-06",
+      "owner": "Ollie Mckinlay (spenders) / Mayson (IG insights)",
+      "severity": "high",
+      "days_open": 64,
+      "churn_signal": true,
+      "evidence": [
+        {"quote": "Subjects: \n-24 whales, 13 ghosted since takeover. Strategy to wake them and keep them happy (they made 59% of rev) \n-language & content \n-improvements on my end to help the team", "who": "Lauren Blake", "date": "2026-08-06"},
+        {"quote": "Did we lose some top spenders?", "who": "Lauren Blake", "date": "2026-09-28"},
+        {"quote": "How are the insights for the page @itsqueenblake", "who": "Lauren Blake", "date": "2026-10-05"}
+      ]
+    },
+    {
+      "issue": "Fan harassment: 'Ryan' (Ollie believes it is CodyBeebs on new free-page accounts; 10-15 already blocked) messaged her mother and flooded her IG DMs and email. Ollie admitted the current account was not blocked. No confirmation since Sep 29 that it has been blocked; she is blocking accounts herself.",
+      "status": "in_progress",
+      "first_raised": "2026-09-27",
+      "owner": "Ollie Mckinlay",
+      "severity": "high",
+      "days_open": 12,
+      "evidence": [
+        {"quote": "Can you guys put this Ryan guy in check? He messaged this to my mom", "who": "Lauren Blake", "date": "2026-09-27"},
+        {"quote": "Yes we will put him in check right away", "who": "Ollie Mckinlay", "date": "2026-09-27"},
+        {"quote": "I keep getting ig DMs about it", "who": "Lauren Blake", "date": "2026-09-29"},
+        {"quote": "But we haven't blocked this account", "who": "Ollie Mckinlay", "date": "2026-09-29"},
+        {"quote": "That’s very bizarre. Ok thank you for managing it. I’m just blocking the accounts that send these", "who": "Lauren Blake", "date": "2026-09-29"}
+      ]
+    },
+    {
+      "issue": "Account management went dark again in week two. Ollie has sent 0 messages since Sep 29, and across the whole 14-day window no fan-add, custom, wall-post or whale requests were made of her. All 19 of his messages were about the harasser.",
+      "status": "recurring",
+      "first_raised": "2026-08-22",
+      "owner": "Ollie Mckinlay",
+      "severity": "high",
+      "days_open": 48,
+      "evidence": [
+        {"quote": "Time to time yes", "who": "Ollie Mckinlay", "date": "2026-09-29"},
+        {"quote": "Ok thank you. I uploaded two and the other one I will shoot soon", "who": "Lauren Blake", "date": "2026-08-15"}
+      ]
+    },
+    {
+      "issue": "She still has to chase for status. Seventh documented instance since Jul 14: the Sep 28 screenshot and spender question sat ~19.5h until she chased.",
+      "status": "recurring",
+      "first_raised": "2026-07-14",
+      "owner": "Ollie Mckinlay / Mayson",
+      "severity": "medium",
+      "days_open": 87,
+      "evidence": [
+        {"quote": "Who is this?", "who": "Lauren Blake", "date": "2026-09-28"},
+        {"quote": "Can someone tell me what’s happening here?", "who": "Lauren Blake", "date": "2026-09-29"}
+      ]
+    },
+    {
+      "issue": "Chase fraud/scam flag on ALTR's receiving account: 39 days, never acknowledged. Invoice 5 was paid by wire on Oct 7 and ALTR never confirmed receipt, so whether the rail works is still unverified. The standalone banking block (beneficiary, routing/SWIFT, address) was also never sent.",
+      "status": "recurring",
+      "first_raised": "2026-08-31",
+      "owner": "Derrek / Stephski",
+      "severity": "critical",
+      "days_open": 39,
+      "evidence": [
+        {"quote": "And your account was flagged by Chase for fraud/scam transactions so they won’t send it through so they won’t send it even if I say so", "who": "Lauren Blake", "date": "2026-08-31"},
+        {"quote": "Ahh okay the invoice says mgmt", "who": "Lauren Blake", "date": "2026-09-04"},
+        {"quote": "Yes wire was sent", "who": "Lauren Blake", "date": "2026-10-07"}
+      ]
+    },
+    {
+      "issue": "Credential exposure unremediated: her backup-IG and Snapchat logins (email/username plus the same password on both) and two 2FA codes, posted Sep 11-13 at ALTR's request, are still in the chat scrollback 28 days later. No rotation or move to the new private platform. No new credentials were posted this window. Chat membership changed again on Sep 25 (ChatAddUser), and a new vendor account (Stardust Nexus) is now posting in the chat.",
+      "status": "recurring",
+      "first_raised": "2026-09-11",
+      "owner": "Mayson / Michelle / Derrek (policy)",
+      "severity": "critical",
+      "days_open": 28,
+      "evidence": [
+        {"quote": "Direct login would work too", "who": "Mayson Chat", "date": "2026-09-11"},
+        {"quote": "And login for snapchat", "who": "Mayson Chat", "date": "2026-09-12"},
+        {"quote": "Please do not send your backup codes to anyone, including our team. Keep the screenshot somewhere secure that only you can access.", "who": "Mica Vecco", "date": "2026-09-17"}
+      ]
+    },
+    {
+      "issue": "Content-boundary confirmation still not in writing (topless only, no face, no sound, diamond pricing; never porn/sex tapes/anal). Violated once on Aug 14.",
+      "status": "recurring",
+      "first_raised": "2026-08-01",
+      "owner": "Ollie Mckinlay",
+      "severity": "high",
+      "days_open": 68,
+      "evidence": [
+        {"quote": "When I do topless, it’s no face, no sound. I don’t do it any other way", "who": "Lauren Blake", "date": "2026-08-01"},
+        {"quote": "Will get this sorted", "who": "Ollie Mckinlay", "date": "2026-08-02"}
+      ]
+    },
+    {
+      "issue": "CodyBeebs redistribution proof screenshot still unsent after 52 days. More relevant now, because Ollie believes 'Ryan' is Beebs and says Beebs still spends.",
+      "status": "recurring",
+      "first_raised": "2026-08-17",
+      "owner": "Ollie Mckinlay",
+      "severity": "medium",
+      "days_open": 53,
+      "evidence": [
+        {"quote": "Can I see the screenshot of him sending my content please?", "who": "Lauren Blake", "date": "2026-08-17"},
+        {"quote": "Yes Ill get that for you", "who": "Ollie Mckinlay", "date": "2026-08-18"},
+        {"quote": "Does beebs still spend?", "who": "Lauren Blake", "date": "2026-09-29"},
+        {"quote": "We believe it is actually Cody", "who": "Ollie Mckinlay", "date": "2026-09-29"}
+      ]
+    },
+    {
+      "issue": "Photographer availability: her usual shooter (Zeus) is unavailable until end of October. Mica replied about 25h later that she had been grouped with someone. Outcome not yet visible.",
+      "status": "in_progress",
+      "first_raised": "2026-10-05",
+      "owner": "Mica Vecco",
+      "severity": "low",
+      "days_open": 4,
+      "evidence": [
+        {"quote": "Hi! Is there someone other than Zeus I can schedule a shoot with?", "who": "Lauren Blake", "date": "2026-10-05"},
+        {"quote": "He’s not available until the end of Oct", "who": "Lauren Blake", "date": "2026-10-05"},
+        {"quote": "just grouped you with someone!", "who": "Mica Vecco", "date": "2026-10-06"}
+      ]
+    },
+    {
+      "issue": "Livestream abandoned Aug 21; nobody has proposed dates in 49 days although she is home.",
+      "status": "recurring",
+      "first_raised": "2026-08-21",
+      "owner": "Ollie Mckinlay",
+      "severity": "medium",
+      "days_open": 49,
+      "evidence": [
+        {"quote": "Okay I will let you know. Today and tomorrow will no longer work. Sometime this week or weekend will do", "who": "Lauren Blake", "date": "2026-08-21"}
+      ]
+    },
+    {
+      "issue": "OWNER-LEVEL (surface privately): Derrek has sent zero messages for 43 days (last Aug 27). This is the sixth window in a row with no message from him. His last four messages were all about collecting money.",
+      "status": "recurring",
+      "first_raised": "2026-08-01",
+      "owner": "Derrek",
+      "severity": "high",
+      "days_open": 43,
+      "owner_level": true,
+      "churn_signal": true,
+      "evidence": [
+        {"quote": "Thank you for your understanding, we will have plenty of updates starting next week.", "who": "Derrek", "date": "2026-08-01"},
+        {"quote": "Still haven’t received on our end", "who": "Derrek", "date": "2026-08-27"}
+      ]
+    },
+    {
+      "issue": "OWNER-LEVEL: the Meta Support Rep Derrek introduced (Vivek) has sent 0 messages in 72 days.",
+      "status": "recurring",
+      "first_raised": "2026-07-29",
+      "owner": "Derrek",
+      "severity": "medium",
+      "days_open": 72,
+      "owner_level": true,
+      "evidence": [
+        {"quote": "Hey Ive added Vivek in here ( @fonta ). He is our Meta Support Rep that will help keep your IG accounts up and safe. If you have any restrictions, shadowbans, or bans.... simply @ him in the chat and he will help. To start, if you want your accounts setup for Copyright Ban Protection he can assist.", "who": "Derrek", "date": "2026-07-29"}
+      ]
+    },
+    {
+      "issue": "Disengagement / churn risk (flagged Sep 25). Engagement is back up (7 asks, 26 messages), but four ALTR-side churn signals are present: owner silent 43 days, ad report still with no written proof, results questions unanswered, and billing as most ALTR-staff messages in week two. The outside nuropod.com/laurenblake link is still unexplained.",
+      "status": "in_progress",
+      "first_raised": "2026-09-25",
+      "owner": "Derrek / Ollie Mckinlay / Mayson",
+      "severity": "high",
+      "days_open": 14,
+      "churn_signal": true,
+      "evidence": [
+        {"quote": "https://nuropod.com/laurenblake", "who": "Lauren Blake", "date": "2026-09-25"},
+        {"quote": "Hi hun just wanted to check back on your invoice 🫶 tomorrow is the deadline so just tapping in to remind 🩷", "who": "Stephski", "date": "2026-10-06"}
+      ]
+    },
+    {
+      "issue": "Weekly leak-removal report (missed Sep 15 and Sep 22). Delivered Sep 25 and Oct 2 on cadence via Melissa, and she thanked for the Oct 2 one. The missed weeks were never backfilled.",
+      "status": "resolved",
+      "first_raised": "2026-09-15",
+      "owner": "Melissa (took over from Michelle)",
+      "severity": "low",
+      "evidence": [
+        {"quote": "Hey Lauren! Here’s your weekly update on the leak removal breakdown for the past 7 days 🫶🏼", "who": "Melissa Userfacing", "date": "2026-10-02"},
+        {"quote": "Okay thank you", "who": "Lauren Blake", "date": "2026-10-05"}
+      ]
+    }
+  ],
+  "commitments": [
+    {
+      "what": "Add https://nuropod.com/laurenblake to the laurenblake.vip link-in-bio",
+      "who": "Mayson",
+      "status": "done",
+      "due": "2026-09-25",
+      "done_date": "2026-09-26",
+      "evidence": [
+        {"quote": "Yes", "who": "Mayson Chat", "date": "2026-09-26"},
+        {"quote": "Lauren let me know if you want to add anything else!", "who": "Mayson Chat", "date": "2026-09-26"}
+      ]
+    },
+    {
+      "what": "Put 'Ryan' in check: block the account harassing her and her mother, and confirm back",
+      "who": "Ollie Mckinlay",
+      "status": "pending",
+      "due": "2026-09-27",
+      "days_outstanding": 12,
+      "evidence": [
+        {"quote": "Yes we will put him in check right away", "who": "Ollie Mckinlay", "date": "2026-09-27"},
+        {"quote": "But we haven't blocked this account", "who": "Ollie Mckinlay", "date": "2026-09-29"}
+      ]
+    },
+    {
+      "what": "Update on the screenshot / 'what's happening here' thread",
+      "who": "Ollie Mckinlay",
+      "status": "done",
+      "due": "2026-09-29",
+      "done_date": "2026-09-29",
+      "evidence": [
+        {"quote": "Sending you an update on this shortly", "who": "Ollie Mckinlay", "date": "2026-09-29"},
+        {"quote": "We believe it is actually Cody", "who": "Ollie Mckinlay", "date": "2026-09-29"}
+      ]
+    },
+    {
+      "what": "Answer 'Did we lose some top spenders?' with names and numbers",
+      "who": "Ollie Mckinlay",
+      "status": "overdue",
+      "due": "2026-09-29",
+      "days_outstanding": 11,
+      "evidence": [
+        {"quote": "Did we lose some top spenders?", "who": "Lauren Blake", "date": "2026-09-28"}
+      ]
+    },
+    {
+      "what": "Meta-ads spend report for the 5% fee (all five billed periods). Originally promised as a Derrek call on Aug 3; re-requested Oct 5",
+      "who": "Derrek (promised via Stephski)",
+      "status": "overdue",
+      "due": "2026-08-04",
+      "days_outstanding": 67,
+      "owner_level": true,
+      "evidence": [
+        {"quote": "You're welcome! Derreks going to give you a ring and walk you through your current ad stats 🙂", "who": "Stephski", "date": "2026-08-03"},
+        {"quote": "Can i please get a report on how much we’ve spent on meta ads?", "who": "Lauren Blake", "date": "2026-10-05"}
+      ]
+    },
+    {
+      "what": "Answer @itsqueenblake page insights",
+      "who": "Mayson (owner unassigned in chat)",
+      "status": "pending",
+      "due": "2026-10-06",
+      "days_outstanding": 4,
+      "evidence": [
+        {"quote": "How are the insights for the page @itsqueenblake", "who": "Lauren Blake", "date": "2026-10-05"}
+      ]
+    },
+    {
+      "what": "Find her a photographer other than Zeus",
+      "who": "Mica Vecco",
+      "status": "done",
+      "due": "2026-10-06",
+      "done_date": "2026-10-06",
+      "evidence": [
+        {"quote": "Hi! Is there someone other than Zeus I can schedule a shoot with?", "who": "Lauren Blake", "date": "2026-10-05"},
+        {"quote": "just grouped you with someone!", "who": "Mica Vecco", "date": "2026-10-06"}
+      ]
+    },
+    {
+      "what": "Weekly leak-removal report",
+      "who": "Melissa (formerly Michelle)",
+      "status": "done",
+      "due": "2026-10-02",
+      "done_date": "2026-10-02",
+      "evidence": [
+        {"quote": "Hey Lauren! Here’s your weekly update on the leak removal breakdown for the past 7 days 🫶🏼", "who": "Melissa Userfacing", "date": "2026-10-02"}
+      ]
+    },
+    {
+      "what": "Repost-network push: reel goes out on 23 accounts on Oct 11",
+      "who": "Melissa Userfacing",
+      "status": "pending",
+      "due": "2026-10-11",
+      "evidence": [
+        {"quote": "Hi Lauren! This reel is going out across our repost network on Sunday, October 11: https://www.instagram.com/reel/DbBXcrDirkp/?stkn=a3FoZ3Y0MGF3bjYw                                        Attached is the list of all 23 accounts it will be posted on!                                                                                                 Thank you! 🫶", "who": "Melissa Userfacing", "date": "2026-10-06"}
+      ]
+    },
+    {
+      "what": "Client-side: complete the private-platform intake form",
+      "who": "Lauren Blake",
+      "status": "done",
+      "due": "2026-09-28",
+      "done_date": "2026-09-28",
+      "evidence": [
+        {"quote": "Finished x", "who": "Lauren Blake", "date": "2026-09-28"}
+      ]
+    },
+    {
+      "what": "Standalone banking block, written Chase fraud-flag clearance, and confirmation that the Oct 7 wire was received",
+      "who": "Stephski (with Derrek)",
+      "status": "overdue",
+      "due": "2026-08-15",
+      "days_outstanding": 55,
+      "evidence": [
+        {"quote": "And your account was flagged by Chase for fraud/scam transactions so they won’t send it through so they won’t send it even if I say so", "who": "Lauren Blake", "date": "2026-08-31"},
+        {"quote": "Yes wire was sent", "who": "Lauren Blake", "date": "2026-10-07"}
+      ]
+    },
+    {
+      "what": "Rotate the IG/Snapchat passwords posted in plaintext, move logins to the private platform or a vault, audit chat membership",
+      "who": "Mayson / Michelle / Derrek (policy)",
+      "status": "overdue",
+      "due": "2026-09-11",
+      "days_outstanding": 28,
+      "evidence": [
+        {"quote": "Direct login would work too", "who": "Mayson Chat", "date": "2026-09-11"}
+      ]
+    },
+    {
+      "what": "Confirm in writing that chatter scripts and pricing follow her boundaries",
+      "who": "Ollie Mckinlay",
+      "status": "overdue",
+      "due": "2026-08-02",
+      "days_outstanding": 68,
+      "evidence": [
+        {"quote": "Will get this sorted", "who": "Ollie Mckinlay", "date": "2026-08-02"}
+      ]
+    },
+    {
+      "what": "Whale-reactivation results on the 24 top spenders",
+      "who": "Ollie Mckinlay",
+      "status": "overdue",
+      "due": "2026-08-07",
+      "days_outstanding": 63,
+      "evidence": [
+        {"quote": "Just sent out all the personalized messages", "who": "Lauren Blake", "date": "2026-08-07"},
+        {"quote": "Perfect thank you", "who": "Ollie Mckinlay", "date": "2026-08-07"}
+      ]
+    },
+    {
+      "what": "CodyBeebs proof screenshot + outcome of the $2k apology push",
+      "who": "Ollie Mckinlay",
+      "status": "overdue",
+      "due": "2026-08-18",
+      "days_outstanding": 52,
+      "evidence": [
+        {"quote": "Yes Ill get that for you", "who": "Ollie Mckinlay", "date": "2026-08-18"}
+      ]
+    },
+    {
+      "what": "Re-book the livestream with two proposed dates",
+      "who": "Ollie Mckinlay",
+      "status": "overdue",
+      "due": "2026-08-21",
+      "days_outstanding": 49
+    },
+    {
+      "what": "Confirm access to everything she handed over (backup IG, Snapchat, drives) and report what is posted",
+      "who": "Mayson / Michelle",
+      "status": "overdue",
+      "due": "2026-09-12",
+      "days_outstanding": 27,
+      "evidence": [
+        {"quote": "Let me know when you have access to everything", "who": "Lauren Blake", "date": "2026-09-12"}
+      ]
+    },
+    {
+      "what": "Trial-reel call outcome + Facebook campaign spend/reach",
+      "who": "Mayson",
+      "status": "overdue",
+      "due": "2026-09-05",
+      "days_outstanding": 34,
+      "evidence": [
+        {"quote": "Hey Lauren go check your Facebook profile, we have a campaign running!!", "who": "Mayson Chat", "date": "2026-09-15"}
+      ]
+    },
+    {
+      "what": "Confirm OnlyFans stories are posted daily",
+      "who": "Michelle / Ollie Mckinlay",
+      "status": "overdue",
+      "due": "2026-08-22",
+      "days_outstanding": 48
+    },
+    {
+      "what": "Regular IG phone-farm rollout updates. First visible output Oct 5 (IG farm vendor growth screenshot), but no report for her own pages",
+      "who": "Derrek",
+      "status": "overdue",
+      "due": "2026-08-08",
+      "days_outstanding": 69,
+      "owner_level": true,
+      "evidence": [
+        {"quote": "Thank you for your understanding, we will have plenty of updates starting next week.", "who": "Derrek", "date": "2026-08-01"},
+        {"quote": "2k growth in 2 days using only trial", "who": "Stardust Nexus", "date": "2026-10-05"}
+      ]
+    },
+    {
+      "what": "Client-side: shoot the third custom from the Aug 11 sheet (ALTR has never chased it)",
+      "who": "Lauren Blake",
+      "status": "overdue",
+      "due": "2026-08-15",
+      "days_outstanding": 55,
+      "evidence": [
+        {"quote": "Ok thank you. I uploaded two and the other one I will shoot soon", "who": "Lauren Blake", "date": "2026-08-15"}
+      ]
+    }
+  ],
+  "payments": [
+    {
+      "note": "Invoice 5 (Sep 15-30) issued Oct 1 15:21 (amount only in the attached file). Chased Oct 2 11:45 (~20.5h) and again Oct 6 ('tomorrow is the deadline'). Paid by wire Oct 7 14:16, on the deadline day, ~5d23h after issue. Not late. ALTR thanked her but did not confirm receipt.",
+      "invoice": 5,
+      "issued": "2026-10-01",
+      "due": "2026-10-07",
+      "paid": "2026-10-07",
+      "amount": null,
+      "status": "paid (receipt unconfirmed)",
+      "late": false,
+      "chases": 2,
+      "evidence": [
+        {"quote": "Good afternoon queen! Here is your invoice for September 15-30th ❤️ Let me know if you need anything", "who": "Stephski", "date": "2026-10-01"},
+        {"quote": "Hi Lauren just making sure you saw this ❤️", "who": "Stephski", "date": "2026-10-02"},
+        {"quote": "Hi hun just wanted to check back on your invoice 🫶 tomorrow is the deadline so just tapping in to remind 🩷", "who": "Stephski", "date": "2026-10-06"},
+        {"quote": "Yes wire was sent", "who": "Lauren Blake", "date": "2026-10-07"}
+      ]
+    },
+    {
+      "note": "Ledger: 5 of 5 invoices paid in full, none disputed, nothing outstanding. Pay speed: inv1 3d, inv2 18d (ALTR-side bank issues), inv3 10d in 5 installments, inv4 ~25h, inv5 ~6d with 2 chases. Inv5 is the first wire since the Chase flag, so confirm it landed. Risk is DISPUTE, not collection: she re-asked for the meta-ads report the day before the second chase, and five periods of the 5% fee have no supporting report.",
+      "late": false,
+      "risk": "medium"
+    }
+  ],
+  "client_priorities": [
+    "Proof of results: top spenders (\"Did we lose some top spenders?\"), @itsqueenblake insights, IG growth numbers for her own pages",
+    "Money transparency: a written meta-ads spend report for the 5% fee (asked Aug 3, re-asked Oct 5), plus the Chase flag and banking details",
+    "Safety from the 'Ryan'/possible-CodyBeebs harasser who reached her mother, IG DMs and email",
+    "Content production: a photographer other than Zeus, who is unavailable until end of October",
+    "Being told what is happening without having to chase",
+    "Content protection: weekly leak reports (back on cadence) and the CodyBeebs proof",
+    "Traffic growth: repost network, IG farm, trial reels",
+    "Hard content boundaries confirmed in writing",
+    "Account security: credentials out of the group chat"
+  ],
+  "suggestions": [
+    "This week, send a written meta-ads spend report covering all five billed periods. Do not offer a call instead. Before the next invoice, have Stephski reference it so the invoice and the report arrive together.",
+    "Ollie: send the top-spender list in writing (active vs lapsed, what was done for each). Then restart the normal fan-add/custom request flow; there were none in 14 days.",
+    "Send her @itsqueenblake insights (followers, reach, reel views over 30 days) and tie in the IG farm's '2k growth' claim: which page, which numbers. Name one owner for this.",
+    "Stephski: confirm the Oct 7 wire was received. If it landed, say so and close the Chase-flag item in one line. If it did not, fix it before invoice 6.",
+    "Ollie: confirm the Ryan account is blocked, and send the CodyBeebs proof in the same message.",
+    "Introduce Stardust Nexus to her in the chat (who they are and what they do on her accounts). They are posting in her group unannounced.",
+    "Rotate the IG/Snapchat passwords from Sep 11 and move logins into the private platform she just onboarded to.",
+    "Derrek (privately): one personal message after 43 days of silence. Pairing it with the ad report would answer both open owner items."
+  ],
+  "wins": [
+    "Engagement rebound: 62 messages in the window (26 from her) and 7 distinct asks, vs 3 messages and 1 ask in the week ending Sep 25",
+    "Invoice 5 paid in full by wire on the deadline (Oct 7); 5 of 5 invoices paid, none disputed",
+    "Weekly leak report delivered Sep 25 and Oct 2 on cadence, and she thanked for it ('Okay thank you')",
+    "Melissa scheduled a reel across 23 repost-network accounts for Oct 11",
+    "IG farm vendor posted '2k growth in 2 days using only trial'; she replied 'Great work!'",
+    "Mica grouped her with a new photographer within ~25h of asking",
+    "She completed the private-platform intake form within an hour of saying she would ('Finished x')",
+    "Ollie answered the harassment report in 1 minute and followed up with a full explanation"
+  ],
+  "week_stats": {
+    "messages": 62,
+    "client_messages": 26,
+    "team_messages": 36,
+    "client_asks": 7,
+    "client_asks_prior": {"2026-09-25": 1},
+    "service_events": 1,
+    "billing_messages": 6,
+    "by_sender": {"Lauren Blake": 26, "Ollie Mckinlay": 19, "Stephski": 6, "Melissa Userfacing": 5, "Mayson Chat": 2, "Mica Vecco": 2, "IG farm vendor (Stardust Nexus)": 2},
+    "halves": {
+      "2026-10-02": {"messages": 45, "client_messages": 18, "team_messages": 27, "client_asks": 4},
+      "2026-10-09": {"messages": 17, "client_messages": 8, "team_messages": 9, "client_asks": 3, "altr_staff_billing_share": "4 of 7"}
+    },
+    "note": "Two-week window (Oct 2 run lost). Derrek 0 messages."
+  }
+}

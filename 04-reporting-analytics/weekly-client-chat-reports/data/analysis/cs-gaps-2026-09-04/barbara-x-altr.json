@@ -1,0 +1,124 @@
+{
+  "client": "Barbara",
+  "slug": "barbara-x-altr",
+  "status": "at_risk",
+  "status_reason": "Still paying and still polite (paid $3,000 against invoice #3 within two days on Sep 3), but her Aug 24 'very nervous' escalation about collapsing traffic — in which she tagged three of our people by name — is 11 days old with no substantive answer, and in the Aug 28 - Sep 4 window not one team message mentioned Instagram, traffic, growth or the barbarasilva.vip domain. Critically, SHE STOPPED ASKING: her Sep 3 messages were about payment, her Aug 31 messages about OFTV/YouTube. Client message volume has now fallen five straight weeks (40 → 22 → 22 → 14 → 11). A client who escalates, is ignored, then quietly drops the topic while still thanking us for the small stuff is pre-churn, not recovered.",
+  "last_client_message": "2026-09-03",
+  "escalation_tracker": {
+    "raised": "2026-08-24 08:30 'i feel like my traffic has been super down... i definitely wanna see my numbers increase not keep going down 😭' and 11:25 'Lmk im very nervous with the situation @mmayson @ofwizz @sotom225'",
+    "substantively_answered": false,
+    "days_open_as_of_2026-09-04": 11,
+    "what_happened_instead": "Mayson acknowledged in two minutes ('I'll get you an answer soon' / 'Working on it!!') and never delivered. Michelle was tagged directly ('@sotom225 any updates on instagrams?') and has posted five times since (Aug 25, Aug 26 x2, Aug 27, Sep 1) without addressing it. Vivek said 'Yeah will do' on reviewing barbarasilva.vip — the client's own root-cause lead — on Aug 24 15:14 and has sent zero messages since. The only growth-adjacent outbound after the escalation was extractive or generic: Mayson's Aug 30 quota demand ('7 reels a week so 30 in total per month... If it's already posted on your main account, it doesn't count'), Mica's Aug 31 return from an 18-day absence with a consistency lecture, and Stephski's Sep 1 invoice carrying the first-ever work-stoppage clause. Derrek has not spoken in the chat since Aug 12 (23 days)."
+  },
+  "dimensions": {
+    "responsiveness": {
+      "severity": 3,
+      "internal_failure": "We reply within minutes and answer within never: the Aug 24 named-tag escalation is 11 days without substance, the Aug 11 engagement-software and linkme questions are 24 days old, her Aug 18 'is this too risqué' was never answered (she deleted the post herself three minutes later), and the Aug 31 YouTube-repurposing ask went unanswered even inside the one delivery we made.",
+      "evidence": [
+        {"quote": "Lmk im very nervous with the situation @mmayson @ofwizz @sotom225", "who": "Barb Brazil", "date": "2026-08-24"},
+        {"quote": "I’ll get you an answer soon", "who": "Mayson Chat", "date": "2026-08-24"},
+        {"quote": "i’d also like to repurpose those to youtube too", "who": "Barb Brazil", "date": "2026-08-31"}
+      ]
+    },
+    "follow_through": {
+      "severity": 3,
+      "internal_failure": "Fourteen of ~22 explicit commitments have lapsed and sixteen items are open, ten of them older than two weeks: talking-to-camera examples (Michelle, Jul 23, 43d), 3 link-in-bio versions (Mayson, Jul 31, 35d), backup IG @ 'next week' (Michelle, Aug 1, 34d), adultsearch takedown 'yes' (Derrek, Aug 7, 28d, never confirmed filed), 'Full throttle' resume-and-report (Derrek, Aug 8, 27d), device-migration report 'tn' (Derrek, Aug 11, 24d), Mayson's Aug 24 'answer soon' and Vivek's 'Yeah will do' both dead at 11d. Only one item closed this week and one person closed it.",
+      "evidence": [
+        {"quote": "your backup account for IG reels is currently being warmed up as soon as it’s ready next week I will send you the @ name babes 💕", "who": "Michelle Queue", "date": "2026-08-01"},
+        {"quote": "Were putting them on our devices tn, and changing up the flagged numbers or emails", "who": "Derrek", "date": "2026-08-11"},
+        {"quote": "Yeah will do", "who": "Vivek", "date": "2026-08-24"}
+      ]
+    },
+    "proactive_communication": {
+      "severity": 3,
+      "internal_failure": "In 46 days since onboarding she has never been shown a single view count, posting log or growth number for the service she pays ~$3.6k a cycle for. Our only reliable unprompted contact is a templated weekly leak-report screenshot. Worse, during the Aug 28 - Sep 4 window we sent zero messages about Instagram, traffic, growth or her domain — an 11-day topical blackout on her declared emergency — while the three things we did send unprompted were a content quota, a consistency lecture and an invoice with a pay-or-we-pause clause.",
+      "evidence": [
+        {"quote": "hey guys just checking in any updates with all the new changes happening? 😊", "who": "Barb Brazil", "date": "2026-08-06"},
+        {"quote": "Hi love 💕 just wanted to reiterate how important consistent posting is for increasing social media engagement!", "who": "Mica Vecco", "date": "2026-08-31"},
+        {"quote": "i definitely wanna see my numbers increase not keep going down 😭", "who": "Barb Brazil", "date": "2026-08-24"}
+      ]
+    },
+    "onboarding_handoff": {
+      "severity": 2,
+      "internal_failure": "Six days in she had to ask who to contact for what and then follow up before anyone answered; she handed over X logins believing ALTR ran Twitter and only learned ten days later that nobody does; the first OFTV file bounced through four delivery methods; the kickoff call with the Social Media Director slipped twice across a time-zone mix-up and a missed calendar invite.",
+      "evidence": [
+        {"quote": "Hey guys, if i have any questions regarding anything who would be the right person to reach out to from the group?", "who": "Barb Brazil", "date": "2026-07-26"},
+        {"quote": "yeah we don’t run twitter but we have a call soon we can talk about it!", "who": "Mica Vecco", "date": "2026-07-31"},
+        {"quote": "to be honest, I’m very confused lol", "who": "Barb Brazil", "date": "2026-07-31"}
+      ]
+    },
+    "chatter_conduct": {
+      "severity": 0,
+      "internal_failure": "No fan-facing conduct, VIP-handling or boundary issues are visible in this group chat; the chatting side is not discussed here.",
+      "evidence": []
+    },
+    "platform_health": {
+      "severity": 3,
+      "internal_failure": "IG loss/recovery cycling since early August with no named owner, no root cause, no update cadence and no resolution — we told her 'Dont worry about why', then 'it was resolved' while her traffic kept falling. The single strongest root-cause lead on the account came from the client herself (barbarasilva.vip restricting her main when placed in bio) and the assigned Meta rep has been silent for 11 days after saying 'Yeah will do'. Thirty-two days open.",
+      "evidence": [
+        {"quote": "i’m having account issues every other day, i’m losing recovering losing recovering", "who": "Barb Brazil", "date": "2026-08-11"},
+        {"quote": "this is happening to alot of people. Dont worry about why, we got it and will have it fixed", "who": "Derrek", "date": "2026-08-11"},
+        {"quote": "Don’t worry about it Barbara, it was resolved", "who": "Mayson Chat", "date": "2026-08-21"}
+      ]
+    },
+    "billing_ops": {
+      "severity": 3,
+      "internal_failure": "Billing is the most reliably broken function on this account and it regressed this week. Invoice #1 needed three failed Zelle attempts over six days and the owner's personal phone number; invoice #2's payment took six days to acknowledge with no reconciled total; invoice #3 went out Sep 1 instead of the promised Aug 29, silently stretched the period from 14 to 17 days, dropped the day-before heads-up, and attached a first-ever condition — 'I ask that you please pay within 7 days to avoid any pausing of work' — to a client with a 100% payment record whose service questions we had ignored for a week. All three invoices have required split transfers because of her Zelle per-transaction cap and ACH/wire has still never been offered. Neither invoice #2 nor #3's amount has ever appeared as a figure in the chat.",
+      "evidence": [
+        {"quote": "I ask that you please pay within 7 days to avoid any pausing of work 🙏", "who": "Stephski", "date": "2026-09-01"},
+        {"quote": "Hey! I reached my zelle limit for today but I sent 3000 already, I’ll send the rest tomorrow!", "who": "Barb Brazil", "date": "2026-09-03"},
+        {"quote": "Zelle my phone number 5618011087", "who": "Derrek", "date": "2026-08-08"}
+      ]
+    },
+    "ownership_escalation": {
+      "severity": 3,
+      "internal_failure": "Her designated 'go to for all things altr' is a router, not an owner — his contribution to the crisis is '@sotom225 ^^', '@fonta ^^', '@Liv_Lee ^^'. The IG problem has bounced Mayson → Michelle → Vivek → Derrek for a month with nobody closing it. She tagged three people by name in her escalation and got zero owners; Michelle ignored a direct tag while posting five other messages; Vivek has produced nothing since Jul 31; and the owner has not been in the chat since Aug 12.",
+      "evidence": [
+        {"quote": "@mmayson is your go to for all things altr", "who": "Derrek", "date": "2026-07-26"},
+        {"quote": "@sotom225 any updates on instagrams?", "who": "Mayson Chat", "date": "2026-08-24"},
+        {"quote": "@Liv_Lee ^^", "who": "Mayson Chat", "date": "2026-08-31"}
+      ]
+    },
+    "disengagement_detection": {
+      "severity": 3,
+      "internal_failure": "Every early-churn signal has now fired and nobody on our side has acted on any of them: she used the word 'nervous' about the service itself, proposed her own rescue plan when we offered none, her message volume has fallen five consecutive weeks (40 → 22 → 22 → 14 → 11), and this week she stopped raising the Instagram emergency altogether. No retention check-in, no senior outreach, no acknowledgement that anything is wrong — instead we sent her a quota and a payment condition.",
+      "evidence": [
+        {"quote": "or maybe we can just do like a very heavy OFTV focus like I shoot once a week to make an upload a video every week just until we figure this out?", "who": "Barb Brazil", "date": "2026-08-24"},
+        {"quote": "Lmk im very nervous with the situation @mmayson @ofwizz @sotom225", "who": "Barb Brazil", "date": "2026-08-24"},
+        {"quote": "Please upload all the content you have that hasn't been posted yet, then keep it topped up with 7 reels a week so 30 in total per month", "who": "Mayson Chat", "date": "2026-08-30"}
+      ]
+    },
+    "security_hygiene": {
+      "severity": 1,
+      "internal_failure": "Credentials were routed to the owner privately rather than pasted in chat (good outcome, but by luck of her asking first, not by policy), yet our Meta rep prompted 'Send login' in the open group thread, and personal phone numbers — hers and the owner's — now sit permanently in chat history. No credential-handling or rotation policy has ever been stated to her, and after a month of account compromises nobody has confirmed whether the flagged emails/numbers were ever actually swapped.",
+      "evidence": [
+        {"quote": "Send login", "who": "Vivek", "date": "2026-07-31"},
+        {"quote": "hey! is this where i can send my logins for my socials?", "who": "Barb Brazil", "date": "2026-07-21"},
+        {"quote": "Zelle my phone number 5618011087", "who": "Derrek", "date": "2026-08-08"}
+      ]
+    }
+  },
+  "metrics": {
+    "client_questions_total": 44,
+    "unanswered_over_24h": 11,
+    "max_team_silence_days": 3.2,
+    "promises_made": 22,
+    "promises_kept": 8,
+    "promises_lapsed": 14,
+    "method": "Manual read of all 337 non-service messages (Jul 20 – Sep 3), 188 from the client and 149 from our side. 'Client question' = a client message containing an explicit ask, whether or not punctuated with '?' (29 question-marked messages after removing 4 bare URLs, plus ~15 unpunctuated asks such as 'do you think these are too risky for trial reels'); multi-message asks counted once. 'Unanswered >24h' = never answered or answered only after 24h with no substance: talking-to-camera examples (Jul 22, 43d), collab-account ask (Jul 23, never), X ownership (Jul 28, ~2d), Aug 6 status check-in (only 'Yo Ma'am'), backup IG @ chase (Aug 3, 32d), engagement-software (Aug 11, 24d), linkme decision (Aug 11, 24d), 'is this too risqué' (Aug 18, never), Aug 24 traffic escalation (11d), Aug 24 OFTV-pivot yes/no (11d), Aug 24 domain review (11d). Promises = explicit our-side commitments with an implied deliverable; kept = OFTV owner intro, X ownership clarified, Zelle rail fixed (Aug 8), gun-range shoot organised and executed, videographer sourced, Aug 31 call held, Sep 2 edited-video delivery, weekly leak report sustained 4 weeks. Team silence = longest gap with zero our-side messages of any kind (Aug 27 14:46 → Aug 30 19:13 = 3.2d); note the topic-level blackout is far worse — zero Instagram/traffic/growth/domain messages from Aug 24 to Sep 4 (11d)."
+  },
+  "what_client_wanted": [
+    "Numbers going up, and proof of it. 'i definitely wanna see my numbers increase not keep going down 😭' (Aug 24). In 46 days she has never been shown a view count, a posting log or a growth figure.",
+    "A real answer and a plan on the IG/traffic collapse, from a named person. 'Lmk im very nervous with the situation @mmayson @ofwizz @sotom225' (Aug 24) — she tagged three people and got an acknowledgement, not an answer.",
+    "A yes/no on her own rescue plan, and to be a partner in the fix. 'or maybe we can just do like a very heavy OFTV focus like I shoot once a week to make an upload a video every week just until we figure this out?' (Aug 24) — she offered to increase her own output and eleven days later nobody has said yes or no.",
+    "Creative direction and safety guidance she can shoot against. 'will someone be able to send me maybe some ideas for reels and tiktoks ?? i like to shoot with my photographer to batch up content' (Jul 21); 'do you have some examples of talking to camera reels for girls in my niche / my look??? 🙏🏼' (Jul 22); 'is this too risqué' (Aug 18, then 'nvm i deleted i was paranoid lol').",
+    "Clarity on who owns what. 'Hey guys, if i have any questions regarding anything who would be the right person to reach out to from the group?' (Jul 26)."
+  ],
+  "what_worked": [
+    "OFTV execution by Olivia — the only workstream on this account that produces visible output, and the only thing that re-engages her. She sourced the videographer, organised the gun-range shoot, and got the client's most enthusiastic message of the relationship: 'Hey @Liv_Lee !!!! I had the best time today shooting and shooting 🔫 Ben is awesome' (Aug 27). Then, chased a fourth time on Aug 31, she replied within two minutes of the tag, offered a same-day call, locked 6:30pm EST, and delivered on Sep 2: 'Airplane, coffee shop, and the backflip video'. First content turnaround in 46 days.",
+    "Michelle's weekly leak-removal report — four consecutive weeks (Aug 10, 17, 25, Sep 1) and the one thing the client thanks us for every single time: 'Thank you queen!' (Sep 1). Proof that a boring, reliable, unprompted weekly cadence buys enormous goodwill.",
+    "Fast, warm billing acknowledgement when we actually do it. Stephski replied to her Sep 3 partial payment in two minutes — 'You rock thanks!' — versus a six-day 'Thank you!' the cycle before. She responds immediately to being seen.",
+    "Early creative support landed hard: 'this is perfect i love this' (Jul 22, on Michelle's inspo reels). When we give her direction she uses it enthusiastically — which makes the lapsed weekly inspo drop and the never-sent talking-to-camera examples more costly than they look."
+  ],
+  "top_fix": "Put one named senior owner on the Instagram/traffic crisis with a hard 24-hour substantive-answer SLA on any client escalation — and make 'client tagged us by name and is nervous' an automatic owner-level trigger, not a queue item. For Barbara specifically that means Derrek personally sending, before Monday, a written status covering what actually happened to her accounts, whether the device migration and email/number swap were ever done, current posting and growth numbers, the backup IG @, the barbarasilva.vip finding, and an explicit yes/no on her weekly-OFTV pivot. Eleven days of silence after 'very nervous' — during which we asked her for 30 more reels a month and told her to pay within 7 days or work pauses — is precisely the shape churn takes on this roster."
+}

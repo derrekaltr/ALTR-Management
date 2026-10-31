@@ -1,0 +1,224 @@
+{
+  "client": "Lilia",
+  "slug": "lilia-x-altr",
+  "week_ending": "2026-08-14",
+  "summary": "Chat came back to life (36 messages vs 4 last week) and Lilia was highly productive - 48 pics + 8 videos uploaded, a $100/min custom accepted, and her top spender Teddi returning. But the single complaint she has raised since June happened again: on Aug 14 the chat team sold frumby (her $200/video spender) content he already owned, five days after she spelled out exactly how to sell to him. She pulled the chatters off him herself and now has to shoot a free make-up video - so ALTR is currently locked out of her #2 revenue source by the client's own instruction. The July 15-31 invoice (sent Aug 1, 7-day window) is still unpaid at week's end, and the blocker this time is on ALTR's side: her Zelle transfers failed twice on Aug 12 because ALTR's Zelle ID no longer exists. Derrek's Aug 1 promise of 'plenty of updates' on the IG phone-farm is now two weeks overdue with nothing posted, and Vivek (added Jul 29 as Meta rep) has still never spoken in the chat.",
+  "health": {
+    "score": 62,
+    "trend": "down",
+    "rationale": "Down from 68. The VIP-mishandling complaint recurred for the 7th time despite Fred's Jul 24 commitment to remove the offending chatter, and this time it cost her directly (free make-up video + chat team pulled off frumby). The Jul 15-31 invoice is 6 days past its stated window and the current blocker is ALTR's dead Zelle ID - the fourth payment-rail change since June. Offset by genuine engagement, fast Fred responses once prompted, DMCA + reel-inspo delivery, and warm client tone with no anger language this week."
+  },
+  "reminders": [
+    {
+      "employee": "Fred",
+      "topic": "Chat team mishandling her high spenders (Teddi/frumby): reselling content they already own, wrong notes, no alerts to her",
+      "count": 7,
+      "first_date": "2026-06-12",
+      "last_date": "2026-08-14",
+      "days_outstanding": 63,
+      "note": "7th distinct escalation since Jun 12 (Jun 12, Jul 19, Jul 22, Jul 23, Jul 24, Jul 29, Aug 14). Fred promised on Jul 24 to remove the offending chatter; the identical failure recurred this week on a different fan.",
+      "quotes": [
+        {"quote": "The chatters keep sending content he already has! It’s a second account! I just don’t want him leaving! Only new content please let theme sell only", "who": "Lilia", "date": "2026-07-24"},
+        {"quote": "Missed out on my highest spender kind of pissed about it when it took me ages to get him back", "who": "Lilia", "date": "2026-07-29"},
+        {"quote": "44 pics and 8 videos are being uploaded! Please tell chatters to sell to frumby 200 per video and as for pics sell 200 package of pics please nothing less! And tell him one preview so he knows its new content :)", "who": "Lilia", "date": "2026-08-09"},
+        {"quote": "Hey can u tell the chatters not to talk to frumby", "who": "Lilia", "date": "2026-08-14"},
+        {"quote": "They sold him content he already has! So I need to make him a video to make it up to him", "who": "Lilia", "date": "2026-08-14"}
+      ]
+    },
+    {
+      "employee": "Stephski",
+      "topic": "Had to chase ALTR for working payment details after her Zelle transfers failed twice",
+      "count": 1,
+      "first_date": "2026-08-12",
+      "last_date": "2026-08-12",
+      "note": "She was trying to pay and could not; this is the third time ALTR's receiving details have changed on her (Mercury -> Chase -> Bank of America -> dead Zelle ID).",
+      "quotes": [
+        {"quote": "I tried Zelleing u twice but it says u no longer have the ID", "who": "Lilia", "date": "2026-08-12"},
+        {"quote": "Is there another Zelle u have", "who": "Lilia", "date": "2026-08-12"}
+      ]
+    },
+    {
+      "employee": "Derrek",
+      "topic": "Promised IG phone-farm / backup-posting updates never delivered; Vivek (added Jul 29 as Meta rep) has still never posted in the chat",
+      "count": 1,
+      "first_date": "2026-08-01",
+      "last_date": "2026-08-14",
+      "days_outstanding": 13,
+      "note": "Not re-chased by Lilia this week, but the promise is now 2 weeks past its own deadline with zero updates posted.",
+      "quotes": [
+        {"quote": "Thank you for your understanding, we will have plenty of updates starting next week.", "who": "Derrek", "date": "2026-08-01"}
+      ]
+    }
+  ],
+  "complaints": [
+    {
+      "issue": "Chat team sold frumby (her $200/video spender) content he already owned - the exact failure she raised about Teddi in July. She pulled the chatters off him and has to shoot a free make-up video to repair the relationship.",
+      "status": "recurring",
+      "first_raised": "2026-06-12",
+      "last_raised": "2026-08-14",
+      "owner": "Fred",
+      "impact": "ALTR is currently barred from chatting her #2 spender by client instruction; unpaid make-up content plus lost sell-through while he is off the chat list.",
+      "quotes": [
+        {"quote": "They sold him content he already has! So I need to make him a video to make it up to him", "who": "Lilia", "date": "2026-08-14"},
+        {"quote": "Have the chatter not talk to him until new ones are in the folder for him", "who": "Lilia", "date": "2026-08-14"},
+        {"quote": "I come back tomorrow no more talking to him please", "who": "Lilia", "date": "2026-08-14"},
+        {"quote": "Hey - yes we'll pull Frumby off the chat list. Please let me know if you want us to speak to him again - will speak to the team!", "who": "FRED | OFM", "date": "2026-08-14"}
+      ]
+    },
+    {
+      "issue": "Her Zelle payments to ALTR failed twice because ALTR's Zelle ID no longer exists - the invoice is late through no fault of hers",
+      "status": "new",
+      "first_raised": "2026-08-12",
+      "last_raised": "2026-08-12",
+      "owner": "Stephski",
+      "quotes": [
+        {"quote": "I tried Zelleing u twice but it says u no longer have the ID", "who": "Lilia", "date": "2026-08-12"},
+        {"quote": "Can you try to zelle this number? it’s attached to that so should work", "who": "Stephski", "date": "2026-08-12"}
+      ]
+    },
+    {
+      "issue": "ALTR-side responsiveness: Fred acknowledged the group chat had fallen off his pinned list, which explains the slow replies around the Aug 4 login issue",
+      "status": "resolved",
+      "first_raised": "2026-08-10",
+      "last_raised": "2026-08-10",
+      "owner": "Fred",
+      "quotes": [
+        {"quote": "Have the group chat pinned again so responses will be prompter - my apologies!", "who": "FRED | OFM", "date": "2026-08-10"}
+      ]
+    },
+    {
+      "issue": "OnlyFans login change of Aug 4 left the chat team disconnected; never explicitly confirmed as fixed in chat, but the team is demonstrably operating the account again",
+      "status": "resolved",
+      "first_raised": "2026-08-04",
+      "last_raised": "2026-08-04",
+      "owner": "Fred",
+      "note": "Closed by inference only - chatters were actively selling on the account by Aug 14 and Fred is organising content folders again. No one ever posted a confirmation.",
+      "quotes": [
+        {"quote": "Please let me know if you have the new logins to hand so we can reconnect - thank you! 🙏", "who": "FRED | OFM", "date": "2026-08-04"},
+        {"quote": "They sold him content he already has! So I need to make him a video to make it up to him", "who": "Lilia", "date": "2026-08-14"}
+      ]
+    }
+  ],
+  "commitments": [
+    {
+      "what": "Remove the problem chatter from her account and enforce the high-spender playbook (new-content-only folder, never resell owned content, alert Lilia)",
+      "who": "Fred",
+      "date": "2026-07-24",
+      "status": "overdue",
+      "note": "Promised Jul 24; the identical failure recurred on Aug 14. No confirmation of removal has ever been posted in the chat.",
+      "quotes": [
+        {"quote": "it's the same chatter who's letting the side down so I will take them off your account!", "who": "FRED | OFM", "date": "2026-07-24"},
+        {"quote": "They sold him content he already has! So I need to make him a video to make it up to him", "who": "Lilia", "date": "2026-08-14"}
+      ]
+    },
+    {
+      "what": "Pull frumby off the chat list until new content is in his folder, then report back before re-engaging him",
+      "who": "Fred",
+      "date": "2026-08-14",
+      "status": "pending",
+      "quotes": [
+        {"quote": "Hey - yes we'll pull Frumby off the chat list. Please let me know if you want us to speak to him again - will speak to the team!", "who": "FRED | OFM", "date": "2026-08-14"}
+      ]
+    },
+    {
+      "what": "Organise the newly uploaded 8 videos + 48 pics into the spender folders once the upload finishes, and hold chatters off them until then",
+      "who": "Fred",
+      "date": "2026-08-10",
+      "status": "pending",
+      "quotes": [
+        {"quote": "In going to upload the videos first before the 48 pics just make sure the chatters don’t use it until it fully uploaded! 8 videos just take a lot of time to load!", "who": "Lilia", "date": "2026-08-10"},
+        {"quote": "Aha yeah - let me know when it's all up and I'll organise :)", "who": "FRED | OFM", "date": "2026-08-10"}
+      ]
+    },
+    {
+      "what": "Brief the team on the accepted shower/dildo custom at her $100-per-minute rate",
+      "who": "Fred",
+      "date": "2026-08-11",
+      "status": "pending",
+      "quotes": [
+        {"quote": "100 per min and yes I will jahahaha! So detailed 😂", "who": "Lilia", "date": "2026-08-11"},
+        {"quote": "Amazing - will inform team, thank you", "who": "FRED | OFM", "date": "2026-08-11"}
+      ]
+    },
+    {
+      "what": "Deliver the promised IG phone-farm / backup-posting updates (promised for the week of Aug 3)",
+      "who": "Derrek",
+      "date": "2026-08-01",
+      "status": "overdue",
+      "note": "13 days late. Nothing posted this week; Vivek, added Jul 29 as her Meta support rep, has never sent a message in this chat.",
+      "quotes": [
+        {"quote": "Thank you for your understanding, we will have plenty of updates starting next week.", "who": "Derrek", "date": "2026-08-01"},
+        {"quote": "Hey Ive added Vivek in here ( @fonta ). He is our Meta Support Rep that will help keep your IG accounts up and safe.", "who": "Derrek", "date": "2026-07-29"}
+      ]
+    },
+    {
+      "what": "Give Stephski working payment details so the July 15-31 invoice can clear",
+      "who": "Stephski",
+      "date": "2026-08-12",
+      "status": "pending",
+      "note": "A phone number was supplied Aug 12; no confirmation from either side that the payment landed by Aug 14.",
+      "quotes": [
+        {"quote": "Can you try to zelle this number? it’s attached to that so should work", "who": "Stephski", "date": "2026-08-12"},
+        {"quote": "3214470208", "who": "Stephski", "date": "2026-08-12"}
+      ]
+    }
+  ],
+  "payments": [
+    {
+      "note": "July 15-31 invoice (sent Aug 1 with a 7-day window, due ~Aug 8) is STILL UNPAID at the end of this week - 6 days past due. Stephski chased on Aug 4, Aug 9 and Aug 11; Lilia committed twice ('It's hitting the bank tomorrow'), then on Aug 12 reported her Zelle transfers failed twice because ALTR's Zelle ID no longer exists. Stephski sent a replacement number the same day. No payment confirmation by Aug 14.",
+      "date": "2026-08-01",
+      "late": true,
+      "days_late": 6,
+      "reason": "Two ALTR-side causes: the client did not see the original invoice (Aug 1-4), then ALTR's Zelle ID stopped resolving when she tried to send on Aug 12. She has never refused or disputed the amount.",
+      "suggested_fix": "Confirm the replacement Zelle number actually received the funds before Aug 15 - the Aug 1-15 invoice is due the next day and two invoices are about to stack. Then stop moving receiving rails: she has now been asked to pay via Mercury, Chase, Bank of America and two different Zelle identifiers since June. Give her one permanent payment link or wire template with an explicit due date on the PDF.",
+      "quotes": [
+        {"quote": "If you could please shoot over payment within the next 7 days that would be amazing!", "who": "Stephski", "date": "2026-08-01"},
+        {"quote": "Just pinging this incase you didnt see it 🙏", "who": "Stephski", "date": "2026-08-04"},
+        {"quote": "Hi love just checking in! Think you could shoot it over today/tomorrow?", "who": "Stephski", "date": "2026-08-09"},
+        {"quote": "Tomorrow! It’s hitting the bank tomorrow x", "who": "Lilia", "date": "2026-08-09"},
+        {"quote": "I tried Zelleing u twice but it says u no longer have the ID", "who": "Lilia", "date": "2026-08-12"}
+      ]
+    },
+    {
+      "note": "Standing pattern confirmed again this cycle: Lilia always intends to pay and never disputes, but every single invoice since June has needed at least one chase, and ALTR's own banking churn has caused a failure on 3 of 4 cycles (Mercury link bounced in June, $500/day Zelle limits forced 6 installments, now a dead Zelle ID in August).",
+      "date": "2026-08-12",
+      "late": true,
+      "reason": "ALTR receiving-account instability plus no explicit due date on the invoice PDF",
+      "suggested_fix": "Move her to a single stable rail and put a bold due date on the invoice; her payment behaviour is reliable once the rail works.",
+      "quotes": [
+        {"quote": "Hi love! Wanted to let you know that if you paid via the Mercury link above, your transaction will bounce, can you please send to the Chase account listed at the bottom of the invoice? 🙏 Apologies for the back and fourth, American Banking systems am I right 😂", "who": "Stephski", "date": "2026-06-22"},
+        {"quote": "Want to let you know we have a new bank for you to send to (last change I promise!).", "who": "Stephski", "date": "2026-07-01"},
+        {"quote": "Is there another Zelle u have", "who": "Lilia", "date": "2026-08-12"}
+      ]
+    }
+  ],
+  "client_priorities": [
+    "Protecting her high spenders above all else - Teddi is returning and frumby must be repaired; never sell either of them content they already own",
+    "Price discipline: $200 per video and $200 per pic package to spenders, $100/min on customs, nothing less",
+    "Being told immediately when a spender goes quiet or gets upset so she can jump in personally",
+    "Sell only from the new-content folder, and only after her uploads have finished processing",
+    "Account safety and IG continuity: DMCA takedowns (she values the weekly leak reports), backup IG pages, shadowban protection",
+    "She keeps her own OF wall posts and drives content volume herself - she wants ALTR to monetise, not to post for her"
+  ],
+  "suggestions": [
+    "Fix frumby this week: name the chatter who sold owned content, confirm in writing they are off her account, load the new 8 videos + 48 pics into his folder, and ask her permission to re-engage him. She has raised this exact issue 7 times since June - one more repeat is a churn risk.",
+    "Build a hard guardrail, not another apology: a per-fan purchase-history check before any PPV send to Teddi or frumby. Verbal team briefings have now failed three times (Jul 13, Jul 24, Jul 30).",
+    "Confirm the July 15-31 payment landed on the new Zelle number BEFORE sending the Aug 1-15 invoice on Aug 15, or she will be looking at two open invoices at once.",
+    "Lock one permanent receiving rail and put an explicit due date on the invoice PDF. Four rail changes in ten weeks is the single biggest cause of her late payments.",
+    "Get Derrek or Vivek to post the phone-farm / backup-IG update - it is 13 days past the promised date and Vivek has never once spoken since being added on Jul 29.",
+    "Prep the Teddi return properly: she has explicitly cleared reselling old content to him ('he lost it all') at 200+ only. Have his folder and pricing briefed before he remakes his account so his first week is not another mishandling story."
+  ],
+  "wins": [
+    "Huge content drop from the client: 48 pics + 8 videos uploaded across Aug 8-10 with pricing and sales instructions attached",
+    "Fred sourced a detailed custom request and she accepted at $100 per minute (Aug 11) - 'So detailed 😂'",
+    "Her highest spender Teddi is returning and she pre-cleared reselling his lost library at 200+ (Aug 8)",
+    "Michelle delivered the weekly DMCA leak-removal breakdown on schedule (Aug 10)",
+    "Mica delivered the weekly IG reel-inspo set (Aug 13)",
+    "Fred re-pinned the chat and closed the loop on wall posts and the Teddi folder the same day (Aug 10); Mayson escalated her Aug 14 frumby message to Fred within hours"
+  ],
+  "week_stats": {
+    "messages": 36,
+    "client_messages": 20,
+    "team_messages": 16
+  }
+}

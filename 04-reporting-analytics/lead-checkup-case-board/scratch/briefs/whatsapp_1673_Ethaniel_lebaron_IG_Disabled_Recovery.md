@@ -1,0 +1,47 @@
+# @Ethaniel.lebaron - IG Disabled Recovery  [whatsapp #1673 GROUP]
+msgs=37 (in=30 out=7) window=2026-08-31..2026-09-12
+last_client=2026-09-12 (6d ago), last_derrek=2026-09-09 (9d ago)
+LAST MESSAGE FROM CLIENT — UNANSWERED: 'It’s weekend so support is slow but waiting for responses on cases rn'
+
+  ...
+[2026-08-31 08:16] 120363411509433568@g.us: {"should_use_identity_header":true,"auto_add_disabled":true,"reason":0,"context_group":null,"is_initially_empty":false,"is_hidden_sub_group":false,"parent_group_name":null,"parent_group_jid":null,"show_membership_string":true,"subject":"@Ethaniel.lebaron - IG …
+[2026-08-31 08:16] DEREK: hey bro! Just added my partner daniel and vivek who will be working on your case here. Ill be traveling the next few days so wanted to just add them in so communication is perfect.
+[2026-08-31 08:18] DEREK: $1500 Paid/ $1500 Owed
+[2026-08-31 13:11] 49650526613579@lid: Thank you! Any idea why this recovery isn't working?
+[2026-08-31 13:11] 49650526613579@lid: If the account isn't fully recovered within the next 2-3 days I would like a refund if that's okay🙏
+[2026-08-31 16:37] DEREK: Reps got fired
+[2026-08-31 16:37] DEREK: Yep
+[2026-08-31 16:39] 49650526613579@lid: Hope you get the reps thing figured out
+[2026-09-02 17:18] DEREK: hey bro
+[2026-09-02 17:18] DEREK: sorry missed this update for you, should be back overnight
+[2026-09-02 17:19] 182279200600101@lid: Hey Ethaniel, my fault, was sending updates over iMessage last night and missed this WhatsApp
+[2026-09-02 17:19] 182279200600101@lid: We have an eta of it coming back over the next 12-24 hours
+[2026-09-03 04:37] 49650526613579@lid: Call me when it does
+[2026-09-03 23:40] 49650526613579@lid: If you guys could go ahead and just get me a refund that'd be great
+[2026-09-03 23:43] 182279200600101@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363411509433568@g.us/3/4/34516de1-43d1-4930-834c-867539811eaf.jpg>
+[2026-09-03 23:43] 182279200600101@lid: Brother your account is in process
+[2026-09-03 23:43] 182279200600101@lid: Feel free to call me
+[2026-09-04 00:04] 49650526613579@lid: I get that but my sponsor is already talking about dropping my deal because I've taken so long
+[2026-09-08 19:48] 49650526613579@lid: Updates?
+[2026-09-08 19:49] 182279200600101@lid: It’s in processing
+[2026-09-08 19:50] 49650526613579@lid: How long are yall gonna leave it in processing before I get a refund?
+[2026-09-08 21:08] 182279200600101@lid: Bro it’s not on us at this point
+[2026-09-08 21:08] 182279200600101@lid: Until the case fails or succeeds
+[2026-09-08 21:09] 182279200600101@lid: It’s in hands of meta
+[2026-09-08 21:19] 49650526613579@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363411509433568@g.us/3/2/32a8976c-10c0-46ac-9898-0a9e75fb4dde.jpg>
+[2026-09-08 21:20] 182279200600101@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363411509433568@g.us/2/1/21244e25-06e4-41eb-a3cd-3b3c2081baa7.jpg>
+[2026-09-08 21:20] 182279200600101@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363411509433568@g.us/3/a/3ad74f96-ff1d-4cdf-b3e3-44fe47ff5611.jpg>
+[2026-09-08 21:20] 182279200600101@lid: Every day your case has been on the list bro
+[2026-09-08 21:21] 49650526613579@lid: That is good to know, but aren't there like 50 others aswell?
+[2026-09-08 21:23] 49650526613579@lid: I had less than 6 months before my account is permanently gone and 2 months have already gone by
+[2026-09-09 02:17] DEREK: U have up to 2 years
+[2026-09-09 05:04] 49650526613579@lid: I thought it was 180 days
+[2026-09-09 06:44] 49650526613579@lid: That's good to know, but I hope it won't take too much longer🙏
+[2026-09-12 18:03] 49650526613579@lid: Any updates? What's it looking like?
+[2026-09-12 18:50] 182279200600101@lid: Hey bro
+[2026-09-12 18:50] 182279200600101@lid: Hopefully some good news in coming hours
+[2026-09-12 18:50] 182279200600101@lid: It’s weekend so support is slow but waiting for responses on cases rn

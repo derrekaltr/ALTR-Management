@@ -1,0 +1,367 @@
+{
+  "client": "Lilia",
+  "slug": "lilia-x-altr",
+  "week_ending": "2026-10-02",
+  "summary": "Quiet week: 30 messages (14 client, 16 team), down from 71. She is mid-house-move and says so ('This month has been the most hectic month! I will get on it! I promise!'). The biggest item is revenue she brought to us that nobody has answered. At 00:57 on Oct 1 she wrote that she has bought ten Halloween costumes for sexting sets, that Teddi 'said he will buy all of them' and that 'Usually he pays 1,000 per set!'. That is roughly $10,000 of pre-sold demand. Fred, who owns the OnlyFans side, posted ZERO messages all window, so nobody has acknowledged it. The $4,000 of sexting sets she offered on Sep 18 also has not arrived and nobody has asked about it. The Sep 23 disclosure (she has been deleting our chatters' mis-sent old content out of frumby's inbox, at least 3 times, and paying him back in free content) got 'We'll check' and then nine days of nothing. No chatter named (70 days), no purchase-history check, no count of the real damage. Mica carried the team side: she re-sent the Reels Drive with its purpose ('this is your drive' / 'to upload reel content'), said ALTR would make new accounts for her, confirmed 'we made a new one for you!' on Sep 29, and restarted the weekly reel-inspo drop (first since Sep 15). That answers much of the 'which Drive is which' confusion. But it exposed a new gap: she thinks ALTR wanted to run her warmed-up second IG account, and she cannot hand it over because she does not know its username or password. Nobody replied to that. Invoicing: Stephski sent the Sept 15-30 invoice on cadence on Oct 1. She skipped the day-before withdrawal reminder, KEPT the 'to avoid any pausing in work' line we flagged for removal, and again did not confirm the Sep 18 full payment (14 days) or the Sep 3 invoice (29 days). DMCA leak-removal updates are now 24 days absent in this chat, a third consecutive missed window. TikTok is 45 days untouched. She answered Melissa's agency-wide intake-form broadcast with enthusiasm ('Yessss I'll add a bunch of stuff to it!'). CHURN WATCH: no exit signals this week. No asks for exports or data, no mention of other agencies, no fast-pay-and-silence (no payment was due). Her tone is warm and she is proposing new revenue. The one pattern to keep watching: she keeps taking ALTR's work on herself ('I'll upload everything myself for u and put it all in a folder on OF to sell'), the same 'doing it myself' signal as the Sep 23 disclosure. Her message volume fell from 48 to 14, but the move explains it.",
+  "health": {
+    "score": 50,
+    "trend": "flat",
+    "rationale": "50, against 51 last week. Essentially flat, and both sides of the ledger are real. Down: Fred, the account's core operator, posted nothing for seven days. In that time the client posted a roughly $10,000 Halloween plan with a named buyer who has pre-committed at about $1,000 a set. Nine days after we learned she has been silently cleaning up our old-content mistakes for frumby, she has had no follow-up. Stephski's Oct 1 invoice kept the service-suspension line, skipped the day-before reminder and still did not confirm the Sep 18 payment. DMCA and TikTok are still dark. Up: Mica engaged three separate days, cleared up which Drive is which, confirmed a new account was built and restarted the reel-inspo cadence. Melissa's intake form drew an immediate, enthusiastic yes. The client is upbeat, explains every delay and is planning content around her best spender. Churn: no explicit signals (no exports or logins requested, no other agency mentioned, no unusual payment behaviour). The standing concern is that she is routing around ALTR rather than leaving it: she pre-sells to Teddi herself, uploads and folders the content herself, and says so. Her volume drop (48 to 14 client messages) is explained by the move, not disengagement."
+  },
+  "reminders": [
+    {
+      "employee": "Fred",
+      "topic": "Stop sending high spenders (frumby) content they already own. At least 15 incidents since Jun 12 (12 escalations plus 3 she disclosed on Sep 23 that she had absorbed silently). Fred answered 'We'll check' on Sep 23 and has posted nothing since. No chatter named 70 days after it was promised on Jul 24.",
+      "count": 12,
+      "age_days": 112,
+      "first_raised": "2026-06-12",
+      "evidence": [
+        {"quote": "The chatters keep sending content he already has! It’s a second account! I just don’t want him leaving! Only new content please let theme sell only", "date": "2026-07-24", "sender": "Lilia"},
+        {"quote": "Ur chatters have to stop doing this please", "date": "2026-09-14", "sender": "Lilia"},
+        {"quote": "And if ur talking about content in messages that were deleted yes because they keep sending frumby stuff he already has so I deleted so he doesn’t get pissed it’s happened 3 times now", "date": "2026-09-23", "sender": "Lilia"},
+        {"quote": "We’ll check", "date": "2026-09-23", "sender": "Fredo (Fred, OFM)"}
+      ]
+    },
+    {
+      "employee": "Vivek",
+      "topic": "Check whether her TikTok is shadowbanned. She asked four times in August, then went silent. Nobody has mentioned it for 39 days.",
+      "count": 4,
+      "age_days": 45,
+      "first_raised": "2026-08-18",
+      "evidence": [
+        {"quote": "Did u find out if I was shadowbanned?", "date": "2026-08-19", "sender": "Lilia"},
+        {"quote": "I’m definitely shadowbanned on TikTok so I can’t really post anything", "date": "2026-08-22", "sender": "Lilia"},
+        {"quote": "Did I end up being shadowbanned", "date": "2026-08-23", "sender": "Lilia"}
+      ]
+    },
+    {
+      "employee": "Stephski",
+      "topic": "Her own running balance does not match ALTR's sheet. She reported $192 owed and ALTR said $0. Nobody has reconciled the two, and the Sep 18 round-up has never been credited.",
+      "count": 2,
+      "age_days": 38,
+      "first_raised": "2026-08-25",
+      "evidence": [
+        {"quote": "192 (keeping track) it’s still giving me that limit…", "date": "2026-08-25", "sender": "Lilia"},
+        {"quote": "Yes mam you’re totaled at $0 owed now", "date": "2026-08-26", "sender": "Stephski"},
+        {"quote": "I just rounded it up", "date": "2026-09-18", "sender": "Lilia"}
+      ]
+    }
+  ],
+  "complaints": [
+    {
+      "issue": "Chatters sell frumby content he already owns, and she has stopped reporting it. She deletes the mis-sends herself and pays him back in free content. Fred's last word was 'We'll check' on Sep 23, then nine days of silence. No count of the real incidents, no named chatter, no purchase-history check, no reply on what 'Hayley content' is.",
+      "status": "recurring",
+      "owner": "Fred",
+      "age_days": 112,
+      "first_raised": "2026-06-12",
+      "last_raised": "2026-09-23",
+      "escalation_count": 12,
+      "evidence": [
+        {"quote": "He got pissed twice about them sending Hayley content (old content) which he bought a long time ago… so I know what he has bought so I delete the old content and then I have to message him saying I’ll make up for it", "date": "2026-09-23", "sender": "Lilia"},
+        {"quote": "Amazing thanks for the information I’ll clarify with the team!", "date": "2026-09-23", "sender": "Fredo (Fred, OFM)"}
+      ]
+    },
+    {
+      "issue": "Invoicing still does not confirm receipt of payments. The Oct 1 invoice went out with no acknowledgement of her Sep 18 full payment and round-up, and the Sep 3 invoice is 29 days unconfirmed. The day-before OF-withdrawal reminder that worked in the Sep 15 cycle was skipped. The amount is again only in the PDF.",
+      "status": "recurring",
+      "owner": "Stephski",
+      "age_days": 14,
+      "first_raised": "2026-09-18",
+      "last_raised": "2026-10-01",
+      "evidence": [
+        {"quote": "Zelle worked in full this time yayyy", "date": "2026-09-18", "sender": "Lilia"},
+        {"quote": "Good afternoon queen! Here is your invoice for September 15-30th ❤️ Let me know if you need anything, all banking info and zelle info is at the bottom.", "date": "2026-10-01", "sender": "Stephski"}
+      ]
+    },
+    {
+      "issue": "The service-suspension line is still in her invoice even though last week's report flagged it for removal before Oct 1. This client cleared the previous invoice in one send three days after issue and rounded it up.",
+      "status": "recurring",
+      "owner": "Stephski",
+      "age_days": 17,
+      "first_raised": "2026-09-15",
+      "last_raised": "2026-10-01",
+      "evidence": [
+        {"quote": "As always, we appreciate you paying within the next 7 days to avoid any pausing in work! 🙏", "date": "2026-10-01", "sender": "Stephski"}
+      ]
+    },
+    {
+      "issue": "The Aug 29 lost-high-spender complaint (~$300) has never been answered: which fan, which chatter, why she was not told.",
+      "status": "recurring",
+      "owner": "Fred",
+      "age_days": 34,
+      "first_raised": "2026-07-29",
+      "last_raised": "2026-08-29",
+      "evidence": [
+        {"quote": "Plead communicate this we lost out on 300", "date": "2026-08-29", "sender": "Lilia"},
+        {"quote": "I’ve lost my high spender because of communication and this", "date": "2026-08-29", "sender": "Lilia"}
+      ]
+    },
+    {
+      "issue": "The weekly DMCA leak-removal breakdown has not appeared in this chat since Sep 8 (24 days, third consecutive missed window). It ran unbroken every week from Jun 25. Melissa reportedly took over the agency-wide leak updates on 9/25, but no update reached this chat. She has not chased it.",
+      "status": "recurring",
+      "owner": "Michelle / Melissa",
+      "age_days": 24,
+      "first_raised": "2026-09-18",
+      "last_raised": "2026-10-02",
+      "evidence": [
+        {"quote": "Hey love! Here’s your weekly update on the leak removal breakdown for the past 7 days 🫶🏼", "date": "2026-09-08", "sender": "Michelle Queue (Michelle)"}
+      ]
+    },
+    {
+      "issue": "TikTok shadowban never checked, plus the Aug 24 'Facebook' screenshots never read. Vivek has been silent 39 days.",
+      "status": "recurring",
+      "owner": "Vivek",
+      "age_days": 45,
+      "first_raised": "2026-08-18",
+      "last_raised": "2026-08-24",
+      "evidence": [
+        {"quote": "@fonta always u can check of I’m shadowbanned on TikTok", "date": "2026-08-18", "sender": "Lilia"},
+        {"quote": "Facebook", "date": "2026-08-24", "sender": "Lilia"}
+      ]
+    },
+    {
+      "issue": "Confusion over which IG accounts ALTR runs for her. Mica clarified the Reels Drive and the new account this week (progress). But she believes ALTR wanted to run her warmed-up second account and says she has lost its login. Nobody has replied or offered to help recover it.",
+      "status": "in_progress",
+      "owner": "Mica Vecco / Mayson",
+      "age_days": 112,
+      "first_raised": "2026-06-12",
+      "last_raised": "2026-09-25",
+      "evidence": [
+        {"quote": "No one has access to my second account right now as I don’t loose my username or password to it", "date": "2026-09-25", "sender": "Lilia"},
+        {"quote": "I think they said they wanted to run my second account, since it’s been warmed up! But literally don’t now my username or password…", "date": "2026-09-25", "sender": "Lilia"},
+        {"quote": "we made a new one for you! we need content for it (reels)", "date": "2026-09-29", "sender": "Mica Vecco"}
+      ]
+    },
+    {
+      "issue": "Phone-number exposure follow-through: her question 'I think I'm good?' and the identity of the spender who 'was throwing a fuss' are still unaddressed.",
+      "status": "in_progress",
+      "owner": "Fred",
+      "age_days": 10,
+      "first_raised": "2026-09-22",
+      "last_raised": "2026-09-23",
+      "evidence": [
+        {"quote": "I hang got any weird messages so I think I’m good?", "date": "2026-09-23", "sender": "Lilia"},
+        {"quote": "Yes there were a few people who did see it and I believe there was a specific spender who was throwing a fuss about a guy with you on there but the chatters played it off.", "date": "2026-09-23", "sender": "Fredo (Fred, OFM)"}
+      ]
+    }
+  ],
+  "commitments": [
+    {
+      "what": "Acknowledge and plan the Halloween sexting-set drop: 10 costume sets, Teddi pre-committed to buy all of them at ~$1,000/set. Agree pricing, sequencing and which chatter sells to Teddi.",
+      "who": "Fred",
+      "status": "pending",
+      "due": "2026-10-03",
+      "age_days": 1,
+      "evidence": [
+        {"quote": "Just bought ten Halloween costumes for OF all of them will be sexting sets doing different things… easy money for the high spenders. Talked to teddie and he said he will buy all of them u send him. Usually he pays 1,000 per set!", "date": "2026-10-01", "sender": "Lilia"},
+        {"quote": "I’m waiting for the costumes to come in the mail! I’ll upload everything myself for u and put it all in a folder on OF to sell", "date": "2026-10-01", "sender": "Lilia"}
+      ]
+    },
+    {
+      "what": "Investigate the Sep 23 old-content disclosure: pull the frumby logs, count the real mis-sends, quantify her free compensation, name the chatter promised removal on Jul 24, install a purchase-history check",
+      "who": "Fred",
+      "status": "overdue",
+      "due": "2026-07-24",
+      "age_days": 70,
+      "evidence": [
+        {"quote": "Amazing thanks for the information I’ll clarify with the team!", "date": "2026-09-23", "sender": "Fredo (Fred, OFM)"}
+      ]
+    },
+    {
+      "what": "Follow up the two sexting sets she offered on Sep 18 ('easy 4,000'). She said 'most likely tomorrow' on Sep 23 and they have not arrived. Nobody has asked.",
+      "who": "Fred",
+      "status": "overdue",
+      "due": "2026-09-24",
+      "age_days": 14,
+      "evidence": [
+        {"quote": "Sending two sexting sets tomorrow easy 4,000 from high spenders", "date": "2026-09-18", "sender": "Lilia"},
+        {"quote": "I’ll send them most likely tomorrow…", "date": "2026-09-23", "sender": "Lilia"}
+      ]
+    },
+    {
+      "what": "Confirm in chat receipt of the Sep 18 full payment and round-up, the status of the Sep 3 invoice, and reconcile the $192 gap",
+      "who": "Stephski",
+      "status": "overdue",
+      "due": "2026-09-19",
+      "age_days": 29,
+      "evidence": [
+        {"quote": "I will get that paid! Thank you x", "date": "2026-09-04", "sender": "Lilia"},
+        {"quote": "I just rounded it up", "date": "2026-09-18", "sender": "Lilia"}
+      ]
+    },
+    {
+      "what": "Remove the 'to avoid any pausing in work' line before the Oct 1 invoice",
+      "who": "Stephski",
+      "status": "overdue",
+      "due": "2026-10-01",
+      "age_days": 17,
+      "evidence": [
+        {"quote": "As always, we appreciate you paying within the next 7 days to avoid any pausing in work! 🙏", "date": "2026-10-01", "sender": "Stephski"}
+      ]
+    },
+    {
+      "what": "Issue the Sept 15-30 invoice on cadence",
+      "who": "Stephski",
+      "status": "done",
+      "due": "2026-10-01",
+      "age_days": 0,
+      "evidence": [
+        {"quote": "Good afternoon queen! Here is your invoice for September 15-30th ❤️", "date": "2026-10-01", "sender": "Stephski"}
+      ]
+    },
+    {
+      "what": "Report back on the Aug 29 lost high spender (~$300)",
+      "who": "Fred",
+      "status": "overdue",
+      "due": "2026-08-29",
+      "age_days": 34,
+      "evidence": [
+        {"quote": "Plead communicate this we lost out on 300", "date": "2026-08-29", "sender": "Lilia"}
+      ]
+    },
+    {
+      "what": "Restore the weekly DMCA leak-removal breakdown in this chat",
+      "who": "Michelle / Melissa",
+      "status": "overdue",
+      "due": "2026-09-15",
+      "age_days": 24,
+      "evidence": [
+        {"quote": "Hey love! Here’s your weekly update on the leak removal breakdown for the past 7 days 🫶🏼", "date": "2026-09-08", "sender": "Michelle Queue (Michelle)"}
+      ]
+    },
+    {
+      "what": "Check the TikTok shadowban and read the Aug 24 Facebook screenshots (recommend reassigning off Vivek)",
+      "who": "Vivek",
+      "status": "overdue",
+      "due": "2026-08-18",
+      "age_days": 45,
+      "evidence": [
+        {"quote": "I’m definitely shadowbanned on TikTok so I can’t really post anything", "date": "2026-08-22", "sender": "Lilia"}
+      ]
+    },
+    {
+      "what": "Help her recover access to her warmed-up second IG account (she has lost the login), or tell her plainly that ALTR no longer needs it because a new account has been made",
+      "who": "Mayson",
+      "status": "overdue",
+      "due": "2026-09-11",
+      "age_days": 22,
+      "evidence": [
+        {"quote": "I still need to get u the insta login… need to figure it out", "date": "2026-09-16", "sender": "Lilia"},
+        {"quote": "I think they said they wanted to run my second account, since it’s been warmed up! But literally don’t now my username or password…", "date": "2026-09-25", "sender": "Lilia"}
+      ]
+    },
+    {
+      "what": "Re-explain the Reels Drive and the new account she is feeding. Partially done by Mica on Sep 25/29; a full written account map is still not sent.",
+      "who": "Mica Vecco",
+      "status": "pending",
+      "due": "2026-10-09",
+      "age_days": 22,
+      "evidence": [
+        {"quote": "this is your drive", "date": "2026-09-25", "sender": "Mica Vecco"},
+        {"quote": "we would make accounts for you", "date": "2026-09-25", "sender": "Mica Vecco"},
+        {"quote": "i believe one has already been made", "date": "2026-09-25", "sender": "Mica Vecco"}
+      ]
+    },
+    {
+      "what": "Client: upload reels (old reels OK, minus the butt ones) to the Drive for the new account",
+      "who": "Lilia (client)",
+      "status": "pending",
+      "due": "2026-10-09",
+      "age_days": 7,
+      "evidence": [
+        {"quote": "Oh okay so old reels are okay! I just won’t send the butt ones as those will get flagged on new accounts", "date": "2026-09-25", "sender": "Lilia"},
+        {"quote": "This month has been the most hectic month! I will get on it! I promise!", "date": "2026-09-29", "sender": "Lilia"}
+      ]
+    },
+    {
+      "what": "Client: fill out the new private-platform intake form",
+      "who": "Lilia (client)",
+      "status": "pending",
+      "due": "2026-10-09",
+      "age_days": 4,
+      "evidence": [
+        {"quote": "Yessss I’ll add a bunch of stuff to it!", "date": "2026-09-28", "sender": "Lilia"}
+      ]
+    },
+    {
+      "what": "Older idle-revenue and process items, all untouched again this window: $100/min shower custom (Aug 11), Adam West red set (Aug 19), Aug 26 share-for-share and sexting-set repricing instructions, $750 whipped-cream decision (Aug 31), Teddi CRM notes (Aug 30), organise and price content into high-spender folders (Aug 10), written price floor in CRM (Aug 28)",
+      "who": "Fred",
+      "status": "overdue",
+      "due": "2026-08-31",
+      "age_days": 53,
+      "evidence": [
+        {"quote": "Amazing - will inform team, thank you", "date": "2026-08-11", "sender": "Fredo (Fred, OFM)"},
+        {"quote": "Adam west wanted the red set u Dan sell those for a lot he will pay", "date": "2026-08-19", "sender": "Lilia"}
+      ]
+    },
+    {
+      "what": "Written recap of the Sep 8 trial-reels call and reconciliation of the Aug 30 reel quota",
+      "who": "Mayson",
+      "status": "overdue",
+      "due": "2026-09-09",
+      "age_days": 24,
+      "evidence": []
+    }
+  ],
+  "payments": [
+    {
+      "note": "Sept 15-30 invoice issued on cadence on Oct 1 at 15:12. The amount is only in the PDF. The service-suspension line is retained. No day-before OF-withdrawal reminder was sent on Sep 30 (one was sent in the Sep 15 cycle). No receiving-detail change was announced. No OF earnings-screenshot request (fifth consecutive cycle without one). Due ~Oct 8. She has not responded yet; at the time of the export she is roughly 18 hours past issue.",
+      "amount": "not stated in chat - inside the attached PDF",
+      "date": "2026-10-01",
+      "status": "issued / awaiting payment",
+      "late": false,
+      "evidence": [
+        {"quote": "Good afternoon queen! Here is your invoice for September 15-30th ❤️ Let me know if you need anything, all banking info and zelle info is at the bottom. As always, we appreciate you paying within the next 7 days to avoid any pausing in work! 🙏 Let me know if you have any questions!", "date": "2026-10-01", "sender": "Stephski"}
+      ]
+    },
+    {
+      "note": "The Sept 1-14 invoice was paid in full in one Zelle send on Sep 18 with a voluntary round-up. ALTR still has not acknowledged it, 14 days on, and the Oct 1 invoice message did not mention it.",
+      "amount": "not stated in chat; paid in full plus round-up",
+      "date": "2026-09-18",
+      "status": "paid by client / receipt never confirmed by ALTR",
+      "late": false,
+      "evidence": [
+        {"quote": "Zelle worked in full this time yayyy", "date": "2026-09-18", "sender": "Lilia"}
+      ]
+    },
+    {
+      "note": "The Aug 15-31 invoice (issued Sep 3) is still unconfirmed 29 days later. It is unknown whether it was paid separately, folded into the Sep 18 send, or missed. Also outstanding: the $192 discrepancy from Aug 25 (38 days) and the uncredited Sep 18 round-up. ALTR's net position on this client is unknown on paper.",
+      "amount": "unknown (PDF only); plus $192 disputed; minus an uncredited round-up",
+      "date": "2026-09-03",
+      "status": "unconfirmed",
+      "late": false,
+      "evidence": [
+        {"quote": "I will get that paid! Thank you x", "date": "2026-09-04", "sender": "Lilia"},
+        {"quote": "192 (keeping track) it’s still giving me that limit…", "date": "2026-08-25", "sender": "Lilia"}
+      ]
+    }
+  ],
+  "client_priorities": [
+    "Monetising her high spenders with new themed content. She has bought 10 Halloween costumes for sexting sets, pre-sold to Teddi (~$1,000/set), with one teaser pic per set on her wall.",
+    "Protecting frumby from being sent content he already owns. She is doing this herself by deleting mis-sends and compensating him.",
+    "Getting through her house move. She says September has been 'the most hectic month' and is explaining her content delays rather than going quiet.",
+    "Clarity on which IG accounts ALTR runs. She now understands the Reels Drive feeds a new ALTR-made account, but she is still unsure about her warmed-up second account, which she cannot access.",
+    "Giving ALTR's new platform a full picture of her via the intake form ('I'll add a bunch of stuff to it!')",
+    "Price discipline: $200/video, $200/pic package, $100/min customs",
+    "TikTok unblocked (shadowbanned since Aug 22), DMCA updates, and a payment ledger that matches her own running total"
+  ],
+  "suggestions": [
+    "Have Fred reply to the Halloween plan today. Thank her, confirm Teddi is flagged in the CRM as pre-committed to all 10 sets, agree the per-set price (she cites ~$1,000), and have him own the sequencing so it is not left to her. This is the largest single revenue opportunity on the account and it is client-originated.",
+    "Close the Sep 23 loop in writing this week. Tell her how many old-content sends to frumby the logs show, which chatter, what has changed mechanically, and offer to cover what she gave away. Also ask what 'Hayley content' is.",
+    "Have Stephski post one message that confirms the Sep 18 payment and round-up, states whether the Sep 3 invoice is settled, closes the $192, and strips the 'pausing in work' line from the template going forward.",
+    "Have Mica or Mayson tell her plainly whether ALTR still needs her second IG account now that a new one exists. If it does, offer a recovery walkthrough; if not, say so and close it.",
+    "Have Melissa or Michelle restore the DMCA weekly breakdown in this chat. It was the one deliverable she never had to ask for.",
+    "Reassign the TikTok shadowban check off Vivek (45 days)."
+  ],
+  "wins": [
+    "Mica engaged across three days. She re-sent the Reels Drive with a clear purpose, explained that ALTR builds new accounts for her, confirmed a new account was made on Sep 29, and restarted the weekly reel-inspo drop (first since Sep 15). The client now understands old reels are usable: 'Oh okay so old reels are okay!'",
+    "The client is proactively generating revenue. She has 10 Halloween sexting sets planned, with her top spender Teddi pre-committed to buy all of them.",
+    "Melissa's new-platform intake form landed well: 'Yessss I'll add a bunch of stuff to it!' within 8 minutes.",
+    "The invoice went out on cadence on Oct 1, and for the fifth consecutive cycle there was no OF earnings-screenshot request."
+  ],
+  "week_stats": {
+    "messages": 30,
+    "client_messages": 14,
+    "team_messages": 16
+  }
+}

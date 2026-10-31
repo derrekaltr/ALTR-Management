@@ -1,0 +1,32 @@
+# SOCIAL DEPOT UNBANS  [whatsapp #809 GROUP]
+msgs=26 (in=25 out=1) window=2026-04-07..2026-06-27
+last_client=2026-06-27 (83d ago), last_derrek=2026-04-07 (164d ago)
+LAST MESSAGE FROM CLIENT — UNANSWERED: '1 IG & 2 TikTok'
+
+  ...
+[2026-04-07 19:24] 120363422917069497@g.us: SOCIAL DEPOT UNBANS
+[2026-04-07 19:24] DEREK: Preet this is my business partner Trevor. sometimes when I’m not available he will send you unbans. Please take care of him with the same prices and service.
+[2026-04-07 19:25] 119297179398217@lid: http://Facebook.com/daniibankss
+[2026-04-07 19:25] 119297179398217@lid: Officialkaymanuell
+[2026-04-07 19:25] 119297179398217@lid: Nice to meet you here’s some cases I have now, also do you do username claims?
+[2026-04-08 03:34] 96117777760289@lid: Alright 🫡
+[2026-04-08 13:52] 119297179398217@lid: Lmk how much for these cases
+[2026-04-08 14:32] 96117777760289@lid: Followers count??
+[2026-04-08 17:24] 119297179398217@lid: 163k
+[2026-04-08 17:27] 119297179398217@lid: Will get that
+[2026-04-08 17:27] 119297179398217@lid: it says fraud and deception
+[2026-04-08 18:10] 96117777760289@lid: Ya we can fix it
+[2026-04-08 18:10] 96117777760289@lid: By Instagram insider
+[2026-04-08 18:11] 119297179398217@lid: how much will that cost and what is TAT and any other info you'll need?
+[2026-04-13 14:44] 119297179398217@lid: @96117777760289 how much? we want to push these through asap
+[2026-04-13 16:15] 96117777760289@lid: We need to wait
+[2026-04-13 16:15] 96117777760289@lid: For meta rep
+[2026-04-13 18:05] 119297179398217@lid: ok keep me updated
+[2026-04-27 02:46] 96117777760289@lid: Yo
+[2026-04-27 14:50] 119297179398217@lid: yo
+[2026-06-27 09:32] 96117777760289@lid: @119297179398217
+[2026-06-27 13:56] 119297179398217@lid: Yo
+[2026-06-27 13:56] 119297179398217@lid: I’ll send them over
+[2026-06-27 13:57] 119297179398217@lid: @bonnielocketxo is my ig handle
+[2026-06-27 13:57] 119297179398217@lid: TikTok’s there are two Usernames are Bonnielocketxo Bonnielocket.xox
+[2026-06-27 13:57] 119297179398217@lid: 1 IG & 2 TikTok

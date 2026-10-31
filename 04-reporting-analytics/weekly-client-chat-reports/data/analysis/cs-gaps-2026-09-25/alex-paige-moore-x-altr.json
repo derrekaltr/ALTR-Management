@@ -1,0 +1,166 @@
+{
+  "client": "Alex Paige Moore",
+  "slug": "alex-paige-moore-x-altr",
+  "status": "churned",
+  "status_reason": "Resigned warmly on 2026-09-17 after twelve months and three days. ALTR said nothing for four days, then sent an invoice chase for $5,259.90 with no reference to her leaving; she paid in full on 2026-09-23 and the last words in the chat are 'Thanks @alexpaigem'. Eight days on, nobody has acknowledged that she left, no exit conversation has happened, no itemised statement exists, the referral money ALTR owes her is unquantified, the customs we sold and never delivered are unrefunded, and her credentials and identity documents have never been rotated, revoked or returned.",
+  "last_client_message": "2026-09-23",
+  "dimensions": {
+    "responsiveness": {
+      "severity": 2,
+      "internal_failure": "Routine questions got same-day answers, but every question about money or delivery needed two or three chases before anyone replied - and her resignation was left unanswered for eight days and counting.",
+      "evidence": [
+        {"quote": "Guys? / I need a response / I would like a response", "who": "Alex Paige (client)", "date": "2026-05-26"},
+        {"quote": "Have you received it / ??", "who": "Alex Paige (client)", "date": "2026-05-06"},
+        {"quote": "Hey?", "who": "Alex Paige (client)", "date": "2026-03-19"}
+      ]
+    },
+    "follow_through": {
+      "severity": 3,
+      "internal_failure": "Named, dated commitments from the owner, the promo lead and the chat lead all expired without a word: the earnings gameplan, the management-run Instagram posting, the link-preview image and the sales-team groupchat were each promised and never delivered or mentioned again.",
+      "evidence": [
+        {"quote": "hey let me get on a call with the team and come up with a gameplan to get income up as well as some things we could use on your end", "who": "Derrek", "date": "2026-03-25"},
+        {"quote": "hey babes new page was created posting will start this week", "who": "Michelle Queue", "date": "2026-07-28"},
+        {"quote": "Will see it shortly in the next few hours", "who": "Derrek", "date": "2026-08-12"}
+      ]
+    },
+    "proactive_communication": {
+      "severity": 2,
+      "internal_failure": "We sent volume, not insight: a year of templated weekly reel-inspo drops and leak-report screenshots, exactly one performance report with real numbers (week one, from a person who left the agency six weeks later), and a final month in which ten of our thirteen messages were about money.",
+      "evidence": [
+        {"quote": "Congrats on an incredible first week with us. Your account is already up 27.4%, messages are up 28%, and overall subscription earnings are up 33.6%", "who": "Sophie Logan (Raw Agency)", "date": "2025-09-23"},
+        {"quote": "Hi love just wanted to reiterate how important consistent posting is for increasing social media engagement!", "who": "Mica Vecco", "date": "2026-08-31"},
+        {"quote": "Hey love! Here's your weekly update on the leak removal breakdown for the past 7 days", "who": "Michelle Queue", "date": "2026-09-08"}
+      ]
+    },
+    "onboarding_handoff": {
+      "severity": 2,
+      "internal_failure": "Onboarding itself was strong, but the two handoffs afterwards were not: the client-relations manager who built the relationship stopped posting in November 2025 with no handover message, and the Google Drive she was given on day six was re-issued to her as brand new 344 days later by someone who did not know it already existed.",
+      "evidence": [
+        {"quote": "Sorry I can't see when I booked this meeting, it's not in my emails sorry", "who": "Alex Paige (client)", "date": "2025-09-16"},
+        {"quote": "Sophie will be home in 5 min to hop on with you. She is wrapping up another call. I'm so sorry about that I'm not sure what happened there.", "who": "Lauren Biz Assistant", "date": "2025-09-25"},
+        {"quote": "Hi @alexpaigem this one is important! Here's your content Drive... Everything goes in the New Content folder from now on.", "who": "Mayson Chat", "date": "2026-08-30"}
+      ]
+    },
+    "chatter_conduct": {
+      "severity": 3,
+      "internal_failure": "Our chatters told a top spender living in her own city that she was leaving her partner for him and would meet him; when she said she was frightened, we fixed it, and then reinstated the promise 33 days later. Separately we published explicit content on her public wall against a boundary she had stated plainly.",
+      "evidence": [
+        {"quote": "Hey guys can we be careful with chatters talking to people in Adelaide, I think Matt one of my top spenders is under the impression I'm leaving my partner for him and I'm catching up with him. He's in the same city I live.", "who": "Alex Paige (client)", "date": "2026-05-15"},
+        {"quote": "Please can we not offer this guy calls. He's freaking me out now saying he's going to shoot himself / He's scaring me.", "who": "Alex Paige (client)", "date": "2026-05-21"},
+        {"quote": "The chatters have just gone back on everything and told him I'll see him soon and I didn't mean what I said about never seeing him / What the fuck", "who": "Alex Paige (client)", "date": "2026-06-18"}
+      ]
+    },
+    "platform_health": {
+      "severity": 3,
+      "internal_failure": "Twelve months of deletions, shadowbans and 'limited reach' were handled with 'archive it and wait'. Ownership never moved off the client: she diagnosed her own problems, deleted her own content, submitted her own appeals, and when an account with roughly 50k followers went down the only thing we offered her was a price.",
+      "evidence": [
+        {"quote": "I swear everytime I get momentum and it grows it gets deleted I'm over it", "who": "Alex Paige (client)", "date": "2026-02-10"},
+        {"quote": "I can ask for pricing but it's usually $800-1k USD", "who": "Mica Vecco", "date": "2025-11-04"},
+        {"quote": "honestly just time fixes it! try not to post anything super revealing or suggestive for a few days", "who": "Mica Vecco", "date": "2026-03-16"}
+      ]
+    },
+    "billing_ops": {
+      "severity": 3,
+      "internal_failure": "In twelve months of billing exactly three dollar figures were ever written into this chat and no itemised statement was ever issued. We opened a reconciliation dispute in July and never closed it, labelled her owner-ratified weekly instalment schedule a 'missed payment', announced our fifth banking change inside an invoice two days before she quit, and then collected $5,259.90 from a departed client without ever confirming receipt or a zero balance.",
+      "evidence": [
+        {"quote": "$9636-$4160 (referrals)-$3487 (payment) = $1,989 remaining", "who": "Stephski", "date": "2026-07-27"},
+        {"quote": "We are currently still at $7,582.74 owed from last invoice due to missed payment last week", "who": "Stephski", "date": "2026-09-14"},
+        {"quote": "Please note a slight name change to the account, but the same account and wire info. This should help alleviate any bounce backs or issues moving forward.", "who": "Stephski", "date": "2026-09-15"}
+      ]
+    },
+    "ownership_escalation": {
+      "severity": 3,
+      "internal_failure": "There was no account manager to escalate to, so when she needed the owner she had to ask other staff to fetch him - for three straight weeks, about money ALTR owed her - and eventually withheld a payment waiting for a reply that never properly came.",
+      "evidence": [
+        {"quote": "Also have you been able to get in contact with Derek I've been trying all week and he's not responded", "who": "Alex Paige (client)", "date": "2026-07-06"},
+        {"quote": "@mmayson are you able to contact Derrek", "who": "Alex Paige (client)", "date": "2026-07-13"},
+        {"quote": "I'm waiting to get response from Derek", "who": "Alex Paige (client)", "date": "2026-07-20"}
+      ]
+    },
+    "disengagement_detection": {
+      "severity": 3,
+      "internal_failure": "She told us twice she had had surgery and in the thirty days that followed nobody asked how she was - we answered with a 30-reels-a-month quota, a posting-consistency lecture and a request to voice-stall her own waiting fans. When she then resigned after twelve months, we said nothing at all and sent a bill four days later.",
+      "evidence": [
+        {"quote": "Hey I've just had surgery so probably not for a few weeks unfortunately", "who": "Alex Paige (client)", "date": "2026-08-26"},
+        {"quote": "Ok all good", "who": "Ronnie Chat", "date": "2026-08-26"},
+        {"quote": "Hey guys I just want to let you know I'm leaving ALTR. I want to thankyou all so much for helping me with everything you've been amazing. I wish you all the best with your futures!", "who": "Alex Paige (client)", "date": "2026-09-17"}
+      ]
+    },
+    "security_hygiene": {
+      "severity": 3,
+      "internal_failure": "Her account password was posted in plaintext into this group chat on day three of onboarding and left there, unrotated, for twelve months; her passport and driver's licence were collected in the same group chat in April with no stated retention or deletion policy; and at exit nothing was revoked, rotated, returned or even discussed - no access review, no instruction to rotate the credential she shared with us in 2025, and no word on whether her DMCA protection is still running.",
+      "evidence": [
+        {"quote": "Password update", "who": "Alex Paige (client)", "date": "2025-09-17"},
+        {"quote": "a clear photo of your passport / a pic of you holding your passport (everything visible)", "who": "Michelle Queue", "date": "2026-04-26"},
+        {"quote": "Please do not send your backup codes to anyone, including our team. Keep the screenshot somewhere secure that only you can access.", "who": "Mica Vecco", "date": "2026-09-17"}
+      ]
+    }
+  },
+  "metrics": {
+    "client_questions_total": 95,
+    "unanswered_over_24h": 22,
+    "max_team_silence_days": 9,
+    "promises_made": 30,
+    "promises_kept": 17,
+    "promises_lapsed": 13,
+    "method": "Full history 2025-09-14 to 2026-09-23 (1,547 exported lines, roughly 300 of which are wordless voice notes from the onboarding script recording). 'Questions' is a best-effort count of client messages containing an explicit question or request requiring an ALTR answer. 'Unanswered over 24h' counts distinct asks left without a substantive reply for a day or more, including the five 'how do I increase my earnings' asks, the Orlando/Adelaide videographer, proof of posting on the management-run IG pages, the alexpaige.vip link image, the payment-received confirmations of May 2026, the surgery disclosures and the resignation. max_team_silence_days is the longest run with zero ALTR outbound (2026-08-01 to 2026-08-10); the post-resignation gap was 4 days. 'Promises' counts explicit forward commitments in ALTR messages with a verifiable outcome in the chat."
+  },
+  "what_client_wanted": [
+    "A substantive, written answer on how to lift her OnlyFans earnings. She asked at least five times: 'Hey I've noticed my money has dropped a fair bit the last 2 weeks. Can I do anything to help increase it' (2026-01-13) and 'Hey guys what can I do to bump up the $$$ Its been consistently really low' (2026-03-25). She never received a plan in writing in 255 days.",
+    "Posting to actually happen on the management-run Instagram pages she was supplying content for: 'Hey no videos have been uploaded to my reel page in ages' / 'Nothing since last year' / 'And I added all those videos above for you to use' (2026-07-28). First asked 2026-06-02; never proved.",
+    "Hard safety boundaries with chatters: 'I don't want people to think I'm ever ever meeting them' (2026-05-15), 'Tell him I'm never seeing him in person. This is strictly just online. I'm scarred of him' (2026-06-17), and 'a photo of my pussy was posted on the main page. Can we not do that. I only want to show nude in the inbox' (2026-03-29).",
+    "Payment terms that match her OnlyFans payout cycle: 'i always set aside 30% off my pay each week but as I don't get the amount paid into my account though until roughly 2 weeks after I make the money' (2025-09-29), restated 2025-11-18 and again on 2026-09-11. Derrek ratified it once - 'correct^ Shes good' - and it was never written into the account.",
+    "Stable banking and no surprise charges: she declined the 5% card surcharge outright - 'I'll just pay by transfer instead' (2026-07-24) - and absorbed five banking changes in twelve months."
+  ],
+  "what_worked": [
+    "The week-one report with real numbers is the single most effective message in the whole file: 'Your account is already up 27.4%, messages are up 28%... new subs, up a massive 8,204.2% with 513 new subs in just 7 days' (Sophie Logan, 2025-09-23), answered with 'Wohooo thannk you so much!'. It is also the only performance report she ever received in twelve months.",
+    "Mayson's 24-minute Drive fix on 2026-09-04: 'Let me fix that asap' (18:03), 'Can you check now @alexpaigem my apologies' (18:05), 'That's worked' (18:07). The only clean closure of a failure that had recurred six times over 345 days, and it cost four minutes of attention.",
+    "Owning a mistake plainly rebuilt trust instantly: 'I just sent another message making sure he understands that you will never see him in person' / 'sorry abt that. There was a bit of a communication bottleneck with how to handle that guy. Shouldn't happen again' (Nate (Noah), 2026-06-18), answered with 'Thank you very much'. She forgave a serious safety breach in under an hour because someone took responsibility for it in writing."
+  ],
+  "top_fix": "Make the owner, not billing, the first voice a client hears at every inflection point - and make a resignation hard-freeze routine billing contact until he has replied personally. Her surgery, her five 'how do I earn more' asks, the money ALTR owes her and finally her resignation all went to silence while invoicing kept running on schedule; the closing invoice should have travelled with an owner's thank-you and an apology, not arrived four days ahead of one that never came.",
+  "churn_timeline": [
+    {"date": "2025-09-23", "event": "Week-one report: +27.4% earnings, 513 new subs. The high point of the relationship and the only performance report she ever receives."},
+    {"date": "2025-09-29", "event": "She states her payment terms in full - 30% of each weekly OnlyFans payout, roughly two weeks in arrears. They are never written into the account and she will have to restate them twice more."},
+    {"date": "2025-10-05", "event": "First Instagram deletion. The platform-instability pattern that dominates the next eleven months begins."},
+    {"date": "2025-11-04", "event": "A backup account with roughly 50k followers is banned. The only remedy offered is $800-1k for her to pay. She leaves it dead."},
+    {"date": "2025-11-12", "event": "Sophie Logan - her client-relations owner and the only person who ever sent her a numbers report - posts for the last time. No handover message is ever sent to the client."},
+    {"date": "2026-01-13", "event": "FIRST CHURN SIGNAL: 'Hey I've noticed my money has dropped a fair bit the last 2 weeks. Can I do anything to help increase it'. She has to bump it with '???' three days later."},
+    {"date": "2026-02-23", "event": "Asks a second time. Eric: 'let me check on this Alex! Will do a full review with the team & see what can be done'. No review is ever posted."},
+    {"date": "2026-03-25", "event": "Asks a third time. Derrek promises 'a gameplan to get income up'. It never arrives - 184 days."},
+    {"date": "2026-03-29", "event": "Content boundary breached: explicit content posted to her public wall. 'I only want to show nude in the inbox.'"},
+    {"date": "2026-05-15", "event": "SAFETY ESCALATION. Two top spenders in her own city believe they are meeting her. 'I don't want people to think I'm ever ever meeting them.'"},
+    {"date": "2026-05-21", "event": "'He's freaking me out now saying he's going to shoot himself' / 'He's scaring me.' Mayson contacts the chat team."},
+    {"date": "2026-05-26", "event": "Asks about revenue again and has to escalate three times in one morning: 'Guys?' / 'I need a response' / 'I would like a response'."},
+    {"date": "2026-06-02", "event": "First asks whether anyone is posting on the management-run reels account. The same question recurs on 2026-07-28 and 2026-08-12 and is never proved in 115 days."},
+    {"date": "2026-06-18", "event": "Our chatters reinstate the in-person meeting promise she had asked them to retract, 33 days after her first warning. 'What the fuck.' Nate fixes it within 25 minutes and apologises - the best recovery on the file, but it took a second breach to trigger it."},
+    {"date": "2026-07-06 to 2026-07-20", "event": "Three weeks of trying to reach the owner about money ALTR owes her, through other staff. She withholds a payment waiting for him: 'I'm waiting to get response from Derek'."},
+    {"date": "2026-07-15", "event": "A 5% card surcharge is introduced on payment-link invoices. She declines it and reverts to bank transfer - which directly causes the reconciliation dispute two weeks later."},
+    {"date": "2026-07-27", "event": "DISPUTE OPENS: Stephski says $1,989 remains; she shows the arithmetic that says it is fully paid. The dispute is never resolved and is never mentioned again, including during the final closeout."},
+    {"date": "2026-08-01", "event": "Derrek's phone-farm broadcast promises 'plenty of updates starting next week'. None follow in the eight weeks that remain."},
+    {"date": "2026-08-13", "event": "'Sending' - Derrek's last word on the referral money ALTR owes her, and his last message on the account. Forty-three days of owner silence follow, unbroken by her resignation."},
+    {"date": "2026-08-25", "event": "Ronnie posts a spreadsheet of customs already sold to fans and asks when she can complete them."},
+    {"date": "2026-08-26", "event": "THE TURN. 'Hey I've just had surgery so probably not for a few weeks unfortunately'. Reply: 'Ok all good'. Nobody asks how she is - not then and not in the thirty days that follow."},
+    {"date": "2026-08-30", "event": "A 30-reels-a-month content quota is issued to her, four days after the surgery disclosure, into a Drive folder she was first given eleven months earlier."},
+    {"date": "2026-08-31", "event": "Mica sends a consistency lecture - 'just wanted to reiterate how important consistent posting is' - to a post-surgical creator."},
+    {"date": "2026-09-02", "event": "Ronnie asks her to record a voice note stalling her own waiting fans. She does it, apologising for her recovery: 'it won't be very long just because I'm still recovering from surgery and can only be in certain positions'."},
+    {"date": "2026-09-14", "event": "Billing labels her owner-approved weekly instalment schedule a 'missed payment' and asks her to pull an OnlyFans withdrawal forward - which her documented payout timing makes impossible."},
+    {"date": "2026-09-15", "event": "Banking change #5 announced inside the invoice, two days before she quits. It immediately forces 'Can you confirm the account you sent to?'."},
+    {"date": "2026-09-17 11:06", "event": "Mica sends a genuinely good Instagram security advisory. Nine hours later, at 20:19, she resigns: 'I want to thankyou all so much for helping me with everything you've been amazing.'"},
+    {"date": "2026-09-21 21:15", "event": "ALTR's first words after the resignation, four days and 56 minutes later: 'remaining balance is currently $5,259.90, do you mind shooting that over in the AM?'. Not one word about her leaving. She replies 'No worries' 1h43m later."},
+    {"date": "2026-09-23", "event": "06:27 'Final invoice paid' with a receipt. 08:25 'Thanks @alexpaigem'. That is the entirety of ALTR's response to a twelve-month client departing."},
+    {"date": "2026-09-25", "event": "Eight days on: no acknowledgement, no exit conversation, no itemised statement or zero-balance confirmation, referral money owed to her still unquantified, sold customs still unrefunded against a documented $1,560 chargeback precedent, no access revocation, and the weekly leak-removal report two weeks missed with no explanation."}
+  ],
+  "warning_signs_missed": [
+    "A disclosed medical event that went unacknowledged for thirty days is the clearest single explanation on this file. Nobody asked how she was; we asked her for reels, consistency and a voice note instead.",
+    "Five separate 'how do I make more money' asks across 255 days, each answered with a holding reply or a one-line tip and never with a written plan. That is a client telling you the core service is not working.",
+    "She had told us in her first fortnight that she had quietly left a previous management before - 'I did tell the owner I was leaving and gave notice, but just never know with some people and managements' (2025-09-24). The precedent sat in the file for twelve months.",
+    "Owner silence of 30+ days on an account where the owner personally owed the client money, and where she was openly asking other staff to fetch him for three straight weeks.",
+    "Her most-repeated ask - proof that the management-run Instagram pages were actually posting - was raised three times over 115 days and never once evidenced with a screenshot.",
+    "A chatter-safety breach involving a fan in her own city was reported, fixed, and then reinstated 33 days later. A repeat of a safety failure should have triggered an owner-level review and did not.",
+    "A billing dispute opened on 2026-07-27 and never closed is a standing grievance; it was not even mentioned when we asked her for the closing balance 56 days later.",
+    "Twelve months of billing produced exactly three dollar figures in the chat and no itemised statement, so neither side could reconcile the ledger - she paid her final balance on trust.",
+    "Five banking changes in twelve months, the fifth announced inside a payment request two days before she resigned, with our own message admitting to ongoing 'bounce backs'.",
+    "In her final 30 days almost every ALTR message increased the workload or outgoings of a recovering client: a reels quota, a posting lecture, a request to stall her own fans, a withdrawal request and a bill. She complied with all of them without complaint - which is exactly why nobody noticed.",
+    "The roster-screening signature was fully present for over a month before she left: owner silent 30+ days, a disclosed personal event unacknowledged, a long-promised deliverable with no proof, and a chat in which most ALTR messages are billing."
+  ]
+}

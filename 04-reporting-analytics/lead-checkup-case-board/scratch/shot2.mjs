@@ -1,0 +1,23 @@
+import { chromium } from 'playwright';
+const b = await chromium.launch(); 
+const errs=[];
+const pg = await b.newPage({viewport:{width:1440,height:1050}});
+pg.on('pageerror',e=>errs.push(String(e)));
+await pg.goto('file:///Users/locklyjailbreak/conductor/workspaces/lead-check-up/dakar/ALTR_Case_Board_Dashboard.html');
+await pg.waitForTimeout(900);
+await pg.screenshot({path:'b_overview.png'});
+const tabs = await pg.locator('nav button').all();
+await tabs[1].click(); await pg.waitForTimeout(400);
+await pg.evaluate(()=>document.querySelector('nav').scrollIntoView());
+await pg.screenshot({path:'b_board.png'});
+// mobile
+const m = await b.newPage({viewport:{width:390,height:844},isMobile:true,hasTouch:true,deviceScaleFactor:2});
+m.on('pageerror',e=>errs.push('M:'+String(e)));
+await m.goto('file:///Users/locklyjailbreak/conductor/workspaces/lead-check-up/dakar/ALTR_Case_Board_Dashboard.html');
+await m.waitForTimeout(900);
+await m.screenshot({path:'m_overview.png'});
+const mtabs = await m.locator('nav button').all();
+await mtabs[1].click(); await m.waitForTimeout(500);
+await m.screenshot({path:'m_board.png'});
+console.log('errors:', errs);
+await b.close();

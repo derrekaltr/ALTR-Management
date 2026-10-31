@@ -1,0 +1,471 @@
+{
+  "client": "Mila",
+  "slug": "mila-x-altr",
+  "week_ending": "2026-10-30",
+  "summary": "Two-week window (Oct 16 09:06 to Oct 30 09:05): 20 real messages, 6 'Antonio Veritrade' test messages excluded. The window opened with two structural changes on Oct 16. Mayson announced that the DMCA report would now be folded into a weekly earnings and performance report 'sent in the General chat every Friday', and twelve minutes later Melissa posted the first such report as a file. That is the first written performance document this client has received in 118 days on the books. The Friday report did not go out on Oct 23; Oct 30 was not yet due at window close. On Oct 21 Mayson warned her about system test messages and six arrived that evening (plus one ChatAddUser service event for the test account). Nothing else happened for five days. On Oct 26 Melissa asked for 'a check in call'. Callie answered on Oct 28, 37 minutes after Mica's reel-inspo drop ('Hello, I’m pretty free! When’s best for you?? Xxx'), proposed 2pm EST / 6pm UK for Oct 29, and Melissa agreed, then at 22:39 that night asked to move it to 1 PM EST. After Melissa's 'just following up!' the next morning Callie confirmed in 49 seconds, asking 'Is that 5 for uk time??' (she did the conversion herself; the slots were given in EST only). The Meet link went out at 13:00 Oct 29. Nobody posted after the call; there is no written recap as of window end. What did not happen in two weeks: Mayson's milabrooks rename (committed Oct 11, 19 days, no confirmation, now overdue); any written answer to the Oct 11 '~100 followers' complaint (19 days; the only subsequent ALTR outreach on this account is the call offer); Stephski's confirmation of the Oct 1-14 payment (due Oct 22, she posted nothing in the window) or the six-cycle reconciliation; any word from Derrek (44 days silent); Mica's ~Oct 21 drop (cadence resumed Oct 28). Client asks fell from 4 to 0: all six of her messages are call logistics, and she did not re-raise the rename, the follower drop, the main IG account (129 days open) or her unconfirmed payments in writing. The optimistic read is that she is saving them for the call; the pessimistic read is the pre-exit pattern this book has seen before (complaints unanswered, then asks drop to zero). Churn: three of four exit signals now fire. Owner silent 44d; a results complaint followed by a call offer rather than a written answer; the 90-day rollout promise and 129-day main IG with no written proof. Billing share is 0 of 14 ALTR messages, so signal 4 is off, but only because billing went silent past its own deadline. No invoice or payment in window; the Oct 15-31 invoice is expected ~Nov 1 and no heads-up had appeared by 09:05 Oct 30. Security: no credentials, codes or bank details posted in the window; a Google Meet link (Oct 29, msg 242) was left out of the evidence quotes.",
+  "health": {
+    "score": 35,
+    "trend": "down",
+    "rationale": "Down 5 from 40. Trajectory: 82 -> 74 -> 66 -> 54 -> 50 -> 42 -> 44 -> (no Sep 25 report) -> 36 unpublished -> 42 -> 40 -> 35. What moved it down: (a) churn signal #2 is now firing in substance. The Oct 11 results complaint (crystal account down ~100 followers) has had no written answer in 19 days, and the only ALTR outreach about this client since then is Melissa's Oct 26 'check in call' request. The call was not framed as the answer, but it is the only answer she has been offered. (b) Client asks went 4 -> 0 across a two-week window, immediately after a window in which 3 of 4 asks were complaints and none were answered. That is the sequence the state file told us to watch for. (c) Four ALTR commitments passed their due dates inside the window with no delivery: the Oct 1-14 receipt confirmation (due Oct 22; Stephski posted nothing in 15 days), the milabrooks rename (overdue from Oct 23), the 'every Friday' report (missed Oct 23 after one delivery), and Mica's ~Oct 21 drop. (d) Derrek is at 44 days silent; the Aug 1 rollout promise is at 90 days and the main IG at 129. Three of the four exit signals fire; signal #4 (billing majority) is off at 0/14 only because billing went silent. Why not lower: Melissa delivered the first written earnings and performance report (Oct 16), initiated the check-in call and got it booked within three days, and the client was warm and quick ('Perf speak tomorrow 🥰', replies in under an hour and in 49 seconds). Mayson consolidated DMCA reporting and gave a proactive heads-up about the test messages. Mica's drop came back Oct 28. No credentials were posted. Nothing in the window mentions leaving, another agency, exports or logins. The Oct 29 call is the pivot: if a written recap with owners and dates follows, this recovers; if the chat goes quiet after the call, treat it as the exit conversation."
+  },
+  "reminders": [
+    {
+      "employee": "Mayson",
+      "topic": "Milabrooks rename and the crystal-account follower drop: asked Oct 11, not re-asked this window, not answered",
+      "count": 1,
+      "direction": "client_to_altr",
+      "first_date": "2026-10-11",
+      "last_date": "2026-10-11",
+      "days_outstanding": 19,
+      "chased_this_week": false,
+      "note": "She asked once, got 'Yes it’s me we’ll get it fixed' and a vendor tag, and has not chased. Zero chases is not a good sign on this account: the previous window had 4 asks, 3 of them complaints, and none of the three has a written answer. Mayson posted twice in the window (DMCA process, test-message heads-up) and did not mention either item.",
+      "evidence": [
+        {"quote": "can the OF link at least reflect the name milabrooks? X", "who": "Callie (Mila)", "date": "2026-10-11"},
+        {"quote": "but the crystal account just doesn’t seem to be growing at all?? X", "who": "Callie (Mila)", "date": "2026-10-11"},
+        {"quote": "Yes 100%", "who": "Mayson Chat", "date": "2026-10-12"},
+        {"quote": "Hey @calliebullough let me know when you’re available this week for a check in call! 🤍", "who": "Melissa Userfacing", "date": "2026-10-26"}
+      ]
+    },
+    {
+      "employee": "Melissa",
+      "topic": "Check-in call scheduling: ALTR moved the agreed time and then chased her for a reply; she had to convert EST to UK time herself",
+      "count": 2,
+      "direction": "altr_to_client",
+      "first_date": "2026-10-28",
+      "last_date": "2026-10-29",
+      "days_outstanding": 0,
+      "chased_this_week": true,
+      "note": "Melissa offered 'Anytime between 11-6 est'; Callie chose 2pm EST / 6pm UK and Melissa said 'Of course!'. At 22:39 EDT (02:39 UK) Melissa asked to move it to 1 PM EST, then posted 'just following up!' at 10:34 the next morning, 2.5 hours before the slot. Callie answered 49 seconds later and asked 'Is that 5 for uk time??'. Time-zone confusion is a known pain point for this client (Jun 29: 'time difference makes it hard to workout what time it is for me'). Give her UK times.",
+      "evidence": [
+        {"quote": "Hey @calliebullough, would you like to get on a call tomorrow? Anytime between 11-6 est", "who": "Melissa Userfacing", "date": "2026-10-28"},
+        {"quote": "Shall we say 2pm for you tomorrow?? Xx", "who": "Callie (Mila)", "date": "2026-10-28"},
+        {"quote": "Hey @calliebullough! By any chance would you be able to have the call tomorrow at 1 PM est?", "who": "Melissa Userfacing", "date": "2026-10-28"},
+        {"quote": "Hey @calliebullough just following up!", "who": "Melissa Userfacing", "date": "2026-10-29"},
+        {"quote": "Sorry hello! Is that 5 for uk time?? Xx", "who": "Callie (Mila)", "date": "2026-10-29"}
+      ]
+    },
+    {
+      "employee": "Stephski",
+      "topic": "Receipt confirmation for the Oct 1-14 payment: the client did not have to ask because she has stopped asking; the Oct 22 deadline passed in silence",
+      "count": 0,
+      "direction": "client_to_altr",
+      "first_date": "2026-10-15",
+      "last_date": "2026-10-15",
+      "days_outstanding": 15,
+      "chased_this_week": false,
+      "note": "Last window she asked 'Is that a different account ?' before paying. This window she asked nothing and Stephski posted nothing. Six payment cycles now lack a written receipt confirmation; the last one was Jul 23, 99 days ago. Included so the employee rollup sees the gap.",
+      "evidence": [
+        {"quote": "Done:)", "who": "Callie (Mila)", "date": "2026-10-15"},
+        {"quote": "Thank you queen!", "who": "Stephski", "date": "2026-10-15"}
+      ]
+    }
+  ],
+  "complaints": [
+    {
+      "issue": "Results complaint about the management IG ('crystal' / sugarcrystalll account): on Oct 11 Callie said it had dropped about 100 followers since ALTR began posting and 'doesn’t seem to be growing at all'. Mayson tagged the IG farm vendor (Stardust Nexus), who has never posted here. Nineteen days later there is still no written explanation, no numbers and no plan. The only ALTR outreach on the account since is Melissa's Oct 26 request for 'a check in call'. The client did not re-raise it in writing.",
+      "status": "in_progress",
+      "first_raised": "2026-10-11",
+      "days_open": 19,
+      "owner": "Mayson / IG farm vendor (Stardust Nexus)",
+      "escalate_to": "Derrek",
+      "severity": "critical",
+      "escalation_note": "Churn signal #2 now fires in substance: a results question met with a call offer and no written answer. Whatever was said on the Oct 29 call, put the follower and reach numbers, the cause and the fix in the chat in writing.",
+      "evidence": [
+        {"quote": "since the posting on that account has started I’ve noticed it’s actually dropped about 100 followers..", "who": "Callie (Mila)", "date": "2026-10-11"},
+        {"quote": "@StardustNexus any reason why?", "who": "Mayson Chat", "date": "2026-10-11"},
+        {"quote": "Hey @calliebullough let me know when you’re available this week for a check in call! 🤍", "who": "Melissa Userfacing", "date": "2026-10-26"}
+      ]
+    },
+    {
+      "issue": "'Crystal' branding: the management IG and link-in-bio domain (crystalmila.vip) present her as 'crystal', which she says 'sounds fake'; she asked for the OF link to read milabrooks. Mayson committed Oct 11 ('Yes it’s me we’ll get it fixed') and Oct 12 ('Yes 100%'). No confirmation, new link or date in 19 days. She also learned about the link-in-bio outage only after the fix.",
+      "status": "in_progress",
+      "first_raised": "2026-10-11",
+      "days_open": 19,
+      "owner": "Mayson",
+      "escalate_to": "Derrek",
+      "severity": "high",
+      "escalation_note": "The commitment is overdue (no confirmation by Oct 23). Post the new link in the chat when live.",
+      "evidence": [
+        {"quote": "I don’t like the fact it’s showing as though my name is crystal, especially with the link also reflecting this, crystal just also itself sounds fake, can the OF link at least reflect the name milabrooks? X", "who": "Callie (Mila)", "date": "2026-10-11"},
+        {"quote": "Yes it’s me we’ll get it fixed", "who": "Mayson Chat", "date": "2026-10-11"},
+        {"quote": "Yes 100%", "who": "Mayson Chat", "date": "2026-10-12"}
+      ]
+    },
+    {
+      "issue": "Main Instagram account suspension and the backup-IG programme: 129 days open. Last restated by the client Oct 11; not mentioned by anyone this window. Derrek promised 'plenty of updates starting next week' on Aug 1 (90 days) and has not posted since Sep 16 (44 days). Vivek (Meta Support) has never posted in 93 days.",
+      "status": "in_progress",
+      "first_raised": "2026-06-23",
+      "days_open": 129,
+      "owner": "Derrek / Vivek (Meta Support)",
+      "severity": "critical",
+      "weeks_open": 18,
+      "days_since_client_restated": 19,
+      "escalation_note": "Owner-level. Eighth consecutive report flagging owner contact as the action. The owner-silent signal has now been firing for two windows.",
+      "evidence": [
+        {"quote": "obviously I’m doing my own marketing on my other insta and then hopefully will get the bigger account sorted soon", "who": "Callie (Mila)", "date": "2026-10-11"},
+        {"quote": "Thank you for your understanding, we will have plenty of updates starting next week.", "who": "Derrek", "date": "2026-08-01"}
+      ]
+    },
+    {
+      "issue": "Unreconciled money: six payment cycles now lack a written receipt confirmation (Jul 15-31, Aug 1-14, Aug 15-31, Sep 1-14, Sep 15-30, Oct 1-14). The Oct 1-14 confirmation was due Oct 22 and did not come; Stephski posted nothing in the two-week window. The six-cycle reconciliation, first due before the Oct 15 invoice, is still not sent. Last real confirmation: Jul 23, 99 days ago. The next invoice (~Nov 1) is days away.",
+      "status": "in_progress",
+      "first_raised": "2026-08-08",
+      "days_open": 83,
+      "owner": "Stephski",
+      "escalate_to": "Derrek",
+      "severity": "critical",
+      "escalation_note": "Do not send the ~Nov 1 invoice without the reconciliation in the same message: for each of the six cycles, received or not, with the amount.",
+      "evidence": [
+        {"quote": "Done:)", "who": "Callie (Mila)", "date": "2026-10-15"},
+        {"quote": "Thank you queen!", "who": "Stephski", "date": "2026-10-15"},
+        {"quote": "Nope same one! just always double check when sending ofcourse I know there have been some swaps in the past", "who": "Stephski", "date": "2026-10-15"},
+        {"quote": "Will update you shortly!", "who": "Stephski", "date": "2026-08-11"},
+        {"quote": "Sent:)", "who": "Callie (Mila)", "date": "2026-08-17"}
+      ]
+    },
+    {
+      "issue": "GBP invoicing withdrawn Sep 15; the client converts to USD herself and absorbs the fee, against Alex Camus's Jul 7 promise ('We will make sure the exchange is on the next invoice'). Not addressed on the Oct 15 invoice; no billing messages this window.",
+      "status": "in_progress",
+      "first_raised": "2026-09-15",
+      "days_open": 45,
+      "owner": "Stephski",
+      "severity": "medium",
+      "evidence": [
+        {"quote": "But yes I will just send the amount in USD and pay the fee to make it easier.", "who": "Callie (Mila)", "date": "2026-09-15"},
+        {"quote": "We will make sure the exchange is on the next invoice", "who": "Alex Camus", "date": "2026-07-07"}
+      ]
+    },
+    {
+      "issue": "Visibility into what is posted on her behalf: links asked for Jul 8, promised by Michelle, never sent (114 days). Partial progress: Melissa's Oct 2 repost list and, this window, the first written 'earnings and performance report' (Oct 16, file; contents not visible in chat). Still no links to crystal/sugarcrystalll posts, and the Friday report skipped Oct 23.",
+      "status": "in_progress",
+      "first_raised": "2026-07-08",
+      "days_open": 114,
+      "owner": "Melissa / Mica Vecco / Mayson (Michelle Queue inactive)",
+      "severity": "high",
+      "evidence": [
+        {"quote": "Amazinggg, if you could send me links when you do just so I can be in the loop🫶🏼", "who": "Callie (Mila)", "date": "2026-07-08"},
+        {"quote": "will do babes 🫶🏼", "who": "Michelle Queue", "date": "2026-07-08"},
+        {"quote": "Hey @calliebullough! Here is your earnings and performance report for the last week. Your DMCA report is incorporated in this report as well. For future reference, we will be sending everything together in this report. Thank you! 🫶🏽", "who": "Melissa Userfacing", "date": "2026-10-16"}
+      ]
+    }
+  ],
+  "commitments": [
+    {
+      "what": "Weekly earnings and performance report (with DMCA folded in) 'sent in the General chat every Friday'.",
+      "who": "Melissa / Mayson",
+      "date": "2026-10-16",
+      "due": "2026-10-23",
+      "status": "overdue",
+      "days_outstanding": 7,
+      "note": "Delivered once (Oct 16, the day it was announced). Missed Fri Oct 23. Fri Oct 30 was not yet due at window close (09:05). A promise made and broken inside the same window.",
+      "evidence": [
+        {"quote": "From now on, your DMCA report will be included in your weekly earnings and performance report, sent in the General chat every Friday.", "who": "Mayson Chat", "date": "2026-10-16"},
+        {"quote": "Hey @calliebullough! Here is your earnings and performance report for the last week. Your DMCA report is incorporated in this report as well. For future reference, we will be sending everything together in this report. Thank you! 🫶🏽", "who": "Melissa Userfacing", "date": "2026-10-16"}
+      ]
+    },
+    {
+      "what": "Check-in call: offered Oct 26, booked for Oct 29 1 PM EST / 5pm UK, Meet link sent 13:00.",
+      "who": "Melissa",
+      "date": "2026-10-26",
+      "status": "done",
+      "days_outstanding": 0,
+      "note": "Set-up done on time. No post-call message or written recap from anyone by window end (20 hours later). The recap is the thing to watch; without it this call is the churn-signal #2 'call instead of an answer'. Meeting link omitted from the quote.",
+      "evidence": [
+        {"quote": "Hey @calliebullough let me know when you’re available this week for a check in call! 🤍", "who": "Melissa Userfacing", "date": "2026-10-26"},
+        {"quote": "Perf speak tomorrow 🥰", "who": "Callie (Mila)", "date": "2026-10-28"},
+        {"quote": "Yep that’s no problem!:)", "who": "Callie (Mila)", "date": "2026-10-29"},
+        {"quote": "@calliebullough here is the meeting link!:", "who": "Melissa Userfacing", "date": "2026-10-29"}
+      ]
+    },
+    {
+      "what": "Fix the 'crystal' naming: make the OF link and link-in-bio reflect milabrooks.",
+      "who": "Mayson",
+      "date": "2026-10-11",
+      "due": "2026-10-23",
+      "status": "overdue",
+      "days_outstanding": 19,
+      "escalate_to": "Derrek",
+      "age_history": [{"as_of": "2026-10-16", "days": 5}, {"as_of": "2026-10-30", "days": 19}],
+      "note": "No date was given; state set Oct 23 as the overdue mark. No confirmation, no new link, not mentioned in Mayson's two messages this window.",
+      "evidence": [
+        {"quote": "Yes it’s me we’ll get it fixed", "who": "Mayson Chat", "date": "2026-10-11"},
+        {"quote": "Yes 100%", "who": "Mayson Chat", "date": "2026-10-12"}
+      ]
+    },
+    {
+      "what": "Written explanation of why the crystal account lost ~100 followers and is not growing.",
+      "who": "Mayson / IG farm vendor (Stardust Nexus)",
+      "date": "2026-10-11",
+      "status": "overdue",
+      "days_outstanding": 19,
+      "escalate_to": "Derrek",
+      "age_history": [{"as_of": "2026-10-16", "days": 5}, {"as_of": "2026-10-30", "days": 19}],
+      "note": "Vendor never replied in chat. The only subsequent outreach is the call offer (signal #2).",
+      "evidence": [
+        {"quote": "Also is it you that I speak to regarding that insta account?? X", "who": "Callie (Mila)", "date": "2026-10-11"},
+        {"quote": "@StardustNexus any reason why?", "who": "Mayson Chat", "date": "2026-10-11"}
+      ]
+    },
+    {
+      "what": "Confirm receipt of the Oct 1-14 payment ('Done:)' Oct 15).",
+      "who": "Stephski",
+      "date": "2026-10-15",
+      "due": "2026-10-22",
+      "status": "overdue",
+      "days_outstanding": 15,
+      "escalate_to": "Derrek",
+      "age_history": [{"as_of": "2026-10-16", "days": 1}, {"as_of": "2026-10-30", "days": 15}],
+      "note": "Passed its due date inside the window. Stephski posted zero messages Oct 16-30.",
+      "evidence": [
+        {"quote": "Done:)", "who": "Callie (Mila)", "date": "2026-10-15"},
+        {"quote": "Thank you queen!", "who": "Stephski", "date": "2026-10-15"}
+      ]
+    },
+    {
+      "what": "Confirm receipt of the Sep 15-30 payment ('Done:)' Oct 1).",
+      "who": "Stephski",
+      "date": "2026-10-01",
+      "due": "2026-10-08",
+      "status": "overdue",
+      "days_outstanding": 29,
+      "age_history": [{"as_of": "2026-10-02", "days": 1}, {"as_of": "2026-10-09", "days": 8}, {"as_of": "2026-10-16", "days": 15}, {"as_of": "2026-10-30", "days": 29}],
+      "evidence": [{"quote": "Done:)", "who": "Callie (Mila)", "date": "2026-10-01"}]
+    },
+    {
+      "what": "Confirm receipt and exact USD amount of the Sep 1-14 payment sent Sep 17.",
+      "who": "Stephski",
+      "date": "2026-09-17",
+      "status": "overdue",
+      "days_outstanding": 43,
+      "age_history": [{"as_of": "2026-09-18", "days": 1}, {"as_of": "2026-10-02", "days": 15}, {"as_of": "2026-10-09", "days": 22}, {"as_of": "2026-10-16", "days": 29}, {"as_of": "2026-10-30", "days": 43}],
+      "evidence": [{"quote": "Thank you, have sent:)", "who": "Callie (Mila)", "date": "2026-09-17"}]
+    },
+    {
+      "what": "Establish from the bank whether the Aug 15-31 invoice (issued Sep 1, due Sep 8) was paid.",
+      "who": "Stephski",
+      "date": "2026-09-08",
+      "status": "overdue",
+      "days_outstanding": 52,
+      "age_history": [{"as_of": "2026-09-11", "days": 3}, {"as_of": "2026-09-18", "days": 10}, {"as_of": "2026-10-02", "days": 24}, {"as_of": "2026-10-09", "days": 31}, {"as_of": "2026-10-16", "days": 38}, {"as_of": "2026-10-30", "days": 52}],
+      "evidence": [{"quote": "I ask that you please pay within 7 days to avoid any pausing of work 🙏", "who": "Stephski", "date": "2026-09-01"}]
+    },
+    {
+      "what": "Verify the Aug 1-14 wire sent Aug 17 landed (check for a name-mismatch bounce-back).",
+      "who": "Stephski",
+      "date": "2026-08-17",
+      "status": "overdue",
+      "days_outstanding": 74,
+      "age_history": [{"as_of": "2026-08-28", "days": 11}, {"as_of": "2026-09-18", "days": 32}, {"as_of": "2026-10-02", "days": 46}, {"as_of": "2026-10-09", "days": 53}, {"as_of": "2026-10-16", "days": 60}, {"as_of": "2026-10-30", "days": 74}],
+      "evidence": [{"quote": "Sent:)", "who": "Callie (Mila)", "date": "2026-08-17"}]
+    },
+    {
+      "what": "Confirm the re-sent Jul 15-31 payment and answer whether it came through twice.",
+      "who": "Stephski",
+      "date": "2026-08-11",
+      "status": "overdue",
+      "days_outstanding": 80,
+      "age_history": [{"as_of": "2026-08-14", "days": 3}, {"as_of": "2026-09-18", "days": 38}, {"as_of": "2026-10-02", "days": 52}, {"as_of": "2026-10-09", "days": 59}, {"as_of": "2026-10-16", "days": 66}, {"as_of": "2026-10-30", "days": 80}],
+      "evidence": [{"quote": "Will update you shortly!", "who": "Stephski", "date": "2026-08-11"}]
+    },
+    {
+      "what": "Phone-farm / backup-IG posting rollout updates promised 'starting next week' on Aug 1.",
+      "who": "Derrek",
+      "date": "2026-08-01",
+      "status": "overdue",
+      "days_outstanding": 90,
+      "age_history": [{"as_of": "2026-08-14", "days": 13}, {"as_of": "2026-09-18", "days": 48}, {"as_of": "2026-10-02", "days": 62}, {"as_of": "2026-10-09", "days": 69}, {"as_of": "2026-10-16", "days": 76}, {"as_of": "2026-10-30", "days": 90}],
+      "note": "Thirteenth week overdue. Derrek silent 44 days.",
+      "evidence": [{"quote": "Thank you for your understanding, we will have plenty of updates starting next week.", "who": "Derrek", "date": "2026-08-01"}]
+    },
+    {
+      "what": "Vivek (Meta Support) to help with restrictions/bans and Copyright Ban Protection. Has never posted.",
+      "who": "Vivek",
+      "date": "2026-07-29",
+      "status": "overdue",
+      "days_outstanding": 93,
+      "age_history": [{"as_of": "2026-08-21", "days": 23}, {"as_of": "2026-09-18", "days": 51}, {"as_of": "2026-10-09", "days": 72}, {"as_of": "2026-10-16", "days": 79}, {"as_of": "2026-10-30", "days": 93}],
+      "evidence": [{"quote": "If you have any restrictions, shadowbans, or bans.... simply @ him in the chat and he will help.", "who": "Derrek", "date": "2026-07-29"}]
+    },
+    {
+      "what": "Send Callie links to promo posts so she stays in the loop.",
+      "who": "Michelle Queue",
+      "date": "2026-07-08",
+      "status": "overdue",
+      "days_outstanding": 114,
+      "age_history": [{"as_of": "2026-08-14", "days": 37}, {"as_of": "2026-09-18", "days": 72}, {"as_of": "2026-10-09", "days": 93}, {"as_of": "2026-10-16", "days": 100}, {"as_of": "2026-10-30", "days": 114}],
+      "note": "Michelle silent 74 days. Reassign to Mayson (crystal account) or Melissa (reports).",
+      "evidence": [{"quote": "will do babes 🫶🏼", "who": "Michelle Queue", "date": "2026-07-08"}]
+    },
+    {
+      "what": "Book the trial-reels feature call Callie accepted Sep 6 (UK-time slots).",
+      "who": "Mayson",
+      "date": "2026-09-07",
+      "status": "overdue",
+      "days_outstanding": 53,
+      "age_history": [{"as_of": "2026-09-11", "days": 4}, {"as_of": "2026-09-18", "days": 11}, {"as_of": "2026-10-09", "days": 32}, {"as_of": "2026-10-16", "days": 39}, {"as_of": "2026-10-30", "days": 53}],
+      "note": "Melissa's Oct 29 check-in call may have covered it, but nobody said so in the chat. Close it explicitly or drop it.",
+      "evidence": [{"quote": "Let me know what time works best @calliebullough ?", "who": "Mayson Chat", "date": "2026-09-07"}]
+    },
+    {
+      "what": "Explain the purpose of the Facebook account request (Sep 16).",
+      "who": "Mayson",
+      "date": "2026-09-16",
+      "status": "overdue",
+      "days_outstanding": 44,
+      "age_history": [{"as_of": "2026-10-09", "days": 23}, {"as_of": "2026-10-16", "days": 30}, {"as_of": "2026-10-30", "days": 44}],
+      "evidence": [{"quote": "Hey @calliebullough do you have a facebook account available to use?", "who": "Mayson Chat", "date": "2026-09-16"}]
+    },
+    {
+      "what": "Respond to Callie's Oct 2 offer of new America/horse-riding content (feature it, send links).",
+      "who": "Melissa / Mica Vecco",
+      "date": "2026-10-02",
+      "status": "overdue",
+      "days_outstanding": 28,
+      "age_history": [{"as_of": "2026-10-09", "days": 7}, {"as_of": "2026-10-16", "days": 14}, {"as_of": "2026-10-30", "days": 28}],
+      "note": "Melissa posted 11 times this window and never referred to it.",
+      "evidence": [{"quote": "I do have lots of new stuff to send from my month in America, horse riding and stuff if you think that would be more eye catching xxx", "who": "Callie (Mila)", "date": "2026-10-02"}]
+    },
+    {
+      "what": "Weekly reel-inspo drop (recurring).",
+      "who": "Mica Vecco",
+      "date": "2026-10-28",
+      "status": "done",
+      "days_outstanding": 0,
+      "note": "Delivered Oct 28 (8 links). The ~Oct 21 drop was missed: a 14-day gap after Oct 14. History: Sep 15, Sep 29, Oct 6, Oct 14, Oct 28. Next due ~Nov 4. No client acknowledgement of this one (she replied to Melissa's call thread instead).",
+      "evidence": [{"quote": "hi @calliebullough ! heres your reel inspo this week 🫶", "who": "Mica Vecco", "date": "2026-10-28"}]
+    },
+    {
+      "what": "Clarify Alex Camus's role (posted ALTR wire block Jul 7, promised GBP invoicing) and restrict banking details to the invoicing owner.",
+      "who": "Derrek",
+      "date": "2026-07-07",
+      "status": "pending",
+      "days_outstanding": 115,
+      "evidence": [{"quote": "We will make sure the exchange is on the next invoice", "who": "Alex Camus", "date": "2026-07-07"}]
+    }
+  ],
+  "payments": [
+    {
+      "note": "No invoice, heads-up, payment or confirmation in the two-week window. Stephski posted nothing Oct 16-30 (billing share 0 of 14 ALTR messages). The Oct 1-14 payment ('Done:)' Oct 15) passed its Oct 22 confirmation deadline unacknowledged, making six consecutive unconfirmed cycles; last confirmation Jul 23 (99 days). The Oct 15-31 invoice is expected ~Nov 1; the usual two-day heads-up (sent Aug 14, Sep 14, Oct 13 on prior cycles) had not appeared by 09:05 Oct 30. The six-cycle reconciliation, due before the Oct 15 invoice, is still unsent.",
+      "date": "2026-10-30",
+      "invoice_period": "2026-10-15 to 2026-10-31 (expected)",
+      "late": false,
+      "paid": false,
+      "receipt_verified": false,
+      "risk": "critical in context: next invoice lands on six unconfirmed cycles and a client who asked zero questions this window",
+      "evidence": [
+        {"quote": "Done:)", "who": "Callie (Mila)", "date": "2026-10-15"},
+        {"quote": "Thank you queen!", "who": "Stephski", "date": "2026-10-15"}
+      ]
+    },
+    {
+      "note": "Oct 1-14 invoice (issued Oct 15, paid same day in 3h36m after one bank-account question). Receipt confirmation due Oct 22: not sent. 15 days unconfirmed.",
+      "date": "2026-10-15",
+      "invoice_period": "2026-10-01 to 2026-10-14",
+      "paid_date": "2026-10-15",
+      "late": false,
+      "paid": true,
+      "receipt_verified": false,
+      "risk": "high",
+      "evidence": [
+        {"quote": "Is that a different account ? Xx", "who": "Callie (Mila)", "date": "2026-10-15"},
+        {"quote": "Done:)", "who": "Callie (Mila)", "date": "2026-10-15"}
+      ]
+    },
+    {
+      "note": "Sep 15-30 payment ('Done:)' Oct 1): unconfirmed 29 days.",
+      "date": "2026-10-01",
+      "invoice_period": "2026-09-15 to 2026-09-30",
+      "paid_date": "2026-10-01",
+      "late": false,
+      "paid": true,
+      "receipt_verified": false,
+      "risk": "high",
+      "evidence": [{"quote": "Done:)", "who": "Callie (Mila)", "date": "2026-10-01"}]
+    },
+    {
+      "note": "Sep 1-14 payment (client-converted USD, sent Sep 17): unconfirmed 43 days.",
+      "date": "2026-09-17",
+      "invoice_period": "2026-09-01 to 2026-09-14",
+      "paid_date": "2026-09-17",
+      "late": false,
+      "paid": true,
+      "receipt_verified": false,
+      "risk": "high",
+      "evidence": [{"quote": "Thank you, have sent:)", "who": "Callie (Mila)", "date": "2026-09-17"}]
+    },
+    {
+      "note": "Aug 15-31 invoice (issued Sep 1, due Sep 8): no payment message, confirmation or chase from either side in 59 days. Status unknown; 52 days past due if unpaid.",
+      "date": "2026-09-01",
+      "invoice_period": "2026-08-15 to 2026-08-31",
+      "due": "2026-09-08",
+      "late": true,
+      "paid": false,
+      "days_late": 52,
+      "receipt_verified": false,
+      "risk": "high",
+      "evidence": [{"quote": "Hi love happy September! Here is your invoice for the period of August 15-31 ❤️", "who": "Stephski", "date": "2026-09-01"}]
+    },
+    {
+      "note": "Aug 1-14 wire sent Aug 17 under the abbreviated account name: never located, 74 days.",
+      "date": "2026-08-17",
+      "invoice_period": "2026-08-01 to 2026-08-14",
+      "paid_date": "2026-08-17",
+      "late": false,
+      "paid": true,
+      "receipt_verified": false,
+      "risk": "critical",
+      "evidence": [{"quote": "Sent:)", "who": "Callie (Mila)", "date": "2026-08-17"}]
+    },
+    {
+      "note": "Jul 15-31 payment re-sent after a fraud flag; the duplicate question is unanswered 80 days after 'Will update you shortly!'.",
+      "date": "2026-08-08",
+      "invoice_period": "2026-07-15 to 2026-07-31",
+      "late": true,
+      "paid": true,
+      "receipt_verified": false,
+      "risk": "high",
+      "evidence": [{"quote": "Will update you shortly!", "who": "Stephski", "date": "2026-08-11"}]
+    }
+  ],
+  "client_priorities": [
+    "Her brand identity: not 'crystal'; the OF link should read milabrooks (asked Oct 11, still waiting)",
+    "Proof that ALTR's posting is working; she reported a ~100-follower drop on the crystal account and has had no written answer",
+    "Getting her main Instagram account back (129 days); she is doing her own marketing on her other Instagram meanwhile",
+    "A real conversation: she accepted the check-in call within an hour of seeing it and offered to fit ALTR's schedule ('I’m pretty free! When’s best for you??')",
+    "Times given in UK time ('Is that 5 for uk time??'; Jun 29: 'time difference makes it hard to workout what time it is for me')",
+    "Knowing who owns what (Oct 11: 'is it you that I speak to regarding that insta account??')",
+    "Being told when something breaks, not after it is fixed",
+    "Bank details she can trust and written confirmation that her payments arrived (six cycles unconfirmed)",
+    "Invoices she can pay without doing her own currency conversion",
+    "Her new America/horse-riding content being used (offered Oct 2, never picked up)"
+  ],
+  "suggestions": [
+    "Melissa: post a written recap of the Oct 29 call in the chat today: what was discussed, what was agreed, who owns each item, and dates. Without it the call reads as the 'call instead of an answer' exit signal. Then send the Friday report every Friday (Oct 23 was missed one week after it was promised), and give her UK times alongside EST.",
+    "Mayson: the milabrooks rename is 19 days old with no confirmation. Post the new link when it is live or give a date. Answer the follower-drop question yourself in writing with the account's follower and reach numbers, the cause and the fix; do not leave it with the vendor tag or the call. Either close the Sep 7 trial-reels call (say the Oct 29 call covered it) or drop it.",
+    "Stephski: before or inside the ~Nov 1 invoice message, send the six-cycle reconciliation (Jul 15-31 duplicate, Aug 1-14 wire, Aug 15-31 paid or not, Sep 1-14 amount, Sep 15-30, Oct 1-14). Two weeks of silence after a missed Oct 22 confirmation deadline is the gap the client will notice when the next invoice arrives.",
+    "Derrek (owner-level): 44 days silent, three exit signals firing, asks at zero. Post a written owner update on the main IG account and the Aug 1 rollout, or at minimum appear in the chat after the call. Decide who the account manager for Mila is (Melissa is acting like it) and say so in the chat.",
+    "Mica: the Oct 21 drop was missed; keep the weekly cadence. Ask for the America/horse-riding content by name (28 days since she offered it) and tell her which of her uploads were used.",
+    "Whoever reviews the Friday report: include crystal/sugarcrystalll post links and follower counts in it, which would close the Jul 8 links request (114 days) and the Oct 11 results complaint in one document."
+  ],
+  "wins": [
+    "First written performance document in 118 days: Melissa's Oct 16 'earnings and performance report' with DMCA folded in, delivered 12 minutes after Mayson announced the format.",
+    "Melissa initiated a check-in call (Oct 26), got it booked within three days and sent the link on time; the client was enthusiastic ('Perf speak tomorrow 🥰', Oct 28) and replied in 49 seconds to the follow-up (Oct 29).",
+    "Mayson gave a proactive heads-up about the system test messages (Oct 21) before they appeared, and consolidated DMCA reporting into one weekly document (Oct 16).",
+    "Mica's reel-inspo cadence resumed Oct 28 with 8 links after a missed week.",
+    "No credentials or banking details posted in the window; no mention of leaving, exports or logins."
+  ],
+  "week_stats": {
+    "messages": 20,
+    "client_messages": 6,
+    "team_messages": 14,
+    "client_asks": 0,
+    "service_events": 1,
+    "window_start": "2026-10-16T09:06:40-04:00",
+    "window_end": "2026-10-30T09:05:30-04:00",
+    "window_days": 14,
+    "billing_share": "0/14",
+    "client_asks_trend": "Sep 18: 1 -> Sep 25: 0 -> Oct 2: 0 -> Oct 9: 1 -> Oct 16: 4 -> Oct 30 (two weeks): 0",
+    "test_messages_excluded": 6,
+    "note": "Two-week window, message ids 216-242 with no gaps. 6 'Antonio Veritrade' test messages (Oct 21, ids 221-226) excluded from all counts; Mayson's Oct 21 heads-up about them is counted as a real team message. One service event: ChatAddUser Oct 21 21:03, the test account joining (not a client departure). ALTR 14: Melissa 11 (performance report + file, call request, 7 scheduling messages, meeting link), Mayson 2 (DMCA reporting change, test heads-up), Mica 1 (reel inspo Oct 28), Stephski 0, Derrek 0. Client 6 (Callie), all between Oct 28 15:34 and Oct 29 10:35 and all call logistics; Oct 16-27 had zero client messages. Client asks 0: no requests for work, information or money; 'When’s best for you??' and 'Is that 5 for uk time??' are scheduling replies, not asks. Asks trend 1 -> 0 -> 0 -> 1 -> 4 -> 0. Billing share 0/14 (no Stephski messages). Response times: Callie answered Melissa's Oct 26 call request after 2d1h (37 min after Mica's Oct 28 drop), then within 1-4 minutes on every scheduling turn; Melissa answered Callie within 1 minute each time. All senders resolve via team.yaml (Mayson Chat=Mayson, Melissa Userfacing=Melissa, Antonio Veritrade=test account). No unknown senders. No credentials posted; the Oct 29 Google Meet link was left out of evidence quotes."
+  }
+}

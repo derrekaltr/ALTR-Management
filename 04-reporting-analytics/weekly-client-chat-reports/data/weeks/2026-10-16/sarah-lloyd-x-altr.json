@@ -1,0 +1,535 @@
+{
+  "client": "Sarah Lloyd",
+  "slug": "sarah-lloyd-x-altr",
+  "week_ending": "2026-10-16",
+  "summary": "Best week since early August on responsiveness. The link-in-bio problem she reported on 10-07 and chased on 10-09 got a holding reply ('Still looking into it', ~9h after her chase) and was fixed on 10-11: Mayson brought her domain back, routed through ALTR's protected infrastructure, and told her it is safe to put back in her bio. She answered within 9 minutes and sent a run of quick asks over the next day (bio placement, profile photo, swap her X handle, add YouTube, a more SFW photo, matching photos). Mayson finished all of them by 10-12, the last one in 2 minutes. Melissa sent a two-week earnings and performance report on 10-09. It is the first written results document posted in this chat, but she never replied to it. Melissa also announced her reel goes out across 23 repost-network accounts on 10-18. STILL OPEN: the Instagram highlights ban she raised on 10-09 was never addressed (Mayson's fix covered only the link; Vivek has been silent since 09-17). The weekly DMCA leak report did not arrive on 10-09, so that slot went to the earnings report; this is the third missed week after 09-15 and 09-22. There is still no written recap of the 10-05 call. MONEY: Stephski sent a pre-invoice nudge on 10-13 and the Oct 1-14 invoice on 10-15. That invoice is a PDF, so we cannot see from the chat whether the $100/week OFTV credit is on it. Unlike 10-01, when she audited the invoice in 41 seconds, she had not responded about 19h later. Sept 1-14 and Sept 15-30 still have no 'Received!' (last one 2026-08-26). CHURN SIGNALS: (1) Owner silence is PRESENT: Derrek and Noah last posted 2026-08-25 (52 days); Ronnie 08-26. (2) A call instead of a written answer is PRESENT from earlier weeks: the 08-25 and 10-05 calls were never written up. The 10-09 earnings report partly offsets this. (3) Long-promised deliverables with no proof are PRESENT: whale plan, CB tracking link, chargebacks, Phone Farm updates, Snapchat role access, IG views explanation. (4) Billing-dominated ALTR traffic is NOT present (3 of 16 team messages). Client asks held at 5 (previous: 4 in the 10-09 half-window). That is not a drop-off, but every ask is cosmetic link-in-bio work. She has not raised chat quality, the whale, revenue or chargebacks in 52 days, and she has been silent since 10-12 through the invoice, the reel inspo and the repost notice. No credentials were posted this window (third clean window). Plaintext secrets from earlier published reports are now gone (pre-publish scan: 0 hits), but the credentials themselves have never been rotated. Export id 1030 (10-09 17:49 → 10-11 19:08) is missing.",
+  "health": {
+    "score": 38,
+    "trend": "up",
+    "score_last_week": 30,
+    "rationale": "Up from 30. The one issue she raised herself was closed: the link was fixed 4 days after her report and 2 days after her chase, with a holding reply in between. Every follow-up request was done within about 14h. She also received written performance data for the first time (the 10-09 earnings report), and ALTR showed visible growth work (23-account repost push). Asks held at 5 (5 across the 10-09 two-week window), and her replies stayed fast (9 minutes on 10-11). Why it is still below 40: (1) The owner and chat leads (Derrek, Noah, Ronnie) have been silent for 52 days. Every August item about money and results is still open with nothing in writing: the $25k whale plan, the 08-24 chat-quality verdict, chargebacks, the CB tracking link, Phone Farm. (2) Her asks have narrowed to cosmetic link-in-bio edits. A client who used to push hard on chat quality and revenue has stopped asking about them, which is the churn-alarm pattern even with the ask count steady. (3) She did not reply to the earnings report and has been silent since 10-12 through three ALTR posts and a new invoice. That is unusual for someone who audited the last invoice in 41 seconds. (4) Smaller misses: the IG highlights ban was never addressed, the DMCA weekly report was skipped 10-09, the 10-05 call has no recap, there has been no receipt confirmation for two September cycles, and the exposed credentials have not been rotated. Payment itself is not a risk: she has never caused a late payment."
+  },
+  "reminders": [
+    {
+      "employee": "Mayson",
+      "topic": "Telegram link-in-bio not displaying and IG highlights banned. She reported it 10-07 with a screenshot and chased 10-09 05:48 (just before this window). Mayson replied 'Still looking into it' ~9h later and fixed the link 10-11 by bringing her domain back. RESOLVED for the link; the highlights-ban half was never addressed.",
+      "count": 2,
+      "first_asked": "2026-10-07",
+      "last_asked": "2026-10-09",
+      "status": "resolved (link) 2026-10-11; highlights ban unanswered",
+      "evidence": [
+        {"quote": "Hey! This is what the link above shows rn", "who": "Sarah Lloyd", "date": "2026-10-07"},
+        {"quote": "Any update on the telegram or link? My highlights have been banned", "who": "Sarah Lloyd", "date": "2026-10-09"},
+        {"quote": "Still looking into it @sarahlloydd", "who": "Mayson Chat", "date": "2026-10-09"},
+        {"quote": "Hey @sarahlloydd, good news on your link in bio.  Your domain is back, same one as before, but with new technology running behind it.", "who": "Mayson Chat", "date": "2026-10-11"}
+      ]
+    },
+    {
+      "employee": "Stephski",
+      "topic": "The $100/week OFTV editor credit has been left off twice (07-15, 10-01), and both times she had to ask. The Oct 1-14 invoice was issued 10-15 as a PDF, so whether the credit is on it can't be verified from chat. She has not asked a third time (as of window close, ~19h after issue).",
+      "count": 2,
+      "first_asked": "2026-07-15",
+      "last_asked": "2026-10-01",
+      "evidence": [
+        {"quote": "Perfect thank you! Can I just -$200 off the total for OFTV editing please?", "who": "Sarah Lloyd", "date": "2026-10-01"},
+        {"quote": "Happy thursday! Here is your invoice for October 1st-14th. Please use the invoicing information at the bottom of the PDF to ensure a smooth process ❤️ Here if you need anything or have any questions!", "who": "Stephski", "date": "2026-10-15"}
+      ]
+    }
+  ],
+  "complaints": [
+    {
+      "issue": "Telegram link-in-bio not working (reported 10-07, chased 10-09). RESOLVED 10-11: Mayson brought her domain back behind ALTR's protected routing and confirmed it is safe to put in her bio. Time to fix: 4 days from report, 2 days from chase.",
+      "status": "resolved",
+      "owner": "Mayson",
+      "first_raised": "2026-10-07",
+      "resolved": "2026-10-11",
+      "days_outstanding": 4,
+      "evidence": [
+        {"quote": "Any update on the telegram or link? My highlights have been banned", "who": "Sarah Lloyd", "date": "2026-10-09"},
+        {"quote": "Still looking into it @sarahlloydd", "who": "Mayson Chat", "date": "2026-10-09"},
+        {"quote": "It routes through our own protected infrastructure before it ever reaches your page, it won’t get flagged and it’s completely safe.", "who": "Mayson Chat", "date": "2026-10-11"},
+        {"quote": "Amazing thankyou! Can it go straight into my bio?", "who": "Sarah Lloyd", "date": "2026-10-11"},
+        {"quote": "Yes 100% safe", "who": "Mayson Chat", "date": "2026-10-11"}
+      ]
+    },
+    {
+      "issue": "Meta/Instagram: her IG highlights (where her link lived) were banned 10-09. Nobody has acknowledged this, explained the cause or offered an appeal; the link fix only works around it. This adds to the second Facebook down since 09-17 (29 days, no follow-up) and the IG 20M→4M profile-view explanation promised 08-08. Vivek has not posted since 09-17.",
+      "status": "recurring",
+      "owner": "Vivek",
+      "first_raised": "2026-07-11",
+      "days_outstanding": 97,
+      "evidence": [
+        {"quote": "Any update on the telegram or link? My highlights have been banned", "who": "Sarah Lloyd", "date": "2026-10-09"},
+        {"quote": "I have another Facebook as well that’s down at the moment if I can please have your help @fonta I’ll be home in an hour and will send details", "who": "Sarah Lloyd", "date": "2026-09-17"},
+        {"quote": "Wait i will explain", "who": "Vivek", "date": "2026-08-08"}
+      ]
+    },
+    {
+      "issue": "Client engagement / churn watch: steady volume, narrowing topics. She raised 5 asks (same level as last window), all cosmetic link-in-bio changes. She did not acknowledge the 10-09 earnings report and has been silent since 10-12 despite four ALTR posts, including a new invoice. She has not mentioned chat quality, the whale, revenue, chargebacks or CB streams in 52 days. Mayson is still her only two-way ALTR contact. Derrek and Noah have not posted since 08-25.",
+      "status": "in_progress",
+      "owner": "Derrek",
+      "first_raised": "2026-09-19",
+      "days_outstanding": 27,
+      "evidence": [
+        {"quote": "Ok will change everything over", "who": "Sarah Lloyd", "date": "2026-10-11"},
+        {"quote": "Thanks! Could these photos be changed to match too please?", "who": "Sarah Lloyd", "date": "2026-10-12"},
+        {"quote": "Hey @sarahlloydd! Here is your earnings and performance report for the last two weeks 🫶🏽", "who": "Melissa Userfacing", "date": "2026-10-09"}
+      ]
+    },
+    {
+      "issue": "Weekly DMCA leak-removal report missed on 10-09. The Friday slot went to the earnings report and no leak breakdown was posted in the DMCA topic. This is the third missed week (09-15, 09-22 were never backfilled), right after two on-time weeks (09-25, 10-02).",
+      "status": "recurring",
+      "owner": "Melissa",
+      "first_raised": "2026-09-15",
+      "days_outstanding": 31,
+      "evidence": [
+        {"quote": "Hey @sarahlloydd! Here’s your weekly update on the leak removal breakdown for the past 7 days 🫶🏼", "who": "Melissa Userfacing", "date": "2026-10-02"},
+        {"quote": "Hey @sarahlloydd! Here is your earnings and performance report for the last two weeks 🫶🏽", "who": "Melissa Userfacing", "date": "2026-10-09"}
+      ]
+    },
+    {
+      "issue": "Payment receipts unconfirmed. Sept 1-14 (due ~09-22, 24 days ago) and Sept 15-30 (client 'Paid! Thanks' 10-02) have never had a 'Received!'. The Oct 1-14 invoice was issued without referencing either. The last in-chat receipt confirmation was 2026-08-26 (51 days ago).",
+      "status": "recurring",
+      "owner": "Stephski",
+      "first_raised": "2026-08-15",
+      "days_outstanding": 62,
+      "evidence": [
+        {"quote": "Paid! Thanks", "who": "Sarah Lloyd", "date": "2026-10-02"},
+        {"quote": "Thanks queen ❤️", "who": "Stephski", "date": "2026-10-03"}
+      ]
+    },
+    {
+      "issue": "Invoice accuracy: the OFTV $100/week credit was omitted twice (07-15, 10-01), on top of the fee-% errors in July and August. The Oct 1-14 invoice (10-15) is a PDF, so there is no in-chat confirmation that the credit is included. Its 'use the invoicing information at the bottom of the PDF' line could also mean changed bank details again, after three earlier bank changes and two bounces.",
+      "status": "in_progress",
+      "owner": "Stephski",
+      "first_raised": "2026-07-15",
+      "days_outstanding": 93,
+      "evidence": [
+        {"quote": "Perfect thank you! Can I just -$200 off the total for OFTV editing please?", "who": "Sarah Lloyd", "date": "2026-10-01"},
+        {"quote": "Happy thursday! Here is your invoice for October 1st-14th. Please use the invoicing information at the bottom of the PDF to ensure a smooth process ❤️ Here if you need anything or have any questions!", "who": "Stephski", "date": "2026-10-15"}
+      ]
+    },
+    {
+      "issue": "Credential exposure not remediated (OWNER-LEVEL). These were posted in this group and never rotated: a Facebook login email+password (2026-07-29, [REDACTED]), a Snapchat username+password (2026-09-11, [REDACTED]), an FB credential screenshot (09-17) and three Snapchat 2FA codes (09-17/18/19, [REDACTED]). There has been no 2FA verification, no membership audit and no agency rule. Progress: the pre-publish scan (src/_cred_published_check.py) now finds 0 known secrets in reports/ and data/, so the earlier published-report leak has been redacted. No new credentials were posted this window (third clean window).",
+      "status": "recurring",
+      "owner": "Derrek",
+      "first_raised": "2026-07-29",
+      "days_outstanding": 79,
+      "evidence": [
+        {"quote": "Please do not send your backup codes to anyone, including our team. Keep the screenshot somewhere secure that only you can access.", "who": "Mica Vecco", "date": "2026-09-17"}
+      ]
+    },
+    {
+      "issue": "Reels/content brief still not rewritten around her full-time assistant, who already posts everything. ALTR keeps sending inspiration and chases instead: Mica's reel inspo 10-15 is the 6th since 08-30. She has not uploaded and has not responded.",
+      "status": "in_progress",
+      "owner": "Mayson",
+      "first_raised": "2026-08-30",
+      "days_outstanding": 47,
+      "evidence": [
+        {"quote": "I do have a full time assistant who uploads across all of my accounts so just can be hard trying to find things that she hasn’t already uploaded", "who": "Sarah Lloyd", "date": "2026-09-16"},
+        {"quote": "hi @sarahlloydd! here’s your reel inspo 💖💖", "who": "Mica Vecco", "date": "2026-10-15"}
+      ]
+    },
+    {
+      "issue": "$25k top spender: still no named chatter, no confirmed 9am AEST good-morning, no win-back and no spend report since the 08-20 BG send. Nobody has mentioned him in 52 days. The 10-09 earnings report may contain spend data, but nobody pointed to it.",
+      "status": "recurring",
+      "owner": "Noah",
+      "first_raised": "2026-06-10",
+      "days_outstanding": 128,
+      "evidence": [
+        {"quote": "I just sent a few messages to him. He’s my top spender there’s no reason he should be ignored all day, especially after the recent mistakes that have been made. the chatters need to just message him at 9am AEST saying good morning", "who": "Sarah Lloyd", "date": "2026-08-25"},
+        {"quote": "I see you are currently chatting with him. I’ll make sure to monitor him very closely so we can be sure to bring him back!", "who": "Nate (Noah)", "date": "2026-08-20"}
+      ]
+    },
+    {
+      "issue": "Chatting-quality verdict (08-24) and the three screenshot failures were answered with a call offer. Neither the 08-25 call nor the 10-05 check-up call was written up. Noah, Derrek and Ronnie have been silent 52 days (8th straight week). Churn signal: a results question answered with a call instead of a written answer. Partly offset by the 10-09 written earnings report.",
+      "status": "recurring",
+      "owner": "Noah",
+      "first_raised": "2026-06-27",
+      "days_outstanding": 111,
+      "evidence": [
+        {"quote": "i spend every single day filming and uploading promo and now hours streaming as well and everything funnels into this one OF page so its just really frustrating seeing no whales long-term being built, my top spenders being ignored and in general no actual chatting but just MM bumps", "who": "Sarah Lloyd", "date": "2026-08-24"},
+        {"quote": "Can we set up a call @sarahlloydd", "who": "Noah Chat", "date": "2026-08-24"}
+      ]
+    },
+    {
+      "issue": "Sexting sessions built from multiple sets instead of one set per session (asked 06-13, restated 08-19, never answered). The vendor chat team last posted 2026-06-15.",
+      "status": "recurring",
+      "owner": "Sarah Lloyd chat team",
+      "first_raised": "2026-06-13",
+      "days_outstanding": 125,
+      "evidence": [
+        {"quote": "thanks! also when sexting subs (this is last weeks top spender whose name is ‘loves sexting while buying’) could just one sexting set be used? Every single photo/video sent in this sexting session is from a different location/outfit. There’s really no need for that I have over 50 sexting sets", "who": "Sarah Lloyd", "date": "2026-08-19"}
+      ]
+    },
+    {
+      "issue": "Chargebacks / making unhappy high-spend subs whole. Derrek said 'Looking into this now' on 08-19; nothing since.",
+      "status": "in_progress",
+      "owner": "Derrek",
+      "first_raised": "2026-08-19",
+      "days_outstanding": 58,
+      "evidence": [
+        {"quote": "Hey @natehei @roflo1424 if subs have spent thousands and are unhappy please just give them what they want! Would be great to minimise some of the chargebacks", "who": "Sarah Lloyd", "date": "2026-08-19"},
+        {"quote": "Looking into this now", "who": "Derrek", "date": "2026-08-19"}
+      ]
+    },
+    {
+      "issue": "Chaturbate funnel rules and the CB tracking link are unconfirmed. Rules: CB subs may be chatted during streams but not live-sexted until she is off air; the 'CB' keyword gets a free pic.",
+      "status": "recurring",
+      "owner": "Noah",
+      "first_raised": "2026-08-23",
+      "days_outstanding": 54,
+      "evidence": [
+        {"quote": "Let’s get a tracking link made", "who": "Noah Chat", "date": "2026-08-23"},
+        {"quote": "It’s fine chatting to subs that have come from CB during these hours just no live sexting them 🙏 and only those CB subs, everyone else can be sexted normally I really don’t want it to effect that", "who": "Sarah Lloyd", "date": "2026-08-25"}
+      ]
+    },
+    {
+      "issue": "MM caption repetition and customs pulled into the PPV/MM queue. No recurrence has been reported, but she has not audited the queue since 08-10. Unverified, not fixed.",
+      "status": "in_progress",
+      "owner": "Noah",
+      "first_raised": "2026-06-26",
+      "days_outstanding": 112,
+      "evidence": [
+        {"quote": "thanks! can we also please have some variety in the MM captions? They have gone back to repeating the same 3-4 captions over & over every single day", "who": "Sarah Lloyd", "date": "2026-08-12"},
+        {"quote": "I have spoken with the team and will make sure this doesn't happen again", "who": "Ronnie Chat", "date": "2026-08-10"}
+      ]
+    }
+  ],
+  "commitments": [
+    {
+      "what": "Answer and fix the Telegram link problem ('I’ll get back to you', 10-07).",
+      "who": "Mayson",
+      "status": "done",
+      "due": "2026-10-08",
+      "completed": "2026-10-11",
+      "note": "Done 3 days late; holding reply 'Still looking into it' on 10-09.",
+      "evidence": [
+        {"quote": "I’ll get back to you", "who": "Mayson Chat", "date": "2026-10-07"},
+        {"quote": "Still looking into it @sarahlloydd", "who": "Mayson Chat", "date": "2026-10-09"},
+        {"quote": "Hey @sarahlloydd, good news on your link in bio.  Your domain is back, same one as before, but with new technology running behind it.", "who": "Mayson Chat", "date": "2026-10-11"}
+      ]
+    },
+    {
+      "what": "Link-page edits: new profile photo (one of four she sent), swap X handle, add YouTube, SFW photo, and matching photos.",
+      "who": "Mayson",
+      "status": "done",
+      "due": "2026-10-12",
+      "completed": "2026-10-12",
+      "evidence": [
+        {"quote": "Also can you use one of these please? Whichever suits the size best", "who": "Sarah Lloyd", "date": "2026-10-11"},
+        {"quote": "Will do!", "who": "Mayson Chat", "date": "2026-10-11"},
+        {"quote": "All done!! @sarahlloydd", "who": "Mayson Chat", "date": "2026-10-12"},
+        {"quote": "Thanks! Could these photos be changed to match too please?", "who": "Sarah Lloyd", "date": "2026-10-12"},
+        {"quote": "Done!", "who": "Mayson Chat", "date": "2026-10-12"}
+      ]
+    },
+    {
+      "what": "Address the IG highlights ban: cause, appeal or workaround. Loop in Vivek.",
+      "who": "Mayson",
+      "status": "overdue",
+      "due": "2026-10-11",
+      "days_outstanding": 7,
+      "note": "Raised 10-09; covered by 'Still looking into it' but never answered.",
+      "evidence": [
+        {"quote": "Any update on the telegram or link? My highlights have been banned", "who": "Sarah Lloyd", "date": "2026-10-09"},
+        {"quote": "Still looking into it @sarahlloydd", "who": "Mayson Chat", "date": "2026-10-09"}
+      ]
+    },
+    {
+      "what": "Two-week earnings and performance report.",
+      "who": "Melissa",
+      "status": "done",
+      "due": "2026-10-09",
+      "evidence": [
+        {"quote": "Hey @sarahlloydd! Here is your earnings and performance report for the last two weeks 🫶🏽", "who": "Melissa Userfacing", "date": "2026-10-09"}
+      ]
+    },
+    {
+      "what": "Weekly DMCA leak-removal report (10-09 week missed). Backfill the 09-15, 09-22 and 10-09 weeks.",
+      "who": "Melissa",
+      "status": "overdue",
+      "due": "2026-10-09",
+      "days_outstanding": 7,
+      "evidence": [
+        {"quote": "Hey @sarahlloydd! Here’s your weekly update on the leak removal breakdown for the past 7 days 🫶🏼", "who": "Melissa Userfacing", "date": "2026-10-02"}
+      ]
+    },
+    {
+      "what": "Post the 10-05 check-up call outcomes in writing.",
+      "who": "Mayson",
+      "status": "overdue",
+      "due": "2026-10-06",
+      "days_outstanding": 10,
+      "evidence": [
+        {"quote": "We can do it right now!!", "who": "Mayson Chat", "date": "2026-10-05"}
+      ]
+    },
+    {
+      "what": "Make the $100/week OFTV credit a permanent invoice line. The Oct 1-14 invoice was issued 10-15; whether the credit is on it can't be verified from chat.",
+      "who": "Stephski",
+      "status": "pending",
+      "due": "2026-10-15",
+      "evidence": [
+        {"quote": "Happy thursday! Here is your invoice for October 1st-14th. Please use the invoicing information at the bottom of the PDF to ensure a smooth process ❤️ Here if you need anything or have any questions!", "who": "Stephski", "date": "2026-10-15"}
+      ]
+    },
+    {
+      "what": "Confirm receipt of the Sept 1-14 and Sept 15-30 payments in chat.",
+      "who": "Stephski",
+      "status": "overdue",
+      "due": "2026-09-22",
+      "days_outstanding": 24,
+      "evidence": [
+        {"quote": "Hey, thankyou! Will get this paid today :)", "who": "Sarah Lloyd", "date": "2026-09-16"},
+        {"quote": "Paid! Thanks", "who": "Sarah Lloyd", "date": "2026-10-02"}
+      ]
+    },
+    {
+      "what": "OWNER-LEVEL: rotate every credential posted in chat (FB 07-29, Snapchat 09-11, FB screenshot 09-17), verify 2FA, audit membership and deleted export ids, and set a no-passwords-in-group-chat rule. The published-report redaction part is DONE (0 scan hits as of 10-16).",
+      "who": "Derrek",
+      "status": "overdue",
+      "due": "2026-07-30",
+      "days_outstanding": 78,
+      "evidence": [
+        {"quote": "Please do not send your backup codes to anyone, including our team. Keep the screenshot somewhere secure that only you can access.", "who": "Mica Vecco", "date": "2026-09-17"}
+      ]
+    },
+    {
+      "what": "Role-based (non-password) Snapchat access route.",
+      "who": "Mayson",
+      "status": "overdue",
+      "due": "2026-09-11",
+      "days_outstanding": 35,
+      "evidence": [
+        {"quote": "Okay great, just asked the team tho so will let you know", "who": "Mayson Chat", "date": "2026-09-10"}
+      ]
+    },
+    {
+      "what": "Explain what the Facebook account she handed over is for and whether it worked; follow up on the second FB login requested 09-18.",
+      "who": "Mayson",
+      "status": "overdue",
+      "due": "2026-09-18",
+      "days_outstanding": 28,
+      "evidence": [
+        {"quote": "One not connected to instagram", "who": "Mayson Chat", "date": "2026-09-16"}
+      ]
+    },
+    {
+      "what": "Rewrite the reels brief around her assistant constraint.",
+      "who": "Mayson",
+      "status": "overdue",
+      "due": "2026-09-06",
+      "days_outstanding": 40,
+      "evidence": [
+        {"quote": "It has to be fresh content. If it's already posted on your main account, it doesn't count we can't use it again.", "who": "Mayson Chat", "date": "2026-08-30"}
+      ]
+    },
+    {
+      "what": "Fix the second Facebook reported down 09-17.",
+      "who": "Vivek",
+      "status": "overdue",
+      "due": "2026-09-17",
+      "days_outstanding": 29,
+      "evidence": [
+        {"quote": "Okay share the details", "who": "Vivek", "date": "2026-09-17"}
+      ]
+    },
+    {
+      "what": "Explain the IG profile-views collapse (20M→4M) and the FB 'post content on time' advice.",
+      "who": "Vivek",
+      "status": "overdue",
+      "due": "2026-08-08",
+      "days_outstanding": 69,
+      "evidence": [
+        {"quote": "Wait i will explain", "who": "Vivek", "date": "2026-08-08"}
+      ]
+    },
+    {
+      "what": "Post the Aug 25 call outcomes in writing.",
+      "who": "Noah",
+      "status": "overdue",
+      "due": "2026-08-25",
+      "days_outstanding": 52,
+      "evidence": [
+        {"quote": "Wanna go over analytics", "who": "Noah Chat", "date": "2026-08-25"}
+      ]
+    },
+    {
+      "what": "Named chatter + daily 9am AEST good-morning + win-back + spend report for the $25k whale.",
+      "who": "Noah",
+      "status": "overdue",
+      "due": "2026-08-20",
+      "days_outstanding": 57,
+      "evidence": [
+        {"quote": "I’ll make sure to monitor him very closely so we can be sure to bring him back!", "who": "Nate (Noah)", "date": "2026-08-20"}
+      ]
+    },
+    {
+      "what": "Answer the three Aug 24 screenshot failures individually.",
+      "who": "Noah",
+      "status": "overdue",
+      "due": "2026-08-24",
+      "days_outstanding": 53,
+      "evidence": [
+        {"quote": "@natehei can we get an explanation on this^", "who": "Mayson Chat", "date": "2026-08-24"}
+      ]
+    },
+    {
+      "what": "Enforce the CB rules and build/report the CB tracking link.",
+      "who": "Noah",
+      "status": "overdue",
+      "due": "2026-08-23",
+      "days_outstanding": 54,
+      "evidence": [
+        {"quote": "Let’s get a tracking link made", "who": "Noah Chat", "date": "2026-08-23"}
+      ]
+    },
+    {
+      "what": "Livestream promo MM and Aug 7/15 livestream results.",
+      "who": "Noah",
+      "status": "overdue",
+      "due": "2026-08-14",
+      "days_outstanding": 63,
+      "evidence": [
+        {"quote": "Hey guys! I’ll do another live tomorrow at 2pm AEST/8pm PST (in 24 hours from now). Could there be a MM sent to promote it? 🙏", "who": "Sarah Lloyd", "date": "2026-08-14"}
+      ]
+    },
+    {
+      "what": "Confirm the MM rewrite shipped and caption variety is holding.",
+      "who": "Noah",
+      "status": "pending",
+      "due": "2026-08-13",
+      "days_outstanding": 64,
+      "evidence": [
+        {"quote": "No Sarah, nothing has changed chat wise. I am having the team rewrite the mass messages today/tomorrow. Should see some movement coming soon!🫶", "who": "Nate (Noah)", "date": "2026-08-13"}
+      ]
+    },
+    {
+      "what": "Prevent customs being pulled into the PPV/MM queue.",
+      "who": "Ronnie",
+      "status": "pending",
+      "due": "2026-08-10",
+      "days_outstanding": 67,
+      "evidence": [
+        {"quote": "I have spoken with the team and will make sure this doesn't happen again", "who": "Ronnie Chat", "date": "2026-08-10"}
+      ]
+    },
+    {
+      "what": "Chargebacks: numbers, affected subs, comp authority.",
+      "who": "Derrek",
+      "status": "overdue",
+      "due": "2026-08-19",
+      "days_outstanding": 58,
+      "evidence": [
+        {"quote": "Looking into this now", "who": "Derrek", "date": "2026-08-19"}
+      ]
+    },
+    {
+      "what": "Phone Farm / IG backup-account updates and the 08-01 Meta-rep cost-split offer.",
+      "who": "Derrek",
+      "status": "overdue",
+      "due": "2026-08-08",
+      "days_outstanding": 69,
+      "evidence": [
+        {"quote": "Majority of issues will be covered in house, and any that will need a higher up rep, we will split that cost with you, if it’s something you want!", "who": "Derrek", "date": "2026-08-01"}
+      ]
+    },
+    {
+      "what": "Answer the sexting-set consistency request (one set, one outfit per session).",
+      "who": "Sarah Lloyd chat team",
+      "status": "overdue",
+      "due": "2026-06-14",
+      "days_outstanding": 124,
+      "evidence": [
+        {"quote": "yeah, mistake on chatters part, I labelled how they should be created", "who": "Vladan | Chat Manager", "date": "2026-06-13"}
+      ]
+    },
+    {
+      "what": "CLIENT-SIDE: upload fresh never-posted reels (7/week) and more Snapchat photos. Not delivered; latest prompt was Mica's reel inspo 10-15.",
+      "who": "Sarah Lloyd (client-side deliverable)",
+      "status": "overdue",
+      "due": "2026-09-06",
+      "days_outstanding": 40,
+      "evidence": [
+        {"quote": "Please upload all the content you have that hasn't been posted yet, then keep it topped up with 7 reels a week so 30 in total per month", "who": "Mayson Chat", "date": "2026-08-30"},
+        {"quote": "Can you upload some more content on here", "who": "Mayson Chat", "date": "2026-10-07"}
+      ]
+    }
+  ],
+  "payments": [
+    {
+      "note": "OCT 1-14: Stephski sent a pre-invoice nudge on 10-13 (withdraw OF funds early 'to avoid any delays') and issued the invoice as a PDF on 10-15 13:43, due ~10-22. There was no client response by window close (~19h), unlike the 41-second audit on 10-01. The chat does not show whether the $100/week OFTV credit is included. The 'invoicing information at the bottom of the PDF' line may mean changed bank details; given three earlier rail changes and two bounces, confirm explicitly.",
+      "period": "2026-10-01 to 2026-10-14",
+      "issued": "2026-10-15",
+      "due": "2026-10-22",
+      "late": false,
+      "receipt_verified": false,
+      "status": "issued, unpaid (not yet due)",
+      "evidence": [
+        {"quote": "hi love! just writing to inform you that your next invoice will be sent out in 2 days. today is a great day to withdrawl your funds from OF to avoid any delays ❤️", "who": "Stephski", "date": "2026-10-13"},
+        {"quote": "Happy thursday! Here is your invoice for October 1st-14th. Please use the invoicing information at the bottom of the PDF to ensure a smooth process ❤️ Here if you need anything or have any questions!", "who": "Stephski", "date": "2026-10-15"}
+      ]
+    },
+    {
+      "note": "SEPT 15-30: paid per client on 10-02, 4 minutes after the corrected invoice and 6 days early. Still no 'Received!' as of 10-16.",
+      "period": "2026-09-15 to 2026-09-30",
+      "paid": "2026-10-02",
+      "late": false,
+      "receipt_verified": false,
+      "evidence": [
+        {"quote": "Paid! Thanks", "who": "Sarah Lloyd", "date": "2026-10-02"}
+      ]
+    },
+    {
+      "note": "SEPT 1-14: due ~09-22. The client said she would pay on 09-16. No 'Received!' or bounce report has been posted (24 days past due on paper). No outstanding balance was raised on either later invoice, so it was probably received, but this is unverified.",
+      "period": "2026-09-01 to 2026-09-14",
+      "due": "2026-09-22",
+      "late": null,
+      "receipt_verified": false,
+      "evidence": [
+        {"quote": "Hey, thankyou! Will get this paid today :)", "who": "Sarah Lloyd", "date": "2026-09-16"}
+      ]
+    },
+    {
+      "note": "Pattern: the client has caused no late payment in 13 cycles. Both late payments (June 9-14, Aug 1-14) were agency-caused by bank changes and bounces. Risk sits on the agency side: invoice accuracy (OFTV credit omitted 07-15 and 10-01, fee % July/Aug) and no receipt confirmation since 2026-08-26. Watch the Oct 1-14 payment: an instant, question-free payment would repeat the 10-02 churn tell. A third OFTV omission would be the third client-caught billing error since July."
+    }
+  ],
+  "client_priorities": [
+    "Link-in-bio and account safety: domain restored behind protected routing (10-11). Branding control over the link page (photo, SFW image, matching photos, X handle, YouTube). IG highlights banned 10-09; second Facebook down since 09-17.",
+    "Accurate invoices on agreed terms: 30% fee and the $100/week OFTV editor credit applied automatically, with receipt confirmed each cycle.",
+    "Whale/top-spender protection: no BG to the top spender, daily 9am AEST good-morning, real recovery. She has been silent on this for 52 days, which does not mean it is resolved.",
+    "Real conversation with subs before selling; chargeback avoidance by making unhappy high spenders whole.",
+    "Chaturbate funnel rules: no live-sexting CB subs while she is on air; 'CB' = free pic.",
+    "DMCA/leak takedowns with a weekly report.",
+    "One sexting set per session; customs and pre-Oct-2025 content never sent as PPV/MM; MM caption variety.",
+    "Briefs she can execute given her full-time assistant already posts her content. Quick, direct asks; she is travelling (Italy as of 10-05)."
+  ],
+  "suggestions": [
+    "Mayson + Vivek: answer the highlights ban in writing this week: what triggered it, whether an appeal is possible, and whether the new domain is safe to put in highlights again. It is the only half of her 10-09 chase still open.",
+    "Melissa: follow up the 10-09 earnings report with a short written read: top 3 numbers, what changed, and the $25k whale's spend. She did not react to the PDF. A written answer to the August 'no whales being built' complaint is the strongest available churn counter.",
+    "Melissa/Michelle: post the missed 10-09 DMCA leak report and confirm the weekly cadence continues alongside the biweekly earnings report.",
+    "Derrek/Noah: send one personal (non-broadcast) message after 52 days of silence. Give written status on the whale, the 08-24 chat-quality verdict, chargebacks and the CB tracking link.",
+    "Stephski: in one message, post 'Received!' for Sept 1-14 and Sept 15-30, state in text that the Oct 1-14 invoice includes the -$200 OFTV credit, and say explicitly whether the bank details at the bottom of the PDF changed.",
+    "Mayson: post the 10-05 call recap (5 lines: agreed actions, owner, date).",
+    "Derrek: published reports are now clean (0 scan hits); finish the job by rotating the FB/Snapchat credentials from 07-29 and 09-11 and confirming 2FA.",
+    "Mica/Mayson: pause reel-inspo chases until the brief is rewritten around her assistant; offer to coordinate with the assistant directly."
+  ],
+  "wins": [
+    "Link-in-bio fixed 10-11: her domain is back behind ALTR's protected routing, with a holding reply on 10-09 instead of silence. Her reply: 'Amazing thankyou!'.",
+    "Every follow-up request (profile photo, X handle, YouTube, SFW photo, matching photos) was completed within about 14h; the last took 2 minutes.",
+    "First written earnings and performance report delivered (10-09, two-week cadence).",
+    "Her reel is going out across a 23-account repost network on 10-18.",
+    "Pre-invoice heads-up (10-13) before the Oct 1-14 invoice (10-15). Billing was only 3 of 16 team messages.",
+    "Third straight window with no credentials posted. The plaintext secrets in earlier published reports have now been redacted (0 scan hits)."
+  ],
+  "week_stats": {
+    "messages": 31,
+    "client_messages": 15,
+    "team_messages": 16,
+    "client_asks": 5,
+    "service_events": 0,
+    "asks_trend": "2 (09-11) → 4 (09-18) → 0 (09-25) → 1 (10-02 half) → 4 (10-09 half) → 5 (10-16)",
+    "note": "Window 2026-10-09T09:05:57-04:00 → 2026-10-16T09:06:40-04:00, ids 1027-1058, missing id 1030 (between 10-09 17:49 and 10-11 19:08). Sarah Lloyd 15 (6 of them photos). Team 16: Mayson Chat 8, Melissa Userfacing 4, Stephski 3 (all billing), Mica Vecco 1. Billing = 3/16. Client asks: put the domain straight in bio, change the link-page photo (incl. SFW option), swap X handle, add YouTube, match the other photos. Her 10-09 05:48 chase falls just before the window. Client last message 10-12 17:49, then silent for 3.6 days through the 10-13 invoice nudge, the 10-15 repost notice, reel inspo and invoice. Not present: Derrek, Noah, Ronnie (last 08-25/26), Vivek (09-17), Michelle (09-10), the vendor 'Sarah Lloyd chat team' (06-15), and the new Jeremy Tarr / Spencer P (not in this chat). No unknown senders."
+  }
+}

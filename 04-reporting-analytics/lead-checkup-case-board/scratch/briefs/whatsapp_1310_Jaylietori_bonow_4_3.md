@@ -1,0 +1,311 @@
+# Jaylietori_bonow 4.3  [whatsapp #1310 GROUP]
+msgs=379 (in=330 out=49) window=2026-06-10..2026-07-12
+last_client=2026-07-12 (68d ago), last_derrek=2026-07-11 (69d ago)
+LAST MESSAGE FROM CLIENT — UNANSWERED: 'The way you speak to clients is part of the reason I am reluctant to use your services again'
+
+  ...
+[2026-06-10 05:41] 3702328922295@lid: {"show_membership_string":true,"parent_group_jid":null,"is_open_group":true,"is_hidden_sub_group":false,"reason":0,"is_initially_empty":false,"auto_add_disabled":true,"should_use_identity_header":true,"parent_group_name":null,"context_group":null,"author":"370…
+[2026-06-10 05:41] 120363410921120748@g.us: 3702328922295@lid
+[2026-06-10 05:42] 3702328922295@lid: Hey @197405874085999 Jaylie is having IG problems so I’d thought I’d put you guys in contact!!
+[2026-06-10 05:47] 36631893516506@lid: Thanks Sarah!
+[2026-06-10 05:47] DEREK: Hi!!
+[2026-06-10 05:47] DEREK: Great to meet you!
+[2026-06-10 05:47] 36631893516506@lid: Hey @197405874085999 I’m needing to get 3 Insta accounts back. Wondering how much it will cost for an asap service
+[2026-06-10 05:48] 197405874085999@lid: Hey Jaylie
+[2026-06-10 05:48] 197405874085999@lid: Please send screenshot of login
+[2026-06-10 05:48] 36631893516506@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363410921120748@g.us/1/a/1a603dde-644a-4e5e-8045-d6ff7218c32c.jpg>
+[2026-06-10 05:48] 36631893516506@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363410921120748@g.us/1/c/1c8c55e8-1467-4308-90f6-7cd4314785ed.jpg>
+[2026-06-10 05:48] 36631893516506@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363410921120748@g.us/1/3/13427893-c779-400d-ae82-f20266c04676.jpg>
+[2026-06-10 05:49] 36631893516506@lid: Is that ok?
+  ...
+[2026-06-10 05:49] 197405874085999@lid: How many followers on each
+[2026-06-10 05:50] 36631893516506@lid: 480k 380k 199k
+[2026-06-10 05:50] 197405874085999@lid: Okay
+[2026-06-10 05:50] 36631893516506@lid: 480k is the one that got them all taken i believe
+[2026-06-10 05:51] 197405874085999@lid: I see
+[2026-06-10 05:51] 197405874085999@lid: Will get back to you with quote
+[2026-06-10 05:51] 36631893516506@lid: Okay thanks What’s the turnaround ?
+  ...
+[2026-06-10 05:51] 36631893516506@lid: Ok
+[2026-06-11 01:58] 36631893516506@lid: Hey just wondering when I’ll get that quote, I’ve got a quote from someone else so just want to see what you can offer
+[2026-06-11 01:59] 197405874085999@lid: About 12k
+[2026-06-11 01:59] 197405874085999@lid: For all3
+  ...
+[2026-06-11 02:03] 197405874085999@lid: Yes
+[2026-06-11 02:04] 36631893516506@lid: Ok thanks the other quote is much cheaper so will go with them. I appreciate your time.
+[2026-06-11 02:07] 197405874085999@lid: Okay no worries
+  ...
+[2026-06-11 02:08] 197405874085999@lid: Reps don’t take 7 days
+[2026-06-11 18:31] DEREK: yes this is someone just trying to get perm bans back through meta support. if it fails it makes the cases harder and sometimes more expensive because the reps can get in trouble for bringing back failed cases
+[2026-06-17 07:27] 36631893516506@lid: How much for 1 account
+[2026-06-17 07:56] 197405874085999@lid: perm disabled?
+[2026-06-17 08:08] 36631893516506@lid: Yep
+  ...
+[2026-06-17 08:12] 197405874085999@lid: k?
+[2026-06-17 08:12] 197405874085999@lid: 4.5k
+[2026-06-17 08:13] 36631893516506@lid: If you can do 4K I’ll do it now
+[2026-06-17 08:15] 197405874085999@lid: my cost via rep is 4k
+[2026-06-17 08:15] 197405874085999@lid: i can do 4300
+[2026-06-17 08:15] 36631893516506@lid: Ok done
+[2026-06-17 08:15] 197405874085999@lid: just because youre sarahs homie
+[2026-06-17 08:15] 197405874085999@lid: ok can u do crypto
+[2026-06-17 08:15] 36631893516506@lid: Thanks mate Yep can do
+  ...
+[2026-06-17 08:16] 197405874085999@lid: 0x1Ff3e577eb4010cbB5113Cf957C219a1B6Ff19F2
+[2026-06-17 08:16] 197405874085999@lid: USDT eth
+[2026-06-17 08:16] 197405874085999@lid: I will let you know when i submit
+[2026-06-17 08:18] 36631893516506@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363410921120748@g.us/7/c/7ccb21c6-df08-4f66-bfe8-c908f3d47f5e.jpg>
+[2026-06-17 08:18] 36631893516506@lid: I need these details
+  ...
+[2026-06-17 08:19] 197405874085999@lid: 55 NE 5th st, Miami Florida -33132 apt 4117
+[2026-06-17 08:23] 36631893516506@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363410921120748@g.us/4/8/48c2f654-e4b9-4548-b541-5d98c2846bde.jpg>
+[2026-06-17 08:24] 36631893516506@lid: I need these
+[2026-06-17 08:24] 197405874085999@lid: are u sending wire
+[2026-06-17 08:25] 197405874085999@lid: i dont have a bank love
+  ...
+[2026-06-17 08:25] DEREK: Kk
+[2026-06-17 08:28] DEREK: Derrek Brown 145 NE 49th St Miami, FL, 33137 J.P. Morgan Chase Account Number: 367161830 Wire Routing: 021000021 Swift Code: CHASUS33XXX
+[2026-06-17 08:29] 36631893516506@lid: It’s through Paxum
+[2026-06-17 08:30] 36631893516506@lid: Ok onto it
+[2026-06-19 00:06] 36631893516506@lid: Hey I’ve been trying to work out how to do the crypto Can I do PAYID
+[2026-06-19 00:06] 197405874085999@lid: @65300816998597
+[2026-06-19 05:43] DEREK: I sent you wire instructions. But if you prefer to pay crypto, just let me know which wallet you need
+[2026-06-19 05:44] 36631893516506@lid: I can’t pay via crypto Can I bank transfer
+[2026-06-19 05:49] 197405874085999@lid: heres all the Details
+  ...
+[2026-06-19 05:53] 197405874085999@lid: they are
+[2026-06-19 05:59] 36631893516506@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363410921120748@g.us/b/9/b902d9a8-dd6a-4b1a-8235-b28a371b88da.jpg>
+[2026-06-19 05:59] 36631893516506@lid: Done
+[2026-06-19 06:18] 197405874085999@lid: Send me the link of the account
+[2026-06-19 06:18] 197405874085999@lid: And screenshot of it disabled
+[2026-06-19 06:19] 197405874085999@lid: And a picture of your ID
+[2026-06-19 06:19] 197405874085999@lid: And a picture of you holding your Id
+[2026-06-19 06:19] 197405874085999@lid: And any email you received
+[2026-06-19 06:19] 36631893516506@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363410921120748@g.us/1/2/1223c0bf-d323-4c65-969b-eb80979d9a9e.jpg>
+[2026-06-19 06:20] 36631893516506@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363410921120748@g.us/b/6/b63340e2-1aff-4dfe-9885-3563efee315d.jpg>
+[2026-06-19 06:20] 36631893516506@lid: 
+      <IMG MISSING non-image: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363410921120748@g.us/0/8/08aee31c-03aa-4ebe-b9d1-b9551050aa64.mp4>
+[2026-06-19 06:20] 197405874085999@lid: Email attached to the account
+  ...
+[2026-06-19 06:29] 197405874085999@lid: did u recieve an email earlier
+[2026-06-19 06:29] 197405874085999@lid: about it being suspende
+[2026-06-19 06:31] 36631893516506@lid: No email for some reason
+  ...
+[2026-06-24 02:40] 197405874085999@lid: Not the second you pag
+[2026-06-24 02:40] 197405874085999@lid: Pay
+[2026-06-24 02:41] 197405874085999@lid: Reps are a scarce rn but we were able to submit
+[2026-06-24 02:41] 197405874085999@lid: Plus the wire you sent to Derrek has not even landed yet. So i used my personal funds to submit this
+[2026-06-24 05:29] DEREK: Hi, it landed today
+[2026-06-24 10:08] 36631893516506@lid: What does that mean?
+[2026-06-24 18:48] DEREK: The wire landed yesterday and we started the process. Unfortunately we can’t do anything unail the wire is received
+[2026-06-24 18:49] 36631893516506@lid: Ok
+[2026-06-26 10:54] 36631893516506@lid: Any updates ?
+[2026-06-28 11:11] 36631893516506@lid: ???
+[2026-06-28 16:17] 197405874085999@lid: Hey
+[2026-06-28 16:17] 197405874085999@lid: Sorry
+[2026-06-28 16:17] 197405874085999@lid: Update tom
+[2026-06-29 03:10] 36631893516506@lid: It’s been more than a week. What’s going on
+[2026-06-29 03:10] 197405874085999@lid: Hey
+[2026-06-29 03:10] 197405874085999@lid: Perm cases are all submitted
+[2026-06-29 03:10] 197405874085999@lid: Reps don’t work on weekends
+  ...
+[2026-06-29 03:11] 36631893516506@lid: Ok
+[2026-06-30 05:29] 36631893516506@lid: Update ?
+[2026-06-30 16:35] 197405874085999@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363410921120748@g.us/8/9/89df56ca-a899-4543-b97d-2e409065c9cc.jpg>
+[2026-06-30 16:36] 197405874085999@lid: Awaiting
+[2026-06-30 16:44] 197405874085999@lid: @36631893516506
+[2026-06-30 16:44] 197405874085999@lid: Could u send me a screenshot of email u received
+[2026-06-30 17:18] 36631893516506@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363410921120748@g.us/2/b/2b597c2a-c5b1-41ed-a346-8d93af42e4fb.jpg>
+[2026-06-30 17:18] 36631893516506@lid: This is the only one I have received
+[2026-06-30 17:35] 197405874085999@lid: Nothing before
+[2026-06-30 17:35] 197405874085999@lid: When u got suspended
+[2026-06-30 17:35] 36631893516506@lid: No, nothing
+  ...
+[2026-07-01 03:18] 36631893516506@lid: Ok I understand but you did say 0-3 days
+[2026-07-01 04:24] DEREK: Yes, if it’s not done within three days, you’re welcome to have your money back. It’s been past that if you wanna go ahead and try elsewhere, you may.
+[2026-07-01 04:24] DEREK: I do not work at Meta, this is not a stable industry or service and hasn’t been for the last 10 years
+[2026-07-01 04:25] DEREK: Your account was permanently banned, and you’re trying to get it back by paying rep under the table because there is no other way, unfortunately. And sometimes with services like that, it takes longer than usual and we cannot control that.
+[2026-07-01 04:25] DEREK: All we can do is update you as much as as possible when we are notified
+[2026-07-01 04:26] DEREK: Our apologies, though on the timing.
+  ...
+[2026-07-01 08:12] 36631893516506@lid: I’m happy to wait
+[2026-07-02 04:17] 36631893516506@lid: Please keep me updated
+[2026-07-02 04:37] 197405874085999@lid: Jaylie
+  ...
+[2026-07-02 04:58] 36631893516506@lid: Thanks
+[2026-07-04 08:19] 36631893516506@lid: Any updates?
+[2026-07-04 08:19] 36631893516506@lid: Can we try one of my other accounts ?
+  ...
+[2026-07-04 22:39] 197405874085999@lid: Send screenshot of login please
+[2026-07-04 22:39] 197405874085999@lid: And the email you received
+[2026-07-04 22:40] 36631893516506@lid: I haven’t received an email for any of these accounts for some reason
+[2026-07-04 22:40] 36631893516506@lid: I don’t know why
+[2026-07-04 22:40] 36631893516506@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363410921120748@g.us/5/8/581ac000-58d1-4725-9fde-fd7565be17ab.jpg>
+[2026-07-04 22:41] 197405874085999@lid: Email
+[2026-07-04 22:41] 197405874085999@lid: You received
+[2026-07-04 22:41] 36631893516506@lid: Please read previous message
+  ...
+[2026-07-04 23:57] 36631893516506@lid: I’m not an idiot
+[2026-07-07 10:28] 36631893516506@lid: Any updates?? It’s been weeks
+[2026-07-07 10:32] 36631893516506@lid: These are the only other emails I can find but they relate to Facebook. My Facebook account was taken down at the same time but I have got that back the next day.
+[2026-07-07 10:32] 36631893516506@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363410921120748@g.us/1/1/11c1099b-86fe-4d6b-b755-5c184bd146f4.jpg>
+[2026-07-07 10:32] 36631893516506@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363410921120748@g.us/0/9/09b752d3-dbce-4c8c-8fd2-b693c2cffd3e.jpg>
+[2026-07-07 18:50] 197405874085999@lid: I can fix
+  ...
+[2026-07-09 11:35] 197405874085999@lid: Send login
+[2026-07-09 11:35] 36631893516506@lid: I’ve sent you my log in
+[2026-07-09 11:35] 197405874085999@lid: For fb
+  ...
+[2026-07-09 11:36] 197405874085999@lid: Okay
+[2026-07-09 11:36] 197405874085999@lid: U can pay after for the second
+[2026-07-09 11:36] 36631893516506@lid: It’s getting abit ridiculous now
+[2026-07-09 11:36] 36631893516506@lid: Nah I’m not paying again but thanks
+[2026-07-09 11:36] 197405874085999@lid: Hey it’s not us
+  ...
+[2026-07-09 11:38] 36631893516506@lid: The first one
+[2026-07-09 11:38] 197405874085999@lid: Im happy to refund
+[2026-07-09 11:38] 197405874085999@lid: If u feel that way
+[2026-07-09 11:38] 36631893516506@lid: No, I want my account back that’s why I paid you
+[2026-07-09 11:38] 36631893516506@lid: I’ve waited so long
+[2026-07-09 11:38] 197405874085999@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363410921120748@g.us/d/f/df62c0a2-e973-40a1-8bb2-f1de39e191f4.jpg>
+[2026-07-09 11:38] 197405874085999@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363410921120748@g.us/f/f/ff000347-d9ff-4805-bc33-734f6ab481c3.jpg>
+[2026-07-09 11:38] 197405874085999@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363410921120748@g.us/d/8/d89a8550-273a-4b06-aba1-a23d9a1a2091.jpg>
+[2026-07-09 11:38] 197405874085999@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363410921120748@g.us/5/8/5840dcbe-c9d9-452c-b3c6-8ccd77ddf765.jpg>
+[2026-07-09 11:38] 197405874085999@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363410921120748@g.us/a/6/a6ab20e0-ac63-466b-b771-637111eaf5b6.jpg>
+[2026-07-09 11:38] 197405874085999@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363410921120748@g.us/8/0/80218351-dddf-4c09-bc98-9b897b462dc6.jpg>
+[2026-07-09 11:39] 197405874085999@lid: We don’t control which kind of bans are being recovered that day
+[2026-07-09 11:39] 197405874085999@lid: Sometimes it’s integrity
+  ...
+[2026-07-09 11:39] 197405874085999@lid: Copyright
+[2026-07-09 11:39] 197405874085999@lid: Fraud and dedeption
+[2026-07-09 11:39] 36631893516506@lid: It’s almost been a month
+  ...
+[2026-07-09 11:41] 197405874085999@lid: For Ig
+[2026-07-09 11:41] 197405874085999@lid: Since u never received anything email
+[2026-07-09 11:41] 36631893516506@lid: Jaylietori_bonow B1illabong
+[2026-07-09 11:41] 197405874085999@lid: No need of password
+[2026-07-09 11:41] 36631893516506@lid: Iv already sent you this information
+[2026-07-09 11:42] 197405874085999@lid: Ok you sent it to me for multiple accounts
+[2026-07-09 11:42] 197405874085999@lid: Can u just give what im asking so i dont mix the two
+  ...
+[2026-07-09 12:21] 197405874085999@lid: how about you
+[2026-07-09 12:21] 197405874085999@lid: your account was submitted tho
+[2026-07-10 00:42] 197405874085999@lid: Jaylietori_bonow 4.3
+[2026-07-10 15:32] DEREK: Hi, what was the date that it got banned?
+[2026-07-10 15:33] DEREK: It’s the last thing we need
+  ...
+[2026-07-10 23:49] 36631893516506@lid: ?
+[2026-07-10 23:49] DEREK: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363410921120748@g.us/3/0/30c995b1-381c-4774-b0ef-29aceccab397.jpg>
+[2026-07-10 23:49] DEREK: Back
+  ...
+[2026-07-10 23:51] 36631893516506@lid: How do I do that
+[2026-07-11 01:05] DEREK: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363410921120748@g.us/2/8/285b2e49-524c-49a9-871e-94a768cac106.jpg>
+[2026-07-11 01:05] DEREK: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363410921120748@g.us/5/5/55fd843e-96a6-45f8-8cb5-b6f04026c1f0.jpg>
+[2026-07-11 17:50] 36631893516506@lid: How much to get another 2 accounts back on the same ban. They are connected to the same meta account
+[2026-07-11 17:58] DEREK: If they didn’t come back automatically, it would have to be separate unbans we can get them back immediately though.
+[2026-07-11 17:58] DEREK: We can do it for our cost for u on the other two because of the wait previously
+[2026-07-11 17:58] DEREK: But it’s 4k
+[2026-07-11 17:58] 36631893516506@lid: 4k per account?
+[2026-07-11 17:58] DEREK: yeah, unfortunately that’s what they charge us. We weren’t making much on yours.
+[2026-07-11 17:59] DEREK: The other two have been appealed, right?
+[2026-07-11 18:00] 36631893516506@lid: I didn’t get an option to appeal
+[2026-07-11 18:01] 36631893516506@lid: Was my other account done through portal?
+[2026-07-11 18:15] DEREK: No instant
+[2026-07-11 18:15] DEREK: Rep unban
+[2026-07-11 18:15] DEREK: It failed through portal
+  ...
+[2026-07-11 18:16] 36631893516506@lid: Ok
+[2026-07-11 18:59] DEREK: Hi, we can actually do 3.2 K right now. We just got a better price from a rep.
+[2026-07-11 19:04] 36631893516506@lid: Ok I did just get a price for 2.8k each account Can you match that?
+[2026-07-11 19:13] DEREK: Lemme ask if he can do lower
+  ...
+[2026-07-11 19:14] DEREK: Hahah rep made me screenshot it. He didn’t believe me, but yes, we can do it.
+[2026-07-11 19:14] 36631893516506@lid: So 2.8k per account?
+[2026-07-11 19:14] DEREK: Get me the @ Email Follower amount SS of ban reason when you login
+[2026-07-11 19:14] DEREK: $2750
+[2026-07-11 19:14] 36631893516506@lid: Ok thanks
+[2026-07-11 19:15] DEREK: For the sake of beating the price
+[2026-07-11 19:15] 36631893516506@lid: Awesome I like that
+[2026-07-11 19:15] 36631893516506@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363410921120748@g.us/e/0/e04ac9f3-255a-4271-bd45-8aa472d8b41e.jpg>
+[2026-07-11 19:15] 36631893516506@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363410921120748@g.us/4/f/4fa0a4ad-820b-436b-a9b1-22d5a5d991e8.jpg>
+[2026-07-11 19:16] 36631893516506@lid: Both on same meta accounts Email for both: jayliebonow@hotmail.com Jaylie_tori_bonow B1illabong.12345 Jaylietori B1illabong
+[2026-07-11 19:17] 36631893516506@lid: No email sent for either from meta or IG with account ban. Same as last account. Both accounts were taken down on my meta account with my FB. I got my FB back but not the IG’s
+[2026-07-11 19:35] DEREK: Hey, I thought these were the same reason as the other ones these are community guidelines. My cost is higher than what the other person said they were charging you.
+[2026-07-11 19:35] DEREK: Double check that price isn’t for integrity unbans because usually everyone’s prices are the same, and I checked with like five reps
+[2026-07-11 19:36] 36631893516506@lid: It’s the same ban as the last account done
+[2026-07-11 19:36] DEREK: The last one was inTegrity
+  ...
+[2026-07-11 20:34] 36631893516506@lid: How much are you charging Just so I know
+[2026-07-11 22:32] DEREK: 4k is the lowest we can do for community guidelines
+[2026-07-11 23:09] 36631893516506@lid: I deactivated like you said and got this
+[2026-07-11 23:10] 36631893516506@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363410921120748@g.us/4/7/47c59299-2645-4762-a6c6-971c84628996.jpg>
+[2026-07-11 23:10] 36631893516506@lid: What should I do
+[2026-07-11 23:13] 197405874085999@lid: dont appeal
+[2026-07-11 23:13] 197405874085999@lid: send login
+  ...
+[2026-07-11 23:14] 36631893516506@lid: Jaylietori_bonow B1illabong
+[2026-07-11 23:42] DEREK: Post-Unban Recovery Protocol Account Stabilization & Cooldown Guidelines ⸻ Immediate Login Hygiene (Before First Login) 1. Change IP Address Use a clean IP never associated with the account Recommended: Mobile data / fresh hotspot Avoid: Any previously used Wi…
+[2026-07-11 23:42] DEREK: Once he gets it back
+  ...
+[2026-07-12 19:05] 197405874085999@lid: And a selfie of you
+[2026-07-12 19:06] 36631893516506@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363410921120748@g.us/a/f/af217c89-93d3-441c-b27b-b2d71545c942.jpg>
+[2026-07-12 19:06] 36631893516506@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363410921120748@g.us/0/8/0805ddfc-cd51-475c-9f3d-d1ce46fe176e.jpg>
+[2026-07-12 19:06] 36631893516506@lid: Is this ok
+  ...
+[2026-07-12 19:11] 197405874085999@lid: dont worry about it
+[2026-07-12 19:11] 197405874085999@lid: youre back
+[2026-07-12 19:11] 36631893516506@lid: I want to know It’s my account
+[2026-07-12 19:11] 197405874085999@lid: it my business
+[2026-07-12 19:11] 197405874085999@lid: i dont tell how i revocer
+[2026-07-12 19:12] 197405874085999@lid: youre back
+[2026-07-12 19:12] 197405874085999@lid: thanks
+[2026-07-12 19:12] 36631893516506@lid: I’m not asking that information. I’m asking what was wrong with the account I don’t know why you’re constantly rude to me
+[2026-07-12 19:12] 197405874085999@lid: im not rude
+[2026-07-12 19:12] 197405874085999@lid: you were suspended
+[2026-07-12 19:12] 36631893516506@lid: For what
+[2026-07-12 19:12] 197405874085999@lid: like any of my other clients
+[2026-07-12 19:12] 197405874085999@lid: i have my tools i use to recover
+[2026-07-12 19:13] 36631893516506@lid: That’s fine. But that’s not what I’m asking
+[2026-07-12 19:13] 197405874085999@lid: im not going to tell you how i do things
+[2026-07-12 19:13] 36631893516506@lid: For the third time, that is not what I’m asking
+[2026-07-12 19:13] 36631893516506@lid: I ask what was wrong with my account
+[2026-07-12 19:13] 197405874085999@lid: ip ban
+[2026-07-12 19:13] 36631893516506@lid: What was I suspended for
+[2026-07-12 19:13] 197405874085999@lid: you didnt follow the protocol we sent u
+[2026-07-12 19:14] 36631893516506@lid: I did, I deactivated straight away
+[2026-07-12 19:16] 197405874085999@lid: how does a deactivated account get suspended
+[2026-07-12 19:17] 197405874085999@lid: im not gonna argue
+[2026-07-12 19:17] 197405874085999@lid: @65300816998597
+[2026-07-12 19:17] 36631893516506@lid: How should I know??? This is your line of work I deactivated as soon as you told me too
+[2026-07-12 19:17] 197405874085999@lid: im done hyere
+[2026-07-12 19:17] 36631893516506@lid: Thank god. Cya
+[2026-07-12 19:17] 197405874085999@lid: deactivated accounts dont get suspended
+[2026-07-12 19:18] 36631893516506@lid: Well I can promise you they do, because that’s exactly what happened. Why would I have any reason to lie??
+[2026-07-12 19:18] 36631893516506@lid: The way you speak to clients is part of the reason I am reluctant to use your services again

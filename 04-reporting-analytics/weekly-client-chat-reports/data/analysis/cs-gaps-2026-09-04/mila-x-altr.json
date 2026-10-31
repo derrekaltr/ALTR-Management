@@ -1,0 +1,121 @@
+{
+  "client": "Mila",
+  "slug": "mila-x-altr",
+  "status": "at_risk",
+  "status_reason": "She has never complained, has paid every invoice ever issued, and replies within two minutes when anyone speaks to her — but her single biggest issue, the Instagram suspension she raised on 6/23, has gone 73 days without one word of reply from anyone, her weekly message volume has collapsed from 9-10 in June to 0-2 now, and the only reliable outbound she receives is invoices and requests for more content. This is the quiet, unattended profile that leaves without ever raising a complaint.",
+  "last_client_message": "2026-09-01",
+  "dimensions": {
+    "responsiveness": {
+      "severity": 3,
+      "internal_failure": "The most important message she has ever sent — telling us her account was suspended again and asking what happens now, having followed our instruction not to appeal — has never been answered by anyone in 73 days. When she re-opened it herself on 8/31, saying her main account is still gone, the reply was two words and an emoji, and it was not routed to anyone.",
+      "evidence": [
+        {"quote": "Hey guys my accounts been suspended again, I haven’t clicked appeal this time as you said not to, so what happens now x", "who": "Callie (Mila)", "date": "2026-06-23"},
+        {"quote": "Hiya, yeah I’m using my back up account atm while I wait to get my bigger account back but I aim to post 3x a day:) xx", "who": "Callie (Mila)", "date": "2026-08-31"},
+        {"quote": "amazing! 🤍", "who": "Mica Vecco", "date": "2026-08-31"}
+      ]
+    },
+    "follow_through": {
+      "severity": 3,
+      "internal_failure": "Nine promises have lapsed. 'Will update you shortly!' on her possibly-duplicated payment is 24 days old. 'will do babes' on sending her links to what we post for her is 58 days old. We promised the currency conversion would be on the next invoice and then sent the next invoice in USD anyway. The owner promised 'plenty of updates starting next week' on 8/1 and has not posted since. The Meta support rep introduced as her escalation route on 7/29 has never sent a single message.",
+      "evidence": [
+        {"quote": "I believe we got it, waiting for it to finalize processing so I can see sender info but it looks like your total\nWill update you shortly!", "who": "Stephski", "date": "2026-08-11"},
+        {"quote": "We will make sure the exchange is on the next invoice", "who": "Alex Camus", "date": "2026-07-07"},
+        {"quote": "Thank you for your understanding, we will have plenty of updates starting next week.", "who": "Derrek", "date": "2026-08-01"}
+      ]
+    },
+    "proactive_communication": {
+      "severity": 3,
+      "internal_failure": "In 73 days we have never sent her a performance number, a posting report, or an unprompted payment confirmation. Our entire outbound catalogue is invoices, reel-inspo link dumps and asks for more content. She asked explicitly on 7/8 to be kept in the loop with links to what we post for her and has received one page URL in the 58 days since. The longest zero-outbound stretch was 9 days (8/23 to 8/31) and it ended with a template sent verbatim to three clients that evening.",
+      "evidence": [
+        {"quote": "Amazinggg, if you could send me links when you do just so I can be in the loop🫶🏼", "who": "Callie (Mila)", "date": "2026-07-08"},
+        {"quote": "will do babes 🫶🏼", "who": "Michelle Queue", "date": "2026-07-08"},
+        {"quote": "Hi love 💕 just wanted to reiterate how important consistent posting is for increasing social media engagement!", "who": "Mica Vecco", "date": "2026-08-31"}
+      ]
+    },
+    "onboarding_handoff": {
+      "severity": 2,
+      "internal_failure": "Week one went well — the FAQ form was completed on day one, the previous team's disconnect was handled cleanly, and the kickoff call happened on 6/29. What never landed is who owns what: the person who introduced himself as always online for OnlyFans has sent 16 messages in 73 days, one of which was the word 'Yeah' and another a bare domain dropped at 02:53 with no explanation and never mentioned again. The DMCA topic created at setup has never once been used.",
+      "evidence": [
+        {"quote": "My names Mayson, I handle all things OnlyFans so if you've ever got any questions then pleeeeease do not hesitate to ask!!! I'm always online so I will get a response to your promptly... ALWAYS!!!", "who": "Mayson Chat", "date": "2026-06-20"},
+        {"quote": "crystalmila.vip", "who": "Mayson Chat", "date": "2026-08-23"},
+        {"quote": "He is our Meta Support Rep that will help keep your IG accounts up and safe. If you have any restrictions, shadowbans, or bans.... simply @ him in the chat and he will help.", "who": "Derrek", "date": "2026-07-29"}
+      ]
+    },
+    "chatter_conduct": {
+      "severity": 1,
+      "internal_failure": "Nothing has gone wrong on the record, but the risk is entirely unmanaged: her custom pricing was set in one throwaway line on 6/25, never written back to her, never confirmed, and in 73 days not one custom sale, fan interaction or page number has ever been reported to her — so there is no way for either side to know whether her boundaries are being respected.",
+      "evidence": [
+        {"quote": "I’m not too fussy just if they want bare boobs I usually say around 1k but would be happy doing for like £700 but don’t rly have a minimum for anything else just not crazy cheap hahaaa", "who": "Callie (Mila)", "date": "2026-06-25"},
+        {"quote": "Okay got you", "who": "Mayson Chat", "date": "2026-06-25"},
+        {"quote": "If ur ever unsure or have any specific questions just give me a message I’ll get back to you asap x", "who": "Callie (Mila)", "date": "2026-06-25"}
+      ]
+    },
+    "platform_health": {
+      "severity": 3,
+      "internal_failure": "Her suspension was never answered, and the one substantive update she ever received — the 8/1 phone-farm message admitting pages were constantly flagged, shadowbanned or deleted, apologising for the lack of communication and promising updates the following week — has been followed by 34 days of nothing from its author. The named Meta support rep has never written a word in 37 days, including after she directly cued the topic on 8/31. She is still on a backup account 73 days later.",
+      "evidence": [
+        {"quote": "Hey guys my accounts been suspended again, I haven’t clicked appeal this time as you said not to, so what happens now x", "who": "Callie (Mila)", "date": "2026-06-23"},
+        {"quote": "we have had pages constantly flagged, shadowbanned or deleted... My apologies, for any lack of communication.", "who": "Derrek", "date": "2026-08-01"},
+        {"quote": "while I wait to get my bigger account back", "who": "Callie (Mila)", "date": "2026-08-31"}
+      ]
+    },
+    "billing_ops": {
+      "severity": 3,
+      "internal_failure": "Every one of five cycles carried a defect on our side: USD-only invoices to a GBP payer, a due date she had to ask for, a wire we could not locate for six days because a bank fee changed the total, an account number changed on 8/15 after we told her on 7/13 to reuse the old one, a duplicate-payment question 27 days unanswered, and an 8/17 wire still unconfirmed at 18 days. On 9/1 we invoiced her a fourth time on top of two unreconciled cycles, with a work-pause condition attached, to a client who has never once been late by her own doing.",
+      "evidence": [
+        {"quote": "please let me know when you’ve received it and if you could just double check it doesn’t come through twice🙄 thank you! Xx", "who": "Callie (Mila)", "date": "2026-08-08"},
+        {"quote": "So we can just repeat to the same account for this next period of invoicing coming up 🙂", "who": "Stephski", "date": "2026-07-13"},
+        {"quote": "I ask that you please pay within 7 days to avoid any pausing of work 🙏", "who": "Stephski", "date": "2026-09-01"}
+      ]
+    },
+    "ownership_escalation": {
+      "severity": 3,
+      "internal_failure": "Nobody owns this relationship end to end. Her platform problem went to no one; the rep introduced to own exactly that has never spoken; her OnlyFans lead has effectively left the chat; promo last wrote on 8/17. The only two functions reliably present are billing and social-media inspo, neither of whom owns her core issue — so her most significant disclosure in a month died inside a topic thread with an emoji.",
+      "evidence": [
+        {"quote": "simply @ him in the chat and he will help. To start, if you want your accounts setup for Copyright Ban Protection he can assist.", "who": "Derrek", "date": "2026-07-29"},
+        {"quote": "Yeah", "who": "Mayson Chat", "date": "2026-07-10"},
+        {"quote": "amazing! 🤍", "who": "Mica Vecco", "date": "2026-08-31"}
+      ]
+    },
+    "disengagement_detection": {
+      "severity": 3,
+      "internal_failure": "Her weekly message count fell from 9-10 in June to 4, 2, 0 by the week ending 8/28 and nobody named it, asked about it, or changed anything. Her last unprompted contribution — 48 videos uploaded on 8/17 — was answered with a thank-you emoji and then nothing, and in the week she sent zero messages our sole outbound was a bare domain posted at 02:53. The silence was broken by a mass template, not by anyone noticing she had gone.",
+      "evidence": [
+        {"quote": "Have uploaded 48 vids to the drive 🤍", "who": "Callie (Mila)", "date": "2026-08-17"},
+        {"quote": "yayyy perfect babes tyyy 🫶🏼", "who": "Michelle Queue", "date": "2026-08-17"},
+        {"quote": "crystalmila.vip", "who": "Mayson Chat", "date": "2026-08-23"}
+      ]
+    },
+    "security_hygiene": {
+      "severity": 2,
+      "internal_failure": "No client credentials were posted, but the exposure runs the other way: a staff member's personal mobile number and ALTR's full bank account, routing and SWIFT details were posted in plaintext into the group, and the account number was then changed in-chat on 8/15 with no out-of-band verification step — the exact pattern payment-redirection fraud exploits, and it directly produced a wire we still cannot confirm 18 days later.",
+      "evidence": [
+        {"quote": "my phone number is 4079217561 if you ever need to reach me", "who": "Stephski", "date": "2026-07-01"},
+        {"quote": "Account Name: ALTR Platform Services, LLC\nBank: Bank of America, N.A.\nACH Routing: 063100277\nWire Routing: 026009593\nAccount No.: 898169904709", "who": "Alex Camus", "date": "2026-07-07"},
+        {"quote": "Please note an update to the account number, please try and send using the information on the invoice.", "who": "Stephski", "date": "2026-08-15"}
+      ]
+    }
+  },
+  "metrics": {
+    "client_questions_total": 12,
+    "unanswered_over_24h": 8,
+    "max_team_silence_days": 9,
+    "promises_made": 13,
+    "promises_kept": 4,
+    "promises_lapsed": 9,
+    "method": "Manual read of all 145 non-service messages, 2026-06-20 to 2026-09-01. Client questions = direct asks from Callie (Mila) requiring a response (suspension 6/23, invoice due date 7/5, USD conversion method 7/6, drive content check 7/6, receipt check 7/7, promo plan 7/8, post links 7/8, receipt check 7/12, unknown-post query 7/13, GBP invoice 7/19, duplicate-payment check 8/8, receipt confirmation for the 8/17 wire). Unanswered >24h = 8, of which 4 were never answered at all: the 6/23 suspension (73d), the 7/8 post links (58d), the 8/8 duplicate check (27d), and confirmation of the 8/17 wire (18d); the other 4 were answered late at 25-28h (due date, two receipt checks, GBP invoice). Max team silence = last team message 8/23 02:53 to next 8/31 19:15 = 8.7d, ended by a mass-sent template. Promises = explicit forward commitments by our side; kept 4 (chatting started on schedule 6/21, the kickoff call actually held 6/29, the GBP invoice reissued after request 7/20, the 8/14 pre-invoice heads-up); lapsed 9 ('always online... ALWAYS', weekly creative ideas, uploaded content 'will be used by the team to post consistently', post links, 'exchange on the next invoice', 'repeat to the same account', 'Will update you shortly!', Vivek as the Meta escalation route, 'plenty of updates starting next week').",
+    "note": "Message ids 136 and 150 are absent from the export (gaps 8/10→8/11 and 8/23→8/31), likely deleted messages. Invoice amounts appear in chat only once (USD 727 / GBP 543.22 on 7/7); all other cycles are PDF-only and unreconcilable from Telegram."
+  },
+  "what_client_wanted": [
+    "Her suspended main Instagram handled and returned — 'my accounts been suspended again, I haven’t clicked appeal this time as you said not to, so what happens now x' (6/23), restated by her 73 days later as 'waiting to get my bigger account back' (8/31).",
+    "To be kept in the loop on what is actually posted for her — 'if you could send me links when you do just so I can be in the loop🫶🏼' (7/8).",
+    "Unambiguous confirmation that her payments landed — 'please let me know when you’ve received it and if you could just double check it doesn’t come through twice' (8/8), after chasing receipt four times across three cycles.",
+    "Invoices in her own currency with a clear due date so she can pay same-day — 'Is it possible to get the invoice is GBP? So I can get it paid :)' (7/7)."
+  ],
+  "what_worked": [
+    "The kickoff call actually happening on 6/29 and the weekly reel-inspo drops that followed through July — the only genuine cadence she has ever had, and she thanked it every time: 'Thank you🫶🏼🫶🏼' (7/2).",
+    "Converting the invoice to GBP inside three minutes on 7/7 removed the entire blocker — 'Thanks so much!! Will do now' and she paid that day. Currency plus a stated figure is the single highest-yield thing we have done on this account.",
+    "Warm, specific, personally-addressed content asks convert reliably with her: 'Hi babe! would you be able to upload more reels please? 💗' (7/18) → 'Doneee xxx' the next day, and 48 videos delivered on 8/17."
+  ],
+  "top_fix": "Give her one named owner who answers the platform question and closes the payment loop in writing before asking her for anything else. The Instagram suspension she raised on 6/23 and re-raised herself on 8/31 is the whole account and it has never received a single reply; every other item on this file — two unconfirmed wires, 48 unused videos, an unexplained domain, a silenced Meta rep — is a downstream symptom of the fact that nobody reads this chat end to end."
+}

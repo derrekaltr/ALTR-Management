@@ -1,0 +1,21 @@
+{
+ "name": "Chase Fraud Alerts",
+ "name_confidence": 0.95,
+ "category": "Unknown",
+ "category_confidence": 0.9,
+ "summary": "This is not a person. It's Chase Bank's automated fraud-alert short code (72166). Every incoming message is a card-decline or transaction-confirmation alert, and the phone owner only ever replies 'Yes' to confirm charges. There are no client, business-line or personal signals, so it should be saved as a bank service contact rather than a lead.",
+ "key_facts": [
+  "Automated Chase Bank fraud alert short code 72166, not a human contact",
+  "Owner replies YES to confirm flagged transactions",
+  "Alerts cover several Chase cards (ending 3845, 6823, 1342, 2764, 6705, 6731) and account ending 9703",
+  "Card ending 6731 is the most active card in recent months (Jun-Oct 2026)",
+  "Repeated Coinbase purchases via card are blocked; Chase says to use ACH instead",
+  "Flagged merchants include OnlyFans, Anthropic Claude, Apify, Higgsfield, LeakCleaner, Supalink.ai and Envato (possible business tooling expenses)"
+ ],
+ "services_discussed": [],
+ "handle": "72166",
+ "analyzed_rowid": 1654247,
+ "message_count": 104,
+ "first_date": "2026-01-18",
+ "last_date": "2026-10-05"
+}

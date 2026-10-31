@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
+<title>Vivek — Weekly Summary 2026-08-21</title>
+<style>
+:root {
+  color-scheme: light;
+  --page: #f9f9f7; --surface: #fcfcfb;
+  --ink: #0b0b0b; --ink-2: #52514e; --muted: #898781;
+  --grid: #e1e0d9; --baseline: #c3c2b7; --ring: rgba(11,11,11,0.10);
+  --series-1: #2a78d6;
+  --good: #0ca30c; --warning: #fab219; --serious: #ec835a;
+  --delta-good: #006300;
+  --good-bg: rgba(12,163,12,.10); --warning-bg: rgba(250,178,25,.14); --serious-bg: rgba(236,131,90,.14);
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: dark;
+    --page: #0d0d0d; --surface: #1a1a19;
+    --ink: #ffffff; --ink-2: #c3c2b7; --grid: #2c2c2a; --baseline: #383835;
+    --ring: rgba(255,255,255,0.10); --series-1: #3987e5; --delta-good: #0ca30c;
+  }
+}
+@media print { :root { color-scheme: light; --page: #ffffff; --surface: #ffffff; } }
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--page); color: var(--ink); font: 15px/1.55 system-ui, -apple-system, "Segoe UI", sans-serif; }
+.wrap { max-width: 760px; margin: 0 auto; padding: 32px 24px 64px; }
+.card { background: var(--surface); border: 1px solid var(--ring); border-radius: 12px; padding: 24px 26px; }
+h1 { font-size: 21px; margin: 0; display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+.sub { color: var(--ink-2); margin: 2px 0 16px; }
+.badge { display: inline-flex; align-items: center; gap: 5px; font-size: 12.5px; font-weight: 600; padding: 2px 9px; border-radius: 999px; border: 1px solid var(--ring); }
+.badge.good { background: var(--good-bg); } .badge.warning { background: var(--warning-bg); } .badge.serious { background: var(--serious-bg); }
+.dot { width: 8px; height: 8px; border-radius: 50%; display: inline-block; }
+.dot.good { background: var(--good); } .dot.warning { background: var(--warning); } .dot.serious { background: var(--serious); }
+.pill { font-size: 12px; border: 1px solid var(--ring); border-radius: 999px; padding: 1px 8px; color: var(--ink-2); }
+h2 { font-size: 13px; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); margin: 22px 0 8px; }
+table { width: 100%; border-collapse: collapse; font-size: 13.5px; }
+th { text-align: left; color: var(--muted); font-weight: 600; font-size: 12px; padding: 4px 8px 4px 0; border-bottom: 1px solid var(--grid); }
+td { padding: 6px 8px 6px 0; border-bottom: 1px solid var(--grid); vertical-align: top; font-variant-numeric: tabular-nums; }
+ul { margin: 0; padding-left: 20px; } li { margin: 5px 0; }
+.strength::marker { content: "✓  "; } .strength { color: var(--ink-2); }
+.flag::marker { content: "⚠  "; } .flag { color: var(--ink-2); }
+blockquote { margin: 8px 0 0; padding: 6px 12px; border-left: 3px solid var(--baseline); color: var(--ink-2); font-size: 13.5px; }
+.q-meta { color: var(--muted); font-size: 12px; }
+footer { color: var(--muted); font-size: 12.5px; margin-top: 20px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+<div class="card">
+  <h1>Vivek
+    <span class="pill">Meta Support Rep</span>
+    
+    <span class="badge serious"><span class="dot serious"></span>25 open items</span>
+  </h1>
+  <div class="sub">ALTR weekly summary · week ending 2026-08-21</div>
+
+  <p>One genuine breakthrough and a security problem that got worse after being coached on it. On Aug 16 he broke a nine-day access blocker on Lauryn&#39;s Facebook by having her add and then remove a passkey so Facebook fell back to an SMS code — solving it without ever touching her Gmail, which is exactly what she had demanded since Aug 8, and it recovered a second page with 200k+ followers (&#39;FINALLY&#39;, &#39;🥳🥳&#39;). But last week&#39;s top coaching flag — collecting plaintext credentials in client group chats — recurred on three accounts and degraded rather than improved: he asked Paige &#39;Send id password&#39; in the group on Aug 20, she pasted it, and by Aug 21 she had posted a new password, &#39;[REDACTED-PASSWORD]&#39;, into the same chat that carries ALTR&#39;s banking details. On Lauryn he made the third credential ask the last rollup explicitly warned would be a trust break, one day after she said her management had ruled it out, and told her &#39;Ma&#39;am that&#39;s on you completely&#39;. Meanwhile his four silent books stayed silent: Sarah&#39;s main 530k Instagram has been suspended 12 days with no word since Aug 9, Mila has had 23 days with zero messages, and Haileigh Cox&#39;s Jul 29 shadowban ask is 23 days untouched because nobody ever chased her for the login.</p>
+
+  
+  <h2>By client</h2>
+  <table>
+    <thead><tr><th>Client</th><th>Reminders</th><th>Complaints</th><th>Commitments</th><th>Notes</th></tr></thead>
+    <tbody>
+    
+      <tr><td>Paige</td><td>7</td><td>3</td>
+          <td>0 kept / 3 overdue</td>
+          <td style="font-size:12.5px">Third lockout episode in 24 days and the fourth time her credentials have gone into the group chat. He wrote &#39;Send login in dm&#39; on Aug 13 and then collected the password in the group on Aug 20 and again on Aug 21. Nothing has been rotated or deleted 23 days after the first exposure, and the password has degraded to &#39;[REDACTED-PASSWORD]&#39;. His &#39;Will update shortly&#39; from Aug 14 is 7 days silent, and he has never explained the &#39;Hell nah&#39; or why he asked her to approve a login for &#39;Unfilteredlifiting&#39;, an account that is not hers — she replied &#39;what the hell hold on&#39; and has never been reassured. Genuine bright spot: on Aug 21 he fixed the access issue in seven minutes and she replied &#39;perfect thank you so much&#39;.</td></tr>
+    
+      <tr><td>Lauryn</td><td>6</td><td>3</td>
+          <td>1 kept / 1 overdue</td>
+          <td style="font-size:12.5px">The best and worst of his week on one account. He was present every single day (60 messages, replies usually in minutes, worked the weekend) and cracked the access problem on Aug 16 without her Gmail. But the third credential ask landed on Aug 16 — a screen-shared Gmail login — one day after she said &#39;Talked to my Management we can&#39;t give out certain passwords just for confidential purposes&#39;. She did not refuse in words this time, she quietly steered him to the passkey instead, which is colder than her earlier flat refusal. He also told her a blocker was &#39;on you completely&#39;, spent Aug 19 reporting on Instagram which she had never complained about (&#39;My IG was never shadow banned&#39; / &#39;It&#39;s FACEBOOK&#39;), and leaned on &#39;Facebook servers is cooked rn&#39; for four straight days. The week ended with her typing the same complaint she opened with 328 days ago: &#39;PAGE NOT RECOMMENDED&#39;. He also collected her Facebook-linked phone number and a live SMS code in the group chat.</td></tr>
+    
+      <tr><td>Sarah</td><td>2</td><td>2</td>
+          <td>0 kept / 2 overdue</td>
+          <td style="font-size:12.5px">Her main Instagram @sarah.h44 (~530k) has been suspended since Aug 9. He took her password and 2FA code in the group chat that day, said &#39;okay no problem thanks&#39; at 21:20, and has not posted in the chat since — 12 days with no status on the one thing she has told ALTR repeatedly matters most. The two other down accounts are 15 days old and blocked entirely on a screenshot request he made once on Aug 8 and nobody ever repeated. Sarah has now been silent for 10 days, her longest gap in 11 months.</td></tr>
+    
+      <tr><td>Sarah Lloyd</td><td>3</td><td>1</td>
+          <td>0 kept / 1 overdue</td>
+          <td style="font-size:12.5px">&#39;Wait i will explain&#39; on Aug 8 is still his last message in the chat — 13 days. Her Instagram fell from 20M to 4M profile views and her Facebook is non-recommendable and under watch until September. The change this week is that she stopped asking: she raised no IG or Facebook topic at all in the window after chasing on Aug 3 and twice on Aug 8. On her traffic engine, her silence is her writing the Meta support off, not the issue closing.</td></tr>
+    
+      <tr><td>Lilia</td><td>3</td><td>1</td>
+          <td>0 kept</td>
+          <td style="font-size:12.5px">His first messages in this chat since Derrek added him on Jul 29 — 20 days of silence — and they total nine words. She tagged him at 12:08 on Aug 18, sent the login within 28 minutes as asked, chased at 16:36, and it took @-pings from both Mayson and Mica before he replied &#39;On it&#39; at 17:55. She chased a third time on Aug 19 and got &#39;Not yet busy with instagram unbans&#39;. This is the first time she has used the Meta support Derrek sold her on Jul 29 and it is a bad first impression on a week that was otherwise her best since June.</td></tr>
+    
+      <tr><td>Amber Haze</td><td>3</td><td>1</td>
+          <td>0 kept</td>
+          <td style="font-size:12.5px">The one place he did the proactive follow-up last week&#39;s rollup asked for: he reopened the thread himself on Aug 19 with &#39;@Kirs10xx hey Ma&#39;am&#39; rather than leaving his Aug 14 &#39;Will check&#39; to rot, and her posting restriction cleared — &#39;I heard I can post now it&#39;s okay&#39; / &#39;I started already thank you!&#39;. First movement on her #1 complaint since June, and it is why she re-engaged and volunteered to fund Facebook ads. Caveat: she sent three screenshots asking whether the remaining warnings can be cleared and got &#39;Yeah you can post&#39; / &#39;Normally&#39;, which answers a different question she has now asked three times.</td></tr>
+    
+      <tr><td>Haileigh Cox</td><td>0</td><td>1</td>
+          <td>0 kept / 1 overdue</td>
+          <td style="font-size:12.5px">Her suspected shadowban and follower loss, raised on Jul 29 the minute Derrek introduced him, is 23 days open. His reply &#39;Sure share login&#39; is still the last word on it; she never posted the login and in 23 days nobody chased her for it. He has sent exactly one message in the entire 750-message chat history. This sits directly on top of her #1 stated priority.</td></tr>
+    
+      <tr><td>Mila</td><td>0</td><td>1</td>
+          <td>0 kept / 1 overdue</td>
+          <td style="font-size:12.5px">Introduced on Jul 29 as the escalation route for restrictions, shadowbans and bans, and 23 days later he has still never posted a single message in this chat — on a client whose Instagram was suspended and whose backup-IG posting programme is paused. She uploaded 48 videos into that vacuum on Aug 17.</td></tr>
+    
+      <tr><td>Barbara</td><td>0</td><td>1</td>
+          <td>0 kept</td>
+          <td style="font-size:12.5px">Zero messages this week on a client who said on Aug 11 &#39;i&#39;m having account issues every other day, i&#39;m losing recovering losing recovering&#39; and &#39;i&#39;m just getting worried about that&#39;. Seven consecutive days with no growth-side contact of any kind. She stopped asking, and her only account message all week was closed out by Mayson with &#39;Don&#39;t worry about it Barbara, it was resolved&#39;.</td></tr>
+    
+      <tr><td>Liza Kovalenko</td><td>0</td><td>1</td>
+          <td>0 kept</td>
+          <td style="font-size:12.5px">Instagram flagging, shadowbans and deletions have been open since Oct 2025 and he was announced as the fix on Aug 1. No contact this week; her entire inbound from ALTR was one invoice and one PDF. She has stopped raising it herself, which on her #1 priority reads as resignation.</td></tr>
+    
+      <tr><td>Vale</td><td>0</td><td>0</td>
+          <td>0 kept / 1 overdue</td>
+          <td style="font-size:12.5px">He tagged @ofwizz on Aug 3 to route her referral of a creator interested in management and nothing has come back to her in 18 days — from a client who has already generated $5,720 of referral credit.</td></tr>
+    
+    </tbody>
+  </table>
+  
+
+  
+  <h2>What went well</h2>
+  <ul><li class="strength">Lauryn: broke a nine-day access blocker on Aug 16 by working out that adding and then deleting a passkey would drop Facebook back to SMS verification — solved without ever touching her Gmail, which is precisely the boundary-respecting path she had been demanding, and it also recovered a second Facebook property with over 200k followers</li><li class="strength">Lauryn: present and responsive every single day of the window including the weekend, 60 messages with replies typically within minutes — a marked improvement on last week&#39;s missed deadlines and silent stretches</li><li class="strength">Amber Haze: reopened his own stale thread unprompted on Aug 19 instead of leaving &#39;Will check&#39; hanging, and her Instagram posting restriction cleared — the first movement on her #1 complaint since June, and the direct cause of her message volume more than doubling</li><li class="strength">Paige: turned the Aug 20-21 lockout around in seven minutes on Aug 21 (&#39;Done&#39; → &#39;perfect thank you so much&#39;), the fastest fix in the history of that relationship</li></ul>
+  
+
+  
+  <h2>Focus areas this week</h2>
+  <ul><li class="flag">SECURITY, and it went backwards after being flagged last week — plaintext credentials are still being collected in client group chats on 3 accounts: Paige (he asked &#39;Send id password&#39; in the group on Aug 20 and she pasted it, then posted a brand-new password &#39;[REDACTED-PASSWORD]&#39; plus her handle on Aug 21 — the fourth exposure in 23 days, in a chat that also carries ALTR&#39;s wire and Zelle details, and he had himself written &#39;Send login in dm&#39; on Aug 13), Lauryn (asked for her Instagram login on Aug 15, then on Aug 16 proposed logging into her Gmail over a screen share, one day after she said her management had ruled it out; he also collected her Facebook-linked phone number and a live SMS code in the same thread), Lilia (asked &#39;Send login&#39; in the group on Aug 18). Nothing exposed across the last three weeks has been rotated or deleted on any account. This needs a hard enforced rule plus a credential-vault link, and rotation of everything already exposed.</li><li class="flag">He answers a different question than the one the client asked, then goes quiet — 4 clients: Amber Haze (three screenshots asking whether her remaining IG warnings can be cleared, answered &#39;Yeah you can post&#39; / &#39;Normally&#39;), Lauryn (spent Aug 19 reporting on Instagram, which she had never complained about, and she had to correct him — &#39;My IG was never shadow banned&#39; / &#39;It&#39;s FACEBOOK&#39;), Sarah Lloyd (&#39;Nothing just make sure to post content on time&#39; → she asked &#39;What do you mean by on time?&#39; and has waited 13 days), Lilia (&#39;Not yet busy with instagram unbans&#39; after three chases in two days). Every one of these clients then stopped asking.</li><li class="flag">He is announced as Meta Support Rep on books where he does nothing until an internal teammate @-pings him, and on four of them he does nothing at all — Lilia (needed pings from both Mayson and Mica before replying at all; three messages totalling nine words), Lauryn (Mayson has had to poke him on the client&#39;s behalf two weeks running), Mila (23 days in the chat, zero messages ever), Haileigh Cox (one message in a 750-message history, her Jul 29 ask 23 days untouched), Sarah (silent 12 days while her main 530k account is suspended), Barbara (zero messages in a week she was documented as worried). Either post a proactive weekly account-status line on every book he is named on, or stop announcing him.</li><li class="flag">Tone and blame-shifting under pressure — &#39;Ma&#39;am that&#39;s on you completely&#39; (Lauryn, Aug 16) on a client whose only ask was that her passwords stay in her own hands, plus &#39;Hell nah&#39; as the closing word to Paige on Aug 14 after spooking her with a login request for an account that is not hers. Both clients absorbed it without complaining, which is why it needs to be corrected by his manager rather than by them.</li></ul>
+  
+
+  
+  <blockquote>“Send id password” <span class="q-meta">— Paige, 2026-08-20</span></blockquote>
+  
+  <blockquote>“[REDACTED-PASSWORD]” <span class="q-meta">— Paige, 2026-08-21</span></blockquote>
+  
+  <blockquote>“For your security purposes, I can log in to Gmail while sharing my screen with you, because it only requires a one-time verification. As soon as Facebook verifies it, I&#39;ll be able to log into the Facebook account. Then, while I&#39;m still sharing my screen on Gmail, you can change the password” <span class="q-meta">— Lauryn, 2026-08-16</span></blockquote>
+  
+  <blockquote>“Ma&#39;am that&#39;s on you completely” <span class="q-meta">— Lauryn, 2026-08-16</span></blockquote>
+  
+  <blockquote>“Not yet busy with instagram unbans” <span class="q-meta">— Lilia, 2026-08-19</span></blockquote>
+  
+  <blockquote>“FINALLY” <span class="q-meta">— Lauryn, 2026-08-16</span></blockquote>
+  
+</div>
+<footer>Generated by ALTR client-chat reporting · confidential — for Vivek and management.</footer>
+</div>
+</body>
+</html>

@@ -1,0 +1,126 @@
+# @Elliottdermond unban  [imessage #14811 GROUP]
+msgs=110 (in=105 out=5) window=2026-09-01..2026-09-16
+last_client=2026-09-16 (2d ago), last_derrek=2026-09-15 (3d ago)
+LAST MESSAGE FROM CLIENT — UNANSWERED: 'Thank you 🙏🏻'
+
+  ...
+[2026-09-01 10:07] DEREK: Hey guys, this is Elliott. He has a suspended account. He’s brought us a few people, so let’s try to do this close to 0$ if we can
+[2026-09-01 10:07] Elliott Dermond: Reacted 🙏🏻 to “Hey guys, this is Elliott. He has a suspended account. He’s brought us a few people, so let’s try to do this close to 0$ if we can”
+[2026-09-01 10:27] Vivek Unban: Okay
+[2026-09-01 10:29] Elliott Dermond: Tysm 🙏🏻
+[2026-09-01 12:28] Vivek Unban: Send login
+[2026-09-01 12:38] Elliott Dermond: ￼￼￼Email: Elliottd123@icloud.com Password: 51501488nHH1!
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/b5/05/at_0_E5010D09-6FB8-4291-AE59-7F7073CD4217/IMG_1651.PNG>
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/b6/06/at_1_E5010D09-6FB8-4291-AE59-7F7073CD4217/IMG_1653.PNG>
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/b7/07/at_2_E5010D09-6FB8-4291-AE59-7F7073CD4217/IMG_1652.PNG>
+[2026-09-01 12:38] Elliott Dermond: Username ⬇️ Elliottdermond
+[2026-09-01 12:39] Vivek Unban: Bro
+[2026-09-01 12:39] Vivek Unban: It’s very hard
+[2026-09-01 12:40] Elliott Dermond: Which part?
+[2026-09-01 13:13] Vivek Unban: Do one thing reset the password for me
+[2026-09-01 13:15] Elliott Dermond: On it
+[2026-09-01 13:15] Vivek Unban: Thank you
+[2026-09-01 13:20] Elliott Dermond: How do I reset password on a suspended account? Do I hit Forgot password?
+[2026-09-01 13:21] Vivek Unban: Yes
+[2026-09-01 13:21] Vivek Unban: Then username
+[2026-09-01 13:29] Elliott Dermond: ￼￼￼When I do that it keeps logging me directly into my backup account
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/39/09/at_0_F0CAFEEB-2C65-44FA-BB2F-C4D11A5BF40C/939E0255-A015-457B-928C-7A82362A56FD.jpeg>
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/3a/10/at_1_F0CAFEEB-2C65-44FA-BB2F-C4D11A5BF40C/513504D2-4B95-4DA3-AD11-F32397883CBD.jpeg>
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/3b/11/at_2_F0CAFEEB-2C65-44FA-BB2F-C4D11A5BF40C/D4265CD0-D911-4ACD-9097-51C85EFC15DC.jpeg>
+[2026-09-01 13:29] Vivek Unban: Wait
+  ...
+[2026-09-01 13:31] Vivek Unban: With any other creator
+[2026-09-01 13:31] Elliott Dermond: On my main page that is suspended yes I have before
+[2026-09-01 13:31] Vivek Unban: Which creator
+  ...
+[2026-09-01 14:18] Elliott Dermond: Why does the password need reset?
+[2026-09-01 14:23] Elliott Dermond: ￼￼So when I put in this email that isn’t in my account center and the same password it takes me to this.
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/2d/13/at_0_FF8E0F94-B5FA-47AD-9C02-89935DBBACF1/4556574A-5949-46D7-B8BD-BED1B2EFB7FD.jpeg>
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/2e/14/at_1_FF8E0F94-B5FA-47AD-9C02-89935DBBACF1/990D60E0-184A-4637-B869-4587728C2D2C.jpeg>
+[2026-09-01 14:23] Elliott Dermond: ￼Then if I hit continue it comes to this
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/b7/07/7E7CCD82-962D-47AF-8C6A-A5EBB996C005/BBD03A4D-CF57-43D1-BC9C-F7BDFF6A7F56.jpeg>
+[2026-09-01 14:24] Elliott Dermond: ￼And that email logged me in
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/d3/03/at_0_79D9378A-29B3-42A3-83BF-238FC269C6D2/C5F400FD-AF49-4E5F-8F86-064D1FDC165E.jpeg>
+[2026-09-01 14:25] Elliott Dermond: ￼But these are the only emails on my account center
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/bf/15/at_0_BD01464C-4AFC-41D8-841A-049034F5759F/791D5777-792D-4BDA-967C-A007CA3BE377.jpeg>
+[2026-09-01 14:36] Elliott Dermond: The phone number and username 850-899–1907 & Elliottdermond do log me into the suspended account with that password can confirm
+[2026-09-01 16:37] Elliott Dermond: Got it! New password: Imissfluffer1!
+[2026-09-02 11:51] Vivek Unban: Yo
+[2026-09-02 11:51] Vivek Unban: Need approval
+[2026-09-02 12:45] Elliott Dermond: What do you need
+[2026-09-02 12:52] Vivek Unban: Just need approval
+[2026-09-02 12:55] Elliott Dermond: On app or text?
+[2026-09-02 12:57] Elliott Dermond: Or verbal
+[2026-09-02 18:53] DEREK: No they need login approval
+[2026-09-02 18:53] DEREK: Like it send a notification
+  ...
+[2026-09-02 19:08] Vivek Unban: Check your text messages
+[2026-09-02 19:09] Elliott Dermond: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/ec/12/D85CADB3-6A5A-4C7E-9A45-EF5F26200856/81006894859__6445310C-38B6-4CBC-BAC1-E7FF1229C5B7.jpeg>
+[2026-09-02 19:09] Elliott Dermond: 535985
+[2026-09-02 19:23] Vivek Unban: Thanks
+[2026-09-02 19:23] Vivek Unban: Appeal submitted
+[2026-09-02 19:24] Elliott Dermond: Thank you! 🙏🏻
+  ...
+[2026-09-02 20:33] Vivek Unban: Hahah
+[2026-09-02 20:33] Vivek Unban: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/eb/11/at_0_C31735D5-C3AC-4B55-B7C8-507C15E4C9CA/Screenshot 2026-09-03 at 2.03.49 AM.png>
+[2026-09-02 20:34] Elliott Dermond: Let’s go!!!! Tysm 🙏🏻🙏🏻🙏🏻🙏🏻
+  ...
+[2026-09-02 20:41] Vivek Unban: Share screenshot
+[2026-09-02 20:42] Elliott Dermond: ￼Just logged in, it had me change my password which I changed too Imissfluffer!123
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/87/07/84FC14ED-E155-4B93-838C-236F3DED7219/81007451195__17B41767-528B-4848-904A-C336D56A37B8.jpeg>
+[2026-09-02 20:42] Elliott Dermond: ￼￼But I did get this notification
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/e0/00/at_0_1652A0B9-9C2D-475F-9079-CB78F2E0D7E4/IMG_7359.jpeg>
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/e1/01/at_1_1652A0B9-9C2D-475F-9079-CB78F2E0D7E4/IMG_7360.jpeg>
+[2026-09-02 20:43] Vivek Unban: Lol
+[2026-09-02 20:43] Vivek Unban: Again got suspend
+[2026-09-02 20:43] Vivek Unban: Fuck
+[2026-09-02 20:44] Elliott Dermond: ￼But then it said welcome back
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/93/03/CE2D037C-FF84-42CB-A0DE-E352CBD1AFC0/1E9C83CE-1B93-436B-ABED-FE9B8B3A4FAE.jpeg>
+[2026-09-02 20:44] Vivek Unban: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/a6/06/30E42224-FC8E-4FF2-B02A-EBAEBB907AA8/PHOTO-2026-09-03-02-14-23.jpg>
+[2026-09-02 20:45] Elliott Dermond: ￼Ya now it shows this again. Maybe I need to delete my last post
+      <IMG OK: /Users/locklyjailbreak/Library/Messages/Attachments/e7/07/at_0_DF19F8ED-610C-4211-BF4D-A2830873BA4C/81007470462__A6D67263-32FE-49CE-B4D1-50508D36F497.jpeg>
+[2026-09-02 20:45] Vivek Unban: Click on read more about this ruke
+[2026-09-02 20:45] Vivek Unban: Rule
+[2026-09-02 20:46] Elliott Dermond: ￼
+      <IMG OK: /Users/locklyjailbreak/Library/Messages/Attachments/2a/10/at_0_EC507D58-EAF8-48D0-9F6F-D4AE57A9D73D/81007476837__06DABABA-3F77-4683-ABD2-1C0BD79B299C.jpeg>
+[2026-09-02 20:46] Elliott Dermond: ￼
+      <IMG OK: /Users/locklyjailbreak/Library/Messages/Attachments/cb/11/at_0_70F5AED0-A536-4C7E-8194-E25A6827189A/81007478108__C33FCEF1-70DE-439F-A48B-08CADEBB47B6.jpeg>
+[2026-09-02 20:46] Vivek Unban: Again
+[2026-09-02 20:49] Elliott Dermond: Must be me last reel If there’s a way to delete as soon as getting in that might work. You guys are the experts of course so whatever you think
+[2026-09-02 20:56] DEREK: Loved an image
+[2026-09-02 22:27] Elliott Dermond: What’s the course of action now? Try to delete last post if it comes back again?
+[2026-09-02 22:28] Vivek Unban: Bro will try again 24 hrs
+  ...
+[2026-09-04 13:19] Vivek Unban: Yo
+[2026-09-04 13:19] Elliott Dermond: Hey
+[2026-09-04 13:20] Vivek Unban: Need login code
+[2026-09-04 13:21] Elliott Dermond: Ready
+[2026-09-04 13:22] Vivek Unban: Just wait let me login
+[2026-09-04 13:23] Elliott Dermond: Liked “Just wait let me login”
+[2026-09-04 13:29] Vivek Unban: Can you change the password
+[2026-09-04 13:30] Vivek Unban: Brother
+[2026-09-04 13:31] Elliott Dermond: Yes
+[2026-09-04 13:32] Vivek Unban: Do it faster
+[2026-09-04 13:33] Elliott Dermond: Trying
+[2026-09-04 13:35] Elliott Dermond: Imissfluffer!123
+[2026-09-04 13:37] Elliott Dermond: Or Imissfluffer!123! If that didn’t work. It might’ve saved though
+[2026-09-04 13:39] Vivek Unban: Code
+[2026-09-04 13:39] Elliott Dermond: Text ?
+[2026-09-04 13:39] Vivek Unban: Authentication
+[2026-09-04 13:40] Elliott Dermond: 010467
+[2026-09-04 13:49] Vivek Unban: Submitted
+[2026-09-04 13:49] Vivek Unban: Hope for the best
+[2026-09-04 13:50] Elliott Dermond: Fingers crossed thank you
+[2026-09-04 13:50] Vivek Unban: Loved “Fingers crossed thank you ”
+[2026-09-10 22:05] Elliott Dermond: Hey guys! Was just checking to see if there was an update on the appeal submitted. Thank you
+[2026-09-11 22:20] Elliott Dermond: Hey guys! Just checking in seeing if there’s any update 🙏🏻
+[2026-09-15 22:16] Elliott Dermond: Hey guys hope you’re feeling better sorry to hear about the health issue. Please let me know the next steps or if we are waiting on a timeline
+[2026-09-15 22:20] DEREK: Hey brother, there is nobody doing unbans rn.
+[2026-09-15 22:21] Elliott Dermond: Oh damn, do you have an idea for how long?
+[2026-09-15 22:22] Elliott Dermond: I know last we talked, they submitted my appeal, where does that leave my account in standing?
+[2026-09-16 17:32] Vivek Unban: Bro no update
+[2026-09-16 17:33] Vivek Unban: I submitted the appeal after reban
+[2026-09-16 18:54] Elliott Dermond: Thank you 🙏🏻

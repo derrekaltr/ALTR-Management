@@ -1,0 +1,337 @@
+{
+  "client": "Sarah",
+  "slug": "sarah-x-altr",
+  "week_ending": "2026-08-14",
+  "summary": "Sarah's worst week since onboarding. Vivek recovered jxstin.media on Aug 8, but the next morning her MAIN Instagram (@sarah.h44, 530k) went down — the third time her main account has been lost since Nov 2025, and eight days after Derrek's Aug 1 letter promising a $40k Phone Farm would end exactly this. Vivek worked it same-day but it was still 'in review' on Aug 9 and no restoration was ever confirmed in chat. Separately she raised her first-ever earnings complaint on Aug 8 ('why have I gone down to 3k') and waited ~45 hours for a reply, which came from Ronnie Chat as a question back ('How are socials going for you ?? Any issues there ?') two days after her main IG had been suspended. A 4th OFTV audio rejection arrived Aug 10; Ronnie said he'd fixed it, but Sarah couldn't find the file on Aug 11 and that message was never answered. The two IG accounts she has been chasing since Aug 6 were never touched. She then went silent from Aug 11 through week end — highly unusual for a client who normally sends 20+ messages a week. Bright spots: the leak-removal breakdown and reel inspo both landed on cadence, and there was zero payment friction.",
+  "health": {
+    "score": 66,
+    "trend": "down",
+    "rationale": "Down from 82 last week. Her single biggest emotional trigger (main IG account) failed again and was left without a confirmed resolution; her first revenue complaint sat 45h and got a question instead of a plan; the OFTV audio issue recurred for the 4th time in 7 weeks with an unverified delivery; two IG accounts have been open 8 days untouched; and Derrek's promised Phone Farm updates are 2 weeks overdue. She stopped messaging after Aug 11, which for Sarah is a warning sign, not a calm week."
+  },
+  "reminders": [
+    {
+      "employee": "Vivek",
+      "topic": "The 2 remaining down Instagram accounts ALTR said it would take over — asked twice, still nothing actioned 6 days later",
+      "count": 2,
+      "first_date": "2026-08-07",
+      "last_date": "2026-08-08",
+      "days_outstanding": 6,
+      "quotes": [
+        {
+          "quote": "@ofwizz my other 2 accounts that you said you’s were gonna take over I’ll leave for you guys to do when yous want??",
+          "who": "Sarah H",
+          "date": "2026-08-07"
+        },
+        {
+          "quote": "No problem! @ofwizz what did you wanna do with my other 2x accounts that are down?",
+          "who": "Sarah H",
+          "date": "2026-08-08"
+        },
+        {
+          "quote": "Can you share screenshots",
+          "who": "Vivek",
+          "date": "2026-08-08"
+        }
+      ]
+    },
+    {
+      "employee": "Ronnie Chat",
+      "topic": "Chasing the fixed 'mt cook hike' OFTV video — Ronnie said it was done but it was not in the shared Dropbox folder; her follow-up was never answered",
+      "count": 1,
+      "first_date": "2026-08-11",
+      "last_date": "2026-08-11",
+      "days_outstanding": 3,
+      "quotes": [
+        {
+          "quote": "here you go !",
+          "who": "Ronnie Chat",
+          "date": "2026-08-10"
+        },
+        {
+          "quote": "Thanks Ronnie! Have you added to folder? I can’t see it in there",
+          "who": "Sarah H",
+          "date": "2026-08-11"
+        }
+      ]
+    }
+  ],
+  "complaints": [
+    {
+      "issue": "Her MAIN Instagram account (@sarah.h44, ~530k) was suspended on Aug 9. This is the third loss of her main account (Nov 1 2025, Dec 2025, now Aug 2026) and the flare-up came 8 days after Derrek's Aug 1 letter saying the new $40k Phone Farm would stop accounts being flagged and deleted. Vivek took logins and 2FA the same morning, but the last word in the chat is 'It's still in review' — no restoration was ever confirmed to her.",
+      "status": "recurring",
+      "first_raised": "2025-11-01",
+      "owner": "Vivek",
+      "quotes": [
+        {
+          "quote": "Hey Vivek! Please help! My main account has gone down! My username is Sarah.h44",
+          "who": "Sarah H",
+          "date": "2026-08-09"
+        },
+        {
+          "quote": "Did content got restored Sarah",
+          "who": "Vivek",
+          "date": "2026-08-09"
+        },
+        {
+          "quote": "It’s still in review😁",
+          "who": "Sarah H",
+          "date": "2026-08-09"
+        },
+        {
+          "quote": "Hey!! Instagram has suspended my main account 😩 any chance your ig team is back up and running? X",
+          "who": "Sarah H",
+          "date": "2025-11-01"
+        }
+      ]
+    },
+    {
+      "issue": "First-ever earnings/ranking complaint — her OF position dropped and she asked what happened and what to do about it. She apologised in advance for asking. It took ~45 hours for anyone to respond, and the response was a question back asking whether she had any issues with socials — two days after her main IG had been suspended, i.e. the team answering had no visibility of the account she'd just lost. No recovery plan was ever given.",
+      "status": "in_progress",
+      "first_raised": "2026-08-08",
+      "owner": "Ronnie Chat",
+      "quotes": [
+        {
+          "quote": "Hey guys!! I’m not trying to be that annoying hassling client but why have I gone down to 3k days😭 what’s happened, what should I be doing to get back up?",
+          "who": "Sarah H",
+          "date": "2026-08-08"
+        },
+        {
+          "quote": "looks like it is due to your reach being low at the moment. How are socials going for you ?? Any issues there ?\\",
+          "who": "Ronnie Chat",
+          "date": "2026-08-10"
+        },
+        {
+          "quote": "we have been pushing more custom forms and will continue to do so since we are seeing reach go down across the board the las week with all creators",
+          "who": "Ronnie Chat",
+          "date": "2026-07-20"
+        }
+      ]
+    },
+    {
+      "issue": "OFTV bounced another video back for audio/noise — the 4th separate rejection in 7 weeks (Jun 25, Jul 20, Jul 22, Aug 4, now Aug 10 'mt cook hike'). Ronnie Chat said he'd edited and delivered it the same day, but Sarah could not find the file in the shared folder on Aug 11 and got no reply for the rest of the week. She has posted to OFTV weekly for ~13 weeks chasing a feature, so every bounce costs her a week.",
+      "status": "recurring",
+      "first_raised": "2026-06-25",
+      "owner": "Ronnie Chat",
+      "quotes": [
+        {
+          "quote": "Hey guys! So sorry my audio again can you please help",
+          "who": "Sarah H",
+          "date": "2026-08-10"
+        },
+        {
+          "quote": "It’s the one called mt cook hike",
+          "who": "Sarah H",
+          "date": "2026-08-10"
+        },
+        {
+          "quote": "Hey! Is someone able to help me please! Both these vids got sent back to me from OFTV for the sound issue again. Can you guys please edit my sound for these 2 vids?🥹🫶🏻",
+          "who": "Sarah H",
+          "date": "2026-06-25"
+        }
+      ]
+    },
+    {
+      "issue": "Two Instagram accounts (one non-appealable 'Kartik' account, one stuck on pending appeal) remain down and untouched since Aug 6. Vivek asked for screenshots on Aug 8, Sarah said she'd send them once home, and neither side followed up for the rest of the week — the thread simply died while Vivek moved on to the main account.",
+      "status": "recurring",
+      "first_raised": "2026-08-06",
+      "owner": "Vivek",
+      "quotes": [
+        {
+          "quote": "One of them is. Kartik who used to be with Derrek. Appealed the other one and I believe it’s just stuck on pending decision",
+          "who": "Sarah H",
+          "date": "2026-08-08"
+        },
+        {
+          "quote": "I can as soon as I’m home as they are logged into my other phones",
+          "who": "Sarah H",
+          "date": "2026-08-08"
+        },
+        {
+          "quote": "Sure no problem",
+          "who": "Vivek",
+          "date": "2026-08-08"
+        }
+      ]
+    }
+  ],
+  "commitments": [
+    {
+      "what": "Recover Sarah's main Instagram account @sarah.h44 after it was suspended on Aug 9",
+      "who": "Vivek",
+      "date": "2026-08-09",
+      "status": "pending",
+      "quotes": [
+        {
+          "quote": "Now check dm please",
+          "who": "Vivek",
+          "date": "2026-08-09"
+        },
+        {
+          "quote": "okay no problem thanks",
+          "who": "Vivek",
+          "date": "2026-08-09"
+        },
+        {
+          "quote": "It’s still in review😁",
+          "who": "Sarah H",
+          "date": "2026-08-09"
+        }
+      ]
+    },
+    {
+      "what": "Take over / recover Sarah's other 2 down Instagram accounts (one non-appealable, one stuck on pending decision) — open since Aug 6, blocked on a screenshot request from Aug 8 that was never re-chased",
+      "who": "Vivek",
+      "date": "2026-08-08",
+      "status": "overdue",
+      "quotes": [
+        {
+          "quote": "Are those accounts are non appeal?",
+          "who": "Vivek",
+          "date": "2026-08-08"
+        },
+        {
+          "quote": "Can you share screenshots",
+          "who": "Vivek",
+          "date": "2026-08-08"
+        }
+      ]
+    },
+    {
+      "what": "Fix the audio on the 'mt cook hike' OFTV video and deliver it into her shared Dropbox folder",
+      "who": "Ronnie Chat",
+      "date": "2026-08-10",
+      "status": "pending",
+      "quotes": [
+        {
+          "quote": "will get this edited for you",
+          "who": "Ronnie Chat",
+          "date": "2026-08-10"
+        },
+        {
+          "quote": "here you go !",
+          "who": "Ronnie Chat",
+          "date": "2026-08-10"
+        },
+        {
+          "quote": "Thanks Ronnie! Have you added to folder? I can’t see it in there",
+          "who": "Sarah H",
+          "date": "2026-08-11"
+        }
+      ]
+    },
+    {
+      "what": "Come back to Sarah with a plan for the drop in her ranking/earnings — Ronnie diagnosed low reach and asked a follow-up question, then never returned to it",
+      "who": "Ronnie Chat",
+      "date": "2026-08-10",
+      "status": "pending",
+      "quotes": [
+        {
+          "quote": "looks like it is due to your reach being low at the moment. How are socials going for you ?? Any issues there ?\\",
+          "who": "Ronnie Chat",
+          "date": "2026-08-10"
+        }
+      ]
+    },
+    {
+      "what": "Roll out the new $40k IG 'Phone Farm' posting solution and post 'plenty of updates starting next week' — promised Aug 1, and as of Aug 14 not a single rollout update has been posted in the chat across two full weeks, while her main account went down in the meantime",
+      "who": "Derrek",
+      "date": "2026-08-01",
+      "status": "overdue",
+      "quotes": [
+        {
+          "quote": "Thank you for your understanding, we will have plenty of updates starting next week.",
+          "who": "Derrek",
+          "date": "2026-08-01"
+        },
+        {
+          "quote": "Thanks for the update!!! I’m super super excited!!! Let’s crush this month!!",
+          "who": "Sarah H",
+          "date": "2026-08-01"
+        }
+      ]
+    }
+  ],
+  "payments": [
+    {
+      "note": "No invoice was due or issued inside the window — the July 15-31 invoice was settled in two halves on Aug 3 and Aug 6, and Stephski posted the final receipt confirmation on Aug 9. Collection behaviour remains excellent: paid in full, no chasing required.",
+      "date": "2026-08-09",
+      "late": false,
+      "reason": null,
+      "suggested_fix": "Confirm receipt of each half within hours, not 3 days — an Oct 2025 wire went 'missing' for 8 days and she is sensitive to unconfirmed transfers.",
+      "quotes": [
+        {
+          "quote": "Thank you love ❤️",
+          "who": "Stephski",
+          "date": "2026-08-09"
+        },
+        {
+          "quote": "Second half 😊",
+          "who": "Sarah H",
+          "date": "2026-08-06"
+        }
+      ]
+    },
+    {
+      "note": "RISK — forward-looking, not a collection problem. The Aug 1-14 invoice is due Aug 15, one day after week end, and no pre-invoice heads-up was posted during the window even though Stephski normally sends one 1-2 days ahead (Nov 13, Nov 30, Feb 13, Mar 31 precedents). The last two invoice cycles both slipped on referral-deduction maths: the Jul 1-14 invoice had to be re-issued after she asked about referrals and she had to bump it on Jul 23, and the Jul 15-31 invoice went out Aug 3 instead of Aug 1 for the same reason.",
+      "date": "2026-08-14",
+      "late": false,
+      "reason": "Referral deductions are calculated after the invoice date rather than before it, and no pre-invoice reminder went out ahead of Aug 15",
+      "suggested_fix": "Pre-compute referral deductions before the 1st/15th and send the standard heads-up message so the Aug 15 invoice lands clean and on time.",
+      "quotes": [
+        {
+          "quote": "Just gathering you referrall deductions, please stay tuned for invoice coming shortly 🙂",
+          "who": "Stephski",
+          "date": "2026-08-03"
+        },
+        {
+          "quote": "Bump on this😊",
+          "who": "Sarah H",
+          "date": "2026-07-23"
+        }
+      ]
+    },
+    {
+      "note": "RISK — revenue base is shrinking. Her invoice is 30% of net earnings, and this week she flagged a ranking/earnings drop for the first time while her main 530k IG traffic driver is suspended and two backup accounts are still down. Even with perfect payment behaviour, the next two invoices are likely to be materially smaller, and a declining month is exactly when a month-to-month client re-evaluates a 30% rate.",
+      "date": "2026-08-08",
+      "late": false,
+      "reason": "IG account losses cutting off the traffic funnel to OF, plus agency-wide reach decline flagged internally on Jul 20",
+      "suggested_fix": "Get ahead of it — show her a written recovery plan for reach/earnings before she asks a second time, and restore the main account as the single highest-value action available this week.",
+      "quotes": [
+        {
+          "quote": "Hey guys!! I’m not trying to be that annoying hassling client but why have I gone down to 3k days😭 what’s happened, what should I be doing to get back up?",
+          "who": "Sarah H",
+          "date": "2026-08-08"
+        }
+      ]
+    }
+  ],
+  "client_priorities": [
+    "Keeping her Instagram accounts alive and getting suspended accounts back fast — this is her #1 emotional trigger and it failed on the main account this week",
+    "Understanding and reversing the drop in her OF ranking/earnings — new this week, and the first time she has ever questioned performance",
+    "OFTV growth and landing a feature — she has posted weekly for ~13 weeks and every audio bounce costs her a week",
+    "Consistent leak/DMCA takedowns with visible weekly breakdowns — the cadence is working, do not let it lapse",
+    "Fast turnaround on fan customs so subscribers don't get upset — she delivers within hours when asked",
+    "Accurate, transparent invoicing with referral deductions applied and figures matching her OF dashboard"
+  ],
+  "suggestions": [
+    "Post a written status on @sarah.h44 every single day until it is back. She has had no update since 'it's still in review' on Aug 9 — for the client whose worst fear is losing her main account, silence is the damage.",
+    "Stop asking Sarah to type Instagram passwords and 2FA codes into the group chat. She posted plaintext credentials for jxstin.media on Aug 7 and @sarah.h44 on Aug 9 plus two login codes, into a chat with ~19 participants. Move credential handoff to a vault link — this is a security exposure and it undercuts the 'we protect your accounts' message.",
+    "Give the earnings question a real owner and a real answer. Bouncing 'how are socials going? any issues there?' back at her 45 hours later — two days after her main IG was suspended — told her the team answering had no idea what had just happened to her.",
+    "Add an audio QC pass before every OFTV resubmission and confirm the delivery location in the same message. This was the 4th bounce in 7 weeks and the fix she was told was done could not be found.",
+    "Derrek to post the Phone Farm rollout update he promised on Aug 1. It is two weeks overdue and her main account went down inside that silence, which makes the $40k announcement look like it did not land.",
+    "Re-open the 2 down IG accounts with Vivek and re-ask for the screenshots. That thread has been dead since Aug 8 and nobody on the ALTR side chased it.",
+    "Send the pre-invoice heads-up and pre-compute referral deductions ahead of the Aug 15 invoice — the last two cycles both slipped on this."
+  ],
+  "wins": [
+    "Vivek recovered jxstin.media on Aug 8, two days after being asked — 'We are back Sarah' → 'Your amazing! Thankyou!!'",
+    "Vivek responded to the main-account suspension within about an hour of Sarah's Aug 9 message and worked it the same morning",
+    "Michelle Queue's weekly leak-removal breakdown landed on cadence on Aug 10 — the update rhythm that ended her recurring 'are leaks still being removed?' anxiety",
+    "Mica Vecco delivered the weekly reel inspo drop on Aug 13 without being asked",
+    "Zero payment friction: July 15-31 invoice fully settled, receipt confirmed, no chasing"
+  ],
+  "week_stats": {
+    "messages": 38,
+    "client_messages": 17,
+    "team_messages": 21
+  }
+}

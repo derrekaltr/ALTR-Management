@@ -1,0 +1,36 @@
+{
+ "name": "Tati",
+ "name_confidence": 0.4,
+ "category": "Personal",
+ "category_confidence": 0.7,
+ "summary": "Owner/manager of \"Sami.\" \u2014 a high-touch household concierge and cleaning company (her mother Delia is the on-site housekeeper) \u2014 that served Derrek's apartment from May to September 2026. She is a vendor, not a client of any ALTR business line: she handled cleaning, laundry, dog care/grooming, groceries, meal-prep proposals (tatimeals.com), furniture assembly, storage organization, and even processed controller/model-management reimbursements, billing Derrek via Stripe/Zelle on a biweekly-then-monthly retainer. The relationship blew up on 2026-09-28 when the invoice jumped to ~$5K/month without notice, allegedly because Isabella \"joined the family\"; Derrek disputed the charges, called her and Alex scammers, and cancelled the service on the spot. Status: terminated and hostile \u2014 Derrek told her to pull Delia from the house immediately and threatened public press over Alex's conduct toward him, Ale, and Tati.",
+ "key_facts": [
+  "Runs \"Sami.\" household/concierge cleaning company; her mother Delia Acosta is the housekeeper assigned to Derrek",
+  "Billing: ~$7,771.87 for Sami in August, plus $1,500 covering controller payments, invoices, and model-management payments (reimbursement Derrek couldn't locate)",
+  "Invoices sent via Stripe checkout links and ACH/Zelle; cycle was biweekly, then proposed monthly on the 15th covering 15th-to-15th",
+  "September invoice rose to ~$5K/month, justified as \"Isabella joined the family\" \u2014 Derrek disputed it, citing prior 6BR house at $4K/mo and 3BR apt at $4K/mo",
+  "Repeatedly asked Derrek for referral breakdowns \"from each of the girls\" to reconcile model-management data",
+  "Sent a meal-plan proposal and a tatimeals.com referral link (ref=PF-00103); also ordered dog food, MERV 11 air filters, and booked dog grooming",
+  "Coordinated furniture assembly crews, storage-unit inventory/organization, and a monitor wall-mount quote (recommended opening drywall for stud reinforcement)",
+  "Service cancelled 2026-09-28; Derrek accused her and \"Alex\" of scamming him, Ale, and Tati, and threatened negative press",
+  "Derrek's partner/roommate referred to as Isa/Isabella; dog named Blue",
+  "Name never stated directly \u2014 \"Tati\" inferred from the tatimeals.com link and Derrek naming Tati among Alex's victims; could instead be a separate person"
+ ],
+ "services_discussed": [
+  "Recurring house cleaning and housekeeping (Delia)",
+  "Laundry service with pet-hair-specific washing process",
+  "Dog care: walks, grooming appointments, dog food ordering",
+  "Grocery shopping and errands on Derrek's card",
+  "Meal prep / food plans (5 lunches + 3 dinners, empanadas, agnolotti) via Tati Meals",
+  "Furniture assembly and moving crew",
+  "Storage unit inventory and organization",
+  "Monitor wall-mounting / drywall reinforcement quote",
+  "HVAC air filter supply",
+  "Back-office billing: controller payments, invoices, model-management payments, referral tracking"
+ ],
+ "handle": "+17542679384",
+ "analyzed_rowid": 1640972,
+ "message_count": 284,
+ "first_date": "2026-05-11",
+ "last_date": "2026-09-28"
+}

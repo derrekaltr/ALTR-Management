@@ -1,0 +1,55 @@
+# Isa 🇧🇷, Jason Augusto Client  [imessage #230 GROUP]
+msgs=50 (in=31 out=19) window=2026-04-08..2026-05-13
+last_client=2026-05-13 (128d ago), last_derrek=2026-05-02 (139d ago)
+LAST MESSAGE FROM CLIENT — UNANSWERED: 'Okok thank you for the help Derek 💕💕 love yoooou'
+
+  ...
+[2026-04-08 18:57] Isa 🇧🇷: Hey jay this is derrek , he can help you with the account recovery
+[2026-04-08 18:58] DEREK: Hey, great to meet you
+[2026-04-08 18:58] DEREK: I need: @: Email: Take a screenshot when you login and click “read more about this rule” A Screenshot of the email you received if you got one when it went down Follower Count:
+[2026-04-08 19:01] Jason Augusto Client: Hey Isa - Thanks for the intro ! What’s up Derrick - I have something drafted I’ll send it here explaining everything
+[2026-04-08 19:01] Jason Augusto Client: Follower Count : 1300
+[2026-04-08 19:02] Jason Augusto Client: Hey, Thanks for taking time to look at this. Long story Short - I deactivated my personal Instagram account (@jasonaugusto) a couple months ago to focus on some things. This past Friday I logged back in and it said it had been disabled. ￼Obviously I was confus…
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/20/00/at_3_77C19BCC-4EF5-41FB-8D87-3B2ABC9D0D79/attachment.png>
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/22/02/at_5_77C19BCC-4EF5-41FB-8D87-3B2ABC9D0D79/attachment.png>
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/1e/14/at_1_77C19BCC-4EF5-41FB-8D87-3B2ABC9D0D79/attachment.png>
+[2026-04-08 19:08] Jason Augusto Client: Edited to “ So clearly this was the trigger point that got my personal account (@jasonaugusto) account disabled (unactivated at the time). All accounts associated under that same account center have been reinstated immediately except for mine that wasn't even …
+[2026-04-08 19:29] DEREK: Perfect, checking it out
+[2026-04-08 19:30] DEREK: You would probably have a better chance getting your IG back in Amazon support chat then metas
+[2026-04-08 19:30] DEREK: They are literally the worst
+[2026-04-08 19:32] DEREK: So as of a few updates to go, even if your account is disabled, they can still ban the account
+[2026-04-08 19:32] DEREK: If they think u broke the rules
+  ...
+[2026-04-08 19:42] Jason Augusto Client: Even the meta agent called me and was like yeah this is weird makes no sense
+[2026-04-08 19:54] DEREK: Ok so I can get it back but the reps under the table he’s not like a support rep so it’s same price no matter the situation
+[2026-04-08 19:54] DEREK: I’ll link you with him on WhatsApp
+[2026-04-08 19:54] Jason Augusto Client: Awesome bro - can I give you a quick call ?
+[2026-04-08 19:55] DEREK: Give me 15
+[2026-04-08 19:55] Jason Augusto Client: Take your time - call When your available
+[2026-04-14 01:06] Jason Augusto Client: Hey Derrick - don’t mean to bother you but let me know when you can throw me in the group chat so I can get the account rolling. Thanks
+[2026-04-15 22:41] DEREK: My b got u
+[2026-04-15 22:42] DEREK: Do you have WhatsApp
+[2026-04-15 22:56] Jason Augusto Client: Yeah
+[2026-04-15 22:56] Jason Augusto Client: Same number that I have here
+[2026-04-15 22:56] Jason Augusto Client: All good !
+[2026-04-20 14:21] Jason Augusto Client: 6472047102 - whenever you can bro!
+[2026-04-20 14:23] DEREK: Yo, sorry I forgot to tell you that all unbans are down right now
+[2026-04-20 14:23] DEREK: Literally happened out of nowhere
+[2026-04-20 14:23] DEREK: They released this update that changes the way reps can un ban accounts
+[2026-04-20 14:23] DEREK: They should come online though soon
+[2026-04-20 14:24] Jason Augusto Client: All good bro - oh wow , thats unfortunate
+[2026-04-20 14:26] DEREK: To be honest, it should be back up in a little bit
+[2026-04-20 14:27] Jason Augusto Client: Okok sounds good appreciate your efforts regardless
+[2026-04-20 14:27] Jason Augusto Client: Should I check back in like beginning of May ?
+[2026-05-02 19:44] Isa 🇧🇷: Heeey Derek 🥹 any update on this ?
+[2026-05-02 20:11] DEREK: Ig unbans are completely down
+[2026-05-02 20:55] Jason Augusto Client: Loved “Ig unbans are completely down”
+[2026-05-02 20:55] Jason Augusto Client: Thanks Derek - whenever it’s back just let me know !
+[2026-05-13 22:25] Isa 🇧🇷: Heeey guys
+[2026-05-13 22:25] Isa 🇧🇷: Any update on the IG recoveries rn ???
+[2026-05-13 22:26] Jason Augusto Client: I just got it back .. lol
+[2026-05-13 22:26] Jason Augusto Client: Literally 10 mins ago
+[2026-05-13 22:26] Jason Augusto Client: Thanks for your efforts
+[2026-05-13 22:26] Jason Augusto Client: Derek if you ever come here drinks on me
+[2026-05-13 22:27] Isa 🇧🇷: Lmaoooooo no way
+[2026-05-13 22:27] Isa 🇧🇷: Okok thank you for the help Derek 💕💕 love yoooou

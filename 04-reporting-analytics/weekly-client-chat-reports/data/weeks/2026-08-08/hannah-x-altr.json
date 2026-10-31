@@ -1,0 +1,95 @@
+{
+  "client": "Hannah",
+  "slug": "hannah-x-altr",
+  "week_ending": "2026-08-08",
+  "summary": "Hannah (Bella) terminated the partnership on 2026-07-06 to run her account independently, and this week's activity was solely offboarding cleanup: Stephski asked for her final earning statements (7/1-7/7) so ALTR can issue the final invoice, then nudged again two days later. The client sent zero messages this week and has been silent in the chat since 2026-07-06, leaving the final invoice and her promised remaining-balance payment unresolved.",
+  "health": {
+    "score": 10,
+    "trend": "new",
+    "rationale": "Client already churned (7/6) and is now unresponsive to final-invoice requests; only recoverable value is collecting the final balance."
+  },
+  "reminders": [
+    {
+      "employee": "Stephski",
+      "topic": "Final earning statements for 7/1-7/7 so the final invoice can be issued",
+      "count": 2,
+      "first_date": "2026-08-02",
+      "last_date": "2026-08-04",
+      "days_outstanding": 6,
+      "quotes": [
+        {"quote": "Hi Bella Hope you're doing well, can you shoot over your final earning statements for 7/1-7/7? So we can issue our final invoice for you ❤️", "who": "Stephski", "date": "2026-08-02"},
+        {"quote": "Just making sure you saw this 🙏", "who": "Stephski", "date": "2026-08-04"}
+      ]
+    }
+  ],
+  "complaints": [
+    {
+      "issue": "Client churn: announced she is taking over her account and working independently; never re-engaged afterward",
+      "status": "recurring",
+      "first_raised": "2026-07-06",
+      "owner": null,
+      "quotes": [
+        {"quote": "Hey guys I really appreciate working with you but I’m going to take over my account and work independently, I just sent the most recent wire and I’m going to wait for the rest of the money to transfer to pending for the next payout & will send that your way.", "who": "Bells Vale Referral", "date": "2026-07-06"}
+      ]
+    },
+    {
+      "issue": "DMCA leak takedowns perceived as too slow — client repeatedly reported the same leaks still live after removal reports",
+      "status": "recurring",
+      "first_raised": "2026-06-26",
+      "owner": "Michelle",
+      "quotes": [
+        {"quote": "Hi all those leaks are still up 😭", "who": "Bells Vale Referral", "date": "2026-06-26"},
+        {"quote": "All those leaks are still up were you able to report them", "who": "Bells Vale Referral", "date": "2026-06-28"},
+        {"quote": "So even if the links are still live on the websites right now, we're actively working through the removal process and will continue following up until they're taken down 🙌🏼", "who": "Michelle Queue", "date": "2026-07-01"}
+      ]
+    }
+  ],
+  "commitments": [
+    {
+      "what": "Send remaining balance owed to ALTR once final OF payout clears",
+      "who": "Hannah (client)",
+      "date": "2026-07-06",
+      "status": "overdue",
+      "quotes": [
+        {"quote": "I just sent the most recent wire and I’m going to wait for the rest of the money to transfer to pending for the next payout & will send that your way.", "who": "Bells Vale Referral", "date": "2026-07-06"}
+      ]
+    },
+    {
+      "what": "Issue final invoice for 7/1-7/7 (blocked on client providing earning statements)",
+      "who": "Stephski",
+      "date": "2026-08-02",
+      "status": "pending",
+      "quotes": [
+        {"quote": "can you shoot over your final earning statements for 7/1-7/7? So we can issue our final invoice for you ❤️", "who": "Stephski", "date": "2026-08-02"}
+      ]
+    }
+  ],
+  "payments": [
+    {
+      "note": "Final invoice for 7/1-7/7 cannot be issued: client has not sent final earning statements and has been silent since announcing her exit on 7/6. She promised to remit the remaining balance after her last OF payout; nothing received or confirmed in-chat.",
+      "date": null,
+      "late": true,
+      "reason": "Client churned 2026-07-06 and is unresponsive to both requests for final earning statements",
+      "suggested_fix": "Escalate beyond the group chat: have Derrek reach out directly (or via Vale, who referred her), and estimate the final invoice from ALTR's own tracking of 7/1-7/7 earnings so it can be issued without her statements.",
+      "quotes": [
+        {"quote": "Hi Bella Hope you're doing well, can you shoot over your final earning statements for 7/1-7/7? So we can issue our final invoice for you ❤️", "who": "Stephski", "date": "2026-08-02"},
+        {"quote": "Just making sure you saw this 🙏", "who": "Stephski", "date": "2026-08-04"}
+      ]
+    }
+  ],
+  "client_priorities": [
+    "Clean exit: she said she would pay the remaining balance after her final OF payout",
+    "Historically: leak/DMCA takedowns, growing TikTok/IG socials, and not being billed on earnings from her self-run lives"
+  ],
+  "suggestions": [
+    "Treat this as collections, not client care: two unanswered chat nudges in 6 days suggest the chat channel is dead — have Derrek make direct contact or route through Vale (her referrer).",
+    "Reconstruct 7/1-7/7 earnings from ALTR-side records (team had OF access until handover) and issue the final invoice proactively instead of waiting on her statements.",
+    "Run an exit interview/win-back note: her churn followed a slow first week of subs, a billing dispute over live earnings, three bank/invoicing changes in five weeks, and frustration with leak takedown speed — useful signals for retaining other referrals."
+  ],
+  "wins": [],
+  "week_stats": {
+    "messages": 2,
+    "client_messages": 0,
+    "team_messages": 2
+  }
+}

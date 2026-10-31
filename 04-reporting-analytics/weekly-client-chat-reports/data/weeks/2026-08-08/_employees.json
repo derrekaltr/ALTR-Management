@@ -1,0 +1,517 @@
+{
+  "week_ending": "2026-08-08",
+  "employees": [
+    {
+      "name": "Vivek",
+      "role": "Meta Support Rep",
+      "summary": "Owns the platform-health backlog: shadowban/reach issues open across 4 clients, and he admitted forgetting Sarah Lloyd's Facebook case. He did restore one of Sarah's IG accounts within 48h — the follow-through exists when the item stays on his radar.",
+      "open_issues": 7,
+      "trend": "new",
+      "clients": [
+        {
+          "client": "Sarah Lloyd",
+          "reminders": 2,
+          "complaints_owned": 1,
+          "commitments_kept": 1,
+          "commitments_overdue": 0,
+          "notes": "FB 'under watch', IG views 20M→4M; week ended on unfulfilled 'Wait i will explain'"
+        },
+        {
+          "client": "Sarah",
+          "reminders": 2,
+          "complaints_owned": 1,
+          "commitments_kept": 1,
+          "commitments_overdue": 0,
+          "notes": "Restored jxstin.media in 48h; 2 accounts still down, client nudged twice"
+        },
+        {
+          "client": "Lauryn",
+          "reminders": 0,
+          "complaints_owned": 2,
+          "commitments_kept": 0,
+          "commitments_overdue": 0,
+          "notes": "Owes her a walkthrough to verify FB without sharing Gmail credentials"
+        },
+        {
+          "client": "Haileigh Cox",
+          "reminders": 0,
+          "complaints_owned": 1,
+          "commitments_kept": 0,
+          "commitments_overdue": 0,
+          "notes": "Asked for IG login Jul 29, never followed up"
+        },
+        {
+          "client": "Vale",
+          "reminders": 0,
+          "complaints_owned": 0,
+          "commitments_kept": 0,
+          "commitments_overdue": 0,
+          "notes": "Her Aug 3 management referral only got an internal tag — route it before it goes cold"
+        },
+        {
+          "client": "Paige",
+          "reminders": 0,
+          "complaints_owned": 0,
+          "commitments_kept": 1,
+          "commitments_overdue": 0,
+          "notes": "Copyright-ban protection completed Jul 29; confirm her plaintext IG password got rotated"
+        }
+      ],
+      "strengths": [
+        "Restored Sarah's jxstin.media account within 48 hours of the report",
+        "Completed Paige's copyright-ban protection on schedule"
+      ],
+      "coaching_flags": [
+        "Dropped threads: admitted 'Sorry i forgot about Facebook' (Sarah Lloyd), and the Haileigh shadowban check has sat since Jul 29 waiting on a login he never chased — needs a personal open-items list",
+        "Replies like 'Yo Ma'am' with no substance (Barbara, Aug 6) read as brush-offs to clients waiting a week for news"
+      ],
+      "quotes": [
+        {
+          "quote": "Sorry i forgot about Facebook",
+          "client": "Sarah Lloyd",
+          "date": "2026-08-03"
+        },
+        {
+          "quote": "Thanks, pls make sure they actually fix it this time too :) makes me feel lowkey crazy having to ask the same",
+          "client": "Sarah Lloyd",
+          "date": "2026-07-14"
+        }
+      ]
+    },
+    {
+      "name": "Stephski",
+      "role": "Invoicing",
+      "summary": "Payment rails and invoice accuracy were this week's friction: two clients tried to pay and couldn't (Zelle email not recognized), Sarah Lloyd's invoice needed its third consecutive correction, Mila's 'did you get it?' went unanswered, Alex Paige Moore has an unclosed $1,989 ledger dispute, and Chey Mai's PayPal question is 26 days old. None of these clients are bad payers — the friction is on our side. Hannah (churned) needs collections escalation, not more chat nudges.",
+      "open_issues": 11,
+      "trend": "new",
+      "clients": [
+        {
+          "client": "Lauryn",
+          "reminders": 2,
+          "complaints_owned": 1,
+          "commitments_kept": 0,
+          "commitments_overdue": 0,
+          "notes": "Client actively trying to pay; Zelle email not working, no reply by week end"
+        },
+        {
+          "client": "Barbara",
+          "reminders": 0,
+          "complaints_owned": 1,
+          "commitments_kept": 1,
+          "commitments_overdue": 0,
+          "notes": "Same Zelle failure; payment-request receipt still unconfirmed"
+        },
+        {
+          "client": "Sarah Lloyd",
+          "reminders": 2,
+          "complaints_owned": 1,
+          "commitments_kept": 1,
+          "commitments_overdue": 1,
+          "notes": "35% vs 30% billing error (3rd invoice needing correction); overpayment credit unanswered"
+        },
+        {
+          "client": "Mila",
+          "reminders": 3,
+          "complaints_owned": 0,
+          "commitments_kept": 0,
+          "commitments_overdue": 0,
+          "notes": "Payment-received confirmation + duplicate check still owed"
+        },
+        {
+          "client": "Sarah",
+          "reminders": 0,
+          "complaints_owned": 0,
+          "commitments_kept": 1,
+          "commitments_overdue": 0,
+          "notes": "Clean cycle, paid without chasing"
+        },
+        {
+          "client": "Vale",
+          "reminders": 0,
+          "complaints_owned": 0,
+          "commitments_kept": 1,
+          "commitments_overdue": 0,
+          "notes": "Invoice + $5,720 referral credit handled cleanly — but nudged an invoice she'd already paid (Aug 4)"
+        },
+        {
+          "client": "Shayna",
+          "reminders": 0,
+          "complaints_owned": 0,
+          "commitments_kept": 1,
+          "commitments_overdue": 0,
+          "notes": "Fastest payment in the book — issued Aug 1, paid Aug 2, receipt confirmed"
+        },
+        {
+          "client": "Alex Paige Moore",
+          "reminders": 5,
+          "complaints_owned": 1,
+          "commitments_kept": 0,
+          "commitments_overdue": 0,
+          "notes": "$1,989 reconciliation dispute unclosed before the chat went silent; client chased payment links 5x in July"
+        },
+        {
+          "client": "Chey Mai",
+          "reminders": 0,
+          "complaints_owned": 0,
+          "commitments_kept": 0,
+          "commitments_overdue": 1,
+          "notes": "'Let me check on that for you' re: PayPal — 26 days unanswered; Aug 8 invoice due with no reminder sent"
+        },
+        {
+          "client": "Hannah",
+          "reminders": 0,
+          "complaints_owned": 0,
+          "commitments_kept": 0,
+          "commitments_overdue": 0,
+          "notes": "Churned client; final invoice blocked a month on her statements — escalate to Derrek/collections"
+        },
+        {
+          "client": "Paige",
+          "reminders": 0,
+          "complaints_owned": 0,
+          "commitments_kept": 1,
+          "commitments_overdue": 0,
+          "notes": "Clean cycle; client paid unprompted in 3 days — confirm the wire landed"
+        }
+      ],
+      "strengths": [
+        "Reissued Sarah Lloyd's corrected invoice same day; Sarah, Vale and Shayna cycles were clean end-to-end"
+      ],
+      "coaching_flags": [
+        "The Zelle rail is broken for at least 2 clients (Lauryn, Barbara) — clients are chasing US to take their money; verify and publish one working payment-details block",
+        "Recurring invoice errors (wrong fee %, wrong totals, unapplied credits) across Sarah Lloyd and Amber Haze — a pre-send checklist (fee %, credits, prior corrections) would stop clients auditing us",
+        "Payment confirmations lag: acknowledge receipt within 24h (Mila asked 3 times)",
+        "Check payment status before chasing: nudged already-paid invoices for Vale and Liza (crypto side-channel) — a paid-log shared with Derrek would stop phantom chases"
+      ],
+      "quotes": [
+        {
+          "quote": "That Zelle email isn't working",
+          "client": "Lauryn",
+          "date": "2026-08-07"
+        }
+      ]
+    },
+    {
+      "name": "Ollie Mckinlay",
+      "role": "Chat team lead",
+      "summary": "Chatter conduct is the #1 revenue risk in four books: Lauren Blake's whale retention (13 of 24 whales ghosted, a $27k spender blocked without telling her), Vale's chatter-honesty blow-up ('don't scam my fans', third time since Jul 17), Amber Haze's harassing fan took 4 nudges over 2 days, and Vicky's whale list (promised Jun 30) never materialized. New-client bright spot: Alanna's onboarding — but her Aug 10 scene drop is unconfirmed.",
+      "open_issues": 15,
+      "trend": "new",
+      "clients": [
+        {
+          "client": "Vale",
+          "reminders": 4,
+          "complaints_owned": 3,
+          "commitments_kept": 1,
+          "commitments_overdue": 1,
+          "notes": "Chatter told a fan a girl-girl video was Shayna; unauthorized vault videos await confirmed removal; months-old paid video calls still unscheduled (nudged 4x Jul 30–Aug 7)"
+        },
+        {
+          "client": "Lauren Blake",
+          "reminders": 0,
+          "complaints_owned": 2,
+          "commitments_kept": 1,
+          "commitments_overdue": 0,
+          "notes": "Whale ghosting + $27k spender blocked unannounced; boundary-respecting scripts still unconfirmed"
+        },
+        {
+          "client": "Amber Haze",
+          "reminders": 4,
+          "complaints_owned": 2,
+          "commitments_kept": 0,
+          "commitments_overdue": 0,
+          "notes": "'Moggy' harasser needed 4 nudges; chatters overpromising to fans (recurring)"
+        },
+        {
+          "client": "Vicky",
+          "reminders": 0,
+          "complaints_owned": 2,
+          "commitments_kept": 0,
+          "commitments_overdue": 1,
+          "notes": "$700 call sold without briefing her; whale list promised Jun 30 still missing"
+        },
+        {
+          "client": "Alanna",
+          "reminders": 1,
+          "complaints_owned": 0,
+          "commitments_kept": 0,
+          "commitments_overdue": 0,
+          "notes": "Strong same-day onboarding audit; FAQ form chased 2x still open, pinned scene schedule (first drop Aug 10) unconfirmed"
+        }
+      ],
+      "strengths": [
+        "Explained the $27k block directly on the Aug 7 call with Lauren Blake — direct client communication lands well",
+        "Same-day OF audit for new client Alanna — 'Loving the chatting so far' by end of week"
+      ],
+      "coaching_flags": [
+        "Whale/VIP protection failing across 4 clients the same way: chatters overpromise, lie about content, break persona, or block big spenders without client sign-off — needs a whale playbook (VIP list, alert-client rule, no-sell-without-brief, no misrepresenting content)",
+        "Urgent client-safety asks (harassing fan) should be same-day, not 4-nudges-over-2-days",
+        "Sold calls/customs need a shared tracker — Vale's paid video calls from months ago are still bouncing (Ryan/John mix-up Aug 3, 'Was a call booked for today ?' Aug 7)"
+      ],
+      "quotes": [
+        {
+          "quote": "He's spent 27k.. what're we doing here",
+          "client": "Lauren Blake",
+          "date": "2026-08-06"
+        },
+        {
+          "quote": "I don't want my fans to feel scammed !!!",
+          "client": "Vale",
+          "date": "2026-08-01"
+        }
+      ]
+    },
+    {
+      "name": "Fred",
+      "role": "OFM",
+      "summary": "Two books, both with boundary problems. Lilia: chatters mishandling her top spenders (6 escalations since June, a high spender lost Jul 29), removal of the offending chatter never confirmed. Shayna (58 health, lowest in the book with Lauryn): she's re-stated the same rules for months — no feed posts (asked 4x, 4th unauthorized post Aug 5), no free explicit content (asked ~8x since April), track customs (5x) — and says outright she doesn't feel heard. He responds fast and root-caused the Aug 5 feed post, but fixes keep un-sticking.",
+      "open_issues": 10,
+      "trend": "new",
+      "clients": [
+        {
+          "client": "Shayna",
+          "reminders": 19,
+          "complaints_owned": 3,
+          "commitments_kept": 2,
+          "commitments_overdue": 0,
+          "notes": "Feed posts x4, free explicit content x8, customs tracking x5, no-lives x2; Aug 7 custom question unanswered at week end; customs tracker broken since ~Jul 20; she leaves for a month-long Africa trip imminently"
+        },
+        {
+          "client": "Lilia",
+          "reminders": 6,
+          "complaints_owned": 2,
+          "commitments_kept": 0,
+          "commitments_overdue": 0,
+          "notes": "VIP mishandling recurring since June; chatter removal + OF reconnection both unconfirmed"
+        }
+      ],
+      "strengths": [
+        "Fast, apologetic responses — root-caused Shayna's feed-post bug to an orphaned auto-scheduler and disconnected it same week; briefed the team on her travel"
+      ],
+      "coaching_flags": [
+        "Close loops in writing: the chatter-removal promise (Jul 24, Lilia) and the post-login-change reconnection both lack written confirmation — silence reads as inaction",
+        "Shayna's rules need to be made structural, not repeated verbally: client-approved media folder, vault notes, and the shared customs tracker are all still pending — she has asked the same things ~19 times",
+        "Same VIP/boundary-protection gap as the other chat books — coordinate a shared playbook with Ollie"
+      ],
+      "quotes": [
+        {
+          "quote": "Missed out on my highest spender kind of pissed about it when it took me ages to get him back",
+          "client": "Lilia",
+          "date": "2026-07-29"
+        },
+        {
+          "quote": "Guyss third time I've asked that no feed posts go up. please relay this to the rest of the",
+          "client": "Shayna",
+          "date": "2026-07-29"
+        }
+      ]
+    },
+    {
+      "name": "Michelle",
+      "role": "Promo / queue account",
+      "summary": "IG/reels delivery is her open front: Alex Paige Moore's management-run reels page sat dormant ('Nothing since last year') and the 'posting will start this week' promise lapsed unverified; Barbara and Vicky are still waiting on the backup IG @name; Lauren Blake pinged promo status 3 times. Bright spot: the weekly leak-takedown reports are on time everywhere and clients say thanks — the most reliable deliverable on several accounts.",
+      "open_issues": 8,
+      "trend": "new",
+      "clients": [
+        {
+          "client": "Alex Paige Moore",
+          "reminders": 2,
+          "complaints_owned": 1,
+          "commitments_kept": 0,
+          "commitments_overdue": 1,
+          "notes": "Reels page dormant (complained Jun 2 + Jul 28); 'posting will start this week' unverified past deadline"
+        },
+        {
+          "client": "Shayna",
+          "reminders": 0,
+          "complaints_owned": 1,
+          "commitments_kept": 1,
+          "commitments_overdue": 0,
+          "notes": "Leak influx (esp. Fapello) in progress; weekly takedown reports on time and appreciated"
+        },
+        {
+          "client": "Chey Mai",
+          "reminders": 0,
+          "complaints_owned": 0,
+          "commitments_kept": 0,
+          "commitments_overdue": 0,
+          "notes": "Reels/Drive content request (Jun 25) never confirmed — pending"
+        },
+        {
+          "client": "Paige",
+          "reminders": 0,
+          "complaints_owned": 0,
+          "commitments_kept": 0,
+          "commitments_overdue": 0,
+          "notes": "Reel + story-photo uploads unconfirmed since Jul 18 — pending"
+        },
+        {
+          "client": "Barbara",
+          "reminders": 2,
+          "complaints_owned": 0,
+          "commitments_kept": 0,
+          "commitments_overdue": 1,
+          "notes": "Backup IG @name overdue"
+        },
+        {
+          "client": "Vicky",
+          "reminders": 0,
+          "complaints_owned": 0,
+          "commitments_kept": 0,
+          "commitments_overdue": 0,
+          "notes": "Backup IG handle pending"
+        },
+        {
+          "client": "Lauren Blake",
+          "reminders": 3,
+          "complaints_owned": 0,
+          "commitments_kept": 0,
+          "commitments_overdue": 0,
+          "notes": "Promo/trial-reel status pinged 3× (shared with Derrek)"
+        }
+      ],
+      "strengths": [
+        "Introduced herself proactively to new client Kaitlynn on day one",
+        "Weekly DMCA/leak-takedown reports land on time across accounts (Shayna, Alex Paige Moore, Hannah pre-churn) and get thanked explicitly"
+      ],
+      "coaching_flags": [
+        "Backup-IG @names are a 30-second reply once the accounts exist — if the phone farm is the blocker, say that instead of going quiet",
+        "Posting promises need visible proof: 'will start this week' (Alex Paige Moore) lapsed with no link/screenshot in chat — post the evidence when it ships"
+      ],
+      "quotes": []
+    },
+    {
+      "name": "Mayson",
+      "role": "Chatter / queue account",
+      "summary": "Good week on the floor — new client Kaitlynn praised the chat team within hours of onboarding. Loose ends: Barbara's link-in-bio versions (overdue), Liza's OF 'tag a creator' question (escalated, not answered), Alex Paige Moore's recurring low-earnings complaint (historically slow escalation), and Chey Mai's onboarding forms never confirmed closed.",
+      "open_issues": 4,
+      "trend": "new",
+      "clients": [
+        {
+          "client": "Alex Paige Moore",
+          "reminders": 0,
+          "complaints_owned": 1,
+          "commitments_kept": 0,
+          "commitments_overdue": 0,
+          "notes": "Owns recurring 'low OF earnings' complaint; VIP-link preview pic pending"
+        },
+        {
+          "client": "Chey Mai",
+          "reminders": 0,
+          "complaints_owned": 0,
+          "commitments_kept": 0,
+          "commitments_overdue": 0,
+          "notes": "Onboarding form + previous-team unlink never confirmed closed in chat"
+        },
+        {
+          "client": "Kaitlynn",
+          "reminders": 0,
+          "complaints_owned": 0,
+          "commitments_kept": 0,
+          "commitments_overdue": 0,
+          "notes": "Day-one praise from brand-new client"
+        },
+        {
+          "client": "Barbara",
+          "reminders": 0,
+          "complaints_owned": 0,
+          "commitments_kept": 0,
+          "commitments_overdue": 1,
+          "notes": "3 link-in-bio versions overdue"
+        },
+        {
+          "client": "Liza Kovalenko",
+          "reminders": 4,
+          "complaints_owned": 1,
+          "commitments_kept": 0,
+          "commitments_overdue": 0,
+          "notes": "OF tag-flag question escalated Aug 6, unanswered at week end (with Nick Scott)"
+        },
+        {
+          "client": "Lauren Blake",
+          "reminders": 0,
+          "complaints_owned": 0,
+          "commitments_kept": 1,
+          "commitments_overdue": 0,
+          "notes": ""
+        }
+      ],
+      "strengths": [
+        "Kaitlynn, hours after onboarding: instant client confidence in chat"
+      ],
+      "coaching_flags": [
+        "Escalating isn't closing — Liza's tag-flag question needs an answer back to her, not just an internal ping"
+      ],
+      "quotes": [
+        {
+          "quote": "Impressed already with chat omg.. thanks guys. Kill it",
+          "client": "Kaitlynn",
+          "date": "2026-08-07"
+        }
+      ]
+    },
+    {
+      "name": "Olivia",
+      "role": "OFTV / content",
+      "summary": "Fast fixer — turned Sarah's OFTV audio rejection around within 24h. But it's the third audio bounce-back since June 25; an audio QC pass before submission would stop the cycle.",
+      "open_issues": 1,
+      "trend": "new",
+      "clients": [
+        {
+          "client": "Sarah",
+          "reminders": 0,
+          "complaints_owned": 1,
+          "commitments_kept": 1,
+          "commitments_overdue": 0,
+          "notes": "OFTV audio rejection #3; fixed and resubmitted in 24h"
+        }
+      ],
+      "strengths": [
+        "Consistent 24h turnaround on OFTV fixes"
+      ],
+      "coaching_flags": [
+        "Add a pre-submission audio QC check — same rejection three times is a process gap, not bad luck"
+      ],
+      "quotes": []
+    },
+    {
+      "name": "Mica Vecco",
+      "role": "Social",
+      "summary": "One open confusion on Barbara's book (who runs her X/Twitter), plus two unbooked kickoff calls with new clients (Paige since Jul 6, Alanna pending). Note from Hannah's churn: reel inspo kept being sent for days after her exit message — offboarding signals were missed.",
+      "open_issues": 3,
+      "trend": "new",
+      "clients": [
+        {
+          "client": "Barbara",
+          "reminders": 0,
+          "complaints_owned": 1,
+          "commitments_kept": 0,
+          "commitments_overdue": 0,
+          "notes": "X/Twitter ownership confusion, recurring"
+        },
+        {
+          "client": "Paige",
+          "reminders": 0,
+          "complaints_owned": 0,
+          "commitments_kept": 0,
+          "commitments_overdue": 0,
+          "notes": "1-on-1 socials call unconfirmed since Jul 6"
+        },
+        {
+          "client": "Alanna",
+          "reminders": 0,
+          "complaints_owned": 0,
+          "commitments_kept": 0,
+          "commitments_overdue": 0,
+          "notes": "Kickoff Calendly call not yet booked (client side) — nudge"
+        }
+      ],
+      "strengths": [],
+      "coaching_flags": [
+        "Tell Barbara explicitly who runs her X account and what the posting cadence is",
+        "Track new-client kickoff calls to completion — two are hanging — and stop content workflows when a client exits (Hannah)"
+      ],
+      "quotes": []
+    }
+  ]
+}

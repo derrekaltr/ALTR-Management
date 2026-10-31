@@ -1,0 +1,431 @@
+{
+ "cycles": [
+  {
+   "chat": "Vale x ALTR",
+   "period_key": "2026-03-24",
+   "period": "2026-03-24..03-31",
+   "period_start": "2026-03-24T00:00:00-05:00",
+   "issued_ts": "2026-04-01T14:36:58-05:00",
+   "issued_by": "Stephski",
+   "issue_msg_ids": [
+    44,
+    59
+   ],
+   "followups": [
+    103
+   ],
+   "escalations": [],
+   "payment_links": [],
+   "payment_claimed_ts": "2026-04-06T15:15:47-05:00",
+   "payment_claim_msg": 104,
+   "payment_confirmed": true,
+   "evidence": "strong",
+   "lag_days": 5.0
+  },
+  {
+   "chat": "Vale x ALTR",
+   "period_key": "2026-04-01",
+   "period": "2026-04-01..04-15",
+   "period_start": "2026-04-01T00:00:00-05:00",
+   "issued_ts": "2026-04-15T13:08:37-05:00",
+   "issued_by": "Stephski",
+   "issue_msg_ids": [
+    133,
+    136
+   ],
+   "followups": [
+    140
+   ],
+   "escalations": [],
+   "payment_links": [],
+   "payment_claimed_ts": "2026-04-20T20:06:39-05:00",
+   "payment_claim_msg": 142,
+   "payment_confirmed": true,
+   "evidence": "strong",
+   "lag_days": 5.3
+  },
+  {
+   "chat": "Vale x ALTR",
+   "period_key": "2026-04-15",
+   "period": "2026-04-15..04-30",
+   "period_start": "2026-04-15T00:00:00-05:00",
+   "issued_ts": "2026-05-01T20:29:48-05:00",
+   "issued_by": "Stephski",
+   "issue_msg_ids": [
+    155,
+    156
+   ],
+   "followups": [],
+   "escalations": [],
+   "payment_links": [],
+   "payment_claimed_ts": null,
+   "payment_claim_msg": null,
+   "payment_confirmed": false,
+   "evidence": "none",
+   "lag_days": null
+  },
+  {
+   "chat": "Vale x ALTR",
+   "period_key": "2026-05-01",
+   "period": "2026-05-01..05-14",
+   "period_start": "2026-05-01T00:00:00-05:00",
+   "issued_ts": "2026-05-15T17:22:57-05:00",
+   "issued_by": "Stephski",
+   "issue_msg_ids": [
+    189,
+    190
+   ],
+   "followups": [],
+   "escalations": [],
+   "payment_links": [],
+   "payment_claimed_ts": null,
+   "payment_claim_msg": null,
+   "payment_confirmed": false,
+   "evidence": "none",
+   "lag_days": null
+  },
+  {
+   "chat": "Vale x ALTR",
+   "period_key": "2026-05-15",
+   "period": "2026-05-15..05-31",
+   "period_start": "2026-05-15T00:00:00-05:00",
+   "issued_ts": "2026-06-01T14:38:59-05:00",
+   "issued_by": "Stephski",
+   "issue_msg_ids": [
+    274,
+    275
+   ],
+   "followups": [],
+   "escalations": [],
+   "payment_links": [],
+   "payment_claimed_ts": "2026-06-03T17:44:24-05:00",
+   "payment_claim_msg": 298,
+   "payment_confirmed": true,
+   "evidence": "strong",
+   "lag_days": 2.1
+  },
+  {
+   "chat": "Vale x ALTR",
+   "period_key": "2026-06-15",
+   "period": "2026-06-15..06-30",
+   "period_start": "2026-06-15T00:00:00-05:00",
+   "issued_ts": "2026-07-01T14:58:33-05:00",
+   "issued_by": "Stephski",
+   "issue_msg_ids": [
+    373,
+    374
+   ],
+   "followups": [],
+   "escalations": [],
+   "payment_links": [],
+   "payment_claimed_ts": "2026-07-06T14:35:10-05:00",
+   "payment_claim_msg": 401,
+   "payment_confirmed": true,
+   "evidence": "strong",
+   "lag_days": 5.0
+  },
+  {
+   "chat": "Vale x ALTR",
+   "period_key": "2026-07-01",
+   "period": "2026-07-01..07-14",
+   "period_start": "2026-07-01T00:00:00-05:00",
+   "issued_ts": "2026-07-15T19:45:01-05:00",
+   "issued_by": "Stephski",
+   "issue_msg_ids": [
+    470,
+    471
+   ],
+   "followups": [
+    517
+   ],
+   "escalations": [],
+   "payment_links": [],
+   "payment_claimed_ts": null,
+   "payment_claim_msg": null,
+   "payment_confirmed": false,
+   "evidence": "none",
+   "lag_days": null
+  },
+  {
+   "chat": "Vale x ALTR",
+   "period_key": "2026-07-15",
+   "period": "2026-07-15..07-31",
+   "period_start": "2026-07-15T00:00:00-05:00",
+   "issued_ts": "2026-08-01T15:40:07-05:00",
+   "issued_by": "Stephski",
+   "issue_msg_ids": [
+    623,
+    624,
+    664
+   ],
+   "followups": [],
+   "escalations": [],
+   "payment_links": [],
+   "payment_claimed_ts": "2026-08-04T15:49:34-05:00",
+   "payment_claim_msg": 693,
+   "payment_confirmed": true,
+   "evidence": "strong",
+   "lag_days": 3.0
+  }
+ ],
+ "events": [
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 44,
+   "ts": "2026-04-01T14:36:58-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 59,
+   "ts": "2026-04-01T20:08:57-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 62,
+   "ts": "2026-04-02T12:06:11-05:00",
+   "sender": "FRED | OFM"
+  },
+  {
+   "event": "FOLLOW_UP",
+   "id": 103,
+   "ts": "2026-04-06T15:15:23-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CLAIMED",
+   "id": 104,
+   "ts": "2026-04-06T15:15:47-05:00",
+   "sender": "Vale"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 106,
+   "ts": "2026-04-06T15:17:24-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 130,
+   "ts": "2026-04-14T10:52:51-05:00",
+   "sender": "FRED | OFM"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 133,
+   "ts": "2026-04-15T13:08:37-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 136,
+   "ts": "2026-04-15T14:35:27-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "FOLLOW_UP",
+   "id": 140,
+   "ts": "2026-04-20T20:05:56-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CLAIMED",
+   "id": 142,
+   "ts": "2026-04-20T20:06:39-05:00",
+   "sender": "Vale"
+  },
+  {
+   "event": "PAYMENT_CLAIMED",
+   "id": 143,
+   "ts": "2026-04-20T20:06:51-05:00",
+   "sender": "Vale"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 144,
+   "ts": "2026-04-21T17:54:23-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 153,
+   "ts": "2026-05-01T14:39:21-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 154,
+   "ts": "2026-05-01T19:07:21-05:00",
+   "sender": "FRED | OFM"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 155,
+   "ts": "2026-05-01T20:29:48-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 156,
+   "ts": "2026-05-01T20:29:52-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 185,
+   "ts": "2026-05-11T18:20:19-05:00",
+   "sender": "FRED | OFM"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 189,
+   "ts": "2026-05-15T17:22:57-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 190,
+   "ts": "2026-05-15T17:23:00-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 274,
+   "ts": "2026-06-01T14:38:59-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 275,
+   "ts": "2026-06-01T14:39:04-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CLAIMED",
+   "id": 298,
+   "ts": "2026-06-03T17:44:24-05:00",
+   "sender": "Vale"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 300,
+   "ts": "2026-06-03T17:47:20-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 331,
+   "ts": "2026-06-15T11:26:15-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 335,
+   "ts": "2026-06-17T00:04:44-05:00",
+   "sender": "Michelle Queue"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 373,
+   "ts": "2026-07-01T14:58:33-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 373,
+   "ts": "2026-07-01T14:58:33-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 374,
+   "ts": "2026-07-01T14:58:37-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CLAIMED",
+   "id": 401,
+   "ts": "2026-07-06T14:35:10-05:00",
+   "sender": "Vale"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 418,
+   "ts": "2026-07-07T14:32:54-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 470,
+   "ts": "2026-07-15T19:45:01-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 471,
+   "ts": "2026-07-15T19:45:05-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 512,
+   "ts": "2026-07-20T10:43:00-05:00",
+   "sender": "Ollie Mckinlay"
+  },
+  {
+   "event": "FOLLOW_UP",
+   "id": 517,
+   "ts": "2026-07-20T21:27:12-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 526,
+   "ts": "2026-07-23T10:49:29-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 623,
+   "ts": "2026-08-01T15:40:07-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 624,
+   "ts": "2026-08-01T15:40:11-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 625,
+   "ts": "2026-08-01T19:10:05-05:00",
+   "sender": "Derrek"
+  },
+  {
+   "event": "INVOICE_ISSUED",
+   "id": 664,
+   "ts": "2026-08-02T18:13:44-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CLAIMED",
+   "id": 693,
+   "ts": "2026-08-04T15:49:34-05:00",
+   "sender": "Vale"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 694,
+   "ts": "2026-08-04T15:53:03-05:00",
+   "sender": "Stephski"
+  },
+  {
+   "event": "PAYMENT_CONFIRMED_CAND",
+   "id": 698,
+   "ts": "2026-08-05T10:51:02-05:00",
+   "sender": "Ollie Mckinlay"
+  }
+ ]
+}

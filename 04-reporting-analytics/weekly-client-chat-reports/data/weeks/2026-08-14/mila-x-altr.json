@@ -1,0 +1,144 @@
+{
+  "client": "Mila",
+  "slug": "mila-x-altr",
+  "week_ending": "2026-08-14",
+  "summary": "A very thin week — 10 messages total, almost all of it chasing one payment. Callie's re-sent Jul 15-31 wire (stopped by her bank's fraud flag) went missing for three days; Stephski confirmed on Aug 9 it had not landed, and on Aug 11 said 'I believe we got it... Will update you shortly!' — but no final confirmation was ever sent, and Callie's direct question about whether the payment came through twice has now gone unanswered since Aug 8. Separately, Derrek's Aug 1 promise of 'plenty of updates starting next week' on the phone-farm / IG posting rollout produced nothing for a second straight week; Derrek and Vivek were both silent in the chat. The only proactive team output all week was Mica's weekly reel-inspo drop on Aug 13. Callie stayed warm and raised no explicit complaint, but she is receiving very little for a client with a paused IG posting programme.",
+  "health": {
+    "score": 74,
+    "trend": "down",
+    "rationale": "Down from 82 last week. No new complaints and the client is still warm, but two ALTR commitments are now overdue: Stephski's promised payment-receipt confirmation ('Will update you shortly!' on Aug 11, nothing since) including the duplicate-payment check Callie asked for on Aug 8, and Derrek's phone-farm/IG update promised 'starting next week' on Aug 1 and still undelivered 13 days later. Payment-receipt chasing is now a four-instance pattern across three invoice cycles. Team output this week was one reel-inspo post."
+  },
+  "reminders": [
+    {
+      "employee": "Stephski",
+      "topic": "Confirming ALTR actually received her payment (and, this cycle, that it did not come through twice)",
+      "count": 4,
+      "first_date": "2026-07-12",
+      "last_date": "2026-08-10",
+      "days_outstanding": 6,
+      "note": "Fourth time across three invoice cycles that Callie has had to ask whether her money arrived. She asked again on Aug 8 and Aug 10; Stephski's last word on Aug 11 was 'Will update you shortly!' and no confirmation followed by week end.",
+      "quotes": [
+        {"quote": "Has it been received ??", "who": "Callie (Mila)", "date": "2026-07-12"},
+        {"quote": "?", "who": "Callie (Mila)", "date": "2026-07-13"},
+        {"quote": "Hiya, just letting you know my bank had a fraud flag thing so my payment got stopped, I’ve only just seen but it’s sorted now and I’ve redone it please let me know when you’ve received it and if you could just double check it doesn’t come through twice🙄 thank you! Xx", "who": "Callie (Mila)", "date": "2026-08-08"},
+        {"quote": "The only thing I can think of is because it’s the weekend and international payments take a couple of days. Please let me know if it’s not there by the end of today and I’ll call the bank again xx", "who": "Callie (Mila)", "date": "2026-08-10"}
+      ]
+    }
+  ],
+  "complaints": [
+    {
+      "issue": "Instagram suspensions / paused backup-IG posting still unresolved. Callie's account was suspended on Jun 23, Derrek acknowledged on Aug 1 that pages were being 'constantly flagged, shadowbanned or deleted' and that posting had been paused pending a new phone-farm setup — and a second full week passed with no rollout update and no posting links.",
+      "status": "recurring",
+      "first_raised": "2026-06-23",
+      "owner": "Derrek",
+      "weeks_open": 8,
+      "quotes": [
+        {"quote": "Hey guys my accounts been suspended again, I haven’t clicked appeal this time as you said not to, so what happens now x", "who": "Callie (Mila)", "date": "2026-06-23"},
+        {"quote": "we have had pages constantly flagged, shadowbanned or deleted", "who": "Derrek", "date": "2026-08-01"},
+        {"quote": "My apologies, for any lack of communication.", "who": "Derrek", "date": "2026-08-01"}
+      ]
+    }
+  ],
+  "commitments": [
+    {
+      "what": "Confirm receipt of the re-sent Jul 15-31 payment and verify it did not come through twice — Stephski said on Aug 11 she would update 'shortly'; nothing sent by Aug 14",
+      "who": "Stephski",
+      "date": "2026-08-11",
+      "status": "overdue",
+      "days_outstanding": 3,
+      "quotes": [
+        {"quote": "Okay thank you! I will let you know 🙂", "who": "Stephski", "date": "2026-08-09"},
+        {"quote": "I believe we got it, waiting for it to finalize processing so I can see sender info but it looks like your total", "who": "Stephski", "date": "2026-08-11"},
+        {"quote": "Will update you shortly!", "who": "Stephski", "date": "2026-08-11"}
+      ]
+    },
+    {
+      "what": "Deliver the promised phone-farm / IG posting rollout updates ('plenty of updates starting next week' — shipment was due Mon Aug 3). Two weeks on, no update has been posted in the chat.",
+      "who": "Derrek",
+      "date": "2026-08-01",
+      "status": "overdue",
+      "days_outstanding": 13,
+      "quotes": [
+        {"quote": "We are waiting for a shipment that should land Monday that will be the final piece needed to begin and scale.", "who": "Derrek", "date": "2026-08-01"},
+        {"quote": "Thank you for your understanding, we will have plenty of updates starting next week.", "who": "Derrek", "date": "2026-08-01"}
+      ]
+    },
+    {
+      "what": "Send Callie links to the promo content posted on her behalf so she is 'in the loop' — agreed Jul 8, only the page URL was ever shared (Jul 11); no post links sent since",
+      "who": "Michelle Queue",
+      "date": "2026-07-08",
+      "status": "overdue",
+      "days_outstanding": 37,
+      "quotes": [
+        {"quote": "Amazinggg, if you could send me links when you do just so I can be in the loop🫶🏼", "who": "Callie (Mila)", "date": "2026-07-08"},
+        {"quote": "will do babes 🫶🏼", "who": "Michelle Queue", "date": "2026-07-08"},
+        {"quote": "Hi babes, this is the ig page we will be posting on 💕\n\nhttps://www.instagram.com/sugarcrystalll/reels/", "who": "Michelle Queue", "date": "2026-07-11"}
+      ]
+    },
+    {
+      "what": "Follow up on the fresh reels Callie committed to uploading on Aug 8 — Michelle said 'keep me posted' and never checked back during the week",
+      "who": "Michelle Queue",
+      "date": "2026-08-08",
+      "status": "pending",
+      "quotes": [
+        {"quote": "Sorry had such a busy day yesterday ! Will do today!🫶🏼🫶🏼", "who": "Callie (Mila)", "date": "2026-08-08"},
+        {"quote": "no worries love, keep me posted 🫶🏼", "who": "Michelle Queue", "date": "2026-08-08"}
+      ]
+    }
+  ],
+  "payments": [
+    {
+      "note": "Jul 15-31 invoice (sent Aug 1, 7-day window). Callie's first payment was blocked by her bank's fraud flag; she re-sent on Aug 8 — the day it was due — and asked ALTR to confirm receipt and check for a duplicate. Stephski confirmed on Aug 9 that nothing had landed, then on Aug 11 said it looked like the right total but was still processing and she would 'update shortly'. No final confirmation and no duplicate-check answer was given by week end. Money is very likely in, but the client has not been told.",
+      "date": "2026-08-11",
+      "amount": "unstated in chat (prior cycle was USD 727 / GBP 543.22)",
+      "late": true,
+      "reason": "Client's bank fraud-flagged and stopped the first attempt; re-sent Aug 8, cleared ALTR-side around Aug 11 but unconfirmed to the client",
+      "suggested_fix": "Send Callie a one-line confirmation today: payment received, amount, and explicit 'no duplicate came through'. Then make same-day receipt confirmation standard for her — she has chased four times across three cycles.",
+      "quotes": [
+        {"quote": "Hiya, just letting you know my bank had a fraud flag thing so my payment got stopped, I’ve only just seen but it’s sorted now and I’ve redone it please let me know when you’ve received it and if you could just double check it doesn’t come through twice🙄 thank you! Xx", "who": "Callie (Mila)", "date": "2026-08-08"},
+        {"quote": "Just checked we have not received", "who": "Stephski", "date": "2026-08-09"},
+        {"quote": "I believe we got it, waiting for it to finalize processing so I can see sender info but it looks like your total", "who": "Stephski", "date": "2026-08-11"},
+        {"quote": "Ahhh perf!! X", "who": "Callie (Mila)", "date": "2026-08-11"}
+      ]
+    },
+    {
+      "note": "Structural risk, unchanged: every one of Callie's three invoice cycles has had friction. Jun 21-30 needed a GBP figure and a due date before she could pay and then took six days to locate on ALTR's side because a bank fee changed the total; Jul 1-14 stalled until a GBP PDF was issued on Jul 20; Jul 15-31 was fraud-flagged and then sat unconfirmed. She has never refused or disputed a payment — the delay is always process-side.",
+      "date": "2026-08-14",
+      "late": false,
+      "reason": "USD-first invoicing to a GBP account plus international wire lag, with no proactive receipt confirmation",
+      "suggested_fix": "Issue her invoices dual-currency (USD + GBP at the day's rate) as standard, state the due date on the PDF, and warn her that international wires take 2-4 business days so a weekend send is not a missing payment.",
+      "quotes": [
+        {"quote": "Is it possible to get the invoice is GBP? So I can get it paid :)", "who": "Callie (Mila)", "date": "2026-07-07"},
+        {"quote": "We will make sure the exchange is on the next invoice", "who": "Alex Camus", "date": "2026-07-07"},
+        {"quote": "Hello! Coukd I have it in pounds please:) xx", "who": "Callie (Mila)", "date": "2026-07-19"},
+        {"quote": "there was a fee deducted so the total didnt match thats why it was difficult to find", "who": "Stephski", "date": "2026-07-13"}
+      ]
+    }
+  ],
+  "client_priorities": [
+    "Prompt, unambiguous confirmation that her payments were received — she has now chased this four times across three cycles",
+    "Invoices in GBP with a clear due date so she can pay same-day",
+    "Being kept in the loop on promo/IG posting, including links to what actually gets posted",
+    "Instagram account safety — suspensions handled without risking her main page, and a real update on the paused posting programme",
+    "Clear OF pricing/custom boundaries (flexible, roughly GBP 700-1000 for topless customs)"
+  ],
+  "suggestions": [
+    "Stephski: close the payment loop today — confirm the Jul 15-31 wire landed, state the amount, and explicitly answer the duplicate question she asked on Aug 8. It has been unanswered for six days.",
+    "Derrek: post the phone-farm / IG rollout update. It was promised for the week of Aug 3 and two weeks have passed with silence; this is the client's biggest open item and she has stopped asking, which is worse than complaining.",
+    "Michelle: start sending links to posts on sugarcrystalll — she asked for this on Jul 8, was told 'will do babes', and has received none since the page URL on Jul 11.",
+    "Make dual-currency (USD + GBP) invoicing and a stated due date the default for this account before the Aug 1-14 invoice goes out.",
+    "Michelle: check whether the Aug 8 reel upload actually happened — she promised it, no confirmation came, and nobody followed up.",
+    "Vivek (Meta Support) was introduced on Jul 29 and has never posted in the chat; have him proactively check her IG/TikTok status so the account-safety promise has something behind it."
+  ],
+  "wins": [
+    "The missing payment was located on Aug 11 — Stephski proactively checked on both Aug 9 and Aug 11 rather than leaving it, and Callie responded warmly ('Ahhh perf!! X')",
+    "The Aug 1 invoice did not trigger another GBP request from Callie, suggesting the currency fix promised on Jul 7 finally landed",
+    "Mica held her weekly reel-inspo cadence with a fresh drop on Aug 13, the only proactive deliverable of the week",
+    "Client remains cooperative and non-confrontational despite a stalled IG programme — no complaint was raised all week"
+  ],
+  "week_stats": {
+    "messages": 10,
+    "client_messages": 4,
+    "team_messages": 6
+  }
+}

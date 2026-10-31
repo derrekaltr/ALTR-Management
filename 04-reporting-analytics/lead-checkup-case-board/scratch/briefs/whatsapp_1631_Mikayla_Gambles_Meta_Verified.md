@@ -1,0 +1,226 @@
+# Mikayla Gambles Meta Verified  [whatsapp #1631 GROUP]
+msgs=273 (in=264 out=9) window=2026-08-22..2026-09-18
+last_client=2026-09-18 (0d ago), last_derrek=2026-09-12 (6d ago)
+LAST MESSAGE FROM CLIENT — UNANSWERED: 'buzMag-wyvbis-7kigmu'
+
+  ...
+[2026-08-22 04:33] 120363428654579459@g.us: {"parent_group_name":null,"is_hidden_sub_group":false,"should_use_identity_header":true,"author":"65300816998597@lid","auto_add_disabled":true,"parent_group_jid":null,"context_group":null,"reason":0,"subject":"Mikayla Gambles Meta Verified","is_parent_group_ge…
+[2026-08-22 04:35] 85499913998498@lid: 65300816998597@lid
+[2026-08-22 04:45] 90327557926944@lid: Hiii
+[2026-08-22 04:47] 85499913998498@lid: Hii ma'am
+[2026-08-22 04:51] 90327557926944@lid: How are youu
+[2026-08-22 04:52] 85499913998498@lid: I'm good ma'am
+[2026-08-22 04:53] 85499913998498@lid: What's about you
+[2026-08-22 04:55] 90327557926944@lid: I’m ok!
+[2026-08-22 04:55] 90327557926944@lid: I wanted to see if it’d be possible to get my other ig meta verified
+[2026-08-22 05:01] 85499913998498@lid: Yes it's possible
+[2026-08-23 22:13] 90327557926944@lid: Awesome
+[2026-08-23 22:14] 90327557926944@lid: What’s the process?
+  ...
+[2026-08-24 18:30] 85499913998498@lid: On it
+[2026-08-24 18:31] 85499913998498@lid: @90327557926944 approval
+[2026-08-24 18:31] 90327557926944@lid: Yes
+[2026-08-24 18:31] 90327557926944@lid: Just approved
+[2026-08-24 18:31] 85499913998498@lid: Google authentication code
+  ...
+[2026-08-24 18:42] 90327557926944@lid: I’ll do the plus
+[2026-08-24 18:42] 90327557926944@lid: That’s the $15 one right?
+[2026-08-24 18:44] 85499913998498@lid: Yes
+  ...
+[2026-08-24 18:46] 90327557926944@lid: Should I add my fb too?
+[2026-08-24 18:46] 90327557926944@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363428654579459@g.us/4/5/45b13bc7-2c53-487b-aa80-08fb1a39bd13.jpg>
+[2026-08-24 18:46] 85499913998498@lid: You want facebook too!?
+  ...
+[2026-08-24 18:46] 90327557926944@lid: I didn’t evwn know facebook was an option
+[2026-08-24 18:47] 85499913998498@lid: We can verify facebook too
+[2026-08-24 18:47] 85499913998498@lid: If you want to verify your page
+[2026-08-24 18:47] 85499913998498@lid: Just choose facebook page too
+[2026-08-24 18:47] 90327557926944@lid: Oki
+[2026-08-24 18:48] 90327557926944@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363428654579459@g.us/5/c/5c1b9059-b55f-49d5-875e-6bcb86ab9faf.jpg>
+[2026-08-24 18:48] 90327557926944@lid: Done
+[2026-08-24 18:48] 85499913998498@lid: Meta is the real final boss in india plus subscription fees is ,22 dollar per month for usa it's 49 dollar 😂
+  ...
+[2026-08-24 18:49] 90327557926944@lid: Argentina was way cheaper too😂
+[2026-08-24 18:49] 85499913998498@lid: It will verified in 1 hour maximum
+[2026-08-24 18:49] 90327557926944@lid: Yay!
+[2026-08-24 18:49] 85499913998498@lid: Yeah I guess because of taxes
+[2026-08-24 18:54] 85499913998498@lid: Account is shadow banned
+[2026-08-24 18:54] 90327557926944@lid: What
+  ...
+[2026-08-24 18:55] 85499913998498@lid: We have two options
+[2026-08-24 18:56] 85499913998498@lid: Archives some content and then reach will fixed
+[2026-08-24 18:56] 85499913998498@lid: And other one is too through chat support without archiving the content
+  ...
+[2026-08-24 18:58] 90327557926944@lid: Oki then that
+[2026-08-24 20:31] 90327557926944@lid: Lmk when done and what you need for the acc status
+[2026-08-25 02:00] 90327557926944@lid: Heyy
+[2026-08-25 02:00] 90327557926944@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363428654579459@g.us/8/4/8445cf2f-0c20-4d37-b56a-fad278ec7bcd.jpg>
+[2026-08-25 02:00] 90327557926944@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363428654579459@g.us/5/4/54aecf05-90a0-48eb-a78f-dc2168e105fd.jpg>
+[2026-08-25 02:00] 90327557926944@lid: I just got this
+  ...
+[2026-08-25 02:01] 90327557926944@lid: https://youtube.com/@rusher096
+[2026-08-25 02:02] 90327557926944@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363428654579459@g.us/c/e/cebca603-2925-4fe8-9cfa-c038525a7d03.jpg>
+[2026-08-25 02:02] 90327557926944@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363428654579459@g.us/7/2/7235a42a-40bf-46e8-a88d-89dcf68353d4.jpg>
+[2026-08-25 02:02] 90327557926944@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363428654579459@g.us/f/e/fe6b0563-189b-4269-a8d5-60669719313d.jpg>
+[2026-08-25 02:02] 90327557926944@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363428654579459@g.us/8/6/869cec72-5aee-49b8-b98a-d88191869f1d.jpg>
+[2026-08-25 03:00] 90327557926944@lid: mmlpalafox@gmail.com
+[2026-08-25 03:00] 90327557926944@lid: zokWyc-rinci4-roxmag
+[2026-08-25 05:15] 85499913998498@lid: Fuck this people's
+[2026-08-25 05:17] 90327557926944@lid: 😭😭😭😭
+  ...
+[2026-08-25 06:07] 85499913998498@lid: Archive them
+[2026-08-25 06:09] 90327557926944@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363428654579459@g.us/6/3/6324d32b-8c38-4abf-b799-84a590288bdc.jpg>
+[2026-08-25 06:09] 90327557926944@lid: How come they get to claim copyright on my own content? That makes no sense
+[2026-08-25 06:23] 85499913998498@lid: Meta ai sucks
+[2026-08-25 06:23] 85499913998498@lid: Will restore those two content also
+[2026-08-25 06:25] 90327557926944@lid: Tell me something i don’t know 😭
+  ...
+[2026-08-25 06:30] 85499913998498@lid: @90327557926944
+[2026-08-25 06:30] 90327557926944@lid: Done
+[2026-08-25 06:33] 85499913998498@lid: You have the facebook account and page for both accounts?
+  ...
+[2026-08-25 16:31] 90327557926944@lid: Hii
+[2026-08-25 16:31] 90327557926944@lid: Any updates? :)
+[2026-08-25 19:00] 85499913998498@lid: Yes account is verified 🐱
+[2026-08-25 19:01] 85499913998498@lid: For copyright timeline is 3 to 7 days
+  ...
+[2026-08-25 19:35] 90327557926944@lid: What about acc status?
+[2026-08-25 19:37] 85499913998498@lid: Yeah will fixed complete
+[2026-08-25 19:40] 90327557926944@lid: Oki! How long will that take?
+[2026-08-25 19:40] 90327557926944@lid: I’m just not going to post until it’s fixed
+[2026-08-25 19:41] 90327557926944@lid: Because my content isn’t getting any reach
+  ...
+[2026-08-25 19:43] 90327557926944@lid: Awesome thank you!
+[2026-08-26 05:50] 85499913998498@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363428654579459@g.us/b/1/b1017d0b-6606-453d-908a-dce0a0ff715e.jpg>
+[2026-08-26 05:50] 85499913998498@lid: Yo reach is fixed
+[2026-08-26 05:50] 85499913998498@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363428654579459@g.us/5/1/51ee7516-f380-466f-9fa6-b3d0648a3e63.jpg>
+[2026-08-26 05:50] 85499913998498@lid: @90327557926944 @65300816998597
+  ...
+[2026-08-26 06:38] 85499913998498@lid: Yes
+[2026-08-26 06:38] 85499913998498@lid: Will restore them
+[2026-08-26 06:40] 90327557926944@lid: Oki
+[2026-08-26 06:41] 85499913998498@lid: Anything else you want
+[2026-08-26 06:41] 85499913998498@lid: Verification is also active
+[2026-08-26 06:49] 90327557926944@lid: Nope
+  ...
+[2026-08-27 07:19] 85499913998498@lid: Yo
+[2026-08-27 07:19] 85499913998498@lid: @65300816998597 @90327557926944 one content restored
+[2026-08-27 07:37] 85499913998498@lid: Both restored
+[2026-08-27 07:37] 85499913998498@lid: Hahah
+[2026-08-27 07:37] 85499913998498@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363428654579459@g.us/2/3/2399efbf-c7e8-42d3-999d-95621839469f.jpg>
+[2026-08-27 07:37] 85499913998498@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363428654579459@g.us/4/b/4b2f3046-cbcf-4208-9b71-689f788f444c.jpg>
+[2026-08-27 07:47] 90327557926944@lid: Lfggg
+  ...
+[2026-08-27 23:06] 90327557926944@lid: Hii!
+[2026-08-27 23:06] 90327557926944@lid: Can I restore the archived videos??
+[2026-08-28 13:03] 85499913998498@lid: Yeah
+  ...
+[2026-08-28 20:23] 90327557926944@lid: I didn’t but
+[2026-08-28 20:24] 90327557926944@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363428654579459@g.us/a/1/a1c4b35b-7cee-4190-8481-20d90b4c387a.jpg>
+[2026-08-28 20:24] 90327557926944@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363428654579459@g.us/e/e/ee6288c1-ed2b-46b5-ba57-fd6ba5359594.jpg>
+[2026-08-28 20:24] 90327557926944@lid: What’s going on
+[2026-08-28 20:24] 90327557926944@lid: Some of them are trials too
+[2026-08-28 20:25] 90327557926944@lid: Do I appeal?
+[2026-08-28 20:31] 90327557926944@lid: I’m going to cry I literally never had any trouble at all with my gambling page why tf is this happening
+  ...
+[2026-08-28 20:33] 90327557926944@lid: Oki
+[2026-08-29 00:46] 90327557926944@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363428654579459@g.us/4/9/49d4b0db-70c3-44f2-a731-1ffbf9923c93.jpg>
+[2026-08-29 00:46] 90327557926944@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363428654579459@g.us/9/6/96db2eb7-773d-40ce-bfa9-2e508f6c2574.jpg>
+[2026-08-29 00:46] 90327557926944@lid: What is going on
+  ...
+[2026-08-29 19:56] 90327557926944@lid: What does this mean?
+[2026-08-29 19:57] 90327557926944@lid: Lmk when it’s fixed because I’m not posting when my acc status is fucked since videos perform bad😭
+[2026-08-30 07:29] 85499913998498@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363428654579459@g.us/9/0/9089c327-0556-414f-8681-ad686b0000f3.jpg>
+[2026-08-30 07:29] 85499913998498@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363428654579459@g.us/b/d/bd25e9bd-1f71-4729-8b1d-a537d7c07eb2.jpg>
+[2026-08-30 07:30] 90327557926944@lid: Yay!!
+  ...
+[2026-08-30 07:34] 90327557926944@lid: bysvug-jAfru4-xosvuq
+[2026-09-09 18:22] 90327557926944@lid: Hey! Were you able to take a look at this???
+[2026-09-09 18:22] 90327557926944@lid: @85499913998498
+  ...
+[2026-09-11 18:14] 90327557926944@lid: Hey!!
+[2026-09-11 18:14] 90327557926944@lid: Updates on ig and tiktok??
+[2026-09-11 18:14] 90327557926944@lid: @85499913998498
+  ...
+[2026-09-12 01:10] DEREK: hi
+[2026-09-12 01:10] DEREK: we will have updates tn
+[2026-09-12 01:13] 90327557926944@lid: Okie thank you!
+[2026-09-12 06:11] 90327557926944@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363428654579459@g.us/9/5/95705604-b7f6-4b72-bbe6-e3dfc241f694.jpg>
+[2026-09-12 06:11] 90327557926944@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363428654579459@g.us/a/9/a98b991d-8c5a-4437-9f46-1d3134723f10.jpg>
+[2026-09-12 06:12] 90327557926944@lid: Wtf is going on
+[2026-09-12 06:12] 90327557926944@lid: I can’t exist in peace
+  ...
+[2026-09-15 08:02] 90327557926944@lid: Hiiii
+[2026-09-15 08:14] 85499913998498@lid: Both accounts are shadow banned right now ?
+[2026-09-15 08:17] 90327557926944@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363428654579459@g.us/6/e/6e65a441-203c-47d2-b970-c460d95d291b.jpg>
+[2026-09-15 08:17] 90327557926944@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363428654579459@g.us/f/9/f9fac3db-574e-40d7-97d4-cc8f73bc67d2.jpg>
+[2026-09-15 08:17] 90327557926944@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363428654579459@g.us/0/5/05b5db72-7c3f-42b3-9bca-b36b43d822af.jpg>
+[2026-09-15 08:17] 90327557926944@lid: Mika gambles has that
+  ...
+[2026-09-15 17:58] 90327557926944@lid: Lmk if you need any codes
+[2026-09-16 07:35] 85499913998498@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363428654579459@g.us/7/9/79f1c94e-24cc-4f5b-aee1-8caf4d2e189a.jpg>
+[2026-09-16 07:35] 85499913998498@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363428654579459@g.us/5/8/58a65ce3-2753-4224-8b9d-c5bb7436b03e.jpg>
+[2026-09-16 07:35] 85499913998498@lid: No ma'am
+  ...
+[2026-09-16 07:40] 90327557926944@lid: What about the other one?😭
+[2026-09-16 08:09] 85499913998498@lid: Check that one also
+[2026-09-16 08:09] 85499913998498@lid: And can you share your tiktok problem also
+[2026-09-16 15:27] 90327557926944@lid: My tiktok account was taken down
+[2026-09-16 15:28] 90327557926944@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363428654579459@g.us/4/d/4ddfbdbd-a9ee-4cc3-83a2-a33e75108062.jpg>
+[2026-09-16 15:28] 90327557926944@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363428654579459@g.us/7/9/79b8299c-0345-4d03-bd05-03dd7d682852.jpg>
+[2026-09-16 15:28] 90327557926944@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363428654579459@g.us/d/f/dfade132-a9b1-4d37-9c2a-2806409f1591.jpg>
+[2026-09-16 15:28] 90327557926944@lid: That one is still there
+[2026-09-16 19:00] 85499913998498@lid: Did you submit the appeal
+[2026-09-16 19:00] 85499913998498@lid: it's in review
+[2026-09-16 19:00] 85499913998498@lid: Most probably 24 hour's
+[2026-09-16 19:08] 90327557926944@lid: Nope
+[2026-09-16 19:08] 90327557926944@lid: I didn’t
+[2026-09-16 19:09] 90327557926944@lid: I sent it straight to derrek I thought you were handling already
+[2026-09-16 19:10] 90327557926944@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363428654579459@g.us/7/b/7baeb407-84b1-4eaf-903e-aab4116f294c.jpg>
+[2026-09-17 03:10] 90327557926944@lid: Hii @85499913998498 were you able to check on this??
+[2026-09-17 08:57] 85499913998498@lid: Not yet
+[2026-09-17 08:57] 85499913998498@lid: Will check today
+[2026-09-17 09:00] 85499913998498@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363428654579459@g.us/2/c/2c8e95df-29b5-412b-be6a-2860936a2c6a.jpg>
+[2026-09-17 09:00] 85499913998498@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363428654579459@g.us/3/5/352afda1-2a6d-4b14-8403-6ccd29b2abea.jpg>
+[2026-09-17 09:00] 85499913998498@lid: @65300816998597 @90327557926944
+[2026-09-17 09:00] 85499913998498@lid: Second one fixed
+[2026-09-17 09:00] 85499913998498@lid: Now tiktok is remaining
+[2026-09-17 16:29] 90327557926944@lid: Yayy thank you!
+[2026-09-17 16:33] 90327557926944@lid: Oki keep me posted on it 🙏🏼🙏🏼💓
+[2026-09-17 16:38] 85499913998498@lid: Yes ma'am
+[2026-09-17 19:14] 90327557926944@lid: Thank you!
+[2026-09-18 03:23] 85499913998498@lid: @90327557926944 can you send me login details for your tiktok
+[2026-09-18 03:27] 90327557926944@lid: mikaalafuente_
+[2026-09-18 03:27] 90327557926944@lid: buzMag-wyvbis-7kigmu

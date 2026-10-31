@@ -1,0 +1,110 @@
+# @samobadtv Shadowban Removal  [imessage #14707 GROUP]
+msgs=101 (in=71 out=30) window=2026-08-23..2026-09-15
+last_client=2026-09-15 (3d ago), last_derrek=2026-09-10 (8d ago)
+LAST MESSAGE FROM CLIENT — UNANSWERED: 'Hi, any update on this pleaseeee?'
+
+  ...
+[2026-08-23 04:09] David: Sam 🤝 Derrick Derrick is the beast who is going to help you finally get your account back to normal. Derrick if you need anything from Sam please let him know
+[2026-08-23 04:10] DEREK: Hey great to meet you bro!
+[2026-08-23 04:15] @samobadtv: Hey. Thank you Derrick. I appreciate you
+[2026-08-23 04:28] DEREK: I’ll be in touch shortly to help!
+[2026-08-23 12:09] @samobadtv: Thank you
+[2026-08-23 18:17] DEREK: This is @samobadtv right
+[2026-08-23 18:25] @samobadtv: Yes it is
+[2026-08-23 18:56] DEREK: Amazing
+[2026-08-23 18:57] DEREK: Will be logging in shortly and let will need a 2FA code
+[2026-08-23 20:01] @samobadtv: Okay let me know when
+[2026-08-26 18:29] David: 
+      <IMG OK non-image: /Users/locklyjailbreak/Library/Messages/Attachments/dd/13/at_0_4220A4F2-9BD5-4BE1-B5CD-B310F85BA923/GroupPhotoImage>
+[2026-08-27 11:22] David: Derrek, can we please get started on Sam
+[2026-08-27 11:25] David: https://www.imsherlock.com/playbook/elfateh-h-abe396/aXVME35bpABJfd6OjNNOfy6I1SZgHob37CVX9L3yCxI
+      <IMG OK non-image: /Users/locklyjailbreak/Library/Messages/Attachments/21/01/at_0_2498DAED-B8D0-432F-B365-FCC91D0BE5DE/27A39625-F2CE-4EA4-80D4-452B9DB3E558.pluginPayloadAttachment>
+[2026-08-27 16:51] DEREK: Yep
+  ...
+[2026-08-27 16:52] DEREK: samobadtv CODE: 1469-3027
+[2026-08-27 16:53] DEREK: This is sam we need to remove the shadowban on his account
+[2026-08-27 22:05] Vivek Unban: Hey
+  ...
+[2026-08-30 16:52] DEREK: @samobadtv
+[2026-08-30 20:01] @samobadtv: Any update on this?
+[2026-08-30 20:01] @samobadtv: Plsss
+  ...
+[2026-08-31 07:42] DEREK: Added my partner daniel in here to help with communication, as I’ll be traveling the next few days
+[2026-08-31 07:48] DEREK: samobadtv CODE: 1469-3027 Shadowban Removal $500 Pay After
+[2026-08-31 19:56] David: Vivek, can we please get an update here?
+[2026-09-01 11:45] David: ?
+  ...
+[2026-09-01 19:32] David: Loved “Around in 24 to 48 hrs”
+[2026-09-04 12:24] Vivek Unban: I got an update
+[2026-09-04 12:55] David: Vivek!!
+[2026-09-04 12:55] David: Tell us please
+[2026-09-04 13:14] Vivek Unban: David lmk when you are free
+[2026-09-04 13:14] David: I will be in about an hour
+  ...
+[2026-09-05 13:11] Vivek Unban: Final review
+[2026-09-07 08:03] @samobadtv: Hi, what’s the update on this pls?
+[2026-09-07 09:35] DEREK: Hey Vivek, any update here
+[2026-09-07 09:36] DEREK: Last thing that checked is in progress
+  ...
+[2026-09-09 11:34] Vivek Unban: Started
+[2026-09-09 11:34] Vivek Unban: One restored
+[2026-09-09 11:34] Vivek Unban: 8 remaining
+[2026-09-09 11:35] Vivek Unban: Hahaha
+[2026-09-09 11:38] Vivek Unban: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/c0/00/at_0_3346D898-C2FB-42F8-8405-304E6F8769E6/81064668471__620A45B5-C1CB-49CE-A900-2C654058D036.heic>
+[2026-09-09 11:56] Vivek Unban: Second restored
+[2026-09-09 11:56] Vivek Unban: Haha
+[2026-09-09 11:57] Vivek Unban: Thrid restored
+[2026-09-09 12:10] Vivek Unban: Hahah 4th restored
+[2026-09-09 12:14] DEREK: Loved “Hahah 4th restored ”
+[2026-09-09 12:14] DEREK: Loved an image
+[2026-09-09 12:16] Vivek Unban: 6th content restored
+[2026-09-09 12:25] Vivek Unban: 7th restored
+[2026-09-09 12:25] Vivek Unban: Speed 👻
+[2026-09-09 12:25] Vivek Unban: 8th restored
+[2026-09-09 12:27] Vivek Unban: Restored all
+[2026-09-09 12:27] Vivek Unban: Hahaah
+[2026-09-09 12:27] Vivek Unban: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/c0/00/at_0_402818F0-835C-4460-ABDF-B69B13C8B773/81064963062__6281B306-0834-46AA-B419-7778487F1EC1.heic>
+[2026-09-09 12:30] Vivek Unban: Hahah
+  ...
+[2026-09-09 12:31] DEREK: Thanks vivek
+[2026-09-09 12:40] Vivek Unban: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/98/08/at_0_5543B704-6768-41F0-B9D8-230F52FB6526/81065042674__2087589B-3878-4F56-92A5-384E8DE85428.heic>
+[2026-09-09 12:42] Vivek Unban: Loved “Thanks vivek”
+  ...
+[2026-09-09 12:53] @samobadtv: Thank you so much
+[2026-09-09 12:53] Vivek Unban: Loved “Thank you so much ”
+[2026-09-09 12:54] Daniel Veritrade: Will send you quote link in a few mins to pay
+[2026-09-09 14:56] Daniel Veritrade: https://quote.altrservices.com/inv/d058ecb5-4cb3-4e4a-9400-217b3f42a056
+      <IMG OK non-image: /Users/locklyjailbreak/Library/Messages/Attachments/99/09/9A000956-E0C5-4A4A-A54A-43F16C58AA7D/9656F3A1-53F2-4B1F-B7C7-300290A579EA.pluginPayloadAttachment>
+      <IMG OK non-image: /Users/locklyjailbreak/Library/Messages/Attachments/54/04/A725CB02-09A5-4C55-850F-E0DB7E25FE28/EFAF8DBE-375E-48D5-BED7-08833F53B18F.pluginPayloadAttachment>
+      <IMG OK non-image: /Users/locklyjailbreak/Library/Messages/Attachments/ea/10/at_1_FB91E720-6874-43FE-A49A-E5961F1BE968/1728730C-BF9C-4060-A159-AB607A7C146C.pluginPayloadAttachment>
+[2026-09-10 03:43] @samobadtv: ￼Guys I need help again 😩
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/87/07/9FF9B807-E5E7-447B-92C7-108719DCD591/IMG_2369.png>
+[2026-09-10 04:46] DEREK: Damn
+[2026-09-10 04:46] DEREK: Send a screenshot of what content it says
+[2026-09-10 07:55] @samobadtv: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/78/08/751A9EE7-5601-4CBA-8670-50A9B47BF306/IMG_2373.png>
+[2026-09-10 07:55] @samobadtv: Literally the exact same ones as before. I didn’t realise I needed to delete or archive them straight away
+[2026-09-10 07:56] Vivek Unban: Reach is fine?
+[2026-09-10 07:58] DEREK: Oh yea it sometimes does that but it doesn’t affect your reach, it just can affect monetization. Which it doesn’t allow that category anyways for monetization so even if we remove it’s gonna not allow
+[2026-09-10 07:58] Vivek Unban: Before it’s 9 content
+[2026-09-10 07:58] DEREK: The part that makes a difference is the strikes towards your reach. That can cause the account to not get pushed out as well as eventually go down
+[2026-09-10 07:59] DEREK: Monetization flags mean nothing nor affect anything u gucci
+[2026-09-10 08:00] @samobadtv: Nah bro I need the monetization cause I have a deal with temu atm and they need me to add them to the ad
+[2026-09-10 08:00] @samobadtv: Plssss help remove if possible
+[2026-09-10 08:01] DEREK: Oh shit ok
+[2026-09-10 08:01] DEREK: On it
+[2026-09-10 08:23] @samobadtv: Thanks appreciate it. Those videos need to be deleted soon as they are restored
+[2026-09-10 10:47] DEREK: Liked “Thanks appreciate it. Those videos need to be deleted soon as they are restored ”
+[2026-09-10 10:47] DEREK: Vivek Unban
+[2026-09-10 10:48] DEREK: Can we restore and then immediately delete
+[2026-09-10 10:57] Vivek Unban: Logged out
+[2026-09-10 10:57] Vivek Unban: Will check tomorrow
+[2026-09-10 11:09] @samobadtv: Yes pls restore then delete straight away or I can delete it from my end
+[2026-09-10 11:14] DEREK: Loved “Yes pls restore then delete straight away or I can delete it from my end ”
+[2026-09-10 11:14] DEREK: Kk
+[2026-09-11 14:11] @samobadtv: Any update on this plsssss
+[2026-09-11 14:11] @samobadtv: I have some brand collabs that require me to add them to the ad thing
+[2026-09-15 08:35] @samobadtv: Hi, any update on this pleaseeee?

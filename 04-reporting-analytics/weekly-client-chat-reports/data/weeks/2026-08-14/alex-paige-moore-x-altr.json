@@ -1,0 +1,232 @@
+{
+  "client": "Alex Paige Moore",
+  "slug": "alex-paige-moore-x-altr",
+  "week_ending": "2026-08-14",
+  "summary": "Contact resumed after a fully silent week, and the relationship is calm — but the money is now flowing the wrong way. Stephski chased the July 15–31 invoice on Aug 11; Alex explained she was waiting on money ALTR owes her, which was stuck behind a PayPal hold on ALTR's side. Derrek was responsive all week (same-day on Aug 11, 12 and 13) but the hold only partially cleared: on Aug 13 he said one of two accounts worked, and Alex still had to ask for $2,434 to be netted off her invoice — the second month running that ALTR's debt to her has been settled by shrinking her invoice rather than paying her. She then paid in full the same day ($9,821 AUD), five days past the requested 7-day window. On delivery, she asked on Aug 12 whether ALTR is still using her Instagram; Derrek confirmed posting had been paused until the new phone farm arrived, which leaves Michelle's Jul 28 promise that posting on @paigealexxo would 'start this week' 16 days unmet. DMCA and reel-inspo cadences both landed on time. Her tone stayed warm and accommodating throughout — no anger, but two long-running deliverables are still open.",
+  "health": {
+    "score": 64,
+    "trend": "up",
+    "rationale": "Up from 58 last week: the silence broke, Derrek answered same-day every time, the invoice was settled in full, and the DMCA/reel-inspo cadences held. Held back by ALTR being unable to pay the money it owes her (PayPal hold, $2,434 netted off the invoice — the second such offset in three weeks), IG posting still paused with the Jul 28 posting promise 16 days overdue, and the July $1,989 ledger gap never explicitly closed."
+  },
+  "reminders": [
+    {
+      "employee": "Michelle Queue",
+      "topic": "Whether anyone is actually posting to her management-run IG reels/promo pages",
+      "count": 3,
+      "first_date": "2026-06-02",
+      "last_date": "2026-08-12",
+      "days_outstanding": 16,
+      "note": "Third time she has had to ask since June. The Aug 12 ask was directed at Derrek (@ofwizz), who confirmed posting had been paused; the @paigealexxo page promised on Jul 28 still has no confirmed posts.",
+      "quotes": [
+        {"quote": "Also has anyone been posting on the reelwithalex account", "who": "Alex Paige", "date": "2026-06-02"},
+        {"quote": "Hey no videos have been uploaded to my reel page in ages", "who": "Alex Paige", "date": "2026-07-28"},
+        {"quote": "Nothing since last year", "who": "Alex Paige", "date": "2026-07-28"},
+        {"quote": "Are you still using my Instagram @ofwizz", "who": "Alex Paige", "date": "2026-08-12"}
+      ]
+    },
+    {
+      "employee": "Derrek",
+      "topic": "Chasing the referral/promo money ALTR owes her (PayPal hold)",
+      "count": 3,
+      "first_date": "2026-07-24",
+      "last_date": "2026-08-13",
+      "days_outstanding": 20,
+      "note": "She raised it Jul 24, waited through Stephski's Aug 11 payment chase, and had to follow up again on Aug 13 after being told the hold would lift 'by tomorrow'.",
+      "quotes": [
+        {"quote": "Also @ofwizz was having issues paying me money so can we deduct 4160 off invoice if he approves", "who": "Alex Paige", "date": "2026-07-24"},
+        {"quote": "Just waiting for payment from Derrek to come in", "who": "Alex Paige", "date": "2026-08-11"},
+        {"quote": "Any updates on paypal or want to try transfer to bank", "who": "Alex Paige", "date": "2026-08-13"}
+      ]
+    }
+  ],
+  "complaints": [
+    {
+      "issue": "Management-run IG reels/promo posting is still stopped. Michelle created @paigealexxo on Jul 28 saying posting would start that week; on Aug 12 Alex had to ask whether ALTR is even still using her Instagram, and Derrek confirmed posting had been paused pending the new phone farm. No proof of posting has ever been sent.",
+      "status": "recurring",
+      "first_raised": "2026-06-02",
+      "owner": "Michelle Queue",
+      "quotes": [
+        {"quote": "Hey no videos have been uploaded to my reel page in ages", "who": "Alex Paige", "date": "2026-07-28"},
+        {"quote": "hey babes new page was created posting will start this week", "who": "Michelle Queue", "date": "2026-07-28"},
+        {"quote": "Are you still using my Instagram @ofwizz", "who": "Alex Paige", "date": "2026-08-12"},
+        {"quote": "I sent a message in the promo tab explaining that we had to pause until the new farm was in. Its in and we have new team and platform in place, and we actually are creating the client groupchats with the sales team tonight", "who": "Derrek", "date": "2026-08-12"}
+      ]
+    },
+    {
+      "issue": "ALTR could not pay the money it owes her: a PayPal hold blocked the transfer, she waited three days, only one of two ALTR accounts eventually worked, and $2,434 had to be netted off her invoice instead — the second offset in three weeks after $4,160 in late July.",
+      "status": "new",
+      "first_raised": "2026-08-11",
+      "owner": "Derrek",
+      "quotes": [
+        {"quote": "Just waiting for payment from Derrek to come in", "who": "Alex Paige", "date": "2026-08-11"},
+        {"quote": "still havent gotten a lift on the hold of paypal, called them twice and they are reviewing the info", "who": "Derrek", "date": "2026-08-11"},
+        {"quote": "our paypal should be lifted by tomorrow", "who": "Derrek", "date": "2026-08-11"},
+        {"quote": "Any updates on paypal or want to try transfer to bank", "who": "Alex Paige", "date": "2026-08-13"},
+        {"quote": "One of our two accounts worked", "who": "Derrek", "date": "2026-08-13"},
+        {"quote": "Can we deduct 2434 from invoice", "who": "Alex Paige", "date": "2026-08-13"}
+      ]
+    },
+    {
+      "issue": "The July 1–14 invoice reconciliation gap ($1,989 by Stephski's math vs fully paid by the client's) was never explicitly closed; the new invoice cycle and the $2,434 deduction were transacted on top of it without a reconciling ledger.",
+      "status": "in_progress",
+      "first_raised": "2026-07-27",
+      "owner": "Stephski",
+      "note": "No activity on this thread during the report week — it is stale, not resolved.",
+      "quotes": [
+        {"quote": "$9636-$4160 (referrals)-$3487 (payment) = $1,989 remaining", "who": "Stephski", "date": "2026-07-27"},
+        {"quote": "But it was $3639 + 4008 =$7,647 \n- 4160 referrals - 3487 which means it’s all paid. I didn’t use the link for the extra 5% to be added I just transfered", "who": "Alex Paige", "date": "2026-07-28"}
+      ]
+    },
+    {
+      "issue": "Standing, still-unanswered complaint about low OF earnings and what she can do to lift them; she has asked repeatedly since January 2026 and has never received a substantive plan.",
+      "status": "recurring",
+      "first_raised": "2026-01-13",
+      "owner": "Mayson",
+      "note": "Not re-raised during the report week; last asked Jun 28 and still unanswered.",
+      "quotes": [
+        {"quote": "Hey I’ve noticed my money has dropped a fair bit the last 2 weeks. Can I do anything to help increase it", "who": "Alex Paige", "date": "2026-01-13"},
+        {"quote": "Hey guys money is looking crazy low… what can I do to increase this", "who": "Alex Paige", "date": "2026-05-26"},
+        {"quote": "I need a response", "who": "Alex Paige", "date": "2026-05-26"},
+        {"quote": "How can we increase money on Of what can I do my end", "who": "Alex Paige", "date": "2026-06-28"}
+      ]
+    }
+  ],
+  "commitments": [
+    {
+      "what": "Start posting on the newly created IG reels page @paigealexxo",
+      "who": "Michelle Queue",
+      "date": "2026-07-28",
+      "status": "overdue",
+      "days_overdue": 16,
+      "quotes": [
+        {"quote": "hey babes new page was created posting will start this week", "who": "Michelle Queue", "date": "2026-07-28"},
+        {"quote": "I sent a message in the promo tab explaining that we had to pause until the new farm was in. Its in and we have new team and platform in place, and we actually are creating the client groupchats with the sales team tonight", "who": "Derrek", "date": "2026-08-12"}
+      ]
+    },
+    {
+      "what": "Roll out the new phone farm and send 'plenty of updates starting next week' after the Aug 1 explanation",
+      "who": "Derrek",
+      "date": "2026-08-01",
+      "status": "overdue",
+      "note": "The farm did land — Derrek confirmed on Aug 12 that it is in with a new team and platform — but the promised proactive updates never came; the client had to ask first, 11 days later.",
+      "quotes": [
+        {"quote": "Thank you for your understanding, we will have plenty of updates starting next week.", "who": "Derrek", "date": "2026-08-01"},
+        {"quote": "I sent a message in the promo tab explaining that we had to pause until the new farm was in. Its in and we have new team and platform in place, and we actually are creating the client groupchats with the sales team tonight", "who": "Derrek", "date": "2026-08-12"}
+      ]
+    },
+    {
+      "what": "Get the PayPal hold lifted 'by tomorrow' and send Alex the money ALTR owes her",
+      "who": "Derrek",
+      "date": "2026-08-11",
+      "status": "overdue",
+      "note": "Two days late and only partly delivered: on Aug 13 one of two accounts worked and $2,434 still had to be deducted from her invoice.",
+      "quotes": [
+        {"quote": "our paypal should be lifted by tomorrow", "who": "Derrek", "date": "2026-08-11"},
+        {"quote": "Hi, checking now if it’s back, give me a moment", "who": "Derrek", "date": "2026-08-13"},
+        {"quote": "One of our two accounts worked", "who": "Derrek", "date": "2026-08-13"},
+        {"quote": "Can we deduct 2434 from invoice", "who": "Alex Paige", "date": "2026-08-13"}
+      ]
+    },
+    {
+      "what": "Add her to the new sales-team client groupchat being created that night ('in the next few hours')",
+      "who": "Derrek",
+      "date": "2026-08-12",
+      "status": "pending",
+      "note": "No confirmation in this chat by Aug 14; may have been delivered in a separate group.",
+      "quotes": [
+        {"quote": "Will see it shortly in the next few hours", "who": "Derrek", "date": "2026-08-12"}
+      ]
+    },
+    {
+      "what": "Change the link-preview image for alexpaige.vip (blocked waiting on the image from her)",
+      "who": "Mayson",
+      "date": "2026-07-26",
+      "status": "pending",
+      "note": "Open since Jul 26 — she never sent the image and nobody followed up.",
+      "quotes": [
+        {"quote": "Hey guys are we able to change the pic that comes up when open the link  to alexpaige.vip", "who": "Alex Paige", "date": "2026-07-25"},
+        {"quote": "can you send me the one you want on there", "who": "Mayson Chat", "date": "2026-07-26"}
+      ]
+    }
+  ],
+  "payments": [
+    {
+      "note": "Invoice for July 15–31 (sent Aug 1, payment requested within 7 days, i.e. by ~Aug 8) was paid on Aug 13 — about 5 days late — after Stephski's Aug 11 check-in. She sent $9,821 AUD and posted a receipt.",
+      "date": "2026-08-13",
+      "late": true,
+      "reason": "She was waiting on the money ALTR owes her (blocked by ALTR's PayPal hold), and can only make international transfers from her laptop.",
+      "suggested_fix": "Never let an ALTR-side payment failure gate her invoice: net the amount off up front and send a clean revised invoice the same day.",
+      "quotes": [
+        {"quote": "Hi love! Hope you’re having an amazing weekend. Below is your invoice for the period of July 15th-31st. If you could please shoot over payment within the next 7 days that would be amazing! Let me know if I can help you with anything 💘", "who": "Stephski", "date": "2026-08-01"},
+        {"quote": "Hi! wanted to check in on this weeks payment", "who": "Stephski", "date": "2026-08-11"},
+        {"quote": "Easy, I’ll wait another 2 days in that case for payment. I can only transfer money internationally while I’m with my laptop which I won’t be until tomorrow anyway", "who": "Alex Paige", "date": "2026-08-11"},
+        {"quote": "Ill be sending $9821 aud today", "who": "Alex Paige", "date": "2026-08-13"},
+        {"quote": "Sent", "who": "Alex Paige", "date": "2026-08-13"}
+      ]
+    },
+    {
+      "note": "PAYMENT RISK — ALTR owed her money and could not pay it. A PayPal hold ran Aug 11–13; only one of two ALTR accounts eventually worked and $2,434 was netted off her invoice. This is the second consecutive offset (a $4,160 referral balance was deducted Jul 24–25), so ALTR's obligations to her are now routinely settled by shrinking her invoice rather than by paying her.",
+      "date": "2026-08-11",
+      "late": true,
+      "reason": "PayPal placed a hold on ALTR's account pending business verification documents.",
+      "suggested_fix": "Move her referral/promo payouts onto the same bank rail she uses for invoices and give her a standing statement of what ALTR owes her, so a processor issue on ALTR's side never becomes her problem again.",
+      "quotes": [
+        {"quote": "still havent gotten a lift on the hold of paypal, called them twice and they are reviewing the info", "who": "Derrek", "date": "2026-08-11"},
+        {"quote": "if you owe a payment your welcome to just remove it from the invoice again to make it easy", "who": "Derrek", "date": "2026-08-11"},
+        {"quote": "If it isn’t then just deduct it if that all good", "who": "Alex Paige", "date": "2026-08-11"},
+        {"quote": "One of our two accounts worked", "who": "Derrek", "date": "2026-08-13"}
+      ]
+    },
+    {
+      "note": "Open ledger question carried from July: Stephski's $1,989 remaining balance versus the client's arithmetic showing the invoice fully paid. Still not reconciled in writing, and two deductions ($4,160 and $2,434) have now been applied on top of it.",
+      "date": "2026-07-27",
+      "late": false,
+      "reason": null,
+      "suggested_fix": "Send one itemized running ledger covering Jul 1 to date showing every invoice, transfer, and deduction, and ask her to confirm the balance.",
+      "quotes": [
+        {"quote": "$9636-$4160 (referrals)-$3487 (payment) = $1,989 remaining", "who": "Stephski", "date": "2026-07-27"},
+        {"quote": "But it was $3639 + 4008 =$7,647 \n- 4160 referrals - 3487 which means it’s all paid. I didn’t use the link for the extra 5% to be added I just transfered", "who": "Alex Paige", "date": "2026-07-28"}
+      ]
+    },
+    {
+      "note": "Structural pattern (unchanged): she pays in weekly installments because OF payouts land ~2 weeks after earnings, and international transfers require her laptop, so payment dates slip by a few days rather than being refused.",
+      "date": "2026-08-11",
+      "late": false,
+      "reason": "OF payout timing plus international transfer logistics.",
+      "suggested_fix": "Agree a fixed weekly installment date tied to her OF payout schedule instead of a 7-day invoice clock she structurally cannot meet.",
+      "quotes": [
+        {"quote": "Easy, I’ll wait another 2 days in that case for payment. I can only transfer money internationally while I’m with my laptop which I won’t be until tomorrow anyway", "who": "Alex Paige", "date": "2026-08-11"},
+        {"quote": "But I’ll pay the full amount of invoice if the money comes through", "who": "Alex Paige", "date": "2026-08-11"}
+      ]
+    }
+  ],
+  "client_priorities": [
+    "Consistent posting on the management-run IG reels/promo accounts she supplies content for — now her most-repeated ask (Jun 2, Jul 28, Aug 12)",
+    "Being paid promptly for the referral/promo money ALTR owes her, without it being netted off her invoices",
+    "Growing OF revenue — she has asked what she can do to lift earnings since January and never got a plan",
+    "Keeping her IG accounts safe from deletions, shadowbans, and restrictions",
+    "Hard personal-safety boundaries: chatters must never promise meetups with local fans, and no explicit content on her public wall",
+    "Payment terms that match her OF payout cycle, with no surprise surcharges (she declined the 5% card-link fee)"
+  ],
+  "suggestions": [
+    "Send screenshot proof that @paigealexxo (and her promo placements) are actually posting. The Jul 28 'posting will start this week' promise is now 16 days old and this is her third time asking since June.",
+    "Fix how ALTR pays her: get referral/promo payouts off PayPal and onto her bank rail, and stop settling ALTR's debt by shrinking her invoice — two offsets in three weeks reads as a solvency signal to a client who is otherwise paying in full.",
+    "Send one itemized ledger from Jul 1 to date covering the disputed $1,989, the $4,160 and $2,434 deductions, and the Aug 13 payment, and ask her to confirm the balance in writing.",
+    "Confirm she was actually added to the sales-team client groupchat Derrek promised on Aug 12 'in the next few hours'.",
+    "Give her the OF revenue answer she has been asking for since January — a short written plan on what she can do her end would close the oldest open complaint on this account.",
+    "Keep Derrek's new same-day responsiveness going with a proactive Monday update; every piece of good news this week arrived only after she asked."
+  ],
+  "wins": [
+    "Derrek responded same-day on Aug 11, 12 and 13 — a sharp reversal from July, when she chased him for two weeks",
+    "Phone farm arrived and Derrek confirmed the new team and platform are in place (Aug 12)",
+    "Invoice settled in full on Aug 13 ($9,821 AUD) despite the ALTR-side payment failure, and her tone stayed warm throughout ('Easy, I’ll wait another 2 days')",
+    "Weekly DMCA leak-removal report delivered on time (Michelle Queue, Aug 10)",
+    "Weekly reel inspo delivered on time (Mica Vecco, Aug 13)",
+    "Stephski chased the invoice politely and apologised for the ALTR-side mess ('Sorry about all that', Aug 12)"
+  ],
+  "week_stats": {
+    "messages": 32,
+    "client_messages": 12,
+    "team_messages": 20
+  }
+}

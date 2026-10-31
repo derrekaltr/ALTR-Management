@@ -1,0 +1,344 @@
+{
+  "client": "Mila",
+  "slug": "mila-x-altr",
+  "week_ending": "2026-10-02",
+  "summary": "CHURN WATCH — two of the four exit signals are now present. (a) Quiet and short: the chat was completely silent from Sep 18 01:34 to Sep 28 15:47 (ten days, zero messages from anyone, which is why Mila had no 2026-09-25 report), and this window Callie wrote exactly two messages, both the same two-word reply 'Done:)'. Two weeks ago she was asking questions and thanking people by name; this week she did not thank Mica for the inspo drop and raised nothing. (b) Unusually fast payment with zero asks: the Sep 15-30 invoice was posted Oct 1 15:14 and she replied 'Done:)' at 18:18 — 3h04m, the fastest payment in the relationship (previous best was two days), with no question about the amount, the currency, the banking details or the four earlier cycles ALTR has never confirmed. No asks for exports/logins and no mention of another agency or going it alone. ALTR side: no progress on any open item. Nobody sent the reconciliation message flagged as the top action two weeks ago; the Sep 17 payment is now 15 days unconfirmed and a seventh invoice went out on top of five unconfirmed cycles (last receipt confirmation Jul 23, 71 days). Her main Instagram account is 101 days open with no ALTR update; Derrek has not posted since Sep 16. The two deliverables this week were Mica's reel-inspo drop (Sep 29, one weekly drop missed, one duplicate link) and Melissa's agency-wide intake-form broadcast (Sep 28), which Callie most likely completed — her 'Done:)' at 17:20 Sep 29 is not threaded to either message. Not angry or disputing anything, just doing the minimum and asking nothing. That is the churn pattern, not stability.",
+  "health": {
+    "score": 36,
+    "trend": "down",
+    "rationale": "Down 8 from 44 (2026-09-18; no 2026-09-25 report was produced because the chat was silent all week). Churn signals (a) and (b) are both present and explicit: ten days of total silence, client output reduced to two 'Done:)' replies, and an invoice paid within 3h04m with zero questions, after a 3-month history of asking about due dates, GBP conversion, duplicates and payee changes. Every structural problem from the last report is unchanged and older: five invoice cycles unconfirmed (Jul 15-31 52d since 'Will update you shortly!', Aug 17 wire 46d, Aug 15-31 24d past due and unmentioned since Sep 1, Sep 17 payment 15d, Oct 1 payment 1d); main IG account 101 days with no owner update; Derrek's rollout promise 62 days overdue; Vivek has never posted (65d); Michelle silent 46 days with post links 86 days overdue and 48 videos unused for 46 days; Mayson's accepted call 25 days unbooked. Not lower because she is still paying instantly, still completing ALTR asks (intake form, likely), and Mica's inspo cadence resumed. A fast-paying, silent client with this many unanswered items should be read as a client winding down, not a healthy one."
+  },
+  "reminders": [
+    {
+      "employee": "Stephski",
+      "topic": "Seventh invoice (Sep 15-30) with the same pause-work condition, issued on top of five cycles ALTR has never confirmed received, with none of them mentioned",
+      "count": 1,
+      "direction": "altr_to_client",
+      "first_date": "2026-10-01",
+      "last_date": "2026-10-01",
+      "days_outstanding": 52,
+      "note": "Only one prompt this cycle and no chase of the Sep 1-14 invoice on its Sep 22 due date, so the flagged 'sixth stacked chase' did not happen. But the four-question reconciliation message flagged as the hard deadline for Sep 22 was never sent either. No pre-invoice heads-up this cycle (it was reinstated Sep 14 and worked). Seven invoices issued in the relationship, two receipts ever confirmed (last Jul 23). The invoice text names no banking change, which is good after three changes in 70 days. Stephski has not acknowledged Callie's Oct 1 'Done:)' as of window end.",
+      "evidence": [
+        {"quote": "Good afternoon queen! Here is your invoice for September 15-30th ❤️ Let me know if you need anything, all banking info and zelle info is at the bottom. As always, we appreciate you paying within the next 7 days to avoid any pausing in work! 🙏 Let me know if you have any questions!", "date": "2026-10-01"},
+        {"quote": "Will update you shortly!", "date": "2026-08-11"}
+      ]
+    },
+    {
+      "employee": "Mica Vecco",
+      "topic": "Weekly reel-inspo drop: more content ideas sent to a client whose 48 uploaded videos sit unused",
+      "count": 1,
+      "direction": "altr_to_client",
+      "first_date": "2026-09-29",
+      "last_date": "2026-09-29",
+      "note": "Delivered, but 14 days after the previous drop (Sep 15), so the ~Sep 22 week was missed. 8 links, 7 unique (DcsikjeNwv_ is posted twice). The Sep 15 drop got 'Thank you! Xxx' the same evening. This one got no thank-you; her only message that afternoon was an unthreaded 'Done:)' four hours later. Still not connected to her 48 Aug 17 videos or her lost main account.",
+      "evidence": [
+        {"quote": "hi @calliebullough! here’s your reel inspo for the week 💕", "date": "2026-09-29"},
+        {"quote": "Thank you! Xxx", "date": "2026-09-15"}
+      ]
+    },
+    {
+      "employee": "Callie (client)",
+      "topic": "Payment-receipt confirmation she asked for and never got. She has stopped asking: zero chases since Aug 10 across four more invoices",
+      "count": 3,
+      "direction": "client_to_altr",
+      "first_date": "2026-08-08",
+      "last_date": "2026-08-10",
+      "days_outstanding": 55,
+      "note": "Carry-forward, not new. She asked three times in three days in August and has asked nothing since. With Oct 1 paid in three hours and no question, the drop from active chasing to silence is now a churn tell, not satisfaction.",
+      "evidence": [
+        {"quote": "please let me know when you’ve received it and if you could just double check it doesn’t come through twice🙄 thank you! Xx", "date": "2026-08-08"},
+        {"quote": "Please let me know if it’s not there by the end of today and I’ll call the bank again xx", "date": "2026-08-10"}
+      ]
+    }
+  ],
+  "complaints": [
+    {
+      "issue": "Main Instagram account suspension and the paused backup-IG posting programme: 101 days open. Her last statement (Aug 31, 'waiting to get my bigger account back') is now 32 days unanswered. Nobody at ALTR mentioned Instagram to her this window except Mica's inspo drop. Derrek, who promised 'plenty of updates starting next week' on Aug 1, has not posted since Sep 16 (a bank-name answer). Vivek (Meta Support, introduced Jul 29) has never posted.",
+      "status": "recurring",
+      "first_raised": "2026-06-23",
+      "owner": "Derrek / Vivek (Meta Support)",
+      "severity": "critical",
+      "days_open": 101,
+      "weeks_open": 15,
+      "days_since_client_restated": 32,
+      "escalation_note": "Owner-level direct contact has been the flagged action for five consecutive reports and has not happened in-chat. With churn signals now firing, this is the one item most likely to decide whether she stays. Verify whether Derrek contacted her outside the group; if not, do it this week.",
+      "evidence": [
+        {"quote": "Hiya, yeah I’m using my back up account atm while I wait to get my bigger account back but I aim to post 3x a day:) xx", "date": "2026-08-31"},
+        {"quote": "Thank you for your understanding, we will have plenty of updates starting next week.", "date": "2026-08-01"}
+      ]
+    },
+    {
+      "issue": "Unreconciled money: five cycles now open with no written confirmation. Jul 15-31 (duplicate question Aug 8, 'Will update you shortly!' Aug 11, 52 days); Aug 1-14 (wire Aug 17 against a changed account number under the abbreviated account name Derrek admitted caused failures for some payers, 46 days); Aug 15-31 (issued Sep 1, due Sep 8, never mentioned again by either side, 24 days past due); Sep 1-14 ('have sent' Sep 17, 15 days unconfirmed); Sep 15-30 ('Done:)' Oct 1, 1 day). Seven invoices issued, two ever confirmed; last confirmation Jul 23 (71 days). She has stopped asking, so ALTR has to raise this, not wait for her.",
+      "status": "recurring",
+      "first_raised": "2026-08-08",
+      "owner": "Stephski",
+      "severity": "critical",
+      "days_open": 55,
+      "escalation_note": "The Sep 22 hard deadline (one message answering every open cycle before any chase) passed with no message at all. Two more cycles have since been added. A client who pays in three hours and never asks whether it arrived could leave with ALTR still unsure what she has paid.",
+      "evidence": [
+        {"quote": "I believe we got it, waiting for it to finalize processing so I can see sender info but it looks like your total", "date": "2026-08-11"},
+        {"quote": "Sent:)", "date": "2026-08-17"},
+        {"quote": "no its just the name of it was abbreviated before and for some people it went through but for others it didn't", "date": "2026-09-16"},
+        {"quote": "Thank you, have sent:)", "date": "2026-09-17"},
+        {"quote": "Done:)", "date": "2026-10-01"}
+      ]
+    },
+    {
+      "issue": "GBP invoicing accommodation withdrawn Sep 15 and the FX conversion work moved onto the client. Nobody has mentioned it since. She absorbed it without argument then and asked nothing on the Oct 1 invoice (PDF not inspected, currency unconfirmed). Promised in writing by Alex Camus on Jul 7.",
+      "status": "recurring",
+      "first_raised": "2026-09-15",
+      "owner": "Stephski",
+      "severity": "medium",
+      "days_open": 17,
+      "escalation_note": "Silent acceptance is the risk here: it fits the churn pattern of a client who no longer bothers to negotiate. Offer a stated rate or a GBP-equivalent line.",
+      "evidence": [
+        {"quote": "Noting I have changed the currency back to USD, as when you send in pounds we are losing a bit of money each time, its accounted for a few hundred dollars at this point", "date": "2026-09-15"},
+        {"quote": "But yes I will just send the amount in USD and pay the fee to make it easier.", "date": "2026-09-15"}
+      ]
+    },
+    {
+      "issue": "Banking-detail churn (three changes in 70 days, payee re-verification with her bank). No new change was announced on the Oct 1 invoice and she paid within three hours without a payee question, so the details appear stable this cycle. She has still never been told in writing that they are final.",
+      "status": "resolved",
+      "first_raised": "2026-09-15",
+      "owner": "Stephski / Derrek",
+      "severity": "low",
+      "days_open": 17,
+      "escalation_note": "Treat as resolved unless the details change again. Its link to the missing Aug 17 wire is still open under the reconciliation complaint.",
+      "evidence": [
+        {"quote": "Is the account info going to change each time? Just because I have to change the entire payee and to do that I have to actually speak to my bank to verify.", "date": "2026-09-15"},
+        {"quote": "Correct its the exact same information and I am so sorry for the back and forth, just want to make sure you have everything you need to make it smooth from here on out ❤️", "date": "2026-09-16"}
+      ]
+    },
+    {
+      "issue": "No visibility into what is posted on her behalf: asked Jul 8 for post links, Michelle agreed, no individual post link sent in 86 days. Michelle has not written in the chat since Aug 17 (46 days). Ninth consecutive report with no movement.",
+      "status": "recurring",
+      "first_raised": "2026-07-08",
+      "owner": "Michelle Queue",
+      "severity": "high",
+      "days_open": 86,
+      "escalation_note": "The promo function on this account is effectively unstaffed. Reassign it or tell her plainly that posting is paused.",
+      "evidence": [
+        {"quote": "Amazinggg, if you could send me links when you do just so I can be in the loop🫶🏼", "date": "2026-07-08"},
+        {"quote": "will do babes 🫶🏼", "date": "2026-07-08"}
+      ]
+    }
+  ],
+  "commitments": [
+    {
+      "what": "Confirm receipt and exact USD amount of the Sep 1-14 payment Callie sent Sep 17 (first cycle where she did her own FX conversion).",
+      "who": "Stephski",
+      "status": "overdue",
+      "date": "2026-09-17",
+      "days_outstanding": 15,
+      "note": "Was 'pending, 1 day' at the last report. The invoice's own due date (Sep 22) passed with no confirmation and no chase. Stephski's next message in the thread was the Oct 1 invoice.",
+      "evidence": [{"quote": "Thank you, have sent:)", "date": "2026-09-17"}]
+    },
+    {
+      "what": "Confirm receipt of the Sep 15-30 payment Callie marked 'Done:)' on Oct 1, 3h04m after the invoice.",
+      "who": "Stephski",
+      "status": "pending",
+      "date": "2026-10-01",
+      "days_outstanding": 1,
+      "note": "Genuinely pending at window end. Base rate on this account: 0 confirmations in the last 5 cycles.",
+      "evidence": [{"quote": "Done:)", "date": "2026-10-01"}]
+    },
+    {
+      "what": "Verify the Aug 1-14 wire sent Aug 17 actually landed (search for a name-mismatch bounce-back, not just a credit) and tell her which account it hit.",
+      "who": "Stephski",
+      "status": "overdue",
+      "date": "2026-08-17",
+      "days_outstanding": 46,
+      "evidence": [
+        {"quote": "Sent:)", "date": "2026-08-17"},
+        {"quote": "Thank you love!", "date": "2026-08-17"}
+      ]
+    },
+    {
+      "what": "Confirm the re-sent Jul 15-31 payment and answer whether it came through twice.",
+      "who": "Stephski",
+      "status": "overdue",
+      "date": "2026-08-11",
+      "days_outstanding": 52,
+      "evidence": [{"quote": "Will update you shortly!", "date": "2026-08-11"}]
+    },
+    {
+      "what": "Establish from the bank whether the Aug 15-31 invoice (issued Sep 1, due Sep 8) was ever paid. Neither side has mentioned it since Sep 1.",
+      "who": "Stephski",
+      "status": "overdue",
+      "date": "2026-09-08",
+      "days_outstanding": 24,
+      "evidence": [{"quote": "I ask that you please pay within 7 days to avoid any pausing of work 🙏", "date": "2026-09-01"}]
+    },
+    {
+      "what": "Phone-farm / backup-IG posting rollout updates promised 'starting next week' on Aug 1.",
+      "who": "Derrek",
+      "status": "overdue",
+      "date": "2026-08-01",
+      "days_outstanding": 62,
+      "note": "Ninth consecutive week overdue. Derrek's last message in this chat was Sep 16 (16 days), on banking.",
+      "evidence": [{"quote": "Thank you for your understanding, we will have plenty of updates starting next week.", "date": "2026-08-01"}]
+    },
+    {
+      "what": "Vivek (Meta Support) to help with restrictions/bans and Copyright Ban Protection, introduced Jul 29. Has never posted.",
+      "who": "Vivek",
+      "status": "overdue",
+      "date": "2026-07-29",
+      "days_outstanding": 65
+    },
+    {
+      "what": "Send Callie links to promo posts so she stays in the loop.",
+      "who": "Michelle Queue",
+      "status": "overdue",
+      "date": "2026-07-08",
+      "days_outstanding": 86,
+      "evidence": [{"quote": "will do babes 🫶🏼", "date": "2026-07-08"}]
+    },
+    {
+      "what": "Use, schedule or explicitly bank the 48 videos Callie uploaded Aug 17.",
+      "who": "Michelle Queue",
+      "status": "overdue",
+      "date": "2026-08-17",
+      "days_outstanding": 46,
+      "evidence": [
+        {"quote": "Have uploaded 48 vids to the drive 🤍", "date": "2026-08-17"},
+        {"quote": "yayyy perfect babes tyyy 🫶🏼", "date": "2026-08-17"}
+      ]
+    },
+    {
+      "what": "Book the trial-reels feature call Callie accepted (proposed for Mon Sep 7). No slots or booking link ever sent.",
+      "who": "Mayson",
+      "status": "overdue",
+      "date": "2026-09-07",
+      "days_outstanding": 25,
+      "note": "Mayson has not posted since 'Okay' on Sep 18 (14 days).",
+      "evidence": [
+        {"quote": "Yeah sureee :)", "date": "2026-09-06"},
+        {"quote": "Let me know what time works best @calliebullough ?", "date": "2026-09-07"}
+      ]
+    },
+    {
+      "what": "Explain 'crystalmila.vip' (posted bare Aug 23) and what the Facebook account he asked for on Sep 16 was for.",
+      "who": "Mayson",
+      "status": "overdue",
+      "date": "2026-08-23",
+      "days_outstanding": 40,
+      "evidence": [
+        {"quote": "crystalmila.vip", "date": "2026-08-23"},
+        {"quote": "Hey @calliebullough do you have a facebook account available to use?", "date": "2026-09-16"}
+      ]
+    },
+    {
+      "what": "Weekly reel-inspo drop.",
+      "who": "Mica Vecco",
+      "status": "done",
+      "date": "2026-09-29",
+      "note": "Delivered Sep 29 but the ~Sep 22 drop was missed (14-day gap). Next due ~Oct 6.",
+      "evidence": [{"quote": "hi @calliebullough! here’s your reel inspo for the week 💕", "date": "2026-09-29"}]
+    },
+    {
+      "what": "Clarify who Alex Camus is (posted ALTR's full wire block Jul 7, committed ALTR to GBP invoicing) and restrict banking details to the invoicing owner.",
+      "who": "Derrek",
+      "status": "pending",
+      "date": "2026-07-07",
+      "days_outstanding": 87,
+      "note": "Alex Camus still silent (87 days). team.yaml still flags him uncertain."
+    }
+  ],
+  "payments": [
+    {
+      "note": "Sep 15-30 invoice issued Oct 1 15:14 with the 7-day pause-work condition and no pre-invoice heads-up. Callie replied 'Done:)' at 18:18, 3h04m later. Fastest payment in the relationship by far, with zero questions about amount, currency, banking or the open cycles. On this account that is a churn tell (signal b), not a sign of health. Unconfirmed by ALTR at window end.",
+      "amount": "not stated in chat",
+      "date": "2026-10-01",
+      "invoice_period": "2026-09-15 to 2026-09-30",
+      "paid_date": "2026-10-01",
+      "due": "2026-10-08",
+      "late": false,
+      "days_late": 0,
+      "receipt_verified": false,
+      "risk": "medium on its own; high in context: the seventh invoice issued, two ever confirmed",
+      "evidence": [
+        {"quote": "Good afternoon queen! Here is your invoice for September 15-30th ❤️", "date": "2026-10-01"},
+        {"quote": "Done:)", "date": "2026-10-01"}
+      ]
+    },
+    {
+      "note": "Sep 1-14 invoice: client sent Sep 17, due Sep 22. No chase on the due date (correct), but no receipt confirmation either: 15 days unconfirmed. First cycle where she did her own USD conversion, so the received amount still needs checking against the invoice.",
+      "amount": "not stated in chat",
+      "date": "2026-09-15",
+      "invoice_period": "2026-09-01 to 2026-09-14",
+      "paid_date": "2026-09-17",
+      "due": "2026-09-22",
+      "late": false,
+      "days_late": 0,
+      "receipt_verified": false,
+      "risk": "high",
+      "evidence": [{"quote": "Thank you, have sent:)", "date": "2026-09-17"}]
+    },
+    {
+      "note": "Aug 15-31 invoice (issued Sep 1, due Sep 8): no payment message, no confirmation and no chase from either side in 31 days. 24 days past due if unpaid. Status unknown to anyone in the chat. Must be resolved from the bank.",
+      "amount": "not stated in chat",
+      "date": "2026-09-01",
+      "invoice_period": "2026-08-15 to 2026-08-31",
+      "due": "2026-09-08",
+      "late": true,
+      "days_late": 24,
+      "receipt_verified": false,
+      "risk": "high: the cycle has dropped out of the conversation",
+      "evidence": [{"quote": "Hi love happy September! Here is your invoice for the period of August 15-31 ❤️", "date": "2026-09-01"}]
+    },
+    {
+      "note": "Aug 1-14 wire sent Aug 17 against a changed account number and the abbreviated account name Derrek later said failed for some payers. Never located or confirmed: 46 days.",
+      "date": "2026-08-17",
+      "invoice_period": "2026-08-01 to 2026-08-14",
+      "paid_date": "2026-08-17",
+      "late": false,
+      "receipt_verified": false,
+      "risk": "critical",
+      "evidence": [{"quote": "Sent:)", "date": "2026-08-17"}]
+    },
+    {
+      "note": "Jul 15-31 re-sent payment after a bank fraud flag. Client asked for a duplicate check Aug 8. 'Will update you shortly!' Aug 11, never followed up: 52 days. If a duplicate cleared, ALTR holds client money it has never mentioned.",
+      "date": "2026-08-08",
+      "invoice_period": "2026-07-15 to 2026-07-31",
+      "late": true,
+      "receipt_verified": false,
+      "risk": "high",
+      "evidence": [{"quote": "Will update you shortly!", "date": "2026-08-11"}]
+    }
+  ],
+  "client_priorities": [
+    "Getting her main Instagram account back: 101 days open, 32 days since she last mentioned it, no ALTR update",
+    "Confirmation that her payments arrived: five cycles unconfirmed; she has stopped asking, which raises rather than lowers the risk",
+    "Stable banking details she does not have to re-verify with her bank (stable this cycle; never confirmed final in writing)",
+    "Invoices she can pay without doing her own currency conversion (GBP withdrawn Sep 15)",
+    "Visibility into what is posted on her behalf: post links asked for Jul 8, 86 days",
+    "Her uploaded content (48 videos, Aug 17) actually being used before she is asked for more",
+    "Scheduling that respects the UK time difference (send slots or a booking link)",
+    "Knowing what ALTR is doing with brand assets (crystalmila.vip, the Facebook account request)"
+  ],
+  "suggestions": [
+    "Derrek: treat this as a retention call, not a status update. She has gone silent and is paying instantly with no questions, which on this roster is the pre-exit pattern. Contact her directly outside the group this week with a straight answer on her main Instagram account and the posting rollout, which is now 62 days past the promised updates.",
+    "Stephski: send the reconciliation message that was due Sep 22, before anything else: Jul 15-31 (duplicate?), Aug 1-14 (Aug 17 wire located? check for a name-mismatch bounce), Aug 15-31 (paid or not?), Sep 1-14 (amount received), Sep 15-30 (received). One message, five answers. She has stopped asking, so silence from ALTR now reads as indifference.",
+    "Hold the Oct 15 invoice until that message has gone out. Seven invoices issued against two confirmations is the pattern most likely to surface if she reviews what she has paid on her way out.",
+    "Reassign promo/posting ownership away from Michelle Queue (46 days silent), send her the post links, and say plainly what happened to the 48 Aug 17 videos.",
+    "Mayson: send two or three concrete UK-time slots or a booking link for the trial-reels call she accepted 25 days ago, and explain crystalmila.vip and the Facebook request in the same message.",
+    "Check whether Callie's 9/29 'Done:)' was the Melissa intake form. If it was, use her answers to open a real conversation; a completed intake followed by more silence would confirm the churn read.",
+    "Mica: remove the duplicate link from drops and acknowledge her backup-account situation in the next one, rather than sending generic inspo."
+  ],
+  "wins": [
+    "Mica's weekly reel-inspo cadence resumed (Sep 29) after the missed ~Sep 22 drop. Second full drop in three weeks.",
+    "No stacked chase on the Sep 22 due date: the specific action the last report asked to block did not happen.",
+    "No banking-detail change on the Oct 1 invoice, and she paid it without a payee question, so the Sep 15-16 fix appears to have held.",
+    "Callie still completes ALTR asks promptly: invoice paid in three hours, and very likely the new-platform intake form on Sep 29."
+  ],
+  "week_stats": {
+    "messages": 6,
+    "client_messages": 2,
+    "team_messages": 4,
+    "service_events": 1,
+    "window_start": "2026-09-25T09:08:16-04:00",
+    "window_end": "2026-10-02T09:03:07-04:00",
+    "window_days": 7,
+    "note": "6 in-window messages = 4 ALTR (Stephski 2 incl. the invoice PDF, Mica 1, Melissa 1 agency-wide intake broadcast) + 2 client (Callie: 'Done:)' Sep 29 17:20 unthreaded, 'Done:)' Oct 1 18:18 in Invoicing). Service event: ChatAddUser 2026-09-25 12:15:49 (actor not in export; likely the Melissa Userfacing account, which first posted Sep 28). PRIOR WEEK (Sep 18-25) had ZERO messages, which is why there is no 2026-09-25 file for Mila. The chat was silent from Sep 18 01:34 to Sep 28 15:47 (10 days). Client-initiated threads: 0. Melissa's Sep 25 leak-removal update did not appear in this chat. Derrek, Mayson, Michelle Queue, Vivek and Alex Camus posted nothing."
+  }
+}

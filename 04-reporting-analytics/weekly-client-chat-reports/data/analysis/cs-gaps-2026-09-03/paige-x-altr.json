@@ -1,0 +1,114 @@
+{
+  "client": "Paige",
+  "slug": "paige-x-altr",
+  "status": "churned",
+  "status_reason": "She resigned on 9/2 — 'i just wanted to inform that i'm leaving the agency tomorrow! ... its just not working for me' — after 70 days in which we never once showed her a result, her sixth login/lockout cycle was left dangling, and her 9/1 leak link was never acknowledged; the only save attempt is Mayson's same-day call offer, unanswered since.",
+  "last_client_message": "2026-09-02",
+  "dimensions": {
+    "responsiveness": {
+      "severity": 2,
+      "internal_failure": "Lockout and 2FA requests were handled in minutes at all hours — but her 8/31 leak report waited 7.5 hours for 'send me the link', the link she then sent on 9/1 got zero acknowledgement before she quit, and Vivek's alarming 'Hell nah' (8/14) was never explained to her.",
+      "evidence": [
+        {"quote": "ive got a leak. someone using my stuff on a swingers website x", "who": "Paige (Chey Ref)", "date": "2026-08-31"},
+        {"quote": "ive asked for it hes not resent tho the website is called", "who": "Paige (Chey Ref)", "date": "2026-09-01"},
+        {"quote": "Hell nah", "who": "Vivek", "date": "2026-08-14"}
+      ]
+    },
+    "follow_through": {
+      "severity": 3,
+      "internal_failure": "Michelle's 'we will take care of it' on the leak was still unconfirmed when she resigned; Vivek's 8/30 'Need approval for the account' was never closed out; the Mica call she agreed to book on 7/6 was never held or chased in 8 weeks; the FAQ form was never confirmed — our promise ledger on this account ends 3 kept, 9 lapsed.",
+      "evidence": [
+        {"quote": "send me the link of this babes and we will take care of it", "who": "Michelle Queue", "date": "2026-08-31"},
+        {"quote": "Need approval for the account", "who": "Vivek", "date": "2026-08-30"},
+        {"quote": "hii sorry im new to telegram still figuring it out 😂 ill book now xx", "who": "Paige (Chey Ref)", "date": "2026-07-06"}
+      ]
+    },
+    "proactive_communication": {
+      "severity": 3,
+      "internal_failure": "In 70 days we never sent one unprompted stat, revenue figure, post link, or growth update — her entire inbound from us was invoices, credential requests, and templated reel inspo — so when she left she could honestly say she didn't know what 'what you have been doing' was; the final touch before her resignation was a boilerplate posting lecture sent mid-lockout-crisis.",
+      "evidence": [
+        {"quote": "hey!! i just wanted to inform that i’m leaving the agency tomorrow! thank you for what you have been doing but its just not working for me I’m sorry!", "who": "Paige (Chey Ref)", "date": "2026-09-02"},
+        {"quote": "Hi love 💕 just wanted to reiterate how important consistent posting is for increasing social media engagement!", "who": "Mica Vecco", "date": "2026-08-31"}
+      ]
+    },
+    "onboarding_handoff": {
+      "severity": 3,
+      "internal_failure": "No kickoff call was ever held, no account manager was ever named, the sales-limits form was never confirmed, and 7 weeks in she still didn't know how to approve a login — the referral of an existing client was onboarded by template and left to figure the rest out alone.",
+      "evidence": [
+        {"quote": "yeah how do i do it", "who": "Paige (Chey Ref)", "date": "2026-08-14"},
+        {"quote": "oh i didnt see this sorry im new to telegram ill do this now x", "who": "Paige (Chey Ref)", "date": "2026-07-06"}
+      ]
+    },
+    "chatter_conduct": {
+      "severity": 2,
+      "internal_failure": "Selling proceeded for ten weeks with the 'nothing you DO NOT want sold' form never confirmed complete — chatters represented her with no documented boundaries.",
+      "evidence": [
+        {"quote": "Making sure that nothing you DO NOT want sold is ever sold... with that being said here is the form link for the form", "who": "Mayson Chat", "date": "2026-06-25"}
+      ]
+    },
+    "platform_health": {
+      "severity": 3,
+      "internal_failure": "Six lockout/approval cycles in five weeks (7/29, 8/13-14, 8/20, 8/21, 8/26-27, 8/28-30) with no root-cause diagnosis, no move off SMS codes, and the last cycle still open when she quit; we made her our 2FA relay at 00:35 and 02:29 her time and her only diagnosis ever was IG 'thinking i was hacled'.",
+      "evidence": [
+        {"quote": "no i just got logged out made me confirm my details thinking i was hacled", "who": "Paige (Chey Ref)", "date": "2026-08-14"},
+        {"quote": "i had to change my password again", "who": "Paige (Chey Ref)", "date": "2026-08-21"},
+        {"quote": "hey im available now sorry was flying fell asleep soon as i got in", "who": "Paige (Chey Ref)", "date": "2026-08-29"}
+      ]
+    },
+    "billing_ops": {
+      "severity": 2,
+      "internal_failure": "We chased an invoice she had already paid ('Making sure you saw this', 8/26) and then took nearly three days to confirm her receipt; the 9/1 invoice with its pause-work boilerplate landed the day before she resigned — collections outran reconciliation on our best-behaved payer.",
+      "evidence": [
+        {"quote": "i already sent it babe x", "who": "Paige (Chey Ref)", "date": "2026-08-26"},
+        {"quote": "Amazing thank you!", "who": "Stephski", "date": "2026-08-29"},
+        {"quote": "I ask that you please pay within 7 days to avoid any pausing of work 🙏", "who": "Stephski", "date": "2026-09-01"}
+      ]
+    },
+    "ownership_escalation": {
+      "severity": 3,
+      "internal_failure": "Everything moved by relay ping ('@fonta ^', '@paigeleighx ^'), nobody owned the lockout saga or the relationship, and her resignation was fielded solely by the chatting queue account — more than 24 hours on, no owner or manager has appeared in the chat.",
+      "evidence": [
+        {"quote": "@fonta ^", "who": "Mayson Chat", "date": "2026-08-27"},
+        {"quote": "@paigeleighx ^", "who": "Mayson Chat", "date": "2026-08-31"},
+        {"quote": "Hey Paige would you like to hop on a call today and go over it?", "who": "Mayson Chat", "date": "2026-09-02"}
+      ]
+    },
+    "disengagement_detection": {
+      "severity": 3,
+      "internal_failure": "Every interaction she initiated for ten weeks was a problem report — five-plus lockouts, a leak, invoice confusion — which is the textbook profile of a client seeing cost without value, and nobody flagged it; the first retention effort in the account's history came one hour after she quit.",
+      "evidence": [
+        {"quote": "please help 😂💞", "who": "Paige (Chey Ref)", "date": "2026-08-13"},
+        {"quote": "hey!! i just wanted to inform that i’m leaving the agency tomorrow!", "who": "Paige (Chey Ref)", "date": "2026-09-02"}
+      ]
+    },
+    "security_hygiene": {
+      "severity": 3,
+      "internal_failure": "Plaintext passwords for two IG accounts, a WhatsApp code, a login code and a backup code were posted in-group repeatedly, with fresh credential posts on 8/20, 8/27 and 8/29 AFTER the prior audit flagged this (credentials withheld from this report); Vivek asked for logins 'in dm' once on 8/13 then reverted to 'Drop the logins' in-group on 8/29; nothing was ever rotated by us or moved to a vault, and post-churn those credentials still sit in a chat we're now being removed from.",
+      "evidence": [
+        {"quote": "Share login", "who": "Vivek", "date": "2026-07-29"},
+        {"quote": "Drop the logins", "who": "Vivek", "date": "2026-08-29"},
+        {"quote": "password i think is [redacted] or [redacted]", "who": "Paige (Chey Ref)", "date": "2026-08-27"}
+      ]
+    }
+  },
+  "metrics": {
+    "client_questions_total": 9,
+    "unanswered_over_24h": 5,
+    "max_team_silence_days": 9,
+    "promises_made": 12,
+    "promises_kept": 3,
+    "promises_lapsed": 9,
+    "method": "Manual read of all 149 non-service messages (6/24-9/2). Prior 7 asks plus the 8/29 second-account fix request ('could you do this too please?', answered) and the 8/31 leak report = 9. Unanswered >24h: the four from the 8/28 run (wrong-account scare, 8/14 'will update shortly', lockout root cause, kickoff call) plus the 9/1 leak link (no ack through 9/3). Promises: prior 11 plus Michelle's 'we will take care of it' (lapsed at churn); kept remain 3 (7/29 same-hour lockout close, custom domain, invoicing cadence). Team silence max: 8/4 15:47 to 8/13 10:33, broken by her own lockout report."
+  },
+  "what_client_wanted": [
+    "Her Instagram kept alive and stable — 'please help 😂💞' (8/13), 'i had to change my password again' (8/21)",
+    "Leaks removed — 'ive got a leak. someone using my stuff on a swingers website x' (8/31)",
+    "To see value for what she paid — her exit line 'its just not working for me' (9/2) is a value-visibility complaint from a client who paid every invoice on time"
+  ],
+  "what_worked": [
+    "Vivek's raw speed on lockouts kept her loyal for weeks — 'perfect thank you so much' (8/21), and she kept coming back to him by name ('@fonta')",
+    "Derrek's 8/1 phone-farm letter bought real goodwill — 'oh wow! thats insane... im excited to see where this goes. thank youu. xx'",
+    "Warm billing rapport kept payments frictionless — 'i already sent it babe x' (8/26)"
+  ],
+  "top_fix": "Show the work: a weekly one-screen recap (revenue, posts made, leaks killed, account status) would have been the difference on an account that paid on time for ten weeks and never once saw a result — and regardless of the churn, her credentials must be treated as compromised, rotated with her today, and the plaintext posts purged before we leave the chat."
+}

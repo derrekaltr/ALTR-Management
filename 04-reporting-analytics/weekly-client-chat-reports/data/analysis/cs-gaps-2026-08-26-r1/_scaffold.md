@@ -1,0 +1,753 @@
+# CS gap scaffold — cs-gaps-2026-08-26
+
+- Accounts: 19 — 4 active, 13 at_risk, 2 churned
+- Promises: 379 made / 185 kept / 177 lapsed (47% lapsed)
+- Client questions: 1095 / 171 unanswered >24h (16%)
+
+## Dimension averages
+
+- follow_through: avg 2.74, 19 clients >=2, 14 at 3
+- proactive_communication: avg 2.53, 19 clients >=2, 10 at 3
+- billing_ops: avg 2.37, 19 clients >=2, 7 at 3
+- platform_health: avg 2.26, 16 clients >=2, 9 at 3
+- disengagement_detection: avg 2.26, 18 clients >=2, 6 at 3
+- ownership_escalation: avg 2.21, 19 clients >=2, 4 at 3
+- onboarding_handoff: avg 2.11, 17 clients >=2, 4 at 3
+- responsiveness: avg 2.05, 18 clients >=2, 2 at 3
+- chatter_conduct: avg 2.05, 13 clients >=2, 8 at 3
+- security_hygiene: avg 1.95, 15 clients >=2, 6 at 3
+
+## Status
+
+- **Alanna** — at_risk (last client msg 2026-08-19): Her last message (8/19, 'stop chatting, I'm live') was never answered; message volume collapsed 34 -> 19 -> 10 -> 1; the only ALTR message in 9 days is an invoice chase; two pinned drops (Aug 17, Aug 24) passed with zero in-chat coverage; first invoice unacknowledged 11 days.
+- **Alex Paige Moore** — at_risk (last client msg 2026-08-26): Still paying (Aug 15 invoice paid Aug 26, 4 days late) but her monthly volume has collapsed from 417 msgs (Sep 2025) to 15 (Aug 2026); she went silent 13 days (Aug 13-26) with zero human outreach from us, and the first human message she got back was a customs request — to which she replied she had just had surgery, which nobody on our side knew. Her core asks (management IG posting, a plan to lift OF revenue, prompt settlement of money we owe her) remain unresolved.
+- **Amber Haze** — at_risk (last client msg 2026-08-22): Still paying on time (Aug 17, 35h, no dispute) and re-engaged (resumed IG posting Aug 19, volunteered FB ad spend Aug 20), but her #1 ask since signing -- visible growth with proof -- is unmet after 4 months, her Aug 2 money question (Meta-rep cost split) is 24 days unanswered, Wesley's Aug 11/14 anniversary sends were never confirmed, and she has twice used exit language ('switching agencies was a big decision', 'just isn't good enough').
+- **Barbara** — at_risk (last client msg 2026-08-26): Still paying, still pitching ideas (OFTV gun-range shoot) and replying same-day, but on 2026-08-24 she said 'im very nervous with the situation', reported traffic 'super down', tagged three people, and proposed her own fallback plan; two days later nobody has given her a substantive answer and Derrek (tagged) has not posted in this chat since 2026-08-12.
+- **Chey Mai** — at_risk (last client msg 2026-08-11): 65 days in, the client has written 7 messages total (6 about payment, 1 about her IG being targeted), has been silent 15 days, and owes a combined invoice that has been chased with pause-in-work warnings; ALTR has never once shown her what she is paying for.
+- **Haileigh Cox** — at_risk (last client msg 2026-08-20): Still paying on time (wire 2026-08-20) and present, but her contact with us has collapsed to invoices and reactive screenshots; she has complained three times about zero communication / no owner, her #1 stated priority (IG shadowban, raised 7/29) has had no action in 28 days, and the last outbound from ALTR that was not an invoice, leak broadcast or reel link was Derrek's 8/1 note promising updates that never came.
+- **Hannah** — churned (last client msg 2026-07-06): Quit 2026-07-06 after 5.5 weeks ('I'm going to take over my account and work independently'); nobody on our side ever replied to the exit message, and the only contact since has been two invoice chases (8/2, 8/4) that went unanswered.
+- **Kaitlynn** — active (last client msg 2026-08-21): Onboarded 2026-08-07; paid her first invoice, praised chat numbers twice, and was still messaging on 8/21 — but four substantive asks (voice memo, call, posting cadence, invoicing cadence) are unanswered and client message volume has fallen every week (9 -> 6 -> 5).
+- **Lauren Blake** — active (last client msg 2026-08-24): Engaged and paying (40 client messages in the Aug 17-23 week, 'Bravo team!! That's what we love to see!!', invoice 2 wired Aug 21), but two live trust items are open: the Aug 24 bank notice on her wire is being bounced back to her, and the 5% paid-ads fee she queried on Aug 3 has never been evidenced. She is travelling Aug 25 to ~Sep 6 (LA then Mexico).
+- **Lauryn** — at_risk (last client msg 2026-08-26): Still messaging daily and warm in tone, but every leading indicator is red: OF operations have been silent in-chat since the chat-team swap on 2026-06-10 (no customs, scripts or content requests for 77 days), she flagged revenue as 'beyond low' on 2026-06-24 and cancelled the weekly call with 'We're good until then', she is carrying a 4th consecutive rolled-over balance and Stephski wrote 'multiple invoices unpaid' on 2026-08-26, her management is now involved on credential asks, and the Facebook 'not recommended' flag she calls a business necessity is 334 days old with the only update being 'still in review'.
+- **Lilia** — active (last client msg 2026-08-26): Highly engaged through 2026-08-26 (messaging daily, uploading content daily, paid to $0) — but retention is being carried by the client herself: she has personally repaired the same whale-mishandling failure four times (Jun 12, Jul 24, Aug 14, Aug 23) and ALTR has never delivered a durable fix, so a fifth incident that costs her Teddi or frumby is the realistic churn trigger.
+- **Liza Kovalenko** — at_risk (last client msg 2026-08-26): Still paying (early and unprompted) and still warm in tone, but since April 2026 the chat has collapsed to invoice-out / wire-in only: no reports since Oct 2025, no DMCA updates since Mar 2026, owner silent since 08-04 after promising 'plenty of updates', and as of 08-26 an open reconciliation dispute where she says wires bounced and ALTR has only confirmed $5k of ~$14.4k sent.
+- **Mila** — at_risk (last client msg 2026-08-17): She delivered 48 videos and paid on 8/17 and got two emoji replies; the wire has not been confirmed received (on a changed account number), her 8/8 duplicate-payment check was never answered, and she has been silent 9 days. Only ALTR message since is a bare 'crystalmila.vip' from Mayson.
+- **Paige** — active (last client msg 2026-08-26): Still initiating same-day (last message 8/26, an IG issue for Vivek) and always thanks us — but the relationship has narrowed to IG lockout triage and invoices; the Aug 15 invoice is unacknowledged 11 days (first time she has not replied to one) and no OF/promo output has reached her in over a month.
+- **Sarah Lloyd** — at_risk (last client msg 2026-08-26): Still active and cooperative (paid Aug 26, delivering content, building a Chaturbate funnel, took a call with Noah/Derrek Aug 25) but the Aug 20 whale BG send produced her first anger language in 11 weeks, the same whale was then 'ignored all day' on Aug 24 AND Aug 25, and on Aug 24 she wrote 'its just really frustrating seeing no whales long-term being built' — trust is stretched, not broken.
+- **Sarah** — at_risk (last client msg 2026-08-25): Still paying (Aug 1-14 invoice settled Aug 25) but engagement has collapsed to transactional: after an 11-day silence (Aug 11-22) her only messages since were to correct a wrong invoice and bump the fix; her main 530k IG has had no status update from us in 17 days, her Aug 8 earnings-drop question never got a plan, and nobody senior has checked in.
+- **Shayna** — at_risk (last client msg 2026-08-24): Still paying and still warm in tone, but she has said outright her messages are 'left on seen', her 8/7 custom question is 19 days unanswered, her 8/18 payment question went 8 days without a reply (invoice now past 7-day terms), and every chatter violation on the account has been caught by her, not us. She lands home 8/26 and will audit her inbox after a month away.
+- **Vale** — at_risk (last client msg 2026-08-22): Still paying on time and delivering content (John's custom uploaded Aug 22), but five fan-trust incidents in 5 weeks were each closed with a verbal word to one person, six paid calls/lives/customs remain unscheduled or unconfirmed since May, her message volume has fallen three weeks running and she has stopped chasing; her Aug 22 delivery got no acknowledgement in 4 days.
+- **Vicky** — churned (last client msg 2026-08-18): Terminated 2026-08-18 00:00 ('I would like to stop this collaboration'); 54 days after first asking when our traffic would replace the paid SFS she was told to stop, having never been shown a single number. Eight days later the only team follow-up is an invoice chase (8/26).
+
+## Evidence by dimension (severity >= 2)
+
+### responsiveness
+- [3] Haileigh Cox: Non-invoice client asks routinely sit 1-14 days or die entirely; she has had to re-nudge on content submission, links, receipts and payment routing, and told us twice that nobody replies.
+    - "Who do I reach out to for general messages here. I feel like every time i reach out it’s either super delayed or just no response at all." — Hailey Client, 2026-03-22
+    - "Who should i address for these? Cause no one ever responds when i send them here" — Hailey Client, 2026-04-22
+- [3] Shayna: OF-side replies routinely took 1-3 days and needed 2-3 nudges; several direct questions (lives revenue 4/19, custom check 8/7, Zelle cap 8/18) were never answered at all, and Fred apologised for lateness four times without the pattern changing.
+    - "Hii have fans been asked about their availability" — Shayna Holt, 2026-07-15
+    - "Hi guys just wondering about all this ^ 🥲" — Shayna Holt, 2026-07-18
+- [2] Alanna: Fast on day-one questions, but her direct operational instruction on 8/19 sat unanswered for 7 days and the 8/3 release request only ever got 'in the next few hours' with no confirmation.
+    - "Forgot to say I’m on live on my vip page so maybe stop chatting" — Alanna<3, 2026-08-19
+    - "Sorry for the late notice but I had planned to release this scene today Monday 7pm with the other creator so if someone can send it out whenever that’ll be great" — Alanna<3, 2026-08-03
+- [2] Alex Paige Moore: Routine asks get same-day replies, but the questions that matter to her (revenue, payment receipts, chatter safety) repeatedly needed 2-5 nudges — she had to write 'I need a response' — and several were never answered at all (nude-upload location Nov 15, wall-post pics Feb 8, 'what can I do my end' Jun 28).
+    - "Guys? / I need a response / I would like a response" — Alex Paige, 2026-05-26
+    - "Did you recieve the above transactions … ?? … Have you received it … ??" — Alex Paige, 2026-05-05
+- [2] Amber Haze: When someone owns the topic the median reply is under an hour, but anything without a clear owner (backup-IG progress, custom questions, money questions) goes dark for days or forever; she has had to send 13 bare nudges ('?', '??', 'Hello anyone going to reply?') and ~10 questions were answered >24h late or never.
+    - "Hey just looked at hazeyhamber Instagram it's going very very shit and slow have you guys tried posting trail reels or anything? ... mines been months and it's 35 followers" — Kirsten (amber Haze), 2026-07-21
+    - "Hello anyone going to reply? / And this hello??" — Kirsten (amber Haze), 2026-07-24
+- [2] Barbara: Trivial asks get answered in minutes, but anything that needs an owner (X logins, Zelle failure, IG root cause, linkme decision, traffic update) takes 1-3 days or is never answered; she has had to nudge on at least five threads.
+    - "what is your email so i can copy you on the email?" — Barb Brazil, 2026-07-25
+    - "You can send to oftvmodels@gmail.com" — Olivia (34h later, after Mayson re-tagged her), 2026-07-26
+- [2] Chey Mai: Her PayPal question was parked with 'let me check' and never answered (44 days); her 'account is being targeted' alert waited 30 hours despite Mayson's 'always online... ALWAYS' promise.
+    - "Do you guys have PayPal" — Cheyene Burridge, 2026-07-13
+    - "Let me check on that for you" — Stephski, 2026-07-13
+- [2] Hannah: Simple questions routinely took 1-3 days and often needed a repeat nudge; one question (paid promo) was never answered at all. Typical lag on non-billing asks: same day to ~26h; on anything requiring 'the team': 3-7 days.
+    - "Hey! Derrek had mentioned some paid promo that you guys do and I see there's a folder for that, what do I put in there and what is being promoted?" — Bells Vale Referral, 2026-06-02
+    - "I don't see an email" — Bells Vale Referral, 2026-06-03
+- [2] Kaitlynn: We reply fast to pleasantries (median 0.7h) but never actually answered her four substantive asks — each got a thank-you or a half-reply and then died.
+    - "Also if y’all want should I send out a voice memo or cute video being like I’m backkkkk baby blah blah blah" — Kaitlynn Anderson Koda, 2026-08-07
+    - "I will be available anytime after 12:30 Eastern time :)" — Kaitlynn Anderson Koda, 2026-08-14
+- [2] Lauren Blake: Quick on transactional asks (minutes to hours) but substantive questions slip for days and only get answered after she repeats them; the IG trial-reel question took 29 days and a re-ask.
+    - "Hi babe! What's the status of the IG page and the promos being posted? Also, I was told someone was going to be doing all the trial reel posting on my account. How do we get that going?" — Lauren Blake, 2026-07-20
+    - "And are we just posting regular reels on that page or are we doing the trial method?" — Lauren Blake, 2026-08-18
+- [2] Lauryn: Chit-chat gets answered in minutes (median lag ~2 min) but the things that unblock money or progress do not: payment links/splits she asked for took 10h to 5 days, a broken-Zelle flag waited ~40h, a 'will update you in 2 hours' took 30h and a nudge, and the owner never replied after she completed his homework and tagged him twice.
+    - "Being money is beyond low this month in account! Split those payment invoices up for me / And will pay as drops!" — LA Client (split links only arrived 2026-06-29, 5 days later), 2026-06-24
+    - "That Zelle email isn’t working / Or do you have # attached to that Zelle / Let me know!" — LA Client (Stephski's answer came 2026-08-09 00:23, ~40h later), 2026-08-07
+- [2] Lilia: Median reply lag is minutes, but the highest-risk messages (chatter instructions, embargoes, whale alerts) routinely sat 5-28h until Mayson @-pinged Fred, and several plain client questions were never answered at all; the TikTok shadowban ask has been open 8 days across 5 chases.
+    - "Uploading pics and videos please don't let the chatters u lose anything just yet please there are about 87 pics to upload and 13 videos" — Lilia, 2026-08-17
+    - "Did u find out if I was shadowbanned?" — Lilia, 2026-08-19
+- [2] Liza Kovalenko: Median first-reply lag is fine (~1.6h) but non-billing questions posted in the OF/Social topics routinely go 2-7 days or are never answered; she had to chase with '?', 'hello?', '@Atxnickkk any updates?' and 'no one replied, who I can arrange it with?'.
+    - "Also, I texted regarding OF collab but no one replied, who I can arrange it with?" — Eli, 2026-01-16
+    - "Hi babe ! I have this problem with my insta again when they don’t recommend my profile but won’t tell me what’s wrong or what content to remove… 🫩 [...] Maybe the link became the problem?" — Eli, 2026-03-17
+- [2] Mila: Her day-3 IG suspension question was never answered by anyone (Mica replied about scheduling a call instead); three billing questions took 25-28h; the 8/11 'will update you shortly' never came.
+    - "Hey guys my accounts been suspended again, I haven’t clicked appeal this time as you said not to, so what happens now x" — Callie (Mila), 2026-06-23
+    - "Has it been received ??" — Callie (Mila), 2026-07-12
+- [2] Sarah Lloyd: Acknowledgements are fast (median 9 min to any team reply) but substantive answers routinely needed 2-4 nudges; ~11 asks got no real reply within 24h and several (Jun 19 BG policy, Aug 8 IG collapse, Aug 14 livestream promo, Aug 19 sexting sets) were never answered at all. Her Jul 11 FB/IG cry for help sat 18 days until Vivek was added.
+    - "Thanks, pls make sure they actually fix it this time too :) makes me feel lowkey crazy having to ask the same thing every day" — Sarah Lloyd, 2026-07-14
+    - "Hey! Any confirmation that this has been seen pls?? @natehei @roflo1424" — Sarah Lloyd, 2026-07-17
+- [2] Sarah: Median reply is fast (~50 min) but ~1 in 8 client questions sat >24h and she routinely had to bump 2-3 times; she now apologises before asking, which means she has learned that asking is a burden.
+    - "Heard anything? So sorry to keep pestering I just wish the turnover time for getting accounts back were quicker! 🤣😩" — Sarah H, 2025-12-04
+    - "Hey guys sorry to be annoying! Any update on the where to put the custom videos. I don’t want the subs to get mad!" — Sarah H, 2026-07-25
+- [2] Vale: Median reply lag is under an hour when someone answers, but time-sensitive asks (pre-call prep notes, 'live in an hour, how does that work', a blocking custom question) went unanswered or took 13-37h, and the queue account had to @-tag Ollie five times to get her seen.
+    - "Anything I should know before the live ? / How many minutes and what he wants ?" — Vale, 2026-08-03
+    - "I have a call with him tomorrow at 11 on only fans / Can you guys tell me what you have on him on your notes ?" — Vale, 2026-08-07
+- [2] Vicky: Ollie was usually fast once engaged, but she had to send 'Hello?' / 'Any updates?' / '@olkmck' nudges at least 9 times, several asks went >24h, and a handful were never answered (whale list, 'selfie in arch', the full traffic update, the termination itself).
+    - "what about this? / Why when i ask no one answer 👀" — Valerie, 2026-06-27
+    - "Can you please answer whats going on??😥" — Valerie, 2026-07-03
+### follow_through
+- [3] Alanna: Four explicit promises silently lapsed: the 8/4 release send-out was never confirmed, Derrek's weekly DMCA reports never arrived, Ollie's 'push heavy' on customs was never reported back, and Mica's weekly ideas never started.
+    - "Absolutely ill get this sent out in the next few hours - just cleaning up your OF page with the campaigns" — Ollie Mckinlay, 2026-08-04
+    - "You will get weekly reports" — Derrek, 2026-08-12
+- [3] Alex Paige Moore: We say 'let me check / will come back shortly / gameplan coming' and then go quiet: the Adelaide videographer 'locked in for Nov 3' never happened, Eric's Feb 23 'full review', Derrek's Mar 25 'gameplan', Mica's Mar 17 Meta-contact pricing, Mayson's Jun 13 free-profile 'update asap', Michelle's Jun 3 'get details on yours', and Derrek's Aug 1 'plenty of updates starting next week' all lapsed silently.
+    - "Also confirming your content day in Adelaide is locked in for Monday, 3rd November from 10 a.m.–2 p.m." — Sophie Logan (Raw Agency), 2025-09-23
+    - "Hey was wondering if you guys ended up finding a photographer/videographer for me to work with in Australia. I know SJ had one organised at one point but I think he may have pulled out." — Alex Paige, 2025-12-02
+- [3] Amber Haze: Growth promises made at signing and repeated in-chat (paid push every 3rd reel, 'a few thousand' end-of-month ad boost, monthly performance reports, 'plenty of updates starting next week', 'last bank change I promise') lapsed silently; nobody closes the loop on their own commitments so the client has to audit us.
+    - "I'm gonna add a few thousand dollars to pay Ads to finish the month strong" — Derrek, 2026-05-20
+    - "The third reel will have paid ads / and then every 3 reels / will have a paid push... Should move very quickly in growth" — Derrek, 2026-05-21
+- [3] Barbara: Nine of ~20 explicit promises silently lapsed with no closure message; the oldest is 34 days old. Nobody on our side tracks what was promised, so lapses are only surfaced when the client chases, and she has now stopped chasing.
+    - "i'll look for talking examples that do well and yess you can" — Michelle Queue (talking-to-camera examples never sent), 2026-07-23
+    - "I'll create you 3 different versions tiktok/twitter/instagram" — Mayson Chat (link-in-bio versions never delivered; on Aug 24 she had to ask for the domain again), 2026-07-31
+- [3] Haileigh Cox: We say 'let me check / will keep you updated / working on it' and then never post a closing message; roughly 16 of 28 explicit commitments have no visible closure in the chat.
+    - "This is a glitch in the system ... we have contacted support to fix that error ... Will definitely keep you updated" — Joseph H, 2026-03-22
+    - "Let me reach out to my contacts and ask where they are at [account manager] ... they should reach out to you" — Joseph H, 2026-03-22
+- [3] Lauren Blake: Promises are made in chat and never closed: ad-stats call (23 days), IG rollout updates (25 days, zero posted), chatter boundary fix ('Will get this sorted' then a topless-with-face custom was sold 12 days later), CodyBeebs proof screenshot (8 days), whale-reactivation report (19 days).
+    - "You're welcome! Derreks going to give you a ring and walk you through your current ad stats 🙂" — Stephski, 2026-08-03
+    - "Thank you for your understanding, we will have plenty of updates starting next week." — Derrek, 2026-08-01
+- [3] Lauryn: Our biggest promises were made in month one and silently died: a bi-weekly report + 14-day game plan (delivered once), FB monetisation 'within a month' (never), 'live results' promo dashboard (never), fortnightly content ideas (never), 'last bank change I promise' (changed again 6 weeks later). Nobody closes the loop when a promise lapses.
+    - "Moving forward, you’ll receive a report every two weeks along with a tailored 14-day game plan." — Sophie Logan (Raw Agency) — the only report ever sent; Sophie's last message is 2025-10-09, 2025-09-23
+    - "The team will enable FB monetisation in the next few weeks-one month" — Sophie Logan (Raw Agency) — never mentioned again, 2025-09-17
+- [3] Lilia: Fred's default reply is 'informing the team' with no close-the-loop; the Jul 24 promise to remove the offending chatter was never named or confirmed and the exact failure recurred twice; 'last change I promise' on banking was broken; the Aug 10 organise, Aug 11 custom, Jun 9 VIP and Jun 26 chargeback promises all went silent.
+    - "it's the same chatter who's letting the side down so I will take them off your account!" — FRED | OFM, 2026-07-24
+    - "Want to let you know we have a new bank for you to send to (last change I promise!)" — Stephski, 2026-07-01
+- [3] Liza Kovalenko: Owner-level and team promises silently lapse: paid-ads statistics promised 2025-11-18 never delivered (9 months), 'live results' promo system never appeared, 'last change I promise!' on banking broken six weeks later, 'plenty of updates starting next week' on the Phone Farm never came, Ronnie's 'will look more into it' never happened.
+    - "yes its going amazing / ill get you full summary" — Derrek, 2025-11-18
+    - "Want to let you know we have a new bank for you to send to (last change I promise!)." — Stephski, 2026-07-01
+- [3] Sarah Lloyd: We say 'asap' / 'should be fixed now' / 'I'll monitor him closely' and then the same failure recurs within days; ~14 of ~36 promises silently lapsed, including two from the owner (Aug 1 'plenty of updates', Aug 19 'Looking into this now') and the post-whale recovery promise.
+    - "Ofc, I have penalized them for not handing in a timely manner. Should be fixed now." — Nate (Noah), 2026-07-13
+    - "Hi guys! Bumping this, nothing has been changed @natehei @roflo1424" — Sarah Lloyd, 2026-07-17
+- [3] Sarah: Our side makes 'I'll get back to you / keep you posted' promises that silently lapse: weekly DMCA updates stopped for 16 weeks, the 'where to drop the customs' link took 5 days and 3 nudges, the Aug 1 'plenty of updates next week' never came, and the Aug 14 'will reach out tomorrow' invoice arrived 7 days later and wrong.
+    - "Scans and takedowns are ran daily and we will be shooting weekly updates here every Wednesday 🦾" — Nick | DMCA, 2025-09-19
+    - "Hey! Haven’t heard from you in a while😄 just wondering if you are still removing leaks?" — Sarah H, 2025-12-18
+- [3] Shayna: Fred's 'will update you' / 'won't be a repeating issue' commitments lapsed silently about half the time: lives never scheduled, custom tracker never rebuilt, vault-notes rule never confirmed, time-waster filter never confirmed, replacement chatter and 8/11 team meeting never confirmed.
+    - "I'm always online so I will get a response to your promptly... ALWAYS!!!" — FRED | OFM, 2026-04-11
+    - "Heyyy absoloutely will update you on schedule when we have it from them" — FRED | OFM, 2026-06-16
+- [3] Vale: Scheduling promises for paid calls/lives lapsed at least six times (May 5, May 22, Jul 1, Jul 19, Jul 31, Aug 9); the sexting template and content request promised 'in the morning' on Jul 28 never arrived; girl-girl removal and the Infloww check were never closed out; John's $1,800 video call logged May 1 was still unbooked in late August.
+    - "Will push for it to be scheduled then - what times will you be available?" — FRED | OFM, 2026-05-05
+    - "I think I have 3 video calls that I need booked, do you mind checking on those for me ? ... Pls let’s get those schedule they’ve been waiting for a minute" — Vale, 2026-07-30
+- [3] Vicky: Traffic was promised four separate times ('end of week one', 'Yes there will be', 'next 48 hrs', 'its live') with no evidence ever produced; the whale list, password change, IG handle, 'another hour' update and 'answer shortly' all silently lapsed.
+    - "oh traffic should kick in by end of week one" — Derrek, 2026-06-19
+    - "Okay thank you for this, I'll create a list for whales and not send them the organic MM's that everyone else receives" — Ollie Mckinlay, 2026-06-30
+- [2] Chey Mai: Derrek's 'plenty of updates starting next week' produced zero updates in 25 days; the PayPal check never came back; Mayson's promptness promise did not hold.
+    - "I'm always online so I will get a response to your promptly... ALWAYS!!!" — Mayson Chat, 2026-06-22
+    - "Thank you for your understanding, we will have plenty of updates starting next week." — Derrek, 2026-08-01
+- [2] Hannah: Several commitments were made once and never revisited: Orlando photographers, promo intro, the CEI custom Fred said the team would 'push', confirmation that reported leaks came down, and our own final invoice.
+    - "hi Bella! we've reached out to some photographers in orlando so we can get you covered on that end - following up with them now :)" — Mica Vecco, 2026-06-08
+    - "We wanted to check you would be up for it before pushing, we'll avoid specifying a time." — FRED | OFM, 2026-06-17
+- [2] Kaitlynn: Mayson said yes to the call and never proposed a time; Mica promised weekly creative ideas and has not posted since her intro.
+    - "Hey Kaitlynn would love to hop on a call yes. Let me know what time works?" — Mayson Chat, 2026-08-14
+    - "And yes" — Mayson Chat, 2026-08-14
+- [2] Mila: 'We will make sure the exchange is on the next invoice' — the next invoice was USD again and she had to ask; 'will update you shortly' on the payment never happened; Derrek's weekly updates never started; Michelle's 'I'll keep you posted' on posting produced one link.
+    - "We will make sure the exchange is on the next invoice" — Alex Camus, 2026-07-07
+    - "Hello! Coukd I have it in pounds please:) xx" — Callie (Mila), 2026-07-19
+- [2] Paige: Derrek's 'plenty of updates starting next week' produced none in 25 days; Mica's 'weekly' creative ideas came twice in nine weeks; Mayson's 'always online' OF lead has not posted since 6/29.
+    - "I'm always online so I will get a response to your promptly... ALWAYS!!!" — Mayson Chat, 2026-06-25
+    - "Thank you for your understanding, we will have plenty of updates starting next week." — Derrek, 2026-08-01
+### proactive_communication
+- [3] Alanna: She pinned a five-date scene schedule on day one; Aug 10 and 12 got check-ins, Aug 17 and Aug 24 got nothing from anyone. No sales numbers have ever been shared. Longest team silence 8 days (8/17-8/26), broken only by a payment chase.
+    - "Some scenes that need to be scheduled / 10th August 3some lily and Francis / 12th August Ass worship lola / 17th August 3some Nico / 24th August Bgg brady yasmina / 29th August Lola second scene" — Alanna<3, 2026-08-03
+    - "Hey @alannaapow what time is the ass worship going out today?" — Ollie Mckinlay, 2026-08-12
+- [3] Amber Haze: In 4 months our only unprompted outbound is templated (weekly leak-removal screenshot, weekly reel-inspo links, invoice PDFs); exactly one substantive unprompted update exists (Derrek, Aug 1) and zero growth/ad/FB stats have ever been posted, despite monthly reports being promised at signing. Longest stretch with no non-templated outbound: 4.6 days (Jun 16-20); Derrek went from 99 messages in May to 1 in July.
+    - "why wasn't this communicated to me sooner? ... I would have preferred regular updates explaining what was happening and why things weren't being done, rather than me constantly having to chase for answers" — Kirsten (amber Haze), 2026-06-04
+    - "I was also told at the beginning that I would be shown and given monthly updates on exactly what had been posted, what had been done on the account, and how everything was performing." — Kirsten (amber Haze), 2026-06-04
+- [3] Barbara: In 37 days the only unprompted non-templated update was Derrek's Aug 1 apology message. She has never been shown a posting log, view count or growth number; 'plenty of updates starting next week' produced zero updates, and every status she got came after she asked. Templated contact (weekly leak-removal screenshot, invoices) is the only reliable outbound.
+    - "My apologies, for any lack of communication... Thank you for your understanding, we will have plenty of updates starting next week." — Derrek, 2026-08-01
+    - "hey guys just checking in any updates with all the new changes happening? 😊" — Barb Brazil (reply: 'Yo Ma'am' from Vivek; real answer came Aug 8 after she asked again), 2026-08-06
+- [3] Chey Mai: In 65 days there has not been a single OF performance update. Of 36 ALTR messages, 20 are invoices/chases, 6 are templated intros, 3 are leak-report screenshots, 1 is a domain. Longest team silences: 9 days (7/1-7/11), 8 days (8/1-8/9), 7 days (8/17-8/25).
+    - "Hi love! Here’s your weekly update on the leak removal breakdown for the past 7 days 🫶🏼" — Michelle Queue, 2026-08-10
+    - "@cheymai1 Hey we're still missing payment 🙂" — Stephski, 2026-07-11
+- [3] Haileigh Cox: The only proactive performance reporting she ever received came from the Raw Agency partner (Sophie) in Sep-Oct 2025; since Sophie left, ALTR has sent zero revenue/stats reports in 10 months and the unprompted outbound is invoices, leak-removal broadcasts and reel-inspo links. Longest stretch with no non-templated outbound: 22 days (2025-12-29 to 2026-01-20); longest with no outbound at all: 9 days.
+    - "In the past week we have seen an increase in revenue by 35.7% and new subs are up 257.7%" — Sophie Logan (Raw Agency), 2025-09-15
+    - "Thank you so much. I want to be kept in the loop more now moving forward. There’s zero communication between me and anyone here." — Hailey Client, 2026-03-22
+- [3] Kaitlynn: In 19 days ALTR has never sent an unprompted performance update; the client is the one reporting numbers to us. Her single named milestone — the Aug 19 never-sold content drop — passed with zero mention from anyone before, on, or after the date. Longest team outbound silence: 5 days (8/21 to today); every unprompted message is a templated intro, invoice or brief.
+    - "all content uploaded aug 19th is brand new never sold. go crazy!!" — Kaitlynn Anderson Koda, 2026-08-07
+    - "Hi everyone! Great numbers this week. Would love to hop on a call with someone just to discuss a few things." — Kaitlynn Anderson Koda, 2026-08-14
+- [3] Lauryn: After Sophie left (Oct 2025) no one ever again sent revenue, stats or a plan unprompted; for 10 months the only unprompted outbound was invoices, DMCA screenshots and vendor upsell asks. Longest stretch with zero non-templated outbound: 34 days (2026-06-24 to 2026-07-29). The client is the one asking 'any update?' every few days.
+    - "Since the team jumped on, your account has increased by 42.4% which is incredible 🚀" — Sophie Logan (Raw Agency) — last time anyone shared a performance number; nothing comparable in the following 11 months, 2025-09-11
+    - "Keep me updated pls / Well I’m periodically checking on my end as well" — LA Client, 2026-08-18
+- [3] Liza Kovalenko: After Sophie/Raw Agency's bi-weekly reports stopped (last 2025-09-23) no performance report or stats were ever sent again; DMCA weekly updates stopped 2026-03-04; Mica's reel inspo went from weekly to ~monthly; longest stretch with zero outbound from our side was 27 days (2026-05-05 to 06-01), and the only reliable outbound left is the invoice.
+    - "Also, guys, we increased the 5% for this month in order to try out the paid Instagram ads, I wanna know how it’s going so far. Is there any statistics I can see? Would like to get more information on it thank you" — Eli, 2025-11-18
+    - "Glad to hear that! Would love to see the statistics on the promo. Any time you can, no rush. Thanks" — Eli, 2025-11-23
+- [3] Paige: No OF numbers in 63 days; Michelle silent since 7/18 (39 days) with no posting links ever shared; the only unprompted outreach is invoices, two reel-inspo lists and a mass-template update. Longest team silences: 8 days (7/7-7/15, 8/4-8/13).
+    - "perfect! let me know if you have any questions babes 💕 let me know once you upload as well" — Michelle Queue, 2026-07-07
+    - "awww lol it’s okay! also if you can upload a few pictures as well for story post that’ll be great babe 💕" — Michelle Queue, 2026-07-18
+- [3] Vicky: In 62 days we never volunteered one stat, screenshot or weekly summary. Every 'update' was a reply to her chasing; the one unprompted message (Derrek 8/1) was a bulk phone-farm template that apologised for 'any lack of communication'. Outbound was invoices, reel inspo, Snap-add and custom requests — asks, not updates. Longest zero-outbound stretch pre-churn: 4 days (8/5-8/9); post-churn 8 days.
+    - "Hello, is there any updates on marketing side?" — Valerie, 2026-07-27
+    - "My apologies, for any lack of communication. As this has required us to swap out over 200 devices, and over 1000 accounts." — Derrek, 2026-08-01
+- [2] Alex Paige Moore: Only Sophie ever sent unprompted performance updates (first-week stats Sep 23, weekly plan Sep 28, mid-week check-in Sep 30) and she vanished after Nov 12; since then all outbound is templated cadence (reel inspo, DMCA counts, invoices) — no revenue stats, no promo-account status, no ledger. Longest zero-outbound stretch: 8 days (Aug 1-10); the Aug 1 promo explanation only came after her Jul 28 complaint.
+    - "Congrats on an incredible first week with us 🥳 Your account is already up 27.4%, messages are up 28%, and overall subscription earnings are up 33.6%" — Sophie Logan (Raw Agency), 2025-09-23
+    - "How's the management social media accounts for me going? Xx" — Alex Paige, 2025-10-26
+- [2] Hannah: Mayson ran weekly calls and Mica/Michelle sent templated inspo and leak stats, but not one written revenue/subscriber/traffic update was ever posted unprompted. The only performance number she ever saw was Fred explaining a bad day. Longest zero-outbound stretch pre-churn: 3 days (6/18-6/22, 6/11-6/15); post-churn: 23 days (7/10-8/2).
+    - "Hey - the main reason we're not making as much money as usual is because we're on 4 subs today so far (based of UK time), yesterday and days before there's been an average of 60-70 subscribers a day." — FRED | OFM, 2026-05-30
+    - "hi Bella ! here's some more reel inspo 🤍" — Mica Vecco, 2026-07-10
+- [2] Lauren Blake: Our outbound is almost entirely asks (Snap adds, customs, upload more content); the only unprompted report line is Michelle's weekly DMCA breakdown. No revenue/whale/IG performance stats were ever volunteered; she initiates every status check. Longest full-team silence is only 3.1 days (Jul 14-17), but Derrek went 20 days (Aug 1-21) after promising weekly updates.
+    - "Hi babe! What's the status of the IG page and the promos being posted?" — Lauren Blake, 2026-07-20
+    - "Someone sent me this. Am I on suggested?" — Lauren Blake, 2026-07-25
+- [2] Lilia: In 3 months the OF side has sent zero unprompted revenue/performance updates; all recurring outbound is templated (Michelle's weekly leak count, Mica's reel-link dumps, invoices). The client explicitly asked to be alerted when a whale goes quiet or gets upset and still finds out herself. Longest our-side silence: 4.4 days (Aug 4-9).
+    - "Hey can u make sure ur chatters message me when this happens" — Lilia, 2026-07-22
+    - "Chatters need to communicate of this happens so I can jump on ... Now my high spender left ... Not cool" — Lilia, 2026-07-29
+- [2] Mila: Mica's reel-inspo cadence (5 drops) is the best in this cohort, but no OF numbers have ever been shared in 67 days, no posting links after 7/11 despite her asking to be kept in the loop, and 48 delivered videos got 'tyyy' and nothing else. Longest team silence 5 days (8/17-8/23).
+    - "Amazinggg, if you could send me links when you do just so I can be in the loop🫶🏼" — Callie (Mila), 2026-07-08
+    - "Have uploaded 48 vids to the drive 🤍" — Callie (Mila), 2026-08-17
+- [2] Sarah Lloyd: Unprompted outbound is almost entirely templated (Michelle's weekly DMCA report, Mica's weekly reel links, Stephski's invoices). The chat side never once sent stats, MM results or a livestream recap; Noah's 'more whales than Jan-May combined' only surfaced on Aug 25 after she vented. Longest stretch with zero outbound: 4.8 days (Jul 21-26); 7.6 days (Jul 21-29) excluding the templated DMCA post.
+    - "and let me know how the new release PPV goes" — Sarah Lloyd, 2026-06-12
+    - "Hey! Just checking whether the new solo PPV was sent at 5pm yesterday?" — Sarah Lloyd, 2026-06-13
+- [2] Sarah: After month one (stats shared Sep 19/23/29 and Oct 16) we never sent another performance update in 10 months; outbound became templated only (reel inspo, invoice reminders, leak counts). The agency-wide reach decline and the IG posting pause were only disclosed in passing or after the fact ('My apologies, for any lack of communication'). Longest zero-outbound stretch: 9 days (Mar 19-28).
+    - "Creeping up to your 14 day review and damn these stats are looking goood" — Sophie Logan (Raw Agency), 2025-09-29
+    - "we have been pushing more custom forms and will continue to do so since we are seeing reach go down across the board the las week with all creators" — Ronnie Chat, 2026-07-20
+- [2] Shayna: The OF team sent exactly one unprompted performance update (day one) in 4.5 months; every other Fred outbound was a custom request or a reply. Only 23 of Fred's 203 messages were unprompted, and almost all of those were selling asks. Michelle's weekly leak report, Stephski's invoice nudges and Mica's reel inspo are the only proactive cadences and are templated.
+    - "Also things are going well on OF side - although no peak in earnings first day, we don't want to over push for the sake of it." — FRED | OFM, 2026-04-14
+    - "Hey Shayna - would it be possible for a custom just saying a fans name. Would be one of the bigger spenders." — FRED | OFM, 2026-08-16
+- [2] Vale: Unprompted contact is mostly templated (weekly leak-removal image, reel-inspo links, invoices); the only revenue stat shared in five months was Ollie's day-3 figure on Jul 12, and Vale had to ask four separate times (Apr 9, May 22, Jun 29, Jul 18) for a list of what she owed. Longest zero-outbound stretch from our side: 5 days (May 5-10, Apr 25-30); Aug 20-25 was 5 days with only a templated leak update.
+    - "Hey guys I’m still sick but I’m feeling a lot better and wanna catch up on all the stuff i have to do so if you can send me a list of what I need to get done" — Vale, 2026-04-09
+    - "Sorry been dealing with some stuff / I’m making content today / Can you please tell me what customs I’m behind on ?" — Vale, 2026-06-29
+### onboarding_handoff
+- [3] Alanna: Chatter FAQ form asked 8/3, bumped once 8/5, then dropped — chatters have worked 23 days without her brief. Mica's kickoff was never booked or chased (zero Mica messages since 8/3). Her full content library was handed over 8/3 with no acknowledgement of what was done with it.
+    - "Will give the chatters everything they need to know about you, so we can represent you best" — Ollie Mckinlay, 2026-08-03
+    - "Hey @alannaapow just bumping this" — Ollie Mckinlay, 2026-08-05
+- [3] Chey Mai: Previous-team handoff and start date were never confirmed in chat, the boundaries form was never confirmed as filled, no account manager was ever named, no Social Media Director was introduced to this group, and no kickoff call happened.
+    - "@mmayson  can you please coordinate with start time so she can unlink her current team :)" — Eric The Efficient, 2026-06-22
+    - "@cheymai1 please let me know when you’re previous team can get off so we can assign our team!" — Mayson Chat, 2026-06-23
+- [3] Paige: Client did not see the group for 12 days after onboarding and nobody noticed until an invoice ping; the Mica kickoff ('ill book now') was never confirmed; form completion was never confirmed; no account manager was ever named.
+    - "oh i didnt see this sorry im new to telegram ill do this now x" — Paige (Chey Ref), 2026-07-06
+    - "hii sorry im new to telegram still figuring it out 😂 ill book now xx" — Paige (Chey Ref), 2026-07-06
+- [3] Vale: Onboarding relied on a form nobody reviewed with her (it produced $250 1:1 lives and $30 nude videos), Michelle's IG content request was never seen until Jun 9, and the Fred-to-Ollie switch on Jul 10 lost the customs Google Drive, the custom-request log and the pricing guide; three paid orders (Loven 4 months, an April custom, John's $2k) surfaced only by accident.
+    - "Oh okay I haven’t even seen that" — Vale, 2026-06-09
+    - "I just need some help with the pricing / Waiting on Derrek to update me" — Vale, 2026-07-12
+- [2] Alex Paige Moore: Kickoff was warm but sloppy: calendly sent in the wrong timezone, two calls double-booked on Sep 18 then Mica missed the rescheduled one Sep 25; her OF payout cycle (money lands ~2 weeks after earned) was never captured so week 3 became a billing argument; bank details changed 13 days in; and the named Client Relations Manager (Sophie) and Lauren both disappeared by mid-Nov with no handoff — nobody was ever re-introduced as her point of contact.
+    - "Sorry is there any times available not in the middle of the night? Xx" — Alex Paige, 2025-09-15
+    - "Hi @alexpaigem! Apologies for the missed call, thank you Sophie for stepping in 💕" — Mica Vecco, 2025-09-25
+- [2] Amber Haze: No 'who owns what' was ever given: she was scolded for asking the group about billing, Ollie joined Jul 1 with no intro and could not find her drive or the Wesley brief ('that was previous chat team'), she was asked to fill the chatting FAQ twice, and Owen/Kartik/'the insta guy on WhatsApp' were referenced but never introduced in the team chat.
+    - "I'm the only person in here that deals with this other than our invoicing team. The reason they didn't answer is because none of them have anything to do with payments." — Derrek, 2026-05-11
+    - "Ah I wasn't on here when it was sent / Will try and find it now / Yeah not sure where it is / Any chance you could send the link again please" — Ollie Mckinlay, 2026-07-03
+- [2] Barbara: No kickoff or 'who does what' brief: she had to ask where to send logins, who to contact (and follow up on it), who runs X (we don't), who handles OFTV, and where to drop content; the Social Media call slipped twice because of a missed timezone and a rebooking mix-up.
+    - "Hey guys, if i have any questions regarding anything who would be the right person to reach out to from the group?" — Barb Brazil (followed by 'Following up here' 2h later before Derrek answered), 2026-07-26
+    - "oh, I thought we did all Twitter I had given him or maybe someone else from the team my logins... to be honest, I'm very confused lol" — Barb Brazil (X ownership only clarified on day 11), 2026-07-31
+- [2] Haileigh Cox: Weeks into the new group she did not know who handled what, how customs worked, or whether she had an account manager; the strategy call was offered 9/9 and only happened 10/9, and the 'live results' promo dashboard promised at onboarding never appeared.
+    - "are you someone i can reach out to in regards to social media? I had questions about link in the bio!" — Hailey Client, 2025-09-08
+    - "I guess my question is how do i know what kind of custom to do? This is all it shows" — Hailey Client, 2025-09-08
+- [2] Hannah: Week 1 was messy: old team still logged in, promos queued by someone else, Calendly confirmation never arrived, Google Drive uploads failed for 2 days, and 'who handles paid promo' (which Derrek pitched in sales) was never assigned — she asked twice.
+    - "There are also people still messaging on the account - is this the old team?" — FRED | OFM, 2026-05-29
+    - "Derrek mentioned promo so probably will need that lol" — Bells Vale Referral, 2026-05-31
+- [2] Kaitlynn: Five separate intro messages but no kickoff call, no chatter FAQ/boundaries form (Mayson's intro here omitted the form other clients get), Mica's Calendly never booked or chased, and the client had to ask who her account manager was on day 2.
+    - "Hey Kaitlynn, I’m Mayson nice to meet you!" — Mayson Chat, 2026-08-07
+    - "no worries i unsent, remind me who my account manager is :)" — Kaitlynn Anderson Koda, 2026-08-08
+- [2] Lauren Blake: No kickoff call until day 32 (Aug 7); the intake form she filled was not seen by Ollie ('could you maybe fill the rest of this out' after she had); three different drive links caused repeated 'which drive' confusion; paid ads she signed up for on day 3 were still not running on day 43; pricing floors and content boundaries were never captured before chatters started selling.
+    - "Where do I turn in the reels once I've filmed them? Do we have a drive to work with? Derrek mentioned that you guys will be taking over my trial reels" — Lauren Blake (then 'Nvm I found it in another chat!'), 2026-07-11
+    - "Oh weird I did fill it out" — Lauren Blake, 2026-07-10
+- [2] Lauryn: Week 1 itself was strong (5 intros, roster, forms, call within 3 days) but every later handoff was invisible: Stephski introduced herself 2 days after already invoicing, Sophie vanished with no named replacement for 7 months, and the OF chat team was swapped on 2026-06-10 with no intro of the new team and no OF contact since. 'Who to contact for what' decayed to 'tag everyone'.
+    - "Hey, Paulo I have recently a few days ago filed out form / Looks the exact same far as questions" — LA Client (duplicate intake forms in week 1), 2025-08-27
+    - "Hey @lxnselot we are putting on a different team" — Mayson Chat — the new team was never introduced in the chat; vendor group's last message is the same day, 2026-06-10
+- [2] Lilia: Week 1 was improvised: an invoice for 5 days was sent on day 5 and retracted by the owner, Drive uploads failed for 4 days before a shared-album workaround, the social kickoff call took four attempts, there was no 'who owns what' map, and wall-post ownership had to be re-asked in August.
+    - "Okay this is the invoice? I just signed on with u guys / So invoicing already?" — Lilia, 2026-06-01
+    - "I'm going to try and post it myself onto the platform because Google Drive is not working for me at all." — Lilia, 2026-05-27
+- [2] Liza Kovalenko: Seven different people introduced themselves in the first 7 weeks with no single point of contact; the kickoff call took 7 weeks to happen (Mica asked 07-29, call 09-17), Michelle's intro question was never answered, the content-snare link never worked on her phone and she was left to 'figure it out', and she never learned which topic/person handles what.
+    - "Hi Michelle! Nice to meet you exited to work together!! What is it exactly well gonna be doing ?" — Eli, 2025-09-08
+    - "I would like to receive the content ideas / scripts so it’s easier for me to make content I know exactly what content you need!" — Eli, 2025-09-09
+- [2] Sarah Lloyd: Her onboarding-form instructions (no pre-Oct-2025 content, no BG to the whale) never reached the chatters — both were violated on night one. Four different people fronted 'the chat team' in week one (Alex, Day, Masa/George/Vladan, then Nate/Ronnie on Jun 15) and the vendor team vanished after Jun 15 with no announced handoff. Mica's kickoff call needed three attempts; Meet links repeatedly failed.
+    - "And guys I said so many times on onboarding forms to not send old tapes from before October!!" — Sarah Lloyd, 2026-06-09
+    - "Hi Sarah, Nate here. Ronnie and I are the AMs for your chat team! We will handle and chat or content concerns you may have." — Nate (Noah), 2026-06-15
+- [2] Shayna: Chatting started before content boundaries were validated: the questionnaire's '$30 nude pic' was read literally and a full-frontal custom was sold on day two. Drive links, topic purposes and 'where do I put content' were only explained when she asked; her lives-revenue question was never answered; Mica's kickoff call slipped three times and FB access took six weeks.
+    - "Hey guys can we not send completely free nudes to people for free pls Topless is the farthest I go. It's always paid for" — Shayna Holt, 2026-04-15
+    - "Hey Shayna the team are going purely off your questionnaire in which you put that you'd do $30 per pic for a nude picture and $10 for a non-nude picture." — FRED | OFM, 2026-04-15
+- [2] Vicky: Start time was 'in an hour' with no plan; Infloww read-access took 10 days and an email mix-up; the SFS stop-date question sat 9 days; Mayson had to ask Fred in-chat to explain how comms would work; Fred vanished after ~6/22 and Ollie took over 6/26 with no handover announced; fans immediately learned 'you have a team'.
+    - "Can you explain to Vicky how does communication between her and the chatters/managers work if they need something from me, such as content, a video, or a voice message on short notice?" — Mayson Chat, 2026-06-19
+    - "let me know which day you want me to stop my traffic" — Valerie, 2026-06-19
+### chatter_conduct
+- [3] Alex Paige Moore: Her content boundaries were breached (explicit photo posted to the wall Mar 29; snare templates asking for 'pussy' content she had ruled out Nov 6 and Jan 29) and her safety boundary was breached twice: chatters let two local Adelaide spenders believe she would meet them (May 15), and after she asked us to shut it down on Jun 17 the chatters reversed her message the next day.
+    - "Hey guys a photo of my pussy was posted on the main page. Can we not do that. I only want to show nude in the inbox" — Alex Paige, 2026-03-29
+    - "Please get the chatters to cool it down with this Kel guy. Tell him I'm never seeing him in person. This is strictly just online. I'm scarred of him" — Alex Paige, 2026-06-17
+- [3] Amber Haze: Chat team repeatedly worked outside her written boundaries and honesty limits: another creator's content sold from her vault (Inflow), fans told she would show pussy / video call, an AI-generated 'proof' photo sent to a fan, three dildo asks after her Jul 14 'never my face with dildo' brief, and Ollie did not know what was already in her vault.
+    - "again they are using someone else's photos the same girl that looks absolutely nothing like me... this is a massive breach of trust and professionalism." — Kirsten (amber Haze), 2026-05-20
+    - "I have so many Snapchat messages from the men saying you said you'd show pussy etc" — Kirsten (amber Haze), 2026-07-29
+- [3] Lauren Blake: Chatters sold outside her boundaries and price floors without a brief (porn/sex-tape/anal offers, $500 topless, later a topless-JOI-with-face custom after she banned it), blocked a $27k whale without telling her, and 13 of her 24 top spenders ghosted after takeover.
+    - "Also I'd like this changed. I don't have actual porn, sex tapes or anything anal. This message it outside of my comfort zone" — Lauren Blake, 2026-08-01
+    - "Unblock him / He's spent 27k.. what're we doing here / Is this a strategy?" — Lauren Blake, 2026-08-06
+- [3] Lilia: Whale protection never became a control: chatters sold Teddi/frumby content they already owned on four separate dates, were rude to a bereaved top spender, mixed up creator notes, told a fan she has a husband, sold a 4-min explicit video for $35, and wrote in a voice a fan flagged as 'did I get hacked'. Every fix was a verbal briefing.
+    - "The chatters keep sending content he already has! It's a second account! I just don't want him leaving! ... Chatters are being so rude to him / I keep deleting messages / Idk who's on my account" — Lilia, 2026-07-24
+    - "Hey can u tell the chatters not to talk to frumby / They sold him content he already has! So I need to make him a video to make it up to him" — Lilia, 2026-08-14
+- [3] Sarah Lloyd: Her $25k whale was mass-sent BG on Jun 9 (night one) and again on Aug 20 despite a standing exclusion; it was not unsent, no aftercare followed, and Noah ('chatter will be punished') and Ronnie ('bug in the system %100') gave contradictory root causes four minutes apart with no reconciliation. Pattern also includes old content, GGG-for-BGG, a custom sold as PPV, paying subs left on read, and the whale ignored all day on Aug 24 and 25.
+    - "Guysss this is my biggest whale!! Ive asked so many times no BG! You’ll have lost him because of this, really upset" — Sarah Lloyd, 2026-08-20
+    - "Absolutely ZERO conflict resolution too" — Sarah Lloyd, 2026-08-20
+- [3] Shayna: Chatters repeatedly crossed her two hard lines (never promise vagina; nothing explicit for free) at least twelve times across four months, sold a custom she had declined and charged $800 for it, ran a 'broke girl' angle she banned, and used a full-nude promise as a VIP upsell that fans paid for. Our only remedy each time was a verbal warning or removing a chatter; no written boundary artefact or sign-off gate was ever built.
+    - "A big thing on my page is I never agree to show pussy. I'll never do full porn. So if we could just please be mindful to never promise people that" — Shayna Holt, 2026-04-15
+    - "Hi this was the custom that I said I wasn't going to do yesterday, and the chatters are saying that it's done. I'm not sure what they're uploading. / But they charged him 800 already." — Shayna Holt, 2026-07-31
+- [3] Vale: Chatters undersold nude content at $30, ran 'broken phone/bills' lie pushes that contradict her public IG, told a fan a girl-girl video was her best friend Shayna, resold her private 1:1 live as PPV (including to the fan who bought it), and asked her to re-upload a B/G tape she does not sell; each incident was closed by 'spoke to him' with no written account rules.
+    - "You guys are selling my stuff too low / I didn’t not approve for a full video of me naked touching myself and a full naked picture for $30" — Vale, 2026-05-11
+    - "Like you lie to him about my best friend eating me out and then send a video to a totally different girl ... I don’t want my fans to feel scammed !!!" — Vale, 2026-08-01
+- [3] Vicky: Mass 'are you single' DMs went to long-standing (some married) whales and broke the persona; a $700 video call was sold with unclear terms and no brief, leaving a fan calling her '100 times' and concluding she has a team; she asked why chatters were 'so aggressive' to her spenders; a chatter no-showed a full day (6/30).
+    - "I say you sent them massage "are you single" / Some of them i know for a long time and some of them married, so when you ask this they understand that this is not me talking" — Valerie, 2026-06-30
+    - "And also, if you're selling calls, I need to have all information beforehand. Otherwise , I'm not going to do the calls. 🙏🏻 / I need to know exactly what has been promised or what he requested before I get on the call." — Valerie, 2026-07-09
+- [2] Alanna: Chatters operating without her FAQ form, kept chatting through her VIP live stream after she asked them to stop, and her volunteered custom-content supply was turned away without a briefing on why.
+    - "Any new customs or try to sell heaps I’ll do them in the next few days" — Alanna<3, 2026-08-15
+    - "No new customs for now" — Ollie Mckinlay, 2026-08-15
+- [2] Haileigh Cox: Her brand-voice instruction (no text emoticons) was raised twice and never confirmed; customs were accepted without her approval until she objected; a steady stream of fan refund disputes and a $7,593 chargeback were met with 'nothing we can do' rather than an appeal or a look at sales pressure.
+    - "Btwwww i hate to be annoying but whoever chats and post on my wall can we please please not do those lame ass emoji things :pppp xD .. i use only real emojis and it just isn’t me lol" — Hailey Client, 2026-03-26
+    - "Moving forward can we all have all customs approved by me? Some of these customs are insanity lol" — Hailey Client, 2025-12-29
+- [2] Lauryn: Good instincts on pausing chats during lives, whale PPV de-duplication and fake-account warnings, but chatters repeatedly bagged customs outside her stated limits before she agreed, then pressured her to make 'exceptions' after she said no; a topless $1,500 private live was pitched to a client who had said 'No Naked' on video calls.
+    - "Don’t do those types of customs / Implying giving head / Give him other options" — LA Client, after a $300 'POV sucking dildo' custom was already paid and bagged, 2026-02-20
+    - "any chance you could still make an exception for him this one time? he's been one of your solid regular spenders and super loyal 🙏🏻" — Tanya | Chat Manager (bumped again 2026-02-21 and 2026-02-24), 2026-02-20
+- [2] Liza Kovalenko: OF chat team accepted two paid customs from fans before ever asking her whether she does customs, and gave a glib 'you can get 1000 flags, nothing will ever happen' instead of an honest answer on OF content flags.
+    - "You have 2 that are currently pending 🙏" — Ronnie Chat, 2026-07-20
+    - "Hi Ronnie! I had never done custom videos before, I thought it’s a topic for discussion with me first" — Eli, 2026-07-20
+- [2] Sarah: Her stated content boundary (no pussy-play in customs, Jan 19) was not propagated: six months later a custom was sold that she again had to refuse, a $10.6k custom was sold with no briefing on her location/props, and the queue rotated through 6 different chat contacts with no continuity. Honesty to fans was good (Noah's 'post nut clarity' briefing).
+    - "I also wanted to let you know that I don’t want to do anymore type of pussy play in customs ect using fingers or toys. Even though you can’t directly see it I would prefer to not do it please!" — Sarah H, 2026-01-19
+    - "Just read through all the customs. I don’t have a dildo with me! I’m in New Zealand atm! What should I do" — Sarah H, 2026-07-20
+### platform_health
+- [3] Alex Paige Moore: Her own IG issues got mostly 'wait it out' advice and a Meta contact that was promised but never delivered; the management-run promo pages we own were worse — she discovered the shadowban herself (Feb 19), asked three times whether anyone was posting (May 9, Jun 2, Jul 28), and only got the phone-farm explanation on Aug 1 after 'Nothing since last year'. Posting was still paused Aug 12 with no proof of restart since.
+    - "Hey guys just noticed the reels page doesn't have a link to my OF or another page directing to Of just checking on that" — Alex Paige, 2026-02-19
+    - "Do you have a contact at Meta to take this ban off? … I think I just have to pay someone to get the restriction off. Do you have contacts" — Alex Paige, 2026-03-17
+- [3] Barbara: IG flags recurred every other day for weeks with no single owner (bounced Mayson -> Vivek -> Derrek), no update cadence, and her root-cause questions were shut down twice ('Dont worry about why', 'Don't worry about it... it was resolved'). Derrek's Aug 11 device-move was never reported back on, and as of Aug 24 the main account is still being restricted when she adds the bio domain.
+    - "i'm having account issues every other day, i'm losing recovering losing recovering" — Barb Brazil, 2026-08-11
+    - "this is happening to alot of people. Dont worry about why, we got it and will have it fixed" — Derrek, 2026-08-11
+- [3] Haileigh Cox: IG safety is her deepest fear and our weakest area: link flagged/restricted 5+ times with the same link re-issued, custom domains restricted within hours and left at 'working on it', and the 7/29 shadowban request to our new Meta rep answered with 'share login' then abandoned for 28 days with nobody chasing.
+    - "No i made it last week but afraid to post it up! I’m always terrified I’ll lose my main account since I’ve lost other big accounts in the past :(" — Hailey Client, 2025-09-08
+    - "One of my accounts already hit a restriction with it ... And my other one did too  -> Working on it" — Hailey Client / Mayson Chat, 2026-06-13
+- [3] Lauryn: Facebook 'not recommended' has been open since 2025-09-27 (334 days). Sophie owned it for 12 days, then nobody for ~9.5 months, then Vivek from 2026-07-29 whose first 9 days went to a credential standoff and whose status updates since have been 'server is down' / 'still in review' with no diagnosis, plan or ETA. We asked her to grant full FB access to 4 accounts and promised monetisation; the page ended up worse.
+    - "Also when do you think this will be lifted ?? It’s really making algorithm decline" — LA Client, 2025-10-07
+    - "Timeline wise it is hard to say, it could take one month or 6 months for the flags to clear. But we are keeping a close eye on things and will keep you updated every step of the way 🫶" — Sophie Logan (Raw Agency) — her last message on the topic; next ALTR touch on FB was 2026-08-07, 2025-10-08
+- [3] Liza Kovalenko: IG flags/shadowbans/locks/deletions recurred from 2025-10 to 2026-08 with no owner, no cadence and contradictory advice (Sophie: phishing scam; Derrek off-chat: device logins); the 03-17 'not recommended' issue was never answered; OF 'tag a creator' flag recurred three times with only a workaround; Vivek (Meta rep) was added 07-29 and has never posted; the $40k Phone Farm fix has had zero updates since 08-04.
+    - "Hey babe idk what going on it’s actually really concerning.. every time I delete the flagged posts they put there new posts, and there’s like A LOT of them and as you can see it’s even videos in clothes.. at this point I have to delete every reel I posted and every photo" — Eli, 2025-10-10
+    - "These messages are a phishing scam, I wouldn't be concerned about the safety of you IG account x" — Sophie Logan (Raw Agency), 2025-10-27
+- [3] Mila: Her IG suspension on day 3 ('what happens now') was never answered; a suspected impersonation page got 'that one isn't ours' with no takedown offered; Vivek was added and never spoke; 64 days with no status on her IG.
+    - "Hey guys my accounts been suspended again, I haven’t clicked appeal this time as you said not to, so what happens now x" — Callie (Mila), 2026-06-23
+    - "send instagram too even if it’s suspended!" — Mica Vecco, 2026-06-29
+- [3] Paige: Four IG lockouts/resets in 28 days (7/29, 8/13-14, 8/20-21, 8/26), each fixed by re-logging in with no root cause, no hardening and no explanation — including an episode where she approved a login on the wrong account.
+    - "hey @fonta ive just realised i cant share links xx" — Paige (Chey Ref), 2026-07-29
+    - "No you give me on wrong page approval" — Vivek, 2026-08-14
+- [3] Sarah Lloyd: FB non-recommendable + IG reach collapse raised Jul 11 with no owner for 18 days; Vivek then 'forgot about Facebook', delivered a one-line verdict ('under watch till September'), promised 'Wait i will explain' on Aug 8 and never posted again. IG 20M-to-4M profile-views question and the two IG bans were never resolved; Derrek's Aug 1 Phone Farm memo promised weekly updates that never came. She has stopped asking.
+    - "Sorry i forgot about Facebook" — Vivek, 2026-08-03
+    - "It’s also made my Instagram that’s in the same accounts centre go from 20million profile views down to 4million, any advice on what to do there? No account status issues" — Sarah Lloyd, 2026-08-08
+- [3] Sarah: IG is her #1 pain point and we never owned it: ownership rotated Sophie -> Mica -> Michelle -> Derrek -> Vivek; in Sep 2025 we told her to pay an outside guy; in Dec our recovery flow left an account 'not even appealable anymore' and she recovered it herself; the Apr 26 backup unban (passport photos supplied) has no recorded outcome; the Aug 9 main-account loss has had zero update in 17 days and the two other down accounts are blocked on a screenshot ask nobody repeated.
+    - "Delays through our vendor for recoveries without cost! Suggest you pay through your guy to get it back so you have that faster turn around ❤️" — Sophie Logan (Raw Agency), 2025-09-30
+    - "Hey! Pretty sure I’ve just got back on IG on my own! I’m sorry it was taking too long so I appealed to see what would happen!" — Sarah H, 2025-12-04
+- [2] Alanna: Impersonating IG raised on day one; Derrek filed and sent her a form on 8/4, then 22 days with no status update. Vivek (Meta support) was never added to this group.
+    - "Hey sorry to be annoying on the first day but is there a way to remove this insta 🤓 https://www.instagram.com/alannaworldx0" — Alanna<3, 2026-08-03
+    - "hey we sent it in on our end" — Derrek, 2026-08-04
+- [2] Amber Haze: Ownership of IG issues bounced Derrek -> WhatsApp 'insta guy' -> Kartik -> Vivek with no cadence; three backup accounts died and the replacement sat at 35 followers after two months; her main-account shadowban was disclosed by the chatter as a revenue excuse rather than by the social team, and the posting restriction took ~4 weeks to clear.
+    - "We have made you three accounts and three went down. We have finally found a solution yesterday that is permanent and stable." — Derrek, 2026-05-20
+    - "No chatting change at all - subs dropped considerably since the shadowban and most fans who are able to spend we don't want to push to hard to burn them" — Ollie Mckinlay, 2026-07-24
+- [2] Chey Mai: Her 'account is being targeted' alert got a 30-hour lag, a two-word 'looks all good' and 'archive it' with no follow-up; Vivek was added as Meta support and never spoke; the phone-farm explanation promised updates that never came.
+    - "My Cheymai_ account is being targeted now" — Cheyene Burridge, 2026-07-22
+    - "The content that needs to be removed you can archive it" — Mayson Chat, 2026-07-23
+- [2] Lauren Blake: IG growth was her stated number-one goal and nobody owned it visibly: no status updates until a broadcast apology on Aug 1, the trial-reel method promised at onboarding never ran, Vivek was introduced as Meta support and never posted, and the reel page she is on was only shared on Aug 16 after she asked what happens next.
+    - "My ultimate goal is to get traffic picked up. Please let me know what you need from me to get started and getting momentum ☺️" — Lauren Blake, 2026-07-06
+    - "My apologies, for any lack of communication. As this has required us to swap out over 200 devices, and over 1000 accounts." — Derrek, 2026-08-01
+- [2] Lilia: The Meta/TikTok support service Derrek sold on Jul 29 has produced 6 messages / ~15 words from Vivek and no answer in 8 days on a shadowban she says is stopping her posting; the IG bio-link takedown in June was fixed by the client herself; the Aug 1 phone-farm update promised follow-ups that never came.
+    - "simply @ him in the chat and he will help" — Derrek, 2026-07-29
+    - "Not yet busy with instagram unbans" — Vivek, 2026-08-19
+- [2] Shayna: No bans on this account, but OF account control was sloppy: a leftover auto-scheduler kept posting to her feed and it took four complaints over nine days before anyone checked the queue. The backup-IG reels workstream went silent after 5/1, and Meta/IG comms were owner broadcasts rather than account-specific updates.
+    - "Guyss third time I've asked that no feed posts go up. please relay this to the rest of the team 🥲" — Shayna Holt, 2026-07-29
+    - "I've confirmed team cant post to the account this was left over from the auto schedule which showed me as cleared but still queued." — FRED | OFM, 2026-08-05
+- [2] Vicky: The management IG was 'warming up' from 7/24 and never reported as posting; the whole IG program paused for the phone-farm rebuild (8/1); Vivek was added 7/29 but never engaged; her second OF page (mermaidua) sat at zero new fans for a week and each complaint was closed with a bare 'solved' and no data.
+    - "Hi love, the account is currently being warmed up and almost ready as soon as posting start I will send you IG handle 💕" — Michelle Queue, 2026-07-24
+    - "Hello, on my second page many days no fans @mermaidua" — Valerie, 2026-08-11
+### billing_ops
+- [3] Alex Paige Moore: Our rails are the problem, not her willingness to pay: five banking changes in 11 months (Sep 27, Oct 13, Apr 15, Jul 1 'last change I promise!', Aug 15), payment links she asked for took 2-3 days and repeated nudges (Jul 2-4, Jul 8-11, Jul 20-23), a receipt confirmation took 6 days and four chases (May 1-7), a 5% surcharge was introduced mid-stream, the Jul 27 reconciliation ($1,989 vs her 'all paid') was never closed, and money WE owed her hit a PayPal hold and was netted off her invoice two months running with no receipt.
+    - "Want to let you know we have a new bank for you to send to (last change I promise!)." — Stephski, 2026-07-01
+    - "Please note an update to the account number, please try and send using the information on the invoice." — Stephski, 2026-08-15
+- [3] Chey Mai: Every invoice has needed chasing; the PayPal request was ignored; she missed an invoice because it was buried in a topic thread; the bank account number changed on the combined invoice; and we threaten a pause in work on an account that has never seen a performance report.
+    - "Oh I didn’t even see this was for 2nd of August! I’m so sorry" — Cheyene Burridge, 2026-08-11
+    - "If you could please send it by end of the day today to avoid a pause in work that would be great 🙏" — Stephski, 2026-08-11
+- [3] Hannah: Four payment rails in five weeks (Zelle with no phone/email, then wrong email, Mercury link 'incorrect', Chase, Bank of America); first invoice never collectable and rolled forward; a commission dispute over her self-run lives that was never pre-agreed ($597 vs $931.81); and after she left, the final invoice was never issued and the balance she photographed was never transcribed.
+    - "Can you send me a number associated with the Zelle please since it's a small transaction!" — Bells Vale Referral, 2026-06-03
+    - "Hi yes I did going to send payment here in a sec, but the total would be $597 going based on your previous invoice subtracting my lives" — Bells Vale Referral, 2026-06-23
+- [3] Lauryn: Our own rails failed or changed at least 8 times in 12 months (Zelle bounce on invoice #1, Chase, new bank Apr, Mercury link that bounced, BofA 'last change', card-processor outage, 5% card fee, Zelle broken again, new account number) and payments made to Derrek's personal Apple Pay/Zelle are invisible to the invoicer, so we chase amounts we may already hold. Requested payment links arrive 10h-5 days late, then we ask why she is late.
+    - "Hi love! Wanted to let you know that if you paid via the Mercury link above, your transaction will bounce, can you please continue sending to the Chase account you've used previously? ... American Banking systems am I right 😂" — Stephski, 2026-06-22
+    - "Already paid out last invoice to D / Via his Apple Pay / All this left is this current invoice" — LA Client, after Stephski asked for both invoices to be paid — invoicer had no record of the payment to Derrek, 2026-03-06
+- [3] Lilia: ALTR's own rails failed five times (premature invoice, Mercury bounce, Chase new-recipient cap, dead Zelle ID, second $500/day cap), we chased her on Aug 4 and Aug 9 while our Zelle ID was actually broken, we asked her for her own OF statement to build an invoice, and on Aug 25-26 her running balance ('192') and our sheet ('$0') disagree with no reconciliation.
+    - "Hi love! Wanted to let you know that if you paid via the Mercury link above, your transaction will bounce, can you please send to the Chase account" — Stephski, 2026-06-22
+    - "I tried Zelleing u twice but it says u no longer have the ID / Is there another Zelle u have" — Lilia, 2026-08-12
+- [3] Liza Kovalenko: Banking details changed 5 times in 11 months (OF Match Ent > Social Depot > new bank 04-15 > Mercury 06-15 > Bank of America 07-01 > new account no. 08-15) for a client who must wire in person from Mexico via third-party senders; card rail went down 02-14; side-channel crypto payments to Derrek left Stephski chasing already-paid invoices (02-18, 05-05, 08-06); every split-wire cycle since June produced a reconciliation error she had to push back on, and the 08-19 wires sat unacknowledged for 7 days until she chased.
+    - "Hi our card provider has held our payments for the last two pay periods so we currently cannot service card payments" — Derrek, 2026-02-14
+    - "So I checked and she told me it was sent in two wires / You sure you only got one? Can you please double check?" — Eli, 2026-07-29
+- [3] Mila: USD invoices to a GBP client with no due date; a promised GBP conversion not applied; a wire only located 'after digging' because of a fee mismatch; the 8/8 fraud-flag re-send and duplicate check never closed; the 8/15 invoice changed the account number after she was told to reuse the old one; the 8/17 payment is unconfirmed 9 days later.
+    - "Ah okay, had to dick a bit but found your name in the system, we're all good here!" — Stephski, 2026-07-13
+    - "So we can just repeat to the same account for this next period of invoicing coming up 🙂" — Stephski, 2026-07-13
+- [2] Alanna: Invoice sent exactly on the promised date but with no due date or terms; client never acknowledged it and the first chase came 11 days later, when she had already gone quiet.
+    - "Invoicing will start on the 15th 🙂" — Stephski, 2026-08-04
+    - "Below is your invoice for the period of August 4th-14th. Please note all banking info is on the bottom of this document." — Stephski, 2026-08-15
+- [2] Amber Haze: First invoice used the wrong rate (35% vs agreed 30%), two invoice totals were wrong and reissued, one invoice went out 5 days late for 'technical difficulties', and receiving bank details changed three times (Wise -> BoA -> new account number) for a UK payer doing international wires; she audits every invoice because we taught her she has to.
+    - "it's also 30% not 35%, if we wait to see what comes through tomorrow then we can take off $4745.27 and then do the 30% on what's left." — Kirsten (amber Haze), 2026-05-17
+    - "@stephskiii please correct invoice total rev is off" — Derrek, 2026-06-01
+- [2] Barbara: First invoice needed three ALTR-side Zelle fixes over six days and was finally settled to Derrek's personal phone number; Stephski's promised Zelle request was never sent. Rail was genuinely fixed for invoice 2, but the Aug 19/20 payments sat unacknowledged for six days.
+    - "Hey! great, i can zelle that email at the bottom correct?" — Barb Brazil (Stephski: 'Yes mam!'; next morning: 'Is there another email?' with a failure screenshot), 2026-08-03
+    - "Zelle my phone number / 5618011087" — Derrek (after 'altrpaymentsmgmt' tag also failed: 'it's not working /:'), 2026-08-08
+- [2] Haileigh Cox: She pays within days every cycle; all the friction is ours: bank details changed five times (Chase/Social Depot, Mercury, BofA, a BofA address that did not work, then a new account number after 'last change I promise'), a Stripe link sent by mistake, receipt confirmations that lapsed, and a 50-hour gap on 'which account'.
+    - "Want to let you know we have a new bank for you to send to (last change I promise!)" — Stephski, 2026-07-01
+    - "Hi!! The address for the new wire is not working.. idk what to do" — Hailey Client, 2026-07-07
+- [2] Kaitlynn: No terms or due date ever stated; her cadence question went unanswered 9 days; she hit wire friction and a $91 shortfall that nobody investigated (Derrek waived it ad hoc); then an owner mis-send into her Invoicing topic left her confused.
+    - "The last invoice was paid. Had to jump through a few hoops with the wire transfer. Not sure why. The 91.00$ wasn’t included but I can send that thru Zelle or just with the next wire. 😇" — Kaitlynn Anderson Koda, 2026-08-21
+    - "Kaitlynn hey! Could you clear this up when you had a chance" — Derrek, 2026-08-21
+- [2] Lauren Blake: Invoice 1 was clean; invoice 2 changed the bank account number and still carried an unevidenced 5% ads fee, Derrek chased payment 6 days later (she wired that day), and when her bank flagged the wire on Aug 24 we replied 'are you able to check on this?' and 'Checking back in on this' - pushing a rails problem we likely caused back onto the client for 2 days.
+    - "Also, how do we account for the 5% that's going towards paid ads? / I'd like to see the ad reports of the 5% being spent on meta" — Lauren Blake (never answered), 2026-08-03
+    - "Please note an update to the account number, please try and send using the information on the invoice." — Stephski, 2026-08-15
+- [2] Paige: First invoice went 20 days unpaid because she never saw the group; the 8/4 wire was never confirmed received in chat; the 8/15 invoice changed the bank account number and sat unacknowledged 11 days before a nudge.
+    - "hey ive sent it should arrive tomorrow c" — Paige (Chey Ref), 2026-08-04
+    - "Please note an update to the account number, please try and send using the information on the invoice." — Stephski, 2026-08-15
+- [2] Sarah Lloyd: Our rails failed three times (Mercury wire bounced Jun 15-22, bank changed to BoA Jul 5 'last change I promise', changed again Aug 15 and her transfer bounced twice as suspicious, received only Aug 26). Every one of five invoices needed a client-caught correction (missing OFTV $100/wk, 35% vs 30% twice, overpayment credit). Stephski fixes fast once flagged, but the client is the audit layer and receipt confirmations lag.
+    - "Want to let you know we have a new bank for you to send to (last change I promise!)." — Stephski, 2026-07-05
+    - "Thanks Steph! Are we able to do 30% until advertising starts please?" — Sarah Lloyd, 2026-08-15
+- [2] Sarah: Roughly 22 cycles ran on time and the May reconciliation query was handled well, but we changed bank details four times (one link 'will bounce'), chased a payment already received, were repeatedly late compiling her referral deductions (Jul 16 -> Jul 27 after two bumps), and then missed the Aug 15 invoice by 6 days and issued it for the wrong amount.
+    - "Wanted to let you know that if send via the Mercury link above, your transaction will bounce, can you please continue sending to the Chase account you've used previously?" — Stephski, 2026-06-22
+    - "Want to let you know we have a new bank for you to send to (last change I promise!)." — Stephski, 2026-07-01
+- [2] Shayna: We changed her payment destination four times in four months (wire, Zelle, Mercury, Bank of America 'last change I promise', then another account update on 8/15), each change re-triggering her $1k/day Zelle cap and installment payments. Her 8/18 question about the new Zelle went unanswered for 8 days and the 8/26 reply chases payment without answering it. Receipt confirmations were otherwise prompt.
+    - "Want to let you know we have a new bank for you to send to (last change I promise!)." — Stephski, 2026-07-01
+    - "Please note an update to the account number, please try and send using the information on the invoice." — Stephski, 2026-08-15
+- [2] Vale: Four banking changes in five months (Apr 15, Jun 15 Mercury, Jul 1 BoA, Aug 15 new account number) caused Jul 3-6 Zelle/ACH failures with an 18h wrong-answer reply; we chased already-paid invoices four times (Apr 6, Apr 20, Jun 3, Aug 4), addressed her as 'Sofia' on the corrected invoice, and never acknowledged her Aug 17 payment.
+    - "Hi I’ve been trying to use Zelle but it doesn’t take that email / And when I set up ach payments it’s also not letting me for some reason / So is there another way I can pay ?" — Vale, 2026-07-03
+    - "Want to let you know we have a new bank for you to send to (last change I promise!)" — Stephski, 2026-07-01
+- [2] Vicky: She asked for USDT TRC20 and was given an ERC20 (0x…) address; test-transaction confirmation took 2 days and an @; the Aug 1 invoice needed 3 nudges; the 8/15 invoice changed the account number inline; the final-balance request was answered with a bare file; and the only post-termination message from us is 'please finish out your last invoice'.
+    - "Hello, I asked USDT trc 20 / This is not the right one" — Valerie, 2026-07-06
+    - "Hello, can you please confirm that you responded test transaction 🙏🏻 / And i will send the rest" — Valerie, 2026-07-09
+### ownership_escalation
+- [3] Haileigh Cox: No named owner has ever been announced; asks get routed by @-tags (Mayson tagging Noah, Stephski, Ronnie) that are often not picked up, the de-facto point person (Joseph H) left in July and was not replaced, and the client has to guess who to address.
+    - "it usually depends on what is being asked so the proper person responsible for that area can best help you achieve the help needed." — Joseph H, 2026-03-22
+    - "Yoooooo i wanna get this figured out asap ... I really want to figure all this out. Can someone please be in contact with me ASAP." — Hailey Client, 2026-06-22
+- [3] Lauryn: No single person owns this account. The FB issue had no owner for 9 months; when Vivek picked it up he was 'waiting on derrek', Mayson had to tag him twice for the client, and the client was tagging @ofwizz, @fonta and @mayson to get one login done. The OF chat team was replaced with no named contact and an 'Account Manager' (Anne) appeared exactly once.
+    - "Just waiting on derrek / Once he wakes up" — Vivek, 2026-08-12
+    - "Just waiting on you to get this ball rolling so @fonta can get my FB page back in order" — LA Client (to Derrek), 2026-08-12
+- [3] Sarah Lloyd: No single owner. She tags @natehei @roflo1424 in 30+ messages; Mayson's '@natehei ^^' relay appears 14 times and is a reliable predictor of a dropped request; Derrek has to tag Stephski (Aug 8) and Mayson (Aug 24) to unblock replies; the vendor chat team (Masa/Vladan/Maciej/George/Day) silently left the chat after Jun 15; Vivek escalates IG to an outside '@ofwizz sir'.
+    - "@natehei ^^" — Mayson Chat, 2026-08-20
+    - "@natehei can we get an explanation on this^" — Mayson Chat, 2026-08-24
+- [3] Shayna: Every OF item routes through one person. Mayson's role in the chat was to @-tag Fred (eleven times) rather than resolve anything; when Fred was slow nothing moved, and the client ended up escalating to Mayson herself. No named backup, no owner-level follow-up after her 'left on seen' complaint.
+    - "@ofmfrederick ^^" — Mayson Chat, 2026-06-29
+    - "Hi Mayson can we have a call? / There's multiple things I'd like to address" — Shayna Holt, 2026-07-28
+- [2] Alanna: DMCA sits with the owner personally with no cadence; drop coverage had no owner after 8/12; internal coordination happened in front of the client.
+    - "@olkmck do we need anything?" — Mayson Chat, 2026-08-15
+    - "Hi! We have it already started" — Derrek, 2026-08-12
+- [2] Alex Paige Moore: After Sophie/Lauren left there was no named owner: revenue questions bounced Nick Scott → Eric → Joseph → Mayson → Derrek with nobody closing them, billing questions got 'let me check' from promo staff (Michelle), Mayson answered by @-tagging others (@natehei, @sotom225, @stephskiii), and in July the owner was unreachable for ~2 weeks while she asked the group to find him.
+    - "Also have you been able to get in contact with Derek I've been trying all week and he's not responded" — Alex Paige, 2026-07-06
+    - "@mmayson are you able to contact Derrek" — Alex Paige, 2026-07-13
+- [2] Amber Haze: Mayson's default move is to tag someone and stop -- including repeatedly tagging @joshiepooh, a client-side relay, for her questions -- so asks die in the handoff; on Jul 24 three staff replied ('checking', '@olkmck ^^', 'derrek is going to reach out') and none answered; Derrek's only message in the Aug 15-21 week was '@olkmck'.
+    - "@joshiepooh ^^" — Mayson Chat, 2026-06-22
+    - "Hey apologies I passed this along but didn't reply" — Ollie Mckinlay, 2026-07-24
+- [2] Barbara: Mayson is the declared go-to but functions as a router: 9 of his 20 messages are '@someone ^^' re-tags, and re-tagged items (collab account, OFTV email, IG fix) stall or die. The growth/IG owners (Derrek, Vivek, Mica) have posted nothing since Aug 12/9/13 while she escalates to them by name.
+    - "@mmayson is your go to for all things altr" — Derrek, 2026-07-26
+    - "Is there an account we have that someone can collab a reel with me on ?? i can show u guys before so u can see" — Barb Brazil (Mayson: '@sotom225 ^^' then 'Mica Derrek ^^'; nobody ever answered), 2026-07-23
+- [2] Chey Mai: Eric handed off on day one and vanished; Mayson 'handles all things OnlyFans' but posted two substantive messages in 65 days; Stephski is the de facto only relationship contact because she is the only one with a reason to write.
+    - "Hi @cheymai1 this will be the main group super excited to begin working with you!" — Eric The Efficient, 2026-06-22
+    - "My names Mayson, I handle all things OnlyFans so if you've ever got any questions then pleeeeease do not hesitate to ask!!!" — Mayson Chat, 2026-06-22
+- [2] Hannah: No single account owner. Promo was bounced to '@sotom225' who never came; her script-quality question was relayed by Mayson ('@ofmfrederick ^^') and answered 3 days later; leaks were 'sent to the team' with no named person; Derrek (who sold her) never appears in the chat.
+    - "@sotom225 will reach out to you soon on how to get started on that :)" — Mica Vecco, 2026-06-02
+    - "@ofmfrederick ^^" — Mayson Chat, 2026-06-27
+- [2] Kaitlynn: The AM (Ollie) is present only for thank-yous; the call request was fielded by the chat lead and owned by nobody; the Aug 19 drop and the posting-cadence request had no owner.
+    - "Myself" — Ollie Mckinlay, 2026-08-08
+    - "would love a couple wall post a day - scheduled out an advance is totally fine - as well as story posts that is actually something that I was gonna talk about on the call💘💘" — Kaitlynn Anderson Koda, 2026-08-14
+- [2] Lauren Blake: Mayson acts as a human pager ('@olkmck ^^' four times) because the chat lead is not watching the group; the ad-report question bounced Stephski to Derrek to nobody; the wire issue bounced Derrek to Stephski to the client; she has to @-tag Ollie herself to get urgent custom questions seen.
+    - "@olkmck ^^" — Mayson Chat (relaying her chargeback worry after 3 hours unanswered), 2026-07-17
+    - "Please clarify asap / @olkmck" — Lauren Blake, 2026-08-14
+- [2] Lilia: Mayson functions as a human router (7 '@ofmfrederick ^^', 6 '@fonta ^' pings, 1 '@stephskiii') because no one owns first response; chatter issues are always deferred to an unnamed 'team'; Vivek was added with no SLA or backup; the owner sold a service he then did not police.
+    - "@ofmfrederick ^^" — Mayson Chat, 2026-08-14
+    - "Can we do anything about it @fonta ?" — Mayson Chat, 2026-08-23
+- [2] Liza Kovalenko: Nobody owns the account: payment confirmations needed Mayson and Derrek to ping @stephskiii four times (07-15, 07-23, 07-30, 07-31) before an answer; OF questions get bounced ('@roflo1424 ^^') and answered days later; the IG lock got three different diagnoses from three people; and she was told to re-post her own question in the right topic.
+    - "@stephskiii ^^" — Mayson Chat, 2026-07-23
+    - "@roflo1424 ^^" — Mayson Chat, 2026-08-06
+- [2] Mila: 'Alex Camus' (listed client-side in config) answers billing with ALTR bank details — his role is undefined; the IG suspension had no owner and Mica deflected to scheduling; Vivek never engaged.
+    - "hey @calliebullough! have you had a chance to schedule our call? :)" — Mica Vecco, 2026-06-23
+    - "USD 727 / GBP 543.22 / Thank you! / Account Name: ALTR Platform Services, LLC" — Alex Camus, 2026-07-07
+- [2] Paige: Only Vivek and Stephski interact with her; the OF lead has been absent since day 5; a recurring lockout has no escalation beyond 'send login'.
+    - "Hey Ive added Vivek in here ( @fonta ). He is our Meta Support Rep that will help keep your IG accounts up and safe." — Derrek, 2026-07-29
+    - "Send login" — Vivek, 2026-07-29
+- [2] Sarah: Escalation in this chat is tag-and-hope: staff @-mention colleagues (@nicked twice with no reply, @sotom225, @fonta, @natehei, @stephskiii, @Liv_Lee) and the client herself tags people (@ofwizz) who never answer; she has learned Derrek is 'super busy' and routes around him. Nobody holds the open-items list.
+    - "@nikolichatting @Atxnickkk  ^^^^ please advice" — Sophie Logan (Raw Agency), 2025-09-27
+    - "Hey! Derek said he would sort it but ik he’s super busy so just thought I’d ask if anyone could also help to change the link in my bio so that it doesn’t flag my account!? 🫶🏻" — Sarah H, 2026-05-07
+- [2] Vale: No single owner for paid-order fulfilment: the queue account (Mayson) had to @olkmck five times to route her messages, Derrek had to @olkmck on the Shayna incident, her Aug 3 management referral was bounced to @ofwizz and never followed up, and Ollie disowned pre-Jul-10 orders ('not when we were on the page') that he himself had chased.
+    - "@olkmck ^^" — Mayson Chat, 2026-08-11
+    - "I have a girl interested in management / Send her to you or Altr" — Vale, 2026-08-03
+- [2] Vicky: Mayson acted as a router ('@ofmfrederick ^^', '@sotom225 ^', '@olkmck ^^', '@stephskiii ^') rather than an owner; traffic — the thing she was leaving over — had no named owner and Derrek answered it only 3 times in 54 days; the Fred→Ollie switch was never announced; the termination was forwarded to billing, not to the owner.
+    - "@ofmfrederick ^^" — Mayson Chat, 2026-06-19
+    - "@stephskiii ^" — Mayson Chat, 2026-08-18
+### disengagement_detection
+- [3] Alanna: The chat died immediately after an ignored instruction; 7 days of client silence and the only outreach is a payment chase. Nobody asked whether she is okay, whether Aug 17/24 shipped, or whether she saw the invoice.
+    - "Forgot to say I’m on live on my vip page so maybe stop chatting" — Alanna<3, 2026-08-19
+    - "@alannaapow Hi love checking in on this" — Stephski, 2026-08-26
+- [3] Chey Mai: Client engagement was near-zero from day one (no reply to intros, form, or start-date question) and nobody treated that as a signal; now 15 days silent and the only response is 'please respond asap' about money.
+    - "Can you give me 4 more days please I’m just waiting for money to turn over from OF" — Cheyene Burridge, 2026-08-11
+    - "@cheymai1 Hi love we haven’t heard back from you regarding payment, please respond asap" — Stephski, 2026-08-26
+- [3] Hannah: Every signal was visible and nobody reacted: sub count collapsing in week 1, a commission dispute on 6/15, 'all those leaks are still up 😭' twice, and finally an explicit exit message on 7/6 that received ZERO acknowledgement — templated inspo and leak stats kept going out as if nothing happened, and the next human contact was an invoice chase 27 days later.
+    - "Hey guys I really appreciate working with you but I'm going to take over my account and work independently, I just sent the most recent wire and I'm going to wait for the rest of the money to transfer to pending for the next payout & will send that your way." — Bells Vale Referral, 2026-07-06
+    - "Hi all those leaks are still up 😭" — Bells Vale Referral, 2026-06-26
+- [3] Lauryn: She told us revenue was 'beyond low' and cancelled the weekly call with 'We're good until then' on 2026-06-24; nobody asked why, no call was ever rebooked, and OF content/script traffic (her own engagement signal) stopped the same month with no one noticing. Two months later she is 11 days silent on an invoice while chatting daily about Facebook, and the only response is a payment chase.
+    - "Being money is beyond low this month in account!" — LA Client — no one on our side asked about revenue afterwards, 2026-06-24
+    - "After Reviewing let’s catch back up Next week! / We’re good until then" — LA Client — Mayson: 'Okay got you'; the weekly call never happened again, 2026-06-24
+- [3] Sarah: Her first-ever performance complaint (Aug 8) got a question back 45h later and no plan; she then went silent for 11 days on top of a lost main account and a missed invoice, and nobody on our side noticed, checked in, or apologised. She only resurfaced to correct a wrong invoice. Her hedged phrasing ('not trying to be that annoying hassling client') was the churn signal and it was read as politeness.
+    - "looks like it is due to your reach being low at the moment. How are socials going for you ?? Any issues there ?\" — Ronnie Chat, 2026-08-10
+    - "Thanks Ronnie! Have you added to folder? I can’t see it in there" — Sarah H, 2026-08-11
+- [3] Vicky: She chased traffic five times (6/28, 7/27, 8/4, 8/10 x2), said results were 'worse and worse', asked 'is this complaint solved?' three times in a week, and her message volume collapsed — no one escalated, no call was offered, and after she quit no owner-level reply was ever made. The follow-up 8 days later is a collections message.
+    - "Do you have other traffic ready? / So the page will not go yo 0 fans" — Valerie, 2026-06-28
+    - "Hello, when the traffic is going to work?" — Valerie, 2026-08-10
+- [2] Alex Paige Moore: Mayson did react to the May 26 'I need a response' with a call, but the biweekly call lapsed after one session, her five revenue asks never got a written plan, the Jul 30-Aug 11 and Aug 13-26 silences drew only invoice chases and templated sends, and nobody knew she was going into surgery until she told Ronnie in reply to a customs request.
+    - "Hey @alexpaigem when are you free for our biweekly call?" — Mayson Chat, 2026-06-24
+    - "Hi! wanted to check in on this weeks payment" — Stephski, 2026-08-11
+- [2] Amber Haze: We only react to explicit written complaints (May 20 and Jun 4 each triggered a call); nobody noticed the Aug 2-13 lull with a money question open, nobody checked whether Wesley's Aug 11/14 anniversary sends went out, and her churn-language on May 20 got a defence rather than a retention plan.
+    - "switching agencies was a big decision for me and I came into this expecting a smoother transition, stronger organisation and more visible progress across all areas." — Kirsten (amber Haze), 2026-05-20
+    - "hearing that it's because of flagging issues and Instagram problems just isn't good enough... Just seem like only the chatting side are working" — Kirsten (amber Haze), 2026-06-04
+- [2] Barbara: Clear early signals (four open asks with zero chases in the Aug 15-21 week, self-deleting posts, 'i'm just getting worried') were not acted on; when she finally said 'very nervous' and proposed her own fallback plan on Aug 24, the response was 'Working on it!!' and no owner picked it up in 48h.
+    - "i don't undertand how this can possibly keep happening, especially because we need to get traffic going i'm just getting worried about that" — Barb Brazil, 2026-08-11
+    - "or maybe we can just do like a very heavy OFTV focus like I shoot once a week to make an upload a video every week just until we figure this out?" — Barb Brazil (client designing her own contingency plan; unanswered), 2026-08-24
+- [2] Haileigh Cox: Explicit frustration (3/22, 4/22, 6/22) got same-day patches but no structural response; a direct 'nobody is on my account today' went unanswered; 12-16 day client silences were never met with a human check-in, only invoice reminders. Mayson's June call attempt is the one counter-example.
+    - "Hey i noticed no one has been on my account today?" — Hailey Client, 2026-02-16
+    - "Hiiii! So I just want to address my biggest issue - using the snare. You guys get zero content from me because it’s a pain." — Hailey Client, 2026-02-11
+- [2] Kaitlynn: She is agreeable, apologises for her own delays and quietly stops re-asking; client messages have fallen three weeks running and nobody has checked in or closed her open asks. Not yet disengaged, but nobody would notice if she were.
+    - "taking notes this week and I’ll circle back while y’all settle in :)" — Kaitlynn Anderson Koda, 2026-08-08
+    - "Hey y’all thank you :) sorry for the delay had a very busy weekend! 🙏🏼" — Kaitlynn Anderson Koda, 2026-08-17
+- [2] Lilia: She never went quiet, but her frustration signals ('kind of pissed', 'Not cool', 'I don't want to loose him', paying out of pocket with free make-up videos) got templated apologies only; nobody on our side called her or ran a recovery plan after Jul 24, Jul 29 or Aug 14, and the client absorbed the account-management work herself.
+    - "Missed out on my highest spender kind of pissed about it when it took me ages to get him back" — Lilia, 2026-07-29
+    - "Sending frumby a free video since he got double already! I'm sending him a 200 plus video because he lost a bet!" — Lilia, 2026-08-19
+- [2] Liza Kovalenko: Client volume fell from 93 msgs (Oct 2025) to 12 (Apr) and 1 (May 2026) and the only outbound in that window was a yoga-studio promo and an invoice; Mayson's 06-06 call was the one real check-in, but the 07-20 'monthly call tomorrow?' was dropped mid-thread and never re-asked, and no one has reacted to two months of billing-only contact.
+    - "If you’re ever in Miami, we’d love to have you come try out Wildthing Studio (owned by ALTR Media)" — Mica Vecco, 2026-04-08
+    - "Hey @xanaduexpress are you available for our monthly call tomorrow?" — Mayson Chat, 2026-07-20
+- [2] Mila: Volume fell 10 -> 6 -> 1 team message this week; she went quiet right after delivering everything asked of her and nobody followed up on the videos, the money, or her. Mayson's bare domain is the only outreach in 9 days.
+    - "Sent:)" — Callie (Mila), 2026-08-17
+    - "yayyy perfect babes tyyy 🫶🏼" — Michelle Queue, 2026-08-17
+- [2] Paige: Her 12-day post-onboarding silence was not noticed by anyone (first chase was a bill), and in nine weeks nobody has asked how the service is going — her engagement today is IG firefighting, not the product.
+    - "oh perfect sorry i didn’t see these ill have a look now xx" — Paige (Chey Ref), 2026-07-06
+    - "please help 😂💞" — Paige (Chey Ref), 2026-08-13
+- [2] Sarah Lloyd: Frustration signals (Jun 14 'lot of bills', Jul 14 'lowkey crazy', Aug 20 anger, Aug 24 'really frustrating') drew fixes but no check-in until Noah finally offered a call on Aug 24 — the only other proactive call was Mayson's on Jun 21. Nobody noticed she stopped asking about Meta after Aug 8 or went quiet on chat topics Jul 18-Aug 7.
+    - "But I understand this! Will trust the process 🙏 just have a lot of bills" — Sarah Lloyd, 2026-06-14
+    - "i spend every single day filming and uploading promo and now hours streaming as well and everything funnels into this one OF page so its just really frustrating seeing no whales long-term being built, my top spenders being ignored and in general no actual chatting but just MM bumps" — Sarah Lloyd, 2026-08-24
+- [2] Shayna: Clear frustration signals (7/28 'make sure the things I'm saying are being heard', 7/29 'third time I've asked', 8/11 'left on seen') got a Mayson call and a chatter removal but no owner-level outreach. After she went quiet in Africa (8/13-8/18) nobody checked in; the only OF-side contact in ten days was asking her for a custom, and her 8/24 return-date message got no acknowledgment.
+    - "I really wanna make sure the things that I'm saying are being heard please 🙏" — Shayna Holt, 2026-07-28
+    - "Hii my apologies been so busy here in Africa" — Shayna Holt, 2026-08-18
+- [2] Vale: Nobody acted on the signals: her Aug 11 '😅😅😅' and 'just seems odd' after the private-live resale got a one-line apology and no leadership check-in; the biweekly strategy call (Mayson) has not run since Jul 13; her volume fell 37→18→11 messages/week and she stopped chasing, then apologised for our delay; her Aug 22 delivery of a three-month-late $2k custom drew no acknowledgement.
+    - "Thank you ! If it was a sexy live or something like that I understand but like that live was personal with the guy so like just seems odd to try to sell that" — Vale, 2026-08-12
+    - "Okay got it, will upload tomorrow morning i promise, sorry for the delay 😣😣" — Vale, 2026-08-20
+### security_hygiene
+- [3] Lauryn: We solicited her passwords in a ~20-member group chat with rotating vendors (Sophie asked for FB login in-chat; Vivek asked for Gmail three times incl. a screen-share workaround and for her IG login). Four plaintext passwords, her FB phone number and a live SMS 2FA code sit in the thread; the FB password root 'Hilda0263' was the same for 11 months; no one ever proposed rotation or a secure channel.
+    - "Can I please get your Facebook log in details? ❤️ Email/phone number and password please x" — Sophie Logan (Raw Agency) — answered in-chat: 'Facebook Login: lalovetheboss@gmail.com / PW: Hilda0263', 2025-09-15
+    - "New FB Password: BossMama261395$$" — LA Client (second plaintext FB password in 2 days, after 'PW: Hilda0263$$30' on 2026-08-07; OF password 'BossLovelala9563!!$$**26' posted 2025-08-25), 2026-08-09
+- [3] Paige: IG username/email/password posted in the group chat five times, plus SMS/WhatsApp codes, a backup code and her phone number; Vivek asked for DM once, she posted in-group anyway, nobody deleted or rotated, and the password degraded to 'Password1123' — all sitting next to ALTR's own wire details.
+    - "xpaigex18 / paigelgrogan4@icloud.com / Tylerthomas2014" — Paige (Chey Ref), 2026-07-29
+    - "Send login in dm" — Vivek, 2026-08-13
+- [3] Sarah Lloyd: Day correctly asked for logins via DM on Jun 9, but on Jul 29 Vivek asked 'Share login' in the group and she posted her Facebook email + password twice in-chat; it was relayed to an outside contact and has never been rotated in 28 days. Chat also had four unexplained join-by-link events and two silent member removals on Aug 20.
+    - "also, if you can pls dm your logins to @AlexBakalov instead of here on the gc that would be soo much better" — Day | Account Executive, 2026-06-09
+    - "Share login" — Vivek, 2026-07-29
+- [3] Sarah: We routinely have her post plaintext credentials into a ~19-person group and never rotate them: OF password Sep 18, free-page password Oct 28 (re-posted unchanged Mar 2 and Apr 8, so never rotated in 5+ months), IG passwords plus live 2FA codes Aug 7 and Aug 9, passport photos Apr 27, and her home address on Sep 18.
+    - "Also just created the free OF page! chaistyjustin@yahoo.com  / hyVfo5-xizten-poqcuz" — Sarah H, 2025-10-28
+    - "Ofc!! Here it is  / Chaistyjustin@yahoo.com / hyVfo5-xizten-poqcuz" — Sarah H, 2026-04-08
+- [3] Shayna: Our staff posted a link.me login and password in the group, then asked the client for her Facebook login in the group; she posted the FB password in clear text. Nobody deleted the messages, asked her to rotate, or moved to a secure channel, and new members (Vivek) were later added to a chat still holding those credentials.
+    - "Your login info: / User: shaynaholt / Pass: ojs4bYuuhl" — Mica Vecco, 2026-05-06
+    - "hi bb! can you please send me your FB login i'm just going to try and go in and grant the access myself so it's easier 🤍 i'll log back out after!" — Mica Vecco, 2026-05-08
+- [3] Vicky: Full OF logins for BOTH accounts were posted in the group in plain text on 7/18 and never rotated; an unexplained third-party login (7/17) and an unexplained Infloww disconnect (7/24) were never investigated or explained; her requests to change passwords (7/5, 7/7, 7/9) were promised 'today' and took 11 days.
+    - "@vickycutiee / Login: emmamayn8@gmail.com / Password: / DontPlay285104(?qs" — Valerie, 2026-07-18
+    - "Its strange but who did this, you know? / I already deleted it yesterday / Because of it we need to change the passwords for both accounts" — Valerie, 2026-07-17
+- [2] Alex Paige Moore: Her OF password was posted in plaintext in a multi-member group (with vendor/chatter accounts joining and leaving throughout) and never rotated or removed; passport and driver-licence photos were requested and posted in the same group for an IG unban.
+    - "Cottonball21! / Password update" — Alex Paige, 2025-09-17
+    - "we just need this today if possible pls: • a clear photo of your passport • a pic of you holding your passport (everything visible)" — Michelle Queue, 2026-04-26
+- [2] Amber Haze: We asked for her IG login in the group chat and it was posted in plaintext twice (still visible), Derrek's 'I'll change everything in a few days' rotation never happened, the old agency's Authy stayed attached to her Meta-verified account, and Eric logged into her IG from London without telling her (fixed later: Ollie now pre-announces OF logins).
+    - "Hi send over the details and we will begin the posting sunday night /monday morning" — Derrek, 2026-05-09
+    - "I'll change everything in a few days for you / Don't worry" — Derrek, 2026-05-10
+- [2] Barbara: No credential intake process: logins went to Derrek's DMs, nobody on the team knew who held her X logins, Vivek requested logins in the group chat, and Derrek's personal phone number and the client's phone number are both posted in the group. No raw passwords appear in chat, but access handling is ad hoc and untracked.
+    - "hi @barbsilvaxo! who did you give your login to?" — Mica Vecco (11 days after onboarding; client: 'I believe Derrek'), 2026-07-31
+    - "For sure ma'am / Send login" — Vivek (IG login requested in the shared group), 2026-07-31
+- [2] Haileigh Cox: Credentials and access are handled in the open group: a backup IG login and recovery code were posted in-chat and never rotated, our Meta rep asked for her main IG login in the group, CRM login codes were sent to her phone without warning, and phone numbers are traded in the thread.
+    - "supercarcrashesonly - ALTR$1 - backup code: 9354 0628" — Sophie Logan (Raw Agency), 2025-08-26
+    - "Hey i keep getting codes to login i to my acc? Is this from you guys  -> Hey yes ! Sorry this is from our new CRM , apologies!" — Hailey Client / Eric The Efficient, 2026-04-07
+- [2] Hannah: OF email+password, IG username+password and a live 2FA code were all posted in the group in plain text and never rotated after use; her phone number is also in the chat. Nobody asked her to change the password after we logged in.
+    - "Hannahchamberss2022@gmail.com / Gymgirl22!" — Bells Vale Referral, 2026-05-29
+    - "Hi! Can we change the name to hannah please and login info for instagram is / hannchambrs / Bella_marie22!" — Bells Vale Referral, 2026-06-01
+- [2] Lauren Blake: Michelle asked for IG login details in the group; Lauren posted the username and password in plaintext to a 10+ person chat and nobody moved it to DM, deleted it, or asked her to rotate it afterwards.
+    - "Hi babes, going to get an update for you. Send over the login details and we can get that going 💕" — Michelle Queue, 2026-07-21
+    - "Laurenblakeluxe / AbundantLauren444" — Lauren Blake (IG username/password in group chat), 2026-07-21
+- [2] Lilia: OF password posted in plain text in the group on day 2 and echoed back by Fred; email/login screenshots, TikTok login and phone numbers (client's and Fred's personal number/Gmail) all sit in the shared chat; no one steered credentials to a private channel or confirmed rotation after the Jul 23 'am I hacked' scare or the Aug 4 login change.
+    - "2027GetOfMyOF!? That's the new password for my first account second one is good!" — Lilia, 2026-05-26
+    - "Should I change my password / To make sure I'm not hacked" — Lilia, 2026-07-23
+- [2] Liza Kovalenko: We asked for her Facebook email/password in the group chat rather than via delegated access only; a content-portal passcode was simply removed instead of reset; her direct question about an unknown OF login was never answered; and a backup IG required her personal payment method 'to match the account owners info' with no explanation of risk.
+    - "We can definitely run your FB account for you! Just need a couple things: / FB login / Username - Email/phone: / Password:" — Mica Vecco, 2025-10-27
+    - "Was it someone from the team that logged in ?" — Eli, 2026-03-18
+- [2] Vale: Her OF password was posted in plain text in the group on day one and never deleted or rotated on record; when suspicious activity was raised on Jul 28 and she asked whether to change her password, nobody answered. (Ollie's login-notice heads-ups on Jul 11 and Jul 31 were good practice.)
+    - "Password is Michelle2505!!" — Vale, 2026-03-23
+    - "Should I change my password?" — Vale, 2026-07-28
+
+## Top fixes
+
+- Alanna: Turn her pinned release schedule into an owned checklist — the AM confirms in-chat on each date that the drop went live and what it did — and treat any direct client instruction (like 'stop chatting') as a same-hour acknowledgement; every loop on this account (release, takedown, FAQ form, DMCA reports, customs) was opened and then never closed.
+- Alex Paige Moore: Assign one named account owner from day one (the role Sophie held for 8 weeks and nobody took over) who sends a short weekly written update — OF revenue vs last week, promo-page posting status with proof, open items with owners/dates, and a running payment ledger — and who is the single person she tags. That one habit would have surfaced the 80-day promo pause, closed the five revenue asks and the $1,989 dispute, caught the July owner-unreachable gap, and noticed her going quiet before surgery.
+- Amber Haze: Give this account a single named account manager who posts a short weekly written update every Friday (IG/backup-account numbers, ad spend, FB followers, open asks with owner and date) and closes every promise in-thread -- her two biggest complaints (Jun 4, Aug 2) were both 'I'd rather be told than have to chase', and the one time we did it unprompted (Aug 1) she thanked us within the day.
+- Barbara: Give the designated go-to (Mayson) a real weekly written status for this client — every open ask and promise with owner + due date, the IG/flag state in plain words, and at least one posting/traffic number — sent unprompted every Friday. It would have caught all nine lapsed promises, replaced both 'don't worry' brush-offs with an actual explanation, and answered the Aug 24 'very nervous' message before she had to write it.
+- Chey Mai: Name an account manager and attach a one-paragraph performance summary to every invoice — she has never been shown OF results in 65 days, so every message from us is a bill, and the only thing we do when she goes quiet is chase money.
+- Haileigh Cox: Announce one named account manager in the chat who owns a 24-hour reply SLA, posts an explicit 'done' on every open ask (shadowban, receipts, link restrictions, emoticons), and sends a short weekly revenue/status note, so that the only unprompted messages she gets are no longer invoices, leak broadcasts and reel links.
+- Hannah: Give every new client one named account owner who posts a short written weekly number in the group (subs/day, revenue, what we did about traffic this week, what's next) from week 1 — and who is on the hook to answer any dispute or exit message within the hour with a call offer. Hannah left because she never saw evidence the 35% was buying growth, and when she said so, nobody was listening.
+- Kaitlynn: Make the AM send a short weekly numbers + what-shipped update every Friday and keep a per-client open-asks list with an owner — the call, the posting cadence, the voice memo and the invoicing question all died because nobody owned the reply, and the Aug 19 drop she circled on day one got no mention at all.
+- Lauren Blake: Give this account one named owner (not the chatting lead) who runs a promise ledger for the group chat: every commitment made to her (ad-stats call, ad report, IG updates, boundary confirmation, screenshot, whale report) gets an owner and a date and is closed in-chat in writing, and who confirms her content boundaries, price floors and VIP list to chatters in writing before they sell.
+- Lauryn: Give the account one named ALTR owner the day the CRM leaves, with a non-negotiable fortnightly written update (revenue vs last period, every open issue with owner + next step + ETA, payment status). Sophie promised exactly this on 2025-09-23, sent it once, and left on 2025-10-09; nobody inherited it. That single habit would have kept the Facebook ticket alive across the 9 months nobody owned it, surfaced the 'money is beyond low' signal on 2026-06-24 as a retention conversation instead of a payment chase, and stopped the client from being the one chasing @ofwizz/@fonta/@mayson for status.
+- Lilia: Make whale protection mechanical instead of verbal: a tool-enforced 'high-spender folder only' rule for Teddi/frumby plus a named chatter lead who confirms every client instruction in writing within 2 hours and reports back the outcome - the same failure hit Jun 12, Jul 24, Aug 14 and Aug 23, and every fix was 'informing the team'.
+- Liza Kovalenko: Give the account one named ALTR owner who runs a weekly outbound touch (one message with stats/ads/IG status/open items) and a visible open-items list, so every question in any topic gets a same-day owner, every promise has a due date, and every wire is confirmed in writing within 24h.
+- Mila: Close every billing loop the same day — confirm receipt of each payment in-chat (especially after changing the account number) and issue GBP invoices with a due date by default — then have Michelle tell her what happened to the 48 videos; she has done everything asked and is being met with silence and emojis.
+- Paige: Move all IG credential and 2FA handling out of the group into a private channel and have Vivek do a one-time hardening (strong password on her own number, 2FA, backup codes) instead of re-logging in weekly — then give her a named AM who sends OF numbers so the relationship is about more than lockouts and invoices.
+- Sarah Lloyd: Give the account one named owner who runs a written, enforced per-account rulebook (whale/excluded-sub list verified before every MM, no pre-Oct-2025 content, one set per sexting session, aftercare on every $1k+ sub) and sends her a short weekly stats-and-actions recap — so she stops being the QA layer and stops having to tag two AMs and get relayed by a third.
+- Sarah: Re-fill the account-owner role that vanished when Sophie stopped posting (Nov 2025): one named CSM who keeps a visible open-items list (IG accounts down, pending customs, OFTV files, invoice status) and posts a short weekly status to her unprompted, so nothing depends on her bumping or on @-tagging whoever might be around.
+- Shayna: Stop routing every OF-side item through one person. Put a named backup (Mayson already answers within a minute when pinged) on a written open-items list the client can see (customs, lives, complaints, payment confirmations), with a same-day acknowledgment rule for any client message. That single change would have caught the 19-day custom question, the 8-day Zelle question, the three chased lives, and the 'left on seen' moment.
+- Vale: Give Vale's account one named owner who keeps a single client-visible ledger of every paid custom/call/live (fan, amount, date sold, status, booked time) that survives chatter/vendor handoffs, reviews it with her in a fixed weekly touchpoint, and pairs it with a written account rulebook (pricing minimums, no B/G, no girl-girl except Mia Sorety, private lives never resold, no lie-pushes) that every chatter and PPV specialist is briefed on before touching the page.
+- Vicky: Never remove a client's existing traffic source without a written replacement plan that names an owner, a start date and the number we will report weekly — and then report that number every week whether it is good or bad. Vicky chased five times over 54 days and was given four dates and zero data; a single honest weekly 'new fans this week: X' (even X=0) with a call offer would have either fixed the problem or let her leave with trust intact.
+
+## What clients want / what worked
+
+### Alanna
+- want: Her scene schedule executed at 7pm LA and confirmed: "Some scenes that need to be scheduled / 10th August ... 29th August" (8/3); "Yes 7pm for all releases" (8/12)
+- want: Leaks and the impersonator handled with visibility: "is there a way to remove this insta" (8/3); "Let me know what I need to do to get on top of my leaks" (8/12)
+- want: Chatters to use her directly for verification and customs: "the chatters can always message me and I’ll do it super quick (usually)" (8/7)
+- want: To be given work: "Any new customs or try to sell heaps I’ll do them in the next few days" (8/15)
+- worked: Chatting quality early on: "Loving the chatting so far / It sounds so good" (8/8)
+- worked: Ollie's Tip-$5 and trailer coaching landed: "Yes sounds good" and "The trailer my boyf made so I don’t mind but sounds good" (8/7)
+- worked: Derrek's 14-second reply on leaks: "Aw yay thanks" / "Appreciate it" (8/12)
+- worked: Same-day drop check-ins on Aug 10 and 12: "Thanks so much" (8/12)
+### Alex Paige Moore
+- want: A concrete plan for OF revenue when it dips, answered fast — 'Hey guys what can I do to bump up the $$$ Its been consistently really low' (Mar 25); 'I just wanna maximize this money' (Mar 3); 'I need a response' (May 26)
+- want: Hard safety and content boundaries honoured by chatters — 'I don't want people to think I'm ever ever meeting them' (May 15); 'I only want to show nude in the inbox' (Mar 29)
+- want: The management-run IG pages actually posting the content she supplies — 'How's the management social media accounts for me going?' (Oct 26); 'no videos have been uploaded to my reel page in ages… I added all those videos above for you to use' (Jul 28)
+- want: Billing that fits her OF payout cycle, with stable rails — 'I'm never going to not pay but… I can't really just pull 10kaus out prior to cover it until I get paid' (Oct 8); 'As it's a new bank I want to make sure the funds are going through before I send more money for invoices' (May 7)
+- worked: Sophie's unprompted first-week numbers report (Sep 23) — 'Wohooo thannk you so much! Amazinf thank you so much!!!' — the only time she was ever shown results, and the warmest reaction in the account's history
+- worked: Mica's empathetic, same-hour handling of IG flags/deletions (Oct 1, Nov 27, Feb 10) — 'Thank you! 🥰😘', 'So bloody happy! X', 'Thankyou!! Xxx'
+- worked: Fast execution on direct asks: Mayson flipped the page free within 16 minutes on May 22 ('Wohoo thankyou so much!!! X / You're the best'); Nate shut the Kel situation down in 25 minutes on Jun 18 ('Thank you very much'); Joseph/Nick Scott re-cut snare templates to her boundaries within the hour (Jan 29, Dec 30)
+### Amber Haze
+- want: Proof that growth work is happening, without chasing: 'I just want to see more action, communication, and progress rather than having to keep asking what's happening.' (Jun 4) and 'I was also told at the beginning that I would be shown and given monthly updates on exactly what had been posted... and how everything was performing.' (Jun 4)
+- want: Her big spenders protected with an authentic voice: 'maybe abit more warmth would be good... my big spender Wesley... he even picked up on it Asif I am not being myself' (May 9); 'Just please don't loose my high spenders keeps them happy and understand my boundaries' (Jul 14)
+- want: No lying to fans and hard boundaries respected: 'please tell the chatters not to lie to my spenders / I'll just loose them and they will just charge back' (Jul 29); 'I never want to show my face with the dildo' (Jul 14)
+- want: Straight answers on money and account safety: 'Roughly how much would my share of the cost be... is it something that's important or worthwhile for my account' (Aug 2); 'Hi was this you guys? It's London which is weird' (Jun 29)
+- worked: Plain, fast explanations when something goes wrong: after Mayson explained the OnlyMonster switch she wrote 'Okay understood thanks for explaining, the communication i appreciate always' (May 9); after Derrek's Inflow post-mortem, 'Thanks for explaining everything and I appreciate the apology' (May 20)
+- worked: One long, honest status update bought goodwill instantly: 'Thanks for the update, I really appreciate it. It sounds like you've put a lot of work into finding a long term solution I really hope it works!' (Aug 2, replying to Derrek's Aug 1 phone-farm message)
+- worked: Unprompted follow-up and announced logins: Vivek reopening the IG thread himself got 'I started already thank you! Any issues I'll message you' (Aug 19); Ollie's 'it was me logging into your onlyfans' got 'No worries! Thank you for letting me know' (Aug 13); live coaching on the Andy shower video closed in 9 minutes ('Thank you these are great', Aug 4)
+### Barbara
+- want: Root-cause transparency on the IG flags, not reassurance: 'did we add anything for like engagement or any sort of external software on any of my accounts... i'm trying to trace what could be root cause' (2026-08-11)
+- want: Proof her numbers are moving: 'i definitely wanna see my numbers increase not keep going down 😭' (2026-08-24)
+- want: One clear owner and a place for everything: 'if i have any questions regarding anything who would be the right person to reach out to from the group?' (2026-07-26); 'I'm not sure where to send this but' (2026-07-30)
+- want: Two-way content feedback and ideas she can shoot to: 'when i send you content i have ready id love to hear your feedback also!' (2026-07-22); 'is this too risqué' (2026-08-18)
+- worked: Michelle's day-1 content request doc + inspo reels + practical do/don't list: 'this is perfect i love this' (2026-07-22), 'Thank you queen!' (2026-07-23). Fast, specific, actionable — keep this as the template for every channel.
+- worked: Derrek's long Aug 1 transparency message about the phone-farm rebuild: 'awesome thanks Derrek :))) / appreciate you a bunch' (2026-08-03). When she gets the 'why', she is patient; it was the follow-up silence that eroded it.
+- worked: Olivia turning her own idea into a booked shoot in 6 days (gun range -> videographer Ben -> group chat): 'Oh yes!!!' (2026-08-20). Plus Michelle's weekly leak-removal report is the one cadence she thanks every time ('Thank you Michelle!', 08-10, 08-17, 08-26).
+### Chey Mai
+- want: An easier payment rail: "Do you guys have PayPal" (7/13)
+- want: Billing timed to her OF payouts: "Can you give me 4 more days please I’m just waiting for money to turn over from OF" (8/11)
+- want: Her main IG protected: "My Cheymai_ account is being targeted now" (7/22)
+- worked: Stephski's flexibility on the extension: "Okay no problem, just a heads up we have another invoice going out in 4 days" got an apologetic, cooperative reply (8/11)
+- worked: Quick reassurance once Mayson looked at the IG: "Looks all good / Don’t worry" (7/23)
+- worked: Michelle's weekly leak-removal breakdowns (8/10, 8/17, 8/25) are the only consistent proactive output on the account — keep them, but note the client has never reacted to one
+### Haileigh Cox
+- want: A named person and real responsiveness: "Who do I reach out to for general messages here. I feel like every time i reach out it’s either super delayed or just no response at all." (3/22); "Do I have an account manager?" (3/22)
+- want: To be kept in the loop with actual updates: "I want to be kept in the loop more now moving forward. There’s zero communication between me and anyone here." (3/22)
+- want: Her main IG kept safe above all: "I’m always terrified I’ll lose my main account since I’ve lost other big accounts in the past" (9/8); "This won’t get my account disabled will it? I just got my main account back from a perm disable." (6/11)
+- want: Low-friction content flow and brand control: "my biggest issue - using the snare ... I’d like to do a shared album" (2/11); "can we all have all customs approved by me? Some of these customs are insanity lol" (12/29); no text emoticons (3/6, 3/26)
+- worked: Proactive stats, game plans and check-ins from Sophie (Raw Agency) in Sep-Oct 2025: "Amazing!!!!! I love this ... thank you guys for everything!!! I’ll be more proactive moving forward" (9/8) and "You are so sweet Sophie! Thank you so much for checking in" (10/3). Keep doing this in-house.
+- worked: Fast, human replies from the chat team on customs and launches: "You guys are so quick to respond haha thank you both!!!" (9/28); Girth Master drop run end-to-end by Joseph/Nate with a results message "your new tape is at 10k sold!" -> "FUCK YES I SAW THAT!! So stoked" (3/28)
+- worked: Mica's weekly reel inspo and Derrek's plain-language reassurance on fan disputes: "So good, thank you so much for all of these!" / "You are the best!" (10/10, 10/15); "Hi! Okay good to know. Thank you" (4/22)
+### Hannah
+- want: {"want": "Growth she could see — a viral hit and sub numbers back up", "quote": "this is a process I just need something to go viral soon tik tok is going great with interactions and followers which is good so hopefully something will go viral soon", "date": "2026-06-09"}
+- want: {"want": "Her leaks actually taken down, not a graphic saying they were", "quote": "Hi all those leaks are still up 😭", "date": "2026-06-26"}
+- want: {"want": "Not to pay 35% on money she made herself on lives", "quote": "I did a private live that was 200 and then another live that made like 383 both with the 20% OF deducted so have to subtract that from the invoice.", "date": "2026-06-15"}
+- want: {"want": "In-person content help (Miami/Orlando shoots) that Derrek had pitched", "quote": "I want to schedule to come down to miami and take some reels and get some better ideas of how to edit the videos … and then def take some with the camera guy I think Derrek mentioned there was one here in Orlando?", "date": "2026-06-04"}
+- worked: {"moment": "Mica turned a missed Calendly booking into a same-hour call", "quote": "No worries <3 Can I call you in like 20 just finishing up at the gym", "who": "Bells Vale Referral", "date": "2026-05-29"}
+- worked: {"moment": "Fred's script flows and audio guidance landed — she recorded 13 voice notes the same afternoon", "quote": "Okay perfect thank you so much this helps a lot!", "who": "Bells Vale Referral", "date": "2026-06-08"}
+- worked: {"moment": "Concrete takedown numbers (not a template) got a warm reaction", "quote": "Hi Hannah! Takedown Update: / Google Removed: 192 Total Infringements Removed: 197 → 'Thank you my love!'", "who": "Michelle Queue / Bells Vale Referral", "date": "2026-06-25"}
+- worked: {"moment": "Honest bad-news on day 3 was accepted when it came with a plan", "quote": "Okay perfect I knew numbers would be down temporarily … thank you and I'll get the socials going today also. Let me know what else you guys need from me.", "who": "Bells Vale Referral", "date": "2026-05-30"}
+### Kaitlynn
+- want: Aggressive selling with a GF-experience chat style: "don’t be afraid to be aggressive with selling or pricing, and always be like a gf to them" (8/7)
+- want: Her Aug 19 never-sold drop pushed hard: "all content uploaded aug 19th is brand new never sold. go crazy!!" (8/7)
+- want: A couple of wall posts a day plus stories, scheduled in advance, and a call to discuss it: "would love a couple wall post a day - scheduled out an advance is totally fine - as well as story posts" (8/14)
+- want: Predictable billing: "For invoicing, is it weekly or bi-weekly typically?" (8/17)
+- worked: Chat quality from day one: "Impressed already with chat omg.. thanks guys. Kill it" (8/7) and "really impressed with how well numbers showed out this week !!" (8/14)
+- worked: Mayson's unprompted kaitlynn.vip domain: "Thank you so much for this I was going to request one so I appreciate it" (8/17)
+- worked: Michelle's reels brief with a 4-minute clarification reply converted into a client commitment: "on my next content weekend I’ll try and bulk some" (8/17)
+- worked: Derrek waiving the $91 shortfall as a "coupon for being such a great new client": "lmao I’ll accept 😂😇" (8/21)
+### Lauren Blake
+- want: Traffic growth on IG with visible progress: 'My ultimate goal is to get traffic picked up. Please let me know what you need from me to get started and getting momentum' (Jul 6) and 'I've signed up for paid ads so I would love to get those launched too' (Jul 6).
+- want: Hard content boundaries and price floors respected without repeating herself: 'When I do topless, it's no face, no sound. I don't do it any other way' (Aug 1); '$500 is wayyy too low for topless. I was only going that for diamond tiers who paid 8k' (Aug 1).
+- want: Financial transparency on what she is paying for: 'I'd like to see the ad reports of the 5% being spent on meta' (Aug 3); 'Also, do we account for the 6k in chargebacks?' (Aug 3).
+- want: Visibility and a say on whale handling and protection: 'Subjects: -24 whales, 13 ghosted since takeover. Strategy to wake them and keep them happy (they made 59% of rev)' (Aug 6); 'Can I see the screenshot of him sending my content please?' (Aug 17).
+- worked: Named-fan, named-number, specific-ask collaboration: Ollie flagged Joe at $6.3k in a day, she delivered pics and a video in 40 minutes while driving, Ollie confirmed 'he is officially farmed' and she replied 'Bravo team!! That's what we love to see!!' / 'Run it up fam' (Aug 18).
+- worked: Michelle's weekly DMCA/leak-removal report, unprompted every week since Jul 17, plus a same-hour answer on takedown cadence: 'Hi team! I'm super happy with how my page is being ran so far 🥳' came right after the first report (Jul 17).
+- worked: Fast, clean transactional support: Mayson turned the link-in-bio edits around overnight ('All done Lauren'), Stephski's chargeback explanation was accepted in minutes ('Awesome thanks sis', Aug 3), and the launch itself earned 'Great work on our launch I love to see those numbers! 👏🚀' (Jul 8).
+### Lauryn
+- want: Her accounts protected and her credentials kept in her own hands: 'Just def want page protected at all costs' (2025-09-15); 'I don’t give access to my Gmail / That’s just confidential' (2026-08-08); 'Talked to my Management we can’t give out certain passwords just for confidential purposes' (2026-08-15).
+- want: Proactive updates and a timeline on platform problems instead of having to check herself: 'Keep me updated Mama 💜💜💜' (2025-09-27); 'Also when do you think this will be lifted ?? It’s really making algorithm decline' (2025-10-07); 'Keep me updated pls / Well I’m periodically checking on my end as well' (2026-08-18).
+- want: Hard content boundaries honoured before anything is sold: 'minus pussy content I see , Sextapes , and solo play being that content I don’t do!' (2025-08-27); 'No explicit / No Sex / No Naked' on video calls (2025-08-30); 'Don’t do those types of customs / Implying giving head' (2026-02-20).
+- want: Billing that fits her OF payout cycle, in split links she can pay as money lands: 'Just so I’m aware with future invoices is it 3-5 day time frame ?' (2025-10-03); 'my books are ran off what drops after pending state' (2026-07-30); plus a clean brand search — 'when they type My Name with Naked doesn’t show any of that type of content for branding purposes' (2025-08-29).
+- worked: Sophie's first-month cadence of numbers + a written plan: 'your account has increased by 42.4%' (2025-09-11) and the 30-day report earned 'I think we are on the right track / Moving Upward / Stradgey makes sense' (2025-09-23). This is exactly what stopped after October and should be the template for every account.
+- worked: Chatters asking before selling: King Choy checking video-call limits up front — 'I just want to make sure we set the expectations before we take on some requests' (2025-08-30) — got 'Thank Youuu / For communicating that with me 🙏🏽🙏🏽🙏🏽'. Pausing chats during her lives and flagging fake Telegram accounts built the same trust ('So fans won’t be fooled', 2026-03-15).
+- worked: Visible, dated results: the DMCA scan ('Insaneeee / But glad we cleaned it all up', 2025-08-28; 'Looking much more clear', 2025-09-03) and Vivek's passkey workaround that got into Facebook without her Gmail ('FINALLY / We stuck in there / 🥳🥳', 2026-08-16; 'That’s where you come in at / And do your Magic 🪄', 2026-08-18).
+### Lilia
+- want: Her two whales (Teddi, frumby) handled by name, gently, and never sold owned content: "Just don't have him pay for insta photos that's it.... I don't want him leaving again" (Jun 12); "Only new content please let theme sell only" (Jul 24)
+- want: To be alerted the moment a spender goes quiet or upset so she can step in: "Hey can u make sure ur chatters message me when this happens" (Jul 22); "Chatters need to communicate of this happens so I can jump on" (Jul 29)
+- want: Price discipline that matches her brand: "sell to frumby 200 per video and as for pics sell 200 package of pics please nothing less" (Aug 9); "4 min video for 35? Is so cheap for my page?" (Jul 11)
+- want: A payment rail she can clear in one send: "Do u guys normally ch age ur Zelle accounts?" (Aug 15); "If this keeps happening I'll just go to the bank and do a transfer instead" (Jun 29)
+- worked: The custom-domain link Mayson shipped fast and unprompted: "No I love it! Thank you! I just put it up! / U guys are the best!" (Jun 10)
+- worked: Michelle's weekly DMCA takedown report - the one consistently scheduled outbound: "U guys are seriously the best!" (Jul 1); "Sweet! Thanks so much" (Aug 1)
+- worked: Fred surfacing customs and fan requests she never got from her old agency: "My other agency never told me about this custom! I'm getting it done today" (Jun 10); and the invoice consolidation with zero chasing in the Aug 15 cycle ("1,192 is what I owe! I'm keeping track!")
+### Liza Kovalenko
+- want: Definitive answers on platform flags, not workarounds: "Ok. Is it going to affect my account ? Or they just delete photos and that’s it ?" (2026-01-28); "Pls let me know if you have an idea of what it is / Or if any of your models faced this" (2025-12-18)
+- want: Visibility into results she is paying for: "Is there any statistics I can see? Would like to get more information on it thank you" (2025-11-18)
+- want: Clear content briefs she can execute while travelling: "I would like to receive the content ideas / scripts so it’s easier for me to make content I know exactly what content you need!" (2025-09-09); "Please let me know what content you guys need" (2025-10-03)
+- want: Stable rails and prompt written confirmation that split third-party wires landed: "Can you please confirm you received them" (2026-04-03); "Is the bank here correct?" (2026-07-06)
+- worked: Nick | DMCA closing the loop on the FB impersonator pages within 48h with named accounts and an ETA: "Amazing thank you Nick great job 👏" (2025-12-11)
+- worked: Sophie's Sept 2025 strategy call plus written debrief and reel refresh the same day: "Was a pleasure you so nice!! ❤️ thank you for sending this over too xx" (2025-09-18); and Mica's live hand-holding through the 10-10 shadowban ("Ok thank you so much I’ll use it in the future xx")
+- worked: Consistent invoicing with split payment links when she asked: "Hi babe! Thank you so much wanted to thank a team for an amazing job let’s continue crushing it 👏🏼👏🏼👏🏼👏🏼👏🏼" (2026-01-01)
+### Mila
+- want: To be in the loop on promo output: "what’s the plan for promos for the time being :)" (7/8); "if you could send me links when you do just so I can be in the loop🫶🏼" (7/8)
+- want: GBP invoices with a due date: "Is it possible to get the invoice is GBP? So I can get it paid :)" (7/7); "when’s the due date unless I’m missing it" (7/5)
+- want: An answer on her IG: "my accounts been suspended again... so what happens now x" (6/23)
+- want: Payment confirmation: "please let me know when you’ve received it and if you could just double check it doesn’t come through twice" (8/8)
+- worked: Mica's kickoff call and weekly reel inspo: "Thank you🫶🏼🫶🏼" (7/2), "Thank you girl💘💘" (7/14)
+- worked: Alex's instant GBP conversion when she asked: "Thanks so much!! Will do now" (7/7)
+- worked: Michelle's content requests reliably convert: "Have uploaded 48 vids to the drive 🤍" (8/17)
+- worked: Stephski tracking down the mismatched wire: "Oh thank god, and oh I see!" (7/13)
+### Paige
+- want: Her IG to work and stay logged in: "hey @fonta ive just realised i cant share links xx" (7/29); "please help 😂💞" (8/13)
+- want: Patience with the platform: "sorry im new to telegram still figuring it out 😂" (7/6)
+- want: To be kept informed: "thank you for updating me 💗 im excited to see where this goes" (8/1)
+- worked: Vivek's fast, hands-on fixes: "thank you so much x" (7/29), "perfect thank you so much" (8/21)
+- worked: Derrek's 8/1 transparency on the IG phone-farm rebuild: "oh wow! thats insane hopefully it works out thank you for updating me 💗" (8/1)
+- worked: Michelle's gentle handling of her upload confusion kept her engaged: "awww lol it’s okay!" (7/18)
+### Sarah Lloyd
+- want: Whale/top-spender protection above all: "It’s really really important this guy isn’t sent BG!! He’s my biggest whale" (Jun 9); "the chatters need to just message him at 9am AEST saying good morning" (Aug 25)
+- want: Real conversation before selling: "Really really limited relationship building and so many conversations have ended on me leaving them on seen after a price objection" (Jun 27); "please chat to subs a bit! not just push sales the whole time" (Aug 23)
+- want: Her content used the way she built it: "I have soooo much content, there’s no need to be reusing the same photos and videos & text every single day for weeks" (Jul 13); "Can you please stick to one outfit for these?" (Jun 13)
+- want: To be heard and told outcomes without chasing: "and let me know how the new release PPV goes" (Jun 12); "Hey! Any confirmation that this has been seen pls??" (Jul 17)
+- worked: Alex jumping in personally within minutes on night one and offering a call: "i hear you / im not gonna give you the customer service response" (Jun 9) — two days later she wrote "Loving the chatting from what I’ve seen!" (Jun 11)
+- worked: Vladan's visible aftercare and candid perspective: "he bought for $50 and shouldnt be mad anymore" (Jun 11) and his honest whale-dynamics talk on Jun 14 got "yes I understand and completely agree"
+- worked: Stephski's same-day billing corrections: "Easy thanks! Transferring now" (Aug 9); and Noah finally showing analytics on a call: "yeah great stats, apologies I hadn’t looked at that. I know you guys are great at sales" (Aug 25)
+### Sarah
+- want: Fast, communicated IG recovery: "Praying this doesn’t keep happening to me it seriously seriously sucks!!" (2025-11-04) and "I just wish the turnover time for getting accounts back were quicker!" (2025-12-04)
+- want: To be told exactly what is needed from her and where to put it: "In terms of content ect will you tell me what’s needed from me/ where to send all content to? X" (2025-09-18) and "Also lmk where to send the vids into! They all done!" (2026-07-20)
+- want: Confirmation loops closed: "Please lmk when you guys recieve it!" (2025-10-06) and "How will I know when I get the feature or I just gotta keep checking? Do you guys check it?" (2026-06-26)
+- want: Not to feel like a burden for asking: "Sorry to be asking sooo many favours today!" (2025-09-25), "I’m not trying to be that annoying hassling client" (2026-08-08)
+- worked: Fast, concrete results reported unprompted in week one: Noah's "10k+ in 36 hours so great start" (2025-09-19) drew "Your chatting is INSANE!!"; Sophie's 30-day before/after stats (2025-10-16) drew "Literally can’t believe it every single day!!!!"
+- worked: Mica running the Nov 2025 unban end-to-end with daily updates ("I’m staying on it so will let you know of any more updates", 2025-11-06) -> "Thanks for the update!!! Xx" and "Thankyou so so much!!!!❤️❤️❤️" (2025-11-08); Vivek's 2-day jxstin.media recovery ("We are back Sarah", 2026-08-08) -> "Your amazing! Thankyou!!"
+- worked: Transparent, same-week answer to her invoice reconciliation query with an offer to walk through it on a call (Stephski, 2026-05-04) -> "Ohhh okay that makes so much sense thankyou so much for clarifying!!"; and a consistent weekly leak-removal breakdown from Michelle since Jun 26 -> "Thankyou!! I appreciate that!!"
+### Shayna
+- want: To be answered in the group without chasing: "Can someone answer in the chat all my messages are just left on seen 🥲" (2026-08-11) and "I really wanna make sure the things that I'm saying are being heard please 🙏" (2026-07-28).
+- want: Her two hard lines respected by chatters: "I'll never show vagina" (2026-04-15) and "My page is free. I have so many freeloaders. Absolutely everything is paid for always" (2026-07-27).
+- want: A visible, maintained tracker of customs and lives that she does not have to build: "I'd also be able to mark when it's done on that it's what I did with my old agency it worked well" (2026-07-20) and "i need to be informed of this stuff please. If I didn't look through my messages i wouldn't have known" (2026-06-23).
+- want: Chatters synced with her real life and voice: "Hi guysss please make sure chatters watch my stories on IG 🤍" (2026-04-17) and "Hi hi can we make sure English is better please" (2026-07-26).
+- worked: Michelle's weekly leak-removal report and fast takedown turnaround: "Thank you for being so on top of this" (2026-05-21), "Wow thank you!" (2026-06-26), "Hi amazing thank you!" (2026-08-18). The one workstream that runs on a cadence she never has to chase.
+- worked: Same-day answers when they did happen: Fred's 4/15 walkthrough of custom approval built early trust, "Yeah definitely understandable! Appreciate you thank you" (2026-04-15); Fred fixing chatter English within 10 minutes on 7/14, "Goodmorning thank you :)" (2026-07-15).
+- worked: Stephski confirming Zelle installments quickly on 7/5 and 7/7 ("Yes received!") and the pre-invoice OF-withdrawal reminders, which she responded to on the day each time; the 8/2 invoice was paid in one day ("Sent!" / "You're amazing thanks ❤️").
+### Vale
+- want: Fans to feel they are talking to the real her, with no lies: "If I send them pictures or voice notes it feels more real like they’re talking to me" (Mar 28); "I just live very openly on my ig so I feel like it’s easy to know that’s a lie" (Apr 8); "I don’t want my fans to feel scammed !!!" (Aug 1)
+- want: Content sold at her minimums, not undersold: "I just don’t want my stuff to be super cheap" (Jul 12); "a full video of me with a dildo would be around $250-$200" (May 11)
+- want: A clear running list of what she owes and paid calls actually booked: "Can you please tell me what customs I’m behind on ?" (Jun 29); "Pls let’s get those schedule they’ve been waiting for a minute" (Jul 30)
+- want: Private paid interactions kept private and boundaries respected: "He payed to have a private conversation with me so why is being sold ?" (Aug 11); "Hi, I don’t do that kind of content" (Jul 21)
+- worked: Fred's fan-prep notes before calls and the honest handling of her sick day: "Video Call Notes: ... Names Dante, lives in New Jersey" (Apr 2) → "Jesus 😭😭😭 ... Thank you"; the voice-note apology kept the $1,500 fan warm
+- worked: Ollie showing revenue impact on day 3 earned pricing trust: "Out of the 3 days we have been on, 2 of them have been your highest days in the last 3 months, with today at 2.5k" (Jul 12) → "Okay I’ll let you guys handle it then"
+- worked: Derrek stepping in personally on the Shayna incident and cutting $5,720 off her invoice for referrals: "ill take care of this vale" (Aug 1); she went on to refer another creator two days later ("I have a girl interested in management", Aug 3)
+- worked: Stephski's consistent pre-invoice withdrawal reminders and quick payment confirmations ("Recieved! thank you ❤️", Apr 21) — Vale has paid 9-for-9 on time
+### Vicky
+- want: {"want": "To be shown actual traffic results after she stopped paying for SFS on our instruction", "quote": "Can I ask what's going on with the traffic? The results have been getting worse and worse, and it's already been 2 months. When do you think you'll be able to fix this ?", "date": "2026-08-10"}
+- want: {"want": "Full briefing before any call or custom is sold on her behalf", "quote": "if you're selling calls, I need to have all information beforehand. Otherwise , I'm not going to do the calls. 🙏🏻 / I need to know exactly what has been promised or what he requested before I get on the call.", "date": "2026-07-09"}
+- want: {"want": "Her long-time whales protected and the persona kept believable", "quote": "Can you please send me list of Wales that doesn't believe that it is me talking i will send them voice notes / It helps / And can you stop sending mas dms to them for some time, so we can build the trust again", "date": "2026-07-01"}
+- want: {"want": "Control of her own content and payment rails (Drive in one place, USDT TRC20)", "quote": "I want to keep my content all at one place", "date": "2026-07-20"}
+- worked: {"moment": "Same-hour Infloww face-verification on day 1 — she was live within 3 hours of the intro", "quote": "Success / Let me know if you in", "who": "Valerie", "date": "2026-06-17"}
+- worked: {"moment": "Ollie turned a $500 spender's request into a delivered voice note inside 20 minutes", "quote": "Can you send him a voicenote or video doing as he asked please 🙏🏼 → [voice] → Don't worry I've sent it now → Thank you", "who": "Ollie Mckinlay / Valerie", "date": "2026-07-05"}
+- worked: {"moment": "Derrek's one long, honest, specific update was received well — proof that detail buys patience", "quote": "Thank you for an update", "who": "Valerie", "date": "2026-08-01"}
+- worked: {"moment": "She stayed cooperative and paid every invoice (3/3) despite everything, and even volunteered to settle up on exit", "quote": "can we please count how much money I need to send", "who": "Valerie", "date": "2026-08-18"}

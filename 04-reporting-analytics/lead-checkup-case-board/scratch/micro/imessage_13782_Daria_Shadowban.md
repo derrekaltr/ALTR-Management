@@ -1,0 +1,19 @@
+## Daria Shadowban [imessage#13782 GRP] msgs=80 win=2026-06-09..2026-07-29 lastClient=2026-07-29(51d) lastDerek=2026-07-29(51d) UNANSWERED
+...
+[2026-06-09 00:38]OUTCOME| DEREK: Done a few hundred cases recently for me
+...
+[2026-06-09 20:04]ANGRY| Daria Hadipour: Hey hey! Any update 😊
+...
+[2026-06-10 04:56]OUTCOME| Daria Hadipour: Approved
+[2026-06-10 04:56]OUTCOME| Kartik Sighroha: Loved “Approved ”
+...
+[2026-06-11 05:26]PAY| Kartik Sighroha: Derrek didn’t tell u the cost on this?
+...
+[2026-06-12 03:24]IMG-near-money| Daria Hadipour: ￼Ok got it
+   <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/db/11/at_0_0001886B-C83B-441F-B028-D1A6EC6FE7F5/IMG_6747.png>
+...
+[2026-06-22 16:21]ASK| Kartik Sighroha: REP IN OFFICE, let us know if you need help with anything Ig related thanks
+[2026-07-11 10:35]PAY| Kartik Work: Hey current price is 4k let us know if any accounts are banned
+[2026-07-29 20:59]PAY| DEREK: Hey, just wanted to give a quick update. I’ve parted ways with Kartik for the social media recoveries. He’s still going to be working on them, so if you have a pending case that’s owed or any future c
+[2026-07-29 21:07]PAY| Daria Hadipour: Loved “Hey, just wanted to give a quick update. I’ve parted ways with Kartik for the social media recoveries. He’s still going to be working on them, so if you have a pending case that’s owed or any f
+[2026-07-29 22:34]OUTCOME| Kartik Work: Just to add to what Derrek said, I’m done with social media recoveries as well. I won’t be taking on any pending or future recovery cases. If you still need these services, you’ll have to find another

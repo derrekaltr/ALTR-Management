@@ -1,0 +1,6 @@
+## Eric The Efficient, Koda, Brennah Black Client [imessage#6537 GRP] msgs=24 win=2026-03-25..2026-04-02 lastClient=2026-04-02(169d) lastDerek=2026-03-31(171d) UNANSWERED
+...
+[2026-03-25 20:56]ASK| Eric The Efficient: Really depends on how much content you currently have on your page. If we started working together, I would want you to spend the majority of your time (while you’re working on your OF business) to be
+...
+[2026-03-31 16:38]ANGRY| Brennah Black Clie: Hi Lovie 🖤 Thank you so much for following up. For now, I’m in a really good position with my current agency, but I’m so glad we connected, I always like to keep an open mind for the future in case I 
+[2026-03-31 22:26]ANGRY| DEREK: Loved “Hi Lovie 🖤 Thank you so much for following up. For now, I’m in a really good position with my current agency, but I’m so glad we connected, I always like to keep an open mind for the future in 

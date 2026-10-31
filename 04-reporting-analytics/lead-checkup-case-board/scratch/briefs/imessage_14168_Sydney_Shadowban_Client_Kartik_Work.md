@@ -1,0 +1,38 @@
+# Sydney Shadowban Client, Kartik Work  [imessage #14168 GROUP]
+msgs=29 (in=23 out=6) window=2026-07-20..2026-07-29
+last_client=2026-07-29 (51d ago), last_derrek=2026-07-29 (51d ago)
+LAST MESSAGE FROM CLIENT — UNANSWERED: 'Just to add to what Derrek said, I’m done with social media recoveries as well. I won’t be taking on any pending or future recovery cases. If you still need these services, you’ll have to find another…'
+
+  ...
+[2026-07-20 01:34] DEREK: Kartik this is sydney. She has a restriction on her ig
+[2026-07-20 01:34] Kartik Work: Hey Sydney
+[2026-07-20 01:34] Sydney Shadowban Client: Hi!!
+[2026-07-20 01:34] DEREK: Can we help fix
+[2026-07-20 01:34] DEREK: Send a screenshot of what it says
+[2026-07-20 01:34] Kartik Work: Let’s see
+[2026-07-20 01:35] Sydney Shadowban Client: My inssta keeps getting restrictions and I don’t even post anything inappropriate or bad😭
+[2026-07-20 01:35] Kartik Work: Send a screenshot of the issue please
+[2026-07-20 01:35] Kartik Work: We will handle
+[2026-07-20 01:36] Sydney Shadowban Client: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/c1/01/at_0_C232E005-5958-45F9-91F4-467E2AA1C0FB/IMG_2593.png>
+[2026-07-20 01:39] Kartik Work: Please go back
+[2026-07-20 01:39] Kartik Work: Removed contenr
+[2026-07-20 01:39] Kartik Work: And send a screenshot
+[2026-07-20 01:39] Kartik Work: Actually just send the login
+[2026-07-20 01:39] Kartik Work: We’ll handle the shadowban
+[2026-07-20 01:40] Kartik Work: 1k - tat 2-3 days
+[2026-07-20 01:40] Sydney Shadowban Client: ￼￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/c0/00/at_0_5E18B52C-2109-4AD8-A0A6-65F4FB213D23/IMG_2601.png>
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/c1/01/at_1_5E18B52C-2109-4AD8-A0A6-65F4FB213D23/IMG_2602.png>
+[2026-07-20 01:40] Kartik Work: Got u
+[2026-07-20 01:41] Kartik Work: Ill fix same day just need logon
+[2026-07-20 10:36] Sydney Shadowban Client: So sorry just woke up
+[2026-07-20 10:37] Kartik Work: Good morning
+[2026-07-20 10:37] Kartik Work: I was waiting for your answer I couldn’t go to sleep
+[2026-07-20 10:45] Sydney Shadowban Client: So so sorry about that
+[2026-07-20 10:45] Kartik Work: Lmao jk
+[2026-07-20 10:45] Kartik Work: Send login
+[2026-07-21 02:48] DEREK: Hey
+[2026-07-21 02:48] DEREK: Do you still need this, sydney?
+[2026-07-29 20:37] DEREK: Hey, just wanted to give a quick update. I’ve parted ways with Kartik for the social media recoveries. He’s still going to be working on them, so if you have a pending case that’s owed or any future cases, feel free to send to him. Just wanna clarify moving fo…
+[2026-07-29 22:37] Kartik Work: Just to add to what Derrek said, I’m done with social media recoveries as well. I won’t be taking on any pending or future recovery cases. If you still need these services, you’ll have to find another provider. Thanks everyone.

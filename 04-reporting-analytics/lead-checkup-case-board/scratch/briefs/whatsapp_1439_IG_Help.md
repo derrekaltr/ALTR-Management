@@ -1,0 +1,67 @@
+# IG Help  [whatsapp #1439 GROUP]
+msgs=62 (in=57 out=5) window=2026-07-11..2026-07-29
+last_client=2026-07-13 (67d ago), last_derrek=2026-07-29 (51d ago)
+LAST MESSAGE from Derrek: 'Hey, just wanted to give a quick update. I’ve parted ways with Kartik for the social media recoveries. He’s still going to be working on them, so if you have a pending case that’s owed or any future c…'
+
+  ...
+[2026-07-11 06:51] 120363430013566808@g.us: 241763742670891@lid
+[2026-07-11 06:51] 241763742670891@lid: {"reason":0,"is_open_group":true,"is_initially_empty":false,"context_group":null,"show_membership_string":true,"is_parent_group_general_chat":false,"is_hidden_sub_group":false,"auto_add_disabled":true,"author":"241763742670891@lid","parent_group_name":null,"su…
+[2026-07-11 06:52] 241763742670891@lid: Yooo @6300868075630 this is @65300816998597 , he can help sort your IG page issue 🙌🏻
+[2026-07-11 11:32] 6300868075630@lid: Hey brother @65300816998597
+[2026-07-11 17:21] DEREK: Hey! How can I help
+[2026-07-11 18:47] 6300868075630@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363430013566808@g.us/b/8/b80c263f-455e-4a61-a404-ca1185cabe97.jpg>
+[2026-07-11 18:48] 6300868075630@lid: Hey brother I've had this on my account since the beginning of the year when people follow me
+[2026-07-11 18:48] 6300868075630@lid: Is there anyway to get this off ?
+[2026-07-11 18:48] DEREK: Ooof that one’s tough I haven’t done one in a few weeks
+[2026-07-11 18:53] 6300868075630@lid: What does the process look like hahaha and do you know why it's there
+[2026-07-11 18:54] 6300868075630@lid: 
+      <IMG MISSING non-image: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363430013566808@g.us/2/6/261db550-bf02-4b03-8b3e-debf14f9920c.opus>
+[2026-07-11 19:29] 197405874085999@lid: 65300816998597@lid
+[2026-07-11 19:29] DEREK: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363430013566808@g.us/b/1/b1233c73-0522-44ea-b9c7-52e5e6d09a25.jpg>
+[2026-07-11 19:29] DEREK: Kartik, are we able to fix this?
+  ...
+[2026-07-11 22:38] 197405874085999@lid: hey yes we can
+[2026-07-11 22:39] 197405874085999@lid: im gonna ask the team tat and quote
+[2026-07-11 22:39] 6300868075630@lid: Perfect
+[2026-07-11 22:39] 6300868075630@lid: Also instagram have been doing this lately
+[2026-07-11 22:39] 6300868075630@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363430013566808@g.us/1/f/1f0cf72c-536c-44e5-8762-533ccd6ea1b6.jpg>
+[2026-07-11 23:09] 197405874085999@lid: can fix
+  ...
+[2026-07-11 23:11] 197405874085999@lid: this one i can take a look
+[2026-07-11 23:11] 197405874085999@lid: price is 1k
+[2026-07-11 23:11] 6300868075630@lid: It works whenever I appeal
+[2026-07-11 23:11] 197405874085999@lid: and ill fix it permanently
+  ...
+[2026-07-11 23:11] 6300868075630@lid: Thought so
+[2026-07-11 23:11] 6300868075630@lid: Is it 1k for both ?
+[2026-07-11 23:11] 197405874085999@lid: no
+[2026-07-11 23:12] 6300868075630@lid: How much is the follower issue ?
+[2026-07-11 23:12] 197405874085999@lid: team is oveseas
+[2026-07-11 23:15] 6300868075630@lid: Sweet just lmk in the morning priority is the follower issue
+[2026-07-11 23:15] 6300868075630@lid: Will that also be permanent ?
+[2026-07-13 14:12] 6300868075630@lid: any comms ?
+[2026-07-13 14:16] 197405874085999@lid: hey brotha
+[2026-07-13 14:19] 197405874085999@lid: Hey brother, just got word.
+[2026-07-13 14:20] 197405874085999@lid: nothing we can do to press a button and fix, it will require action from you on both,
+[2026-07-13 14:20] 197405874085999@lid: the scam one is because of bot followers, u need to scroll 15-20 mins on reels everyday and it will fix itseldf
+[2026-07-13 14:21] 197405874085999@lid: as for the sharing links and cant messag flags, thats for exchanging number in dms
+[2026-07-13 14:21] 197405874085999@lid: so again no permanent fix until accouint doesnt have enough human activity\
+[2026-07-13 14:22] 6300868075630@lid: ahh so ig thinks im a bot ?
+[2026-07-13 14:22] 197405874085999@lid: i've given you information for both, if you wish to pay, thats completely upto you, but i always take care of Derreks people
+[2026-07-13 14:22] 197405874085999@lid: yes
+[2026-07-13 14:23] 6300868075630@lid: thats weird though as I have had the account since 018
+[2026-07-13 14:23] 6300868075630@lid: and id like to see im pretty active ?
+[2026-07-13 14:23] 6300868075630@lid: does it include messages etc
+[2026-07-13 14:23] 6300868075630@lid: or do I just need to scroll
+[2026-07-13 14:24] 6300868075630@lid: If so sounds like we have an excuse to be brain rot hahaha
+[2026-07-13 14:24] 197405874085999@lid: yep literally
+[2026-07-13 14:24] 197405874085999@lid: bro the violations happen to me too
+[2026-07-13 14:25] 197405874085999@lid: when i send number to clients
+[2026-07-13 14:25] 6300868075630@lid: Is it because of AI replacing IG now ?
+[2026-07-13 14:25] 197405874085999@lid: so bread it down
+[2026-07-13 14:25] 6300868075630@lid: I see so no numbers in the DMs ?
+[2026-07-13 14:25] 197405874085999@lid: it did earlier this year\
+[2026-07-29 20:15] DEREK: Hey, just wanted to give a quick update. I’ve parted ways with Kartik for the social media recoveries. He’s still going to be working on them, so if you have a pending case that’s owed or any future cases, feel free to send to him. Just wanna clarify moving fo…

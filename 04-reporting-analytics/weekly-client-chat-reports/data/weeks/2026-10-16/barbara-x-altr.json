@@ -1,0 +1,558 @@
+{
+  "client": "Barbara",
+  "slug": "barbara-x-altr",
+  "week_ending": "2026-10-16",
+  "summary": "ALTR's one visible fix this week backfired. On 10/11 Mayson relaunched her link-in-bio domain, barbarasilva.vip, describing it as 'completely safe' and saying it 'won’t get flagged'. The team added it to the backup account they are logged into. Within about 21 hours that account went down ('hey so my account went down, and this link was just added'). It is most likely @barbarasilvanew, the account handed to the VA team on 10/1. Mayson's first reply asked her to remove the link herself, although she pointed out 'I didn’t add it in, I think the team is logged in'. Her bio was also gone. On 10/15 Mayson told her 'We've taken the domain down' and switched her to a direct xli.ink link. He gave no word on the downed account, no explanation, and no recovery plan. This is the second time a team-side profile change preceded a ban, against Derrek's own 9/20 warning ('Any changes like that normally bring the account right back down'), and she still has no written hygiene list. The main @thebrazilianfitbarbie is 'still in limbo' (her words, 10/11): 29 days banned with no date. Her 9/14 retention message ('where the numbers are right now isn’t sustainable for me') is now 32 days without a written answer. Invoice #6 (Oct 1–14, the second consecutive fortnight with the main banned) went out 10/15 before it was answered. Billing did improve: a two-day heads-up (10/13), sent on cadence, no pause-of-work line, no chasers. The leak report landed a third consecutive week (10/9). CHURN WATCH: two of the four pre-exit signals remain present, and a third is building. (1) The results question was answered with a call offer, never in writing (32 days). (2) Long-promised deliverables have no written proof: main recovery, the hygiene list (84 days), OFTV (53 days), Michelle's backup @ (76 days), and her 10/5 @itsbarbxoxo and Threads questions (11 days). The one thing delivered, the domain, was pulled four days later. (3) Owner silence: Derrek's last message in this chat was 10/1, 15 days ago. That is not yet 30, but it reaches 30 on 10/31. Not present: billing is 3 of 18 ALTR messages. Her asks rebounded from 2 to 5, but every one was a reaction to ALTR's link change. She raised nothing about growth, OFTV or the main, and she has been silent since 10/12 22:55 through invoice #6 and the 10/15 link switch.",
+  "health": {
+    "score": 38,
+    "trend": "down",
+    "rationale": "Down 4 from 42 (2026-10-09), equal to the record low (38, 2026-09-25). Why it fell: (a) ALTR's own action appears to have cost her another account. The team added a domain it had called 'completely safe' to a freshly recovered backup, the account went down the next day, and ALTR pulled the domain on 10/15 without acknowledging the ban or giving a plan. This repeats the pattern behind her 10/1 complaint ('it keeps going down right after recovery every time'), and this time the change was made on ALTR's side. (b) Main banned 29 days; she answered Mayson's check-in with 'it’s still in limbo' and ':-)', which reads as resignation. (c) The 9/14 'isn’t sustainable' message is 32 days unanswered in writing, and invoice #6 for a second fully banned fortnight went out before any answer. (d) Response quality: her 'lmk asap so i can log out please' waited 6 hours for Vivek's confusing 'Yes / Brother / You can ma'am', and Mayson pinged '@fonta' three times in two days. (e) Mica's reel-inspo drop (due ~10/13) did not happen, and Olivia, Michelle and Derrek were silent all week. Churn signals: (1) owner silent 15 days, not yet 30 (reaches 30 on 10/31); (2) revenue question answered with a call offer, never in writing: PRESENT, 32 days; (3) long-promised deliverables with no written proof: PRESENT; (4) billing as most ALTR messages: NOT present (3 of 18). Asks went 6, 6, 2, then 5. The rebound is mildly reassuring, but all five were operational reactions to the link incident, and she has said nothing since 10/12 22:55, including about invoice #6. Kept out of the low 30s by real positives: a third straight leak report; Mayson proactively asked about the main and posted two plain-language link updates; billing adopted last week's suggestions (heads-up, on cadence, no pause-of-work clause, no chasers); and she is still cooperative ('done :)', 'we can change the profile pic for sure').",
+    "prior_score": 42
+  },
+  "reminders": [
+    {
+      "employee": "Vivek",
+      "topic": "Mayson chased him three times in two days ('@fonta any updates on this?' 10/11; '@fonta' and '@fonta please !' 10/12). The client asked once ('lmk asap so i can log out please'). The answer took 6 hours and was confusing ('Yes', 'Brother', 'You can ma'am'), so she had to ask whether to log in or out. His one substantive line, 'Will check link too' (10/12), has had no follow-up. Still open from before: a date for the main (banned 29 days), her 10/5 @itsbarbxoxo bring-back-and-deactivate plan, the Threads-appeal question, and how to confirm the backup–main integrity link.",
+      "count": 4,
+      "evidence": [
+        { "quote": "@fonta any updates on this?", "date": "2026-10-11", "sender": "Mayson Chat" },
+        { "quote": "Will check link too", "date": "2026-10-12", "sender": "Vivek" },
+        { "quote": "i don’t wanna stay logged in on my phone so lmk asap so i can log out please", "date": "2026-10-12", "sender": "Barb Brazil" },
+        { "quote": "@fonta please !", "date": "2026-10-12", "sender": "Mayson Chat" },
+        { "quote": "You can ma'am", "date": "2026-10-12", "sender": "Vivek" },
+        { "quote": "i can log in? or should log out?", "date": "2026-10-12", "sender": "Barb Brazil" }
+      ]
+    },
+    {
+      "employee": "Mayson",
+      "topic": "The barbarasilva.vip relaunch. He called it 'completely safe' (10/11). The team added it to the backup, which went down the next day. He first asked her to take it out herself, although the team is logged in. On 10/15 he pulled the domain with no word on the downed account. Her 'which one for profile picture?' and 'bio is gone btw' (10/12) are unanswered. That leaves the @barbarasilvanew handoff from 10/1 ('On it!') still without a status, now probably banned. Credit: he checked on the main unprompted and posted two clear written updates.",
+      "count": 2,
+      "evidence": [
+        { "quote": "It routes through our own protected infrastructure before it ever reaches your page, it won’t get flagged and it’s completely safe.", "date": "2026-10-11", "sender": "Mayson Chat" },
+        { "quote": "hey so my account went down, and this link was just added. it makes me believe the link may have had something to do with it", "date": "2026-10-12", "sender": "Barb Brazil" },
+        { "quote": "Can you please take it out and see if that’s the problem", "date": "2026-10-12", "sender": "Mayson Chat" },
+        { "quote": "I didn’t add it in, I think the team is logged in.", "date": "2026-10-12", "sender": "Barb Brazil" },
+        { "quote": "which one for profile picture?", "date": "2026-10-12", "sender": "Barb Brazil" },
+        { "quote": "We've taken the domain down, so please remove it from your bio if it's still up.", "date": "2026-10-15", "sender": "Mayson Chat" }
+      ]
+    },
+    {
+      "employee": "Mica Vecco",
+      "topic": "Weekly reel inspo missed. The link drop due about 10/13 never came, and there was no tip either; no messages from her this window (last was 10/6). The last link drop was 9/29, 17 days ago.",
+      "count": 0,
+      "evidence": [
+        { "quote": "Hi queen! 🫶🏼 little social tip for this week", "date": "2026-10-06", "sender": "Mica Vecco" }
+      ]
+    },
+    {
+      "employee": "Olivia",
+      "topic": "OFTV backlog untouched. No messages since 9/29 (17 days). Open items: the four uncaptioned 9/29 files, the missing 4th video (flagged 9/5), YouTube repurposing (8/31), and the Ben shoot calendar.",
+      "count": 0,
+      "evidence": [
+        { "quote": "All have been uploaded / scheduled and are under review! just missing that 4th one :)", "date": "2026-09-05", "sender": "Barb Brazil" }
+      ]
+    },
+    {
+      "employee": "Michelle",
+      "topic": "No messages on this chat since 9/8 (38 days). Still owes the backup IG reels @ name ('next week', 8/1, 76 days) and the talking-to-camera examples (7/23, 85 days).",
+      "count": 0,
+      "evidence": [
+        { "quote": "Hi love, your backup account for IG reels is currently being warmed up as soon as it’s ready next week I will send you the @ name babes 💕", "date": "2026-08-01", "sender": "Michelle Queue" }
+      ]
+    }
+  ],
+  "complaints": [
+    {
+      "issue": "NEW: the backup account went down about 21 hours after ALTR's team added the relaunched barbarasilva.vip link that Mayson had called 'completely safe'. She suspects the link; ALTR pulled the domain on 10/15, which tacitly agrees. Nobody has acknowledged the ban, said which account it is or whether it can be recovered, or answered 'bio is gone btw'. Mayson's first instinct was to ask her to remove the link herself, although the team holds the login. This repeats the post-recovery-ban pattern, this time triggered by an ALTR-side change.",
+      "status": "new",
+      "owner": "Mayson / Vivek",
+      "first_raised": "2026-10-12",
+      "days_open": 4,
+      "severity": "critical",
+      "evidence": [
+        { "quote": "It routes through our own protected infrastructure before it ever reaches your page, it won’t get flagged and it’s completely safe.", "date": "2026-10-11", "sender": "Mayson Chat" },
+        { "quote": "hey aren’t u guys logged into that page? to add it in", "date": "2026-10-11", "sender": "Barb Brazil" },
+        { "quote": "hey so my account went down, and this link was just added. it makes me believe the link may have had something to do with it", "date": "2026-10-12", "sender": "Barb Brazil" },
+        { "quote": "Can you please take it out and see if that’s the problem", "date": "2026-10-12", "sender": "Mayson Chat" },
+        { "quote": "I didn’t add it in, I think the team is logged in. I’ve been trying to not use any of my devices to log into these accounts so I know that’s not adding to the problem.", "date": "2026-10-12", "sender": "Barb Brazil" },
+        { "quote": "bio is gone btw", "date": "2026-10-12", "sender": "Barb Brazil" },
+        { "quote": "We've taken the domain down, so please remove it from your bio if it's still up.", "date": "2026-10-15", "sender": "Mayson Chat" }
+      ]
+    },
+    {
+      "issue": "Retention warning unanswered in writing for 32 days. The only response was a 9/15 call offer, which is the 'revenue question answered with a call offer' churn signal. Invoice #6 (Oct 1–14) went out on 10/15 before any written answer, as #5 did.",
+      "status": "recurring",
+      "owner": "Derrek / Mayson",
+      "first_raised": "2026-09-14",
+      "days_open": 32,
+      "severity": "critical",
+      "evidence": [
+        { "quote": "i really want to continue working together, i just need to see some changes because where the numbers are right now isn’t sustainable for me.", "date": "2026-09-14", "sender": "Barb Brazil" },
+        { "quote": "Let’s hop on a call tomorrow @barbsilvaxo and go over it!", "date": "2026-09-14", "sender": "Mayson Chat" },
+        { "quote": "Hey queen happy thursday! Here is your invoice for October 1st-14th.", "date": "2026-10-15", "sender": "Stephski" }
+      ]
+    },
+    {
+      "issue": "Main @thebrazilianfitbarbie banned 29 days (since 9/17) with no date. Mayson asked how it was doing on 10/11; she answered 'still in limbo'. He pinged Vivek, and there was no answer.",
+      "status": "recurring",
+      "owner": "Vivek / Derrek",
+      "first_raised": "2026-08-03",
+      "days_open": 74,
+      "severity": "critical",
+      "evidence": [
+        { "quote": "No, you’re not cooked just with the current situation of Unbans. It might be a few days.", "date": "2026-09-17", "sender": "Derrek" },
+        { "quote": "How’s your main instagram doing?", "date": "2026-10-11", "sender": "Mayson Chat" },
+        { "quote": "it’s still in limbo", "date": "2026-10-11", "sender": "Barb Brazil" },
+        { "quote": "@fonta any updates on this?", "date": "2026-10-11", "sender": "Mayson Chat" }
+      ]
+    },
+    {
+      "issue": "No written account-hygiene guidance after 84 days, and ALTR itself is now making changes on freshly recovered accounts. Derrek warned on 9/20 that profile changes bring accounts down; the team then added a bio link, and on 10/11 Mayson invited further 'photo, wording' changes. Her profile-picture question is unanswered. She is avoiding her own devices but had to log in on her phone on 10/12 and wait 6 hours to be told to log out.",
+      "status": "recurring",
+      "owner": "Derrek / Mayson / Vivek",
+      "first_raised": "2026-07-24",
+      "days_open": 84,
+      "severity": "high",
+      "evidence": [
+        { "quote": "Any changes like that normally bring the account right back down", "date": "2026-09-20", "sender": "Derrek" },
+        { "quote": "and we can change the profile pic for sure", "date": "2026-10-11", "sender": "Barb Brazil" },
+        { "quote": "which one for profile picture?", "date": "2026-10-12", "sender": "Barb Brazil" },
+        { "quote": "i can log in? or should log out?", "date": "2026-10-12", "sender": "Barb Brazil" },
+        { "quote": "Logout", "date": "2026-10-12", "sender": "Vivek" }
+      ]
+    },
+    {
+      "issue": "Meta support responsiveness. Mayson pinged '@fonta' three times in two days. An 'asap' login question waited 6 hours for a confusing answer. 'Will check link too' has no follow-up. Her 10/5 @itsbarbxoxo plan and her Threads-appeal question had no mention at all this week (11 days).",
+      "status": "recurring",
+      "owner": "Vivek",
+      "first_raised": "2026-09-27",
+      "days_open": 19,
+      "severity": "high",
+      "evidence": [
+        { "quote": "@fonta please !", "date": "2026-10-12", "sender": "Mayson Chat" },
+        { "quote": "Yes", "date": "2026-10-12", "sender": "Vivek" },
+        { "quote": "Brother", "date": "2026-10-12", "sender": "Vivek" },
+        { "quote": "and i need to figure out if i should appeal my threads account too", "date": "2026-10-05", "sender": "Barb Brazil" }
+      ]
+    },
+    {
+      "issue": "Backup–main integrity link still unconfirmed ('is there a way to find out for sure', 10/2). She restated this week that she avoids her own devices; the explanation given on 10/3 (shared phone/number/email/wifi) does not fit the new ban.",
+      "status": "recurring",
+      "owner": "Vivek / Mayson",
+      "first_raised": "2026-09-20",
+      "days_open": 26,
+      "severity": "high",
+      "evidence": [
+        { "quote": "i feel like it keeps going down right after recovery every time", "date": "2026-10-01", "sender": "Barb Brazil" },
+        { "quote": "I’ve been trying to not use any of my devices to log into these accounts so I know that’s not adding to the problem.", "date": "2026-10-12", "sender": "Barb Brazil" }
+      ]
+    },
+    {
+      "issue": "Threads root-cause check ('We will check', 9/22) is 24 days old with no report. The barbarasilva.vip review (since 8/24) ended in a relaunch that was pulled within four days, with no explanation of what was wrong with it.",
+      "status": "recurring",
+      "owner": "Derrek / Vivek / Mayson",
+      "first_raised": "2026-08-24",
+      "days_open": 53,
+      "severity": "high",
+      "evidence": [
+        { "quote": "We will check", "date": "2026-09-22", "sender": "Derrek" },
+        { "quote": "Your domain is back, same one as before, but with new technology running behind it.", "date": "2026-10-11", "sender": "Mayson Chat" },
+        { "quote": "We've taken the domain down", "date": "2026-10-15", "sender": "Mayson Chat" }
+      ]
+    },
+    {
+      "issue": "OFTV backlog: weekly-OFTV pivot yes/no (8/24), YouTube repurposing (8/31), missing 4th video (9/5), Ben calendar, and Olivia's four uncaptioned 9/29 files. No OFTV activity since 9/29.",
+      "status": "recurring",
+      "owner": "Olivia / Mayson",
+      "first_raised": "2026-08-24",
+      "days_open": 53,
+      "severity": "high",
+      "evidence": [
+        { "quote": "or maybe we can just do like a very heavy OFTV focus like I shoot once a week to make an upload a video every week just until we figure this out?", "date": "2026-08-24", "sender": "Barb Brazil" },
+        { "quote": "All have been uploaded / scheduled and are under review! just missing that 4th one :)", "date": "2026-09-05", "sender": "Barb Brazil" }
+      ]
+    },
+    {
+      "issue": "Reel-inspo cadence broke again: no link drop or tip around 10/13. The last link drop was 9/29.",
+      "status": "recurring",
+      "owner": "Mica Vecco",
+      "first_raised": "2026-09-22",
+      "days_open": 24,
+      "severity": "medium",
+      "evidence": [
+        { "quote": "hi @barbsilvaxo! here’s your reel inspo for the week 💕", "date": "2026-09-29", "sender": "Mica Vecco" }
+      ]
+    },
+    {
+      "issue": "Michelle's promises are still open: backup IG reels @ name (8/1, 76 days) and talking-to-camera examples (7/23, 85 days). She has been silent on this chat since 9/8.",
+      "status": "recurring",
+      "owner": "Michelle",
+      "first_raised": "2026-07-23",
+      "days_open": 85,
+      "severity": "medium",
+      "evidence": [
+        { "quote": "Hi love, your backup account for IG reels is currently being warmed up as soon as it’s ready next week I will send you the @ name babes 💕", "date": "2026-08-01", "sender": "Michelle Queue" }
+      ]
+    },
+    {
+      "issue": "Old unanswered asks: engagement tool (8/11), TikTok linkme (8/12), device/number swap report (8/11), adultsearch.com takedown (8/7). The Facebook page proposed 9/16 has no owner after 30 days. Partial: the link-in-bio question (7/31) now has a working direct link (xli.ink, 10/15), though only after the domain round-trip.",
+      "status": "recurring",
+      "owner": "Mayson / Derrek / Nick (DMCA)",
+      "first_raised": "2026-07-31",
+      "days_open": 77,
+      "severity": "medium",
+      "evidence": [
+        { "quote": "did we add anything for like engagement or any sort of external software on any of my accounts", "date": "2026-08-11", "sender": "Barb Brazil" },
+        { "quote": "can someone handle pls", "date": "2026-08-07", "sender": "Barb Brazil" },
+        { "quote": "We're switching you over to your direct link instead:", "date": "2026-10-15", "sender": "Mayson Chat" }
+      ]
+    },
+    {
+      "issue": "Billing pressure is easing. Invoice #6 had a two-day heads-up, went out on cadence (10/15), carried no pause-of-work line, and has had no chasers so far. It is still sent while 9/14 is unanswered and the main is banned, and the amount is in the PDF only. The heads-up's 'withdrawl your funds from OF to avoid any delays' is mild pressure. Not closed until #6 is collected without a day-1 nudge or deadline chase.",
+      "status": "in_progress",
+      "owner": "Stephski",
+      "first_raised": "2026-09-01",
+      "days_open": 45,
+      "severity": "medium",
+      "evidence": [
+        { "quote": "hi love! just writing to inform you that your next invoice will be sent out in 2 days. today is a great day to withdrawl your funds from OF to avoid any delays ❤️", "date": "2026-10-13", "sender": "Stephski" },
+        { "quote": "Please use the invoicing information at the bottom of the PDF to ensure a smooth process ❤️", "date": "2026-10-15", "sender": "Stephski" }
+      ]
+    },
+    {
+      "issue": "Payment rail: ACH/wire never offered despite repeated Zelle caps; invoice amounts are still posted only in attached files.",
+      "status": "recurring",
+      "owner": "Stephski",
+      "first_raised": "2026-08-04",
+      "days_open": 73,
+      "severity": "low",
+      "evidence": [
+        { "quote": "Hey! I reached my zelle limit for today but I sent 3000 already, I’ll send the rest tomorrow!", "date": "2026-09-03", "sender": "Barb Brazil" }
+      ]
+    },
+    {
+      "issue": "Unannounced chat additions (9/10, 9/17, 9/25) never introduced. No new additions this window.",
+      "status": "recurring",
+      "owner": "Mayson / Derrek",
+      "first_raised": "2026-09-10",
+      "days_open": 36,
+      "severity": "low",
+      "evidence": [
+        { "quote": "@barbsilvaxo Hey love! Here’s your weekly update on the leak removal breakdown for the past 7 days 🫶🏼", "date": "2026-09-25", "sender": "Melissa Userfacing" }
+      ]
+    },
+    {
+      "issue": "Weekly leak-removal report. RESOLVED and holding: third consecutive week (9/25, 10/2, 10/9). The client thanked Melissa and asked to submit links directly in the chat, and Mayson said yes.",
+      "status": "resolved",
+      "owner": "Melissa",
+      "first_raised": "2026-09-15",
+      "days_open": 17,
+      "severity": "high",
+      "evidence": [
+        { "quote": "Hey @barbsilvaxo Here’s your weekly update on the leak removal breakdown for the past 7 days 🫶🏼", "date": "2026-10-09", "sender": "Melissa Userfacing" },
+        { "quote": "thank you! if i have links to submit can i send them directly in here?", "date": "2026-10-09", "sender": "Barb Brazil" },
+        { "quote": "Yes", "date": "2026-10-09", "sender": "Mayson Chat" }
+      ]
+    }
+  ],
+  "commitments": [
+    {
+      "what": "Answer the 9/14 retention message in writing: traffic explanation, a dated plan, a yes/no on the OFTV pivot, and one real number.",
+      "who": "Derrek / Mayson",
+      "status": "overdue",
+      "due": "2026-09-15",
+      "days_overdue": 31,
+      "severity": "critical",
+      "evidence": [
+        { "quote": "Let’s hop on a call tomorrow @barbsilvaxo and go over it!", "date": "2026-09-14", "sender": "Mayson Chat" }
+      ]
+    },
+    {
+      "what": "Recover @thebrazilianfitbarbie, or give a date or an honest 'no date'.",
+      "who": "Vivek / Derrek",
+      "status": "overdue",
+      "due": "2026-09-20",
+      "days_overdue": 26,
+      "severity": "critical",
+      "evidence": [
+        { "quote": "No, you’re not cooked just with the current situation of Unbans. It might be a few days.", "date": "2026-09-17", "sender": "Derrek" },
+        { "quote": "it’s still in limbo", "date": "2026-10-11", "sender": "Barb Brazil" }
+      ]
+    },
+    {
+      "what": "Explain and recover the backup that went down 10/12 after the domain link was added: say which account it is, whether it is recoverable, and whether the link caused it ('Will check link too').",
+      "who": "Vivek / Mayson",
+      "status": "overdue",
+      "due": "2026-10-13",
+      "days_overdue": 3,
+      "severity": "critical",
+      "evidence": [
+        { "quote": "Will check link too", "date": "2026-10-12", "sender": "Vivek" }
+      ]
+    },
+    {
+      "what": "@barbarasilvanew restart via the VA team (email change, posting, profile picture). 'On it!' 10/1, repeated 'Yeah we’re on it!' 10/11. The account appears to have gone down 10/12; her 'which one for profile picture?' is unanswered.",
+      "who": "Mayson",
+      "status": "overdue",
+      "due": "2026-10-02",
+      "days_overdue": 14,
+      "severity": "high",
+      "evidence": [
+        { "quote": "On it!", "date": "2026-10-01", "sender": "Mayson Chat" },
+        { "quote": "Yeah we’re on it!", "date": "2026-10-11", "sender": "Mayson Chat" },
+        { "quote": "which one for profile picture?", "date": "2026-10-12", "sender": "Barb Brazil" }
+      ]
+    },
+    {
+      "what": "Decide @itsbarbxoxo (appeal, or her 10/5 bring-back-and-deactivate plan) and whether to appeal Threads. Nothing this window.",
+      "who": "Vivek",
+      "status": "overdue",
+      "due": "2026-10-06",
+      "days_overdue": 10,
+      "severity": "high",
+      "evidence": [
+        { "quote": "I will check in lookup", "date": "2026-10-06", "sender": "Vivek" }
+      ]
+    },
+    {
+      "what": "Explain the backup–main integrity link and how to confirm it.",
+      "who": "Vivek / Mayson",
+      "status": "overdue",
+      "due": "2026-10-02",
+      "days_overdue": 14,
+      "severity": "high",
+      "evidence": [
+        { "quote": "is there a way to find out for sure @fonta", "date": "2026-10-02", "sender": "Barb Brazil" }
+      ]
+    },
+    {
+      "what": "Unban the accounts 'one by one' ('Starting today', 9/27).",
+      "who": "Vivek",
+      "status": "overdue",
+      "due": "2026-09-23",
+      "days_overdue": 23,
+      "severity": "high",
+      "evidence": [
+        { "quote": "Starting today", "date": "2026-09-27", "sender": "Vivek" }
+      ]
+    },
+    {
+      "what": "Check Threads as a root cause. (The barbarasilva.vip part was acted on: relaunched 10/11 and pulled 10/15, with no explanation.)",
+      "who": "Derrek / Vivek",
+      "status": "overdue",
+      "due": "2026-09-23",
+      "days_overdue": 23,
+      "severity": "high",
+      "evidence": [
+        { "quote": "We will check", "date": "2026-09-22", "sender": "Derrek" }
+      ]
+    },
+    {
+      "what": "Written account-hygiene do/don't for recovered accounts (profile picture, bio, links, devices, phone number, email, wifi), now also covering what ALTR's own team may change.",
+      "who": "Derrek / Mayson / Vivek",
+      "status": "overdue",
+      "due": "2026-08-19",
+      "days_overdue": 58,
+      "severity": "high",
+      "evidence": [
+        { "quote": "Any changes like that normally bring the account right back down", "date": "2026-09-20", "sender": "Derrek" }
+      ]
+    },
+    {
+      "what": "Yes/no on her weekly-OFTV pivot.",
+      "who": "Mayson / Derrek",
+      "status": "overdue",
+      "due": "2026-08-25",
+      "days_overdue": 52,
+      "severity": "high",
+      "evidence": [
+        { "quote": "I’ll get you an answer soon", "date": "2026-08-24", "sender": "Mayson Chat" }
+      ]
+    },
+    {
+      "what": "Caption the 9/29 OFTV files, account for the 4th video, answer YouTube repurposing, set up the Ben calendar, and deliver the 9/17 account audit.",
+      "who": "Olivia",
+      "status": "overdue",
+      "due": "2026-09-06",
+      "days_overdue": 40,
+      "severity": "medium",
+      "evidence": [
+        { "quote": "All have been uploaded / scheduled and are under review! just missing that 4th one :)", "date": "2026-09-05", "sender": "Barb Brazil" }
+      ]
+    },
+    {
+      "what": "Weekly reel inspo link drop (due ~10/13). Missed.",
+      "who": "Mica Vecco",
+      "status": "overdue",
+      "due": "2026-10-13",
+      "days_overdue": 3,
+      "severity": "medium",
+      "evidence": [
+        { "quote": "hi @barbsilvaxo! here’s your reel inspo for the week 💕", "date": "2026-09-29", "sender": "Mica Vecco" }
+      ]
+    },
+    {
+      "what": "Weekly leak-removal report (due ~10/9). DONE 10/9, the third consecutive week; the next is due ~10/16.",
+      "who": "Melissa",
+      "status": "done",
+      "due": "2026-10-09",
+      "severity": "medium",
+      "evidence": [
+        { "quote": "Hey @barbsilvaxo Here’s your weekly update on the leak removal breakdown for the past 7 days 🫶🏼", "date": "2026-10-09", "sender": "Melissa Userfacing" }
+      ]
+    },
+    {
+      "what": "Working link in bio. DONE in two steps: barbarasilva.vip relaunched 10/11, then replaced on 10/15 by a direct xli.ink link after the domain was pulled.",
+      "who": "Mayson",
+      "status": "done",
+      "due": "2026-10-15",
+      "severity": "medium",
+      "evidence": [
+        { "quote": "Hey @barbsilvaxo, good news on your link in bio.", "date": "2026-10-11", "sender": "Mayson Chat" },
+        { "quote": "We're switching you over to your direct link instead:", "date": "2026-10-15", "sender": "Mayson Chat" }
+      ]
+    },
+    {
+      "what": "Invoice #6 heads-up and send on cadence. DONE: heads-up 10/13, invoice 10/15, no pause-of-work line.",
+      "who": "Stephski",
+      "status": "done",
+      "due": "2026-10-15",
+      "severity": "low",
+      "evidence": [
+        { "quote": "hi love! just writing to inform you that your next invoice will be sent out in 2 days.", "date": "2026-10-13", "sender": "Stephski" },
+        { "quote": "Hey queen happy thursday! Here is your invoice for October 1st-14th.", "date": "2026-10-15", "sender": "Stephski" }
+      ]
+    },
+    {
+      "what": "CLIENT-SIDE: pay invoice #6 (Oct 1–14), due ~10/22. Not yet paid, not late.",
+      "who": "Barbara (client)",
+      "status": "pending",
+      "due": "2026-10-22",
+      "severity": "low",
+      "evidence": [
+        { "quote": "Here is your invoice for October 1st-14th. Please use the invoicing information at the bottom of the PDF to ensure a smooth process ❤️", "date": "2026-10-15", "sender": "Stephski" }
+      ]
+    },
+    {
+      "what": "Backup IG reels @ name (8/1) and talking-to-camera examples (7/23).",
+      "who": "Michelle",
+      "status": "overdue",
+      "due": "2026-08-08",
+      "days_overdue": 69,
+      "severity": "medium",
+      "evidence": [
+        { "quote": "Hi love, your backup account for IG reels is currently being warmed up as soon as it’s ready next week I will send you the @ name babes 💕", "date": "2026-08-01", "sender": "Michelle Queue" }
+      ]
+    },
+    {
+      "what": "Owner and schedule for the Facebook page proposed 9/16.",
+      "who": "Mayson",
+      "status": "overdue",
+      "due": "2026-09-18",
+      "days_overdue": 28,
+      "severity": "medium",
+      "evidence": [
+        { "quote": "Hey @barbsilvaxo do you have a facebook account available to use?", "date": "2026-09-16", "sender": "Mayson Chat" }
+      ]
+    },
+    {
+      "what": "Engagement-tool answer (8/11), TikTok linkme (8/12), device/number swap report (8/11), adultsearch.com takedown confirmed (8/7).",
+      "who": "Mayson / Derrek / Nick (DMCA)",
+      "status": "overdue",
+      "due": "2026-08-13",
+      "days_overdue": 64,
+      "severity": "medium",
+      "evidence": [
+        { "quote": "did we add anything for like engagement or any sort of external software on any of my accounts", "date": "2026-08-11", "sender": "Barb Brazil" }
+      ]
+    },
+    {
+      "what": "Confirm whether anyone at ALTR switched her OF payouts to manual (she found it 10/6), and tell her. Not mentioned this window.",
+      "who": "Derrek / Stephski",
+      "status": "overdue",
+      "due": "2026-10-09",
+      "days_overdue": 7,
+      "severity": "medium",
+      "evidence": [
+        { "quote": "hey idk why my payouts were set as manual, i just changed it back to weekly but requested a payout so as soon as it hits my account i will be paying the invoice :)", "date": "2026-10-06", "sender": "Barb Brazil" }
+      ]
+    },
+    {
+      "what": "Offer ACH/wire; post invoice amounts as text.",
+      "who": "Stephski / Derrek",
+      "status": "overdue",
+      "due": "2026-09-02",
+      "days_overdue": 44,
+      "severity": "low",
+      "evidence": [
+        { "quote": "Hey! I reached my zelle limit for today but I sent 3000 already, I’ll send the rest tomorrow!", "date": "2026-09-03", "sender": "Barb Brazil" }
+      ]
+    },
+    {
+      "what": "Introduce the people added to the chat on 9/10, 9/17 and 9/25.",
+      "who": "Mayson / Derrek",
+      "status": "overdue",
+      "due": "2026-09-11",
+      "days_overdue": 35,
+      "severity": "low",
+      "evidence": [
+        { "quote": "@barbsilvaxo Hey love! Here’s your weekly update on the leak removal breakdown for the past 7 days 🫶🏼", "date": "2026-09-25", "sender": "Melissa Userfacing" }
+      ]
+    }
+  ],
+  "payments": [
+    {
+      "note": "Invoice #6 (Oct 1–14) was SENT 2026-10-15 13:13, on cadence, after a two-day heads-up (10/13). It carries no pause-of-work line and has had no chasers so far. The amount is in the PDF only. Due ~10/22; not yet paid, not late. The client has not acknowledged it (no messages from her after 10/12 22:55). This is the second consecutive invoice for a fortnight with the main banned throughout, and it went out with the 9/14 retention message still unanswered in writing. Watch: a query on the amount is healthy engagement; another silent, fast payment is a churn tell, not health; no response or no payment is an exit signal.",
+      "invoice_number": 6,
+      "period": "2026-10-01 to 2026-10-14",
+      "amount": null,
+      "date": "2026-10-15",
+      "due": "2026-10-22",
+      "paid_date": null,
+      "late": false,
+      "outstanding": true,
+      "evidence": [
+        { "quote": "hi love! just writing to inform you that your next invoice will be sent out in 2 days. today is a great day to withdrawl your funds from OF to avoid any delays ❤️", "date": "2026-10-13", "sender": "Stephski" },
+        { "quote": "Hey queen happy thursday! Here is your invoice for October 1st-14th. Please use the invoicing information at the bottom of the PDF to ensure a smooth process ❤️ Here if you need anything or have any questions!", "date": "2026-10-15", "sender": "Stephski" }
+      ]
+    },
+    {
+      "note": "Ledger: 5 of 5 prior invoices paid in full (#1 $3,617.59; #2 and #3 amounts never posted; #4 $2,859.72 including the $1,683.12 ALTR under-invoice correction; #5 amount in file only, paid 10/7 silently on day 6). One client-side slip ever (#2, 3 days). Credit risk: low. Relationship risk: high. The unexplained manual-payout switch (10/6) is still unaddressed.",
+      "outstanding": false
+    }
+  ],
+  "client_priorities": [
+    "Accounts that stay up after recovery, and ALTR not making changes that take them down: 'it makes me believe the link may have had something to do with it' (10/12).",
+    "Clear, fast login guidance so she doesn't have to use her own devices ('lmk asap so i can log out please').",
+    "An answer to 9/14: a written plan and numbers. 32 days unanswered, with invoice #6 now issued.",
+    "The main @thebrazilianfitbarbie back, or a date ('it’s still in limbo', 29 days).",
+    "A working link in bio, and a decision on the profile picture ('which one for profile picture?').",
+    "Her own @itsbarbxoxo plan and a Threads-appeal decision (asked 10/5, no answer).",
+    "Leak removal: weekly reports, plus submitting links directly in the chat (agreed 10/9).",
+    "OFTV as the dependable channel: missing video, YouTube, weekly pivot, Ben calendar.",
+    "Low-friction invoicing (improved this week)."
+  ],
+  "suggestions": [
+    "Mayson/Vivek, within 24 hours: post a written incident note on the 10/12 ban. Say which account it is, whether the domain link caused it, whether it can be recovered, and what ALTR will not change on recovered accounts from now on. Own it: the team added the link after calling it 'completely safe'.",
+    "Freeze all team-side profile/bio/link/photo edits on recovered accounts until Vivek signs off. Then publish the hygiene do/don't list owed since July, covering what both she and ALTR's VA team may touch. Answer 'which one for profile picture?' with 'none for now' if that is the safe answer.",
+    "DERREK (owner): your last message in this chat was 10/1. Answer 9/14 in writing before invoice #6 is due (~10/22), not with a call offer: main status or an honest no-date, the account-by-account backup plan, yes/no on weekly OFTV, and one real number (e.g. what the 23-account repost delivered). Given the new ban, consider a goodwill credit on #6.",
+    "If she pays #6 silently, or goes quiet past ~10/19, treat it as exit risk and reach out personally.",
+    "Vivek: same-day replies to Mayson's pings. Answer the 10/5 @itsbarbxoxo and Threads questions by name. Give clear one-word-plus-reason instructions on logins (e.g. 'Log out now; we have it').",
+    "Mica: resume the weekly reel-inspo link drop. Olivia: close the OFTV backlog in one message. Stephski: keep this week's format (heads-up, no pause-of-work line); add the amount as text and skip deadline chasers.",
+    "Confirm internally whether anyone at ALTR switched her OF payouts to manual, and tell her."
+  ],
+  "wins": [
+    "Leak-removal report delivered a third consecutive week (10/9). She thanked Melissa and now has a direct channel to submit links ('Yes', Mayson).",
+    "Mayson checked on the main proactively ('How’s your main instagram doing?') and posted two clear, written link-in-bio updates. She now has a direct xli.ink link.",
+    "Billing adopted last week's suggestions: two-day heads-up, on-cadence invoice, no pause-of-work clause, and no chasers so far.",
+    "The client is still cooperative and engaged: she followed the logout instruction immediately ('done :)') and agreed to a profile-picture change."
+  ],
+  "week_stats": {
+    "messages": 32,
+    "client_messages": 14,
+    "team_messages": 18,
+    "client_asks": 5,
+    "service_events": 0,
+    "note": "Window 2026-10-09 09:05:57 to 2026-10-16 09:06:40. Team: Mayson 9, Vivek 5, Stephski 3 (all billing), Melissa 1; Derrek 0 (last message 10/1), Mica Vecco 0, Olivia 0, Michelle 0. Client counts include two image-only messages (10/12). Client asks: 5 distinct (submit leak links in chat; team to add the link since they are logged in; which profile picture; account down, is the link the cause; log in or log out). All were reactions to ALTR's link change; no new ask about growth, OFTV or the main. Trend 6, 6, 2, then 5. Client silent from 10/12 22:55 to close (3.4 days), including no reply to invoice #6 (10/15) or the link switch (10/15). Daily: 10/9 3, 10/10 0, 10/11 8, 10/12 17, 10/13 1, 10/14 0, 10/15 3, 10/16 0. All senders attributed; Jeremy Tarr, Spencer P, Aroosha, vendor chat teams and the IG farm vendor are not present in this chat. Billing share of ALTR messages: 3 of 18. Credentials: none posted this window."
+  }
+}

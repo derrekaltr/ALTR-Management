@@ -1,0 +1,155 @@
+{
+  "client": "Hannah",
+  "slug": "hannah-x-altr",
+  "status": "churned",
+  "status_reason": "Resigned 2026-07-06 after 5.5 weeks - 'I'm going to take over my account and work independently' - and nobody at ALTR ever replied. The next two messages in the chat are a routine reel-inspo drop and a weekly leak report sent four days later, then 23 days of silence. The final 7/1-7/7 invoice has still never been issued (72 days past its own cadence date), and the exit balance she volunteered exists only as an unread screenshot.",
+  "last_client_message": "2026-07-06",
+  "dimensions": {
+    "responsiveness": {
+      "severity": 2,
+      "internal_failure": "Day-to-day lag was genuinely good - usually hours - but the single most important message in the account's history, her resignation, was never answered by anyone, and her two biggest strategic asks (an Orlando/Miami content shoot and the paid promo programme) were never answered at all.",
+      "evidence": [
+        {"quote": "Hey guys I really appreciate working with you but I'm going to take over my account and work independently", "who": "Bells Vale Referral (client)", "date": "2026-07-06"},
+        {"quote": "I want to schedule to come down to miami and take some reels and get some better ideas of how to edit the videos... and then def take some with the camera guy I think Derrek mentioned there was one here in Orlando?", "who": "Bells Vale Referral (client)", "date": "2026-06-04"},
+        {"quote": "Hey! Derrek had mentioned some paid promo that you guys do and I see there's a folder for that, what do I put in there and what is being promoted?", "who": "Bells Vale Referral (client)", "date": "2026-06-02"}
+      ]
+    },
+    "follow_through": {
+      "severity": 3,
+      "internal_failure": "Three claimed items were never returned to: the Orlando photographers, the promo onboarding handoff, and the leak takedowns she was told were being processed while the same links stayed live.",
+      "evidence": [
+        {"quote": "hi Bella! we've reached out to some photographers in orlando so we can get you covered on that end - following up with them now :)", "who": "Mica Vecco", "date": "2026-06-08"},
+        {"quote": "@sotom225 will reach out to you soon on how to get started on that", "who": "Mica Vecco", "date": "2026-06-02"},
+        {"quote": "I sent the team the links to those leaks, they will be taken down", "who": "Michelle Queue", "date": "2026-06-26"}
+      ]
+    },
+    "proactive_communication": {
+      "severity": 2,
+      "internal_failure": "The outbound cadence was real but automated rather than attentive - the same weekly reel-inspo drop and leak report kept firing four days after she had quit, and then nothing at all for 23 days.",
+      "evidence": [
+        {"quote": "hi babe! checking in, how's everything going?", "who": "Mica Vecco", "date": "2026-06-04"},
+        {"quote": "hi Bella ! here's some more reel inspo", "who": "Mica Vecco", "date": "2026-07-10"},
+        {"quote": "Hi love! Here's your weekly update on the leak removal breakdown for the past 7 days", "who": "Michelle Queue", "date": "2026-07-10"}
+      ]
+    },
+    "onboarding_handoff": {
+      "severity": 2,
+      "internal_failure": "We started chatting her page before the previous agency was locked out - our own team found strangers still messaging on the account 24 hours after go-live - and the onboarding call booking silently failed on day two with neither side receiving a confirmation.",
+      "evidence": [
+        {"quote": "There are also people still messaging on the account - is this the old team?", "who": "Fredo", "date": "2026-05-29"},
+        {"quote": "Bella you have to change the password", "who": "Mayson Chat", "date": "2026-05-29"},
+        {"quote": "Hi! I had scheduled a call with you at 2PM today just making sure you had gotten that, I didn't get a verification email", "who": "Bells Vale Referral (client)", "date": "2026-05-29"}
+      ]
+    },
+    "chatter_conduct": {
+      "severity": 2,
+      "internal_failure": "Fan calls and customs were sold and then briefed backwards: she was asked to price a 'CEI' video before anyone had told her what CEI meant, and a $150 video call was logged to her with 'Duration : Not discussed' after she had already delivered it - a call the team did not know had happened.",
+      "evidence": [
+        {"quote": "What is that lol?", "who": "Bells Vale Referral (client)", "date": "2026-06-17"},
+        {"quote": "Hey Bella the team sold a video call - please let me know when you will be available! Here are the only discussed details: ... paid amount: $150/ $150 ... Duration : Not discussed", "who": "Fredo", "date": "2026-06-18"},
+        {"quote": "I did the call already", "who": "Bells Vale Referral (client)", "date": "2026-06-18"}
+      ]
+    },
+    "platform_health": {
+      "severity": 2,
+      "internal_failure": "She reported on day four that all her socials looked shadowbanned; the response was a link change and, the next day, a generic broadcast telling her not to appeal. Nobody ever checked her accounts or reported back, and she solved it herself by switching to her main TikTok.",
+      "evidence": [
+        {"quote": "I just did this one but I think like all my socials are shadow banned", "who": "Bells Vale Referral (client)", "date": "2026-05-31"},
+        {"quote": "Quick reminder: if your IG gets suspended, disabled, restricted, or starts acting shadowbanned, please don't submit an appeal right away. Reach out to us first and we'll let you know the best next steps.", "who": "Mica Vecco", "date": "2026-06-01"},
+        {"quote": "Okay so I'm using my main tik tok now lol so at least it's not shadow banned", "who": "Bells Vale Referral (client)", "date": "2026-05-31"}
+      ]
+    },
+    "billing_ops": {
+      "severity": 3,
+      "internal_failure": "Four payment rails in five weeks - a Zelle with no working address, an incorrect Mercury link, Chase, then Bank of America - and the client had to audit our own invoice arithmetic twice to remove commission on earnings she generated herself. At exit she volunteered the remaining balance and we never invoiced her for it; the 7/1-7/7 invoice is 72 days past its own cadence date and has still never been issued.",
+      "evidence": [
+        {"quote": "Hey love have to do the math but I did a private live that was 200 and then another live that made like 383 both with the 20% OF deducted so have to subtract that from the invoice.", "who": "Bells Vale Referral (client)", "date": "2026-06-15"},
+        {"quote": "Hi love! Here is your updated invoice, please note to please not use Mercury above and send to the Chase bank info listed at the bottom of the PDF", "who": "Stephski", "date": "2026-06-22"},
+        {"quote": "I just sent the most recent wire and I'm going to wait for the rest of the money to transfer to pending for the next payout & will send that your way.", "who": "Bells Vale Referral (client)", "date": "2026-07-06"}
+      ]
+    },
+    "ownership_escalation": {
+      "severity": 2,
+      "internal_failure": "Questions were routed between people and topics rather than owned - she had to be told where her own answer had been posted - and because nobody held the account, nobody noticed the client had left.",
+      "evidence": [
+        {"quote": "@ofmfrederick ^^", "who": "Mayson Chat", "date": "2026-06-27"},
+        {"quote": "Hey responded in #onlyfans topic", "who": "Fredo", "date": "2026-06-30"},
+        {"quote": "@sotom225 will reach out to you soon on how to get started on that", "who": "Mica Vecco", "date": "2026-06-02"}
+      ]
+    },
+    "disengagement_detection": {
+      "severity": 3,
+      "internal_failure": "Nobody replied to her resignation - not once, not ever. Our automated cadence kept sending her content four days after she quit, and the first human acknowledgement that anything had changed came 27 days later and was a request for money.",
+      "evidence": [
+        {"quote": "Hey guys I really appreciate working with you but I'm going to take over my account and work independently, I just sent the most recent wire and I'm going to wait for the rest of the money to transfer to pending for the next payout & will send that your way.", "who": "Bells Vale Referral (client)", "date": "2026-07-06"},
+        {"quote": "hi Bella ! here's some more reel inspo", "who": "Mica Vecco", "date": "2026-07-10"},
+        {"quote": "Hi Bella Hope you're doing well, can you shoot over your final earning statements for 7/1-7/7? So we can issue our final invoice for you", "who": "Stephski", "date": "2026-08-02"}
+      ]
+    },
+    "security_hygiene": {
+      "severity": 3,
+      "internal_failure": "We asked for her OnlyFans password in the group chat and she posted her account email and password in plaintext in reply; a week later we solicited her Instagram login the same way and she pasted a live two-factor code into the chat. None of it was ever deleted or rotated, and at exit nothing was revoked: no credential rotation, no session review, no handover of the link.me page or the Facebook page we created in her name and told her she could not access.",
+      "evidence": [
+        {"quote": "Hey Bella What's the new OF password?", "who": "Mayson Chat", "date": "2026-05-29"},
+        {"quote": "code has been sent to ur email ... lmk if you got it?", "who": "Mica Vecco", "date": "2026-06-01"},
+        {"quote": "there's not because it's part of our database but on your instagram you should just toggle on the share to fb option whenever you go to post something", "who": "Mica Vecco", "date": "2026-06-01"}
+      ]
+    }
+  },
+  "metrics": {
+    "client_questions_total": 22,
+    "unanswered_over_24h": 5,
+    "max_team_silence_days": 23,
+    "promises_made": 10,
+    "promises_kept": 6,
+    "promises_lapsed": 4,
+    "method": "Full history 2026-05-28 to 2026-08-04 (318 lines). 'Questions' counts distinct client asks requiring an answer across the active relationship. 'Unanswered over 24h' = the Orlando/Miami photographer (never answered after the 2026-06-08 holding reply), the paid promo programme (never explained), the shared-iCloud question (3 days, bounced between two people), 'all those leaks are still up' (3 days), and the resignation itself (never answered). max_team_silence_days is the 23-day run from 2026-07-10 to 2026-08-02 with zero ALTR messages of any kind; while she was active the largest gap was about 2 days. Promises = explicit ALTR commitments with a traceable outcome; kept includes the Facebook page, link.me, script flows, redone voice notes, the lives-deduction recalculation and the two-stage DMCA explanation."
+  },
+  "what_client_wanted": [
+    "Leaks actually removed, not just submitted: 'Hi all those leaks are still up' (2026-06-26) and 'All those leaks are still up were you able to report them' (2026-06-28). She sent roughly 40 leak URLs herself over five weeks.",
+    "Real growth and a viral hit on TikTok and Instagram: 'I just need something to go viral soon tik tok is going great with interactions and followers which is good' (2026-06-09).",
+    "Help producing bulk content, which was promised at onboarding and never delivered: 'I want to schedule to come down to miami and take some reels... I think Derrek mentioned there was one here in Orlando?' (2026-06-04).",
+    "Not to be charged commission on revenue she generated herself: 'have to do the math but I did a private live that was 200 and then another live that made like 383... so have to subtract that from the invoice' (2026-06-15), repeated on 2026-07-02."
+  ],
+  "what_worked": [
+    "Fred's honest, numbers-backed explanation of the week-one revenue dip defused a real worry in minutes: 'the main reason we're not making as much money as usual is because we're on 4 subs today so far... yesterday and days before there's been an average of 60-70 subscribers a day' (2026-05-30). She replied 'Okay perfect I knew numbers would be down temporarily but didn't think that low lol, thank you and I'll get the socials going today also.'",
+    "Concrete, usable deliverables produced instant engagement: Fred's script flows and audio guidance on 2026-06-08 got 'Okay perfect thank you so much this helps a lot!' and she recorded thirteen voice notes the same evening.",
+    "Mica's day-two recovery when the booking system failed: 'hi babe! i actually didn't get that email either i'm so sorry, im available now if you are :)' (2026-05-29) - the call happened within the hour and set the tone for a genuinely warm first fortnight."
+  ],
+  "top_fix": "Make a client's resignation trigger a named human response within 24 hours - acknowledge it, ask why, and issue the final statement in the same breath. Nobody replied to hers at all; our automated sends kept firing four days later, and 81 days on ALTR still has not issued the final invoice or written down the exit balance she volunteered unprompted.",
+  "churn_timeline": [
+    {"date": "2026-05-28", "event": "Onboarded. Eric opens the group, Fred takes OnlyFans, Mica takes socials. She submits the onboarding form the same day: 'just submitted that form'."},
+    {"date": "2026-05-29", "event": "FIRST WARNING SIGN, and it is ours. Twenty-four hours after go-live the previous team is still messaging on the account - 'There are also people still messaging on the account - is this the old team?'. Credentials had never been rotated at handover. The same day her onboarding call booking silently fails: neither she nor Mica received a confirmation email."},
+    {"date": "2026-05-30", "event": "Fred explains the week-one revenue dip with real numbers. She takes it well. This is the high point of the relationship and the only performance explanation she ever receives."},
+    {"date": "2026-05-31", "event": "She reports all her socials look shadowbanned. The answer is a link change; nobody ever checks her accounts. She solves it herself by switching to her main TikTok."},
+    {"date": "2026-06-02", "event": "Asks what the paid promo programme actually is. Mica routes it to Michelle - 'will reach out to you soon on how to get started on that'. Nobody ever does; the Promo topic never carries a promo plan."},
+    {"date": "2026-06-03 to 2026-06-04", "event": "Payment rail #1 fails: she asks for a Zelle number, is told there is an email, cannot find an email, and gets the correct address 26 hours later. Google Drive uploads also fail; Michelle works around it with a shared folder - a genuinely good save."},
+    {"date": "2026-06-04", "event": "She asks about a Miami/Orlando content shoot with the videographer Derrek had mentioned. Mica says on 2026-06-08 that photographers have been contacted. It is never mentioned again in the remaining 28 days."},
+    {"date": "2026-06-15", "event": "BILLING DISPUTE OPENS. The combined invoice arrives via a Mercury link and includes commission on two lives she ran herself. She has to do the arithmetic: 'have to do the math but I did a private live that was 200 and then another live that made like 383'."},
+    {"date": "2026-06-18", "event": "Chatter conduct signal: the team logs a $150 video call to her with 'Duration : Not discussed' - a call she had already delivered. Two days earlier she had to ask what 'CEI' meant before pricing a custom."},
+    {"date": "2026-06-22 to 2026-06-23", "event": "Payment rail #2 fails: 'please not use Mercury above' / 'The mercury link is incorrect'. Corrected total agreed and paid."},
+    {"date": "2026-06-26", "event": "'Hi all those leaks are still up'. The links she reported on 2026-06-03 are still live three weeks later. She keeps sending more anyway."},
+    {"date": "2026-06-28", "event": "Asks again: 'All those leaks are still up were you able to report them'. Michelle: 'let me check on this with the team'. The answer takes three days."},
+    {"date": "2026-07-01", "event": "Payment rail #3 changes: 'we have a new bank for you to send to (last change I promise!)' - third bank in five weeks. Michelle finally explains the two-stage DMCA removal process. It is the right answer, five days before she leaves."},
+    {"date": "2026-07-02", "event": "She deducts her live earnings from the invoice for the second time: 'subtracting my 386 live total is $981 sending that now'."},
+    {"date": "2026-07-04 to 2026-07-06", "event": "Her wire is held by her bank; she goes into the branch to release it and pays on 2026-07-06."},
+    {"date": "2026-07-06 16:57", "event": "RESIGNATION, 54 minutes after paying: 'Hey guys I really appreciate working with you but I'm going to take over my account and work independently... will send that your way.' She posts a screenshot captioned 'This is total left'. Nobody replies. Ever."},
+    {"date": "2026-07-10", "event": "Mica sends routine reel inspo and Michelle sends the weekly leak report - four days after she quit. Our cadence had no idea she was gone."},
+    {"date": "2026-07-15", "event": "The final 7/1-7/7 invoice is due on ALTR's own 1st-and-15th cadence. It is not issued."},
+    {"date": "2026-08-02", "event": "First human acknowledgement that anything changed, 27 days later, and it is a request for money: 'can you shoot over your final earning statements for 7/1-7/7? So we can issue our final invoice for you'. No reply."},
+    {"date": "2026-08-04", "event": "'Just making sure you saw this'. The last message in the chat. Nothing since."},
+    {"date": "2026-09-25", "event": "Eighty-one days after the exit: the final invoice has still never been issued, the balance she volunteered has never been read off the screenshot or written down, no write-off decision exists, and her credentials and the assets we built in her name were never rotated, revoked or handed back."}
+  ],
+  "warning_signs_missed": [
+    "Nobody replied to her resignation. There is no process that turns a client saying 'I'm going to take over my account' into an owner conversation, so the account simply went quiet.",
+    "Our proactive cadence has no churn flag: reel inspo and a leak report were sent to her four days after she quit, which is proof the sends are automated and unread by anyone who knows the account.",
+    "Four payment rails in five weeks (broken Zelle, wrong Mercury link, Chase, Bank of America) on a client who paid every single invoice she was actually sent, within days. Billing chaos was ours, not hers.",
+    "She corrected our invoice arithmetic twice to remove commission on revenue she earned herself. A client auditing your invoices is a client losing confidence in you.",
+    "'All those leaks are still up' on 2026-06-26 and again on 2026-06-28 - she was reporting that our headline deliverable was not working, and the explanation of why arrived on 2026-07-01, five days before she left.",
+    "Two strategic asks that would have kept her - the Orlando/Miami content shoot and the paid promo programme - were claimed and then never mentioned again. Both were things she was actively excited about.",
+    "The previous agency was still messaging her OnlyFans account 24 hours after go-live because nobody rotated credentials at handover; her very first experience of us was us discovering a security hole.",
+    "A $150 fan call was logged to her with the duration explicitly undiscussed, and a second call was 'previously paid for' and inherited without her knowledge - selling before briefing.",
+    "Her exit balance was volunteered unprompted and never chased. The single most collectable receivable on the roster went stale because no one read a screenshot she had already sent.",
+    "She was Vale's referral and Vale is an active client - the only never-tried channel to reach her - and nobody considered either the collection route or the referral risk."
+  ]
+}

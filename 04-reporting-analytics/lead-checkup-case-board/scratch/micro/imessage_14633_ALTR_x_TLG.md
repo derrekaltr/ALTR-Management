@@ -1,0 +1,6 @@
+## ALTR x TLG [imessage#14633 GRP] msgs=24 win=2026-08-18..2026-08-19 lastClient=2026-08-19(30d) lastDerek=2026-08-19(30d) 
+...
+[2026-08-19 01:02]$| DEREK: F&F Prices are: Top 20 Guaranteed ($1500) 3000 Reels 500 Story Reposts of the Artist’s video 500 Story Notes 24 Hrs Top 10 Guaranteed ($2500) 5000 Reels All Pages Story Reposts All Story Notes 24 Hrs 
+...
+[2026-08-19 01:03]IMG-near-money| DEREK: ￼
+   <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/cd/13/at_0_01C7F46C-160D-4FB7-8C51-2D8655F2DC12/IMG_0881.HEIC>

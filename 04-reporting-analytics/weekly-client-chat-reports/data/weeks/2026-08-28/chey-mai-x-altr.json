@@ -1,0 +1,306 @@
+{
+  "client": "Chey Mai",
+  "slug": "chey-mai-x-altr",
+  "week_ending": "2026-08-28",
+  "summary": "Two messages in seven days, both ALTR-side, and the client has now been silent for 17 days. Michelle posted the leak-removal breakdown on Aug 25 (third consecutive week) and Stephski finally chased payment on Aug 26 — 11 days after the extension deadline she herself set lapsed on Aug 15, and four days after the second invoice came due. Nothing else happened on this account. Both invoices are now overdue at the same time, which has never happened before: the July 15-31 invoice is 27 days from send, 20 days past its original Aug 8 due date and 13 days past the extension; the combined Aug 15 invoice (July balance + Aug 1-14, the largest bill of the relationship) hit its ~Aug 22 due date unpaid, unacknowledged and unchased. Last week's report predicted exactly this and named checking that Aug 22 due date as the first job of the week; it was missed by four days. It also named off-thread contact as the single most important action — there is no evidence any was made, and the Aug 26 chase went out in the Invoicing topic, the exact channel Chey has already told us she does not see ('Oh I didn't even see this was for 2nd of August! I'm so sorry'). The chase itself was one line, no escalation, no phone call to the number Stephski gave her on Jul 1, no pause-of-work decision. On delivery, the Promo topic has had nothing since Derrek's Aug 1 phone-farm post (27 days) and Social Media nothing since Jul 29 (30 days) — a fourth consecutive week of zero IG output while two billing periods sit unpaid. Vivek, introduced as the Meta Support rep on Jul 29, has still never posted a single message, 30 days on. Derrek has not spoken to this client in 27 days; Mayson in 36. The only person who has done anything visible for her all month is Michelle. This account is not stalling, it is closing.",
+  "health": {
+    "score": 33,
+    "trend": "down",
+    "rationale": "Down 11 from 44, the fourth consecutive weekly decline (62 -> 55 -> 44 -> 33). Four things moved it: (1) the exposure doubled — the combined Aug 15 invoice passed its ~Aug 22 due date unpaid, so for the first time in the relationship two invoices are overdue simultaneously, one of them 27 days from send; (2) client silence extended from 10 days to 17, and she did not respond to the Aug 26 chase either, so the non-response streak now spans two separate chases; (3) last week's two headline recommendations — contact her off-thread immediately, and check the Aug 22 due date first thing — were not actioned; the only chase was 11 days late and went to the Invoicing topic she has already said she misses; (4) IG/promo is in its fourth silent week, 27 days past Derrek's promised update, with Vivek 30 days introduced and still silent. Held off a steeper drop by two things: Stephski did eventually resume chasing on Aug 26, and Michelle delivered the leak-removal report for the third straight week — she is the only person on this account with an unbroken delivery record."
+  },
+  "reminders": [
+    {
+      "employee": "Stephski",
+      "topic": "Chasing payment on the unpaid July 15-31 invoice (now rolled into the Aug 15 combined bill) — four chase messages since Aug 9, one of them this week, and the client has answered none of them since Aug 11",
+      "count": 4,
+      "first_date": "2026-08-09",
+      "last_date": "2026-08-26",
+      "days_outstanding": 27,
+      "chases_this_week": 1,
+      "note": "The Aug 26 chase closed an 11-day gap after the Aug 15 extension deadline lapsed, but it was a single line posted in the Invoicing topic — the same channel and same format the client has already ignored twice and once admitted she does not see. No escalation, no SMS to the number Stephski gave her on Jul 1, no stated consequence beyond 'respond asap'.",
+      "quotes": [
+        {"quote": "@cheymai1 Hi just pinging payment for your latest invoice, can you send by tomorrow?", "who": "Stephski", "date": "2026-08-09"},
+        {"quote": "@cheymai1 Hi love, we still havent received your invoice payment. If you could please send it by end of the day today to avoid a pause in work that would be great 🙏", "who": "Stephski", "date": "2026-08-11"},
+        {"quote": "Please note I combined your remaining invoice amount from last period to this and totaled everything at the bottom, please get this paid in a timely manner so we dont have to pause work due to non payment 🙏", "who": "Stephski", "date": "2026-08-15"},
+        {"quote": "@cheymai1 Hi love we haven’t heard back from you regarding payment, please respond asap", "who": "Stephski", "date": "2026-08-26"}
+      ]
+    },
+    {
+      "employee": "Stephski",
+      "topic": "Whether ALTR accepts PayPal — the client asked once on Jul 13, was told it would be checked, and 46 days later has still never been given an answer",
+      "count": 1,
+      "first_date": "2026-07-13",
+      "last_date": "2026-07-13",
+      "days_outstanding": 46,
+      "chases_this_week": 0,
+      "note": "The only thing this client has ever directly asked for on the billing side. Worked around on Aug 15 with updated Zelle details but never answered. She has stopped asking, which on a 17-day silence should be read as disengagement, not resolution.",
+      "quotes": [
+        {"quote": "Do you guys have PayPal", "who": "Cheyene Burridge", "date": "2026-07-13"},
+        {"quote": "Let me check on that for you", "who": "Stephski", "date": "2026-07-13"},
+        {"quote": "Have also attached updated Zelle info that should be easy to use now.", "who": "Stephski", "date": "2026-08-15"}
+      ]
+    },
+    {
+      "employee": "Derrek",
+      "topic": "The promised phone-farm / IG rollout updates — promised for the week of Aug 8-14, never posted, and never once followed up or re-acknowledged in the 27 days since",
+      "count": 1,
+      "first_date": "2026-08-01",
+      "last_date": "2026-08-01",
+      "days_outstanding": 27,
+      "chases_this_week": 0,
+      "note": "This is a reminder ALTR owes the client, not one the client owes ALTR. Zero messages in the Promo topic since Aug 1 and zero in Social Media since Jul 29. The client is being asked to clear two billing periods across which she has seen no IG output and no status of any kind.",
+      "quotes": [
+        {"quote": "Thank you for your understanding, we will have plenty of updates starting next week.", "who": "Derrek", "date": "2026-08-01"},
+        {"quote": "We are waiting for a shipment that should land Monday that will be the final piece needed to begin and scale.", "who": "Derrek", "date": "2026-08-01"}
+      ]
+    }
+  ],
+  "complaints": [
+    {
+      "issue": "Client has gone dark — 17 days since her last message (Aug 11) and she has now failed to answer two separate payment chases (Aug 15 and Aug 26). Every prior chase in this relationship got a reply within hours; this pattern broke the moment two billing periods were stacked into one invoice attached to a pause-in-work warning.",
+      "status": "recurring",
+      "first_raised": "2026-08-15",
+      "owner": "Stephski / Derrek",
+      "severity": "critical",
+      "days_open": 17,
+      "note": "Escalated from 10 days to 17. This is not a complaint she voiced, it is one she is expressing by absence. Prior response times: Jul 13 same-day, Jul 21 same-day, Aug 11 within 10 minutes of the chase. Last week's report called this the strongest churn signal on the account; a week later nothing has been done differently — the only response was one more message in the same topic she ignores.",
+      "evidence": "Last client message in the file is id 43 at 2026-08-11T11:06:21-04:00. No message from Cheyene Burridge appears anywhere after that date, including after the Aug 26 chase.",
+      "quotes": [
+        {"quote": "Oh I didn’t even see this was for 2nd of August! I’m so sorry", "who": "Cheyene Burridge", "date": "2026-08-11"},
+        {"quote": "@cheymai1 Hi love we haven’t heard back from you regarding payment, please respond asap", "who": "Stephski", "date": "2026-08-26"}
+      ]
+    },
+    {
+      "issue": "IG backup pages and posting still paused with no rollout update — fourth consecutive week. Derrek acknowledged flagged, shadowbanned and deleted pages on Aug 1, apologised for the communication gap, and promised updates would start the following week. The Promo topic has had zero messages in the 27 days since, and Social Media zero in 30 days.",
+      "status": "recurring",
+      "first_raised": "2026-08-01",
+      "owner": "Derrek",
+      "severity": "high",
+      "days_open": 27,
+      "weeks_open": 4,
+      "note": "The apology for the communication gap is now 27 days old and has itself been followed by a longer communication gap than the one it apologised for. This is also the strongest argument the client has for not paying: she is being billed for two periods in which the promo service she was sold produced nothing visible.",
+      "evidence": "No message posted to the Promo topic (reply_to 5) since Derrek's 2026-08-01 update, and none to Social Media (reply_to 3) since his 2026-07-29 Vivek introduction. Nothing in either topic during the 2026-08-21 to 2026-08-28 window.",
+      "quotes": [
+        {"quote": "My apologies, for any lack of communication. As this has required us to swap out over 200 devices, and over 1000 accounts.", "who": "Derrek", "date": "2026-08-01"},
+        {"quote": "Thank you for your understanding, we will have plenty of updates starting next week.", "who": "Derrek", "date": "2026-08-01"},
+        {"quote": "Recently there’s been a complete change in Instagram’s guidelines, as well as updated AI systems scans that remove content and add restrictions.", "who": "Derrek", "date": "2026-08-01"}
+      ]
+    },
+    {
+      "issue": "Vivek was introduced on Jul 29 as the dedicated Meta Support rep the client should tag for restrictions, shadowbans and bans, and offered Copyright Ban Protection setup. Thirty days later he has never posted a single message in the chat and the setup was never actioned.",
+      "status": "recurring",
+      "first_raised": "2026-07-29",
+      "owner": "Derrek / Vivek",
+      "severity": "medium",
+      "days_open": 30,
+      "note": "Account safety is the one service topic this client has ever raised unprompted ('My Cheymai_ account is being targeted now', Jul 22). She was handed a named specialist and an opt-in protection offer, and neither has produced anything. A promised person who never speaks is worse than no promise.",
+      "evidence": "No message from Vivek exists anywhere in the chat history; the ChatAddUser service event is id 33 at 2026-07-29T00:59:38-04:00.",
+      "quotes": [
+        {"quote": "Hey Ive added Vivek in here ( @fonta ). He is our Meta Support Rep that will help keep your IG accounts up and safe. If you have any restrictions, shadowbans, or bans.... simply @ him in the chat and he will help. To start, if you want your accounts setup for Copyright Ban Protection he can assist.", "who": "Derrek", "date": "2026-07-29"},
+        {"quote": "My Cheymai_ account is being targeted now", "who": "Cheyene Burridge", "date": "2026-07-22"}
+      ]
+    },
+    {
+      "issue": "The bank account number on the invoice changed on Aug 15 and the client has still never acknowledged the change, 13 days on. She paid the June invoice 'thru my normal bank', so a payment attempt could still be routing to the old account, or the change may simply read to her as suspicious.",
+      "status": "in_progress",
+      "first_raised": "2026-08-15",
+      "owner": "Stephski",
+      "severity": "high",
+      "days_open": 13,
+      "note": "Unchanged from last week, and still the cheapest thing on this list to rule out. The Aug 26 chase asked her to 'respond asap' about payment but did not re-state or confirm the new account details, so 13 days in we still cannot distinguish a cash-flow problem from a routing problem.",
+      "quotes": [
+        {"quote": "Please note an update to the account number, please try and send using the information on the invoice.", "who": "Stephski", "date": "2026-08-15"},
+        {"quote": "Money should have gone in thou! I paid thru my normal bank ☺️", "who": "Cheyene Burridge", "date": "2026-07-13"}
+      ]
+    },
+    {
+      "issue": "Onboarding was never completed and never chased: the sales-preferences form (sent Jun 22), confirmation that the previous chat team has unlinked (asked Jun 23), and IG reels uploads to the shared Google Drive (sent Jun 25) have no confirmation in chat at any point in 64 days.",
+      "status": "recurring",
+      "first_raised": "2026-06-25",
+      "owner": "Mayson / Michelle",
+      "severity": "medium",
+      "days_open": 64,
+      "note": "Mayson has not posted in this chat since Jul 23, 36 days ago, and never re-asked about the unlink after his single Jun 23 question. The Drive gap matters more each week: even if the phone farm goes live tomorrow, there is no confirmed content supply to post.",
+      "quotes": [
+        {"quote": "@cheymai1 please let me know when you’re previous team can get off so we can assign our team!", "who": "Mayson", "date": "2026-06-23"},
+        {"quote": "The content you upload here will be used by the team to post consistently across your management IG account, driving traffic and growth 🚀✨", "who": "Michelle", "date": "2026-06-25"}
+      ]
+    }
+  ],
+  "commitments": [
+    {
+      "what": "Pay the combined Aug 15 invoice (Aug 1-14 plus the unpaid July 15-31 balance) — 7-day terms implied a ~Aug 22 due date, which passed unpaid, unacknowledged and unchased for four days",
+      "who": "Cheyene Burridge",
+      "date": "2026-08-22",
+      "status": "overdue",
+      "days_outstanding": 6,
+      "note": "Was 'pending' last week with the explicit instruction to check it first thing this week. It lapsed. This is the largest bill of the relationship and it is now overdue alongside the invoice it was supposed to consolidate.",
+      "quotes": [
+        {"quote": "Hi hun! Hope you had a great week. Below is your invoice for the period of August 1st-14th. Please note an update to the account number, please try and send using the information on the invoice. Have also attached updated Zelle info that should be easy to use now. Thanks so much!💘", "who": "Stephski", "date": "2026-08-15"},
+        {"quote": "Please note I combined your remaining invoice amount from last period to this and totaled everything at the bottom, please get this paid in a timely manner so we dont have to pause work due to non payment 🙏", "who": "Stephski", "date": "2026-08-15"}
+      ]
+    },
+    {
+      "what": "Pay the July 15-31 invoice — sent Aug 1 with 7-day terms, due Aug 8, extended by the client's own request to Aug 15, still unpaid and never acknowledged",
+      "who": "Cheyene Burridge",
+      "date": "2026-08-15",
+      "status": "overdue",
+      "days_outstanding": 27,
+      "note": "27 days from send, 20 days past the original due date, 13 days past the extension she asked for herself. She has never missed a payment outright before, but she has also never let an extension she requested expire in silence.",
+      "quotes": [
+        {"quote": "Can you give me 4 more days please I’m just waiting for money to turn over from OF", "who": "Cheyene Burridge", "date": "2026-08-11"},
+        {"quote": "Hi love! Hope you’re having an amazing weekend. Below is your invoice for the period of July 15th-31st. If you could please shoot over payment within the next 7 days that would be amazing! Let me know if I can help you with anything 💘", "who": "Stephski", "date": "2026-08-01"}
+      ]
+    },
+    {
+      "what": "Post the promised phone-farm / IG rollout updates — 'plenty of updates starting next week', promised on Aug 1 for the week of Aug 8-14",
+      "who": "Derrek",
+      "date": "2026-08-01",
+      "status": "overdue",
+      "days_outstanding": 27,
+      "days_overdue": 20,
+      "note": "Escalated from 13 days overdue last week to 20. Derrek has not posted anything to this client in 27 days. Four weeks of zero Promo output, two unpaid billing periods, and no restart date has ever been named.",
+      "quotes": [
+        {"quote": "Thank you for your understanding, we will have plenty of updates starting next week.", "who": "Derrek", "date": "2026-08-01"},
+        {"quote": "I’m extremely excited for this to roll out, as just the testing alone in two weeks has generated over 400 million views across the Accounts.", "who": "Derrek", "date": "2026-08-01"}
+      ]
+    },
+    {
+      "what": "Follow up on the Aug 15 extended payment deadline — closed this week, but 11 days late and with no escalation",
+      "who": "Stephski",
+      "date": "2026-08-15",
+      "status": "done",
+      "completed_date": "2026-08-26",
+      "days_outstanding": 11,
+      "note": "Credit where due: the chase did finally go out. But the deadline lapsed on Aug 15 and nothing was sent until Aug 26 — 11 days of silence on the account's single biggest risk, and four days past the second invoice's due date. It was one line in the Invoicing topic, the channel she has already admitted she misses, with no phone contact, no restated bank details and no actual consequence attached. The day-1/day-3 cadence she was credited for on Aug 9-11 has still not been restored.",
+      "quotes": [
+        {"quote": "@cheymai1 Hi love we haven’t heard back from you regarding payment, please respond asap", "who": "Stephski", "date": "2026-08-26"},
+        {"quote": "Okay no problem, just a heads up we have another invoice going out in 4 days so I will shoot you a new invoice with whatevers remaining at that point put all together", "who": "Stephski", "date": "2026-08-11"}
+      ]
+    },
+    {
+      "what": "Make off-thread contact with the client (SMS to the number Stephski shared on Jul 1, or DM) — the headline action from last week's report, with no evidence anywhere that it happened",
+      "who": "Stephski / Derrek",
+      "date": "2026-08-21",
+      "status": "overdue",
+      "days_outstanding": 7,
+      "note": "Cannot be proven from the chat alone, but nothing in the chat suggests it occurred and the client's status is unchanged after 17 days. If it did happen off-platform, it produced no result and was never logged here. A 17-day silence from a client who previously replied in minutes is not a Telegram-topic problem to solve with another Telegram-topic message.",
+      "quotes": [
+        {"quote": "Hi happy July 1st! ❤️ My name is Stephanie and I will be handling all things invoice related with you. my phone number is [REDACTED-NUMBER] if you ever need to reach me.", "who": "Stephski", "date": "2026-07-01"},
+        {"quote": "Oh I didn’t even see this was for 2nd of August! I’m so sorry", "who": "Cheyene Burridge", "date": "2026-08-11"}
+      ]
+    },
+    {
+      "what": "Check whether ALTR accepts PayPal and get back to the client — 46 days unanswered on the only billing question she has ever asked",
+      "who": "Stephski",
+      "date": "2026-07-13",
+      "status": "overdue",
+      "days_outstanding": 46,
+      "note": "Still open. Payment convenience is the central friction on this account and the one direct request she made about it has now gone a month and a half without a yes or a no.",
+      "quotes": [
+        {"quote": "Do you guys have PayPal", "who": "Cheyene Burridge", "date": "2026-07-13"},
+        {"quote": "Let me check on that for you", "who": "Stephski", "date": "2026-07-13"}
+      ]
+    },
+    {
+      "what": "Confirm the outstanding onboarding items — sales-preferences form completion, previous chat team unlink, and IG reels uploads to the shared Google Drive",
+      "who": "Mayson / Michelle",
+      "date": "2026-06-25",
+      "status": "overdue",
+      "days_outstanding": 64,
+      "note": "Nine weeks with no confirmation ever posted and no follow-up since Mayson's single Jun 23 question. Mayson himself has been silent in this chat for 36 days.",
+      "quotes": [
+        {"quote": "When you're able please fill out the form that will give the team everything they need to know about yourself AND the ability to sell in confidence.", "who": "Mayson", "date": "2026-06-22"},
+        {"quote": "dropping your google drive here just in case 💕", "who": "Michelle", "date": "2026-06-25"}
+      ]
+    },
+    {
+      "what": "Set up the client's accounts for Copyright Ban Protection via Vivek, the Meta Support rep introduced on Jul 29",
+      "who": "Derrek / Vivek",
+      "date": "2026-07-29",
+      "status": "overdue",
+      "days_outstanding": 30,
+      "note": "Offered unprompted, never followed up, and Vivek has never posted in the chat. The client's only self-raised service concern is account safety.",
+      "quotes": [
+        {"quote": "To start, if you want your accounts setup for Copyright Ban Protection he can assist.", "who": "Derrek", "date": "2026-07-29"}
+      ]
+    }
+  ],
+  "payments": [
+    {
+      "note": "For the first time in this relationship, two invoices are overdue at once. The combined Aug 15 bill (Aug 1-14 plus the July 15-31 balance) passed its implied ~Aug 22 due date with no payment, no acknowledgement and no chase until Aug 26 — four days late, and 11 days after the previous deadline lapsed. Total exposure is now two full billing periods, the largest amount ever outstanding on this account.",
+      "date": "2026-08-22",
+      "invoice_period": "2026-08-01 to 2026-08-14 (combined with the 2026-07-15 to 2026-07-31 balance)",
+      "late": true,
+      "days_late": 6,
+      "amount_at_risk": "Two full billing periods billed as one",
+      "reason": "Client cash flow is gated on her OnlyFans payout cycle and does not align with 1st/15th invoicing on 7-day terms; stacking two periods into one demand multiplied the size of the transfer she has to clear in a single go, and the demand was delivered in a topic she has told us she does not reliably see",
+      "suggested_fix": "Stop treating this as an invoicing task. Phone or SMS her today on the number Stephski already gave her, confirm she has the new account details, and offer a written split: the July balance on her next OF payout and the August period two weeks later. A payment plan she agrees to beats a full balance she is avoiding.",
+      "quotes": [
+        {"quote": "Please note I combined your remaining invoice amount from last period to this and totaled everything at the bottom, please get this paid in a timely manner so we dont have to pause work due to non payment 🙏", "who": "Stephski", "date": "2026-08-15"},
+        {"quote": "@cheymai1 Hi love we haven’t heard back from you regarding payment, please respond asap", "who": "Stephski", "date": "2026-08-26"}
+      ]
+    },
+    {
+      "note": "The July 15-31 invoice is now 27 days from send, 20 days past its original Aug 8 due date and 13 days past the extension the client requested herself. Four chases have gone out (Aug 9, Aug 11, Aug 15, Aug 26) and she has answered none of them since Aug 11. This is by a wide margin the worst payment position of the relationship.",
+      "date": "2026-08-01",
+      "invoice_period": "2026-07-15 to 2026-07-31",
+      "late": true,
+      "days_late": 20,
+      "reason": "Client asked for four extra days on Aug 11 citing her OnlyFans payout, then went silent when the deadline arrived alongside a bigger combined bill and a pause-in-work warning",
+      "suggested_fix": "Make an explicit internal decision this week on whether work actually pauses. Two pause warnings have been issued (Aug 11, Aug 15) and neither was enforced — Michelle has kept delivering leak removal throughout. Either enforce it and say so, or stop threatening it; the empty threat is training her to ignore the chases.",
+      "quotes": [
+        {"quote": "Can you give me 4 more days please I’m just waiting for money to turn over from OF", "who": "Cheyene Burridge", "date": "2026-08-11"},
+        {"quote": "@cheymai1 Hi love, we still havent received your invoice payment. If you could please send it by end of the day today to avoid a pause in work that would be great 🙏", "who": "Stephski", "date": "2026-08-11"}
+      ]
+    },
+    {
+      "note": "Four invoices in, the pattern is unbroken and worsening: every single one has been late, and not one has ever been paid without a chase. Jun 23-30 sent Jul 1, paid Jul 13 after a Jul 11 nudge (12 days late). Jul 1-14 sent Jul 15, paid Jul 21 after a Jul 20 nudge (6 days late). Jul 15-31 sent Aug 1, unpaid at 27 days after four nudges. Aug 1-14 sent Aug 15, unpaid and unacknowledged at 13 days. The new development is that she no longer responds to the chases at all.",
+      "date": "2026-08-28",
+      "late": true,
+      "reason": "No fixed reminder cadence, no confirmed payment rail she finds convenient (the Jul 13 PayPal question is 46 days unanswered), and invoices are posted to a topic she has explicitly said she missed once already",
+      "suggested_fix": "Fix the mechanics before the next invoice on Sep 1: a standing day-2 / day-5 reminder schedule sent directly to her rather than to the Invoicing topic, one payment method confirmed in writing that she will actually use, and a due date that lands after her OF payout rather than seven days after our billing date.",
+      "quotes": [
+        {"quote": "@cheymai1 Hey we're still missing payment 🙂", "who": "Stephski", "date": "2026-07-11"},
+        {"quote": "Hi hun! Checking in on this payment above ❤️ @cheymai1", "who": "Stephski", "date": "2026-07-20"},
+        {"quote": "Oh I didn’t even see this was for 2nd of August! I’m so sorry", "who": "Cheyene Burridge", "date": "2026-08-11"}
+      ]
+    },
+    {
+      "note": "The bank account change is still unverified 13 days on. The Aug 15 invoice told her to use a new account number; she has never confirmed she saw it, and the Aug 26 chase did not repeat the details. Until she confirms, a 'missed' payment could just as easily be a misrouted or bank-blocked one.",
+      "date": "2026-08-15",
+      "invoice_period": "2026-08-01 to 2026-08-14",
+      "late": false,
+      "reason": "Mid-relationship banking-detail change delivered once, in a group topic, to a client who had already missed a message in that same topic",
+      "suggested_fix": "Get written confirmation she has the new details before anyone treats this as a cash-flow problem. It is one message and it eliminates an entire failure mode.",
+      "quotes": [
+        {"quote": "Please note an update to the account number, please try and send using the information on the invoice.", "who": "Stephski", "date": "2026-08-15"},
+        {"quote": "Money should have gone in thou! I paid thru my normal bank ☺️", "who": "Cheyene Burridge", "date": "2026-07-13"}
+      ]
+    }
+  ],
+  "client_priorities": [
+    "Protecting her main IG account (@Cheymai_) from targeting, flags and restrictions — the only thing she has ever raised unprompted on the service side, and the reason Vivek's 30 days of silence matters",
+    "Payment timing and convenience — her cash flow is gated on her OnlyFans payout cycle, she asked about PayPal 46 days ago and never got an answer, and she has admitted she misses invoices posted in the Invoicing topic",
+    "Seeing the IG promo/posting program actually restart with a named date — four weeks of zero Promo output and 27 days past the promised update, while being billed across the whole of it"
+  ],
+  "suggestions": [
+    "Call or SMS her today on [REDACTED-NUMBER] — the number Stephski already gave her. Seventeen days of silence and two ignored chases is not a problem another Telegram message in the Invoicing topic will solve. This was last week's number-one recommendation and it did not happen; a third week of the same approach will produce the same result.",
+    "Decide this week whether work actually pauses, and tell her either way. Two pause warnings have been issued and neither was enforced while Michelle kept delivering. An unenforced threat is worse than no threat — it teaches her the chases carry no weight.",
+    "Confirm she has the new bank account number before anyone concludes she cannot pay. Thirteen days unverified, one message to rule out, and it is the only benign explanation still on the table.",
+    "Offer a written split payment: July balance on her next OF payout, August period two weeks after. She told us on Aug 11 she was waiting on money; the response was a bigger bill. Give her a plan she can actually say yes to.",
+    "Get the phone-farm update posted with a restart date, from Derrek, this week. It is 27 days past the promise, four weeks of silence on Promo, and it is the single strongest argument she has for withholding payment on two periods.",
+    "Make Vivek post something, or stop mentioning him. He was introduced 30 days ago as her Meta Support contact on the one topic she actually cares about and has never said a word. Either he does the Copyright Ban Protection setup or the offer gets retracted.",
+    "Answer the PayPal question with a yes or a no. Forty-six days of non-answer on the one billing request she has ever made, on an account whose entire problem is payment friction.",
+    "Treat this as an active churn case with an owner and a deadline, not a collections queue item. She referred Paige to ALTR — losing her over a stacked invoice and a silent promo program costs the referral relationship too."
+  ],
+  "wins": [
+    "Michelle posted the weekly leak-removal breakdown again on Aug 25 — the third consecutive week and the only visible service delivery this client has received all month. She is the only person on this account with an unbroken record.",
+    "Stephski did resume chasing on Aug 26 after an 11-day gap, which at least re-established contact on the outstanding balance — but it was late, single-channel and carried no escalation, so it counts as a partial recovery rather than a fix."
+  ],
+  "week_stats": {
+    "messages": 2,
+    "client_messages": 0,
+    "team_messages": 2
+  }
+}

@@ -1,0 +1,107 @@
+# @mc_phils - Twitter Unban  [whatsapp #1520 GROUP]
+msgs=103 (in=99 out=4) window=2026-07-28..2026-09-02
+last_client=2026-09-02 (16d ago), last_derrek=2026-07-29 (51d ago)
+LAST MESSAGE FROM CLIENT — UNANSWERED: 'Again'
+
+  ...
+[2026-07-28 01:56] 120363408563892540@g.us: {"reason":0,"is_parent_group_general_chat":false,"parent_group_jid":null,"auto_add_disabled":true,"context_group":null,"should_use_identity_header":true,"parent_group_name":null,"subject":"@mc_phils - Twitter Unban","author":"65300816998597@lid","is_hidden_sub…
+[2026-07-28 01:56] DEREK: Vivek he will join soon
+[2026-07-28 01:56] 53725762732108@lid: Ok
+[2026-07-28 04:59] 156435761598548@lid: 65300816998597@lid
+[2026-07-28 04:59] 156435761598548@lid: Hello
+[2026-07-28 05:00] 53725762732108@lid: Hello
+[2026-07-28 05:00] 53725762732108@lid: Wait will send you code sir
+[2026-07-28 05:09] 156435761598548@lid: Hello, just to be sure This is the account im trying to fix x.com/McPhils_ Password: TwitterFix Adekolajohn@gmail.com
+[2026-07-28 05:10] 53725762732108@lid: Okay sir
+[2026-07-28 05:10] 53725762732108@lid: I need login codes
+[2026-07-28 05:10] 53725762732108@lid: Can you provide that
+[2026-07-28 05:10] 156435761598548@lid: Sure as soon as I receive code
+  ...
+[2026-07-28 05:12] 53725762732108@lid: Please check email sir
+[2026-07-28 05:12] 53725762732108@lid: You received a login code
+[2026-07-28 05:12] 156435761598548@lid: On it
+  ...
+[2026-07-28 05:14] 53725762732108@lid: Thank you sir for code
+[2026-07-28 05:14] 156435761598548@lid: Unban and Unpause ads revenue
+[2026-07-28 05:14] 53725762732108@lid: Can you provide me email screenshots
+[2026-07-28 05:14] 156435761598548@lid: Sure
+[2026-07-28 05:14] 156435761598548@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363408563892540@g.us/c/e/ceac748b-25ea-4398-b87d-9b1e3020ede1.jpg>
+[2026-07-28 05:14] 156435761598548@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363408563892540@g.us/6/1/61d94675-9acb-448f-b101-ec67457a528a.jpg>
+[2026-07-28 05:15] 53725762732108@lid: No not this one The suspension one
+  ...
+[2026-07-28 05:15] 53725762732108@lid: Please that one is very important
+[2026-07-28 05:16] 53725762732108@lid: And provide me some information like ban date You submit any appeal from your side And last Did you receive any copyright strike
+[2026-07-28 05:17] 156435761598548@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363408563892540@g.us/c/f/cf366487-6607-4fce-a8ad-558d9b8746fe.jpg>
+[2026-07-28 05:17] 156435761598548@lid: Ban date and reason for suspension is here
+[2026-07-28 05:17] 53725762732108@lid: Yeah i got it
+[2026-07-28 05:18] 156435761598548@lid: No prior copyright strike but there were some old copyright strikes way back to 2023? Do those count?
+[2026-07-28 05:26] 156435761598548@lid: Hello please .. ill like to remind you that the ads revenue sharing has to be unpaused after the unban... I just want us to be on the same page
+[2026-07-28 05:33] 53725762732108@lid: Yes
+[2026-07-28 05:33] 53725762732108@lid: Will check that one also
+[2026-07-28 05:34] 53725762732108@lid: Because if account gets unbanned revenue sharing will be also resume
+[2026-07-28 05:36] 53725762732108@lid: And have you submitted any appeal If yes then whats the outcome
+[2026-07-28 05:36] 53725762732108@lid: Please share that screenshot also
+[2026-07-28 05:37] 156435761598548@lid: the revenue sharing was paused before the ban
+[2026-07-28 05:38] 53725762732108@lid: Ok but for that we have to unban your account first
+[2026-07-28 05:38] 156435761598548@lid: Ok..
+  ...
+[2026-07-28 05:38] 53725762732108@lid: Like normal and copyright
+[2026-07-28 05:39] 156435761598548@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363408563892540@g.us/a/a/aa8ea707-bc12-4f3e-91ca-da5f1993dac2.jpg>
+[2026-07-28 05:39] 156435761598548@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363408563892540@g.us/4/a/4a4e4578-01d3-48d2-aa25-90623630ff45.jpg>
+[2026-07-28 05:39] 53725762732108@lid: Okay
+[2026-07-28 05:39] 53725762732108@lid: Thanks sir
+[2026-07-28 05:40] 156435761598548@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363408563892540@g.us/e/7/e7b49c52-0186-481f-bb04-217a44c9f01f.jpg>
+[2026-07-28 05:40] 156435761598548@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363408563892540@g.us/f/b/fba1af39-1566-4895-98a3-aaa2e2482b2a.jpg>
+[2026-07-28 05:40] 53725762732108@lid: For further process I need mail login without that proceedings is little hard
+[2026-07-28 05:40] 53725762732108@lid: Because I can't replace the email in appeal
+[2026-07-28 05:40] 156435761598548@lid: Can you give an email to forward all the copyright emails to ?
+[2026-07-28 05:41] 53725762732108@lid: Sir you didn't understand
+[2026-07-28 05:41] 53725762732108@lid: Like when i submit the appeal for copyright and other disputes the only connected mail is eligible for that
+[2026-07-28 05:42] 156435761598548@lid: Oh i understand
+[2026-07-28 05:42] 156435761598548@lid: This gonna be difficult or almost impossible Because thats my personal email
+[2026-07-28 05:42] 53725762732108@lid: Yeah sir you can confirm that yourself by trying submit a appeal from your end
+[2026-07-28 05:43] 53725762732108@lid: You won't be able to change email
+  ...
+[2026-07-28 05:47] 156435761598548@lid: Ok thanks
+[2026-07-29 11:16] DEREK: This is the worst cause it doesn’t even let you change your email once it’s banned
+[2026-07-29 11:16] DEREK: My apologies. It’s the only way to get it back.
+  ...
+[2026-08-04 06:06] 53725762732108@lid: Waiting on grievance token number bro
+[2026-08-04 06:07] 53725762732108@lid: As soon as get the code will submit the request
+[2026-08-04 06:07] 53725762732108@lid: Before submitting the request i want to ask you something can you tell me how many copyright strike you have on your x account
+[2026-08-04 06:09] 156435761598548@lid: Maybe 4 i cant be sure but I sent the screenshots here the last time
+[2026-08-04 06:14] 53725762732108@lid: Please check
+[2026-08-04 06:15] 156435761598548@lid: Ok
+[2026-08-04 06:21] 156435761598548@lid: 13
+[2026-08-09 18:31] 53725762732108@lid: Sorry for delay
+[2026-08-09 18:32] 53725762732108@lid: Got token
+[2026-08-09 18:37] 156435761598548@lid: Ok great so what next
+[2026-08-15 17:28] 53725762732108@lid: Hey
+[2026-08-15 17:28] 53725762732108@lid: Buddy
+[2026-08-15 17:31] 53725762732108@lid: @156435761598548
+[2026-08-15 17:31] 53725762732108@lid: Sorry for delay
+[2026-08-15 17:32] 53725762732108@lid: I just submitted the appeal for x
+[2026-08-15 17:32] 53725762732108@lid: Please keep an eye on mail ✉️
+[2026-08-15 17:34] 156435761598548@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363408563892540@g.us/a/3/a3303ffd-783a-4009-b95a-80f8e793f79b.jpg>
+[2026-08-15 17:35] 53725762732108@lid: Did you receive this mail just now ?
+[2026-08-15 17:35] 156435761598548@lid: Yes
+[2026-08-15 17:51] 53725762732108@lid: Refresh your mail
+[2026-08-15 17:53] 156435761598548@lid: Ok
+[2026-08-15 17:54] 156435761598548@lid: Same for now. No new email
+[2026-08-16 12:25] 53725762732108@lid: Now ?
+[2026-08-16 12:25] 53725762732108@lid: Still same
+[2026-08-16 12:26] 156435761598548@lid: Yes. No new email
+[2026-09-02 17:38] 53725762732108@lid: Yo
+[2026-09-02 17:38] 53725762732108@lid: Keep an eye on mail
+[2026-09-02 17:39] 156435761598548@lid: Ok ok
+[2026-09-02 17:41] 156435761598548@lid: 
+      <IMG MISSING: /Users/locklyjailbreak/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Media/120363408563892540@g.us/d/6/d688aa54-dcd8-4f0c-8ae7-8e3f6b0d3bb0.jpg>
+[2026-09-02 17:42] 53725762732108@lid: Again

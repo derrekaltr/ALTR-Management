@@ -1,0 +1,35 @@
+# Dani Banks, Vivek Unban, ALTR Services  [imessage #14952 GROUP]
+msgs=27 (in=25 out=2) window=2026-09-15..2026-09-15
+last_client=2026-09-15 (3d ago), last_derrek=2026-09-15 (3d ago)
+LAST MESSAGE FROM CLIENT — UNANSWERED: 'OK, no worries. Just leave it.'
+
+  ...
+[2026-09-15 09:43] DEREK: Hey Dani, Vivek is going to help you get reverified with a new name. Please drop your logins here
+[2026-09-15 13:21] Dani Banks: Sorry, I just woke up
+[2026-09-15 13:29] Dani Banks: David1938829!$ DaniiBanks.tv
+[2026-09-15 15:50] Vivek Unban: Lmk when you can approve the login request
+[2026-09-15 15:50] Dani Banks: I am online
+[2026-09-15 15:50] Dani Banks: Now
+[2026-09-15 15:52] Vivek Unban: Code
+[2026-09-15 15:52] DEREK: Emphasized “Code”
+[2026-09-15 15:52] Vivek Unban: Text code
+[2026-09-15 15:52] Dani Banks: I’m looking I haven’t received
+[2026-09-15 15:53] Dani Banks: No code
+[2026-09-15 15:55] Dani Banks: I’m about to change the number because honestly, I have no idea what number that is
+[2026-09-15 15:55] Vivek Unban: Ok no problem
+[2026-09-15 15:55] Vivek Unban: Can you send me a backup code
+[2026-09-15 15:56] Dani Banks: ￼
+      <IMG OK: /Users/locklyjailbreak/Library/Messages/Attachments/61/01/9E516A3E-5ED4-4F9E-A2CF-5B0CBC9328F5/IMG_2720.PNG>
+[2026-09-15 15:59] Vivek Unban: ￼
+      <IMG MISSING: /Users/locklyjailbreak/Library/Messages/Attachments/c0/00/at_0_8A7167DF-C2B5-4CE0-B246-F46E06171428/81118074929__66C7BEE2-4D19-44F3-A323-4F3855CFE990.heic>
+[2026-09-15 15:59] Dani Banks: Yeah, I know. I told him that I said that.
+[2026-09-15 15:59] Vivek Unban: Account is cooked
+[2026-09-15 15:59] Vivek Unban: Better cancel the subscription
+[2026-09-15 16:00] Dani Banks: Cooked?
+[2026-09-15 16:00] Dani Banks: How was it cooked?
+[2026-09-15 16:00] Vivek Unban: He messed the verification
+[2026-09-15 16:00] Dani Banks: No, I need a blue check. Just leave it alone.
+[2026-09-15 16:00] Dani Banks: Who is he? No one messed with my account I did that.
+[2026-09-15 16:00] Vivek Unban: We have to re verify it
+[2026-09-15 16:00] Vivek Unban: Kartik
+[2026-09-15 16:00] Dani Banks: OK, no worries. Just leave it.

@@ -1,0 +1,597 @@
+{
+  "client": "Lauren Blake",
+  "slug": "lauren-blake-x-altr",
+  "week_ending": "2026-09-04",
+  "summary": "The invoice-2 crisis closed - and the client closed it. On Aug 31 Lauren phoned Chase herself and came back with the root cause ALTR had spent six chase messages and sixteen days not finding: \"They said that the name ALTR mgmt LLC is not matching the name on the account even though the numbers are\" and, far more seriously, \"And your account was flagged by Chase for fraud/scam transactions so they won’t send it through so they won’t send it even if I say so\". Nobody at ALTR has responded to that second sentence to this day. Stephski's next two messages were \"Thanks so much so so sorry for the difficulties!\" and notice that invoice 3 was coming. Lauren then routed around the broken rail on her own: three daily Zelle payments at her $5k limit on Aug 31, Sep 1 and Sep 2 (\"3/3 Zelle for last invoice\"), settling invoice 2 eighteen days after issue while she was in LA and Mexico. Invoice 3 (period Aug 15-31) went out Sep 1 and she had already sent the first $5k against it by Sep 3 - and in the same message asked, for the second time, \"Can you confirm the name of the account?\". It took a Mayson nudge (\"@stephskiii ^^\") and four hours twenty minutes to get the one-line answer \"The name on the account is ALTR MANAGEMENT LLC\", with no corrected invoice, no routing/SWIFT or registered address, and still no acknowledgement of the fraud flag. Service delivery hit its lowest point yet. Derrek sent ZERO messages in the window, the week after sending six - every one of them a payment chase. Ollie sent two, both of them asks: a fan-follow request on Aug 30 and \"Hey Lauren, where are the new pictures?\" on Sep 4, four days after she wrote \"Uploaded some new pics\". None of his five open items moved - boundary confirmation 33 days, whale report 28, CodyBeebs screenshot 17, and the livestream he built a subscriber poll for has now gone 14 days without a single mention. Michelle delivered the weekly leak report on time and unchased on Sep 1, the seventh consecutive week and still the only service line on this account that has never needed a reminder.",
+  "health": {
+    "score": 51,
+    "trend": "down",
+    "rationale": "Down 4 from 55. The acute risk did clear - invoice 2 is settled and invoice 3 is already part-paid - and that is the only reason this is not in the 40s. But look at how it cleared. The client phoned her own bank, diagnosed ALTR's beneficiary-name mismatch, discovered ALTR's account is flagged by Chase for fraud, invented the workaround, executed it over three days while travelling, and apologised to ALTR for the delay (\"It’s all good sorry for the delay. I’ll get it handled today\"). ALTR contributed six chases and a one-line answer that took two asks and a colleague's @-mention to extract. The fraud-flag disclosure - a bank telling a paying client that this agency's account is associated with scam transactions - was met with silence from every ALTR staff member including the owner. Meanwhile service went to zero: Derrek 0 messages, Ollie 2 and both were requests of her, and all nine stale promises got a week older. She is now on manual Zelle installments indefinitely because the wire rail still is not fixed. Her conduct this week rates a 90; ALTR's delivery rates a 25."
+  },
+  "reminders": [
+    {
+      "employee": "Stephski",
+      "topic": "Give her banking details that actually work - the beneficiary name on the invoice does not match the registered account name, which is why two wires failed",
+      "count": 2,
+      "first_date": "2026-08-31",
+      "last_date": "2026-09-03",
+      "days_outstanding": 20,
+      "chases_this_week": 2,
+      "note": "Root cause dates to the account-number change on the Aug 15 invoice. Re-confirming those details in one standalone message has been the number-one recommendation in two consecutive weekly reports and still has not been done. She told ALTR the exact problem on Aug 31 and nobody acted on it; she had to ask again on Sep 3, needed Mayson to @-mention Stephski, and got back a single line with the account name and nothing else.",
+      "evidence": [
+        {"quote": "They said that the name ALTR mgmt LLC is not matching the name on the account even though the numbers are", "who": "Lauren Blake", "date": "2026-08-31"},
+        {"quote": "Can you confirm the name of the account? Chase said the reason why I can’t wire is because the name on the invoice does not match the name on the account. If we can get that matched up then I don’t have to send individual Zelle’s", "who": "Lauren Blake", "date": "2026-09-03"},
+        {"quote": "The name on the account is ALTR MANAGEMENT LLC", "who": "Stephski", "date": "2026-09-03"}
+      ],
+      "quotes": [
+        {"quote": "Please note an update to the account number, please try and send using the information on the invoice.", "who": "Stephski", "date": "2026-08-15"},
+        {"quote": "They said that the name ALTR mgmt LLC is not matching the name on the account even though the numbers are", "who": "Lauren Blake", "date": "2026-08-31"},
+        {"quote": "Can you confirm the name of the account? Chase said the reason why I can’t wire is because the name on the invoice does not match the name on the account. If we can get that matched up then I don’t have to send individual Zelle’s", "who": "Lauren Blake", "date": "2026-09-03"},
+        {"quote": "@stephskiii ^^", "who": "Mayson Chat", "date": "2026-09-03"},
+        {"quote": "The name on the account is ALTR MANAGEMENT LLC", "who": "Stephski", "date": "2026-09-03"}
+      ]
+    },
+    {
+      "employee": "Derrek",
+      "topic": "The Meta ad-spend report backing the 5% paid-ads fee, and the ad-stats call promised on his behalf",
+      "count": 3,
+      "first_date": "2026-07-06",
+      "last_date": "2026-08-03",
+      "days_outstanding": 32,
+      "chases_this_week": 0,
+      "note": "She has not chased since Aug 3, but the fee has now ridden a third invoice: invoice 3 went out on Sep 1 with no ad report attached and no mention of one. Derrek sent zero messages in this window - the week after sending six, all of them payment chases. That contrast is the cleanest evidence she would have if she ever disputes the line.",
+      "evidence": [
+        {"quote": "I’d like to see the ad reports of the 5% being spent on meta", "who": "Lauren Blake", "date": "2026-08-03"},
+        {"quote": "You're welcome! Derreks going to give you a ring and walk you through your current ad stats 🙂", "who": "Stephski", "date": "2026-08-03"},
+        {"quote": "Also happy September! Here is your invoice for the period of August 15-31 ❤️", "who": "Stephski", "date": "2026-09-01"}
+      ],
+      "quotes": [
+        {"quote": "Also, how do we account for the 5% that’s going towards paid ads?", "who": "Lauren Blake", "date": "2026-08-03"},
+        {"quote": "I’d like to see the ad reports of the 5% being spent on meta", "who": "Lauren Blake", "date": "2026-08-03"},
+        {"quote": "You're welcome! Derreks going to give you a ring and walk you through your current ad stats 🙂", "who": "Stephski", "date": "2026-08-03"},
+        {"quote": "Thank you! Tell him to call tomorrow pls :) I’m very Jet lag today first day back 😵‍💫", "who": "Lauren Blake", "date": "2026-08-03"},
+        {"quote": "Also happy September! Here is your invoice for the period of August 15-31 ❤️", "who": "Stephski", "date": "2026-09-01"}
+      ]
+    },
+    {
+      "employee": "Ollie Mckinlay / Michelle (Promo team)",
+      "topic": "Being told what is happening without having to ask - takedown visibility, IG page status, the livestream poll, and whether OnlyFans stories are actually being posted",
+      "count": 4,
+      "first_date": "2026-07-14",
+      "last_date": "2026-08-22",
+      "days_outstanding": 52,
+      "chases_this_week": 0,
+      "note": "She asked nothing this week for a reason worth noticing: there was no service conversation to ask about. The only two things Ollie said to her in seven days were requests of her. The Aug 22 OnlyFans-stories question - a revenue tactic she volunteered from her previous team - is now 13 days old, with Michelle's \"I can confirm\" never followed by a confirmation.",
+      "evidence": [
+        {"quote": "Also, do you guys do stories for only fans? My previous team would always keep a story alive and found that it helped bring a few fans in because it’s top of mind at their feed.", "who": "Lauren Blake", "date": "2026-08-22"},
+        {"quote": "a story post on onlyfans? the team should be uploading on there I can confirm", "who": "Michelle Queue", "date": "2026-08-22"},
+        {"quote": "Hey Lauren, where are the new pictures?", "who": "Ollie Mckinlay", "date": "2026-09-04"}
+      ],
+      "quotes": [
+        {"quote": "Hi! How often are we running searches for takedowns? Is there visibility for me to see?", "who": "Lauren Blake", "date": "2026-07-14"},
+        {"quote": "Hi babe! What’s the status of the IG page and the promos being posted? Also, I was told someone was going to be doing all the trial reel posting on my account. How do we get that going?", "who": "Lauren Blake", "date": "2026-07-20"},
+        {"quote": "Did we do this?", "who": "Lauren Blake", "date": "2026-08-18"},
+        {"quote": "Also, do you guys do stories for only fans? My previous team would always keep a story alive and found that it helped bring a few fans in because it’s top of mind at their feed.", "who": "Lauren Blake", "date": "2026-08-22"},
+        {"quote": "a story post on onlyfans? the team should be uploading on there I can confirm", "who": "Michelle Queue", "date": "2026-08-22"}
+      ]
+    }
+  ],
+  "complaints": [
+    {
+      "issue": "ALTR's receiving account is flagged by Chase for fraud/scam transactions, and the beneficiary name on the invoice does not match the registered account name. The client discovered both by phoning her own bank on Aug 31 and reported them in the chat. No ALTR staff member - not Stephski, not Derrek - has acknowledged the fraud flag at any point since. This is not a Lauren problem: any client wiring from Chase hits the same wall, and a bank telling a paying client that this agency's account is associated with scam transactions is a company-level exposure.",
+      "status": "new",
+      "first_raised": "2026-08-31",
+      "owner": "Derrek / Stephski",
+      "severity": "critical",
+      "days_open": 4,
+      "evidence": [
+        {"quote": "And your account was flagged by Chase for fraud/scam transactions so they won’t send it through so they won’t send it even if I say so", "who": "Lauren Blake", "date": "2026-08-31"},
+        {"quote": "They said that the name ALTR mgmt LLC is not matching the name on the account even though the numbers are", "who": "Lauren Blake", "date": "2026-08-31"},
+        {"quote": "Thanks so much so so sorry for the difficulties!", "who": "Stephski", "date": "2026-09-01"}
+      ],
+      "quotes": [
+        {"quote": "Just got off the phone with Chase", "who": "Lauren Blake", "date": "2026-08-31"},
+        {"quote": "They said that the name ALTR mgmt LLC is not matching the name on the account even though the numbers are", "who": "Lauren Blake", "date": "2026-08-31"},
+        {"quote": "And your account was flagged by Chase for fraud/scam transactions so they won’t send it through so they won’t send it even if I say so", "who": "Lauren Blake", "date": "2026-08-31"},
+        {"quote": "Thanks so much so so sorry for the difficulties!", "who": "Stephski", "date": "2026-09-01"},
+        {"quote": "going to shoot you new invoice here in a moment for last period", "who": "Stephski", "date": "2026-09-01"}
+      ]
+    },
+    {
+      "issue": "The payment rail is still broken and the client is carrying the workaround. Wires cannot be sent at all, so she is now paying every invoice in daily $5k Zelle installments - three of them for invoice 2 (Aug 31, Sep 1, Sep 2) and already the first for invoice 3 on Sep 3. She proposed the workaround herself and asked on Sep 3 to have the account name matched so she would not have to keep splitting payments. Twenty days after ALTR changed the account details on the Aug 15 invoice, ALTR has still not issued a corrected, complete set of receiving-bank details.",
+      "status": "in_progress",
+      "first_raised": "2026-08-24",
+      "owner": "Stephski",
+      "severity": "high",
+      "days_open": 11,
+      "evidence": [
+        {"quote": "Sent the first Zelle instead. It’s my limit so I’ll do 5k tomorrow then 4103 the next day", "who": "Lauren Blake", "date": "2026-08-31"},
+        {"quote": "3/3 Zelle for last invoice", "who": "Lauren Blake", "date": "2026-09-02"},
+        {"quote": "Can you confirm the name of the account? Chase said the reason why I can’t wire is because the name on the invoice does not match the name on the account. If we can get that matched up then I don’t have to send individual Zelle’s", "who": "Lauren Blake", "date": "2026-09-03"}
+      ],
+      "quotes": [
+        {"quote": "Hey just fyi my bank sent me this just now from the wire on Friday", "who": "Lauren Blake", "date": "2026-08-24"},
+        {"quote": "Just resent and says it’s under review again", "who": "Lauren Blake", "date": "2026-08-27"},
+        {"quote": "Sent the first Zelle instead. It’s my limit so I’ll do 5k tomorrow then 4103 the next day", "who": "Lauren Blake", "date": "2026-08-31"},
+        {"quote": "3/3 Zelle for last invoice", "who": "Lauren Blake", "date": "2026-09-02"},
+        {"quote": "Can you confirm the name of the account? Chase said the reason why I can’t wire is because the name on the invoice does not match the name on the account. If we can get that matched up then I don’t have to send individual Zelle’s", "who": "Lauren Blake", "date": "2026-09-03"}
+      ]
+    },
+    {
+      "issue": "Owner absence at the exact moment it mattered. Derrek sent six messages the previous week, every one chasing the wire he was owed. In this window - the week ALTR's own banking was exposed as the cause, the week the client reported a fraud flag on his company account, and the week a third invoice carrying the unevidenced 5% ads fee went out - he sent zero. The phone-farm updates he promised on Aug 1 are 34 days overdue and the ad-stats call is 32.",
+      "status": "recurring",
+      "first_raised": "2026-08-01",
+      "owner": "Derrek",
+      "severity": "high",
+      "days_open": 34,
+      "evidence": [
+        {"quote": "we will have plenty of updates starting next week.", "who": "Derrek", "date": "2026-08-01"},
+        {"quote": "Still haven’t received on our end", "who": "Derrek", "date": "2026-08-27"},
+        {"quote": "And your account was flagged by Chase for fraud/scam transactions so they won’t send it through so they won’t send it even if I say so", "who": "Lauren Blake", "date": "2026-08-31"}
+      ],
+      "quotes": [
+        {"quote": "we will have plenty of updates starting next week.", "who": "Derrek", "date": "2026-08-01"},
+        {"quote": "Still haven’t received on our end", "who": "Derrek", "date": "2026-08-27"},
+        {"quote": "And your account was flagged by Chase for fraud/scam transactions so they won’t send it through so they won’t send it even if I say so", "who": "Lauren Blake", "date": "2026-08-31"}
+      ]
+    },
+    {
+      "issue": "Financial transparency on the 5% paid-ads fee. She asked for the Meta ad reports on Aug 3, Stephski promised a call from Derrek, the call never happened, and on Sep 1 the fee rode onto a third invoice with no report ever produced. Thirty-two days. The ads she signed up for on Jul 6 are 60 days from purchase and the last answer she got, on Aug 18, was that the page is running regular reels.",
+      "status": "recurring",
+      "first_raised": "2026-08-03",
+      "owner": "Derrek / Stephski",
+      "severity": "high",
+      "days_open": 32,
+      "evidence": [
+        {"quote": "I’d like to see the ad reports of the 5% being spent on meta", "who": "Lauren Blake", "date": "2026-08-03"},
+        {"quote": "You're welcome! Derreks going to give you a ring and walk you through your current ad stats 🙂", "who": "Stephski", "date": "2026-08-03"},
+        {"quote": "Also happy September! Here is your invoice for the period of August 15-31 ❤️", "who": "Stephski", "date": "2026-09-01"}
+      ],
+      "quotes": [
+        {"quote": "I’d like to see the ad reports of the 5% being spent on meta", "who": "Lauren Blake", "date": "2026-08-03"},
+        {"quote": "You're welcome! Derreks going to give you a ring and walk you through your current ad stats 🙂", "who": "Stephski", "date": "2026-08-03"},
+        {"quote": "right now it’s regular reels, ads will be ran as well so the page will kick off 🚀 continue to send over videos as you create them babes", "who": "Michelle Queue", "date": "2026-08-18"},
+        {"quote": "Also happy September! Here is your invoice for the period of August 15-31 ❤️", "who": "Stephski", "date": "2026-09-01"}
+      ]
+    },
+    {
+      "issue": "Account-management vacuum, third consecutive week. Ollie Mckinlay owns chatting, customs, whale strategy and five open items; he sent two messages in seven days and both were requests of her - a fan follow on Aug 30 and \"Hey Lauren, where are the new pictures?\" on Sep 4. One message last week, two this week, and not one of his five items was touched. Mayson had to @-mention Stephski on Sep 3 to get the client an answer, the fifth week running that Mayson is this account's de facto safety net.",
+      "status": "recurring",
+      "first_raised": "2026-08-22",
+      "owner": "Ollie Mckinlay",
+      "severity": "high",
+      "days_open": 13,
+      "evidence": [
+        {"quote": "Hey Lauren please follow this guy on Instagram - he paid $800 for the follow and total spent is 13k", "who": "Ollie Mckinlay", "date": "2026-08-30"},
+        {"quote": "Hey Lauren, where are the new pictures?", "who": "Ollie Mckinlay", "date": "2026-09-04"},
+        {"quote": "@stephskiii ^^", "who": "Mayson Chat", "date": "2026-09-03"}
+      ],
+      "quotes": [
+        {"quote": "Hey Lauren please follow this guy on Instagram - he paid $800 for the follow and total spent is 13k", "who": "Ollie Mckinlay", "date": "2026-08-30"},
+        {"quote": "Hey Lauren, where are the new pictures?", "who": "Ollie Mckinlay", "date": "2026-09-04"},
+        {"quote": "@stephskiii ^^", "who": "Mayson Chat", "date": "2026-09-03"}
+      ]
+    },
+    {
+      "issue": "Content-boundary confirmation still not delivered in writing, 33 days on. She banned topless-with-face on Aug 1, Ollie said \"Will get this sorted\" on Aug 2, a topless-JOI-with-face custom was sold anyway and reached her sheet, and she restated the boundary a third time on Aug 18. There is still no written confirmation that chatter scripts, custom intake or diamond-tier pricing were changed. Untouched again this week, and she is now back from travel so queued customs will land against unchanged intake rules.",
+      "status": "recurring",
+      "first_raised": "2026-08-01",
+      "owner": "Ollie Mckinlay",
+      "severity": "high",
+      "days_open": 34,
+      "evidence": [
+        {"quote": "When I do topless, it’s no face, no sound. I don’t do it any other way", "who": "Lauren Blake", "date": "2026-08-01"},
+        {"quote": "Will get this sorted", "who": "Ollie Mckinlay", "date": "2026-08-02"},
+        {"quote": "The second one is topless Joi with face. I already told yall anything topless is mute just music and faceless. So does he want a regular joi with face? Or a topless vid how I explained", "who": "Lauren Blake", "date": "2026-08-14"}
+      ],
+      "quotes": [
+        {"quote": "When I do topless, it’s no face, no sound. I don’t do it any other way", "who": "Lauren Blake", "date": "2026-08-01"},
+        {"quote": "Okay no worries, I have passed this on and will be in contact with chatters", "who": "Ollie Mckinlay", "date": "2026-08-02"},
+        {"quote": "Will get this sorted", "who": "Ollie Mckinlay", "date": "2026-08-02"},
+        {"quote": "The second one is topless Joi with face. I already told yall anything topless is mute just music and faceless. So does he want a regular joi with face? Or a topless vid how I explained", "who": "Lauren Blake", "date": "2026-08-14"}
+      ]
+    },
+    {
+      "issue": "Whale retention. 13 of her 24 whales - 59% of revenue - ghosted since takeover. She personally messaged every top spender on Aug 7 and has now waited 28 days for the list-level reactivation result she asked for on the only strategy call this account has ever had. Untouched for a third straight week.",
+      "status": "recurring",
+      "first_raised": "2026-08-06",
+      "owner": "Ollie Mckinlay",
+      "severity": "high",
+      "days_open": 29,
+      "evidence": [
+        {"quote": "24 whales, 13 ghosted since takeover. Strategy to wake them and keep them happy (they made 59% of rev)", "who": "Lauren Blake", "date": "2026-08-06"},
+        {"quote": "Just sent out all the personalized messages", "who": "Lauren Blake", "date": "2026-08-07"}
+      ],
+      "quotes": [
+        {"quote": "24 whales, 13 ghosted since takeover. Strategy to wake them and keep them happy (they made 59% of rev)", "who": "Lauren Blake", "date": "2026-08-06"},
+        {"quote": "Just sent out all the personalized messages", "who": "Lauren Blake", "date": "2026-08-07"}
+      ]
+    },
+    {
+      "issue": "The livestream is now dead for 14 days. Ollie ran a subscriber poll on Aug 18 and pulled it forward specifically so she could go live that weekend; she committed to Friday or Saturday, it slipped on Aug 21, and neither side has mentioned it once since. She is back from Mexico as of roughly Sep 3 - the re-booking window is open right now and nobody has proposed a date.",
+      "status": "recurring",
+      "first_raised": "2026-08-21",
+      "owner": "Ollie Mckinlay",
+      "severity": "medium",
+      "days_open": 14,
+      "evidence": [
+        {"quote": "Okay I can go live Friday or Saturday I will let you know a couple hours before", "who": "Lauren Blake", "date": "2026-08-20"},
+        {"quote": "Okay I will let you know. Today and tomorrow will no longer work. Sometime this week or weekend will do", "who": "Lauren Blake", "date": "2026-08-21"}
+      ],
+      "quotes": [
+        {"quote": "Okay I can go live Friday or Saturday I will let you know a couple hours before", "who": "Lauren Blake", "date": "2026-08-20"},
+        {"quote": "Okay I will let you know. Today and tomorrow will no longer work. Sometime this week or weekend will do", "who": "Lauren Blake", "date": "2026-08-21"}
+      ]
+    },
+    {
+      "issue": "The CodyBeebs proof screenshot. A fan was caught redistributing her paid content; she asked for the evidence on Aug 17, Ollie replied \"Yes Ill get that for you\" on Aug 18, and 17 days later nothing has been sent and there has been no update on whether the $2k apology push landed. Two consecutive escalation triggers have now passed in silence. It is one file, on her most emotive priority.",
+      "status": "recurring",
+      "first_raised": "2026-08-17",
+      "owner": "Ollie Mckinlay",
+      "severity": "medium",
+      "days_open": 18,
+      "evidence": [
+        {"quote": "Can I see the screenshot of him sending my content please?", "who": "Lauren Blake", "date": "2026-08-17"},
+        {"quote": "Yes Ill get that for you", "who": "Ollie Mckinlay", "date": "2026-08-18"}
+      ],
+      "quotes": [
+        {"quote": "Can I see the screenshot of him sending my content please?", "who": "Lauren Blake", "date": "2026-08-17"},
+        {"quote": "Yes Ill get that for you", "who": "Ollie Mckinlay", "date": "2026-08-18"}
+      ]
+    },
+    {
+      "issue": "Content-tracking hygiene, third documented instance. On Aug 31 she wrote \"Uploaded some new pics\"; on Sep 4 Ollie asked \"Hey Lauren, where are the new pictures?\". This follows the Aug 14 customs sheet where the reference media did not attach and the Aug 18 confusion over which delivered video belonged to Derek and which to Roh. She keeps supplying content on time and ALTR keeps losing track of where it is.",
+      "status": "recurring",
+      "first_raised": "2026-08-14",
+      "owner": "Ollie Mckinlay",
+      "severity": "low",
+      "days_open": 21,
+      "evidence": [
+        {"quote": "Uploaded some new pics", "who": "Lauren Blake", "date": "2026-08-31"},
+        {"quote": "Hey Lauren, where are the new pictures?", "who": "Ollie Mckinlay", "date": "2026-09-04"}
+      ],
+      "quotes": [
+        {"quote": "The first one says “images and video attached” but there’s nothing there", "who": "Lauren Blake", "date": "2026-08-14"},
+        {"quote": "Or is it for Roh as they were both fairly similar", "who": "Ollie Mckinlay", "date": "2026-08-18"},
+        {"quote": "Uploaded some new pics", "who": "Lauren Blake", "date": "2026-08-31"},
+        {"quote": "Hey Lauren, where are the new pictures?", "who": "Ollie Mckinlay", "date": "2026-09-04"}
+      ]
+    }
+  ],
+  "commitments": [
+    {
+      "what": "Send Lauren one standalone message with the complete, corrected receiving-bank details (beneficiary name exactly as registered, routing/SWIFT, registered address) and get ALTR's account cleared of the Chase fraud flag so wires work again",
+      "who": "Stephski (with Derrek)",
+      "date": "2026-08-15",
+      "status": "overdue",
+      "days_outstanding": 20,
+      "note": "Third week as the top recommendation. Partially and belatedly addressed: after two asks and a Mayson @-mention, Stephski gave the account name on Sep 3 at 22:32 - four hours twenty minutes after the ask, with nothing else and no corrected invoice. The fraud flag has never been acknowledged at all.",
+      "evidence": [
+        {"quote": "They said that the name ALTR mgmt LLC is not matching the name on the account even though the numbers are", "who": "Lauren Blake", "date": "2026-08-31"},
+        {"quote": "Can you confirm the name of the account? Chase said the reason why I can’t wire is because the name on the invoice does not match the name on the account. If we can get that matched up then I don’t have to send individual Zelle’s", "who": "Lauren Blake", "date": "2026-09-03"},
+        {"quote": "The name on the account is ALTR MANAGEMENT LLC", "who": "Stephski", "date": "2026-09-03"}
+      ],
+      "quotes": [
+        {"quote": "Please note an update to the account number, please try and send using the information on the invoice.", "who": "Stephski", "date": "2026-08-15"},
+        {"quote": "And your account was flagged by Chase for fraud/scam transactions so they won’t send it through so they won’t send it even if I say so", "who": "Lauren Blake", "date": "2026-08-31"},
+        {"quote": "The name on the account is ALTR MANAGEMENT LLC", "who": "Stephski", "date": "2026-09-03"}
+      ]
+    },
+    {
+      "what": "Derrek to call Lauren and walk her through the Meta ad stats behind the 5% paid-ads fee (promised via Stephski on Aug 3)",
+      "who": "Derrek (promised via Stephski)",
+      "date": "2026-08-03",
+      "status": "overdue",
+      "days_outstanding": 32,
+      "note": "Escalated from 25 days. Invoice 3 was issued on Sep 1 with the fee and no report. Derrek sent no messages at all this week.",
+      "evidence": [
+        {"quote": "You're welcome! Derreks going to give you a ring and walk you through your current ad stats 🙂", "who": "Stephski", "date": "2026-08-03"},
+        {"quote": "Thank you! Tell him to call tomorrow pls :) I’m very Jet lag today first day back 😵‍💫", "who": "Lauren Blake", "date": "2026-08-03"}
+      ],
+      "quotes": [
+        {"quote": "You're welcome! Derreks going to give you a ring and walk you through your current ad stats 🙂", "who": "Stephski", "date": "2026-08-03"},
+        {"quote": "Thank you! Tell him to call tomorrow pls :) I’m very Jet lag today first day back 😵‍💫", "who": "Lauren Blake", "date": "2026-08-03"}
+      ]
+    },
+    {
+      "what": "Update chatter pricing and scripts to her boundaries (topless only, no face, no sound, diamond-tier pricing; no porn/sex-tape/anal offers) and confirm back to her in writing",
+      "who": "Ollie Mckinlay",
+      "date": "2026-08-02",
+      "status": "overdue",
+      "days_outstanding": 33,
+      "note": "Escalated from 26 days. Fourth consecutive week with no written confirmation. She is back from travel now and queued customs will land against unchanged intake rules.",
+      "evidence": [
+        {"quote": "Okay no worries, I have passed this on and will be in contact with chatters", "who": "Ollie Mckinlay", "date": "2026-08-02"},
+        {"quote": "Will get this sorted", "who": "Ollie Mckinlay", "date": "2026-08-02"}
+      ],
+      "quotes": [
+        {"quote": "Okay no worries, I have passed this on and will be in contact with chatters", "who": "Ollie Mckinlay", "date": "2026-08-02"},
+        {"quote": "Will get this sorted", "who": "Ollie Mckinlay", "date": "2026-08-02"}
+      ]
+    },
+    {
+      "what": "Regular updates on the $40k IG phone-farm rollout, promised to start the week of Aug 3",
+      "who": "Derrek",
+      "date": "2026-08-01",
+      "status": "overdue",
+      "days_outstanding": 34,
+      "note": "Escalated from 27 days. Five weeks, zero updates, and this week zero messages of any kind from Derrek.",
+      "evidence": [
+        {"quote": "we will have plenty of updates starting next week.", "who": "Derrek", "date": "2026-08-01"}
+      ],
+      "quotes": [
+        {"quote": "we will have plenty of updates starting next week.", "who": "Derrek", "date": "2026-08-01"}
+      ]
+    },
+    {
+      "what": "Report whale-reactivation results back to her after she personally messaged all 24 top spenders on Aug 7",
+      "who": "Ollie Mckinlay",
+      "date": "2026-08-07",
+      "status": "overdue",
+      "days_outstanding": 28,
+      "note": "Escalated from 21 days. Four weeks since she completed her half. The first agenda item from the only strategy call this account has ever had.",
+      "evidence": [
+        {"quote": "24 whales, 13 ghosted since takeover. Strategy to wake them and keep them happy (they made 59% of rev)", "who": "Lauren Blake", "date": "2026-08-06"},
+        {"quote": "Just sent out all the personalized messages", "who": "Lauren Blake", "date": "2026-08-07"}
+      ],
+      "quotes": [
+        {"quote": "24 whales, 13 ghosted since takeover. Strategy to wake them and keep them happy (they made 59% of rev)", "who": "Lauren Blake", "date": "2026-08-06"},
+        {"quote": "Just sent out all the personalized messages", "who": "Lauren Blake", "date": "2026-08-07"}
+      ]
+    },
+    {
+      "what": "Send Lauren the screenshot proving CodyBeebs redistributed her content, and report on the $2k apology push",
+      "who": "Ollie Mckinlay",
+      "date": "2026-08-18",
+      "status": "overdue",
+      "days_outstanding": 17,
+      "note": "Escalated from 10 days. Two escalation triggers have now passed in silence. Cheapest close on the board.",
+      "evidence": [
+        {"quote": "Can I see the screenshot of him sending my content please?", "who": "Lauren Blake", "date": "2026-08-17"},
+        {"quote": "Yes Ill get that for you", "who": "Ollie Mckinlay", "date": "2026-08-18"}
+      ],
+      "quotes": [
+        {"quote": "Can I see the screenshot of him sending my content please?", "who": "Lauren Blake", "date": "2026-08-17"},
+        {"quote": "Yes Ill get that for you", "who": "Ollie Mckinlay", "date": "2026-08-18"}
+      ]
+    },
+    {
+      "what": "Confirm back to Lauren, with evidence, whether OnlyFans stories are actually being posted - her own suggestion from her previous team's playbook",
+      "who": "Michelle (Promo team) / Ollie Mckinlay",
+      "date": "2026-08-22",
+      "status": "overdue",
+      "days_outstanding": 13,
+      "note": "Escalated from pending. Michelle said she would confirm and has not, through two full weeks.",
+      "evidence": [
+        {"quote": "Also, do you guys do stories for only fans? My previous team would always keep a story alive and found that it helped bring a few fans in because it’s top of mind at their feed.", "who": "Lauren Blake", "date": "2026-08-22"},
+        {"quote": "a story post on onlyfans? the team should be uploading on there I can confirm", "who": "Michelle Queue", "date": "2026-08-22"}
+      ],
+      "quotes": [
+        {"quote": "Also, do you guys do stories for only fans? My previous team would always keep a story alive and found that it helped bring a few fans in because it’s top of mind at their feed.", "who": "Lauren Blake", "date": "2026-08-22"},
+        {"quote": "a story post on onlyfans? the team should be uploading on there I can confirm", "who": "Michelle Queue", "date": "2026-08-22"}
+      ]
+    },
+    {
+      "what": "Re-book the livestream Ollie built the subscriber poll for, with ALTR proposing dates now that she is back from LA and Mexico",
+      "who": "Ollie Mckinlay (with Lauren Blake)",
+      "date": "2026-08-21",
+      "status": "overdue",
+      "days_outstanding": 14,
+      "note": "Neither side has mentioned it in 14 days. A scheduled revenue event abandoned by the person who scheduled it.",
+      "evidence": [
+        {"quote": "Okay I can go live Friday or Saturday I will let you know a couple hours before", "who": "Lauren Blake", "date": "2026-08-20"},
+        {"quote": "Okay I will let you know. Today and tomorrow will no longer work. Sometime this week or weekend will do", "who": "Lauren Blake", "date": "2026-08-21"}
+      ],
+      "quotes": [
+        {"quote": "Okay I can go live Friday or Saturday I will let you know a couple hours before", "who": "Lauren Blake", "date": "2026-08-20"},
+        {"quote": "Okay I will let you know. Today and tomorrow will no longer work. Sometime this week or weekend will do", "who": "Lauren Blake", "date": "2026-08-21"}
+      ]
+    },
+    {
+      "what": "Client-side: shoot and deliver the third custom on the sheet",
+      "who": "Lauren Blake (requested by Ollie Mckinlay)",
+      "date": "2026-08-15",
+      "status": "overdue",
+      "days_outstanding": 20,
+      "note": "Still undelivered and still never once chased by Ollie in 20 days, including in the two messages he did send this week.",
+      "evidence": [
+        {"quote": "Ok thank you. I uploaded two and the other one I will shoot soon", "who": "Lauren Blake", "date": "2026-08-15"}
+      ],
+      "quotes": [
+        {"quote": "Ok thank you. I uploaded two and the other one I will shoot soon", "who": "Lauren Blake", "date": "2026-08-15"}
+      ]
+    },
+    {
+      "what": "Client-side: settle invoice 2 - done in three daily Zelle installments on Aug 31, Sep 1 and Sep 2 after both wire attempts were blocked by ALTR's banking details",
+      "who": "Lauren Blake",
+      "date": "2026-09-02",
+      "status": "done",
+      "days_outstanding": 0,
+      "note": "Eighteen days from issue, none of it her fault. She designed the workaround, announced the schedule in advance and hit it exactly, from LA and Mexico.",
+      "evidence": [
+        {"quote": "Sent the first Zelle instead. It’s my limit so I’ll do 5k tomorrow then 4103 the next day", "who": "Lauren Blake", "date": "2026-08-31"},
+        {"quote": "3/3 Zelle for last invoice", "who": "Lauren Blake", "date": "2026-09-02"}
+      ],
+      "quotes": [
+        {"quote": "Sent the first Zelle instead. It’s my limit so I’ll do 5k tomorrow then 4103 the next day", "who": "Lauren Blake", "date": "2026-08-31"},
+        {"quote": "Today Zelle", "who": "Lauren Blake", "date": "2026-09-01"},
+        {"quote": "Recieved!", "who": "Stephski", "date": "2026-09-01"},
+        {"quote": "3/3 Zelle for last invoice", "who": "Lauren Blake", "date": "2026-09-02"}
+      ]
+    },
+    {
+      "what": "Client-side: follow the $13k fan R0d1905 on Instagram (he paid $800 for the follow)",
+      "who": "Lauren Blake (requested by Ollie Mckinlay)",
+      "date": "2026-08-31",
+      "status": "done",
+      "days_outstanding": 0,
+      "note": "Asked Aug 30 morning, done by Aug 31 afternoon while she was in LA, and she went past the ask.",
+      "evidence": [
+        {"quote": "Hey Lauren please follow this guy on Instagram - he paid $800 for the follow and total spent is 13k", "who": "Ollie Mckinlay", "date": "2026-08-30"},
+        {"quote": "Followed :)", "who": "Lauren Blake", "date": "2026-08-31"},
+        {"quote": "Liked a few pics too", "who": "Lauren Blake", "date": "2026-08-31"}
+      ],
+      "quotes": [
+        {"quote": "Hey Lauren please follow this guy on Instagram - he paid $800 for the follow and total spent is 13k", "who": "Ollie Mckinlay", "date": "2026-08-30"},
+        {"quote": "Followed :)", "who": "Lauren Blake", "date": "2026-08-31"},
+        {"quote": "Liked a few pics too", "who": "Lauren Blake", "date": "2026-08-31"}
+      ]
+    },
+    {
+      "what": "Weekly DMCA / leak-removal report - delivered on time again on Sep 1, unchased",
+      "who": "Michelle (Promo team)",
+      "date": "2026-09-01",
+      "status": "done",
+      "days_outstanding": 0,
+      "note": "Seventh consecutive week, unbroken since Jul 17. Still the only service line on this account that has never needed a reminder.",
+      "evidence": [
+        {"quote": "Hi love! Here’s your weekly update on the leak removal breakdown for the past 7 days 💕", "who": "Michelle Queue", "date": "2026-09-01"}
+      ],
+      "quotes": [
+        {"quote": "Hi love! Here’s your weekly update on the leak removal breakdown for the past 7 days 💕", "who": "Michelle Queue", "date": "2026-09-01"}
+      ]
+    },
+    {
+      "what": "Confirm the exact registered name on ALTR's bank account so the wire rail can be repaired",
+      "who": "Stephski",
+      "date": "2026-09-03",
+      "status": "done",
+      "days_outstanding": 0,
+      "note": "Answered, but the process is the finding: she raised the mismatch on Aug 31 and got nothing, had to ask directly on Sep 3, Mayson had to @-mention Stephski, and the reply came 4h20m later as a single line with no routing/SWIFT, no registered address and no corrected invoice. The underlying rail is still broken.",
+      "evidence": [
+        {"quote": "Can you confirm the name of the account? Chase said the reason why I can’t wire is because the name on the invoice does not match the name on the account. If we can get that matched up then I don’t have to send individual Zelle’s", "who": "Lauren Blake", "date": "2026-09-03"},
+        {"quote": "The name on the account is ALTR MANAGEMENT LLC", "who": "Stephski", "date": "2026-09-03"}
+      ],
+      "quotes": [
+        {"quote": "Can you confirm the name of the account? Chase said the reason why I can’t wire is because the name on the invoice does not match the name on the account. If we can get that matched up then I don’t have to send individual Zelle’s", "who": "Lauren Blake", "date": "2026-09-03"},
+        {"quote": "@stephskiii ^^", "who": "Mayson Chat", "date": "2026-09-03"},
+        {"quote": "The name on the account is ALTR MANAGEMENT LLC", "who": "Stephski", "date": "2026-09-03"}
+      ]
+    }
+  ],
+  "payments": [
+    {
+      "note": "ROOT CAUSE FOUND - BY THE CLIENT. On Aug 31, after two failed wires and six ALTR chase messages, Lauren phoned Chase herself and reported two things: the beneficiary name on ALTR's invoice does not match the registered account name even though the numbers do, and ALTR's account has been flagged by Chase for fraud/scam transactions, so Chase will not release the wire even with her authorisation. No ALTR staff member has acknowledged the fraud flag in the four days since - Stephski's next messages were an apology for \"the difficulties\" and notice that invoice 3 was coming. This is a company-wide banking defect, not a Lauren defect: every US client wiring from Chase is exposed to it.",
+      "amount": null,
+      "date": "2026-08-31",
+      "invoice_period": "2026-08-01 to 2026-08-14",
+      "late": true,
+      "days_late": 16,
+      "reason": "ALTR changed the receiving account number on the Aug 15 invoice and never re-confirmed the full beneficiary details; the name on the invoice does not match the registered account, and the account itself is flagged by Chase.",
+      "suggested_fix": "Derrek personally: get ALTR MANAGEMENT LLC cleared with Chase and confirm to Lauren in writing when the wire rail is usable. Stephski: reissue the invoice template with the beneficiary name spelled exactly as registered plus routing/SWIFT and registered address. Until both are done, do not ask her to wire anything.",
+      "evidence": [
+        {"quote": "They said that the name ALTR mgmt LLC is not matching the name on the account even though the numbers are", "who": "Lauren Blake", "date": "2026-08-31"},
+        {"quote": "And your account was flagged by Chase for fraud/scam transactions so they won’t send it through so they won’t send it even if I say so", "who": "Lauren Blake", "date": "2026-08-31"},
+        {"quote": "Thanks so much so so sorry for the difficulties!", "who": "Stephski", "date": "2026-09-01"}
+      ],
+      "quotes": [
+        {"quote": "Hi Lauren are you able to call bank today to verify payment?", "who": "Stephski", "date": "2026-08-31"},
+        {"quote": "Yes, I will call when I finish up. I called on Saturday, but they said they were already closed on the East Coast cause I have to speak to an expert to verify the information for the wire.", "who": "Lauren Blake", "date": "2026-08-31"},
+        {"quote": "Just got off the phone with Chase", "who": "Lauren Blake", "date": "2026-08-31"},
+        {"quote": "They said that the name ALTR mgmt LLC is not matching the name on the account even though the numbers are", "who": "Lauren Blake", "date": "2026-08-31"},
+        {"quote": "And your account was flagged by Chase for fraud/scam transactions so they won’t send it through so they won’t send it even if I say so", "who": "Lauren Blake", "date": "2026-08-31"},
+        {"quote": "Thanks so much so so sorry for the difficulties!", "who": "Stephski", "date": "2026-09-01"},
+        {"quote": "going to shoot you new invoice here in a moment for last period", "who": "Stephski", "date": "2026-09-01"}
+      ]
+    },
+    {
+      "note": "INVOICE 2 SETTLED - 18 days after issue, in three daily Zelle installments the client designed herself because the wire rail is unusable. Aug 31: the first Zelle at her limit, with the rest of the schedule announced in advance. Sep 1: \"Today Zelle\" and \"Tomorrow will be 4403\", with Stephski confirming \"Recieved!\". Sep 2: \"3/3 Zelle for last invoice\". She executed the whole thing from LA and Mexico and apologised for the delay along the way. Log the rail as broken, not the client as slow - her payment intent has been flawless on all three invoices.",
+      "amount": "three daily Zelle installments at her $5k limit; she stated the schedule as 5k, then 5k, then \"4103\"/\"4403\"",
+      "date": "2026-09-02",
+      "invoice_period": "2026-08-01 to 2026-08-14",
+      "late": true,
+      "days_late": 18,
+      "reason": "ALTR-caused. Two wires rejected against the account details ALTR changed on Aug 15; the invoice beneficiary name does not match the registered account and the account is flagged by Chase for fraud/scam transactions.",
+      "suggested_fix": "Acknowledge in writing that this was ALTR's failure and not hers - she apologised twice for a delay she did not cause - and consider a goodwill credit for five payment attempts across two rails.",
+      "evidence": [
+        {"quote": "Sent the first Zelle instead. It’s my limit so I’ll do 5k tomorrow then 4103 the next day", "who": "Lauren Blake", "date": "2026-08-31"},
+        {"quote": "3/3 Zelle for last invoice", "who": "Lauren Blake", "date": "2026-09-02"},
+        {"quote": "It’s all good sorry for the delay. I’ll get it handled today", "who": "Lauren Blake", "date": "2026-08-31"}
+      ],
+      "quotes": [
+        {"quote": "It’s all good sorry for the delay. I’ll get it handled today", "who": "Lauren Blake", "date": "2026-08-31"},
+        {"quote": "Sent the first Zelle instead. It’s my limit so I’ll do 5k tomorrow then 4103 the next day", "who": "Lauren Blake", "date": "2026-08-31"},
+        {"quote": "Today Zelle", "who": "Lauren Blake", "date": "2026-09-01"},
+        {"quote": "Tomorrow will be 4403", "who": "Lauren Blake", "date": "2026-09-01"},
+        {"quote": "Recieved!", "who": "Stephski", "date": "2026-09-01"},
+        {"quote": "3/3 Zelle for last invoice", "who": "Lauren Blake", "date": "2026-09-02"},
+        {"quote": "Thanks so much :)", "who": "Stephski", "date": "2026-09-03"}
+      ]
+    },
+    {
+      "note": "INVOICE 3 issued Sep 1 for the period Aug 15-31 - note the period runs to the 31st, not the 28th. It was pre-warned on Aug 30 while invoice 2 was still unsettled and sent at 17:10 on Sep 1, minutes after her second Zelle landed. She sent the first $5k against it on Sep 3, two days after receipt, and used the same message to ask again for the account name so she could stop splitting payments. No Meta ad report accompanied it, so the 5% paid-ads fee has now ridden three consecutive invoices with zero evidence produced in 32 days.",
+      "amount": "first $5k installment paid 2026-09-03",
+      "date": "2026-09-01",
+      "invoice_period": "2026-08-15 to 2026-08-31",
+      "late": false,
+      "days_late": 0,
+      "reason": null,
+      "suggested_fix": "Attach the Meta ad-spend report to this invoice retroactively before asking for the remaining balance, and give her a single wire she can send once the Chase flag is cleared.",
+      "evidence": [
+        {"quote": "Also happy September! Here is your invoice for the period of August 15-31 ❤️", "who": "Stephski", "date": "2026-09-01"},
+        {"quote": "First 5k sent here", "who": "Lauren Blake", "date": "2026-09-03"},
+        {"quote": "Can you confirm the name of the account? Chase said the reason why I can’t wire is because the name on the invoice does not match the name on the account. If we can get that matched up then I don’t have to send individual Zelle’s", "who": "Lauren Blake", "date": "2026-09-03"}
+      ],
+      "quotes": [
+        {"quote": "Yes let us know, as we arent seeing anything on our side still, and just want to remind that another invoice comes Tuesday 🙏", "who": "Stephski", "date": "2026-08-30"},
+        {"quote": "Also happy September! Here is your invoice for the period of August 15-31 ❤️", "who": "Stephski", "date": "2026-09-01"},
+        {"quote": "First 5k sent here", "who": "Lauren Blake", "date": "2026-09-03"},
+        {"quote": "Can you confirm the name of the account? Chase said the reason why I can’t wire is because the name on the invoice does not match the name on the account. If we can get that matched up then I don’t have to send individual Zelle’s", "who": "Lauren Blake", "date": "2026-09-03"}
+      ]
+    },
+    {
+      "note": "Reference baseline, unchanged: invoice 1 (period Jul 6-31) was issued Aug 3, she wired on Aug 6 and volunteered the confirmation screenshot unprompted, and Stephski acknowledged receipt on Aug 9. Three days, zero chasing, one rail. That is what this client does when the banking details work.",
+      "amount": null,
+      "date": "2026-08-09",
+      "invoice_period": "2026-07-06 to 2026-07-31",
+      "late": false,
+      "days_late": 0,
+      "reason": null,
+      "evidence": [
+        {"quote": "Wire sent", "who": "Lauren Blake", "date": "2026-08-06"},
+        {"quote": "Thank you love!!", "who": "Stephski", "date": "2026-08-09"}
+      ],
+      "quotes": [
+        {"quote": "Wire sent", "who": "Lauren Blake", "date": "2026-08-06"},
+        {"quote": "Thank you love!!", "who": "Stephski", "date": "2026-08-09"}
+      ]
+    }
+  ],
+  "client_priorities": [
+    "Financial transparency and clean money operations: Meta ad-spend evidence for the 5% fee (32 days unanswered, now on a third invoice), chargeback accounting, and invoices whose payment details actually work. This is the sharpest edge on the account and it now includes a fraud flag on ALTR's own bank account.",
+    "Whale/top-spender retention - 24 whales, 13 ghosted since takeover, 59% of revenue. She tracks them personally and moves within hours on a named opportunity (followed the $13k fan R0d1905 within ~31 hours while in LA), but she is 28 days out from the list-level reactivation report she asked for.",
+    "Traffic growth: the IG page performing, the trial-reel method she was promised at onboarding, and the paid ads she signed up for on Jul 6 launching with visible results. 60 days and counting.",
+    "Hard content boundaries: topless only, no face, no sound, diamond-tier ($8k) pricing; never porn, sex tapes or anal. Stated three times, violated once, still unconfirmed in writing after 33 days.",
+    "Content protection: weekly DMCA/leak reports (Michelle has never missed one) plus proof and follow-through when a fan is redistributing her content - the CodyBeebs screenshot is 17 days late.",
+    "Being told what is happening without having to ask. Four documented instances, and this week she had nothing to ask about because no service conversation happened at all.",
+    "Being treated as a collaborator: she brings tactics from her previous team (a live OnlyFans story), gives advance travel notice so fan messaging stays aligned, and routinely does more than she is asked. Engage with it or she will stop."
+  ],
+  "suggestions": [
+    "DERREK, PERSONALLY, THIS WEEK: get ALTR MANAGEMENT LLC cleared with Chase. A client's bank told her ALTR's account is flagged for fraud/scam transactions and blocked her wire outright. That is not a Lauren issue - it silently blocks every US client who banks with Chase, and it has now sat unacknowledged in the chat for four days. Then message her directly, name the problem, and confirm when the wire rail is usable again.",
+    "Fix the invoice template before the next invoice: beneficiary name spelled exactly as registered (ALTR MANAGEMENT LLC, not the abbreviated form Chase rejected), plus routing/SWIFT and the registered beneficiary address, in one standalone message. This has been the number-one recommendation for three consecutive weeks and is still not done.",
+    "Apologise in the right direction. She apologised to ALTR twice for a delay ALTR caused and made five payment attempts across two rails while travelling. A short personal note from Derrek plus a goodwill credit would cost almost nothing and would be the first thing this account has been given rather than asked for in over a month.",
+    "Send the Meta ad-spend report before asking for the balance of invoice 3. The 5% fee has now ridden three invoices across 32 days with no evidence and no call. If she ever disputes it, the record shows Derrek sending six messages in one week to collect and zero in the next when she needed him.",
+    "Escalate Ollie to a staffing decision, not a nudge. One message in week one, two in week two - both of them asks - while owning five items aged 33, 28, 20, 17 and 14 days. Derrek should require a written status on all five by Monday, or move the account.",
+    "Send the CodyBeebs screenshot today. Seventeen days, one file, two missed escalation triggers, and it sits on the priority she is most emotional about.",
+    "Re-book the livestream now. She is back from Mexico as of roughly Sep 3, Ollie already ran the subscriber poll for it, and it has gone 14 days without a mention. ALTR should propose two specific dates rather than wait for her.",
+    "Give her the whale-reactivation answer - a simple before/after on the 24-name list she handed over on Aug 7. Four weeks in, the number matters less than the fact she asked and got nothing.",
+    "Get the boundary confirmation in writing this week. She is back from travel, customs will land in a batch, and the intake rules that produced the first violation have not demonstrably changed in 33 days.",
+    "Build one canonical content index and answer \"where are the new pictures?\" properly. This is the third time ALTR has lost track of content she had already uploaded (Aug 14 sheet attachments, Aug 18 Derek/Roh mixup, Sep 4 pics). She is not the bottleneck; the intake is."
+  ],
+  "wins": [
+    "She solved ALTR's payment problem for ALTR. She phoned Chase, came back with both the name mismatch and the fraud flag, and handed over the exact diagnosis six chase messages and 16 days into the failure.",
+    "She settled invoice 2 in full - three daily Zelle installments on Aug 31, Sep 1 and Sep 2 - from LA and Mexico, having announced the schedule in advance and hit it exactly.",
+    "She started paying invoice 3 within two days of receiving it, on the same broken rail, without being asked.",
+    "She apologised for a delay that was not hers (\"It’s all good sorry for the delay. I’ll get it handled today\"). This client's goodwill is still intact and it is the main asset the account has left.",
+    "She turned around Ollie's $13k-fan follow request in about 31 hours while travelling and did more than asked: \"Followed :)\" then \"Liked a few pics too\".",
+    "She uploaded new content unprompted on Aug 31 - content supply has never once been the bottleneck on this account.",
+    "Michelle delivered the weekly leak-removal report on time and unchased on Sep 1, the seventh consecutive week since Jul 17, and Lauren thanked her for it.",
+    "Stephski's tone through the payment mess was right - \"Sorry that’s happening :( I know it’s frustrating and we appreciate you\" - and she acknowledged every installment same-day, even though the underlying fix never happened.",
+    "Mayson acted as the safety net for the fifth week running, @-mentioning Stephski on Sep 3 when the client's account-name question went unanswered."
+  ],
+  "week_stats": {
+    "messages": 32,
+    "client_messages": 18,
+    "team_messages": 14
+  }
+}

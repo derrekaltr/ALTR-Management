@@ -1,0 +1,121 @@
+{
+  "client": "Lilia",
+  "slug": "lilia-x-altr",
+  "status": "at_risk",
+  "status_reason": "Still at risk, still quietly. Since 10/9 we got better at the relationship side: Melissa sent the first written two-week earnings and performance report (10/9), kept the weekly leak-removal update going, pushed a reel across 23 repost accounts, and offered a call on her own initiative (10/15). Billing also improved: a reminder the day before the invoice (10/13), the 10/15 invoice on schedule, and the 'pausing' line taken out. The core problems got worse. Our chatters sent already-owned content to a third high spender (Matt, 10/13), and this time she told us 'So just leave it!'. That is her lowering her expectations, not the problem being fixed. Our own link-in-bio domain, which Mayson called 'completely safe' on 10/11, got her bio flagged on 10/12. Vivek came back after 49 days to say 'Send logins', then went silent again, and her shadowban question is still unanswered. Fred posted one message all week and still hasn't replied about the Halloween/Teddi plan (15 days). The owner has posted nothing in the chat for 30 days. Most recent client message 2026-10-15.",
+  "last_client_message": "2026-10-15",
+  "dimensions": {
+    "responsiveness": {
+      "severity": 2,
+      "internal_failure": "Easy messages get answered in minutes. Her two platform questions this week did not: 'Should I take down the link' took about 73h and was answered only when Mayson swapped the link, and 'Is me being shadowbanned going to effect it at all?' is still unanswered after 3 days. The 9/23 'What content has been deleted?' is still unanswered after 23 days.",
+      "evidence": [
+        {"quote": "Should I take down the link", "who": "Lilia - 5h after reporting the flag; Vivek replied 'Send logins', and the actual answer (domain taken down) came 10/15 22:02, ~73h later", "date": "2026-10-12"},
+        {"quote": "Is me being shadowbanned going to effect it at all? | The link I got flagged me yesterday", "who": "Lilia - unanswered as of export (10/16)", "date": "2026-10-13"},
+        {"quote": "What content has been deleted? | I'm confused about that", "who": "Lilia - still unanswered after 23 days", "date": "2026-09-23"}
+      ]
+    },
+    "follow_through": {
+      "severity": 3,
+      "internal_failure": "Promises still end at 'checking'. Fred's 10/13 'checking with the team now' on Matt has no result, his 9/23 'We'll check' on frumby is 23 days old, the chatter he said on 7/24 he would remove has never been named (84 days), and his 10/4 'push' on her new sets never had an outcome reported. New this week: Mayson promised the link 'won't get flagged' and it was flagged the next day.",
+      "evidence": [
+        {"quote": "Hey checking with the team now! Apologies", "who": "Fredo (Fred, OFM) - his only message this week; no result posted, and he took her 'leave it' as the end of it", "date": "2026-10-13"},
+        {"quote": "It routes through our own protected infrastructure before it ever reaches your page, it won’t get flagged and it’s completely safe.", "who": "Mayson Chat (Mayson) - she was flagged for the bio the next day", "date": "2026-10-11"},
+        {"quote": "New stuff looks great so we'll get a push on it", "who": "Fredo (Fred, OFM) - 12 days later he has reported no result or price, and her Halloween/Teddi plan (~$10k by her estimate) has had no specific reply", "date": "2026-10-04"}
+      ]
+    },
+    "proactive_communication": {
+      "severity": 1,
+      "internal_failure": "Down from 2. The gap we kept citing (we had never sent her a performance number) closed on 10/9 with a written two-week earnings report. We also sent the weekly leak-removal update, the repost push and Mica's reel ideas without being asked, and Melissa offered a call herself. Still missing: no written recap of the 10/5 or 10/15 calls, and nothing from the OnlyFans side (Fred) about her Halloween sets. Longest zero-outbound stretch this week was 2.0 days (10/9-10/11); all-time 4.4 days (8/4-8/9).",
+      "evidence": [
+        {"quote": "Hey @Liliaanglex! Here is your earnings and performance report for the last two weeks", "who": "Melissa Userfacing (Melissa) - the first written performance report in this chat; the client replied 'Thank you as always!'", "date": "2026-10-09"},
+        {"quote": "Hey @Liliaanglex! Do you have time for a call anytime today or tomorrow?", "who": "Melissa Userfacing (Melissa) - an unprompted check-in, and the call happened that day; nothing written was posted to the chat afterwards", "date": "2026-10-15"},
+        {"quote": "hi @Liliaanglex! here’s your reel inspo", "who": "Mica Vecco - weekly reel ideas, including Halloween, sent unprompted", "date": "2026-10-14"}
+      ]
+    },
+    "onboarding_handoff": {
+      "severity": 2,
+      "internal_failure": "Nothing changed this week. 4.5 months in, she still has no written map of the accounts, Drives and link domains we run for her. Nobody has replied about her warmed-up second IG account and its lost login (21 days), and nobody has confirmed she finished the 9/28 intake form. The link-in-bio domain was set up and then pulled within 4 days without explaining who owns that piece.",
+      "evidence": [
+        {"quote": "I think they said they wanted to run my second account, since it's been warmed up! But literally don't now my username or password…", "who": "Lilia - still no reply after 21 days", "date": "2026-09-25"},
+        {"quote": "Your domain is back, same one as before, but with new technology running behind it.", "who": "Mayson Chat (Mayson) - she was told nothing about who set the domain up or who runs it", "date": "2026-10-11"},
+        {"quote": "We've taken the domain down, so please remove it from your bio if it's still up. We're switching you over to your direct link instead", "who": "Mayson Chat (Mayson) - the domain was reversed 4 days later", "date": "2026-10-15"}
+      ]
+    },
+    "chatter_conduct": {
+      "severity": 3,
+      "internal_failure": "A third named high spender (Matt) was sent content he already owns. This is her 13th escalation about this since June, and there is still no purchase-history check before PPVs go out. She now waves it off ('just leave it') and keeps working around us: she uploads to the high-end folder herself and deletes our mis-sends.",
+      "evidence": [
+        {"quote": "Hey they are sending matt stuff he already has!", "who": "Lilia - Matt is the newest named high spender sent already-owned content, after frumby", "date": "2026-10-13"},
+        {"quote": "It’s fine he hasn’t noticed | So just leave it! I’m uploading stuff today! I’ll put it in the Hugh end folder", "who": "Lilia - lowered expectations; she is doing the QA and folder work herself", "date": "2026-10-13"},
+        {"quote": "And if ur talking about content in messages that were deleted yes because they keep sending frumby stuff he already has so I deleted so he doesn't get pissed it's happened 3 times now", "who": "Lilia - disclosure that Fred answered with 'We'll check' and never followed up", "date": "2026-09-23"}
+      ]
+    },
+    "platform_health": {
+      "severity": 3,
+      "internal_failure": "Worse this week, because one problem was ours. The link domain we set up got her bio flagged. Mayson tagged Vivek three times; Vivek came back after 49 days, asked for logins, got her screenshot and the offer of a code, and went silent again. Her TikTok shadowban (confirmed 8/22, 55 days) and her question about whether the shadowban affects reach are both unanswered.",
+      "evidence": [
+        {"quote": "I just got flagged for my bio | The link got dinged", "who": "Lilia - one day after we told her the domain 'won't get flagged'", "date": "2026-10-12"},
+        {"quote": "Hey ma’am | Send logins", "who": "Vivek (Meta Support) - his first message in 49 days; he went silent again after she provided access on 10/13", "date": "2026-10-12"},
+        {"quote": "Let me know when u log in go to phone number and I’ll send u the code for it", "who": "Lilia - access offered; no reply from Vivek as of 10/16", "date": "2026-10-13"}
+      ]
+    },
+    "billing_ops": {
+      "severity": 2,
+      "internal_failure": "The cycle runs better now: reminder the day before (10/13), invoice on schedule (10/15), the 'pausing in work' line removed, and a 12-minute acknowledgement. But we still never confirm receipt or the amount. The 10/6 payment and its $27 shortfall have not been confirmed in 10 days, 9/18 in 28 days, and the 9/3 invoice in 43 days. The $192 balance she raised on 8/25 has never been reconciled.",
+      "evidence": [
+        {"quote": "hi love! just writing to inform you that your next invoice will be sent out in 2 days. today is a great day to withdrawl your funds from OF to avoid any delays", "who": "Stephski (Invoicing) - the day-before reminder is back (it was skipped 9/30)", "date": "2026-10-13"},
+        {"quote": "I just owe u 27 I’ll get that in tomorrow | Didn’t know I had a limit of that now", "who": "Lilia - the $27 and the 10/6 total have still not been confirmed by us", "date": "2026-10-06"},
+        {"quote": "Zelle worked in full this time yayyy | I just rounded it up", "who": "Lilia - paid early, in full, and rounded up; still no written receipt after 28 days", "date": "2026-09-18"}
+      ]
+    },
+    "ownership_escalation": {
+      "severity": 3,
+      "internal_failure": "Platform problems have no owner who finishes them. The bio flag went Mayson -> @fonta (Vivek) three times over 3 days, and Mayson ended up fixing it himself by retreating to a plain link. Fred owns the chat-floor problems but posted only once this week. Nobody has picked up TikTok, Facebook or the second IG account.",
+      "evidence": [
+        {"quote": "@fonta ?", "who": "Mayson Chat (Mayson) - first relay, 1 minute after the flag", "date": "2026-10-12"},
+        {"quote": "@fonta please help here", "who": "Mayson Chat (Mayson) - second relay", "date": "2026-10-12"},
+        {"quote": "@fonta", "who": "Mayson Chat (Mayson) - third tag, 2 days in; Vivek did not respond", "date": "2026-10-14"}
+      ]
+    },
+    "disengagement_detection": {
+      "severity": 3,
+      "internal_failure": "Melissa's call and the earnings report are real outreach. But nobody acted on the clearest churn signal of the week: a client who has escalated 13 times telling us to 'just leave it'. Her 8/29 'I've lost my high spender' is still unanswered after 48 days, her 9/23 disclosure that she hides our mistakes has had no follow-up, and the owner has been silent in this chat for 30 days. Fast, eager payment is continuing, and that matches our pre-exit pattern, not health.",
+      "evidence": [
+        {"quote": "So just leave it!", "who": "Lilia - withdrawing her own escalation; Fred posted nothing further", "date": "2026-10-13"},
+        {"quote": "Plead communicate this we lost out on 300 | I've lost my high spender because of communication and this", "who": "Lilia - still unanswered after 48 days", "date": "2026-08-29"},
+        {"quote": "I’ll get it paid today! Thank you!", "who": "Lilia - promised same-day payment 21 minutes after the invoice; fast payment while she lets problems go is a churn tell", "date": "2026-10-15"}
+      ]
+    },
+    "security_hygiene": {
+      "severity": 3,
+      "internal_failure": "This week we again asked for logins in the group chat ('Send logins'). She posted an image that looks like a login screenshot and offered to send her 2FA code, and we never moved it to a private channel, deleted it, or told her to rotate after use. Her OnlyFans password from 5/26, which Fred repeated back in the chat, is still in the history and was never confirmed rotated. Her phone number (also her Zelle lookup and TikTok login) leaked 9/22 and is still unaddressed.",
+      "evidence": [
+        {"quote": "Send logins", "who": "Vivek (Meta Support) - asked for credentials in the shared group, not in a DM or password manager", "date": "2026-10-12"},
+        {"quote": "Let me know when u log in go to phone number and I’ll send u the code for it", "who": "Lilia - posted right after an image (probably a login screenshot, contents not quoted); offering a 2FA code in the group", "date": "2026-10-13"},
+        {"quote": "Thanksssss - pw being [REDACTED credential]", "who": "Fredo (Fred, OFM) - repeated her OnlyFans password in the group chat; never confirmed rotated", "date": "2026-05-26"}
+      ]
+    }
+  },
+  "metrics": {
+    "client_questions_total": 70,
+    "unanswered_over_24h": 25,
+    "max_team_silence_days": 4.4,
+    "promises_made": 59,
+    "promises_kept": 21,
+    "promises_lapsed": 37,
+    "promises_open": 1,
+    "method": "Full history 2026-05-25 to 2026-10-15 (export end 2026-10-16 09:06). client_questions_total = client messages containing '?' (70; +2 since 10/9: 'Do u need the original?', answered in 1 min, and the shadowban question). unanswered_over_24h = topic-aware hand count of client asks with no on-topic reply within 24h (23 at 10/9, +2: 'Should I take down the link', answered ~73h later by the link swap, and the 10/13 shadowban question, still open). max_team_silence_days = longest gap between consecutive ALTR messages (4.36d, 8/4 15:42 to 8/9 00:23); longest this window 2.0d (10/9 17:44 to 10/11 18:49). Promises: forward commitments by our side, matched by phrase. Since 10/9: +3 made (Mayson 10/11 'won't get flagged' - lapsed; Melissa 10/15 call link - kept; Fred 10/13 'checking with the team' - open). Fred's 10/4 'push' moved from open to lapsed (12 days, no result). Kept = a result was reported back in the chat."
+  },
+  "what_client_wanted": [
+    "Her high spenders sold only new content: 'Hey they are sending matt stuff he already has!' (2026-10-13); 'I don't want to loose him as a high spender' (2026-09-23)",
+    "Her revenue plans worked with her: Halloween sets for Teddi, 'Usually he pays 1,000 per set!' (2026-10-01); 'I'm goal is to get 10 sexting sets to this month' (2026-10-04)",
+    "Instagram that doesn't get her flagged, and straight answers on reach: 'Should I take down the link' (2026-10-12); 'Is me being shadowbanned going to effect it at all?' (2026-10-13)",
+    "Chatters who communicate and ask first: 'Ur chatters neeeeeedddd to ask me first' (2026-08-31)"
+  ],
+  "what_worked": [
+    "Written, unprompted reporting from Melissa: the first two-week earnings and performance report plus the weekly leak-removal update. 'Thank you as always!' (2026-10-09). Make the earnings report a fixed fortnightly deliverable.",
+    "Exposure she can see: the reel pushed across 23 repost accounts with the list attached. 'Yayyy thank u!! Do u need the original?' / 'Yayyyy! Thank you!' (2026-10-12).",
+    "Concrete, personal guidance, and fast closure when someone owns it: Mica's social tip ('Love it! Thank you!', 2026-10-06), and Mayson's direct-link replacement, accepted immediately ('Okay illl put it on now! Thank u', 2026-10-15)."
+  ],
+  "top_fix": "Give the OnlyFans side the same written, scheduled discipline Melissa now gives the relationship side. Before any PPV goes to a named high spender (frumby, Teddi, Matt), the chatter must check his purchase history and send only from her new-content folder, enforced the way the 8/31 custom-approval rule is (that rule has held for 46 days). Fred then posts a short weekly written note in the chat: mis-sends caught, who sent them, what it cost her, and what sold from her Halloween/Teddi sets. Her 'just leave it' means she has stopped expecting us to fix this, and that is the failure most likely to lose her."
+}

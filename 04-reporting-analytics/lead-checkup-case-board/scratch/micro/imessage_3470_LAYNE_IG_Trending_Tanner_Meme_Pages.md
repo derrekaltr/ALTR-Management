@@ -1,0 +1,6 @@
+## LAYNE IG Trending, Tanner Meme Pages [imessage#3470 GRP] msgs=52 win=2026-04-07..2026-07-10 lastClient=2026-07-10(70d) lastDerek=2026-07-09(71d) UNANSWERED
+...
+[2026-04-07 18:07]ASK| Tanner Meme Pages: Great to meet you — looking to buy some meme pages getting consistent views
+...
+[2026-07-09 21:42]$| Tanner Meme Pages: Yeah campaigns are anywhere from $500-2.5k For $2.5k we can hit popular Anything below is just dependent on number of uploads / campaign duration
+[2026-07-09 21:45]$| DEREK: Liked “Yeah campaigns are anywhere from $500-2.5k For $2.5k we can hit popular Anything below is just dependent on number of uploads / campaign duration”

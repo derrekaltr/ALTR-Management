@@ -1,0 +1,36 @@
+# Eric The Efficient, Koda, Brennah Black Client  [imessage #6537 GROUP]
+msgs=24 (in=21 out=3) window=2026-03-25..2026-04-02
+last_client=2026-04-02 (169d ago), last_derrek=2026-03-31 (171d ago)
+LAST MESSAGE FROM CLIENT — UNANSWERED: 'Hey! Yes DMCA is included, we send biweekly updates in your group-chat with the rest of the team. I can send some screenshots of messages that’s no problem , one thing I will say is we tailor our chat…'
+
+  ...
+[2026-03-25 19:18] Koda: Hey Tash! This is Derrek with Altr, He’ll be able to answer all your questions 🙌🏽
+[2026-03-25 19:18] Koda: Hey Brennah! This is Derrek with Altr, He’ll be able to answer all your questions 🙌🏽
+[2026-03-25 19:19] DEREK: Hey great to meet you! Gonna add my partner Eric in here too
+[2026-03-25 19:20] DEREK: Eric this is Brennah, and you know koda! She’s interested hearing more about our Agency
+[2026-03-25 19:29] Eric The Efficient: Hi Brennah it’s a pleasure to meet you ! Lmk when your free for a call :)
+[2026-03-25 19:30] Brennah Black Client: Hello 🖤 are you available now for a quick call?
+[2026-03-25 19:31] Eric The Efficient: Hey ! Finishing up a call rn but I’ll be free in 30 if that works!
+[2026-03-25 19:31] Brennah Black Client: Yes! Thank you
+[2026-03-25 19:31] Eric The Efficient: Perfect talk to you then!
+[2026-03-25 20:08] Brennah Black Client: https://www.instagram.com/reneerichardsof?igsh=MW5hdml5NTZlODgxZg==
+      <IMG MISSING non-image: >
+      <IMG MISSING non-image: >
+[2026-03-25 20:08] Brennah Black Client: https://www.instagram.com/brennahblack_daily?igsh=MWUwenN5djJnMHlpag==
+      <IMG MISSING non-image: >
+      <IMG MISSING non-image: >
+[2026-03-25 20:08] Brennah Black Client: https://www.instagram.com/itsbrennah?igsh=emhsMG5jMzFxY25t
+      <IMG MISSING non-image: >
+      <IMG MISSING non-image: >
+[2026-03-25 20:20] Brennah Black Client: Hey Eric! One thing I forgot to ask on our call—could you share a bit about your content strategy? Specifically how you organize things and request content from creators. That would be super helpful. Thank you so much for your time today!
+[2026-03-25 20:23] Eric The Efficient: Yeah absolutely, we either do content snare , google drive , or Dropbox Really model preference, we can adapt to however you prefer to upload it’s no big deal
+[2026-03-25 20:53] Brennah Black Client: How many pieces of content do you need per month?
+[2026-03-25 20:56] Eric The Efficient: Really depends on how much content you currently have on your page. If we started working together, I would want you to spend the majority of your time (while you’re working on your OF business) to be focused on social media + OFTV content. As long as new subs…
+[2026-03-31 13:06] Eric The Efficient: ^ Just to clarify on this, would have to do a review of your page to really know for-sure, Obv if you have a lot of big spenders that would require some new content to keep them happy my answer above could change but in general that’s where I would lean for mo…
+[2026-03-31 16:38] Brennah Black Client: Hi Lovie 🖤 Thank you so much for following up. For now, I’m in a really good position with my current agency, but I’m so glad we connected, I always like to keep an open mind for the future in case I ever decide to make a switch. I really appreciate you taking…
+[2026-03-31 22:26] DEREK: Loved “Hi Lovie 🖤 Thank you so much for following up. For now, I’m in a really good position with my current agency, but I’m so glad we connected, I always like to keep an open mind for the future in case I ever decide to make a switch. I really appreciate you…
+[2026-03-31 22:54] Eric The Efficient: Absolutely! Glad to have gotten connected. If you need anything at all just let me know , line is open.🙏
+[2026-03-31 23:06] Brennah Black Client: Loved “Absolutely! Glad to have gotten connected. If you need anything at all just let me know , line is open.🙏”
+[2026-03-31 23:07] Brennah Black Client: Thank you! 🖤
+[2026-04-02 03:46] Brennah Black Client: Hey lovies, I had a couple more questions come up and wanted to check in with you. Do you include DMCA takedown services in your agency contract? Also, would you be able to share a couple of accounts you currently manage so I can get a feel for the messaging? …
+[2026-04-02 11:57] Eric The Efficient: Hey! Yes DMCA is included, we send biweekly updates in your group-chat with the rest of the team. I can send some screenshots of messages that’s no problem , one thing I will say is we tailor our chat-team & hand pick chatters that would suite best for your pa…

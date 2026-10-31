@@ -1,0 +1,114 @@
+{
+  "client": "Kaitlynn",
+  "slug": "kaitlynn-x-altr",
+  "status": "active",
+  "status_reason": "Recovered from the 8/28 at_risk call: she re-engaged heavily (18 messages since 8/28), booked the kickoff call herself, paid up, and her first real complaint (the $300 day) got a data-backed answer within 18 hours — but the complaint cycle left visible sarcasm and several small asks are still being ignored, so the recovery is ours to lose.",
+  "last_client_message": "2026-09-03",
+  "dimensions": {
+    "responsiveness": {
+      "severity": 2,
+      "internal_failure": "Big asks now get answered inside 24h (a real improvement), but small direct asks still fall through with no tracking: her 8/7 voice-memo offer is 27 days without a yes/no, and her 8/29 request to see the freeloader DM threads has had no reply in 5 days.",
+      "evidence": [
+        {"quote": "Also if y’all want should I send out a voice memo or cute video being like I’m backkkkk baby blah blah blah", "who": "Kaitlynn Anderson Koda", "date": "2026-08-07"},
+        {"quote": "would you mind screenshotting  the entire message thread so I can see the profiles of these pages next time? :)", "who": "Kaitlynn Anderson Koda", "date": "2026-08-29"},
+        {"quote": "I’ll get you an answer shortly!", "who": "Mayson Chat", "date": "2026-08-28"}
+      ]
+    },
+    "follow_through": {
+      "severity": 2,
+      "internal_failure": "Mayson's 'answer shortly' on the revenue drop was kept (Ollie, next morning), but Mayson's own 8/14 'would love to hop on a call yes' was never held — the call only exists because she booked Mica's calendly herself on 8/31 — and 'I'll let you know soon' about which account her reels post to is still open.",
+      "evidence": [
+        {"quote": "Hey Kaitlynn would love to hop on a call yes. Let me know what time works?", "who": "Mayson Chat", "date": "2026-08-14"},
+        {"quote": "I’ll let you know soon it’s still being warmed up", "who": "Mayson Chat", "date": "2026-08-30"},
+        {"quote": "coupon for being such a great new client", "who": "Derrek", "date": "2026-08-21"}
+      ]
+    },
+    "proactive_communication": {
+      "severity": 3,
+      "internal_failure": "We still send zero unprompted reporting — she compiles her own dashboard screenshots and asks us to explain our work ('taking some notes for the week'); the first performance context we ever volunteered (8/29) came only after her complaint, and 8/21→8/27 was 6 days of zero outbound.",
+      "evidence": [
+        {"quote": "Also, I wanted to check in, this week’s numbers are quite lower than the previous two weeks!", "who": "Kaitlynn Anderson Koda", "date": "2026-08-28"},
+        {"quote": "No rush! I know it’s Friday too so at yalls convenience was just taking some notes for the week :)", "who": "Kaitlynn Anderson Koda", "date": "2026-08-28"},
+        {"quote": "I would like to point out though, we have been able to produce the same numbers with 1/7 of the subs this month as the best month in 2026.", "who": "Ollie Mckinlay", "date": "2026-08-29"}
+      ]
+    },
+    "onboarding_handoff": {
+      "severity": 2,
+      "internal_failure": "Day 27 and the kickoff call still hasn't happened (booked 8/31 only after Mica's third nudge, then rescheduled), her plain invoicing-cadence question was never answered in words — she had to infer it from the 9/1 invoice — and a new 7-reels-a-week content requirement was dropped on her with the destination account still unnamed.",
+      "evidence": [
+        {"quote": "For invoicing, is it weekly or bi-weekly typically? - just wondering!", "who": "Kaitlynn Anderson Koda", "date": "2026-08-17"},
+        {"quote": "What account is it being posted on**", "who": "Kaitlynn Anderson Koda", "date": "2026-08-30"},
+        {"quote": "Scheduled for 2pm Wednesday :)", "who": "Kaitlynn Anderson Koda", "date": "2026-08-31"}
+      ]
+    },
+    "chatter_conduct": {
+      "severity": 2,
+      "internal_failure": "A wave of new subs arrived believing everything was free and we never established whether our own promo or chat scripts set that expectation — the exchange ended in a shrug — while the client is reduced to coaching our chatters on basic sales tactics.",
+      "evidence": [
+        {"quote": "Ahahah it’s just weird how a lot of them have all said they would get the content for free if they subbed", "who": "Ollie Mckinlay", "date": "2026-08-29"},
+        {"quote": "Maybe chatters can try sending out photos and videos to really entice people to want to engage :-)", "who": "Kaitlynn Anderson Koda", "date": "2026-08-28"}
+      ]
+    },
+    "platform_health": {
+      "severity": 2,
+      "internal_failure": "Her IG was flagging every post — badly enough that she pulled her bio link and was told to take a 48h break — yet nobody investigated or looped in Vivek, and the anti-flag domain we built sat unused for two weeks before anyone noticed.",
+      "evidence": [
+        {"quote": "Took the link of my bio temporarily because i was getting a ton of flags on my account but it’s back on there.", "who": "Kaitlynn Anderson Koda", "date": "2026-08-28"},
+        {"quote": "I also took a break because every single post that I was making was being flagged and taking down by Instagram", "who": "Kaitlynn Anderson Koda", "date": "2026-08-31"},
+        {"quote": "Hey Kaitlynn how come you’re not using the domain on instagram?", "who": "Mayson Chat", "date": "2026-08-27"}
+      ]
+    },
+    "billing_ops": {
+      "severity": 1,
+      "internal_failure": "Now the healthiest dimension — the $90/$91 shortfall was cleanly rolled into the 9/1 invoice and cadence is steady — the residue is that cadence was never stated in writing and a boilerplate pause-work threat went to our best payer.",
+      "evidence": [
+        {"quote": "Noting I rolled over the $90 from last period that went over your zelle limit 🙂", "who": "Stephski", "date": "2026-09-01"},
+        {"quote": "I ask that you please pay within 7 days to avoid any pausing of work 🙏", "who": "Stephski", "date": "2026-09-01"}
+      ]
+    },
+    "ownership_escalation": {
+      "severity": 2,
+      "internal_failure": "Client items still move by relay ping — Mayson forwards her screenshots to Ollie with '@olkmck ^^' twice, the 8/30 one with no visible close-out — and her drive failure was picked up by the owner and the queue account simultaneously.",
+      "evidence": [
+        {"quote": "@olkmck ^^", "who": "Mayson Chat", "date": "2026-08-28"},
+        {"quote": "@olkmck ^^", "who": "Mayson Chat", "date": "2026-08-30"},
+        {"quote": "hey kaitlyn, on it right now with the google drive fix", "who": "Derrek", "date": "2026-09-02"}
+      ]
+    },
+    "disengagement_detection": {
+      "severity": 2,
+      "internal_failure": "Ollie's 8/27 outreach shows someone is finally watching the account, and her complaint got substance — but her tone shift during the freeloader exchange (open sarcasm, twice) drew zero relationship repair from anyone.",
+      "evidence": [
+        {"quote": "Why would I promo my page that way…", "who": "Kaitlynn Anderson Koda", "date": "2026-08-29"},
+        {"quote": "but okay thanks.", "who": "Kaitlynn Anderson Koda", "date": "2026-08-29"},
+        {"quote": "yeah that’s so weird considering it’s never happened before!!", "who": "Kaitlynn Anderson Koda", "date": "2026-08-29"}
+      ]
+    },
+    "security_hygiene": {
+      "severity": 0,
+      "internal_failure": "No credentials or sensitive access material have appeared in this chat.",
+      "evidence": []
+    }
+  },
+  "metrics": {
+    "client_questions_total": 13,
+    "unanswered_over_24h": 6,
+    "max_team_silence_days": 6,
+    "promises_made": 12,
+    "promises_kept": 7,
+    "promises_lapsed": 4,
+    "method": "Manual read of all 106 non-service messages (8/7-9/3). Carried the 8 asks inventoried on 8/28 and added 5 distinct new ones: numbers-drop explanation (8/28, answered 18h), freeloader-thread screenshots (8/29, never), reels destination account (8/30, deferred and still open), Drive upload failure (9/2, same-hour), delivery channel for content (9/3, answered). Unanswered >24h: voice memo (27d), Mayson call (never held; superseded by Mica's), invoicing cadence in words (never), Aug 19 drop ack (never), screenshot request (5d), destination account (4d and counting). Promises: prior 8 plus 'answer shortly' (kept), destination-account update (open), drive fix (kept via Mayson workaround), personal drive upload (kept, in progress), Mica 'i'll check back in' (kept). Team silence max: 8/21 18:53 to 8/27 17:14."
+  },
+  "what_client_wanted": [
+    "A consistent, known chatter team on her page — 'would love to keep a consistent rotation of the same chatters on my profile. Instead of throwing in multiple different people who don’t really know my account.' (8/28)",
+    "Explanations for revenue swings without having to chase — 'let me know about the $800 day and the $300 day' (8/28)",
+    "A call plus a posting cadence — 'would love a couple wall post a day… as well as story posts that is actually something that I was gonna talk about on the call' (8/14)",
+    "Basic billing clarity — 'For invoicing, is it weekly or bi-weekly typically?' (8/17)"
+  ],
+  "what_worked": [
+    "The data-backed answer to her revenue complaint — 'we have been able to produce the same numbers with 1/7 of the subs this month as the best month in 2026' (Ollie, 8/29) — she stayed, kept sharing wins, and booked the call two days later.",
+    "Same-hour swarm on her Drive failure — 'on it right now with the google drive fix' (Derrek, 9/2) and 'send me all the content and I’ll personally put it in drive!!' (Mayson, 9/2).",
+    "Chat quality earned the account in week one — 'Impressed already with chat omg.. thanks guys. Kill it' (8/7)."
+  ],
+  "top_fix": "Institutionalize what the 8/29 save proved works: every direct ask gets a written yes/no/when inside 24 hours and a weekly one-screen numbers recap sent before she has to screenshot her own dashboard — she is currently doing our account-management job herself, politely, and the sarcasm on 8/29 is what it looks like when that patience starts to run out."
+}

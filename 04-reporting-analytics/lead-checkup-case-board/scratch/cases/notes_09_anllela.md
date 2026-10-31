@@ -1,0 +1,6 @@
+# Client — Anllela (Sagra) (imessage#227 + wh group "@anllelasagra x ALTR"). Major managed client. Last msg 9/11 her: "It's not working yet" — UNANSWERED 7d.
+1. SNAPCHAT VERIFICATION — PAID $2,500, NEVER DELIVERED → REFUND OWED. 5/4 "My Snapchat never got verified" → Derek: "I'll refund". 5/24 still not verified. 6/15: "Were you able to ask for Snapchat refund? I was going to discount it from next invoice." NO EVIDENCE refund/credit ever applied. ⚠️ Verify against invoices; if not credited, $2,500 refund outstanding ~4.5 months.
+2. FACEBOOK (recommendations/monetization/Sadie posting) — chased 6/12, 7/3, 7/6, 7/8, 7/9, 7/21, 9/8 ("I think no one is working on my fb"). ~3 months stalled. Angry-polite.
+3. FITNESS WEBSITE (her friend wants it done, asap 7/6) — no quote/no delivery visible; chased 7/21. NEEDS QUOTE/START.
+4. 6/24 case: $2,500 quote, ALTR covered $625 → she owed $1,875 by Zelle right when ALTR's Zelle was broken (fixed 7/1). VERIFY the $1,875 arrived (misdirected-Zelle risk window). Also 6/15 "$5007.25" transfer offer — verify received.
+5. Growth: promised 70k (hit ~Aug), Sept goal 100k — 9/8 behind pace ($19,900 in 8 days), Ollie says 75k. Manage expectations — churn risk on a flagship client (already gave a soft ultimatum 8/14: "I can't keep up watching the numbers go down every month. I want to give you guys…").
