@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta name="robots" content="noindex, nofollow">
+<title>ALTR — Kick US Reachability</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:ital,wdth,wght@0,62..125,100..900;1,62..125,100..900&family=Spline+Sans+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --ink:#1d1d1b;--ink-raise:#242422;--ink-line:rgba(235,236,220,.14);--ink-line-soft:rgba(235,236,220,.08);
+  --bone:#ebecdc;--bone-dim:rgba(235,236,220,.62);--bone-faint:rgba(235,236,220,.38);
+  --mint:#b6f2e5;--mint-wash:rgba(182,242,229,.07);
+  --sans:"Archivo","Helvetica Neue",sans-serif;--mono:"Spline Sans Mono","SF Mono",monospace;
+  /* score ramp — mint sequential, validated on #1d1d1b */
+  --seq1:#275a4e;--seq2:#17755f;--seq3:#109078;--seq4:#35ab90;--seq5:#74c9ad;--seq6:#b6f2e5;
+  /* mutuals ramp — blue sequential, validated on #1d1d1b */
+  --mut1:#184f95;--mut2:#2a78d6;--mut3:#5598e7;--mut4:#86b6ef;--mut5:#b7d3f6;
+  /* status — fixed, icon+label always */
+  --st-good:#0ca30c;--st-warn:#fab219;--st-serious:#ec835a;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:var(--ink);color:var(--bone);font-family:var(--sans);font-size:18px;line-height:1.55;-webkit-font-smoothing:antialiased}
+body::before{content:"";position:fixed;inset:0;pointer-events:none;z-index:999;opacity:.6;background-image:url("data:image/svg+xml,%3Csvg viewBox='0 0 250 250' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.05'/%3E%3C/svg%3E")}
+.page{max-width:1240px;margin:0 auto;padding:0 40px 110px;position:relative}
+@keyframes rise{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:translateY(0)}}
+.rise{animation:rise .7s cubic-bezier(.22,1,.36,1) both}
+.d1{animation-delay:.06s}.d2{animation-delay:.14s}.d3{animation-delay:.24s}
+header{display:flex;align-items:center;justify-content:space-between;padding:30px 0 22px;border-bottom:1px solid var(--ink-line);gap:20px;flex-wrap:wrap}
+.logo{font-weight:800;font-stretch:118%;font-size:26px;letter-spacing:.06em}
+.logo span{color:var(--mint)}
+.dept{font-family:var(--mono);font-size:15px;letter-spacing:.15em;text-transform:uppercase;color:var(--bone-faint)}
+.badge{font-family:var(--mono);font-size:14.5px;letter-spacing:.14em;text-transform:uppercase;color:var(--mint);border:1px solid rgba(182,242,229,.5);padding:7px 14px 6px;border-radius:999px;white-space:nowrap}
+.hero{padding:52px 0 30px}
+@media(min-width:1020px){
+ .hero{display:grid;grid-template-columns:minmax(0,1.55fr) minmax(300px,1fr);column-gap:72px;align-items:start}
+ .hero .kicker,.hero h1,.hero .lede{grid-column:1}
+ .hero .chips{grid-column:2;grid-row:1/span 3;flex-direction:column;align-items:stretch;gap:0;margin-top:6px;border-top:1px solid var(--ink-line)}
+ .hero .chip{border:none;border-bottom:1px solid var(--ink-line);border-radius:0;background:none;padding:16px 2px;letter-spacing:.1em}
+ .hero .chip.accent{background:none}
+}
+.kicker{font-family:var(--mono);font-size:16px;letter-spacing:.13em;text-transform:uppercase;color:var(--mint);display:flex;align-items:center;gap:16px;margin-bottom:22px}
+.kicker::before{content:"";display:block;width:44px;height:1px;background:var(--mint)}
+h1{font-weight:800;font-stretch:118%;font-size:clamp(34px,5.4vw,60px);line-height:1.02;letter-spacing:-.015em;text-transform:uppercase;max-width:20ch}
+h1 .alt{color:var(--mint)}
+.lede{margin-top:20px;font-size:18px;color:var(--bone-dim);max-width:72ch}
+.chips{margin-top:26px;display:flex;flex-wrap:wrap;gap:10px}
+.chip{font-family:var(--mono);font-size:15px;letter-spacing:.13em;text-transform:uppercase;padding:8px 16px 7px;border:1px solid var(--ink-line);border-radius:999px;color:var(--bone-dim)}
+.chip.accent{border-color:var(--mint);color:var(--mint);background:var(--mint-wash)}
+.chip.warn{border-color:rgba(250,178,25,.55);color:var(--st-warn)}
+/* stat tiles */
+.tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(205px,1fr));gap:14px;margin-top:44px}
+@media(min-width:980px){.tiles{grid-template-columns:repeat(3,1fr)}}
+.tile{background:var(--ink-raise);border:1px solid var(--ink-line-soft);border-radius:14px;padding:18px 20px 16px}
+.tile .lbl{font-family:var(--mono);font-size:14.5px;letter-spacing:.14em;text-transform:uppercase;color:var(--bone-faint)}
+.tile .val{font-size:clamp(24px,2vw,33px);font-weight:800;font-stretch:112%;line-height:1.15;margin-top:6px;white-space:nowrap;font-variant-numeric:tabular-nums}
+.tile .val.long{font-size:clamp(21px,1.7vw,28px)}
+.tile .sub{font-size:16px;color:var(--bone-dim);margin-top:2px}
+.tile.mint .val{color:var(--mint)}
+/* filters */
+.filters{display:flex;flex-wrap:wrap;align-items:center;gap:10px;margin:40px 0 14px}
+.fgroup{display:flex;gap:6px;align-items:center;flex-wrap:wrap}
+.fbtn{font-family:var(--mono);font-size:15px;letter-spacing:.14em;text-transform:uppercase;padding:8px 14px 7px;border:1px solid var(--ink-line);border-radius:999px;color:var(--bone-dim);background:none;cursor:pointer;transition:all .15s}
+.fbtn:hover{color:var(--bone)}
+.fbtn.on{border-color:var(--mint);color:var(--mint);background:var(--mint-wash)}
+.fsep{width:1px;height:22px;background:var(--ink-line);margin:0 6px}
+#search{font-family:var(--mono);font-size:15.5px;letter-spacing:.08em;background:var(--ink-raise);border:1px solid var(--ink-line);border-radius:999px;color:var(--bone);padding:8px 16px;width:190px;outline:none}
+#search::placeholder{color:var(--bone-faint)}
+#search:focus{border-color:var(--mint)}
+/* heat table */
+.tablewrap{overflow-x:auto;border:1px solid var(--ink-line-soft);border-radius:14px;background:var(--ink-raise)}
+table{border-collapse:separate;border-spacing:0;width:100%;min-width:1020px}
+th{font-family:var(--mono);font-size:14px;letter-spacing:.13em;text-transform:uppercase;color:var(--bone-faint);text-align:left;padding:14px 12px 12px;border-bottom:1px solid var(--ink-line);cursor:pointer;user-select:none;white-space:nowrap}
+th:hover{color:var(--bone)}
+th.sorted{color:var(--mint)}
+th.num,td.num{text-align:right}
+td{padding:10px 12px;border-bottom:1px solid var(--ink-line-soft);vertical-align:middle}
+tr.datarow{cursor:pointer;transition:background .12s}
+tr.datarow:hover{background:rgba(235,236,220,.03)}
+tr.datarow.open{background:rgba(182,242,229,.04)}
+.creator{display:flex;flex-direction:column;gap:1px}
+.creator .h{font-weight:700;font-size:18px}
+.creator .n{font-size:16px;color:var(--bone-faint)}
+.stchip{font-family:var(--mono);font-size:14px;letter-spacing:.12em;text-transform:uppercase;display:inline-flex;align-items:center;gap:7px;padding:5px 11px 4px;border-radius:999px;border:1px solid;white-space:nowrap}
+.stchip::before{content:"";width:7px;height:7px;border-radius:50%;background:currentColor}
+.st-contact{color:var(--st-good);border-color:rgba(12,163,12,.5)}
+.st-route{color:var(--st-warn);border-color:rgba(250,178,25,.45)}
+.st-need{color:var(--st-serious);border-color:rgba(236,131,90,.45)}
+/* heat cells: fill + always-visible number (relief channel) */
+.heat{font-family:var(--mono);font-size:17px;font-weight:500;display:inline-block;min-width:52px;text-align:center;padding:7px 10px 6px;border-radius:4px;font-variant-numeric:tabular-nums}
+.pend{color:var(--bone-faint);font-family:var(--mono);font-size:15.5px}
+.money{font-family:var(--mono);font-size:17px;font-variant-numeric:tabular-nums;color:var(--bone-dim)}
+.money.hi{color:var(--bone)}
+.flw{font-family:var(--mono);font-size:14.5px;letter-spacing:.06em;display:inline-block;padding:3px 8px;border-radius:4px;border:1px solid var(--ink-line);color:var(--bone-faint);margin-right:4px}
+.flw.yes{border-color:rgba(182,242,229,.5);color:var(--mint)}
+/* expanded detail */
+tr.detail td{background:rgba(13,13,12,.5);padding:18px 22px;border-bottom:1px solid var(--ink-line)}
+.dgrid{display:grid;grid-template-columns:1fr 1fr;gap:22px}
+.dcol .dl{font-family:var(--mono);font-size:14px;letter-spacing:.14em;text-transform:uppercase;color:var(--bone-faint);margin-bottom:8px}
+.dcol a{color:var(--mint);text-decoration:none;border-bottom:1px solid rgba(182,242,229,.3)}
+.dcol a:hover{border-bottom-color:var(--mint)}
+.soclist,.mutlist{display:flex;flex-wrap:wrap;gap:8px}
+.soc,.mut{font-family:var(--mono);font-size:15.5px;padding:5px 11px;border:1px solid var(--ink-line);border-radius:999px;color:var(--bone-dim);text-decoration:none}
+a.soc:hover,a.mut:hover{border-color:var(--mint);color:var(--mint)}
+.mut.cf{border-color:var(--mint);color:var(--mint);background:var(--mint-wash)}
+.dnote{font-size:17px;color:var(--bone-dim);margin-top:10px}
+/* legend */
+.legend{margin-top:28px;display:flex;flex-wrap:wrap;gap:26px;align-items:flex-start}
+.lg .dl{font-family:var(--mono);font-size:14px;letter-spacing:.14em;text-transform:uppercase;color:var(--bone-faint);margin-bottom:8px}
+.ramp{display:flex;align-items:center;gap:2px}
+.ramp i{width:34px;height:14px;border-radius:3px;display:block}
+.ramp .cap{font-family:var(--mono);font-size:14.5px;color:var(--bone-faint);margin:0 6px}
+.formula{font-family:var(--mono);font-size:15.5px;color:var(--bone-dim);line-height:2}
+footer{margin-top:70px;padding-top:24px;border-top:1px solid var(--ink-line);font-family:var(--mono);font-size:14.5px;letter-spacing:.12em;text-transform:uppercase;color:var(--bone-faint);display:flex;justify-content:space-between;flex-wrap:wrap;gap:12px}
+</style>
+</head>
+<body>
+<div class="page">
+  <header class="rise">
+    <div class="logo">ALTR<span>.</span></div>
+    <div class="dept">Talent Ops — Outreach Intelligence</div>
+    <div class="badge" id="eventBadge">Kick — US · Launch Event</div>
+  </header>
+
+  <div class="hero rise d1">
+    <div class="kicker">Creator Reachability Heat Map</div>
+    <h1>Who can we <span class="alt">actually reach</span></h1>
+    <p class="lede">Every target ranked by real intro routes: people <em>they follow</em> who are in your network — the ones who can actually put you in contact. ★ = that route follows you back, checked one-by-one against your own followers list, so the ask is a single DM. Fan overlap (your follows sitting in their audience) is shown but barely scored — it is awareness, not access. Sheet status is the client's claim, reference only. Click any row for the exact people to message.</p>
+    <div class="chips" id="chips"></div>
+  </div>
+
+  <div class="tiles rise d2" id="tiles"></div>
+
+  <div class="filters rise d3" id="filters">
+    <div class="fgroup" id="statusFilters"></div>
+    <div class="fsep"></div>
+    <div class="fgroup" id="tierFilters"></div>
+    <div class="fsep"></div>
+    <input id="search" type="text" placeholder="search handle / name…">
+  </div>
+
+  <div class="tablewrap rise d3">
+    <table>
+      <thead><tr id="headrow"></tr></thead>
+      <tbody id="tbody"></tbody>
+    </table>
+  </div>
+
+  <div class="legend rise d3">
+    <div class="lg"><div class="dl">Reachability score</div>
+      <div class="ramp"><span class="cap">cold</span><i style="background:var(--seq1)"></i><i style="background:var(--seq2)"></i><i style="background:var(--seq3)"></i><i style="background:var(--seq4)"></i><i style="background:var(--seq5)"></i><i style="background:var(--seq6)"></i><span class="cap">warm</span></div></div>
+    <div class="lg"><div class="dl">Routes (★ = friend-grade)</div>
+      <div class="ramp"><span class="cap">none</span><i style="background:var(--mut1)"></i><i style="background:var(--mut2)"></i><i style="background:var(--mut3)"></i><i style="background:var(--mut4)"></i><i style="background:var(--mut5)"></i><span class="cap">strong</span></div></div>
+    <div class="lg"><div class="dl">Score formula</div>
+      <div class="formula">22·log₂(1+friend routes), cap 70 · +4 per one-way route, cap 10<br>+25 they follow you · +5 you follow them · fan overlap up to +8<br>route = someone THEY follow that you know · sheet status never scored</div></div>
+  </div>
+
+  <footer><span>ALTR MGMT — internal</span><span id="stamp"></span></footer>
+</div>
+
+<script src="data.js"></script>
+<script>
+const fmt$ = v => v==null ? "—" : "$"+v.toLocaleString();
+const SEQ=["#275a4e","#17755f","#109078","#35ab90","#74c9ad","#b6f2e5"];
+const MUT=["#184f95","#2a78d6","#5598e7","#86b6ef","#b7d3f6"];
+const scoreColor=s=>SEQ[Math.min(5,Math.floor(s/100*6))];
+const scoreInk=s=>s>=100*4/6?"#1d1d1b":"#ebecdc";
+const mutColor=c=>MUT[Math.min(4,c)];
+const mutInk=c=>c>=3?"#1d1d1b":"#ffffff";
+const STCLS={"Have contact":"st-contact","Have route":"st-route","Need access":"st-need"};
+
+let state={status:"All",tier:"All",q:"",sort:"score",dir:-1,open:null};
+
+const S=DATA.summary;
+document.getElementById("chips").innerHTML=
+  `<span class="chip accent">${S.total} targets · ${S.primary} priced / ${S.backup} backup</span>`+
+  `<span class="chip accent">Routes swept ${S.routes_swept} · fan overlap ${S.swept}/${S.with_ig}</span>`+
+  `<span class="chip accent">All signals live-verified 18 Sep 2026</span>`;
+
+const tiles=[
+  ["Warm — reachable now",S.reachable_now,"score ≥ 40","mint"],
+  ["Have intro routes",S.with_routes,"they follow someone you know",""],
+  ["Friend-grade routes",S.with_friend_routes,"route follows you back — ask for intro","mint"],
+  ["Cold",DATA.rows.filter(r=>r.routes_swept&&r.route_count===0&&!r.follows_you).length,"no route in — cold DM or paid intro",""],
+  ["Budget · reachable set",fmt$(S.reachable_fee_exposure),"fee-high of priced reachables","mint"],
+  ["Budget · all priced",fmt$(S.total_fee_exposure),"fee-high total, primary list",""],
+];
+document.getElementById("tiles").innerHTML=tiles.map(([l,v,s,c])=>
+  `<div class="tile ${c}"><div class="lbl">${l}</div><div class="val ${String(v).length>9?"long":""}">${v}</div><div class="sub">${s}</div></div>`).join("");
+
+const COLS=[
+  ["creator","Creator",null],
+  ["status","Sheet status",null],
+  ["score","Score","num"],
+  ["route_count","Routes","num"],
+  ["mutual_count","Fan overlap","num"],
+  ["follow","You ↔ Them",null],
+  ["fee_low","Fee low","num"],
+  ["fee_high","Fee high","num"],
+  ["opportunity","Opp. index","num"],
+];
+function renderHead(){
+  document.getElementById("headrow").innerHTML=COLS.map(([k,l,cls])=>
+    `<th class="${cls||""} ${state.sort===k?"sorted":""}" data-k="${k}">${l}${state.sort===k?(state.dir<0?" ▾":" ▴"):""}</th>`).join("");
+  document.querySelectorAll("th").forEach(th=>th.onclick=()=>{
+    const k=th.dataset.k; if(k==="creator"||k==="follow")return;
+    if(state.sort===k)state.dir*=-1; else {state.sort=k;state.dir=-1;}
+    render();
+  });
+}
+function socials(r){
+  const out=[];
+  if(r.ig_handle)out.push(`<a class="soc" target="_blank" href="https://instagram.com/${r.ig_handle}">IG @${r.ig_handle}${r.ig_guessed?" ?":""}</a>`);
+  if(r.x_handle)out.push(`<a class="soc" target="_blank" href="https://x.com/${r.x_handle}">X @${r.x_handle}</a>`);
+  if(r.kick_handle)out.push(`<a class="soc" target="_blank" href="https://kick.com/${r.kick_handle}">Kick @${r.kick_handle}${r.kick_followers?" · "+r.kick_followers.toLocaleString():""}</a>`);
+  if(r.other_socials)out.push(`<span class="soc">${r.other_socials}</span>`);
+  return out.join("");
+}
+function routes(r){
+  if(!r.routes_swept)return `<span class="pend">${r.ig_handle?"not swept":"no IG on file"}${r.sweep_note?" · "+r.sweep_note:""}</span>`;
+  const bits=[];
+  if(r.follows_you)bits.push(`<a class="mut cf" target="_blank" href="https://instagram.com/brown_derrek" title="they follow YOU — DM lands in their inbox">follows you ★</a>`);
+  bits.push(...r.friend_routes.map(u=>{const v=r.verified_routes.includes(u);return `<a class="mut cf" target="_blank" href="https://instagram.com/${u}" title="${r.handle} follows them, and they follow you back — ask for the intro. Follow-back ${v?"individually verified against your followers list":"from the bulk pass (spot-checked)"}.">@${u} ★</a>`}));
+  bits.push(...r.oneway_routes.map(u=>`<a class="mut" target="_blank" href="https://instagram.com/${u}" title="${r.handle} follows them; you follow them but no follow-back on record — warm them up first">@${u}</a>`));
+  if(!bits.length)return `<span class="pend">no routes — ${r.routes_note||"none of their follows are in your network"}</span>`;
+  return bits.join("");
+}
+function muts(r){
+  if(!r.swept)return `<span class="pend">not swept</span>`;
+  if(!r.mutual_usernames.length)return `<span class="pend">none visible</span>`;
+  return r.mutual_usernames.map(u=>`<a class="mut" target="_blank" href="https://instagram.com/${u}" title="follows ${r.handle}; you follow them — awareness only, not an intro path">@${u}</a>`).join("");
+}
+function render(){
+  renderHead();
+  let rows=DATA.rows.filter(r=>
+    (state.status==="All"||r.status===state.status)&&
+    (state.tier==="All"||(state.tier==="Primary"?!r.is_backup:r.is_backup))&&
+    (!state.q||(r.handle+" "+(r.real_name||"")+" "+(r.ig_handle||"")).toLowerCase().includes(state.q)));
+  rows=[...rows].sort((a,b)=>{
+    const k=state.sort,av=a[k]??-1,bv=b[k]??-1;
+    return (av<bv?-1:av>bv?1:0)*state.dir;
+  });
+  document.getElementById("tbody").innerHTML=rows.map(r=>{
+    const mc=r.mutual_count;
+    const open=state.open===r.row;
+    return `<tr class="datarow ${open?"open":""}" data-row="${r.row}">
+      <td><div class="creator"><span class="h">${r.handle}${r.is_backup?' <span style="font-family:var(--mono);font-size:14px;letter-spacing:.1em;color:var(--bone-faint)">BACKUP</span>':""}</span><span class="n">${r.real_name||""}</span></div></td>
+      <td><span class="stchip ${STCLS[r.status]}">${r.status}</span></td>
+      <td class="num"><span class="heat" style="background:${scoreColor(r.score)};color:${scoreInk(r.score)}" title="reachability ${r.score}/100">${r.score}</span></td>
+      <td class="num">${!r.routes_swept?'<span class="pend">—</span>':`<span class="heat" style="background:${mutColor(Math.min(4,r.friend_routes.length*2+(r.route_count?1:0)))};color:${mutInk(Math.min(4,r.friend_routes.length*2+(r.route_count?1:0)))}" title="${r.friend_routes.length} friend route${r.friend_routes.length===1?"":"s"} + ${r.oneway_routes.length} one-way">${r.friend_routes.length?r.friend_routes.length+"★+"+r.oneway_routes.length:r.route_count}</span>`}</td>
+      <td class="num">${mc==null?'<span class="pend">—</span>':`<span class="money" title="${mc} of their followers are people you follow — awareness signal only">${mc}</span>`}</td>
+      <td><span class="flw ${r.you_follow?"yes":""}" title="you follow them">you→</span><span class="flw ${r.follows_you?"yes":""}" title="they follow you">→you</span></td>
+      <td class="num money">${fmt$(r.fee_low)}</td>
+      <td class="num money hi">${fmt$(r.fee_high)}</td>
+      <td class="num money" title="score × fee-high / 1000">${r.opportunity||"—"}</td>
+    </tr>${open?`<tr class="detail"><td colspan="9"><div class="dgrid">
+      <div class="dcol"><div class="dl">Intro routes — people THEY follow that you know · ★ = real friend, ask for intro</div><div class="mutlist">${routes(r)}</div>
+        <div class="dl" style="margin-top:14px">Socials</div><div class="soclist">${socials(r)}</div></div>
+      <div class="dcol"><div class="dl">Fan overlap — your follows in their audience (awareness only)</div><div class="mutlist">${muts(r)}</div></div>
+    </div></td></tr>`:""}`;
+  }).join("");
+  document.querySelectorAll("tr.datarow").forEach(tr=>tr.onclick=e=>{
+    if(e.target.closest("a"))return;
+    const n=+tr.dataset.row; state.open=state.open===n?null:n; render();
+  });
+}
+function chipRow(el,opts,key){
+  el.innerHTML=opts.map(o=>`<button class="fbtn ${state[key]===o?"on":""}" data-v="${o}">${o}</button>`).join("");
+  el.querySelectorAll(".fbtn").forEach(b=>b.onclick=()=>{state[key]=b.dataset.v;chipRow(el,opts,key);render();});
+}
+chipRow(document.getElementById("statusFilters"),["All","Have contact","Have route","Need access"],"status");
+chipRow(document.getElementById("tierFilters"),["All","Primary","Backup"],"tier");
+document.getElementById("search").oninput=e=>{state.q=e.target.value.toLowerCase();render();};
+document.getElementById("stamp").textContent="Data built "+new Date().toLocaleDateString("en-US",{month:"short",day:"numeric",year:"numeric"});
+render();
+</script>
+</body>
+</html>

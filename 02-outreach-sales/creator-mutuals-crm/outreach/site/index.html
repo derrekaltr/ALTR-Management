@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#1d1d1b">
+<meta name="robots" content="noindex, nofollow, noarchive, nosnippet">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="ALTR">
+<title>ALTR Outreach</title>
+<link rel="icon" type="image/png" sizes="512x512" href="icon-512.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="site.webmanifest">
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;800&family=Spline+Sans+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{--ink:#1d1d1b;--raise:#232321;--line:rgba(235,236,220,.11);--bone:#ebecdc;
+--dim:rgba(235,236,220,.55);--faint:rgba(235,236,220,.32);--mint:#b6f2e5;
+--red:#e34948;--green:#0ca30c;--amber:#eda100;
+--sans:"Archivo",-apple-system,BlinkMacSystemFont,sans-serif;--mono:"Spline Sans Mono",ui-monospace,monospace;}
+*{margin:0;padding:0;box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+body{background:var(--ink);color:var(--bone);font-family:var(--sans);font-size:16px;line-height:1.5;
+padding-bottom:calc(30px + env(safe-area-inset-bottom,0));overscroll-behavior-y:contain}
+header{position:sticky;top:0;z-index:50;background:rgba(29,29,27,.96);backdrop-filter:saturate(180%) blur(14px);
+border-bottom:1px solid var(--line);padding:calc(12px + env(safe-area-inset-top,0)) 18px 11px}
+.top{display:flex;align-items:center;justify-content:space-between;gap:10px}
+.logo{height:18px;width:auto;display:block}
+.when{font-family:var(--mono);font-size:9.5px;letter-spacing:.12em;text-transform:uppercase;color:var(--mint)}
+.bar{height:3px;background:rgba(235,236,220,.09);border-radius:99px;margin-top:10px;overflow:hidden;display:flex}
+.bar i{display:block;height:100%;transition:width .35s}
+.bar .b1{background:var(--green)}.bar .b2{background:var(--amber)}
+.prog{font-family:var(--mono);font-size:10px;color:var(--faint);margin-top:6px;letter-spacing:.04em}
+.filters{display:flex;gap:6px;overflow-x:auto;padding:10px 18px 2px;scrollbar-width:none;-webkit-overflow-scrolling:touch}
+.filters::-webkit-scrollbar{display:none}
+.f{flex:none;font-family:var(--mono);font-size:10.5px;letter-spacing:.08em;text-transform:uppercase;
+padding:8px 13px;border:1px solid var(--line);border-radius:99px;color:var(--dim);background:none;cursor:pointer;white-space:nowrap}
+.f.on{border-color:var(--mint);color:var(--mint)}
+.f b{color:var(--mint);font-weight:500}
+main{padding:6px 18px}
+
+.row{border-bottom:1px solid var(--line)}
+.hd{display:flex;align-items:center;gap:10px;padding:13px 2px;cursor:pointer}
+.dot{width:7px;height:7px;border-radius:50%;flex:none;background:#3a3a38}
+.dot.wait{background:var(--amber)}.dot.yes{background:var(--green)}.dot.no{background:var(--red)}
+.nm{flex:1;font-size:17px;font-weight:600;letter-spacing:-.01em;min-width:0;
+overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.row.done .nm{color:var(--dim)}
+.row.no .nm{text-decoration:line-through;color:var(--faint)}
+.ago{font-family:var(--mono);font-size:9.5px;color:var(--amber);flex:none}
+.ig{width:36px;height:36px;border-radius:10px;border:1px solid var(--line);color:var(--dim);
+display:flex;align-items:center;justify-content:center;flex:none;text-decoration:none}
+.ig svg{width:17px;height:17px}
+.ig:active{color:var(--mint);border-color:var(--mint)}
+.ig.off{opacity:.25}
+.p{font-family:var(--mono);font-size:9.5px;letter-spacing:.06em;padding:3px 7px;border-radius:5px;border:1px solid;flex:none}
+.pA{color:#ff7b7a;border-color:rgba(255,123,122,.42)}
+.pB{color:#eda100;border-color:rgba(237,161,0,.42)}
+.pC{color:#6da7ec;border-color:rgba(109,167,236,.42)}
+.pD{color:var(--faint);border-color:var(--line)}
+.cv{width:9px;height:9px;border-right:1.6px solid var(--faint);border-bottom:1.6px solid var(--faint);
+transform:rotate(45deg);flex:none;margin-left:1px;margin-top:-3px;transition:transform .22s}
+.row.open .cv{transform:rotate(-135deg);margin-top:3px;border-color:var(--mint)}
+
+.panel{display:none;padding:2px 2px 20px}
+.row.open .panel{display:block}
+.who{font-size:13px;color:var(--faint);font-family:var(--mono);margin-bottom:11px;word-break:break-word}
+.warn{font-size:13px;line-height:1.45;color:#fab219;background:rgba(250,178,25,.09);
+border:1px solid rgba(250,178,25,.3);border-radius:9px;padding:9px 11px;margin-bottom:11px}
+.route{font-family:var(--mono);font-size:11px;color:var(--faint);line-height:1.6;margin-bottom:11px;word-break:break-word}
+.stage{font-family:var(--mono);font-size:10px;letter-spacing:.1em;text-transform:uppercase;
+color:var(--faint);margin:0 0 7px 2px}
+.msgwrap{position:relative}
+.msg{background:#151513;border:1px solid var(--line);border-radius:12px;padding:14px 52px 14px 14px;
+font-size:14.5px;line-height:1.55;white-space:pre-wrap;color:#dedfd0}
+.msg.fu{background:rgba(237,161,0,.05);border-color:rgba(237,161,0,.28)}
+.copy{position:absolute;top:9px;right:9px;width:36px;height:36px;border-radius:10px;
+border:1px solid var(--line);background:rgba(29,29,27,.85);color:var(--dim);
+display:flex;align-items:center;justify-content:center;cursor:pointer}
+.copy svg{width:16px;height:16px}
+.copy:active{transform:scale(.92)}
+.copy.ok{color:var(--green);border-color:rgba(12,163,12,.5)}
+
+.tinder{display:flex;justify-content:center;align-items:flex-start;gap:26px;margin-top:18px}
+.tw{display:flex;flex-direction:column;align-items:center;gap:7px}
+.tb{width:60px;height:60px;border-radius:50%;border:1.5px solid;background:none;cursor:pointer;
+display:flex;align-items:center;justify-content:center;transition:transform .14s,background .14s,color .14s}
+.tb svg{width:25px;height:25px}
+.tb:active{transform:scale(.88)}
+.tb.pass{color:var(--red);border-color:rgba(227,73,72,.45)}
+.tb.sent{color:var(--dim);border-color:var(--line)}
+.tb.yes{color:var(--green);border-color:rgba(12,163,12,.45)}
+.tb.on.pass{background:var(--red);color:#fff;border-color:var(--red)}
+.tb.on.sent{background:var(--amber);color:#1d1d1b;border-color:var(--amber)}
+.tb.on.yes{background:var(--green);color:#fff;border-color:var(--green)}
+.tl{font-family:var(--mono);font-size:9.5px;letter-spacing:.09em;text-transform:uppercase;color:var(--faint)}
+.hint{font-size:12.5px;color:var(--faint);text-align:center;margin-top:12px;line-height:1.5}
+.empty{text-align:center;color:var(--faint);padding:50px 20px;font-size:14px;line-height:1.6}
+footer{padding:22px 18px;color:var(--faint);font-size:12px;line-height:1.7;border-top:1px solid var(--line);margin-top:14px}
+footer b{color:var(--dim)}
+</style></head><body>
+
+<header>
+ <div class="top"><img class="logo" src="altr-wordmark.png" alt="ALTR" width="59" height="18"><div class="when" id="cd"></div></div>
+ <div class="bar"><i class="b1" id="pb1"></i><i class="b2" id="pb2"></i></div>
+ <div class="prog" id="ptxt"></div>
+</header>
+<div class="filters" id="filters"></div>
+<main id="list"></main>
+<footer>
+ <b>Never quote a fee.</b> &ldquo;Derrek handles the numbers &mdash; want me to connect you?&rdquo;<br>
+ <b>Keen?</b> Send it to Derrek, he takes it from there.<br>
+ <b>15&ndash;20 a day.</b> One follow-up after 48h, then leave it.
+</footer>
+
+<script>
+const DATA=[{"handle": "xqc", "real": "Félix Lengyel", "ig": "xqcow1", "tier": "A", "msg": "hey xqc!\n\nyou around miami oct 14? there's a launch night for this thing called IMPAKT and i'm helping pull the lineup together. over 100 streamers all going live at the same minute, twitch and kick.\n\nit sits on top of your stream and lets chat vote on your next move.\n\nit's paid. want me to send you the details?", "note": "", "route": ""}, {"handle": "adinross", "real": "Adin Ross", "ig": "adinross", "tier": "A", "msg": "hey adin!\n\nyou around miami oct 14? there's a launch night for this thing called IMPAKT and i'm helping pull the lineup together. over 100 streamers all going live at the same minute, twitch and kick.\n\nit sits on top of your stream and lets chat vote on your next move.\n\nit's paid. want me to send you the details?", "note": "", "route": "@gordoszn, @mylesoneal, @kyle, @orelthebro"}, {"handle": "n3on", "real": "Rangesh Mutama", "ig": "n3onsingh", "tier": "A", "msg": "hey n3on!\n\nyou around miami oct 14? there's a launch night for this thing called IMPAKT and i'm helping pull the lineup together. over 100 streamers all going live at the same minute, twitch and kick.\n\nit sits on top of your stream and lets chat vote on your next move.\n\nit's paid. want me to send you the details?", "note": "", "route": "@chico.sway, @kyle, @livingpapi"}, {"handle": "trainwreckstv", "real": "Tyler Niknam", "ig": "tylerniknam", "tier": "A", "msg": "hey train!\n\nyou around miami oct 14? there's a launch night for this thing called IMPAKT and i'm helping pull the lineup together. over 100 streamers all going live at the same minute, twitch and kick.\n\nit sits on top of your stream and lets chat vote on your next move.\n\nit's paid. want me to send you the details?", "note": "", "route": ""}, {"handle": "stevewilldoit", "real": "Stephen Deleonardis", "ig": "stevewilldoit", "tier": "A", "msg": "hey steve!\n\nyou around miami oct 14? there's a launch night for this thing called IMPAKT and i'm helping pull the lineup together. over 100 streamers all going live at the same minute, twitch and kick.\n\nit sits on top of your stream and lets chat vote on your next move.\n\nit's paid. want me to send you the details?", "note": "", "route": ""}, {"handle": "togi", "real": "Shane Stoffer", "ig": "stoffer__", "tier": "B", "msg": "hey togi!\n\nyou around miami oct 14? there's a launch night for this thing called IMPAKT and i'm helping pull the lineup together. over 100 streamers all going live at the same minute, twitch and kick.\n\nit sits on top of your stream and lets chat vote on your next move.\n\nit's paid. want me to send you the details?", "note": "Follows 0 accounts on IG — cold DM only", "route": ""}, {"handle": "timthetatman", "real": "Timothy Betar", "ig": "timthetatman", "tier": "B", "msg": "hey tim!\n\nyou around miami oct 14? there's a launch night for this thing called IMPAKT and i'm helping pull the lineup together. over 100 streamers all going live at the same minute, twitch and kick.\n\nit sits on top of your stream and lets chat vote on your next move.\n\nit's paid. want me to send you the details?", "note": "", "route": ""}, {"handle": "amouranth", "real": "Kaitlyn Siragusa", "ig": "amouranth", "tier": "B", "msg": "hey kait!\n\nyou around miami oct 14? there's a launch night for this thing called IMPAKT and i'm helping pull the lineup together. over 100 streamers all going live at the same minute, twitch and kick.\n\nit sits on top of your stream and lets chat vote on your next move.\n\nit's paid. want me to send you the details?", "note": "Sheet's @kaitgonewild is a dead placeholder — real IG is @amouranth", "route": "@momycarterx"}, {"handle": "ronnieradke", "real": "Ronnie Radke", "ig": "ronnieradke", "tier": "B", "msg": "hey ronnie!\n\nyou around miami oct 14? there's a launch night for this thing called IMPAKT and i'm helping pull the lineup together. over 100 streamers all going live at the same minute, twitch and kick.\n\nit sits on top of your stream and lets chat vote on your next move.\n\nit's paid. want me to send you the details?", "note": "", "route": "@ronnyj"}, {"handle": "ddg", "real": "Darryl Granberry Jr.", "ig": "ddg", "tier": "B", "msg": "hey ddg!\n\nyou around miami oct 14? there's a launch night for this thing called IMPAKT and i'm helping pull the lineup together. over 100 streamers all going live at the same minute, twitch and kick.\n\nit sits on top of your stream and lets chat vote on your next move.\n\nit's paid. want me to send you the details?", "note": "", "route": "@chico.sway, @kyle, @shawnmag, @malek_04"}, {"handle": "lospollostv", "real": "Louis Sammartino", "ig": "lospollosig", "tier": "B", "msg": "hey louis!\n\nyou around miami oct 14? there's a launch night for this thing called IMPAKT and i'm helping pull the lineup together. over 100 streamers all going live at the same minute, twitch and kick.\n\nit sits on top of your stream and lets chat vote on your next move.\n\nit's paid. want me to send you the details?", "note": "", "route": "@kyle"}, {"handle": "ac7ionman", "real": "Aaron Travis", "ig": "ac7ionman", "tier": "B", "msg": "hey aaron!\n\nyou around miami oct 14? there's a launch night for this thing called IMPAKT and i'm helping pull the lineup together. over 100 streamers all going live at the same minute, twitch and kick.\n\nit sits on top of your stream and lets chat vote on your next move.\n\nit's paid. want me to send you the details?", "note": "", "route": "@4mbuh, @brickboydior, @cashgrabber9000, @juliencharles"}, {"handle": "cuffem", "real": "Cameron Jordan", "ig": "cuffemm", "tier": "B", "msg": "hey cuffem!\n\nyou around miami oct 14? there's a launch night for this thing called IMPAKT and i'm helping pull the lineup together. over 100 streamers all going live at the same minute, twitch and kick.\n\nit sits on top of your stream and lets chat vote on your next move.\n\nit's paid. want me to send you the details?", "note": "Real name low-confidence — don't use it, just say the handle", "route": ""}, {"handle": "deenthegreat", "real": "Deen", "ig": "deenthegreat", "tier": "B", "msg": "hey deen!\n\nyou around miami oct 14? there's a launch night for this thing called IMPAKT and i'm helping pull the lineup together. over 100 streamers all going live at the same minute, twitch and kick.\n\nit sits on top of your stream and lets chat vote on your next move.\n\nit's paid. want me to send you the details?", "note": "", "route": "@gordoszn, @chico.sway, @onacasella, @blamekick"}, {"handle": "iceposeidon", "real": "Paul Denino", "ig": "ice_poseidon", "tier": "B", "msg": "hey ice!\n\nyou around miami oct 14? there's a launch night for this thing called IMPAKT and i'm helping pull the lineup together. over 100 streamers all going live at the same minute, twitch and kick.\n\nit sits on top of your stream and lets chat vote on your next move.\n\nit's paid. want me to send you the details?", "note": "", "route": "@onacasella, @blamekick, @mattsteffanina"}, {"handle": "oblivionsw", "real": "Christian", "ig": "oblivionssw", "tier": "B", "msg": "hey oblivion!\n\nyou around miami oct 14? there's a launch night for this thing called IMPAKT and i'm helping pull the lineup together. over 100 streamers all going live at the same minute, twitch and kick.\n\nit sits on top of your stream and lets chat vote on your next move.\n\nit's paid. want me to send you the details?", "note": "", "route": "@rich.sevens, @murdamoves, @michaelfrank16"}, {"handle": "xposed", "real": "Cody Burnett", "ig": "xposed", "tier": "B", "msg": "hey cody!\n\nyou around miami oct 14? there's a launch night for this thing called IMPAKT and i'm helping pull the lineup together. over 100 streamers all going live at the same minute, twitch and kick.\n\nit sits on top of your stream and lets chat vote on your next move.\n\nit's paid. want me to send you the details?", "note": "", "route": "@kyle"}, {"handle": "deshaefrost", "real": "DeShaun Harrison", "ig": "deshaefrost", "tier": "C", "msg": "hey deshae!\n\nyou around miami oct 14? there's a launch night for this thing called IMPAKT and i'm helping pull the lineup together. over 100 streamers all going live at the same minute, twitch and kick.\n\nit sits on top of your stream and lets chat vote on your next move.\n\nit's paid. want me to send you the details?", "note": "", "route": "@miranextdoorx"}, {"handle": "cheesur", "real": "Nermin Dzaferovic", "ig": "icheesur", "tier": "C", "msg": "hey cheesur!\n\nyou around miami oct 14? there's a launch night for this thing called IMPAKT and i'm helping pull the lineup together. over 100 streamers all going live at the same minute, twitch and kick.\n\nit sits on top of your stream and lets chat vote on your next move.\n\nit's paid. want me to send you the details?", "note": "", "route": "@samosox, @tells"}, {"handle": "andy", "real": "Andy Milonakis", "ig": "andymilonakis", "tier": "C", "msg": "hey andy!\n\nyou around miami oct 14? there's a launch night for this thing called IMPAKT and i'm helping pull the lineup together. over 100 streamers all going live at the same minute, twitch and kick.\n\nit sits on top of your stream and lets chat vote on your next move.\n\nit's paid. want me to send you the details?", "note": "", "route": ""}, {"handle": "bendadonnn", "real": "", "ig": "", "tier": "C", "msg": "hey bendadonnn!\n\nyou around miami oct 14? there's a launch night for this thing called IMPAKT and i'm helping pull the lineup together. over 100 streamers all going live at the same minute, twitch and kick.\n\nit sits on top of your stream and lets chat vote on your next move.\n\nit's paid. want me to send you the details?", "note": "No IG found — Kick only", "route": ""}, {"handle": "bigfoltz", "real": "Cody Foltz", "ig": "bigfoltz", "tier": "C", "msg": "hey cody!\n\nyou around miami oct 14? there's a launch night for this thing called IMPAKT and i'm helping pull the lineup together. over 100 streamers all going live at the same minute, twitch and kick.\n\nit sits on top of your stream and lets chat vote on your next move.\n\nit's paid. want me to send you the details?", "note": "", "route": "@kyle, @harry.colquhoun"}, {"handle": "btcs", "real": "", "ig": "btcsofficial", "tier": "C", "msg": "hey btcs!\n\nyou around miami oct 14? there's a launch night for this thing called IMPAKT and i'm helping pull the lineup together. over 100 streamers all going live at the same minute, twitch and kick.\n\nit sits on top of your stream and lets chat vote on your next move.\n\nit's paid. want me to send you the details?", "note": "IG @BTCsOfficial is dead — reach on X @btcsrewards or Kick", "route": ""}, {"handle": "cloakzy", "real": "Dennis Lepore", "ig": "cloakzy", "tier": "C", "msg": "hey cloakzy!\n\nyou around miami oct 14? there's a launch night for this thing called IMPAKT and i'm helping pull the lineup together. over 100 streamers all going live at the same minute, twitch and kick.\n\nit sits on top of your stream and lets chat vote on your next move.\n\nit's paid. want me to send you the details?", "note": "", "route": "@gordoszn"}, {"handle": "keithlocks", "real": "Keith", "ig": "keitthlocks", "tier": "C", "msg": "hey keith!\n\nyou around miami oct 14? there's a launch night for this thing called IMPAKT and i'm helping pull the lineup together. over 100 streamers all going live at the same minute, twitch and kick.\n\nit sits on top of your stream and lets chat vote on your next move.\n\nit's paid. want me to send you the details?", "note": "", "route": ""}, {"handle": "sweatergxd", "real": "Adrian Sandoval", "ig": "sweater.gxd", "tier": "C", "msg": "hey sweater!\n\nyou around miami oct 14? there's a launch night for this thing called IMPAKT and i'm helping pull the lineup together. over 100 streamers all going live at the same minute, twitch and kick.\n\nit sits on top of your stream and lets chat vote on your next move.\n\nit's paid. want me to send you the details?", "note": "", "route": ""}, {"handle": "konvy", "real": "Steven Garcia", "ig": "konvy1k", "tier": "C", "msg": "hey konvy!\n\nyou around miami oct 14? there's a launch night for this thing called IMPAKT and i'm helping pull the lineup together. over 100 streamers all going live at the same minute, twitch and kick.\n\nit sits on top of your stream and lets chat vote on your next move.\n\nit's paid. want me to send you the details?", "note": "", "route": "@avvakeofc"}, {"handle": "kyootbot", "real": "Kiana", "ig": "kyootbot", "tier": "C", "msg": "hey kiana!\n\nyou around miami oct 14? there's a launch night for this thing called IMPAKT and i'm helping pull the lineup together. over 100 streamers all going live at the same minute, twitch and kick.\n\nit sits on top of your stream and lets chat vote on your next move.\n\nit's paid. want me to send you the details?", "note": "", "route": "@malek_04"}, {"handle": "corinnakopf", "real": "Corinna Kopf", "ig": "corinnakopf", "tier": "D", "msg": "hey corinna!\n\nyou around miami oct 14? there's a launch night for this thing called IMPAKT and i'm helping pull the lineup together. over 100 streamers all going live at the same minute, twitch and kick.\n\nit sits on top of your stream and lets chat vote on your next move.\n\nit's paid. want me to send you the details?", "note": "IG @corinnakopf unavailable — reach on Kick, or via a mutual", "route": ""}, {"handle": "yassuo", "real": "Mohammad 'Moe' Abdalrhman", "ig": "yassuo", "tier": "D", "msg": "hey moe!\n\nyou around miami oct 14? there's a launch night for this thing called IMPAKT and i'm helping pull the lineup together. over 100 streamers all going live at the same minute, twitch and kick.\n\nit sits on top of your stream and lets chat vote on your next move.\n\nit's paid. want me to send you the details?", "note": "", "route": "@chico.sway, @chesco_0, @kyle, @burkay"}, {"handle": "blackknate", "real": "", "ig": "blacknate_yt", "tier": "D", "msg": "hey nate!\n\nyou around miami oct 14? there's a launch night for this thing called IMPAKT and i'm helping pull the lineup together. over 100 streamers all going live at the same minute, twitch and kick.\n\nit sits on top of your stream and lets chat vote on your next move.\n\nit's paid. want me to send you the details?", "note": "", "route": ""}, {"handle": "graygray", "real": "Gray", "ig": "graygrayog", "tier": "D", "msg": "hey gray!\n\nyou around miami oct 14? there's a launch night for this thing called IMPAKT and i'm helping pull the lineup together. over 100 streamers all going live at the same minute, twitch and kick.\n\nit sits on top of your stream and lets chat vote on your next move.\n\nit's paid. want me to send you the details?", "note": "", "route": "@malek_04"}, {"handle": "ivanb", "real": "Ivan B", "ig": "", "tier": "D", "msg": "hey ivan!\n\nyou around miami oct 14? there's a launch night for this thing called IMPAKT and i'm helping pull the lineup together. over 100 streamers all going live at the same minute, twitch and kick.\n\nit sits on top of your stream and lets chat vote on your next move.\n\nit's paid. want me to send you the details?", "note": "No IG — X @ivanblive only", "route": ""}, {"handle": "moonbootmurphy", "real": "", "ig": "moonbetmurphy", "tier": "D", "msg": "hey murphy!\n\nyou around miami oct 14? there's a launch night for this thing called IMPAKT and i'm helping pull the lineup together. over 100 streamers all going live at the same minute, twitch and kick.\n\nit sits on top of your stream and lets chat vote on your next move.\n\nit's paid. want me to send you the details?", "note": "", "route": ""}, {"handle": "rusheazy", "real": "", "ig": "rush_eazy", "tier": "D", "msg": "hey rush!\n\nyou around miami oct 14? there's a launch night for this thing called IMPAKT and i'm helping pull the lineup together. over 100 streamers all going live at the same minute, twitch and kick.\n\nit sits on top of your stream and lets chat vote on your next move.\n\nit's paid. want me to send you the details?", "note": "", "route": ""}, {"handle": "zombiebarricades", "real": "", "ig": "", "tier": "D", "msg": "hey zombie!\n\nyou around miami oct 14? there's a launch night for this thing called IMPAKT and i'm helping pull the lineup together. over 100 streamers all going live at the same minute, twitch and kick.\n\nit sits on top of your stream and lets chat vote on your next move.\n\nit's paid. want me to send you the details?", "note": "No IG found — Kick/YT only", "route": ""}];
+const FOLLOWUP="hey! just bumping this in case it got buried. no stress if it's not your thing.";
+const IG_SVG='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="2.6" y="2.6" width="18.8" height="18.8" rx="5.4"/><circle cx="12" cy="12" r="4.2"/><circle cx="17.5" cy="6.5" r="1.25" fill="currentColor" stroke="none"/></svg>';
+const COPY_SVG='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="12" height="12" rx="2.6"/><path d="M5.5 15H4.6A1.6 1.6 0 0 1 3 13.4v-9A1.6 1.6 0 0 1 4.6 3h9A1.6 1.6 0 0 1 15 4.6v.9"/></svg>';
+const OK_SVG='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M4.5 12.5l5 5L20 6.5"/></svg>';
+const X_SVG='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M6.5 6.5l11 11M17.5 6.5l-11 11"/></svg>';
+const PLANE_SVG='<svg viewBox="0 0 24 24" fill="currentColor"><path d="M2.2 21L23 12 2.2 3l.01 7L17 12 2.21 14z"/></svg>';
+const HEART_SVG='<svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/></svg>';
+
+/* state: {s:1 sent, o:'yes'|'no'|null outcome, t:sent time} — migrates the old single-string format */
+let S=JSON.parse(localStorage.getItem('impakt_v2')||'null');
+if(!S){
+ const old=JSON.parse(localStorage.getItem('impakt_status')||'{}');S={};
+ for(const k in old){const v=old[k];
+  if(v==='sent')S[k]={s:1,o:null,t:Date.now()};
+  else if(v==='yes')S[k]={s:1,o:'yes',t:Date.now()};
+  else if(v==='no')S[k]={s:1,o:'no',t:Date.now()};}
+}
+const save=()=>localStorage.setItem('impakt_v2',JSON.stringify(S));
+const st=h=>S[h]||{s:0,o:null,t:0};
+let filt='all',open=null;
+const days=Math.ceil((new Date(2026,9,14,23,59)-new Date())/864e5);
+document.getElementById('cd').textContent=days>1?days+' days out':days===1?'tomorrow':days===0?'tonight':'launched';
+function esc(s){return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
+const DAY=864e5;
+function ago(t){const d=Math.floor((Date.now()-t)/DAY);return d<=0?'today':d===1?'1d ago':d+'d ago';}
+function stale(x){return x.s&&!x.o&&(Date.now()-x.t)>2*DAY;}
+
+function counts(){
+ let sent=0,wait=0,yes=0,no=0,todo=0;
+ DATA.forEach(d=>{const x=st(d.handle);
+  if(!x.s){todo++;return}
+  sent++; if(x.o==='yes')yes++; else if(x.o==='no')no++; else wait++;});
+ return {sent,wait,yes,no,todo};
+}
+function prog(){
+ const c=counts(),n=DATA.length;
+ document.getElementById('pb1').style.width=(c.yes/n*100)+'%';
+ document.getElementById('pb2').style.width=(c.wait/n*100)+'%';
+ document.getElementById('ptxt').textContent=c.sent+' sent · '+c.wait+' waiting · '+c.yes+' keen · '+c.no+' passed';
+}
+function drawFilters(){
+ const c=counts();
+ const F=[['all','All'],['todo','To send '+c.todo],['wait','Waiting '+c.wait],['yes','Keen '+c.yes],
+          ['A','P1'],['B','P2'],['C','P3'],['D','P4'],['no','Passed '+c.no]];
+ document.getElementById('filters').innerHTML=F.map(f=>'<button class="f'+(filt===f[0]?' on':'')+'" data-f="'+f[0]+'">'+f[1]+'</button>').join('');
+ document.querySelectorAll('.f').forEach(b=>b.onclick=()=>{filt=b.dataset.f;open=null;render();});
+}
+function render(){
+ const y=window.scrollY;
+ const rows=DATA.filter(d=>{const x=st(d.handle);
+  if(filt==='all')return true;
+  if(filt==='todo')return !x.s;
+  if(filt==='wait')return x.s&&!x.o;
+  if(filt==='yes')return x.o==='yes';
+  if(filt==='no')return x.o==='no';
+  return d.tier===filt;});
+ const el=document.getElementById('list');
+ if(!rows.length){el.innerHTML='<div class="empty">Nothing here &mdash; nice work.</div>';drawFilters();prog();return;}
+ el.innerHTML=rows.map(d=>{
+  const x=st(d.handle), isOpen=open===d.handle;
+  const dotc=!x.s?'':x.o==='yes'?'yes':x.o==='no'?'no':'wait';
+  const P={A:'P1',B:'P2',C:'P3',D:'P4'}[d.tier];
+  const ig=d.ig?'<a class="ig" href="https://instagram.com/'+d.ig+'" target="_blank" rel="noopener" data-ig="1" aria-label="Open Instagram">'+IG_SVG+'</a>'
+               :'<span class="ig off">'+IG_SVG+'</span>';
+  let body='';
+  if(!x.s){
+   body='<div class="stage">Step 1 &mdash; send this</div>'
+    +'<div class="msgwrap"><div class="msg" id="m_'+d.handle+'">'+esc(d.msg)+'</div>'
+    +'<button class="copy" data-copy="m_'+d.handle+'">'+COPY_SVG+'</button></div>'
+    +'<div class="hint">Copy it, open IG, send &mdash; then hit <b>Sent</b>.</div>';
+  }else if(!x.o){
+   body='<div class="stage">Sent '+ago(x.t)+' &mdash; waiting on him</div>'
+    +(stale(x)?'<div class="stage" style="color:var(--amber)">Been 2+ days &mdash; one bump, then leave it</div>'
+      +'<div class="msgwrap"><div class="msg fu" id="f_'+d.handle+'">'+esc(FOLLOWUP)+'</div>'
+      +'<button class="copy" data-copy="f_'+d.handle+'">'+COPY_SVG+'</button></div>'
+      :'<div class="msgwrap"><div class="msg" id="m_'+d.handle+'">'+esc(d.msg)+'</div>'
+       +'<button class="copy" data-copy="m_'+d.handle+'">'+COPY_SVG+'</button></div>')
+    +'<div class="hint">He replied? Tap <b>Keen</b> or <b>Pass</b>.</div>';
+  }else if(x.o==='yes'){
+   body='<div class="stage" style="color:var(--green)">Keen &mdash; hand him to Derrek</div>'
+    +'<div class="msgwrap"><div class="msg" id="m_'+d.handle+'">'+esc(d.msg)+'</div>'
+    +'<button class="copy" data-copy="m_'+d.handle+'">'+COPY_SVG+'</button></div>'
+    +'<div class="hint">Send Derrek his @ and what he said. Don\'t talk numbers.</div>';
+  }else{
+   body='<div class="stage" style="color:var(--red)">Passed</div>'
+    +'<div class="hint">Leave it. Tap Pass again if you want to undo.</div>';
+  }
+  return '<div class="row'+(isOpen?' open':'')+(x.s?' done':'')+(x.o==='no'?' no':'')+'" data-h="'+d.handle+'">'
+   +'<div class="hd" data-t="'+d.handle+'">'
+     +'<span class="dot '+dotc+'"></span><span class="nm">'+esc(d.handle)+'</span>'
+     +(stale(x)?'<span class="ago">'+ago(x.t)+'</span>':'')
+     +ig+'<span class="p p'+d.tier+'">'+P+'</span><span class="cv"></span>'
+   +'</div>'
+   +'<div class="panel">'
+     +'<div class="who">'+(d.real?esc(d.real)+' · ':'')+(d.ig?'@'+esc(d.ig):'no instagram')+'</div>'
+     +(d.note?'<div class="warn">&#9888;&#65038; '+esc(d.note)+'</div>':'')
+     +(d.route?'<div class="route">Derrek can also reach him via '+esc(d.route)+'</div>':'')
+     +body
+     +'<div class="tinder">'
+       +'<div class="tw"><button class="tb pass '+(x.o==='no'?'on':'')+'" data-a="no" data-h="'+d.handle+'">'+X_SVG+'</button><span class="tl">Pass</span></div>'
+       +'<div class="tw"><button class="tb sent '+(x.s&&!x.o?'on':'')+'" data-a="sent" data-h="'+d.handle+'">'+PLANE_SVG+'</button><span class="tl">Sent</span></div>'
+       +'<div class="tw"><button class="tb yes '+(x.o==='yes'?'on':'')+'" data-a="yes" data-h="'+d.handle+'">'+HEART_SVG+'</button><span class="tl">Keen</span></div>'
+     +'</div></div></div>';}).join('');
+
+ document.querySelectorAll('.hd').forEach(h=>h.onclick=e=>{
+  if(e.target.closest('[data-ig]'))return;
+  open=(open===h.dataset.t)?null:h.dataset.t;render();});
+ document.querySelectorAll('[data-copy]').forEach(b=>b.onclick=async e=>{
+  e.stopPropagation();
+  const t=document.getElementById(b.dataset.copy).innerText;
+  try{await navigator.clipboard.writeText(t)}catch(err){
+   const ta=document.createElement('textarea');ta.value=t;ta.style.position='fixed';ta.style.opacity='0';
+   document.body.appendChild(ta);ta.focus();ta.select();document.execCommand('copy');ta.remove();}
+  b.innerHTML=OK_SVG;b.classList.add('ok');
+  setTimeout(()=>{b.innerHTML=COPY_SVG;b.classList.remove('ok')},1400);});
+ document.querySelectorAll('.tb').forEach(b=>b.onclick=e=>{
+  e.stopPropagation();
+  const h=b.dataset.h,a=b.dataset.a,x=st(h);
+  if(a==='sent'){ if(x.s&&!x.o){S[h]={s:0,o:null,t:0}} else {S[h]={s:1,o:null,t:Date.now()}} open=null; }
+  else { if(x.o===a){S[h]={s:1,o:null,t:x.t||Date.now()}; open=h;} else {S[h]={s:1,o:a,t:x.t||Date.now()}; open=null;} }
+  save();render();});
+ drawFilters();prog();
+ window.scrollTo(0,y);
+}
+render();
+</script></body></html>

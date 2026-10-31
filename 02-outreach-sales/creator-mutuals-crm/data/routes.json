@@ -1,0 +1,549 @@
+{
+  "_meta": {
+    "swept_at": "2026-09-17",
+    "method": "Per-creator Following-dialog capture in Derrek's logged-in Chrome: entries showing a 'Following' button are accounts the CREATOR follows that Derrek also follows = intro routes. Tier is now verified LIVE against Derrek's own followers list (instagram.com/brown_derrek followers dialog search, 2026-09-18): 'friend' = that route also follows @brown_derrek back (can make the intro); 'oneway' = Derrek follows them, no follow-back.",
+    "friend_routes_confirmed": [
+      "gordoszn",
+      "chico.sway",
+      "samosox",
+      "chesco_0",
+      "sooshbrah",
+      "ambrxse"
+    ],
+    "notes": "laurenblakeee (followed by adamweitsman) is almost certainly ALTR roster client Lauren Blake \u2014 treat as friend-tier. mrbeast/celebrity overlaps excluded as routes. stoffer__ (togi) follows 0 accounts. blacknate_yt, rush_eazy, moonbetmurphy skipped (micro accounts, $8K tier, zero mutual-follower signal). cuffemm and sweater.gxd confirmed zero-route by IG's own empty 'People you follow' section.",
+    "tier_source": "live followers-list search of @brown_derrek on 2026-09-18 (replaces the discarded ig-export intersection)",
+    "oneway_confirmed": [
+      "brezscales",
+      "theskyaccess",
+      "torylanez"
+    ],
+    "spot_verified": [
+      "4mbuh",
+      "ambrxse",
+      "brezscales",
+      "chesco_0",
+      "chico.sway",
+      "deenthegreat",
+      "gordoszn",
+      "ice_poseidon",
+      "kyle",
+      "laurenblakeee",
+      "malek_04",
+      "murdamoves",
+      "mylesoneal",
+      "onacasella",
+      "orelthebro",
+      "rich.sevens",
+      "samosox",
+      "sooshbrah",
+      "theskyaccess",
+      "torylanez"
+    ],
+    "correction_2026_09_18": "Earlier tiers came from data/ig-export/, which does NOT belong to @brown_derrek (export shows 53,408 followers / 8,166 following; the live account has 7,228 / 3,076). That export is no longer used for anything."
+  },
+  "profiles": {
+    "adinross": {
+      "swept": true,
+      "routes": [
+        {
+          "u": "gordoszn",
+          "tier": "friend",
+          "verified": true
+        },
+        {
+          "u": "mylesoneal",
+          "tier": "friend",
+          "verified": true
+        },
+        {
+          "u": "kyle",
+          "tier": "friend",
+          "verified": true
+        },
+        {
+          "u": "orelthebro",
+          "tier": "friend",
+          "verified": true
+        },
+        {
+          "u": "michaelfrank16",
+          "tier": "friend",
+          "verified": false
+        },
+        {
+          "u": "brayden.zaroff",
+          "tier": "friend",
+          "verified": false
+        }
+      ]
+    },
+    "xqcow1": {
+      "swept": true,
+      "routes": []
+    },
+    "tylerniknam": {
+      "swept": true,
+      "routes": []
+    },
+    "n3onsingh": {
+      "swept": true,
+      "routes": [
+        {
+          "u": "chico.sway",
+          "tier": "friend",
+          "verified": true
+        },
+        {
+          "u": "kyle",
+          "tier": "friend",
+          "verified": true
+        },
+        {
+          "u": "livingpapi",
+          "tier": "friend",
+          "verified": false
+        },
+        {
+          "u": "torylanez",
+          "tier": "oneway",
+          "verified": true
+        },
+        {
+          "u": "brezscales",
+          "tier": "oneway",
+          "verified": true
+        }
+      ]
+    },
+    "deenthegreat": {
+      "swept": true,
+      "routes": [
+        {
+          "u": "gordoszn",
+          "tier": "friend",
+          "verified": true
+        },
+        {
+          "u": "chico.sway",
+          "tier": "friend",
+          "verified": true
+        },
+        {
+          "u": "onacasella",
+          "tier": "friend",
+          "verified": true
+        },
+        {
+          "u": "blamekick",
+          "tier": "friend",
+          "verified": false
+        }
+      ]
+    },
+    "stevewilldoit": {
+      "swept": true,
+      "routes": []
+    },
+    "timthetatman": {
+      "swept": true,
+      "routes": []
+    },
+    "ddg": {
+      "swept": true,
+      "routes": [
+        {
+          "u": "chico.sway",
+          "tier": "friend",
+          "verified": true
+        },
+        {
+          "u": "kyle",
+          "tier": "friend",
+          "verified": true
+        },
+        {
+          "u": "shawnmag",
+          "tier": "friend",
+          "verified": false
+        },
+        {
+          "u": "malek_04",
+          "tier": "friend",
+          "verified": true
+        }
+      ]
+    },
+    "amouranth": {
+      "swept": true,
+      "routes": [
+        {
+          "u": "momycarterx",
+          "tier": "friend",
+          "verified": false
+        }
+      ]
+    },
+    "cuffemm": {
+      "swept": true,
+      "routes": [],
+      "confirmed_empty": true
+    },
+    "ice_poseidon": {
+      "swept": true,
+      "routes": [
+        {
+          "u": "onacasella",
+          "tier": "friend",
+          "verified": true
+        },
+        {
+          "u": "blamekick",
+          "tier": "friend",
+          "verified": false
+        },
+        {
+          "u": "mattsteffanina",
+          "tier": "friend",
+          "verified": false
+        }
+      ]
+    },
+    "oblivionssw": {
+      "swept": true,
+      "routes": [
+        {
+          "u": "rich.sevens",
+          "tier": "friend",
+          "verified": true
+        },
+        {
+          "u": "murdamoves",
+          "tier": "friend",
+          "verified": true
+        },
+        {
+          "u": "michaelfrank16",
+          "tier": "friend",
+          "verified": false
+        },
+        {
+          "u": "brezscales",
+          "tier": "oneway",
+          "verified": true
+        }
+      ]
+    },
+    "lospollosig": {
+      "swept": true,
+      "routes": [
+        {
+          "u": "kyle",
+          "tier": "friend",
+          "verified": true
+        },
+        {
+          "u": "torylanez",
+          "tier": "oneway",
+          "verified": true
+        }
+      ]
+    },
+    "ac7ionman": {
+      "swept": true,
+      "routes": [
+        {
+          "u": "4mbuh",
+          "tier": "friend",
+          "verified": true
+        },
+        {
+          "u": "brickboydior",
+          "tier": "friend",
+          "verified": false
+        },
+        {
+          "u": "cashgrabber9000",
+          "tier": "friend",
+          "verified": false
+        },
+        {
+          "u": "juliencharles",
+          "tier": "friend",
+          "verified": false
+        }
+      ]
+    },
+    "icheesur": {
+      "swept": true,
+      "routes": [
+        {
+          "u": "samosox",
+          "tier": "friend",
+          "verified": true
+        },
+        {
+          "u": "tells",
+          "tier": "friend",
+          "verified": false
+        },
+        {
+          "u": "theskyaccess",
+          "tier": "oneway",
+          "verified": true
+        }
+      ]
+    },
+    "konvy1k": {
+      "swept": true,
+      "routes": [
+        {
+          "u": "avvakeofc",
+          "tier": "friend",
+          "verified": false
+        }
+      ]
+    },
+    "andymilonakis": {
+      "swept": true,
+      "routes": []
+    },
+    "cloakzy": {
+      "swept": true,
+      "routes": [
+        {
+          "u": "gordoszn",
+          "tier": "friend",
+          "verified": true
+        }
+      ]
+    },
+    "deshaefrost": {
+      "swept": true,
+      "routes": [
+        {
+          "u": "miranextdoorx",
+          "tier": "friend",
+          "verified": false
+        }
+      ]
+    },
+    "yassuo": {
+      "swept": true,
+      "routes": [
+        {
+          "u": "chico.sway",
+          "tier": "friend",
+          "verified": true
+        },
+        {
+          "u": "chesco_0",
+          "tier": "friend",
+          "verified": true
+        },
+        {
+          "u": "kyle",
+          "tier": "friend",
+          "verified": true
+        },
+        {
+          "u": "burkay",
+          "tier": "friend",
+          "verified": false
+        }
+      ]
+    },
+    "ronnieradke": {
+      "swept": true,
+      "routes": [
+        {
+          "u": "ronnyj",
+          "tier": "friend",
+          "verified": false
+        }
+      ]
+    },
+    "kyootbot": {
+      "swept": true,
+      "routes": [
+        {
+          "u": "malek_04",
+          "tier": "friend",
+          "verified": true
+        }
+      ]
+    },
+    "sweater.gxd": {
+      "swept": true,
+      "routes": [],
+      "confirmed_empty": true
+    },
+    "bigfoltz": {
+      "swept": true,
+      "routes": [
+        {
+          "u": "kyle",
+          "tier": "friend",
+          "verified": true
+        },
+        {
+          "u": "harry.colquhoun",
+          "tier": "friend",
+          "verified": false
+        }
+      ]
+    },
+    "xposed": {
+      "swept": true,
+      "routes": [
+        {
+          "u": "kyle",
+          "tier": "friend",
+          "verified": true
+        }
+      ]
+    },
+    "keitthlocks": {
+      "swept": true,
+      "routes": []
+    },
+    "graygrayog": {
+      "swept": true,
+      "routes": [
+        {
+          "u": "malek_04",
+          "tier": "friend",
+          "verified": true
+        }
+      ]
+    },
+    "brezscales": {
+      "swept": true,
+      "routes": [
+        {
+          "u": "sooshbrah",
+          "tier": "friend",
+          "verified": true
+        },
+        {
+          "u": "dressy",
+          "tier": "friend",
+          "verified": false
+        },
+        {
+          "u": "robthebank",
+          "tier": "friend",
+          "verified": false
+        },
+        {
+          "u": "skylerprks",
+          "tier": "friend",
+          "verified": false
+        }
+      ]
+    },
+    "davidgrutman": {
+      "swept": true,
+      "routes": [
+        {
+          "u": "kyle",
+          "tier": "friend",
+          "verified": true
+        }
+      ]
+    },
+    "adamweitsman": {
+      "swept": true,
+      "routes": [
+        {
+          "u": "ambrxse",
+          "tier": "friend",
+          "verified": true
+        },
+        {
+          "u": "laurenblakeee",
+          "tier": "friend",
+          "verified": true
+        },
+        {
+          "u": "kyle",
+          "tier": "friend",
+          "verified": true
+        },
+        {
+          "u": "purplemiami",
+          "tier": "friend",
+          "verified": false
+        }
+      ]
+    },
+    "skel100x": {
+      "swept": true,
+      "routes": [
+        {
+          "u": "thecubanjew",
+          "tier": "friend",
+          "verified": false
+        },
+        {
+          "u": "cole.mp4x",
+          "tier": "friend",
+          "verified": false
+        },
+        {
+          "u": "cxrson",
+          "tier": "friend",
+          "verified": false
+        },
+        {
+          "u": "mo_mostashari",
+          "tier": "friend",
+          "verified": false
+        }
+      ]
+    },
+    "whop": {
+      "swept": true,
+      "routes": [
+        {
+          "u": "jordanwelch",
+          "tier": "friend",
+          "verified": false
+        },
+        {
+          "u": "kyle",
+          "tier": "friend",
+          "verified": true
+        },
+        {
+          "u": "brezscales",
+          "tier": "oneway",
+          "verified": true
+        }
+      ]
+    },
+    "austingeorge": {
+      "swept": true,
+      "routes": [
+        {
+          "u": "diablo",
+          "tier": "friend",
+          "verified": false
+        },
+        {
+          "u": "torylanez",
+          "tier": "oneway",
+          "verified": true
+        }
+      ]
+    },
+    "antifund": {
+      "swept": true,
+      "routes": []
+    },
+    "stoffer__": {
+      "swept": true,
+      "routes": [],
+      "note": "follows 0 accounts"
+    }
+  }
+}

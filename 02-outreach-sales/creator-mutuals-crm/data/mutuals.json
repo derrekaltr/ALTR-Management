@@ -1,0 +1,582 @@
+{
+  "_meta": {
+    "swept_at": "2026-09-17",
+    "method": "Live Instagram sweep via user's logged-in Chrome session (@brown_derrek). mutual_count from the profile header 'Followed by a, b + N more' line. mutual_usernames = header samples + the followers dialog, which Instagram caps at the ~10-12 most relevant mutuals. you_follow = live Follow/Following button state; follows_you falls back to the May 2026 export where live state was not visible.",
+    "notes": "btcsofficial and corinnakopf pages unavailable. Sheet's amouranth handle @kaitgonewild is a dead placeholder (0 posts); real handle @amouranth swept instead.",
+    "follows_you_source": "LIVE verified 2026-09-18: searched every target handle in @brown_derrek's own followers dialog. NONE of the 41 targets follow Derrek. The earlier true-flags for deenthegreat and iceposeidon came from data/ig-export/, which belongs to a different account and is now discarded.",
+    "you_follow_source": "live Follow/Following button state captured during the 2026-09-17 profile sweep (brezscales is the only target Derrek follows)"
+  },
+  "profiles": {
+    "stevewilldoit": {
+      "swept": true,
+      "profile_followers": "3.8M",
+      "mutual_count": 164,
+      "you_follow": false,
+      "mutual_usernames": [
+        "topcall",
+        "_itsmegrant_",
+        "jordannnnnnicole",
+        "maxdean",
+        "daniellatwik",
+        "marcussharf",
+        "alanagiacobbo",
+        "francesca.ricci___",
+        "allin.abe",
+        "kariliwis",
+        "lifeofrick",
+        "onlyindade"
+      ],
+      "follows_you": false,
+      "follows_you_verified": true
+    },
+    "xposed": {
+      "swept": true,
+      "profile_followers": "303K",
+      "mutual_count": 10,
+      "you_follow": false,
+      "mutual_usernames": [
+        "kyle",
+        "connorbarroww"
+      ],
+      "follows_you": false,
+      "follows_you_verified": true
+    },
+    "whop": {
+      "swept": true,
+      "profile_followers": "206K",
+      "mutual_count": 29,
+      "you_follow": false,
+      "mutual_usernames": [
+        "valshare",
+        "shadymreir"
+      ],
+      "follows_you": false,
+      "follows_you_verified": true
+    },
+    "austingeorge": {
+      "swept": true,
+      "profile_followers": "50.3K",
+      "mutual_count": 2,
+      "you_follow": false,
+      "mutual_usernames": [
+        "romanroyale",
+        "chazcartii"
+      ],
+      "follows_you": false,
+      "follows_you_verified": true
+    },
+    "brezscales": {
+      "swept": true,
+      "profile_followers": "1.4M",
+      "mutual_count": 121,
+      "you_follow": true,
+      "mutual_usernames": [
+        "topcall",
+        "mariaavenca"
+      ],
+      "follows_you": false,
+      "follows_you_verified": true
+    },
+    "skel100x": {
+      "swept": true,
+      "profile_followers": "227K",
+      "mutual_count": 31,
+      "you_follow": false,
+      "mutual_usernames": [
+        "topcall",
+        "mariaavenca"
+      ],
+      "follows_you": false,
+      "follows_you_verified": true
+    },
+    "adamweitsman": {
+      "swept": true,
+      "profile_followers": "16.6M",
+      "mutual_count": 54,
+      "you_follow": false,
+      "mutual_usernames": [
+        "jaccity_g",
+        "valshare"
+      ],
+      "follows_you": false,
+      "follows_you_verified": true
+    },
+    "agtrades_": {
+      "swept": true,
+      "profile_followers": "1,502",
+      "mutual_count": 0,
+      "you_follow": false,
+      "mutual_usernames": [],
+      "follows_you": false,
+      "follows_you_verified": true
+    },
+    "antifund": {
+      "swept": true,
+      "profile_followers": "62.8K",
+      "mutual_count": 15,
+      "you_follow": false,
+      "mutual_usernames": [
+        "topcall",
+        "kaitlenn"
+      ],
+      "follows_you": false,
+      "follows_you_verified": true
+    },
+    "davidgrutman": {
+      "swept": true,
+      "profile_followers": "1.2M",
+      "mutual_count": 187,
+      "you_follow": false,
+      "mutual_usernames": [
+        "tesjaap",
+        "jaccity_g",
+        "michaelgergel",
+        "stefa.soundtuary",
+        "adley",
+        "taylorizzo",
+        "chill_stone",
+        "marcussharf",
+        "anastasiia_ofc",
+        "launerts",
+        "brandonpacelli_",
+        "alanagiacobbo"
+      ],
+      "follows_you": false,
+      "follows_you_verified": true
+    },
+    "tylerniknam": {
+      "swept": true,
+      "profile_followers": "135K",
+      "mutual_count": 17,
+      "you_follow": false,
+      "mutual_usernames": [
+        "kaitlenn",
+        "tells",
+        "brycefaubel",
+        "murdabeatz",
+        "heybigmike",
+        "visionary",
+        "michellepasquariello",
+        "zlam_dunk",
+        "dldis",
+        "rainexvi",
+        "freezertarps",
+        "danny_misikoff"
+      ],
+      "follows_you": false,
+      "follows_you_verified": true
+    },
+    "n3onsingh": {
+      "swept": true,
+      "profile_followers": "1.5M",
+      "mutual_count": 45,
+      "you_follow": false,
+      "mutual_usernames": [
+        "kaitlenn",
+        "kyle",
+        "iamicynina",
+        "shadymreir",
+        "savannahcmiller",
+        "chazcartii",
+        "murdabeatz",
+        "jongaldamezz",
+        "visionary",
+        "joseph.vinciguerra",
+        "pistol_pr",
+        "curlyfriesjazz"
+      ],
+      "follows_you": false,
+      "follows_you_verified": true
+    },
+    "adinross": {
+      "swept": true,
+      "profile_followers": "6M",
+      "mutual_count": 74,
+      "you_follow": false,
+      "mutual_usernames": [
+        "onlyindade",
+        "rich.sevens",
+        "zaq_theman",
+        "brycefaubel",
+        "tiffduran",
+        "chazcartii",
+        "vintune",
+        "heybigmike",
+        "jongaldamezz",
+        "visionary",
+        "tivilbon",
+        "joseph.vinciguerra"
+      ],
+      "follows_you": false,
+      "follows_you_verified": true
+    },
+    "lospollosig": {
+      "swept": true,
+      "profile_followers": "414K",
+      "mutual_count": 18,
+      "you_follow": false,
+      "mutual_usernames": [
+        "robmnr",
+        "kyle"
+      ],
+      "follows_you": false,
+      "follows_you_verified": true
+    },
+    "deenthegreat": {
+      "swept": true,
+      "profile_followers": "1M",
+      "mutual_count": 15,
+      "you_follow": false,
+      "mutual_usernames": [
+        "malek_04",
+        "kristen.kellyyy",
+        "chazcartii",
+        "jongaldamezz",
+        "visionary",
+        "axel_miladinovic",
+        "curlyfriesjazz",
+        "rainexvi",
+        "lovealiar",
+        "markynxtdoor",
+        "themegamcqueen"
+      ],
+      "follows_you": false,
+      "follows_you_verified": true
+    },
+    "ac7ionman": {
+      "swept": true,
+      "profile_followers": "89.1K",
+      "mutual_count": 21,
+      "you_follow": false,
+      "mutual_usernames": [
+        "4mbuh",
+        "cashgrabber9000"
+      ],
+      "follows_you": false,
+      "follows_you_verified": true
+    },
+    "cuffemm": {
+      "swept": true,
+      "profile_followers": "97.4K",
+      "mutual_count": 19,
+      "you_follow": false,
+      "mutual_usernames": [
+        "topcall",
+        "zaq_theman"
+      ],
+      "follows_you": false,
+      "follows_you_verified": true
+    },
+    "ice_poseidon": {
+      "swept": true,
+      "profile_followers": "81.3K",
+      "mutual_count": 5,
+      "you_follow": false,
+      "mutual_usernames": [
+        "4mbuh",
+        "avvakeofc"
+      ],
+      "follows_you": false,
+      "follows_you_verified": true
+    },
+    "ddg": {
+      "swept": true,
+      "profile_followers": "6.7M",
+      "mutual_count": 40,
+      "you_follow": false,
+      "mutual_usernames": [
+        "tio_",
+        "juliencharles",
+        "allin.abe",
+        "iamicynina",
+        "chazcartii",
+        "eric_hawkinss",
+        "evaded",
+        "vintune",
+        "maddy.xg",
+        "jongaldamezz",
+        "visionary",
+        "joacoojedaaa"
+      ],
+      "follows_you": false,
+      "follows_you_verified": true
+    },
+    "icheesur": {
+      "swept": true,
+      "profile_followers": "62.9K",
+      "mutual_count": 10,
+      "you_follow": false,
+      "mutual_usernames": [
+        "4mbuh",
+        "samosox"
+      ],
+      "follows_you": false,
+      "follows_you_verified": true
+    },
+    "oblivionssw": {
+      "swept": true,
+      "profile_followers": "749K",
+      "mutual_count": 15,
+      "you_follow": false,
+      "mutual_usernames": [
+        "4mbuh",
+        "rich.sevens"
+      ],
+      "follows_you": false,
+      "follows_you_verified": true
+    },
+    "timthetatman": {
+      "swept": true,
+      "profile_followers": "3.3M",
+      "mutual_count": 6,
+      "you_follow": false,
+      "mutual_usernames": [
+        "malek_04",
+        "michellepasquariello",
+        "visionary",
+        "alanza212",
+        "freezertarps",
+        "markynxtdoor"
+      ],
+      "follows_you": false,
+      "follows_you_verified": true
+    },
+    "konvy1k": {
+      "swept": true,
+      "profile_followers": "133K",
+      "mutual_count": 9,
+      "you_follow": false,
+      "mutual_usernames": [
+        "harry.colquhoun",
+        "avvakeofc"
+      ],
+      "follows_you": false,
+      "follows_you_verified": true
+    },
+    "cloakzy": {
+      "swept": true,
+      "profile_followers": "1M",
+      "mutual_count": 3,
+      "you_follow": false,
+      "mutual_usernames": [
+        "kielcouturier",
+        "alanza212",
+        "freezertarps"
+      ],
+      "follows_you": false,
+      "follows_you_verified": true
+    },
+    "sweater.gxd": {
+      "swept": true,
+      "profile_followers": "15.2K",
+      "mutual_count": 11,
+      "you_follow": false,
+      "mutual_usernames": [
+        "4mbuh",
+        "avvakeofc"
+      ],
+      "follows_you": false,
+      "follows_you_verified": true
+    },
+    "bigfoltz": {
+      "swept": true,
+      "profile_followers": "7,869",
+      "mutual_count": 2,
+      "you_follow": false,
+      "mutual_usernames": [
+        "harry.colquhoun",
+        "rainexvi"
+      ],
+      "follows_you": false,
+      "follows_you_verified": true
+    },
+    "kyootbot": {
+      "swept": true,
+      "profile_followers": "117K",
+      "mutual_count": 4,
+      "you_follow": false,
+      "mutual_usernames": [
+        "malek_04",
+        "curlyfriesjazz"
+      ],
+      "follows_you": false,
+      "follows_you_verified": true
+    },
+    "keitthlocks": {
+      "swept": true,
+      "profile_followers": "4,340",
+      "mutual_count": 0,
+      "you_follow": false,
+      "mutual_usernames": [],
+      "follows_you": false,
+      "follows_you_verified": true
+    },
+    "btcsofficial": {
+      "swept": true,
+      "mutual_count": 0,
+      "you_follow": false,
+      "mutual_usernames": [],
+      "note": "IG page unavailable \u2014 handle dead or changed",
+      "follows_you": false,
+      "follows_you_verified": true
+    },
+    "ronnieradke": {
+      "swept": true,
+      "profile_followers": "1.4M",
+      "mutual_count": 1,
+      "you_follow": false,
+      "mutual_usernames": [
+        "kinessajohnson"
+      ],
+      "follows_you": false,
+      "follows_you_verified": true
+    },
+    "graygrayog": {
+      "swept": true,
+      "profile_followers": "4,037",
+      "mutual_count": 2,
+      "you_follow": false,
+      "mutual_usernames": [
+        "malek_04",
+        "woodbabybuilds"
+      ],
+      "follows_you": false,
+      "follows_you_verified": true
+    },
+    "blacknate_yt": {
+      "swept": true,
+      "profile_followers": "168",
+      "mutual_count": 0,
+      "you_follow": false,
+      "mutual_usernames": [],
+      "follows_you": false,
+      "follows_you_verified": true
+    },
+    "andymilonakis": {
+      "swept": true,
+      "profile_followers": "649K",
+      "mutual_count": 3,
+      "you_follow": false,
+      "mutual_usernames": [
+        "vintune",
+        "fclanosa",
+        "visionary"
+      ],
+      "follows_you": false,
+      "follows_you_verified": true
+    },
+    "moonbetmurphy": {
+      "swept": true,
+      "profile_followers": "246",
+      "mutual_count": 0,
+      "you_follow": false,
+      "mutual_usernames": [],
+      "follows_you": false,
+      "follows_you_verified": true
+    },
+    "deshaefrost": {
+      "swept": true,
+      "profile_followers": "2.4M",
+      "mutual_count": 14,
+      "you_follow": false,
+      "mutual_usernames": [
+        "tio_",
+        "rich.sevens"
+      ],
+      "follows_you": false,
+      "follows_you_verified": true
+    },
+    "rush_eazy": {
+      "swept": true,
+      "profile_followers": "1,115",
+      "mutual_count": 0,
+      "you_follow": false,
+      "mutual_usernames": [],
+      "follows_you": false,
+      "follows_you_verified": true
+    },
+    "yassuo": {
+      "swept": true,
+      "profile_followers": "269K",
+      "mutual_count": 17,
+      "you_follow": false,
+      "mutual_usernames": [
+        "topcall",
+        "tio_"
+      ],
+      "follows_you": false,
+      "follows_you_verified": true
+    },
+    "corinnakopf": {
+      "swept": true,
+      "mutual_count": 0,
+      "you_follow": false,
+      "mutual_usernames": [],
+      "note": "IG page unavailable \u2014 @corinnakopf deactivated or renamed",
+      "follows_you": false,
+      "follows_you_verified": true
+    },
+    "xqcow1": {
+      "swept": true,
+      "profile_followers": "584K",
+      "mutual_count": 12,
+      "you_follow": false,
+      "mutual_usernames": [
+        "avvakeofc",
+        "michaelfrank16",
+        "chazcartii",
+        "jongaldamezz",
+        "visionary",
+        "pistol_pr",
+        "zlam_dunk",
+        "freezertarps",
+        "swishybalenci",
+        "malek_04"
+      ],
+      "follows_you": false,
+      "follows_you_verified": true
+    },
+    "stoffer__": {
+      "swept": true,
+      "profile_followers": "1.7M",
+      "mutual_count": 60,
+      "you_follow": false,
+      "mutual_usernames": [
+        "_itsmegrant_",
+        "4mbuh",
+        "payton_teeter",
+        "holly.img",
+        "hunter_johnson",
+        "24klleyton",
+        "cole_sidner",
+        "shoku.la",
+        "chazcartii",
+        "ryanlaehy",
+        "braedenresnick"
+      ],
+      "follows_you": false,
+      "follows_you_verified": true
+    },
+    "amouranth": {
+      "swept": true,
+      "profile_followers": "844K",
+      "mutual_count": 15,
+      "you_follow": false,
+      "mutual_usernames": [
+        "mochimafia",
+        "kelseyjoanxx",
+        "demiswin",
+        "visionary",
+        "beyourwild",
+        "mashfield747",
+        "gwensinger",
+        "cameronfistori",
+        "jmb_riskconsultants",
+        "woodbabybuilds",
+        "malek_04"
+      ],
+      "follows_you": false,
+      "follows_you_verified": true
+    }
+  }
+}
