@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ALTR — Customer Success — Structure, Playbook, Gaps, Model Status</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,500;12..96,600;12..96,700&family=Sarpanch:wght@500;600;700&family=Space+Mono:wght@400;700&display=swap');
+:root{--bg:#161615;--bg2:#1c1c1b;--surface:#222221;--line:#2f2f2d;--line2:#3a3a37;--text:#ebecdc;--text2:#c9cab9;--muted:#a0a095;
+--mint:#b6f2e5;--mint2:#6bb6a3;--mint-dim:rgba(182,242,229,.09);--ok:#6bb6a3;--watch:#a0a095;--risk:#e8b24a;--crit:#e0705a;}
+*{box-sizing:border-box}html{scroll-behavior:smooth;scroll-padding-top:20px}
+body{margin:0;background:var(--bg);color:var(--text);font-family:"Bricolage Grotesque",ui-sans-serif,system-ui,sans-serif;font-size:15.5px;line-height:1.6;-webkit-font-smoothing:antialiased}
+a{color:var(--mint);text-decoration:none}a:hover{text-decoration:underline}
+.mast{background:#0e0e0e;border-bottom:1px solid var(--line);padding:26px 40px;display:flex;align-items:center;gap:28px;flex-wrap:wrap}
+.mast img{height:44px;width:auto;display:block}
+.mast .t{flex:1;min-width:260px}
+.mast h1{font-family:Sarpanch,"Bricolage Grotesque",sans-serif;font-weight:600;font-size:22px;letter-spacing:.06em;text-transform:uppercase;margin:0;color:#fff;line-height:1.2}
+.mast .m{font-family:"Space Mono",monospace;font-size:11.5px;color:var(--muted);margin-top:6px;letter-spacing:.02em}
+.mast .m b{color:var(--mint);font-weight:400}
+.layout{display:grid;grid-template-columns:230px minmax(0,1fr);gap:0;max-width:1240px;margin:0 auto}
+nav.side{position:sticky;top:0;align-self:start;height:100vh;overflow:auto;padding:28px 18px 28px 40px;border-right:1px solid var(--line);font-size:13.5px}
+nav.side .h{font-family:"Space Mono",monospace;font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin:0 0 10px}
+nav.side ol,nav.side ul{list-style:none;margin:0 0 20px;padding:0}
+nav.side li{margin:0}
+nav.side a{display:block;padding:5px 8px;color:var(--text2);border-left:2px solid transparent;border-radius:0 4px 4px 0}
+nav.side a:hover{color:var(--mint);text-decoration:none;background:var(--mint-dim)}
+nav.side a.on{color:var(--mint);border-left-color:var(--mint)}
+nav.side ul a{font-size:12.5px;padding:3px 8px 3px 14px;color:var(--muted)}
+main{padding:36px 48px 90px;min-width:0}
+section{margin:0 0 54px}
+h2{font-family:Sarpanch,"Bricolage Grotesque",sans-serif;font-weight:600;font-size:21px;letter-spacing:.05em;text-transform:uppercase;color:#fff;margin:0 0 14px;padding-bottom:10px;border-bottom:1px solid var(--line2)}
+h3{font-size:16px;font-weight:600;color:var(--mint);margin:30px 0 8px}
+p{margin:10px 0;max-width:78ch}
+p.lede{color:var(--text2);max-width:80ch}
+b{font-weight:600;color:#fff}
+.mono{font-family:"Space Mono",monospace;font-size:.86em;color:var(--mint)}
+table{width:100%;border-collapse:collapse;margin:14px 0 22px;font-size:13.5px;background:var(--bg2);border:1px solid var(--line)}
+th{font-family:"Space Mono",monospace;font-weight:400;font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);text-align:left;padding:10px 12px;border-bottom:1px solid var(--line2);background:var(--surface);position:sticky;top:0}
+td{padding:9px 12px;border-top:1px solid var(--line);vertical-align:top;color:var(--text2)}
+td:first-child{color:var(--text);font-weight:500;white-space:nowrap}
+td.st{white-space:nowrap}
+tr:hover td{background:var(--mint-dim)}
+table.num td:not(:first-child){font-family:"Space Mono",monospace;font-size:12.5px;text-align:right}
+table.num th:not(:first-child){text-align:right}
+i.s{display:inline-block;width:9px;height:9px;border-radius:50%;margin-right:7px;vertical-align:0;background:var(--watch)}
+i.s.ok{background:var(--ok)}i.s.risk{background:var(--risk)}i.s.crit{background:var(--crit)}
+ol,ul{margin:8px 0;padding-left:22px;max-width:82ch}
+li{margin:6px 0;color:var(--text2)}
+ol.msgs li,ol.gaps li{margin:10px 0;padding-left:4px}
+ol.msgs li::marker,ol.gaps li::marker,ol.plain li::marker{font-family:"Space Mono",monospace;color:var(--mint);font-size:12px}
+ul.msgs,ul.plain{list-style:none;padding-left:0}
+ul.msgs li,ul.plain li{padding-left:16px;position:relative}
+ul.msgs li::before,ul.plain li::before{content:"";position:absolute;left:0;top:.62em;width:6px;height:1px;background:var(--mint)}
+details{border:1px solid var(--line);background:var(--bg2);margin:10px 0}
+details[open]{border-color:var(--line2)}
+summary{cursor:pointer;list-style:none;display:flex;align-items:center;gap:14px;padding:13px 16px;user-select:none}
+summary::-webkit-details-marker{display:none}
+summary::before{content:"+";font-family:"Space Mono",monospace;color:var(--mint);width:14px;flex:none}
+details[open] summary::before{content:"–"}
+summary span{font-weight:600;color:#fff;min-width:130px}
+summary small{flex:1;color:var(--muted);font-size:12.5px}
+summary i.s{margin:0}
+details p{padding:0 16px 4px 44px}
+details p:last-child{padding-bottom:16px}
+button{font:inherit;font-family:"Space Mono",monospace;font-size:11.5px;letter-spacing:.06em;text-transform:uppercase;background:none;color:var(--mint);border:1px solid var(--mint2);padding:5px 12px;cursor:pointer;margin-left:10px;border-radius:2px}
+button:hover{background:var(--mint-dim)}
+footer{border-top:1px solid var(--line);padding-top:16px;color:var(--muted);font-size:12.5px}
+@media(max-width:900px){.layout{grid-template-columns:1fr}nav.side{position:static;height:auto;border-right:0;border-bottom:1px solid var(--line);padding:18px 24px}nav.side ol{columns:2}main{padding:24px 22px 60px}.mast{padding:20px 22px}}
+@media print{:root{--bg:#fff;--bg2:#fff;--surface:#f3f3ef;--line:#d5d5cd;--line2:#bdbdb5;--text:#111;--text2:#222;--muted:#666;--mint:#0d7a63;--mint2:#0d7a63;--mint-dim:transparent}
+body{font-size:11pt}.mast{background:#0e0e0e;-webkit-print-color-adjust:exact;print-color-adjust:exact}nav.side,button{display:none}.layout{display:block}main{padding:0 0 30px}h2{color:#111}b,summary span{color:#111}details{break-inside:avoid}details:not([open]) > *:not(summary){display:block}th{position:static}}
+</style></head>
+<body>
+<header class="mast">
+  <img src="data:image/png;base64,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" alt="ALTR">
+  <div class="t"><h1>Customer Success — Structure, Playbook, Gaps, Model Status</h1><div class="m">Customer success in Telegram &nbsp;·&nbsp; prepared for <b>Toto</b> &nbsp;·&nbsp; <b>25 Aug 2026</b> &nbsp;·&nbsp; data to <b>8 Aug 2026</b> &nbsp;·&nbsp; 14 client chats</div></div>
+</header>
+<div class="layout">
+<nav class="side"><p class="h">Sections</p><ol><li><a href="#snapshot">1. Portfolio snapshot</a></li><li><a href="#structure">2. How the group chats are built</a></li><li><a href="#messages">3. What gets sent in each topic</a></li><li><a href="#people">4. Who does what</a></li><li><a href="#assets">5. Assets, forms and where they live</a></li><li><a href="#works">6. What works</a></li><li><a href="#gaps">7. Gaps across the portfolio</a></li><li><a href="#models">8. Model by model</a></li><li><a href="#start">9. Where to start</a></li><li><a href="#retired">10. No longer current</a></li></ol><p class="h">Models</p><ul><li><a href="#m-amber">Amber Haze</a></li><li><a href="#m-barbara">Barbara</a></li><li><a href="#m-haileigh">Haileigh Cox</a></li><li><a href="#m-kaitlynn">Kaitlynn</a></li><li><a href="#m-lauren">Lauren Blake</a></li><li><a href="#m-lauryn">Lauryn</a></li><li><a href="#m-lilia">Lilia</a></li><li><a href="#m-liza">Liza Kovalenko</a></li><li><a href="#m-mila">Mila</a></li><li><a href="#m-sarahl">Sarah Lloyd</a></li><li><a href="#m-sarahh">Sarah H</a></li><li><a href="#m-shayna">Shayna</a></li><li><a href="#m-vale">Vale</a></li><li><a href="#m-vicky">Vicky</a></li></ul></nav>
+<main>
+<section id="snapshot">
+<h2>1. Portfolio snapshot</h2>
+<p class="lede">Fourteen client chats as of the 8 August export. Status reflects what the chat shows in the last six weeks, not revenue.</p>
+<table class="wide">
+<thead><tr><th>Model</th><th>With ALTR since</th><th>Chat lead now</th><th>Also active (last 6 wks)</th><th>Status</th><th>Biggest current gap</th></tr></thead>
+<tbody>
+<tr><td>Amber Haze</td><td>30 Apr 2026, agency migration</td><td>Ollie (since 30 Jun)</td><td>Michelle, Stephski, Mayson, Mica</td><td class="st"><i class="s risk"></i>At risk</td><td>Fan harassment via Snapchat needed two @-pings before anyone replied (6–7 Aug). Backup IGs never grew.</td></tr>
+<tr><td>Barbara</td><td>~9 Jul 2026 (group 20 Jul)</td><td>None visible. Mayson is named POC; Ollie in group but silent</td><td>Michelle, Mica, Olivia, Vivek, Stephski</td><td class="st"><i class="s risk"></i>At risk</td><td>No chat-side presence. "Any updates?" on 6 Aug got a one-word reply. OFTV file chain broken.</td></tr>
+<tr><td>Haileigh Cox</td><td>Aug 2025</td><td>Ronnie (Joseph left 8 Jul)</td><td>Stephski, Michelle, Mayson</td><td class="st"><i class="s watch"></i>Watch</td><td>Shadowban and follower-loss question (29 Jul) answered "Sure share login", nothing since.</td></tr>
+<tr><td>Kaitlynn</td><td>7 Aug 2026, relaunch</td><td>Mayson / Ollie</td><td>Michelle</td><td class="st"><i class="s ok"></i>Day 0</td><td>Chatters live before the group existed. Two of eight staff had introduced themselves at cutoff.</td></tr>
+<tr><td>Lauren Blake</td><td>3 Jul 2026</td><td>Ollie</td><td>Michelle, Mayson, Stephski, Mica</td><td class="st"><i class="s ok"></i>Healthy</td><td>13 of 24 whales ghosted since takeover. Paid-ads reporting still owed.</td></tr>
+<tr><td>Lauryn</td><td>Aug 2025</td><td>None. Original team removed Jun 2026; nobody has posted in the OF topic since</td><td>Stephski, Vivek, Michelle, Derrek</td><td class="st"><i class="s crit"></i>Critical</td><td>Open Gmail/Facebook access dispute with Vivek (8 Aug). FB "not recommended" since Oct 2025.</td></tr>
+<tr><td>Lilia (2 pages)</td><td>25 May 2026, agency migration</td><td>Fred</td><td>Mayson, Stephski, Michelle</td><td class="st"><i class="s risk"></i>At risk</td><td>Logins changed without the lead being told (4 Aug). Lost her top spender to a missed flag (29 Jul).</td></tr>
+<tr><td>Liza Kovalenko</td><td>Jul 2025</td><td>Ronnie / Nate, low touch</td><td>Stephski, Mayson, Derrek</td><td class="st"><i class="s watch"></i>Watch</td><td>OF "tag a creator" question (6 Aug) routed with "^^", unanswered. Pays crypto to Derrek directly.</td></tr>
+<tr><td>Mila</td><td>20 Jun 2026</td><td>Mayson; OF topic silent since 27 Jun</td><td>Michelle, Stephski, Mica, Alex Camus</td><td class="st"><i class="s watch"></i>Watch</td><td>IG suspension question (23 Jun) never answered. No OF-side contact for six weeks.</td></tr>
+<tr><td>Sarah Lloyd</td><td>8 Jun 2026, agency migration</td><td>Nate and Ronnie (AMs), Alex</td><td>Vivek, Stephski, Mayson, Michelle</td><td class="st"><i class="s crit"></i>Critical</td><td>Same chatter issues raised about seven times. No OnlyFans topic in the group. FB under watch until September.</td></tr>
+<tr><td>Sarah H</td><td>Sep 2025</td><td>Mayson / Ronnie / Nate; Derrek in group</td><td>Vivek, Stephski, Michelle, Olivia</td><td class="st"><i class="s watch"></i>Watch</td><td>Two IG accounts still down (8 Aug). OFTV audio rejections ongoing.</td></tr>
+<tr><td>Shayna</td><td>10 Apr 2026, agency migration</td><td>Fred</td><td>Michelle, Stephski, Mayson</td><td class="st"><i class="s risk"></i>At risk</td><td>Free content and sexting given away again (6 Aug). Custom check pending on a "^^" (7 Aug).</td></tr>
+<tr><td>Vale</td><td>23 Mar 2026</td><td>Ollie (Fred removed 10 Jul)</td><td>Stephski, Michelle, Mayson</td><td class="st"><i class="s risk"></i>At risk</td><td>Video-call scheduling confusion (7 Aug). Customs from before the team swap never delivered.</td></tr>
+<tr><td>Vicky (2 pages)</td><td>17 Jun 2026</td><td>Ollie (Fred removed 26 Jun)</td><td>Stephski, Michelle</td><td class="st"><i class="s risk"></i>At risk</td><td>Traffic promised "end of week one" on 19 Jun was still "next 48 hrs" on 4 Aug. Two-thirds of messages outside any topic.</td></tr>
+</tbody></table>
+
+<h3>Responsiveness since 1 June</h3>
+<p>Time from a client message (or burst of messages) to the next staff message in the same chat, any topic. Typical replies are quick. The tail is the problem: every account has waits of half a day or more and a few threads that were never answered, usually questions asked in the general thread or handed off with a "^^" that nobody picked up.</p>
+<table class="num">
+<thead><tr><th>Model</th><th>Client threads</th><th>Median</th><th>90th pct</th><th>Waited over 24h or never answered</th></tr></thead>
+<tbody>
+<tr><td>Amber Haze</td><td>111</td><td>0.1 h</td><td>13.0 h</td><td>7</td></tr>
+<tr><td>Barbara</td><td>39</td><td>1.6 h</td><td>11.7 h</td><td>2</td></tr>
+<tr><td>Haileigh Cox</td><td>38</td><td>0.1 h</td><td>20.7 h</td><td>4</td></tr>
+<tr><td>Lauren Blake</td><td>42</td><td>0.5 h</td><td>12.8 h</td><td>3</td></tr>
+<tr><td>Lauryn</td><td>27</td><td>0.1 h</td><td>18.8 h</td><td>3</td></tr>
+<tr><td>Lilia</td><td>135</td><td>0.1 h</td><td>18.7 h</td><td>10</td></tr>
+<tr><td>Liza Kovalenko</td><td>25</td><td>2.5 h</td><td>24.9 h</td><td>4</td></tr>
+<tr><td>Mila</td><td>38</td><td>0.6 h</td><td>22.3 h</td><td>5</td></tr>
+<tr><td>Sarah Lloyd</td><td>149</td><td>0.0 h</td><td>18.0 h</td><td>9</td></tr>
+<tr><td>Sarah H</td><td>55</td><td>2.8 h</td><td>31.1 h</td><td>8</td></tr>
+<tr><td>Shayna</td><td>98</td><td>1.3 h</td><td>22.7 h</td><td>8</td></tr>
+<tr><td>Vale</td><td>75</td><td>0.2 h</td><td>16.4 h</td><td>1</td></tr>
+<tr><td>Vicky</td><td>118</td><td>0.0 h</td><td>11.3 h</td><td>7</td></tr>
+</tbody></table>
+</section>
+
+<section id="structure">
+<h2>2. How the group chats are built</h2>
+<p>Every client has one Telegram supergroup named <span class="mono">&lt;Model&gt; x ALTR</span>. Eric creates it with the ALTR photo, posts the welcome and go-live target, then steps back. The client joins by invite link.</p>
+<p>The standing roster in every group is Derrek, Eric, Mayson, Mica, Michelle, Stephski and the assigned chat lead (Fred or Ollie). Since 29 July, Vivek is in every group as the Meta support contact. Larger accounts also carry an account-manager pair over the chat team (Nate and Ronnie). Chatters are never in the client group. Lauchlann, Sofia and Sofia D'Ortone sit in several groups and never post.</p>
+<h3>The five topics</h3>
+<p>Telegram forum topics are the whole system. Each function owns one and introduces itself there.</p>
+<table>
+<thead><tr><th>Topic</th><th>Owner</th><th>What belongs there</th></tr></thead>
+<tbody>
+<tr><td>OnlyFans</td><td>Chat lead</td><td>Intake form, login and handover, go-live, pricing and limits, custom requests, scripts, chatter issues, vault uploads, Snapchat adds, video calls, whale handling.</td></tr>
+<tr><td>Social Media</td><td>Mica</td><td>Intro and Calendly, handle intake, weekly reel inspiration, link-in-bio and .vip domains (Mayson), the IG suspension policy, Meta-rep escalations.</td></tr>
+<tr><td>Promo</td><td>Michelle</td><td>IG Reels Marketing PDF and Drive, reel-upload requests, story stills, managed-IG handle disclosure, Derrek's promo-infrastructure updates.</td></tr>
+<tr><td>Invoicing</td><td>Stephski</td><td>Intro at first cycle, withdrawal reminders, invoice PDFs, payment follow-up, bank changes, currency conversions.</td></tr>
+<tr><td>DMCA</td><td>Michelle</td><td>Weekly leak-removal screenshot; leak or impersonation links the client finds.</td></tr>
+</tbody></table>
+<p>The general thread is where things get lost. On the worst accounts most of the conversation lives there: Sarah Lloyd 76%, Kaitlynn 71%, Vicky 66%, Amber 48%, Haileigh 43%, Lauryn 41%. Sarah Lloyd's group was created without an OnlyFans topic, so every chat-team issue runs in general. Vicky's Invoicing topic was added two weeks late. The clean accounts are the ones where the lead enforces topics: Lilia 12%, Shayna 7%, Mila 4%.</p>
+<p>Pinned messages are the only in-chat record: the Drive index, the customs sheet, and on older accounts the team roster. Most groups have nothing pinned.</p>
+<p>Routing works by @-mention with a caret: <span class="mono">@olkmck ^^</span>, <span class="mono">@ofmfrederick ^^</span>. It works when the tagged person is online. It is also the most common way a question dies.</p>
+</section>
+
+<section id="messages">
+<h2>3. What gets sent in each topic</h2>
+<p class="lede">The standard messages, in the order they normally appear. Wording is as used in the chats.</p>
+
+<h3>OnlyFans topic (chat lead)</h3>
+<ol class="msgs">
+<li><b>Lead intro.</b> Ollie: "Hey Lauren, I'm Ollie nice to meet you, will be handling your chatting." Fred and Mayson use the longer script: "I handle all things OnlyFans so if you've ever got any questions then pleeeeease do not hesitate to ask!!! I'm always online so I will get a response to you promptly... ALWAYS!!!"</li>
+<li><b>Intake form.</b> "Please fill out the form that will give the team everything they need to know about yourself AND the ability to sell in confidence. Making sure that nothing you DO NOT want sold is ever sold." Google Form, Google Doc or Typeform depending on the lead.</li>
+<li><b>Go-live.</b> "We are starting today at 2pm EST. Was just wondering about snapchat adds? Customs? and Videocalls? If you can let me know pricing." Then: "All in — team will begin now!"</li>
+<li><b>Pricing questions.</b> "What's the minimum price for a custom?" "Are you adding on snapchat and if so how much?"</li>
+<li><b>Custom request.</b> A block headed CUSTOM REQUEST with model, fan, amount paid, duration and details, plus a screenshot of the fan's message. Detailed customs get a Google Doc. Since August the pinned customs Google Sheet: "Here is your custom sheet."</li>
+<li><b>Snapchat add.</b> "He paid for a snapchat add… to be added on snap" with the fan's username. The model adds them herself.</li>
+<li><b>FAQ after a team swap.</b> "Could you fill in this FAQ for us as well please so as a chat team we can have more information on you."</li>
+<li><b>Setup complete</b> (Mayson, day 3 to 17). "We've finished setting up and optimizing your profile. Tracking links are added, promo campaigns for both new and expired subscribers are now running 24/7, automated renewal messages before subscriptions expire and win-back messages after expiry are now active, and your bio/settings have been optimized."</li>
+<li><b>Chatter issue acknowledgements.</b> "Relaying to the team, will add this to the vault notes as well." "I have passed this on and will be in contact with chatters."</li>
+</ol>
+
+<h3>Social Media topic (Mica; Mayson for links)</h3>
+<ol class="msgs">
+<li><b>Intro.</b> "I'm Mica, your Social Media Director. I'll be helping you grow your social media pages… IG in addition to TikTok, Snapchat, FB… my booking link to schedule a 1 on 1 call." Calendly, 30 minutes.</li>
+<li><b>Handle intake.</b> "Send me the rest of your social media links… send instagram too even if it's suspended!"</li>
+<li><b>Weekly reel inspiration.</b> "Here's your reel inspo for this week" with eight to ten IG reel links. The same batch goes to every client the same day.</li>
+<li><b>Custom domain</b> (Mayson). "This is a custom domain built with the latest technology that will help you from shadow bans or account restrictions related to your link." One <span class="mono">&lt;name&gt;sworld.vip</span> per social account.</li>
+<li><b>IG policy.</b> "If your IG gets suspended, disabled, restricted, or starts acting shadowbanned, please don't submit an appeal right away. Reach out to us first."</li>
+<li><b>Meta-rep handoff.</b> Derrek: "@fonta will assist when he's awake." Vivek: "Sure share login." "They put Facebook under watch till September."</li>
+</ol>
+
+<h3>Promo topic (Michelle)</h3>
+<ol class="msgs">
+<li><b>Intro.</b> "I'm Michelle, part of the promo team, we will be handling IG repurposing and promo coordination for your page."</li>
+<li><b>Content request.</b> The <span class="mono">&lt;Model&gt; - IG Reels Marketing.pdf</span>: "This is a content request for your management ran Instagram reels… it includes your Google Drive link for uploads, along with a guide and inspo." Drive link re-posted separately.</li>
+<li><b>Requests.</b> "Would you be able to upload more reels please?" "Load a few photos for story post when you get a chance." Roughly weekly.</li>
+<li><b>Go-live.</b> "IG posting is starting this week." Then "This is the ig page we will be posting on." Or: "Backup IG being warmed up, ready next week."</li>
+<li><b>Derrek's 1 August update</b> to every group: Instagram guideline changes, a new phone farm, 200 devices and 1,000 accounts swapped, promo paused until it is running.</li>
+</ol>
+
+<h3>Invoicing topic (Stephski)</h3>
+<ol class="msgs">
+<li><b>Intro at the first cycle.</b> "My name is Stephanie and I will be handling all things invoice related with you… Attached below is your invoice PDF for the period of… Located at the bottom of the invoice is all of the wire information. If you choose to do Zelle, please let me know your Zelle info so I can send through a request."</li>
+<li><b>Withdrawal reminder</b> on the 13th and 28th. "Remind you to begin a funds withdrawal on OF ahead of invoicing on the 15th so the funds can have enough time to hit your account."</li>
+<li><b>Invoice</b> on the 1st and 15th. "Below is your invoice for the period of July 15th to 31st. If you could please shoot over payment within the next 7 days that would be amazing!" File named <span class="mono">&lt;Legal name&gt; &lt;period&gt;.pdf</span>.</li>
+<li><b>Follow-up</b> three days later. "Just making sure you saw this." "Just pinging this in case you didn't see it."</li>
+<li><b>Receipt.</b> "Thanks love!" "Appreciate you." Derrek sometimes: "Thank you love."</li>
+<li><b>Bank changes.</b> 1 July: "We have a new bank for you to send to (last change I promise!)… Bank of America." 15 July: "Due to the credit card processing fees… we will need to add 5% to the invoice total."</li>
+</ol>
+
+<h3>DMCA topic (Michelle)</h3>
+<ol class="msgs">
+<li><b>Weekly report.</b> "Here's your weekly update on the leak removal breakdown for the past 7 days" with a screenshot: "Takedown Update: Total Infringements Removed: 2,525." Nothing explains the first one.</li>
+<li><b>Client submissions.</b> Clients paste leak or impersonation URLs: "Can someone handle pls." Derrek or Michelle: "Yes."</li>
+</ol>
+
+<h3>General thread and all-group broadcasts (Derrek)</h3>
+<ul class="msgs">
+<li>29 July: "I've added Vivek in here (@fonta). He is our Meta Support Rep that will help keep your IG accounts up and safe. If you have any restrictions, shadowbans, or bans… simply @ him in the chat."</li>
+<li>1 August: the phone-farm memo, ending "plenty of updates starting next week."</li>
+<li>Point of contact: "@mmayson is your go to for all things altr."</li>
+<li>Mayson, 6 June, to all: "I want to schedule a quick 15-minute call this week to go over everything, hear any questions you have, and be able to add more avenues for growth."</li>
+</ul>
+</section>
+
+<section id="people">
+<h2>4. Who does what</h2>
+<table>
+<thead><tr><th>Person</th><th>Responsibility to the client</th><th>Where they post</th></tr></thead>
+<tbody>
+<tr><td>Chat lead (Fred, Ollie)</td><td>The model's only interface to the chatting team: intake, handover, pricing and limits, customs, scripts, vault, Snapchat adds, video calls, chatter discipline.</td><td>OnlyFans</td></tr>
+<tr><td>Mayson</td><td>Account manager: setup-complete milestone, .vip domains, 15-minute and monthly check-ins, routing with "^^", named POC on some accounts, acting chat lead on small ones.</td><td>General, Social Media, OnlyFans</td></tr>
+<tr><td>Mica</td><td>The model's own socials: intro call, handle intake, weekly reel inspiration, IG appeal policy, Facebook and Meta access.</td><td>Social Media</td></tr>
+<tr><td>Michelle</td><td>Management-run IG accounts and content requests, weekly DMCA reporting, shared-album fallbacks.</td><td>Promo, DMCA</td></tr>
+<tr><td>Stephski</td><td>All invoicing communication.</td><td>Invoicing</td></tr>
+<tr><td>Alex Camus</td><td>Currency conversions and corporate wire details for international clients.</td><td>Invoicing, rarely</td></tr>
+<tr><td>Vivek</td><td>IG and FB restrictions, shadowbans, bans, Copyright Ban Protection. Needs logins or codes to act.</td><td>Social Media, general</td></tr>
+<tr><td>Nate and Ronnie</td><td>Account managers over the chat team on Sarah Lloyd, Sarah H, Liza and Haileigh. Ronnie runs the customs sheets there.</td><td>General, OnlyFans</td></tr>
+<tr><td>Olivia</td><td>OFTV only: edits, dashboard access, submissions.</td><td>Promo, general</td></tr>
+<tr><td>Derrek</td><td>Policy calls, escalations, broadcasts, naming the POC. Receives credentials before the group exists. Owes ad-spend reporting on some accounts.</td><td>Anywhere, rarely</td></tr>
+<tr><td>Eric</td><td>Creates the group and adds or removes staff. Nothing else.</td><td>Service messages</td></tr>
+</tbody></table>
+</section>
+
+<section id="assets">
+<h2>5. Assets, forms and where they live</h2>
+<table class="wide">
+<thead><tr><th>Asset</th><th>Issued by</th><th>Tool</th><th>Where to find it later</th><th>Note</th></tr></thead>
+<tbody>
+<tr><td>Intake form</td><td>Chat lead</td><td>Google Form, Google Doc or Typeform, depending on the lead</td><td>Link in the OnlyFans topic; responses in the lead's own Google account</td><td>No central registry. Mayson and Derrek cannot see responses.</td></tr>
+<tr><td>FAQ (re-intake after a swap)</td><td>Ollie</td><td>Google Doc</td><td>Link in chat; client sometimes returns a PDF</td><td>Duplicates the intake form.</td></tr>
+<tr><td>OF content Drive</td><td>Chat lead</td><td>Google Drive, lead's account</td><td>OnlyFans topic; pinned on the better accounts</td><td>Deleted when the previous team left (Vale).</td></tr>
+<tr><td>Promo reels Drive</td><td>Michelle</td><td>Google Drive, Michelle's account</td><td>Inside the IG Reels Marketing PDF, re-posted in Promo</td><td>Always separate from the OF drive. One was view-only (Sarah Lloyd).</td></tr>
+<tr><td>Shared album</td><td>Michelle or chat lead</td><td>Apple shared album, via a personal phone number or email</td><td>Not in chat; the invite lives on the staffer's device</td><td>Fallback when Drive fails (Lilia, Amber, Haileigh, Vale).</td></tr>
+<tr><td>Client's own folders</td><td>Client</td><td>Google Drive</td><td>Links scattered across topics</td><td>Clients ask "which drive?" repeatedly (Lauren Blake three times).</td></tr>
+<tr><td>OF vault</td><td>Chat lead</td><td>OnlyFans</td><td>In the account</td><td>Final destination. Media tagged OK / not OK inside Infloww.</td></tr>
+<tr><td>Infloww</td><td>Chat lead</td><td>Infloww CRM</td><td>The lead's workspace</td><td>Creator notes, fan notes, do-not-chat list. The workspace belongs to the lead, so every lead change means logging in again.</td></tr>
+<tr><td>Customs tracker</td><td>Ollie, Ronnie</td><td>Google Sheet, pinned</td><td>OnlyFans topic (Amber 5 Aug, Vale 2 Aug, Lauren 1 Aug, Sarah H and Liza 20 Jul)</td><td>New in July–August. Replaced the request blocks.</td></tr>
+<tr><td>Custom briefs</td><td>Chat lead</td><td>Google Doc</td><td>OnlyFans topic</td><td>Detailed customs only.</td></tr>
+<tr><td>Scripts and playbooks</td><td>Chat lead</td><td>PDFs in Telegram (NewFansScriptB, Post-it Note Live Game, voice-note suggestions)</td><td>Telegram file history</td><td>Not versioned anywhere else.</td></tr>
+<tr><td>IG Reels Marketing PDF</td><td>Michelle</td><td>PDF in Telegram</td><td>Promo topic</td><td>Per model. Contains the Drive link.</td></tr>
+<tr><td>Link-in-bio domains</td><td>Mayson</td><td>Custom .vip domains</td><td>Posted once in chat</td><td>Up to seven per model. Occasionally flagged by Instagram.</td></tr>
+<tr><td>Calls</td><td>Mica, Mayson</td><td>Calendly, Google Meet</td><td>Links in chat</td><td>No notes shared after 2026 calls.</td></tr>
+<tr><td>Invoices</td><td>Stephski</td><td>PDF</td><td>Invoicing topic</td><td>Bank details in the PDF footer. No client portal.</td></tr>
+<tr><td>DMCA reports</td><td>Michelle</td><td>Screenshot</td><td>DMCA topic</td><td>No dashboard. Searched-names list not shown to 2026 clients.</td></tr>
+<tr><td>Credentials</td><td>Client to Derrek or a named staffer by DM, or pasted in chat</td><td>Telegram DMs</td><td>Nowhere retrievable</td><td>No password manager. New leads do not know what ALTR holds.</td></tr>
+<tr><td>OFTV files</td><td>Client and Olivia</td><td>Frame.io, WeTransfer, Dropbox, Drive</td><td>Links in chat; they expire</td><td>Chain broke for Barbara (expired WeTransfer) and Sarah H (audio rejections).</td></tr>
+</tbody></table>
+</section>
+
+<section id="works">
+<h2>6. What works</h2>
+<ul class="plain">
+<li>Topic discipline when the lead enforces it. Lilia, Shayna and Mila run at 4 to 12% off-topic and their questions get answered because the owner sees them. Fred's "just responding here so we can keep the conversations on OnlyFans all in place" is the model.</li>
+<li>Scripted intros with something attached. Every department's intro ends in a form, a booking link or a PDF with a Drive. Clients complete intake forms in 20 to 45 minutes when asked on day 0.</li>
+<li>Mayson's setup-complete message. A concrete "you are live and optimised" moment that clients respond well to.</li>
+<li>The customs Google Sheet. Pinned, live, replaces the sprawl of request blocks. Rolled out to five accounts in three weeks.</li>
+<li>Stephski's cadence. Withdrawal reminder, invoice, three-day follow-up, receipt, every two weeks, every account. Clients pay reliably; the invoicing audit covers the detail.</li>
+<li>Weekly reel inspiration and the weekly DMCA report. Two cheap, visible touches a week on every account regardless of what else is happening.</li>
+<li>Vivek. Within ten days of being added he recovered accounts for Sarah H, gave Sarah Lloyd a Facebook status, and took Barbara's Copyright Ban Protection request. First time IG problems had a named owner inside the chat.</li>
+<li>Leads who front-run problems. Ollie's "just logged into your OF from my phone" before the security email arrives. Fred clearing the auto-scheduler queue and posting the screenshot.</li>
+<li>Go-live conventions. Scheduled hard start, both pages at once, billing from the go-live date. No client has disputed a start date.</li>
+<li>Fast median response on most accounts.</li>
+</ul>
+</section>
+
+<section id="gaps">
+<h2>7. Gaps across the portfolio</h2>
+<p class="lede">Ranked by how often they show up and how much damage they do.</p>
+<ol class="gaps">
+<li><b>Nothing enforces the intake form on the chatters.</b> The top complaint on eight of fourteen accounts: chatters selling prohibited content, wrong prices, pre-cutoff content, or implying things the model does not do, after she wrote it all down. Clients end up policing chat themselves. Sarah Lloyd: "makes me feel lowkey crazy having to ask the same thing every day."</li>
+<li><b>The "^^" handoff has no backstop.</b> Mayson tags the owner and moves on. Several of the never-answered threads in section 1 end at a "^^". There is no timer and no escalation.</li>
+<li><b>Questions in the general thread get lost.</b> Six accounts run 40 to 76% of their traffic outside topics. Sarah Lloyd has no OnlyFans topic at all.</li>
+<li><b>Team swaps re-onboard the client at her expense.</b> Fred to Ollie on Vale and Vicky: Drive deleted, April customs never delivered, seven Infloww relinks, FAQ redone, logins drifting between leads. Lilia gave new logins to Mayson and Fred did not know. No handover checklist exists.</li>
+<li><b>Some accounts have no named owner.</b> Lauryn has had nobody in the OF topic since June. Barbara's chat side is invisible. Haileigh asked "Do I have an account manager?" in March. Where Derrek named a POC (Barbara, Mayson) the client still asked "any updates?" and got "Yo Ma'am."</li>
+<li><b>Promises with no tracker.</b> Vicky's traffic. Amber's IG accounts (three built, three banned, disclosed only when she asked; 35 followers months later). Lauren Blake's ads reporting. Barbara's backup IG. The 1 August memo paused promo everywhere with "updates next week."</li>
+<li><b>IG questions go unanswered unless Vivek picks them up.</b> Mila's "my account's been suspended again… so what happens now" (23 Jun) was never answered. Haileigh's shadowban question got "Sure share login" and stopped.</li>
+<li><b>Credentials have no system.</b> Passwords in chat, sometimes at staff request. Pre-group DMs to Derrek nobody else can see. No password manager. Relinks on every change.</li>
+<li><b>Assets live on personal accounts and devices.</b> Drives on individual staff Google accounts, shared albums on personal phones, form responses in the lead's account, credentials in DMs. Anyone new to the account starts blind: "Ah I wasn't on here when it was sent."</li>
+<li><b>Clients get no reporting.</b> The 2025 accounts received a report and a 14-day plan every two weeks. The 2026 accounts get invoices and DMCA screenshots. Clients ask for numbers (Amber, Lauren Blake) and are promised a phone call.</li>
+<li><b>Chatter quality and voice</b> on at least seven accounts: broken English, emoticons the model hates, "are you single" to whales, aggressive tone, telling a fan she has a husband. Fixes are reactive: pay deductions, removing a chatter.</li>
+<li><b>Whale retention after takeover is not measured.</b> Lauren Blake lost 13 of 24 whales (59% of revenue) in the first month. Lilia lost her top spender to a missed flag. Amber's top spender "picked up on" the tone change.</li>
+<li><b>Money friction lands in the CS chat.</b> Four bank or rail changes in 2026, Zelle caps forcing five separate sends, fraud-flagged wires, currency reissues, a premature invoice, off-book payments to Derrek. Stephski absorbs it well; each one still costs trust.</li>
+<li><b>DMCA is a number in a screenshot.</b> The first one arrives unexplained ("What's this?"). High-leak clients say the volume is overwhelming and submit their own links.</li>
+</ol>
+</section>
+
+<section id="models">
+<h2>8. Model by model</h2>
+<p class="lede">What each model has run into, and what is open as of 8 August. <button type="button" id="toggle-all">Expand all</button></p>
+
+<details id="m-amber"><summary><span>Amber Haze</span><small>since 30 Apr 2026 · Ollie from 30 Jun; Mayson; chatters Joshiepoo, Jonasito, smurf</small><i class="s risk"></i></summary>
+<p><b>Experienced.</b> Chatters offline for about six hours during the CRM switch on day 9. Another model's content appeared in her vault twice (13 and 20 May); ALTR disabled the software's vault-upload feature. Three ALTR-built IG accounts were banned before launch and she was told only when she asked. Facebook page on day 20, IG accounts day 21, Twitter never. Link.me banned. Commission dispute, 35% to 30%. One invoice re-issued. Content pipeline rebuilt three times (Drive, shared album, second Drive), with one batch lost to a duplicated link. Formal complaint on 4 June: "the main focus has been on the chatting side, while a lot of the other things that were promised haven't really been delivered." Chatters promising content she does not do (29 Jul). Ollie joined without any context and re-requested assets twice.</p>
+<p><b>Open.</b> A fan calling her repeatedly on Snapchat; it took "@olkmck" and then "@mmayson can someone reply please" to get a response (6–7 Aug). Managed IG at about 35 followers on 21 July. Customs sheet only introduced 5 August. Nearly half of all traffic outside topics.</p>
+</details>
+
+<details id="m-barbara"><summary><span>Barbara</span><small>since ~9 Jul 2026 · POC Mayson; no chat lead visible</small><i class="s risk"></i></summary>
+<p><b>Experienced.</b> Onboarding half-done before the group existed; she is "very confused" about what was handed over. She believes her X login went to Derrek; the team says "we don't run twitter." IGs down at onboarding. Mica's call rescheduled twice. OFTV edit arrived via an expired WeTransfer from her old team. Zelle to the invoice email failed. Promo gated on the phone farm.</p>
+<p><b>Open.</b> "Any updates with all the new changes happening?" (6 Aug) answered "Yo Ma'am." Escort-listing impersonation raised in DMCA on 7 August; Derrek replied "yes." Backup IG "ready next week." OFTV still stuck. Nobody from the chat side has introduced themselves.</p>
+</details>
+
+<details id="m-haileigh"><summary><span>Haileigh Cox</span><small>since Aug 2025 · Ronnie; Mayson (Joseph left 8 Jul)</small><i class="s watch"></i></summary>
+<p><b>Experienced.</b> Content Snare failed for months ("You guys get zero content from me because it's a pain"), then a four-day gap to replace it. Had to be taught Drive folders step by step. "Do I have an account manager?" on 22 March. Five link-page changes. A $7.5k single chargeback and weeks over $7k. View-only Drive. Shared-album invite lost twice. Promo album built for the wrong purpose.</p>
+<p><b>Open.</b> Losing followers, suspected shadowban (29 Jul); Vivek said "Sure share login" and nothing visible followed. Engagement down to about 38 client messages in two months.</p>
+</details>
+
+<details id="m-kaitlynn"><summary><span>Kaitlynn</span><small>since 7 Aug 2026 · Mayson / Ollie · relaunch</small><i class="s ok"></i></summary>
+<p><b>Experienced.</b> Two and a half hours of history. Chatters were live before the group. She set an aggressive pricing and girlfriend-experience mandate herself. Only Mayson and Michelle had introduced themselves at cutoff.</p>
+<p><b>Open.</b> The full sequence still to run: intake form, Mica's call, drives, invoicing intro.</p>
+</details>
+
+<details id="m-lauren"><summary><span>Lauren Blake</span><small>since 3 Jul 2026 · Ollie</small><i class="s ok"></i></summary>
+<p><b>Experienced.</b> Intake FAQ completed but not seen ("Oh weird I did fill it out"). Asked for drive links three times ("Nvm I found it in another chat!"). A chatter quoted $500 for topless and implied acts she does not do (1 Aug). About $6k in chargebacks plus an OF warning. A $27k whale blocked as "strategy" without telling her. Two customs held while she travelled.</p>
+<p><b>Open.</b> 13 of 24 whales ghosted since takeover, the agenda for the 7 August call. Paid-ads reporting (5% of revenue) promised via a Derrek call. OFTV in queue. Otherwise the healthiest 2026 account.</p>
+</details>
+
+<details id="m-lauryn"><summary><span>Lauryn</span><small>since Aug 2025 · no active chat lead</small><i class="s crit"></i></summary>
+<p><b>Experienced.</b> Content Snare upload failures over three weeks and a four-step workaround ladder. Facebook "not recommended" from old violations since October 2025, ETA "one month or 6 months." Chatters booked a custom implying oral against her limits, then pressed for an exception three times. Customs pitched before payment landed. Four payment-rail changes. Chatting paused over a late payment (Nov 2025). Entire original team, nine-plus people, removed in June 2026 with a one-line notice.</p>
+<p><b>Open.</b> No chat lead has posted since the swap; only invoicing, DMCA and Vivek are active. Vivek asked her to unlink Gmail from Facebook; she refused ("That's just confidential"); Derrek stepped in on 8 August; unresolved. Card surcharge and split invoices continue.</p>
+</details>
+
+<details id="m-lilia"><summary><span>Lilia</span><small>since 25 May 2026 · Fred · two pages</small><i class="s risk"></i></summary>
+<p><b>Experienced.</b> An invoice five days in, retracted by Derrek in front of her. Drive failed for five days (full phone storage), then a shared album whose first invite never arrived. Link.me, then "hold off", then a .vip domain that Instagram took down (she fixed it herself). One chatter removed for tone and pricing errors (24 Jul). An auto-refund from a notification outage. She takes over DMs herself and chatters miss the flag. Zelle in five $500 sends with a reconciliation mismatch. DMCA arrived unexplained. Did not know customs existed under her old agency.</p>
+<p><b>Open.</b> Lost her highest spender (29 Jul); Fred "will look into." Logins changed and Fred was not told (4 Aug); she had sent them to Mayson. Ten threads waited over 24 hours since June, the most of any account.</p>
+</details>
+
+<details id="m-liza"><summary><span>Liza Kovalenko</span><small>since Jul 2025 · Ronnie / Nate, low touch; Mayson</small><i class="s watch"></i></summary>
+<p><b>Experienced.</b> Contract sent and chased, never confirmed. Content Snare froze on her device, so she uploaded straight to the vault for a year. Facebook access took two and a half weeks, then broke; she eventually declined it ("I grow 110k in 2 month" on her own). Instagram in near-continuous crisis from September 2025 to March 2026 with contradictory advice. Customs sold before she had agreed to do customs (20 Jul). "Was it someone from the team that logged in?" (18 Mar) unanswered. Invoices split into up to five card links. Card-processor freeze, then crypto.</p>
+<p><b>Open.</b> OF "tag a creator" notice (6 Aug) routed "@roflo1424 ^^", no reply in the data. Paid the last invoice in crypto directly to Derrek. Satellite IG needs her payment method for verification (4 Aug).</p>
+</details>
+
+<details id="m-mila"><summary><span>Mila</span><small>since 20 Jun 2026 · Mayson; OF topic silent since 27 Jun</small><i class="s watch"></i></summary>
+<p><b>Experienced.</b> The cleanest handover in the portfolio: the old team disconnected from Infloww and OnlyMonster, ALTR connected. IG suspended on 23 June; "I haven't clicked appeal as you said not to, so what happens now" never answered. Mica's call took nine days (her holiday). USD invoices to a GBP client, manual conversion, GBP reissue. Payment "not received" for five days because a bank fee changed the amount. Constant reel requests.</p>
+<p><b>Open.</b> Payment redone after a bank fraud flag (8 Aug); needs confirmation and a duplicate check. No OF-side contact for six weeks, eight messages in the OnlyFans topic since 25 June. DMCA topic never used.</p>
+</details>
+
+<details id="m-sarahl"><summary><span>Sarah Lloyd</span><small>since 8 Jun 2026 · Nate and Ronnie; Alex · no OnlyFans topic</small><i class="s crit"></i></summary>
+<p><b>Experienced.</b> Day-1 escalation: chatters sent her biggest whale B/G content and pre-October-2025 tapes she had banned on the form ("I said so many times on onboarding forms"). Emergency call, vault purge. Then the same complaints (repetitive PPVs, no renewal reminders, muted paying subs, no aftercare) on 27 June as a seven-point list, then 2, 8, 13, 14 and 17 July: "pls make sure they actually fix it this time." A $10 test wire refunded, bank changed twice. OFTV-editor deduction and the 35% to 30% correction both backdated. Mica's call rescheduled three times. View-only promo Drive. Facebook password posted in chat for Vivek.</p>
+<p><b>Open.</b> Facebook "under watch till September" and IG profile views down from 20M to 4M (8 Aug); Vivek: "wait i will explain." Three quarters of messages outside topics. Nine threads waited over 24 hours.</p>
+</details>
+
+<details id="m-sarahh"><summary><span>Sarah H</span><small>since Sep 2025 · Mayson / Ronnie / Nate; Derrek in group</small><i class="s watch"></i></summary>
+<p><b>Experienced.</b> Main, reels and VIP IG accounts suspended six-plus times. Unbans re-billed at $840 to $2,275 each and repeatedly slower than "12 to 24 hours"; once she appealed herself and won after ALTR had already paid a rep. DMCA went quiet four times and she had to ask "Are you guys still doing leak takedowns?" Content Snare links expired or locked five times. A content day cancelled with an hour's notice. OFTV took four months and four-plus audio rejections. Invoice versus dashboard discrepancy (chargebacks). A Mercury link that would have bounced. The two people who onboarded her left within two months with no handover.</p>
+<p><b>Open.</b> Vivek recovered one account on 8 August; two others still down, one non-appealable, one "stuck on pending." OFTV audio fixes ongoing; Olivia re-added on 4 August for it.</p>
+</details>
+
+<details id="m-shayna"><summary><span>Shayna</span><small>since 10 Apr 2026 · Fred</small><i class="s risk"></i></summary>
+<p><b>Experienced.</b> Day 2: a $150 full-nude custom sold off her form when her line is topless only. All customs now need her approval, at a cost Fred flagged ("it does hurt custom sales massively"). Facebook access took six weeks and ended with her password in chat. Orphaned customs and a pre-sold live from her old agency chased for two months. Free content and previews given away, eight-plus complaints, two chatter pay deductions. A custom she declined sold anyway for $800. Feed posts by the team after she asked three times; the auto-scheduler still fired on 5 August. Notion customs board deleted by Notion, shared-note fallback failed three times. Zelle cap, payments over four-plus days. DMCA "uploading new ones every hour." Chatter English flagged twice.</p>
+<p><b>Open.</b> Free sexting and see-through photos to non-spenders again (6 Aug); "Relaying to the team." A custom check on a fan (7 Aug) routed "@ofmfrederick ^^", pending.</p>
+</details>
+
+<details id="m-vale"><summary><span>Vale</span><small>since 23 Mar 2026 · Ollie (Fred removed 10 Jul)</small><i class="s risk"></i></summary>
+<p><b>Experienced.</b> Password in chat to start the same night. Telegram-compressed photos, Drive created only after she complained. Chatters sold a full-nude video and photo for $30 off the form. A second pricing dispute. Fred removed with no handover: the old team's Drive deleted, April customs never delivered to fans, FAQ redone, new Drive, new customs sheet. Unexplained OF logins. Chatters told a fan the girl-girl partner was her best friend (1 Aug); Derrek intervened personally. "Pls no scamming people." Video calls pending three-plus months. Three payment rails, one payment made to Derrek directly, a $5,720 referral credit applied by hand.</p>
+<p><b>Open.</b> "Was a call booked for today?" (7 Aug), a fan call she did not know about, and she needs his notes. A rescheduled call unresolved. Snapchat video-call channel just set up.</p>
+</details>
+
+<details id="m-vicky"><summary><span>Vicky</span><small>since 17 Jun 2026 · Ollie (Fred removed 26 Jun) · two pages</small><i class="s risk"></i></summary>
+<p><b>Experienced.</b> Live within three hours, then Fred removed on day 9 with no notice; both pages re-logged into a different Infloww. Seven face-auth relinks in five weeks. Infloww seat clashed with her own org. Her paid SFS traffic stopped and queued posts deleted before her wind-down ended. Derrek's "traffic by end of week one" (19 Jun) became "next 48 hrs" on 4 August. Crypto address sent on the wrong chain. She refused to move content into ALTR's Drive; Ollie then deleted the folder by mistake. Fans still talking to her on Telegram and Snap so chatters cannot sell. "Why chatters so aggressive?" A chatter no-show.</p>
+<p><b>Open.</b> Traffic still not live. Confusion over what a $1k fan paid for, snap add versus video call (5 Aug). Invoicing topic created two weeks late. Two thirds of traffic outside topics.</p>
+</details>
+</section>
+
+<section id="start">
+<h2>9. Where to start</h2>
+<ol class="plain">
+<li>A per-model hard-limits card in Infloww creator notes, mirrored as a pinned message, with custom approval on by default. Removes most of gap 1.</li>
+<li>A rule for "^^": the tagged person acknowledges within a set window or Mayson escalates. Removes gap 2.</li>
+<li>Five topics on every group, enforced by the lead. Create the missing OnlyFans topic on Sarah Lloyd's group now.</li>
+<li>A team-swap checklist: transfer Drive ownership, export the customs sheet, re-share the FAQ, relink Infloww, and post an intro that says what was inherited.</li>
+<li>Name a chat lead for Lauryn, Barbara and Mila and have them post in the OF topic this week.</li>
+<li>A one-page update every two weeks: what was done, what is next, the numbers. The 2025 accounts had it and complained far less about promises.</li>
+<li>One credentials process: DM to a single named holder, kept in a password manager, listed (not the values) in the pinned message so a new lead knows what ALTR holds.</li>
+</ol>
+</section>
+
+<section id="retired">
+<h2>10. No longer current</h2>
+<p>Older chats still show these. None of them is live process.</p>
+<ul class="plain">
+<li>Content Snare submission portal. Dropped February 2026 for Google Drive.</li>
+<li>juicy.bio and link.me link pages. Replaced by custom .vip domains in June 2026.</li>
+<li>Notion customs board. Replaced by the pinned Google Sheet.</li>
+<li>Mercury payment links (bounced, 22 June) and every bank detail before Bank of America.</li>
+<li>Lauren Biz Assistant; Lissy (onboarding manager, resource drops); Sophie Logan of Raw Agency (client relations, report and 14-day plan PDFs); Ana M and the 2025 chat-manager roster; Nick DMCA and the "Updates" reporting bot.</li>
+<li>Scripted voice-note batches as a first deliverable.</li>
+<li>The topic names "DMCA Takedowns" and "Onlyfans Updates" (older groups still carry them).</li>
+<li>Olivia as Content Director. She is OFTV only now.</li>
+</ul>
+</section>
+
+<footer>
+<p>Method: full read of the onboarding and CS segments of all fourteen chats (about 11,000 parsed messages), plus per-chat activity, topic-usage and response-time analysis over 1 June to 8 August 2026. Quotes are as written in the chats with identifying details removed. Companion documents: model-onboarding.html (process) and invoicing-audit.md (billing).</p>
+</footer>
+
+</main>
+</div>
+<script>
+(function(){
+ var links=[].slice.call(document.querySelectorAll('nav.side a[href^="#"]'));
+ var targets=links.map(function(a){return document.getElementById(a.getAttribute('href').slice(1))}).filter(Boolean);
+ function on(){var y=window.scrollY+90,cur=null;targets.forEach(function(t){if(t.offsetTop<=y)cur=t});links.forEach(function(a){a.classList.toggle('on',cur&&a.getAttribute('href')==='#'+cur.id)})}
+ window.addEventListener('scroll',on,{passive:true});on();
+ var btn=document.getElementById('toggle-all');
+ if(btn){btn.addEventListener('click',function(){var ds=[].slice.call(document.querySelectorAll('details'));var open=btn.textContent.indexOf('Expand')===0;ds.forEach(function(d){d.open=open});btn.textContent=open?'Collapse all':'Expand all'})}
+ links.forEach(function(a){a.addEventListener('click',function(){var id=a.getAttribute('href').slice(1),d=document.getElementById(id);if(d&&d.tagName==='DETAILS')d.open=true})});
+ if(location.hash){var d=document.getElementById(location.hash.slice(1));if(d&&d.tagName==='DETAILS')d.open=true}
+})();
+</script>
+</body></html>

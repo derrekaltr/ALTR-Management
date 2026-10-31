@@ -1,0 +1,811 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ALTR — Services &amp; Revenue Operations Dashboard</title>
+<style>
+  :root{
+    color-scheme: light;
+    --page:#f9f9f7; --surface:#fcfcfb; --ink:#0b0b0b; --ink-2:#52514e; --muted:#898781;
+    --grid:#e1e0d9; --axis:#c3c2b7; --ring:rgba(11,11,11,.10);
+    --s1:#2a78d6; --s2:#eb6834; --s3:#1baf7a; --s4:#eda100; --s5:#e87ba4; --s7:#4a3aa7;
+    --seq-250:#86b6ef; --seq-400:#3987e5; --seq-550:#1c5cab; --seq-150:#b7d3f6;
+    --good:#0ca30c; --warn:#fab219; --serious:#ec835a; --critical:#d03b3b;
+    --good-text:#006300;
+    --wash-blue:rgba(42,120,214,.08); --wash-serious:rgba(236,131,90,.10);
+  }
+  @media (prefers-color-scheme: dark){
+    :root:where(:not([data-theme="light"])){
+      color-scheme: dark;
+      --page:#0d0d0d; --surface:#1a1a19; --ink:#ffffff; --ink-2:#c3c2b7; --muted:#898781;
+      --grid:#2c2c2a; --axis:#383835; --ring:rgba(255,255,255,.10);
+      --s1:#3987e5; --s2:#d95926; --s3:#199e70; --s4:#c98500; --s5:#d55181; --s7:#9085e9;
+      --seq-250:#6da7ec; --seq-400:#3987e5; --seq-550:#184f95; --seq-150:#2a4a75;
+      --good-text:#0ca30c;
+      --wash-blue:rgba(57,135,229,.14); --wash-serious:rgba(236,131,90,.16);
+    }
+  }
+  :root[data-theme="dark"]{
+    color-scheme: dark;
+    --page:#0d0d0d; --surface:#1a1a19; --ink:#ffffff; --ink-2:#c3c2b7; --muted:#898781;
+    --grid:#2c2c2a; --axis:#383835; --ring:rgba(255,255,255,.10);
+    --s1:#3987e5; --s2:#d95926; --s3:#199e70; --s4:#c98500; --s5:#d55181; --s7:#9085e9;
+    --seq-250:#6da7ec; --seq-400:#3987e5; --seq-550:#184f95; --seq-150:#2a4a75;
+    --good-text:#0ca30c;
+    --wash-blue:rgba(57,135,229,.14); --wash-serious:rgba(236,131,90,.16);
+  }
+  *{box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{margin:0;background:var(--page);color:var(--ink);
+    font:15px/1.55 system-ui,-apple-system,"Segoe UI",sans-serif;}
+  .wrap{max-width:1180px;margin:0 auto;padding:36px 28px 90px}
+  a{color:var(--s1)}
+  /* ---------- header ---------- */
+  header.top{display:flex;justify-content:space-between;align-items:flex-end;gap:20px;
+    border-bottom:2px solid var(--ink);padding-bottom:22px;margin-bottom:10px;flex-wrap:wrap}
+  .kicker{font-size:11px;letter-spacing:.22em;text-transform:uppercase;color:var(--ink-2);font-weight:600;margin-bottom:8px}
+  h1{font-size:30px;line-height:1.12;margin:0;font-weight:700;letter-spacing:-.015em}
+  .meta{font-size:13px;color:var(--ink-2);margin-top:8px}
+  .meta b{color:var(--ink)}
+  .theme-btn{border:1px solid var(--ring);background:var(--surface);color:var(--ink);
+    border-radius:8px;padding:7px 14px;font:600 13px system-ui;cursor:pointer}
+  .theme-btn:hover{border-color:var(--axis)}
+  /* ---------- nav ---------- */
+  nav.bar{position:sticky;top:0;z-index:40;background:var(--page);border-bottom:1px solid var(--grid);
+    margin:0 -28px 26px;padding:10px 28px;display:flex;gap:4px;flex-wrap:wrap}
+  nav.bar a{color:var(--ink-2);text-decoration:none;font-size:13px;font-weight:600;
+    padding:5px 11px;border-radius:99px}
+  nav.bar a:hover{background:var(--surface);color:var(--ink)}
+  /* ---------- sections & cards ---------- */
+  h2{font-size:21px;margin:52px 0 4px;letter-spacing:-.01em;scroll-margin-top:64px}
+  h2 .num{color:var(--s1);margin-right:8px}
+  .sub{color:var(--ink-2);font-size:13.5px;margin:0 0 18px;max-width:860px}
+  .card{background:var(--surface);border:1px solid var(--ring);border-radius:12px;padding:20px 22px;margin:14px 0}
+  .card h3{margin:0 0 2px;font-size:15px}
+  .card .hint{font-size:12.5px;color:var(--muted);margin:0 0 14px}
+  .grid2{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+  .grid3{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+  @media(max-width:900px){.grid2,.grid3{grid-template-columns:1fr}}
+  /* ---------- KPI tiles ---------- */
+  .kpis{display:grid;grid-template-columns:repeat(6,1fr);gap:12px;margin-top:22px}
+  @media(max-width:1000px){.kpis{grid-template-columns:repeat(3,1fr)}}
+  @media(max-width:640px){.kpis{grid-template-columns:repeat(2,1fr)}}
+  .kpi{background:var(--surface);border:1px solid var(--ring);border-radius:12px;padding:15px 16px}
+  .kpi .l{font-size:12px;color:var(--ink-2);line-height:1.3}
+  .kpi .v{font-size:27px;font-weight:650;letter-spacing:-.01em;margin-top:5px}
+  .kpi .d{font-size:11.5px;color:var(--muted);margin-top:3px;line-height:1.35}
+  .kpi .d.bad{color:var(--critical)}
+  .kpi .d.good{color:var(--good-text)}
+  /* ---------- legend ---------- */
+  .legend{display:flex;gap:16px;flex-wrap:wrap;font-size:12.5px;color:var(--ink-2);margin:4px 0 10px}
+  .legend .it{display:flex;align-items:center;gap:6px}
+  .sw{width:11px;height:11px;border-radius:3px;display:inline-block}
+  .lk{width:14px;height:3px;border-radius:2px;display:inline-block}
+  /* ---------- svg charts ---------- */
+  svg text{font-family:system-ui,-apple-system,"Segoe UI",sans-serif}
+  .axis-t{font-size:11px;fill:var(--muted)}
+  .lab-t{font-size:12px;fill:var(--ink-2)}
+  .val-t{font-size:11.5px;font-weight:600;fill:var(--ink)}
+  .bar-hit{cursor:default}
+  .bar-hit:hover rect.mk, .bar-hit:hover circle.mk{filter:brightness(1.12)}
+  /* ---------- tooltip ---------- */
+  #tip{position:fixed;z-index:99;pointer-events:none;background:var(--surface);color:var(--ink);
+    border:1px solid var(--ring);border-radius:8px;box-shadow:0 4px 18px rgba(0,0,0,.16);
+    padding:8px 11px;font-size:12.5px;max-width:280px;display:none;line-height:1.45}
+  #tip .tv{font-weight:700;font-size:13.5px}
+  #tip .tl{color:var(--ink-2)}
+  /* ---------- matrix ---------- */
+  .matrix-wrap{overflow-x:auto}
+  table.matrix{border-collapse:collapse;font-size:12.5px;min-width:760px}
+  table.matrix th{font-size:11px;color:var(--ink-2);font-weight:600;padding:6px 4px;text-align:center}
+  table.matrix th.rowh{text-align:left;padding-right:14px;white-space:nowrap}
+  table.matrix td{text-align:center;padding:3px 4px}
+  table.matrix td .cell{width:26px;height:26px;border-radius:7px;display:inline-flex;
+    align-items:center;justify-content:center;font-size:12px;font-weight:700;cursor:default}
+  table.matrix td .cell:hover{outline:2px solid var(--axis)}
+  table.matrix tr:hover td:first-child{color:var(--s1)}
+  .c-sold{background:var(--seq-550);color:#fff}
+  .c-part{background:var(--seq-250);color:#0b0b0b}
+  .c-off{background:var(--grid);color:var(--ink-2)}
+  .c-dec{background:var(--wash-serious);color:var(--serious);border:1px solid var(--serious)}
+  .c-na{background:transparent;color:var(--muted)}
+  /* ---------- explorer ---------- */
+  .filters{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin:14px 0 16px}
+  .chip{border:1px solid var(--ring);background:var(--surface);color:var(--ink-2);border-radius:99px;
+    padding:5px 13px;font:600 12.5px system-ui;cursor:pointer}
+  .chip:hover{border-color:var(--axis);color:var(--ink)}
+  .chip.on{background:var(--ink);color:var(--page);border-color:var(--ink)}
+  #q{border:1px solid var(--ring);background:var(--surface);color:var(--ink);border-radius:8px;
+    padding:7px 12px;font:13px system-ui;width:220px}
+  .svc{border:1px solid var(--ring);border-radius:10px;background:var(--surface);margin:8px 0;overflow:hidden}
+  .svc summary{list-style:none;cursor:pointer;display:grid;grid-template-columns:minmax(180px,2.2fr) minmax(90px,1fr) minmax(120px,1.4fr) minmax(140px,1.6fr);
+    gap:10px;align-items:center;padding:11px 16px;font-size:13.5px}
+  .svc summary::-webkit-details-marker{display:none}
+  .svc summary:hover{background:var(--wash-blue)}
+  .svc .nm{font-weight:650}
+  .svc .pr{color:var(--ink-2);font-size:12.5px}
+  .svc .oc{font-size:12.5px}
+  .svc .body{padding:2px 16px 14px;font-size:13px;color:var(--ink-2);border-top:1px solid var(--grid)}
+  .svc .body b{color:var(--ink)}
+  .tag{display:inline-block;border-radius:6px;padding:2px 8px;font-size:11px;font-weight:700;letter-spacing:.02em}
+  .t-core{background:var(--wash-blue);color:var(--s1)}
+  .t-paid{background:rgba(74,58,167,.10);color:var(--s7)}
+  .t-fan{background:rgba(27,175,122,.12);color:var(--s3)}
+  .t-free{background:var(--grid);color:var(--ink-2)}
+  .t-dead{background:var(--wash-serious);color:var(--serious)}
+  .o-sold{color:var(--good-text);font-weight:650}
+  .o-partial{color:var(--s1);font-weight:650}
+  .o-open{color:var(--serious);font-weight:650}
+  .o-dead{color:var(--critical);font-weight:650}
+  .o-free{color:var(--ink-2)}
+  /* ---------- timeline ---------- */
+  .tl-scroll{overflow-x:auto}
+  /* ---------- team ---------- */
+  .person{border-left:3px solid var(--s1);padding:2px 0 2px 14px;margin:14px 0}
+  .person.warnb{border-color:var(--serious)}
+  .person h4{margin:0;font-size:14.5px}
+  .person .role{font-size:12px;color:var(--muted)}
+  .person ul{margin:8px 0 0;padding-left:18px;font-size:13px;color:var(--ink-2)}
+  .person li{margin:4px 0}
+  .pm{display:flex;gap:18px;margin:8px 0 2px;font-size:12.5px;flex-wrap:wrap}
+  .pm b{font-size:16px;display:block;color:var(--ink)}
+  /* ---------- watchlist ---------- */
+  .watch li{margin:8px 0}
+  .badge{display:inline-block;font-size:10.5px;font-weight:800;letter-spacing:.05em;border-radius:5px;padding:2px 7px;vertical-align:1px;margin-right:7px}
+  .b-open{background:var(--critical);color:#fff}
+  .b-ans{background:var(--warn);color:#0b0b0b}
+  .b-cred{background:var(--s7);color:#fff}
+  footer{margin-top:64px;padding-top:18px;border-top:1px solid var(--grid);color:var(--muted);font-size:12.5px;line-height:1.7}
+  @media print{nav.bar{display:none}.card{break-inside:avoid}}
+</style>
+</head>
+<body>
+<div id="tip"></div>
+<div class="wrap">
+
+<header class="top">
+  <div>
+    <div class="kicker">ALTR Management · Revenue Operations Intelligence</div>
+    <h1>Services &amp; Invoicing Dashboard</h1>
+    <div class="meta">Source: <b>14 «Model × ALTR» Telegram team chats</b> · Jul 24 2025 – Aug 8 2026 · ~9,500 messages, read in full · every figure traceable to message IDs in the companion reports</div>
+  </div>
+  <button class="theme-btn" id="themeBtn" aria-label="Toggle color theme">◐ Theme</button>
+</header>
+
+<nav class="bar">
+  <a href="#overview">Overview</a>
+  <a href="#conversion">What sells</a>
+  <a href="#matrix">Uptake matrix</a>
+  <a href="#fanside">Fan-side pricing</a>
+  <a href="#invoicing">Collections</a>
+  <a href="#rails">Payment rails</a>
+  <a href="#explorer">Service explorer</a>
+  <a href="#team">Team</a>
+  <a href="#watch">Watchlist</a>
+</nav>
+
+<!-- ============ 1 · OVERVIEW ============ -->
+<section id="overview">
+  <div class="kpis">
+    <div class="kpi"><div class="l">Clients under management</div><div class="v">14</div><div class="d">7 onboarded in 2026 alone</div></div>
+    <div class="kpi"><div class="l">Distinct services pitched</div><div class="v">45+</div><div class="d">across core, add-on, fan-side &amp; free</div></div>
+    <div class="kpi"><div class="l">Invoice cycles issued</div><div class="v">~130</div><div class="d">biweekly, 1st &amp; 15th</div></div>
+    <div class="kpi"><div class="l">Typical days to payment</div><div class="v">2–3</div><div class="d good">when invoice &amp; rails are correct</div></div>
+    <div class="kpi"><div class="l">Open invoices at cutoff</div><div class="v">7</div><div class="d bad">most blocked by agency-side rails</div></div>
+    <div class="kpi"><div class="l">Payment-rail changes</div><div class="v">6+</div><div class="d bad">in 10 months, incl. 2 aborted rollouts</div></div>
+  </div>
+
+  <div class="grid3" style="margin-top:14px">
+    <div class="card" style="border-left:3px solid var(--good)">
+      <h3>The engine works</h3>
+      <p class="hint" style="margin-bottom:0">The 30% bundled retainer sold to <b>14 / 14</b> clients, and the fan-side monetization machine inside it is prolific — a single $50 tape drop did <b>$10k in day one</b>. DMCA takedowns (up to 5,871 removals/client) are the most loved deliverable in every chat.</p>
+    </div>
+    <div class="card" style="border-left:3px solid var(--serious)">
+      <h3>Discrete upsells barely close</h3>
+      <p class="hint" style="margin-bottom:0">In 13 months, only <b>3 stand-alone paid add-ons ever converted</b>. Every offer that shipped without a price — Copyright Ban Protection, the Meta-rep cost-split — closed at <b>zero</b>. The one client who asked what the cost-split would cost got no answer.</p>
+    </div>
+    <div class="card" style="border-left:3px solid var(--s7)">
+      <h3>Clients pay; rails don't</h3>
+      <p class="hint" style="margin-bottom:0">No client is a demonstrated non-payer. ~250–300 avoidable cycle-days of collection lag were <b>~80% agency-caused</b>: bank churn, invoice errors, link latency, and no receivables reconciliation.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 2 · CONVERSION ============ -->
+<section id="conversion">
+  <h2><span class="num">01</span>What you tried to sell vs. what actually sold</h2>
+  <p class="sub">Every distinct offer with a commercial ask, ranked by clients pitched. Gray is the reach of the pitch; blue is a confirmed close (billed / delivered / actively used). Hover any bar for the story.</p>
+  <div class="card">
+    <div class="legend">
+      <span class="it"><span class="sw" style="background:var(--axis)"></span>Clients pitched</span>
+      <span class="it"><span class="sw" style="background:var(--seq-550)"></span>Closed / billed</span>
+      <span class="it"><span class="sw" style="background:var(--seq-250)"></span>Partial / disputed close</span>
+    </div>
+    <div id="convChart"></div>
+  </div>
+</section>
+
+<!-- ============ 3 · MATRIX ============ -->
+<section id="matrix">
+  <h2><span class="num">02</span>Client uptake matrix</h2>
+  <p class="sub">Who bought, who passed, who was never asked. Newest clients on the right. Hover any cell for detail.</p>
+  <div class="card">
+    <div class="legend">
+      <span class="it"><span class="cell c-sold sw" style="width:16px;height:16px;border-radius:5px"></span>Sold / delivered</span>
+      <span class="it"><span class="cell c-part sw" style="width:16px;height:16px;border-radius:5px"></span>Partial / in progress</span>
+      <span class="it"><span class="sw c-off" style="width:16px;height:16px;border-radius:5px"></span>Offered, no close</span>
+      <span class="it"><span class="sw c-dec" style="width:16px;height:16px;border-radius:5px"></span>Declined</span>
+      <span class="it"><span style="color:var(--muted)">·</span>&nbsp;Not pitched</span>
+    </div>
+    <div class="matrix-wrap"><table class="matrix" id="matrixTable"></table></div>
+  </div>
+</section>
+
+<!-- ============ 4 · FAN-SIDE ============ -->
+<section id="fanside">
+  <h2><span class="num">03</span>Fan-side monetization — the price book</h2>
+  <p class="sub">Services the chat teams sell to fans on clients' behalf; ALTR earns its 30% on all of it. Ranges are actual transactions and quotes seen in chat. Hover a range for context.</p>
+  <div class="card">
+    <div id="priceChart"></div>
+    <p class="hint" style="margin-top:10px">Also proposed: a <b>$600/month private-live subscription</b> (Shayna — mooted once she banned live selling), VIP priority-chat tiers, and collab-scene PPVs (typical $29.99–34.99, once sold at $100).</p>
+  </div>
+</section>
+
+<!-- ============ 5 · COLLECTIONS ============ -->
+<section id="invoicing">
+  <h2><span class="num">04</span>Collections performance</h2>
+  <p class="sub">Corrected by full transcript reads (the raw regex scaffold undercounts payments). "Silent" = settled off-chat with no visible signal — not non-payment. Open = unresolved at the Aug 7–8 data cutoff.</p>
+  <div class="grid2">
+    <div class="card">
+      <h3>Payment evidence, by client</h3>
+      <p class="hint">All ~130 cycles. Hover a segment for counts.</p>
+      <div class="legend">
+        <span class="it"><span class="sw" style="background:var(--seq-550)"></span>Confirmed</span>
+        <span class="it"><span class="sw" style="background:var(--seq-400)"></span>Claimed</span>
+        <span class="it"><span class="sw" style="background:var(--seq-250)"></span>Silent / off-chat</span>
+        <span class="it"><span class="sw" style="background:var(--serious)"></span>⚠ Open at cutoff</span>
+      </div>
+      <div id="evChart"></div>
+    </div>
+    <div class="card">
+      <h3>Typical days from invoice → payment signal</h3>
+      <p class="hint">Median per client, clean-cycle basis. Kaitlynn &amp; Barbara excluded (no completed cycle).</p>
+      <div id="lagChart"></div>
+      <p class="hint" style="margin-top:8px">Era effect (Lauryn, longest tenure): avg lag <b>2.6 days</b> under Lauren Biz Assistant (2025) vs <b>~9.5 days</b> after — driven mostly by 2026 rail churn, splits and the 5% card surcharge, not the person.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 6 · RAILS ============ -->
+<section id="rails">
+  <h2><span class="num">05</span>The payment-rails timeline</h2>
+  <p class="sub">Every destination/method change clients were asked to absorb, and what broke. Each major collection stall in the data maps onto one of these events. Hover a marker.</p>
+  <div class="card">
+    <div class="legend">
+      <span class="it"><span class="sw" style="background:var(--s1);border-radius:99px"></span>Bank / destination change</span>
+      <span class="it"><span class="sw" style="background:var(--s3);border-radius:99px"></span>Method / processor change</span>
+      <span class="it"><span class="sw" style="background:var(--critical);transform:rotate(45deg)"></span>Failure / freeze</span>
+      <span class="it"><span class="sw" style="background:var(--serious);transform:rotate(45deg)"></span>Aborted rollout</span>
+      <span class="it"><span class="sw" style="background:var(--s7)"></span>Policy / terms</span>
+      <span class="it"><span class="sw" style="background:var(--s4)"></span>Staffing</span>
+    </div>
+    <div class="tl-scroll"><div id="railChart"></div></div>
+  </div>
+</section>
+
+<!-- ============ 7 · EXPLORER ============ -->
+<section id="explorer">
+  <h2><span class="num">06</span>Service explorer — the full catalog</h2>
+  <p class="sub">Every distinct service found across all 14 chats. Filter by family, search by name, click a row for evidence and message IDs.</p>
+  <div class="filters">
+    <button class="chip on" data-f="all">All</button>
+    <button class="chip" data-f="core">Core bundle</button>
+    <button class="chip" data-f="paid">Paid add-ons</button>
+    <button class="chip" data-f="fan">Fan-side</button>
+    <button class="chip" data-f="free">Free value-adds</button>
+    <button class="chip" data-f="dead">Pitched, not sold</button>
+    <input id="q" type="search" placeholder="Search services…" aria-label="Search services">
+    <span id="count" style="font-size:12.5px;color:var(--muted)"></span>
+  </div>
+  <div id="svcList"></div>
+</section>
+
+<!-- ============ 8 · TEAM ============ -->
+<section id="team">
+  <h2><span class="num">07</span>Who sells &amp; who delivers</h2>
+  <div class="grid2">
+    <div class="card">
+      <div class="person">
+        <h4>Stephski <span class="role">— billing owner, Nov 2025 → present</span></h4>
+        <div class="pm"><span><b>105+</b> invoices issued</span><span><b>~95%</b> on the 1st/15th</span><span><b>12+</b> clients solo</span></div>
+        <ul>
+          <li><b>Strength:</b> near-perfect calendar punctuality; persistent, polite chasing; accommodated every split request.</li>
+          <li><b>Exposure — accuracy:</b> 35% billed vs contracted 30% twice; missed contractual deductions; wrong revenue total; wrong wire address; wrong-network crypto address (client caught it).</li>
+          <li><b>Exposure — latency:</b> payment links up to 12 days after "ready to pay"; receipt confirmations promised ("Checking! 🙏") and never delivered in 6+ chats.</li>
+        </ul>
+      </div>
+      <div class="person">
+        <h4>Lauren Biz Assistant <span class="role">— billing owner, Aug–Nov 2025</span></h4>
+        <div class="pm"><span><b>~20</b> invoices</span><span><b>2.6d</b> avg lag era</span></div>
+        <ul>
+          <li>Best-run stretch in the data: pre-reminders every cycle, holiday bank advice, fast troubleshooting.</li>
+          <li>Dropped receipt collection when clients went quiet (incl. ~$15k with no receipt ever produced); exited with no handoff announcement anywhere.</li>
+        </ul>
+      </div>
+      <div class="person">
+        <h4>Michelle Queue <span class="role">— promo / DMCA</span></h4>
+        <ul><li>Runs the IG-reels repurposing pitch (per-client PDF) and weekly DMCA reporting — the bundle's most consistently delivered, least-complained-about services. Carries a billing tag but does zero billing.</li></ul>
+      </div>
+    </div>
+    <div class="card">
+      <div class="person warnb">
+        <h4>Derrek <span class="role">— principal</span></h4>
+        <ul>
+          <li>Closes and prices everything that matters (contract tiers, referral credits, corrections) — and is the <b>single point of truth for bank receipts</b>, which bottlenecks reconciliation.</li>
+          <li>Side-channel collections (personal Apple Pay, USDT wallet, "sent to D") desync the books — billing staff twice chased invoices already paid to him.</li>
+          <li>Broadcast upsells (Copyright Ban Protection, cost-split rep, Phone Farm) go out verbatim to all 14 chats — with no price attached, and no follow-up motion when clients show interest.</li>
+        </ul>
+      </div>
+      <div class="person">
+        <h4>Mica Vecco <span class="role">— social media director</span></h4>
+        <ul><li>Consistent weekly reel-inspo delivery in every chat; quoted the only ad-hoc priced upsells besides unbans (IG unban fees $840–$2,275 via an unnamed rep). Billing tag, no billing work.</li></ul>
+      </div>
+      <div class="person">
+        <h4>FRED | OFM &amp; chat leads <span class="role">— Ollie, Mayson, Noah/Nate, Alex, Vladan, George…</span></h4>
+        <ul><li>The fan-side sales force: customs, calls, lives, Snapchat adds, walletchecks. Highest client engagement in FRED-playbook chats (scripts, bio A/B tests, live games); highest friction where pricing floors or approval rules were skipped.</li></ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 9 · WATCHLIST ============ -->
+<section id="watch">
+  <h2><span class="num">08</span>Watchlist — open money &amp; open promises</h2>
+  <div class="grid2">
+    <div class="card">
+      <h3>Open at data cutoff (Aug 7–8, 2026)</h3>
+      <ul class="watch" style="font-size:13.5px;padding-left:2px;list-style:none">
+        <li><span class="badge b-open">OPEN</span><b>Lauryn ×2</b> — Jul 1–14 &amp; Jul 15–31 invoices stalled; her last message is a failed payment: "That Zelle email isn't working" — unanswered.</li>
+        <li><span class="badge b-open">OPEN</span><b>Barbara</b> — first invoice ever; the Zelle address printed on it didn't work; 47-hour staff silence mid-failure; dangling.</li>
+        <li><span class="badge b-open">OPEN</span><b>Sarah Lloyd</b> — awaiting corrected-rate payment + an unanswered overpayment credit (even Derrek's internal ping got no reply).</li>
+        <li><span class="badge b-open">OPEN</span><b>Mila</b> — bank fraud-flag stopped a payment ALTR never noticed; redo unconfirmed, double-payment check requested.</li>
+        <li><span class="badge b-open">OPEN</span><b>Lilia</b> — Jul 15–31 claimed "I'll get that paid 🩵" at cutoff.</li>
+        <li><span class="badge b-open">OPEN</span><b>Vicky</b> — Jul 15–31 silent (within terms); Jul 1–14 receipt never confirmed.</li>
+      </ul>
+    </div>
+    <div class="card">
+      <h3>Unanswered asks &amp; unwritten terms</h3>
+      <ul class="watch" style="font-size:13.5px;padding-left:2px;list-style:none">
+        <li><span class="badge b-ans">ASK</span><b>Sarah</b> — GST / per-country revenue breakdown, asked Jan 2 — never answered in 8 months.</li>
+        <li><span class="badge b-ans">ASK</span><b>Lauren Blake</b> — Meta ad-spend reports behind the 5% fee; deflected to a call, nothing in writing.</li>
+        <li><span class="badge b-ans">ASK</span><b>Liza</b> — paid-ads performance stats, promised twice ("full summary"), never sent.</li>
+        <li><span class="badge b-ans">ASK</span><b>Amber</b> — "roughly how much would my share of the cost be?" on the Meta-rep split — no answer.</li>
+        <li><span class="badge b-cred">TERMS</span><b>Referral program</b> — your best acquisition channel (Vale's $5,720 credit ≈ bought Shayna) has no written terms in any chat.</li>
+        <li><span class="badge b-cred">TERMS</span><b>Copyright Ban Protection</b> — offered to all 14 clients, price never stated; two clients leaning yes with nothing to sign.</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <b>Method &amp; caveats.</b> Built from full reads of all 14 exported chats (parse → extract → cycle-reconstruction pipeline, then per-chat analyst passes; see <code>report/invoicing-audit.md</code> and <code>report/services-catalog.md</code> for message-ID citations). Payment evidence is chat-visible signal only — wire/Zelle/crypto can settle with zero chat trace, so "silent" ≠ unpaid and "open" ≠ default. Bank account numbers, routing numbers, personal phone numbers and client legal names are excluded throughout. Charts use a CVD-validated palette; a text alternative for every figure exists in the companion markdown reports.
+</footer>
+</div>
+
+<script>
+/* ================= data ================= */
+const CLIENTS = [
+  {id:'L', n:'Lauryn'}, {id:'S', n:'Sarah'}, {id:'Lz', n:'Liza'}, {id:'H', n:'Haileigh'},
+  {id:'V', n:'Vale'}, {id:'Sh', n:'Shayna'}, {id:'A', n:'Amber'}, {id:'Li', n:'Lilia'},
+  {id:'SL', n:'S. Lloyd'}, {id:'Vk', n:'Vicky'}, {id:'M', n:'Mila'}, {id:'B', n:'Barbara'},
+  {id:'LB', n:'L. Blake'}, {id:'K', n:'Kaitlynn'}
+];
+
+const CONV = [
+  {n:'Core 30% retainer', p:14, c:14, pc:0, note:'The bundle: chatting, social, promo, DMCA, content, invoicing. Sold to every client.'},
+  {n:'Copyright Ban Protection', p:14, c:0, pc:2, note:'Offered to all 14 (Jul 29 2026 broadcast). Price never stated. Barbara & Sarah Lloyd engaged; zero confirmed closes.'},
+  {n:'Meta-rep cost split (50/50)', p:14, c:0, pc:0, note:'Inside the Aug 1 Phone-Farm broadcast. Amber asked what her share would cost — no answer in transcript.'},
+  {n:'Facebook management', p:4, c:1, pc:1, note:'Sold to Lauryn (monetization promised, never achieved). Haileigh declined after 5 pitches in 7 days; Liza took it back in-house.'},
+  {n:'+5% paid-ads uplift', p:3, c:2, pc:1, note:'Billed to Liza & Lauren Blake. Amber was promised agency-funded ads — proof demanded, never shown. No client ever received a written spend report.'},
+  {n:'Revenue Growth proposals', p:3, c:1, pc:0, note:'Oct 2025 PDF sweep (Sophie). Liza’s converted into the +5% ads uplift; Haileigh’s died silently.'},
+  {n:'Twitter management', p:3, c:0, pc:0, note:'"We don’t run twitter." Deferred as "extremely unprofitable" from zero; team "coming soon" never launched.'},
+  {n:'3rd-party IG recovery', p:2, c:0, pc:0, note:'Sep 2025 broadcast: "lower cost than official Meta reps." Unpriced; never taken up.'},
+  {n:'IG unban fees (via rep)', p:1, c:1, pc:0, note:'Sarah only: $1,680 → $2,275 billed & delivered (Nov). Dec round ($1,785 + $50/acct) accepted — but she recovered her own accounts via a free appeal while the rep "worked."'},
+  {n:'35% paid-marketing tier', p:1, c:0, pc:0, note:'Offered to Sarah at signing; "Just the 30% for now." Never re-pitched to anyone, ever.'},
+  {n:'Fansly management', p:1, c:0, pc:0, note:'Sarah asked; "Let me check on this & get back to you!" — never answered.'},
+  {n:'Recapture campaign', p:1, c:0, pc:0, note:'6-month free-trial win-back pitched to Lauryn by Anne, who was removed from the chat a month later. No reply.'},
+];
+
+const PRICES = [
+  {n:'Custom videos / photos', lo:80, hi:2000, note:'$80 dick rates → $2,000 "Anniversary Volume II" (Amber’s Wesley). Most volume sits $150–$1,000. Real-time custom tracking sheets rolled out Jul 2026.'},
+  {n:'Video calls / FaceTime', lo:150, hi:1800, note:'Rate card: $10/min–$250 minimum (Vale sheet); $100/min for Lauryn. The $700/15-min call sparked Vicky’s biggest dispute when the fan expected an hour.'},
+  {n:'Private 1:1 lives', lo:400, hi:1500, note:'$600 floor (Shayna). Topless live pitched at $1,500 (Lauryn). Shayna later banned live selling: fans "using them to try to get me on dates."'},
+  {n:'Snapchat adds / access', lo:150, hi:600, note:'Fan pays per add; runs on a "script that pushes for a 1 on 1." Lilia sells access at $200; one $150 add was charged back.'},
+  {n:'Used panties', lo:200, hi:600, note:'$200 on Vale’s rate card; fan quoted $500–600/pair in Shayna’s chat. Fulfillment unconfirmed.'},
+  {n:'Voice notes', lo:200, hi:350, note:'~$200 typical (Lauryn); JOI voice content to $350 on the Vale rate card.'},
+  {n:'PPV tape drops', lo:30, hi:100, note:'$50 floor pushed to "$100 minimum." The Girth Master drop at $50 did $10k on day one (Haileigh).'},
+];
+
+const EV = [
+  {id:'S',  conf:21, cl:0, sil:0, open:0},
+  {id:'L',  conf:20, cl:1, sil:0, open:2},
+  {id:'H',  conf:19, cl:3, sil:0, open:0},
+  {id:'Lz', conf:13, cl:5, sil:5, open:1},
+  {id:'V',  conf:6,  cl:0, sil:3, open:0},
+  {id:'A',  conf:6,  cl:0, sil:0, open:0},
+  {id:'Sh', conf:3,  cl:1, sil:3, open:0},
+  {id:'Li', conf:3,  cl:0, sil:1, open:1},
+  {id:'SL', conf:1,  cl:0, sil:2, open:1},
+  {id:'Vk', conf:1,  cl:1, sil:0, open:1},
+  {id:'M',  conf:1,  cl:1, sil:0, open:1},
+  {id:'LB', conf:0,  cl:1, sil:0, open:0},
+  {id:'B',  conf:0,  cl:0, sil:0, open:1},
+];
+
+const LAG = [
+  {id:'A',  d:1.6}, {id:'H', d:2.0}, {id:'S', d:2.0}, {id:'Sh', d:3.0}, {id:'LB', d:3.0},
+  {id:'V',  d:3.5}, {id:'Lz', d:4.0}, {id:'Li', d:4.5}, {id:'L', d:5.5}, {id:'M', d:6.0}, {id:'Vk', d:6.5},
+];
+
+const MATRIX = [
+  {svc:'Core 30% retainer',      cells:{L:'S',S:'S',Lz:'S',H:'S',V:'S',Sh:'S',A:'S',Li:'S',SL:'S',Vk:'S',M:'S',B:'S',LB:'S',K:'S'},
+   d:{_:'Sold to every client; invoiced biweekly.'}},
+  {svc:'+5% paid-ads uplift',    cells:{S:'D',Lz:'S',A:'P',LB:'S'},
+   d:{S:'Offered as the 35% tier at signing — declined.',Lz:'Sold Nov 2025; stats promised twice, never sent.',A:'Ads promised ("a few thousand dollars"); proof demanded, never shown.',LB:'On invoice at 5%; ad-spend report requested, deflected to a call.'}},
+  {svc:'IG unban fees',          cells:{S:'S'},
+   d:{S:'$2,275 billed & delivered Nov 2025; Dec round murky — client self-recovered.'}},
+  {svc:'Copyright Ban Protection',cells:{L:'P',S:'P',Lz:'O',H:'P',V:'O',Sh:'O',A:'O',Li:'O',SL:'S',Vk:'O',M:'O',B:'P',LB:'O'},
+   d:{_:'Offered to all (Jul 29 2026), never priced.',SL:'Actively used — logins shared, IG unbanned, FB "under watch."',B:'"Any way I can protect my accounts i’d like to!" — no explicit close.',L:'In progress; client refused Gmail access.',S:'Logins + 2FA handed to Vivek; one account restored.'}},
+  {svc:'Meta-rep cost split',    cells:{L:'O',S:'O',Lz:'O',H:'O',V:'O',Sh:'O',A:'O',Li:'O',SL:'O',Vk:'O',M:'O',B:'O',LB:'O'},
+   d:{_:'50/50 split offered in the Aug 1 broadcast; zero uptake.',A:'Asked the price. No answer.'}},
+  {svc:'Facebook management',    cells:{L:'S',Lz:'P',H:'D',A:'P',Sh:'P'},
+   d:{L:'Full access granted; monetization promised, never achieved.',Lz:'Accepted then reclaimed: "I grow 110k in 2 month" herself.',H:'Declined after 5 pitches in 7 days.',A:'Cross-posting live; takeover-at-5k milestone never reached.',Sh:'Access messy; password shared in chat.'}},
+  {svc:'OFTV program',           cells:{L:'O',S:'S',Lz:'O',SL:'S',B:'P'},
+   d:{S:'Delivered — live Mar 2026, 2k+ free-page subs; framed as "a free extra $100–200k."',SL:'$100/wk editor deduction agreed at signing (missed on invoices until she flagged it).',B:'Coordination delivered on request.'}},
+  {svc:'Custom .vip domains',    cells:{L:'P',S:'S',H:'S',V:'S',Sh:'S',A:'S',Li:'S',SL:'S',Vk:'S',B:'O',LB:'S'},
+   d:{_:'Free "anti-shadowban" domains; delivered broadly.',L:'Skeptical — "I already have juicy.bio."',H:'4 domains; two hit IG restrictions within a day.',SL:'7 domains.'}},
+  {svc:'Fan-side monetization',  cells:{L:'S',S:'S',Lz:'S',H:'S',V:'S',Sh:'P',A:'S',Li:'S',SL:'S',Vk:'P',M:'S',LB:'S'},
+   d:{_:'Customs, calls, lives, adds — the revenue engine.',Sh:'Active, but client banned live selling Jul 2026.',Vk:'Active; the $700 video call was disputed.'}},
+  {svc:'Referral program',       cells:{S:'S',V:'S'},
+   d:{S:'Per-invoice deductions since Jun 2026 (e.g. $2,104.76).',V:'$5,720 credit — and she referred another prospect two days later. No written terms anywhere.'}},
+  {svc:'Reports & game plans',   cells:{L:'P',Lz:'P',H:'P'},
+   d:{_:'ALTR Reports + 14-Day Game Plans (Sophie/Raw Agency era). Loved — then silently discontinued when Raw Agency exited Nov 2025.'}},
+  {svc:'Twitter management',     cells:{Lz:'O',A:'D',B:'D'},
+   d:{Lz:'"Working on bringing on a twitter management team" — never launched.',A:'Deferred: "extremely unprofitable" from zero.',B:'"We don’t run twitter" — after the client thought she’d handed over logins.'}},
+];
+
+const RAILS = [
+  // lane = vertical offset from the axis; hand-assigned so no two labels collide
+  {d:'2025-09-27', t:'bank',   lane:-97,  l:'Bank change #1 — Chase / "Social Depot"'},
+  {d:'2025-10-13', t:'method', lane:55,   l:'Revolut added'},
+  {d:'2025-11-06', t:'method', lane:-69,  l:'FanBasis card links become default'},
+  {d:'2025-11-13', t:'staff',  lane:83,   l:'Billing handoff Lauren → Stephski (unannounced)'},
+  {d:'2026-02-14', t:'fail',   lane:-41,  l:'Card processor freezes ALL payments (2 pay periods)'},
+  {d:'2026-03-05', t:'method', lane:55,   l:'Card links restored'},
+  {d:'2026-04-15', t:'bank',   lane:-97,  l:'Bank change #2 — "Altr platforms" acct'},
+  {d:'2026-05-01', t:'abort',  lane:83,   l:'Stripe rollout — retracted same day'},
+  {d:'2026-06-15', t:'method', lane:-41,  l:'Mercury pay links launched'},
+  {d:'2026-06-22', t:'abort',  lane:111,  l:'Mercury retracted — "your transaction will bounce"'},
+  {d:'2026-07-01', t:'bank',   lane:-125, l:'Bank change #4 — Bank of America ("last change I promise!")'},
+  {d:'2026-07-15', t:'policy', lane:55,   l:'5% credit-card surcharge introduced'},
+  {d:'2026-07-31', t:'method', lane:-69,  l:'FanBasis → Commas processor swap'},
+  {d:'2026-08-01', t:'policy', lane:139,  l:'First-ever due dates (7-day terms) + Phone-Farm broadcast'},
+  {d:'2026-08-07', t:'fail',   lane:-97,  l:'BofA Zelle failing — client unable to pay; unanswered'},
+];
+
+const SERVICES = [
+ // core
+ {n:'OnlyFans management & 24/7 chatting', cat:'core', price:'30% of net, biweekly', cl:'All 14', out:'sold', o:'Delivered to all', d:'The flagship. PPV, mass messages, sexting, vault & wall management by rotating chat teams. Twice invoiced at 35% in error and corrected to 30% (Amber #259, S.Lloyd #628). Enforcement lever: "chatting is paused" if 5+ days unpaid (Lauryn #786).'},
+ {n:'Social media direction (IG/TikTok/Snap/FB)', cat:'core', price:'Bundled', cl:'All 14', out:'sold', o:'Delivered to all', d:'Mica Vecco: profile audits, Calendly 1:1s, weekly reel-inspo drops in every chat, 60–90-day "trust rebuild" strategies after IG crackdowns.'},
+ {n:'Management-run IG reels accounts', cat:'core', price:'Bundled · client supplies reels', cl:'All 14', out:'partial', o:'Delivered, uneven', d:'Michelle Queue + per-client "IG Reels Marketing.pdf" pitch doc. Needs up to 35 reels/wk from the client (Haileigh #175). Chronic under-delivery for Amber: 3 accounts banned, "months and it’s 35 followers" (#796).'},
+ {n:'DMCA takedowns / leak removal', cat:'core', price:'Bundled · daily scans', cl:'All 14', out:'sold', o:'Best-loved service', d:'Weekly reports; 2,301–5,871 removals per client; "legal action if needed" (Shayna #629). The only service with zero complaints in any chat.'},
+ {n:'Content management (Snare → Drive/albums)', cat:'core', price:'Bundled', cl:'All 14', out:'partial', o:'Delivered, tooling churn', d:'Content Snare abandoned for Haileigh at her request ("You guys get zero content from me because it’s a pain" #360) — replaced by shared Drive/iCloud albums.'},
+ {n:'Promo / traffic provision', cat:'core', price:'ALTR-funded', cl:'All active', out:'partial', o:'Delivered, delays', d:'Replaced Vicky’s paid SFS ("our goal isnt to bring in cheap fans" #55) — but ALTR delivery slipped ~6 weeks. Folded into the Phone-Farm operation Aug 2026.'},
+ {n:'Profile optimization + CRM automation', cat:'core', price:'Bundled', cl:'All active', out:'sold', o:'Delivered 2026', d:'Tracking links, 24/7 promo campaigns for new & expired subs, automated renewal + win-back messages, bio optimization. Rolled out with identical copy Apr–Jun 2026.'},
+ {n:'Invoicing / billing support', cat:'core', price:'Biweekly, 1st & 15th', cl:'All 14', out:'partial', o:'See collections', d:'Presented as a dedicated service at onboarding. Full performance analysis in the invoicing audit — 6+ rail changes, ~7 invoices open at cutoff.'},
+ {n:'Facebook page management / monetization', cat:'core', price:'Bundled · takeover at ~5k followers', cl:'5 pitched', out:'partial', o:'1 sold · 2 declined', d:'Sold to Lauryn (monetization promised, never achieved). Haileigh declined after 5 pitches in 7 days. Liza reclaimed it ("I grow 110k in 2 month"). Amber’s takeover milestone never reached.'},
+ {n:'OFTV program', cat:'core', price:'Free · pitched as "$100–200k upside"', cl:'S, SL, B (+3 mentions)', out:'sold', o:'Delivered for Sarah', d:'Free page, editor support, feature pursuit. Sarah live Mar 2026, 2k+ subs. Sarah Lloyd’s $100/wk editor deduction agreed at signing (then missed on invoices until she flagged it). ALTR coached Sarah to hide the agency from OFTV: "don’t say agency… keep it creator-led!" (#1283).'},
+ // paid
+ {n:'Paid-marketing tier (35%)', cat:'paid dead', price:'+5pts of rev share', cl:'Sarah (at signing)', out:'dead', o:'Declined, never re-pitched', d:'"30% month to month with a suite of marketing… OR 35%… adding paid marketing" (#25). "Just the 30% for now" (#26). The only tiered pricing pitch in the dataset — and it was never offered to anyone again.'},
+ {n:'+5% paid Instagram/Meta ads', cat:'paid', price:'+5% on invoice', cl:'Liza, L. Blake (+ Amber promise)', out:'sold', o:'2 billed · 0 reports delivered', d:'Liza: active from Nov 2025, asked twice for stats — "full summary" promised, never sent. Lauren Blake: demanded ad-spend reports (#151), deflected to a Derrek call. Amber: promised agency-funded ads, demanded screenshots, never shown.'},
+ {n:'IG unban via third-party rep', cat:'paid', price:'$840–$2,275 + ~$50/acct', cl:'Sarah', out:'sold', o:'1 clean close, 1 murky', d:'Nov 2025: $2,275 for 3 accounts, "we can cover it up front and add this to your invoice" (#822) — restored. Dec 2025: $1,785 round accepted, but the client recovered all accounts via her own free appeal while the rep "worked" (#1003–1005). ALTR then told her never to self-appeal (#1474).'},
+ {n:'Copyright Ban Protection (Meta content-match)', cat:'paid', price:'Never stated', cl:'All 14 (Jul 29 2026)', out:'open', o:'0 confirmed closes', d:'Verbatim Derrek broadcast. Barbara leaning yes; Sarah Lloyd used the underlying service; Sarah handed logins + 2FA to Vivek. Nothing signed, nothing priced, nothing billed on-chat.'},
+ {n:'"Higher-up Meta rep" cost split', cat:'paid', price:'50/50, amount unstated', cl:'All 14 (Aug 1 2026)', out:'open', o:'0 uptake', d:'Inside the Phone-Farm broadcast. Amber: "Roughly how much would my share of the cost be…?" — no answer in transcript.'},
+ {n:'5% credit-card surcharge', cat:'paid', price:'+5% on card links', cl:'All active (Jul 15 2026)', out:'partial', o:'Moved behavior', d:'Fee policy, not a service — Liza reverted to wire immediately; Lauryn’s payments stalled after it landed mid-split-request.'},
+ // fan-side
+ {n:'Custom videos & photos', cat:'fan', price:'$80–$2,000 per item', cl:'11 chats', out:'sold', o:'High volume', d:'From $80 dick rates to the $2,000 Wesley custom. Client-set floors (Shayna $30/nude pic; Mila ~£700–1k). Real-time Google-Sheets custom trackers rolled out Jul 2026. Friction: customs sold without client approval in 3 chats — approval-first rules instituted.'},
+ {n:'Video calls / FaceTime', cat:'fan', price:'$10/min–$1,800', cl:'6 chats', out:'sold', o:'Sold, 1 dispute', d:'Vale’s rate card: $10/min, $250 minimum. Vicky’s $700/15-min call blew up when chatters promised the fan an hour without briefing her: "if you’re selling calls, I need to have all information beforehand."'},
+ {n:'Private 1:1 lives', cat:'fan', price:'$400–$1,500 · $600/mo proposed', cl:'4 chats', out:'partial', o:'Active → 1 client banned them', d:'$600 floor. A $600/month live-subscription was proposed for a whale (Shayna #697) — mooted when she ended live selling: "Guys have been using them to try to get me on dates" (#702).'},
+ {n:'Snapchat adds / access', cat:'fan', price:'$150–$600 per add', cl:'6 chats', out:'sold', o:'Active funnel', d:'Runs on "a script that pushes for a 1 on 1" (Amber #896). Lilia sells access at $200; one $150 add charged back. Harassment friction when fans demanded calls the client never agreed to.'},
+ {n:'Used panties & physical items', cat:'fan', price:'$200–$600/pair', cl:'Shayna, Vale', out:'partial', o:'Accepted, fulfillment unshown', d:'"Fan interested in buying panties… he’d spend 500-600 on one used pair" — "yes!" (Shayna #277–278).'},
+ {n:'PPV drops & walletcheck programs', cat:'fan', price:'$30–$100+ per unlock', cl:'All active', out:'sold', o:'The revenue engine', d:'Wed/Fri MMPPV cadence, walletcheck bundles, club/VIP-key events, $50→$100 tape floors. The Girth Master $50 drop did $10k day one (Haileigh #505).'},
+ {n:'VIP tiers / priority chatting', cat:'fan', price:'Varies', cl:'Vale, Lilia', out:'partial', o:'Adopted into strategy', d:'"Signed up for VIP until March 27 (priority chatting, free 1 chat sexting)" (Vale #11); VIP push added to Lilia’s strategy — rollout not evidenced.'},
+ {n:'Collab content brokering', cat:'fan', price:'$29.99–$100 PPV', cl:'Lz, S, H', out:'sold', o:'Delivered', d:'ppwyang & Guadalupe collabs priced and mass-PPV’d for Liza; Caryn collab handled for Sarah; Girth Master drop for Haileigh.'},
+ // free value-adds
+ {n:'Custom .vip link domains', cat:'free', price:'Free ("latest technology")', cl:'11 clients', out:'sold', o:'Delivered broadly', d:'Anti-shadowban framing. Sarah Lloyd got 7; Haileigh’s 4 hit restrictions within a day; Lauryn was skeptical ("I already have juicy.bio").'},
+ {n:'Link.me / juicy.bio + Social Planner + traffic recovery', cat:'free', price:'Free', cl:'All active', out:'sold', o:'Adopted', d:'The traffic-recovery free-trial redirect was accepted same-day by Sarah: "Omg that makes so much sense let’s do that definitely!!!"'},
+ {n:'Trial-reels growth method', cat:'free', price:'Free (tutorial video)', cl:'Amber, Lilia', out:'sold', o:'Best-received freebie', d:'"By far the best way to grow right now on IG." Amber: "I’ve actually been using that a lot and it’s performed really well." Cheapest service in the catalog; highest praise-to-cost ratio.'},
+ {n:'ALTR Reports + 14-Day Game Plans', cat:'free', price:'Free', cl:'L, Lz, H (2025)', out:'partial', o:'Loved, then discontinued', d:'"Amazing!!!!! I love this" (Haileigh #71). Quietly stopped when Sophie/Raw Agency exited Nov 2025 — client engagement visibly cooled after.'},
+ {n:'Strategy & check-in calls', cat:'free', price:'Free', cl:'All chats', out:'partial', o:'Held; cadences fizzle', d:'Calendly 1:1s, Mayson 15-min growth calls, "weekly call" attempts. Shayna used hers as an escalation channel that drove real policy changes.'},
+ {n:'Content days & professional shoots', cat:'free', price:'No fee stated', cl:'S, H invited', out:'partial', o:'Miami delivered', d:'Sep 2025 Miami content day at Derrek’s house; Perth videographer ("200 reels in 3 hours") postponed, unclear; May 2026 Miami shoot arranged.'},
+ {n:'Bulk-filming coaching', cat:'free', price:'Free', cl:'Haileigh', out:'sold', o:'Guide delivered', d:'"Film 100-200 reels in 2-3 hours 🥳" — "Yes let’s do it!!!!" Tips PDF delivered same day.'},
+ {n:'Bi-weekly creator resources', cat:'free', price:'Free', cl:'L, S, Lz, H', out:'sold', o:'Delivered on cadence', d:'Bookkeeping tool, IG branding Canva template, Digital Life Planner, content planner, scam alerts. Passive engagement.'},
+ {n:'Famous Birthdays feature', cat:'free', price:'Free', cl:'L, S, Lz, H', out:'open', o:'Never confirmed delivered', d:'Sep 2025 sweep; DOBs collected from everyone — no delivery ever confirmed for anyone.'},
+ {n:'Sexting scripts & live games (FRED playbook)', cat:'free', price:'Free', cl:'V, Sh, Li, Vk', out:'sold', o:'Highest engagement', d:'NewFansScript PDFs, bio A/B tests, Post-it-Note live game, voice-note MM tactics. The FRED-era chats show the strongest client buy-in in the dataset.'},
+ {n:'Whale / VIP-fan management', cat:'free', price:'Bundled', cl:'SL, Vk, LB', out:'partial', o:'Hybrid adoption', d:'Exclusion lists, nightly voice-note plans, aftercare. Lauren Blake’s agenda: "24 whales, 13 ghosted since takeover… they made 59% of rev."'},
+ {n:'Referral program (invoice credits)', cat:'free', price:'Credit per referral — terms unwritten', cl:'Sarah, Vale', out:'sold', o:'Working, undocumented', d:'Vale’s $5,720 credit almost certainly bought Shayna; Sarah has per-invoice deductions + a tracking system Derrek is building. No written terms in any chat.'},
+ {n:'Wildthing Studio yoga (ALTR-owned)', cat:'free dead', price:'Complimentary, code DERREK2', cl:'L, S, Lz, H', out:'dead', o:'0 conversions', d:'Cross-promo of a Derrek-owned business, Apr 2026 sweep. One interested (Sarah, Miami trip), three ignored, zero bookings evidenced.'},
+ {n:'Meta Support Rep (Vivek) — in-house tier', cat:'free', price:'Free (in-house)', cl:'All 14', out:'sold', o:'Actively used', d:'Unbans, shadow removals, FB recovery. Used by Sarah Lloyd (instant unban), Sarah, Barbara, Haileigh. Requests for client logins/Gmail generated friction — Lauryn refused: "That’s just confidential."'},
+ {n:'Phone Farm infrastructure', cat:'free', price:'$40k agency-funded', cl:'All 14 (Aug 1 2026)', out:'open', o:'Announced, rollout pending', d:'200+ devices, 1000+ accounts, "400 million views" in testing. A credibility play, not a charge — sent verbatim to every chat the same evening.'},
+ // dead / not-offered
+ {n:'Twitter / X management', cat:'dead', price:'—', cl:'Lz, A, B asked', out:'dead', o:'Explicitly not a service', d:'"We don’t run twitter" (Barbara, who thought she’d handed over logins). Derrek: "extremely unprofitable" from zero. Mica: team "coming soon" (Jan 2026) — never launched.'},
+ {n:'Fansly management', cat:'dead', price:'—', cl:'Sarah asked', out:'dead', o:'Inquiry dropped', d:'"Let me check on this & get back to you!" (Mar 2026) — no follow-up ever appears.'},
+ {n:'Recapture campaign (6-mo free trial)', cat:'dead', price:'—', cl:'Lauryn', out:'dead', o:'No reply', d:'Pitched by Anne | Account Manager (May 2026), who was removed from the group a month later.'},
+ {n:'AI Instagram account', cat:'dead', price:'Bundled (opt-out offered)', cl:'Amber', out:'open', o:'Criticized, unresolved', d:'AI-edited backup page: "doesn’t look like me at all." Derrek: "we want completely separate algorithms." Opt-out offered; no resolution.'},
+];
+
+/* ================= helpers ================= */
+const $ = s => document.querySelector(s);
+const NS = 'http://www.w3.org/2000/svg';
+const el = (t, at={}) => { const e = document.createElementNS(NS, t); for (const k in at) e.setAttribute(k, at[k]); return e; };
+const cname = id => CLIENTS.find(c => c.id === id).n;
+const tip = $('#tip');
+function showTip(ev, html){ tip.innerHTML = ''; tip.appendChild(html); tip.style.display = 'block'; moveTip(ev); }
+function moveTip(ev){ const w = tip.offsetWidth, h = tip.offsetHeight;
+  let x = ev.clientX + 14, y = ev.clientY + 14;
+  if (x + w > innerWidth - 8) x = ev.clientX - w - 14;
+  if (y + h > innerHeight - 8) y = ev.clientY - h - 14;
+  tip.style.left = x + 'px'; tip.style.top = y + 'px'; }
+function hideTip(){ tip.style.display = 'none'; }
+function tipHtml(value, label, note){ const f = document.createDocumentFragment();
+  const v = document.createElement('div'); v.className = 'tv'; v.textContent = value; f.appendChild(v);
+  if (label){ const l = document.createElement('div'); l.className = 'tl'; l.textContent = label; f.appendChild(l); }
+  if (note){ const n = document.createElement('div'); n.className = 'tl'; n.style.marginTop = '4px'; n.textContent = note; f.appendChild(n); }
+  return f; }
+function hover(node, fn){ node.classList.add('bar-hit');
+  node.addEventListener('pointerenter', e => showTip(e, fn()));
+  node.addEventListener('pointermove', moveTip);
+  node.addEventListener('pointerleave', hideTip);
+  node.setAttribute('tabindex', '0');
+  node.addEventListener('focus', e => { const r = node.getBoundingClientRect(); showTip({clientX:r.right, clientY:r.top}, fn()); });
+  node.addEventListener('blur', hideTip); }
+const css = v => getComputedStyle(document.documentElement).getPropertyValue(v).trim();
+
+/* ================= conversion chart ================= */
+function renderConv(){
+  const host = $('#convChart'); host.innerHTML = '';
+  const W = Math.min(1080, host.clientWidth || 1080), rowH = 34, padL = 210, padR = 120, padT = 6;
+  const H = padT + CONV.length * rowH + 26;
+  const svg = el('svg', {width:'100%', viewBox:`0 0 ${W} ${H}`, role:'img', 'aria-label':'Clients pitched vs closed per offer'});
+  const max = 14, iw = W - padL - padR, x = v => padL + v / max * iw;
+  [0,2,4,6,8,10,12,14].forEach(v => {
+    svg.appendChild(el('line', {x1:x(v), x2:x(v), y1:padT, y2:H-22, stroke:css('--grid'), 'stroke-width':1}));
+    const t = el('text', {x:x(v), y:H-8, 'text-anchor':'middle', class:'axis-t'}); t.textContent = v; svg.appendChild(t);
+  });
+  CONV.forEach((d, i) => {
+    const y = padT + i * rowH;
+    const lab = el('text', {x:padL-10, y:y+rowH/2+4, 'text-anchor':'end', class:'lab-t'}); lab.textContent = d.n; svg.appendChild(lab);
+    const g = el('g', {class:'bar-hit'});
+    // pitched (context, gray)
+    g.appendChild(el('rect', {class:'mk', x:x(0), y:y+7, width:Math.max(x(d.p)-x(0),2), height:18, rx:4, fill:css('--axis'), opacity:.45}));
+    // partial
+    if (d.pc) g.appendChild(el('rect', {class:'mk', x:x(0), y:y+7, width:Math.max(x(d.c+d.pc)-x(0),2), height:18, rx:4, fill:css('--seq-250')}));
+    // closed
+    if (d.c) g.appendChild(el('rect', {class:'mk', x:x(0), y:y+7, width:Math.max(x(d.c)-x(0),2), height:18, rx:4, fill:css('--seq-550')}));
+    // invisible hit area
+    g.appendChild(el('rect', {x:padL, y, width:iw+padR-6, height:rowH, fill:'transparent'}));
+    const vt = el('text', {x:x(d.p)+8, y:y+rowH/2+4, class:'val-t'});
+    vt.textContent = d.c + (d.pc ? `+${d.pc}` : '') + ` / ${d.p}`; svg.appendChild(vt);
+    svg.appendChild(g);
+    hover(g, () => tipHtml(`${d.c} closed${d.pc ? ` (+${d.pc} partial)` : ''} of ${d.p} pitched`, d.n, d.note));
+  });
+  host.appendChild(svg);
+}
+
+/* ================= price ranges ================= */
+function renderPrices(){
+  const host = $('#priceChart'); host.innerHTML = '';
+  const W = Math.min(1080, host.clientWidth || 1080), rowH = 40, padL = 190, padR = 30, padT = 6;
+  const H = padT + PRICES.length * rowH + 30;
+  const svg = el('svg', {width:'100%', viewBox:`0 0 ${W} ${H}`, role:'img', 'aria-label':'Fan-side price ranges'});
+  const max = 2000, iw = W - padL - padR, x = v => padL + v / max * iw;
+  [0,250,500,750,1000,1250,1500,1750,2000].forEach(v => {
+    svg.appendChild(el('line', {x1:x(v), x2:x(v), y1:padT, y2:H-26, stroke:css('--grid'), 'stroke-width':1}));
+    const t = el('text', {x:x(v), y:H-10, 'text-anchor':'middle', class:'axis-t'}); t.textContent = '$' + v.toLocaleString(); svg.appendChild(t);
+  });
+  PRICES.forEach((d, i) => {
+    const y = padT + i * rowH + rowH/2;
+    const lab = el('text', {x:padL-10, y:y+4, 'text-anchor':'end', class:'lab-t'}); lab.textContent = d.n; svg.appendChild(lab);
+    const g = el('g', {class:'bar-hit'});
+    g.appendChild(el('line', {x1:x(d.lo), x2:x(d.hi), y1:y, y2:y, stroke:css('--seq-400'), 'stroke-width':5, 'stroke-linecap':'round', class:'mk'}));
+    g.appendChild(el('circle', {cx:x(d.lo), cy:y, r:6, fill:css('--seq-250'), stroke:css('--surface'), 'stroke-width':2, class:'mk'}));
+    g.appendChild(el('circle', {cx:x(d.hi), cy:y, r:6, fill:css('--seq-550'), stroke:css('--surface'), 'stroke-width':2, class:'mk'}));
+    g.appendChild(el('rect', {x:padL, y:y-rowH/2, width:iw+padR-6, height:rowH, fill:'transparent'}));
+    // value label centered above the range line — never beside it (row labels live left)
+    const vt = el('text', {x:(x(d.lo)+x(d.hi))/2, y:y-11, 'text-anchor':'middle', class:'val-t'});
+    vt.textContent = d.lo === d.hi ? `$${d.lo}` : `$${d.lo}–$${d.hi.toLocaleString()}`;
+    svg.appendChild(vt);
+    svg.appendChild(g);
+    hover(g, () => tipHtml(d.lo === d.hi ? `$${d.lo}` : `$${d.lo} – $${d.hi.toLocaleString()}`, d.n, d.note));
+  });
+  host.appendChild(svg);
+}
+
+/* ================= evidence stacked ================= */
+function renderEv(){
+  const host = $('#evChart'); host.innerHTML = '';
+  const W = Math.min(520, host.clientWidth || 520), rowH = 27, padL = 78, padR = 46, padT = 4;
+  const H = padT + EV.length * rowH + 26;
+  const svg = el('svg', {width:'100%', viewBox:`0 0 ${W} ${H}`, role:'img', 'aria-label':'Payment evidence per client'});
+  const max = 24, iw = W - padL - padR, x = v => padL + v / max * iw;
+  [0,6,12,18,24].forEach(v => {
+    svg.appendChild(el('line', {x1:x(v), x2:x(v), y1:padT, y2:H-22, stroke:css('--grid'), 'stroke-width':1}));
+    const t = el('text', {x:x(v), y:H-8, 'text-anchor':'middle', class:'axis-t'}); t.textContent = v; svg.appendChild(t);
+  });
+  const KEYS = [['conf','Confirmed','--seq-550'],['cl','Claimed','--seq-400'],['sil','Silent / off-chat','--seq-250'],['open','Open at cutoff','--serious']];
+  EV.forEach((d, i) => {
+    const y = padT + i * rowH;
+    const lab = el('text', {x:padL-8, y:y+rowH/2+4, 'text-anchor':'end', class:'lab-t'}); lab.textContent = cname(d.id); svg.appendChild(lab);
+    const g = el('g', {class:'bar-hit'});
+    let cur = 0;
+    KEYS.forEach(([k,,v]) => { if (!d[k]) return;
+      const w = x(cur + d[k]) - x(cur);
+      g.appendChild(el('rect', {class:'mk', x:x(cur)+(cur?1:0), y:y+5, width:Math.max(w-(cur?2:1),1.5), height:16, rx:4, fill:css(v)}));
+      cur += d[k];
+    });
+    const tot = d.conf + d.cl + d.sil + d.open;
+    const vt = el('text', {x:x(cur)+6, y:y+rowH/2+4, class:'val-t'}); vt.textContent = tot; svg.appendChild(vt);
+    g.appendChild(el('rect', {x:padL, y, width:iw+padR-4, height:rowH, fill:'transparent'}));
+    svg.appendChild(g);
+    hover(g, () => tipHtml(`${tot} cycles`, cname(d.id),
+      KEYS.filter(([k]) => d[k]).map(([k,lbl]) => `${lbl}: ${d[k]}`).join(' · ')));
+  });
+  host.appendChild(svg);
+}
+
+/* ================= lag bars ================= */
+function renderLag(){
+  const host = $('#lagChart'); host.innerHTML = '';
+  const W = Math.min(520, host.clientWidth || 520), rowH = 27, padL = 78, padR = 52, padT = 4;
+  const H = padT + LAG.length * rowH + 26;
+  const svg = el('svg', {width:'100%', viewBox:`0 0 ${W} ${H}`, role:'img', 'aria-label':'Median days to payment per client'});
+  const max = 8, iw = W - padL - padR, x = v => padL + v / max * iw;
+  [0,2,4,6,8].forEach(v => {
+    svg.appendChild(el('line', {x1:x(v), x2:x(v), y1:padT, y2:H-22, stroke:css('--grid'), 'stroke-width':1}));
+    const t = el('text', {x:x(v), y:H-8, 'text-anchor':'middle', class:'axis-t'}); t.textContent = v + 'd'; svg.appendChild(t);
+  });
+  LAG.forEach((d, i) => {
+    const y = padT + i * rowH;
+    const lab = el('text', {x:padL-8, y:y+rowH/2+4, 'text-anchor':'end', class:'lab-t'}); lab.textContent = cname(d.id); svg.appendChild(lab);
+    const g = el('g', {class:'bar-hit'});
+    g.appendChild(el('rect', {class:'mk', x:x(0), y:y+5, width:Math.max(x(d.d)-x(0),2), height:16, rx:4, fill:css('--seq-400')}));
+    g.appendChild(el('rect', {x:padL, y, width:iw+padR-4, height:rowH, fill:'transparent'}));
+    const vt = el('text', {x:x(d.d)+6, y:y+rowH/2+4, class:'val-t'}); vt.textContent = d.d.toFixed(1); svg.appendChild(vt);
+    svg.appendChild(g);
+    hover(g, () => tipHtml(`${d.d.toFixed(1)} days`, cname(d.id), 'Median invoice → first payment signal, corrected by transcript read'));
+  });
+  host.appendChild(svg);
+}
+
+/* ================= matrix ================= */
+function renderMatrix(){
+  const tbl = $('#matrixTable'); tbl.innerHTML = '';
+  const head = document.createElement('tr');
+  head.appendChild(Object.assign(document.createElement('th'), {className:'rowh', textContent:'Service'}));
+  CLIENTS.forEach(c => { const th = document.createElement('th'); th.textContent = c.id; th.title = c.n; head.appendChild(th); });
+  tbl.appendChild(head);
+  const GLYPH = {S:['●','c-sold','Sold / delivered'], P:['◐','c-part','Partial / in progress'], O:['○','c-off','Offered, no close'], D:['✕','c-dec','Declined']};
+  MATRIX.forEach(row => {
+    const tr = document.createElement('tr');
+    const th = document.createElement('th'); th.className = 'rowh'; th.textContent = row.svc; tr.appendChild(th);
+    CLIENTS.forEach(c => {
+      const td = document.createElement('td');
+      const st = row.cells[c.id];
+      if (!st){ td.textContent = '·'; td.style.color = 'var(--muted)'; }
+      else {
+        const [g, cls, lbl] = GLYPH[st];
+        const cell = document.createElement('span'); cell.className = 'cell ' + cls; cell.textContent = g;
+        const note = row.d[c.id] || row.d._ || '';
+        hover(cell, () => tipHtml(lbl, `${row.svc} — ${c.n}`, note));
+        td.appendChild(cell);
+      }
+      tr.appendChild(td);
+    });
+    tbl.appendChild(tr);
+  });
+}
+
+/* ================= rails timeline ================= */
+function renderRails(){
+  const host = $('#railChart'); host.innerHTML = '';
+  const W = 1080, H = 322, padL = 40, padR = 40, axisY = 170;
+  const svg = el('svg', {width:'100%', style:'min-width:900px', viewBox:`0 0 ${W} ${H}`, role:'img', 'aria-label':'Payment rails timeline Jul 2025 to Aug 2026'});
+  const t0 = new Date('2025-09-01').getTime(), t1 = new Date('2026-08-20').getTime();
+  const x = d => padL + (new Date(d).getTime() - t0) / (t1 - t0) * (W - padL - padR);
+  svg.appendChild(el('line', {x1:padL, x2:W-padR, y1:axisY, y2:axisY, stroke:css('--axis'), 'stroke-width':1.5}));
+  const months = ['2025-10-01','2025-12-01','2026-02-01','2026-04-01','2026-06-01','2026-08-01'];
+  const mlab = ['Oct ’25','Dec ’25','Feb ’26','Apr ’26','Jun ’26','Aug ’26'];
+  months.forEach((m, i) => {
+    svg.appendChild(el('line', {x1:x(m), x2:x(m), y1:axisY-4, y2:axisY+4, stroke:css('--axis')}));
+    const t = el('text', {x:x(m), y:axisY+20, 'text-anchor':'middle', class:'axis-t'}); t.textContent = mlab[i]; svg.appendChild(t);
+  });
+  const COLOR = {bank:'--s1', method:'--s3', fail:'--critical', abort:'--serious', policy:'--s7', staff:'--s4'};
+  const TYPE  = {bank:'Bank / destination change', method:'Method / processor change', fail:'Failure / freeze', abort:'Aborted rollout', policy:'Policy / terms', staff:'Staffing'};
+  RAILS.forEach(ev => {
+    const cx = x(ev.d), lane = ev.lane, up = lane < 0;
+    const my = axisY + lane + (up ? 12 : -12);   // marker sits between label and axis
+    const g = el('g', {class:'bar-hit'});
+    g.appendChild(el('line', {x1:cx, x2:cx, y1:axisY, y2:my, stroke:css('--grid'), 'stroke-width':1}));
+    if (ev.t === 'fail' || ev.t === 'abort')
+      g.appendChild(el('rect', {class:'mk', x:cx-5.5, y:my-5.5, width:11, height:11, rx:2,
+        transform:`rotate(45 ${cx} ${my})`, fill:css(COLOR[ev.t]), stroke:css('--surface'), 'stroke-width':2}));
+    else if (ev.t === 'policy' || ev.t === 'staff')
+      g.appendChild(el('rect', {class:'mk', x:cx-5, y:my-5, width:10, height:10, rx:2, fill:css(COLOR[ev.t]), stroke:css('--surface'), 'stroke-width':2}));
+    else
+      g.appendChild(el('circle', {class:'mk', cx, cy:my, r:6, fill:css(COLOR[ev.t]), stroke:css('--surface'), 'stroke-width':2}));
+    const short = ev.l.length > 36 ? ev.l.slice(0, 34) + '…' : ev.l;
+    const anchor = cx > W - 230 ? 'end' : (cx < 220 ? 'start' : 'middle');
+    const lt = el('text', {x:cx, y:axisY+lane+(up?4:8), 'text-anchor':anchor, class:'axis-t'});
+    lt.textContent = short; g.appendChild(lt);
+    g.appendChild(el('circle', {cx, cy:my, r:14, fill:'transparent'}));
+    svg.appendChild(g);
+    const dt = new Date(ev.d).toLocaleDateString('en-US', {month:'short', day:'numeric', year:'numeric'});
+    hover(g, () => tipHtml(dt, TYPE[ev.t], ev.l));
+  });
+  host.appendChild(svg);
+}
+
+/* ================= explorer ================= */
+const OUT = {sold:['o-sold','Sold / delivered'], partial:['o-partial','Partial'], open:['o-open','Open / unclear'], dead:['o-dead','Not sold'], free:['o-free','—']};
+const TAG = {core:['t-core','CORE'], paid:['t-paid','PAID ADD-ON'], fan:['t-fan','FAN-SIDE'], free:['t-free','FREE'], dead:['t-dead','DEAD']};
+let curF = 'all';
+function renderSvc(){
+  const list = $('#svcList'); list.innerHTML = '';
+  const q = ($('#q').value || '').toLowerCase();
+  let n = 0;
+  SERVICES.forEach(s => {
+    const cats = s.cat.split(' ');
+    if (curF !== 'all' && !cats.includes(curF)) return;
+    if (q && !(s.n + ' ' + s.d + ' ' + s.cl).toLowerCase().includes(q)) return;
+    n++;
+    const det = document.createElement('details'); det.className = 'svc';
+    const sum = document.createElement('summary');
+    const c1 = document.createElement('span'); c1.className = 'nm'; c1.textContent = s.n;
+    const c2 = document.createElement('span');
+    const tg = document.createElement('span'); const [tc, tl] = TAG[cats[0]]; tg.className = 'tag ' + tc; tg.textContent = tl; c2.appendChild(tg);
+    const c3 = document.createElement('span'); c3.className = 'pr'; c3.textContent = s.price;
+    const c4 = document.createElement('span'); const [oc, ol] = OUT[s.out]; c4.className = 'oc ' + oc; c4.textContent = s.o;
+    sum.append(c1, c2, c3, c4); det.appendChild(sum);
+    const body = document.createElement('div'); body.className = 'body';
+    const p1 = document.createElement('p'); p1.innerHTML = '';
+    const bcl = document.createElement('p'); bcl.style.margin = '10px 0 4px';
+    const bb = document.createElement('b'); bb.textContent = 'Pitched to: '; bcl.appendChild(bb);
+    bcl.appendChild(document.createTextNode(s.cl));
+    const bd = document.createElement('p'); bd.style.margin = '4px 0 4px'; bd.textContent = s.d;
+    body.append(bcl, bd); det.appendChild(body);
+    list.appendChild(det);
+  });
+  $('#count').textContent = n + ' of ' + SERVICES.length + ' services';
+}
+document.querySelectorAll('.chip').forEach(ch => ch.addEventListener('click', () => {
+  document.querySelectorAll('.chip').forEach(c => c.classList.remove('on'));
+  ch.classList.add('on'); curF = ch.dataset.f; renderSvc();
+}));
+$('#q').addEventListener('input', renderSvc);
+
+/* ================= theme ================= */
+$('#themeBtn').addEventListener('click', () => {
+  const r = document.documentElement;
+  const cur = r.getAttribute('data-theme') || (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+  r.setAttribute('data-theme', cur === 'dark' ? 'light' : 'dark');
+  renderAll();
+});
+matchMedia('(prefers-color-scheme: dark)').addEventListener('change', renderAll);
+
+function renderAll(){ renderConv(); renderPrices(); renderEv(); renderLag(); renderMatrix(); renderRails(); renderSvc(); }
+renderAll();
+addEventListener('resize', () => { renderConv(); renderPrices(); renderEv(); renderLag(); });
+</script>
+</body>
+</html>
