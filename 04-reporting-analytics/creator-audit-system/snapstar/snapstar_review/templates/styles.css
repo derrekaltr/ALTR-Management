@@ -1,0 +1,327 @@
+/* ALTR report theme — from the ALTR brand kit:
+   charcoal #232321, cream #eaebdd, mint accent #c8f2e6,
+   techno-mono labels, squared hairline grid. The star keeps a gold tone —
+   it is Snapchat's gold-star emblem, the subject of the report. */
+
+:root {
+  --charcoal: #232321;
+  --charcoal-2: #2c2c2a;
+  --hairline-dark: #3a3a37;
+  --cream: #eaebdd;
+  --cream-dim: #b9baae;
+  --ink: #232321;
+  --paper: #ffffff;
+  --tint: #f6f6ef;
+  --muted: #75756c;
+  --hairline: #ddddd2;
+  --mint: #c8f2e6;
+  --mint-deep: #2f8a70;
+  --star-gold: #e6c15c;
+  --critical: #b3261e;
+  --high: #c96a2b;
+  --medium: #b08d3f;
+  --low: #6b7280;
+  --clean: #2f8a70;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: var(--ink);
+  background: var(--paper);
+  font-size: 10.5pt;
+  line-height: 1.55;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.mono,
+.small-caps-label,
+.wordmark, .wordmark-sub,
+.sev, .chip,
+.cover .meta, .cover .index,
+h2.section .n,
+.scorecard .cell .lbl,
+.action .lbl,
+table.roster th {
+  font-family: "SF Mono", "JetBrains Mono", Menlo, Consolas, "Courier New", monospace;
+}
+
+.page { padding: 0 16mm; }
+.page-break { page-break-after: always; }
+
+/* ---- cover ---- */
+.cover {
+  background: var(--charcoal);
+  color: var(--cream);
+  border: 1px solid var(--hairline-dark);
+  border-radius: 2px;
+  padding: 18mm 16mm;
+  min-height: 232mm;
+  display: flex;
+  flex-direction: column;
+  margin: 0 10mm;
+}
+.cover .header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding-bottom: 6mm;
+  border-bottom: 1px solid var(--hairline-dark);
+}
+.cover img.wordmark-img { height: 11mm; }
+.cover img.mark-img { height: 7mm; }
+.wordmark {
+  font-size: 21pt;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  font-style: italic;
+  color: var(--cream);
+}
+.wordmark-sub {
+  font-size: 7pt;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  color: var(--cream-dim);
+  margin-top: 1mm;
+}
+.cover .index {
+  font-size: 7.5pt;
+  letter-spacing: 0.24em;
+  text-transform: uppercase;
+  color: var(--cream-dim);
+  text-align: right;
+}
+.cover .index .mint { color: var(--mint); }
+.cover .spacer { flex: 1; }
+.cover .star {
+  font-size: 32pt;
+  color: var(--star-gold);
+  margin-bottom: 7mm;
+}
+.cover h1 {
+  font-size: 26pt;
+  font-weight: 700;
+  line-height: 1.16;
+  letter-spacing: -0.01em;
+  max-width: 132mm;
+  color: #ffffff;
+}
+.cover .creator {
+  margin-top: 10mm;
+  font-size: 12pt;
+  color: var(--cream-dim);
+}
+.cover .creator strong { color: var(--mint); font-size: 15pt; display: block; }
+.cover .meta {
+  margin-top: 13mm;
+  padding-top: 5mm;
+  border-top: 1px solid var(--hairline-dark);
+  display: flex;
+  justify-content: space-between;
+  font-size: 7.5pt;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--cream-dim);
+}
+
+/* ---- shared headings ---- */
+h2.section {
+  font-size: 15pt;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  margin: 12mm 0 5mm;
+  padding-bottom: 3mm;
+  border-bottom: 2px solid var(--charcoal);
+}
+h2.section .n { color: var(--mint-deep); margin-right: 3mm; font-weight: 600; }
+.small-caps-label {
+  font-size: 7.5pt;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+/* ---- readiness / summary ---- */
+.badge {
+  display: inline-block;
+  padding: 2.5mm 6mm;
+  border-radius: 2px;
+  font-weight: 700;
+  font-size: 11pt;
+  letter-spacing: 0.04em;
+  color: #fff;
+}
+.badge.ready { background: var(--mint); color: var(--charcoal); }
+.badge.nearly_ready { background: var(--mint-deep); }
+.badge.needs_cleanup { background: var(--high); }
+.badge.major_cleanup { background: var(--critical); }
+
+.scorecard {
+  display: flex;
+  gap: 4mm;
+  margin: 6mm 0;
+}
+.scorecard .cell {
+  flex: 1;
+  border: 1px solid var(--hairline);
+  border-radius: 2px;
+  padding: 5mm;
+  text-align: center;
+  background: var(--tint);
+}
+.scorecard .cell .num { font-size: 20pt; font-weight: 800; line-height: 1.1; }
+.scorecard .cell .lbl {
+  font-size: 7pt;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-top: 1.5mm;
+}
+.num.critical { color: var(--critical); }
+.num.high { color: var(--high); }
+.num.medium { color: var(--medium); }
+.num.low { color: var(--low); }
+.num.clean { color: var(--clean); }
+
+.summary-note {
+  background: var(--tint);
+  border-left: 3px solid var(--mint-deep);
+  padding: 4mm 5mm;
+  margin: 5mm 0;
+  font-size: 10pt;
+}
+
+/* ---- findings ---- */
+.finding {
+  border: 1px solid var(--hairline);
+  border-radius: 2px;
+  padding: 5mm;
+  margin-bottom: 5mm;
+  display: flex;
+  gap: 5mm;
+  page-break-inside: avoid;
+}
+.finding .thumb { flex: 0 0 44mm; }
+.finding .thumb img {
+  width: 44mm;
+  max-height: 60mm;
+  object-fit: cover;
+  object-position: top;
+  border-radius: 2px;
+  border: 1px solid var(--hairline);
+}
+.finding .thumb .text-sample {
+  width: 44mm;
+  min-height: 24mm;
+  border-radius: 2px;
+  background: var(--tint);
+  border: 1px solid var(--hairline);
+  padding: 3mm;
+  font-size: 9.5pt;
+  word-wrap: break-word;
+}
+.finding .body { flex: 1; min-width: 0; }
+.finding .headline {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 2mm 3mm;
+  margin-bottom: 2mm;
+}
+.sev {
+  display: inline-block;
+  padding: 0.8mm 3mm;
+  border-radius: 2px;
+  color: #fff;
+  font-size: 7.5pt;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+.sev.critical { background: var(--critical); }
+.sev.high { background: var(--high); }
+.sev.medium { background: var(--medium); }
+.sev.low { background: var(--low); }
+.finding .where { font-weight: 700; font-size: 11pt; overflow-wrap: anywhere; }
+.finding .borderline {
+  font-size: 8pt;
+  color: var(--muted);
+  font-style: italic;
+}
+.chips { margin: 1.5mm 0 2.5mm; }
+.chip {
+  display: inline-block;
+  border: 1px solid var(--hairline);
+  border-radius: 2px;
+  padding: 0.6mm 2.8mm;
+  font-size: 7.5pt;
+  color: var(--muted);
+  margin-right: 1.5mm;
+}
+.rationale { font-size: 10pt; }
+.action {
+  margin-top: 3mm;
+  background: var(--charcoal);
+  color: var(--cream);
+  border-radius: 2px;
+  padding: 3mm 4mm;
+  font-size: 9.5pt;
+}
+.action .lbl {
+  color: var(--mint);
+  font-size: 7pt;
+  font-weight: 700;
+  letter-spacing: 0.24em;
+  text-transform: uppercase;
+  display: block;
+  margin-bottom: 1mm;
+}
+
+/* ---- checklist ---- */
+.checklist li { margin-bottom: 2.5mm; }
+.checklist { padding-left: 5mm; }
+.disclaimer {
+  margin-top: 8mm;
+  border-top: 1px solid var(--hairline);
+  padding-top: 4mm;
+  font-size: 8.5pt;
+  color: var(--muted);
+}
+
+/* ---- roster ---- */
+.roster-band {
+  background: var(--charcoal);
+  border-radius: 2px;
+  margin-top: 6mm;
+  padding: 8mm 10mm;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.roster-band img.wordmark-img { height: 9mm; }
+.roster-band img.mark-img { height: 6mm; }
+.roster-band .small-caps-label { color: var(--cream-dim); }
+
+table.roster {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 6mm;
+  font-size: 9.5pt;
+}
+table.roster th {
+  text-align: left;
+  font-size: 7.5pt;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--muted);
+  border-bottom: 2px solid var(--charcoal);
+  padding: 2.5mm 3mm;
+}
+table.roster td {
+  border-bottom: 1px solid var(--hairline);
+  padding: 3mm;
+  vertical-align: middle;
+}
+table.roster .badge { font-size: 8.5pt; padding: 1.4mm 4mm; }

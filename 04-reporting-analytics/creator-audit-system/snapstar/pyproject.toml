@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "snapstar-review"
+version = "0.1.0"
+description = "ALTR Snapchat verification-readiness audit: capture public profiles, flag risky content with Claude, deliver branded PDF cleanup reports"
+requires-python = ">=3.11"
+dependencies = [
+    "anthropic>=0.40",
+    "playwright>=1.47",
+    "jinja2>=3.1",
+    "click>=8.1",
+    "pydantic>=2.7",
+    "PyYAML>=6.0",
+    "python-dotenv>=1.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+
+[project.scripts]
+snapstar = "snapstar_review.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["snapstar_review*"]
+
+[tool.setuptools.package-data]
+snapstar_review = ["templates/*"]

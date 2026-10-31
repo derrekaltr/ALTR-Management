@@ -1,0 +1,35 @@
+# snapstar-review configuration
+
+# Claude model used for content review (vision + text).
+# claude-sonnet-5 is the cost-effective default; switch to claude-opus-5 for
+# maximum judgment quality on borderline calls.
+model: claude-sonnet-5
+
+capture:
+  # seconds to wait between profiles (be polite, avoid bot walls)
+  delay_seconds: 8
+  # run the capture browser headless; set false to watch it work / clear a captcha
+  headless: true
+  # per-page navigation timeout
+  timeout_seconds: 30
+  # max story/spotlight tiles to capture per profile
+  max_tiles: 12
+
+scoring:
+  # weighted flag score -> readiness level
+  weights:
+    critical: 25
+    high: 10
+    medium: 4
+    low: 1
+  # inclusive upper bounds for each readiness level (any critical flag
+  # forces "Major cleanup" regardless of score)
+  thresholds:
+    ready: 0
+    nearly_ready: 5
+    needs_cleanup: 20
+
+report:
+  # shown on the cover + footer of every PDF
+  prepared_by: "ALTR Talent Management"
+  contact: "derrek@altrmgmt.com"

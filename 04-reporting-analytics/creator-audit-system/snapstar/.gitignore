@@ -1,0 +1,18 @@
+# secrets
+.env
+
+# audit output (contains creator captures & reports — keep out of git)
+output/
+output-demo/
+
+# python
+__pycache__/
+*.pyc
+*.egg-info/
+.venv/
+.pytest_cache/
+build/
+dist/
+
+# misc
+.DS_Store

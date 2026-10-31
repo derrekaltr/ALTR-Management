@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>{{ styles }}</style>
+</head>
+<body>
+<div class="page">
+  <div class="roster-band">
+    <div>
+      {% if wordmark_uri %}
+        <img class="wordmark-img" src="{{ wordmark_uri }}" alt="ALTR">
+      {% else %}
+        <div class="wordmark">ALTR</div>
+      {% endif %}
+    </div>
+    <div style="text-align:right;">
+      {% if mark_uri %}<img class="mark-img" src="{{ mark_uri }}" alt=""><br>{% endif %}
+      <span class="small-caps-label">{{ date }} &middot; Internal</span>
+    </div>
+  </div>
+
+  <h2 class="section" style="margin-top:8mm;">Roster — Snapchat Verification Readiness</h2>
+
+  <table class="roster">
+    <thead>
+      <tr>
+        <th>Creator</th>
+        <th>Username</th>
+        <th>Readiness</th>
+        <th style="text-align:center;">Critical</th>
+        <th style="text-align:center;">High</th>
+        <th style="text-align:center;">Medium</th>
+        <th style="text-align:center;">Low</th>
+        <th>Audit status</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for row in rows %}
+      <tr>
+        <td><strong>{{ row.review.creator_name }}</strong></td>
+        <td>@{{ row.review.username }}</td>
+        <td>
+          {% if row.not_audited %}
+            <span class="chip">not audited</span>
+          {% else %}
+            <span class="badge {{ row.readiness_key }}">{{ row.readiness }}</span>
+          {% endif %}
+        </td>
+        <td style="text-align:center;">{{ row.counts["critical"] }}</td>
+        <td style="text-align:center;">{{ row.counts["high"] }}</td>
+        <td style="text-align:center;">{{ row.counts["medium"] }}</td>
+        <td style="text-align:center;">{{ row.counts["low"] }}</td>
+        <td style="font-size:8.5pt; color:#6f6f6f;">
+          {{ row.review.status.value.replace("_", " ") }}{% if row.review.status_detail %} — {{ row.review.status_detail }}{% endif %}
+        </td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+
+  <div class="disclaimer">
+    Prepared by {{ prepared_by }} for internal use. Individual creator reports
+    contain itemized findings with screenshots and removal steps.
+  </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>{{ styles }}</style>
+</head>
+<body>
+
+<!-- ============ COVER ============ -->
+<div class="cover">
+  <div class="header">
+    <div>
+      {% if wordmark_uri %}
+        <img class="wordmark-img" src="{{ wordmark_uri }}" alt="ALTR">
+      {% else %}
+        <div class="wordmark">ALTR</div>
+        <div class="wordmark-sub">Talent Management</div>
+      {% endif %}
+    </div>
+    <div class="index">
+      <span class="mint">Verification Audit &#8599;</span><br>
+      {% if mark_uri %}<img class="mark-img" src="{{ mark_uri }}" alt="" style="margin-top:3mm;">{% endif %}
+    </div>
+  </div>
+  <div class="spacer"></div>
+  <div class="star">&#9733;</div>
+  <h1>Snapchat Verification Readiness Report</h1>
+  <div class="creator">
+    Prepared for
+    <strong>{{ review.creator_name }} &middot; @{{ review.username }}</strong>
+  </div>
+  <div class="meta">
+    <span>{{ prepared_by }}</span>
+    <span>{{ date }}</span>
+    <span>Confidential</span>
+  </div>
+</div>
+<div class="page-break"></div>
+
+<!-- ============ SUMMARY ============ -->
+<div class="page">
+  <h2 class="section"><span class="n">01</span>Where you stand</h2>
+
+  {% if not_audited %}
+    <div class="summary-note">
+      <strong>We could not fully audit this account automatically.</strong><br>
+      Status: {{ review.status.value.replace("_", " ") }}{% if review.status_detail %} — {{ review.status_detail }}{% endif %}.
+      Please make sure the profile is public, then ask your ALTR manager to re-run
+      the audit, or walk through the checklist at the end of this report manually.
+    </div>
+  {% else %}
+    <p>
+      <span class="small-caps-label">Readiness</span><br><br>
+      <span class="badge {{ readiness_key }}">{{ readiness }}</span>
+    </p>
+
+    <div class="scorecard">
+      <div class="cell"><div class="num critical">{{ counts["critical"] }}</div><div class="lbl">Critical</div></div>
+      <div class="cell"><div class="num high">{{ counts["high"] }}</div><div class="lbl">High</div></div>
+      <div class="cell"><div class="num medium">{{ counts["medium"] }}</div><div class="lbl">Medium</div></div>
+      <div class="cell"><div class="num low">{{ counts["low"] }}</div><div class="lbl">Low</div></div>
+      <div class="cell"><div class="num clean">{{ clean_count }}</div><div class="lbl">Clean</div></div>
+    </div>
+
+    <div class="summary-note">
+      Snapchat's verification team reviews everything the public can see on your
+      profile — Stories, Spotlight, your bio, name, and avatar. Anything even
+      slightly suggestive, and any pointer to adult platforms or paid content,
+      will block the gold star. The items on the following pages are the ones we
+      recommend removing or editing <strong>before you apply</strong>. Work top
+      to bottom: critical and high items matter most.
+    </div>
+
+    {% if findings %}
+      <p class="small-caps-label">Flagged items: {{ findings|length }}</p>
+    {% else %}
+      <p><strong>Nothing flagged — your public profile looks verification-ready.</strong>
+      Keep it this way until the gold star is granted, then confirm with your
+      ALTR manager before changing your public content strategy.</p>
+    {% endif %}
+  {% endif %}
+</div>
+
+{% if findings %}
+<div class="page-break"></div>
+
+<!-- ============ FINDINGS ============ -->
+<div class="page">
+  <h2 class="section"><span class="n">02</span>What to remove or edit</h2>
+
+  {% for f in findings %}
+  <div class="finding">
+    <div class="thumb">
+      {% if f.image_uri %}
+        <img src="{{ f.image_uri }}" alt="{{ f.item.label }}">
+      {% else %}
+        <div class="text-sample">&ldquo;{{ f.item.text_content }}&rdquo;</div>
+      {% endif %}
+    </div>
+    <div class="body">
+      <div class="headline">
+        <span class="sev {{ f.item.review.severity.value }}">{{ f.item.review.severity.value }}</span>
+        <span class="where">{{ f.item.label or f.item.item_id }}</span>
+        {% if f.item.review.borderline %}<span class="borderline">borderline — judgment call</span>{% endif %}
+      </div>
+      <div class="chips">
+        {% for c in f.item.review.categories %}<span class="chip">{{ category_label(c) }}</span>{% endfor %}
+      </div>
+      <div class="rationale">{{ f.item.review.rationale }}</div>
+      {% if f.item.review.removal_action %}
+      <div class="action">
+        <span class="lbl">How to fix</span>
+        {{ f.item.review.removal_action }}
+      </div>
+      {% endif %}
+    </div>
+  </div>
+  {% endfor %}
+</div>
+{% endif %}
+
+<div class="page-break"></div>
+
+<!-- ============ CHECKLIST ============ -->
+<div class="page">
+  <h2 class="section"><span class="n">{{ "03" if findings else "02" }}</span>Pre-application checklist</h2>
+  <ul class="checklist">
+    <li>Every flagged item above has been deleted or edited.</li>
+    <li>Public Stories and Spotlight show only content appropriate for a broad 13+ audience — nothing suggestive, no lingerie/implied-nudity framing, no innuendo captions.</li>
+    <li>Bio, display name, and username contain no adult-platform references, "18+"/"spicy" language, or suggestive emoji clusters.</li>
+    <li>No links (direct or via Linktree/Beacons-style hubs) that lead to OnlyFans, Fansly, or other adult pages.</li>
+    <li>No paid-content solicitation anywhere public: PPV menus, tip/CashApp asks, "VIP" upsells.</li>
+    <li>No third-party app watermarks on posted content.</li>
+    <li>Profile is public with an avatar or Bitmoji set, and you post consistently.</li>
+    <li>Do a final in-app pass in incognito/logged-out view — this audit covers what Snapchat shows publicly on the web, and can't see friends-only or in-app-only surfaces.</li>
+  </ul>
+
+  <div class="disclaimer">
+    This report was prepared by {{ prepared_by }} using an automated capture of the
+    public Snapchat web profile plus AI-assisted content review, and reflects the
+    account at the capture date shown on the cover. It is guidance, not a guarantee:
+    Snapchat's verification decisions are made solely by Snap Inc. and its criteria
+    can change. Borderline items are marked as judgment calls — when unsure, remove.
+    {% if contact %}Questions: {{ contact }}.{% endif %}
+  </div>
+</div>
+
+</body>
+</html>
