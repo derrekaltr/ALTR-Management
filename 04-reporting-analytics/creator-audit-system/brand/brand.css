@@ -1,0 +1,285 @@
+/* ============================================================
+   ALTR report system v3 — brand from altrmgmt.com (Sep 2026).
+   Charcoal #1D1D1B · cream #FFFFF0/#E8E8D9 · sage #586F69
+   (legible tint #9DB4AC) · heavy condensed uppercase display ·
+   letterspaced mono labels.
+   Layout: continuous flow (no forced section pages), KPI
+   dashboard tiles, finding cards, portrait evidence floated
+   beside text. No gray/thin text; body ~20px; no element
+   splits across pages.
+   ============================================================ */
+:root {
+  --altr-bg:      #1D1D1B;
+  --altr-card:    #242422;
+  --altr-card-2:  #2C2C29;
+  --altr-line:    #3A3A36;
+  --altr-cream:   #FFFFF0;
+  --altr-cream-2: #E8E8D9;
+  --altr-sage:    #586F69;
+  --altr-sage-2:  #9DB4AC;
+
+  --sev-critical: #C6453F;
+  --sev-high:     #C97B3A;
+  --sev-medium:   #C4AE4A;
+  --sev-low:      #586F69;
+
+  --font-display: "Helvetica Neue Condensed Black", "Arial Narrow", "Helvetica Neue", Arial, sans-serif;
+  --font-body:    "Helvetica Neue", Inter, Arial, sans-serif;
+  --font-mono:    "SF Mono", Menlo, monospace;
+}
+
+@page { size: Letter; margin: 0; }
+
+.pagewrap { width: 100%; border-collapse: collapse; }
+.pagewrap > thead td, .pagewrap > tbody > tr > td, .pagewrap > tfoot td {
+  padding: 0; border: none; background: transparent;
+}
+.pagewrap .pagepad-t { height: 14mm; }
+.pagewrap .pagepad-b { height: 12mm; }
+
+* { box-sizing: border-box; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+html { background: var(--altr-bg); }
+body {
+  margin: 0; padding: 0;
+  color: var(--altr-cream);
+  background: var(--altr-bg);
+  font-family: var(--font-body);
+  font-size: 20px; font-weight: 500; line-height: 1.5;
+  orphans: 3; widows: 3;
+}
+
+/* ---------- cover (altrmgmt.com hero style) ---------- */
+.cover { page-break-after: always; padding: 26mm 18mm 0 18mm; }
+.cover .wordmark { display: flex; align-items: center; gap: 6mm; }
+.cover .wordmark img { height: 15mm; }
+.cover .wm-text {
+  font-family: var(--font-display); font-size: 26pt; font-weight: 900;
+  letter-spacing: 0.10em; color: var(--altr-cream);
+}
+.cover .rule { display: none; }
+.cover h1 {
+  display: block; text-align: right; text-transform: uppercase;
+  font-family: var(--font-display);
+  font-size: 46pt; font-weight: 900; line-height: 0.98;
+  color: var(--altr-cream); margin: 30mm 0 8mm 0; border: none; padding: 0;
+}
+.cover h1 .accent { color: var(--altr-cream); }
+.cover .handle {
+  text-align: right; font-family: var(--font-mono);
+  font-size: 14pt; font-weight: 700; letter-spacing: 0.18em;
+  color: var(--altr-sage-2); margin-bottom: 30mm;
+}
+.cover .meta {
+  font-family: var(--font-mono); font-size: 10.5pt; font-weight: 600;
+  color: var(--altr-cream-2); line-height: 2.3; letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+.cover .meta b { color: var(--altr-sage-2); font-weight: 700; }
+.cover .confidential {
+  margin-top: 16mm; display: inline-block;
+  font-family: var(--font-mono); font-size: 9pt; font-weight: 700;
+  letter-spacing: 0.2em; text-transform: uppercase;
+  color: #1D1D1B; background: var(--altr-cream-2);
+  padding: 2.6mm 5mm; border-radius: 1px;
+}
+
+/* ---------- section titling (flowing; kicker + display title) ---------- */
+h1, h2, h3, h4 {
+  font-family: var(--font-display);
+  break-inside: avoid; page-break-inside: avoid;
+}
+h1 { display: none; }
+h2 {
+  break-after: avoid; page-break-after: avoid; clear: both;
+  text-transform: uppercase;
+  font-size: 22pt; font-weight: 900; line-height: 1.05; color: var(--altr-cream);
+  margin: 13mm 0 5mm 0; padding: 0;
+}
+.report-body > h2:first-child, .report-body > div:first-child h2 { margin-top: 0; }
+h2 .hnum {
+  display: block; font-family: var(--font-mono);
+  font-size: 12px; font-weight: 700; letter-spacing: 0.34em;
+  color: var(--altr-sage-2); margin-bottom: 2mm;
+}
+h2::after {
+  content: ""; display: block; height: 2.5pt; width: 100%;
+  background: var(--altr-sage); margin-top: 3mm;
+}
+h3 {
+  break-after: avoid; page-break-after: avoid; clear: both;
+  font-size: 14.5pt; font-weight: 800; text-transform: uppercase;
+  letter-spacing: 0.02em; color: var(--altr-cream); margin: 8mm 0 3mm 0;
+}
+hr { border: none; height: 0; margin: 0; }
+
+p { margin: 0 0 3.2mm 0; }
+ul, ol { margin: 0 0 3.2mm 0; padding-left: 6mm; }
+li { margin-bottom: 1.6mm; page-break-inside: avoid; break-inside: avoid; }
+li::marker { color: var(--altr-sage-2); }
+strong { color: var(--altr-sage-2); font-weight: 700; }
+em { color: inherit; }
+a { color: var(--altr-sage-2); font-weight: 600; text-decoration: none; }
+blockquote {
+  margin: 4mm 0; padding: 3.2mm 5mm;
+  background: var(--altr-card); border: 1px solid var(--altr-line);
+  border-left: 3pt solid var(--altr-sage); border-radius: 1px;
+  color: var(--altr-cream); page-break-inside: avoid; break-inside: avoid;
+}
+code {
+  font-family: var(--font-mono); font-size: 0.82em; font-weight: 600;
+  background: var(--altr-card-2); color: var(--altr-sage-2);
+  padding: 0.4mm 1.4mm; border-radius: 1px;
+}
+
+/* ---------- KPI dashboard ---------- */
+.kpi-row {
+  display: flex; gap: 4mm; margin: 5mm 0 4mm 0;
+  page-break-inside: avoid; break-inside: avoid;
+}
+.kpi {
+  flex: 1; background: var(--altr-card); border: 1px solid var(--altr-line);
+  border-radius: 1px; padding: 4mm 4mm 3.6mm 4mm;
+}
+.kpi-label {
+  font-family: var(--font-mono); font-size: 11.5px; font-weight: 700;
+  letter-spacing: 0.16em; text-transform: uppercase;
+  color: var(--altr-sage-2); margin-bottom: 1.8mm;
+}
+.kpi-value {
+  font-family: var(--font-body); font-size: 30px; font-weight: 700;
+  color: var(--altr-cream); line-height: 1.05;
+}
+.kpi-sub {
+  font-size: 13.5px; font-weight: 600; color: var(--altr-sage-2); margin-top: 1.6mm;
+}
+.kpi.grade .kpi-value { font-size: 56px; color: var(--sev-critical); }
+.kpi.grade.good .kpi-value { color: var(--altr-sage-2); }
+.tally {
+  display: flex; gap: 2.5mm; flex-wrap: wrap; margin: 0 0 5mm 0;
+  page-break-inside: avoid; break-inside: avoid;
+}
+.verdict {
+  background: var(--altr-card); border: 1px solid var(--altr-line);
+  border-left: 3pt solid var(--sev-critical); border-radius: 1px;
+  padding: 3.4mm 5mm; margin: 0 0 5mm 0;
+  page-break-inside: avoid; break-inside: avoid;
+}
+.verdict .kpi-label { margin-bottom: 1.2mm; }
+
+/* ---------- findings: structured cards ---------- */
+.finding {
+  margin: 0 0 6mm 0; padding: 4mm 5mm 2mm 5mm;
+  background: var(--altr-card); border: 1px solid var(--altr-line);
+  border-left: 3pt solid var(--altr-sage); border-radius: 1px;
+  overflow: hidden; /* contain floated evidence */
+  break-inside: avoid; page-break-inside: avoid;
+}
+.finding > h3 { margin-top: 0; }
+.finding ul:last-child, .finding p:last-child { margin-bottom: 2mm; }
+
+/* ---------- tables ---------- */
+.report-body table {
+  width: 100%; border-collapse: separate; border-spacing: 0;
+  margin: 4mm 0 6mm 0; font-size: 15.5px; font-weight: 500;
+  background: var(--altr-card); border: 1px solid var(--altr-line); border-radius: 1px;
+  overflow: hidden;
+}
+.report-body th {
+  text-align: left; font-family: var(--font-mono); font-weight: 700;
+  font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase;
+  color: var(--altr-sage-2); background: var(--altr-card-2);
+  padding: 3mm 3mm; border-bottom: 1px solid var(--altr-line);
+}
+.report-body td { padding: 2.8mm 3mm; border-bottom: 1px solid #2A2A27; vertical-align: top; color: var(--altr-cream); }
+.report-body tr { page-break-inside: avoid; }
+.report-body tbody tr:last-child td { border-bottom: none; }
+.report-body td { font-variant-numeric: tabular-nums; }
+
+/* ---------- severity badges (status: always labeled) ---------- */
+.sev {
+  display: inline-block; font-family: var(--font-mono);
+  font-size: 11px; font-weight: 700; letter-spacing: 0.12em;
+  color: var(--altr-cream); padding: 1.1mm 2.6mm; border-radius: 1px;
+  vertical-align: 0.4mm;
+}
+.sev-critical { background: var(--sev-critical); }
+.sev-high     { background: var(--sev-high); color: #1D1D1B; }
+.sev-medium   { background: var(--sev-medium); color: #1D1D1B; }
+.sev-low      { background: var(--sev-low); }
+
+/* ---------- duo rows: text left, evidence right ---------- */
+.duo {
+  display: flex; gap: 5mm; align-items: flex-start;
+  page-break-inside: avoid; break-inside: avoid; margin: 0 0 4mm 0;
+}
+.duo .txt { flex: 1.1; min-width: 0; }
+.duo .txt > :last-child { margin-bottom: 0; }
+.duo figure { flex: 0.9; min-width: 0; margin: 0; }
+.duo figure img { max-height: 84mm; width: 100%; object-fit: contain; object-position: top left; }
+
+/* ---------- comparison bars (emphasis form: one bar is the point) ------- */
+.bars { margin: 4mm 0 5mm 0; page-break-inside: avoid; break-inside: avoid; }
+.bar-row { display: flex; align-items: center; gap: 3mm; margin-bottom: 2mm; }
+.bar-label {
+  font-family: var(--font-mono); font-size: 12.5px; font-weight: 700;
+  letter-spacing: 0.08em; text-transform: uppercase;
+  color: var(--altr-sage-2); width: 33%; line-height: 1.3;
+}
+.bar-track {
+  flex: 1; height: 7mm; background: var(--altr-card-2);
+  border-radius: 1px; overflow: hidden;
+}
+.bar-fill { height: 100%; background: var(--altr-sage); min-width: 1.2mm; }
+.bar-row.hero .bar-fill { background: var(--altr-cream-2); }
+.bar-row.hero .bar-label { color: var(--altr-cream); }
+.bar-val {
+  font-family: var(--font-mono); font-size: 12.5px; font-weight: 700;
+  color: var(--altr-cream); width: 15%; text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+.bars .note {
+  font-family: var(--font-mono); font-size: 13px; font-weight: 600;
+  color: var(--altr-sage-2); margin-top: 2.5mm;
+}
+
+/* ---------- versus panel (two-persona comparison) ---------- */
+.vs { display: flex; gap: 4mm; margin: 4mm 0 5mm 0; page-break-inside: avoid; break-inside: avoid; }
+.vs .col {
+  flex: 1; background: var(--altr-card); border: 1px solid var(--altr-line);
+  border-radius: 1px; padding: 4mm 4.5mm;
+}
+.vs .col.win  { border-top: 3pt solid var(--altr-sage-2); }
+.vs .col.kill { border-top: 3pt solid var(--sev-critical); }
+.vs .col-head {
+  font-family: var(--font-mono); font-size: 11px; font-weight: 700;
+  letter-spacing: 0.18em; text-transform: uppercase; margin-bottom: 2.5mm;
+}
+.vs .win  .col-head { color: var(--altr-sage-2); }
+.vs .kill .col-head { color: var(--sev-critical); }
+.vs ul { margin: 0; padding-left: 5mm; font-size: 16px; }
+.vs li { margin-bottom: 1.6mm; }
+.vs .stat { font-family: var(--font-mono); font-size: 13px; color: var(--altr-cream); }
+
+/* ---------- evidence figures ---------- */
+img { max-width: 100%; }
+p img, figure img {
+  border: 1px solid var(--altr-line); border-radius: 1px;
+  background: var(--altr-card); page-break-inside: avoid;
+  max-height: 95mm; width: auto; display: block;
+}
+figure {
+  margin: 4mm 0 5mm 0; page-break-inside: avoid; break-inside: avoid;
+}
+figure.side {
+  float: right; width: 46%; margin: 1mm 0 3mm 5mm;
+}
+figure.side img { max-height: 78mm; }
+figcaption, .evidence-caption {
+  font-family: var(--font-mono); font-size: 13.5px; font-weight: 600;
+  letter-spacing: 0.02em; color: var(--altr-sage-2);
+  margin-top: 1.8mm; line-height: 1.5;
+}
+figcaption::before, .evidence-caption::before { content: "— "; color: var(--altr-cream); }
+
+.report-body { padding: 0 16mm; }
+.report-body > *:first-child { margin-top: 0; }
