@@ -19,7 +19,8 @@ Beatport (incl. 2 SOP docs), Trending Audio, New music, Gordo (DJ edits), 1-800-
 Password sheet, planner, Emanay Investigation evidence + ALEX AMA transactions, payment log, Campus Sheets, Campus Repair x Mobile Sentry
 
 ## _To Sort/
-Unidentified leftovers for Derrek to triage: Receipt (doc+pdf), Untitled spreadsheet/document, Noah sheet, 2 screenshots, Chase1915 activity (sheet+CSV), "Name" form, Untouched Tutorials zip (987MB — delete if no longer needed)
+Unidentified leftovers for Derrek to triage: Receipt (doc+pdf), Untitled spreadsheet/document, Noah sheet, 2 screenshots, Chase1915 activity (sheet+CSV), "Name" form, Untouched Tutorials zip (987MB — delete if no longer needed).
+Also here **on purpose, per Derrek — leave unorganized, not ALTR Management**: "Kartik — Protein & Generational Trauma (@Muscle_Masala)" and "Isa Social Revamp".
 
 ## Shared with me (owned by others — cannot be moved, access via "Shared with me")
 - **derrekpbrown@gmail.com** (Derrek's personal Gmail): ALTR MGMT (Social Depot), Accounting + Legal, SWAPD Marketplace Offers, Ana OF Content, Big Red (@BigRedYaps), New New — *candidates for ownership migration later (download/re-upload or share-only)*
