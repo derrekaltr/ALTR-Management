@@ -13,14 +13,16 @@ Reorganized 2026-10-31. My Drive root contains exactly five folders:
 ALTR Services Questions, Vivek Pending Recoveries, IG Rep Submissions, ALTR x Woyski Recoveries
 
 ## ALTR Media Group/
-Beatport (incl. 2 SOP docs), Trending Audio, New music, Gordo (DJ edits), 1-800-IIIPOINTS, BigRedReels, BigRedYaps Tweet Previews, Twitter Background Photos, Female/Male Tweets, Sub Themes, Arsov Pages (meme pages), ALTR Media Master 2FA sheets
+Beatport (incl. 2 SOP docs), Trending Audio, New music, Gordo (DJ edits), 1-800-IIIPOINTS, Twitter Background Photos, Female/Male Tweets, Sub Themes, Arsov Pages (meme pages), ALTR Media Master 2FA sheets
 
 ## Personal/
 Password sheet, planner, Emanay Investigation evidence + ALEX AMA transactions, payment log, Campus Sheets, Campus Repair x Mobile Sentry
 
 ## _To Sort/
-Unidentified leftovers for Derrek to triage: Receipt (doc+pdf), Untitled spreadsheet/document, Noah sheet, 2 screenshots, Chase1915 activity (sheet+CSV), "Name" form, Untouched Tutorials zip (987MB — delete if no longer needed).
-Also here **on purpose, per Derrek — leave unorganized, not ALTR Management**: "Kartik — Protein & Generational Trauma (@Muscle_Masala)" and "Isa Social Revamp".
+Unidentified leftovers for Derrek to triage: Receipt (doc+pdf), Untitled spreadsheet/document, Noah sheet, 2 screenshots, Chase1915 activity (sheet+CSV), "Name" form, Untouched Tutorials zip (987MB — delete if no longer needed)
+
+## Twitter Operation/  (Derrek's own grouping, at My Drive root — not ALTR Management)
+BigRedReels, BigRedYaps Tweet Previews, Kartik — Protein & Generational Trauma (@Muscle_Masala), Isa Social Revamp. Related but gmail-owned (in Shared with me): "Big Red — Certified Fire Hazard (@BigRedYaps)", "New New".
 
 ## Shared with me (owned by others — cannot be moved, access via "Shared with me")
 - **derrekpbrown@gmail.com** (Derrek's personal Gmail): ALTR MGMT (Social Depot), Accounting + Legal, SWAPD Marketplace Offers, Ana OF Content, Big Red (@BigRedYaps), New New — *candidates for ownership migration later (download/re-upload or share-only)*
