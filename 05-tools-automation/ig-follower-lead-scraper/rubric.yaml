@@ -1,0 +1,251 @@
+# Qualification rubric — tune freely, no code changes needed.
+#
+# Hard gates (auto-disqualify): private accounts, followers < min_followers,
+# and male-confirmed accounts. Everything else is SCORED 1-5 (see scoring
+# below) rather than pass/fail — a link or highlights mention is a strong
+# signal, not a requirement.
+
+min_followers: 25000
+
+# Hard exclusion: drop agencies / management companies entirely — but keep real
+# creators who merely tag the agency repping them.
+#   exclude_name_terms  → matched against the USERNAME + full name (the account
+#                         itself is an agency). Bare tokens are fine here since a
+#                         handle/name has no @-tags.
+#   exclude_bio_phrases → matched against the BIO, but only multi-word self-
+#                         descriptions. The spaces stop them from matching an
+#                         @tag like "@scoutmodelagency" (no space) that a real
+#                         creator uses to credit their manager.
+exclude_name_terms:
+  - agency
+  - agencies
+  - mgmt
+  - management
+  - mgt
+# Business / theme-page exclusion: these terms in the USERNAME or display name
+# mark an account as a business, band, magazine, theme page, etc. Matched with a
+# word edge on at least one side, so "skategroundmag" and "vip_towing" hit but
+# "image" (mag mid-word) does not. Only applied when gender is NOT confirmed
+# female — a woman with "music" in her handle is still a person, not a page.
+business_terms:
+  - music
+  - sound
+  - sounds
+  - tracks
+  - beats
+  - records
+  - label
+  - band
+  - dj
+  - magazine
+  - mag
+  - news
+  - media
+  - studio
+  - studios
+  - films
+  - productions
+  - tv
+  - radio
+  - podcast
+  - towing
+  - fighting
+  - boxing
+  - mma
+  - gym
+  - crossfit
+  - barber
+  - tattoo
+  - shop
+  - store
+  - boutique
+  - outlet
+  - clothing
+  - apparel
+  - jewelry
+  - cosmetics
+  - salon
+  - realty
+  - realestate
+  - properties
+  - motors
+  - garage
+  - detailing
+  - rentals
+  - tours
+  - events
+  - entertainment
+  - promotions
+  - marketing
+  - consulting
+  - restaurant
+  - cafe
+  - bakery
+  - catering
+  - fanpage
+  - fan_page
+
+exclude_bio_phrases:
+  - modeling agency
+  - modelling agency
+  - model agency
+  - models agency
+  - talent agency
+  - booking agency
+  - talent management
+  - model management
+  - models management
+  - creator management
+  - creators management
+  - influencer management
+  - management company
+  - private management
+  - management for the
+  - management for creators
+  - "top 0.01% management"
+
+# Accounts whose gender can't be confirmed female are still included, but
+# their score is capped at this value so confirmed-female accounts rank above.
+unknown_gender_score_cap: 3
+
+# Score tiers (highest matching tier wins):
+#   5 = adult_domains link OR onlyfans_adjacent keyword (near-certain target)
+#   4 = any linkhub_domains link, OR highlights/story mention, OR snapchat handle
+#   3 = has an external link AND a platform/creator keyword
+#   2 = has an external link, OR a platform/creator keyword (one, not both)
+#   1 = passes the gates but no link/creator signal at all
+#
+# Domains that all but confirm adult/OF content (tier 5).
+adult_domains:
+  - onlyfans.com
+  - fansly.com
+  - fans.ly
+  - fanvue.com
+  - f2f.com
+  - fanfix.io
+  - fanlink
+
+# Bio markers for a Snapchat handle (tier 4 on their own).
+snapchat_markers:
+  - snapchat
+  - "snap:"
+  - "snap :"
+  - "sc:"
+  - "sc :"
+  - "👻"
+
+# A lead scores highest with an external link OR a bio matching one of these
+# case-insensitive regexes (the "link in story highlights" workaround).
+highlights_patterns:
+  - "highlight"
+  - "link in (my )?stor(y|ies)"
+  - "check (my )?stor(y|ies)"
+  - "in my stor(y|ies)"
+  - "story for link"
+
+# Minimum number of creator-signal hits required to auto-qualify.
+# Profiles that pass every hard gate but score below this go to needs_review
+# instead of being rejected.
+creator_min_score: 1
+
+creator_keywords:
+  onlyfans_adjacent:
+    - onlyfans
+    - "only fans"
+    - fansly
+    - "fan page"
+    - "vip page"
+    - "vip link"
+    - "exclusive content"
+    - spicy
+    - "18+"
+    - "adult content"
+    - "top 1%"
+    - "top 0"
+  platforms:
+    - snapchat
+    - "snap:"
+    - "snap :"
+    - "sc:"
+    - "sc :"
+    - "👻"
+    - youtube
+    - "yt:"
+    - tiktok
+    - twitch
+    - patreon
+    - telegram
+    - twitter
+    - "x.com"
+  creator_terms:
+    - "content creator"
+    - creator
+    - influencer
+    - model
+    - collab
+    - "brand deal"
+    - booking
+    - bookings
+    - promo
+    - "business inquiries"
+    - ambassador
+    - ugc
+    - "public figure"
+    - "digital creator"
+
+# A link to any of these domains counts as a strong creator signal on its own.
+linkhub_domains:
+  - onlyfans.com
+  - fansly.com
+  - fans.ly
+  - linktr.ee
+  - beacons.ai
+  - allmylinks.com
+  - hoo.be
+  - snipfeed.co
+  - link.me
+  - linkin.bio
+  - lnk.bio
+  - bio.link
+  - bio.site
+  - milkshake.app
+  - direct.me
+  - stan.store
+  - komi.io
+  - linkr.bio
+  - tap.bio
+  - carrd.co
+  - solo.to
+  - campsite.bio
+  - fanlink
+
+gender:
+  # Bio terms that mark an account female / male. Pronouns are the strongest
+  # signal; the rest are supporting hints.
+  female_terms:
+    - she/her
+    - "she her"
+    - her/she
+    - mama
+    - mommy
+    - "mom of"
+    - girl
+    - queen
+    - goddess
+    - babe
+    - barbie
+    - bunny
+    - wifey
+    - latina
+    - blonde
+    - brunette
+    - curvy
+    - petite
+    - "your favorite girl"
+  male_terms:
+    - he/him
+    - "he him"
+    - him/he
+    - "dad of"
+    - "father of"
+    - "family man"
