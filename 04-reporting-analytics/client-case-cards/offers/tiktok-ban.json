@@ -1,0 +1,9 @@
+{
+  "platform": "tiktok",
+  "service": "TikTok Ban",
+  "description": "Target account removal",
+  "tiers": [
+    { "label": "Standard", "price": "$1,000", "tat": "1–15 Days" },
+    { "label": "Express", "price": "$1,500", "tat": "0–48 Hrs" }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "platform": "google",
+  "division": "Proposal",
+  "footRight": "Proposal",
+  "service": "Google Reviews",
+  "description": "Per-review pricing — volume rate at 500+",
+  "tiers": [
+    { "label": "Standard", "price": "$20", "priceNote": "/review", "tat": "100–499 Reviews" },
+    { "label": "Bulk", "price": "$16", "priceNote": "/review", "tat": "500+ Reviews" }
+  ],
+  "notes": "Minimum order 100 reviews.",
+  "pdf": true
+}

@@ -1,0 +1,330 @@
+/* ============================================================
+   CASE CARD — shared chassis
+   Each platform template sets the CSS variables + its own flair.
+   ============================================================ */
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+:root {
+  /* house brand (injected from brand/config.json) */
+  --brand-accent: {{BRAND_ACCENT}};
+
+  /* platform templates override these */
+  --bg: #0c0c0e;
+  --ink: #f4f2ee;
+  --muted: rgba(244, 242, 238, 0.55);
+  --accent: #ffffff;
+  --accent-2: #ffffff;
+  --panel: rgba(255, 255, 255, 0.045);
+  --line: rgba(255, 255, 255, 0.14);
+
+  --font-display: "Unbounded", sans-serif;
+  --font-body: "Archivo", sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+}
+
+html, body { width: 1080px; overflow: hidden; }
+body { height: 1080px; }
+body.portrait { height: 1350px; }
+
+body {
+  font-family: var(--font-body);
+  background: var(--bg);
+  color: var(--ink);
+  -webkit-font-smoothing: antialiased;
+}
+
+.card {
+  position: relative;
+  width: 1080px;
+  height: 1080px;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  background: var(--bg);
+}
+body.portrait .card { height: 1350px; }
+
+/* film-grain overlay for depth */
+.card::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0.5;
+  z-index: 6;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2'/%3E%3CfeColorMatrix values='0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.05 0'/%3E%3C/filter%3E%3Crect width='200' height='200' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+/* giant platform glyph watermark, set per template */
+.glyph {
+  position: absolute;
+  z-index: 0;
+  pointer-events: none;
+}
+
+/* ---------------- house brand band ---------------- */
+.brand-band {
+  position: relative;
+  z-index: 4;
+  display: flex;
+  align-items: center;
+  gap: 22px;
+  padding: 30px 54px;
+  border-bottom: 1px solid var(--line);
+}
+.brand-wordmark { height: 46px; width: auto; display: block; }
+.brand-division {
+  margin-left: auto;
+  font-family: var(--font-mono);
+  font-size: 21px;
+  font-weight: 700;
+  letter-spacing: 0.28em;
+  color: var(--muted);
+  text-transform: uppercase;
+}
+
+/* ---------------- main body ---------------- */
+main {
+  position: relative;
+  z-index: 4;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  padding: 44px 54px 30px;
+  min-height: 0;
+  overflow: hidden;
+}
+/* never let flexbox silently squeeze content — overflow must stay measurable
+   so the generator's fit pass can react to it */
+main > * { flex-shrink: 0; }
+
+.platform-tag {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  font-family: var(--font-mono);
+  font-size: 24px;
+  font-weight: 800;
+  letter-spacing: 0.42em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+.platform-tag .tick {
+  flex: 0 0 44px;
+  height: 3px;
+  background: var(--accent);
+}
+
+.service {
+  margin-top: 18px;
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: 92px;
+  line-height: 0.98;
+  letter-spacing: -0.01em;
+  text-transform: uppercase;
+}
+.case-type {
+  margin-top: 16px;
+  font-size: 31px;
+  font-weight: 500;
+  color: var(--muted);
+  letter-spacing: 0.02em;
+}
+
+/* ---------------- status ---------------- */
+.status {
+  margin-top: 30px;
+  align-self: flex-start;
+  display: inline-flex;
+  align-items: center;
+  gap: 18px;
+  padding: 16px 34px 16px 26px;
+  border-radius: 999px;
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 36px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  border: 2px solid currentColor;
+}
+.status .dot {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: currentColor;
+  box-shadow: 0 0 22px currentColor;
+}
+.st-done     { color: #4eff9a; background: rgba(78, 255, 154, 0.09); }
+.st-progress { color: #ffc24e; background: rgba(255, 194, 78, 0.09); }
+.st-pending  { color: #5db8ff; background: rgba(93, 184, 255, 0.09); }
+.st-issue    { color: #ff5d6c; background: rgba(255, 93, 108, 0.09); }
+.st-neutral  { color: var(--ink); background: var(--panel); }
+
+/* ---------------- info rows ---------------- */
+.rows {
+  margin-top: 34px;
+  border-top: 1px solid var(--line);
+}
+.row {
+  display: flex;
+  align-items: baseline;
+  gap: 30px;
+  padding: 17px 0;
+  border-bottom: 1px solid var(--line);
+}
+.row .k {
+  flex: 0 0 240px;
+  font-family: var(--font-mono);
+  font-size: 22px;
+  font-weight: 700;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.row .v {
+  font-size: 33px;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.row .v.handle { color: var(--accent); }
+.row a.v {
+  text-decoration: underline;
+  text-decoration-thickness: 3px;
+  text-underline-offset: 7px;
+}
+
+/* ---------------- credentials ---------------- */
+.creds {
+  margin-top: 30px;
+  padding: 24px 30px;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-left: 5px solid var(--accent);
+}
+.creds .creds-label {
+  font-family: var(--font-mono);
+  font-size: 19px;
+  font-weight: 800;
+  letter-spacing: 0.34em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 14px;
+}
+.cred-line {
+  display: flex;
+  gap: 24px;
+  font-family: var(--font-mono);
+  font-size: 27px;
+  padding: 7px 0;
+}
+.cred-line .ck {
+  flex: 0 0 216px;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 22px;
+  padding-top: 4px;
+}
+.cred-line .cv { font-weight: 700; word-break: break-all; }
+
+/* ---------------- notes ---------------- */
+.notes {
+  margin-top: 26px;
+  font-size: 27px;
+  line-height: 1.45;
+  color: var(--muted);
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.notes strong { color: var(--ink); font-weight: 700; }
+
+/* ---------------- footer band ---------------- */
+.brand-foot {
+  position: relative;
+  z-index: 4;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 24px 54px;
+  border-top: 1px solid var(--line);
+  font-family: var(--font-mono);
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: 0.26em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.foot-brand { display: flex; align-items: center; gap: 18px; }
+.foot-monogram { height: 32px; width: auto; opacity: 0.92; }
+
+/* ============================================================
+   REMOVAL category — hazard treatment, unmistakable in a feed
+   ============================================================ */
+.category-removal .brand-band {
+  background: repeating-linear-gradient(
+    -45deg,
+    rgba(255, 82, 82, 0.16) 0 26px,
+    transparent 26px 52px
+  );
+}
+/* ribbon replaces the division label (they'd collide in the corner) */
+.category-removal .brand-division { visibility: hidden; }
+
+.removal-ribbon { display: none; }
+.category-removal .removal-ribbon {
+  display: block;
+  position: absolute;
+  z-index: 5;
+  top: 150px;
+  right: -132px;
+  transform: rotate(45deg);
+  width: 480px;
+  text-align: center;
+  padding: 14px 0;
+  background: #ff3b4e;
+  color: #ffffff;
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: 30px;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  box-shadow: 0 8px 40px rgba(255, 59, 78, 0.5);
+}
+.category-removal .platform-tag { color: #ff5d6c; }
+
+/* ============================================================
+   Auto-compacting — generate.mjs adds these classes when the
+   card's content would overflow into the footer.
+   ============================================================ */
+body.compact main { padding-top: 30px; }
+body.compact .service { font-size: 70px; margin-top: 14px; }
+body.compact .case-type { font-size: 27px; margin-top: 12px; }
+body.compact .status { margin-top: 20px; font-size: 29px; padding: 12px 28px 12px 22px; }
+body.compact .status .dot { width: 16px; height: 16px; }
+body.compact .rows { margin-top: 22px; }
+body.compact .row { padding: 12px 0; }
+body.compact .row .v { font-size: 29px; }
+body.compact .row .k { font-size: 20px; }
+body.compact .creds { margin-top: 20px; padding: 16px 24px; }
+body.compact .creds .creds-label { font-size: 17px; margin-bottom: 8px; }
+body.compact .cred-line { font-size: 24px; padding: 5px 0; }
+body.compact .cred-line .ck { font-size: 20px; }
+body.compact .notes { margin-top: 16px; font-size: 24px; -webkit-line-clamp: 2; }
+
+body.compact-2 .service { font-size: 54px; }
+body.compact-2 .case-type { font-size: 24px; }
+body.compact-2 .row { padding: 9px 0; }
+body.compact-2 .row .v { font-size: 26px; }
+body.compact-2 .cred-line { font-size: 22px; }
+body.compact-2 .notes { font-size: 22px; -webkit-line-clamp: 1; }
+.category-removal .platform-tag .tick { background: #ff5d6c; }
+.category-removal .creds { border-left-color: #ff5d6c; }
+.category-removal .creds .creds-label { color: #ff5d6c; }
+.category-removal .row .v.handle { color: #ff5d6c; }

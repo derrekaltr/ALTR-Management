@@ -1,0 +1,87 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@400;700;800&family=Archivo:wght@400;500;600;700&family=JetBrains+Mono:wght@400;700;800&display=swap" rel="stylesheet">
+<style>{{BASE_CSS}}</style>
+<style>
+  :root {
+    --bg: #16101f;
+    --accent: #e94b8a;
+    --accent-2: #f7b955;
+    --panel: rgba(233, 75, 138, 0.07);
+    --line: rgba(255, 255, 255, 0.14);
+  }
+  .card {
+    background:
+      radial-gradient(1000px 760px at 100% 0%, rgba(188, 42, 141, 0.30), transparent 58%),
+      radial-gradient(900px 700px at 0% 100%, rgba(247, 185, 85, 0.16), transparent 55%),
+      radial-gradient(700px 700px at 60% 120%, rgba(76, 104, 215, 0.22), transparent 55%),
+      var(--bg);
+  }
+  /* IG-gradient camera-ring watermark */
+  .glyph { right: -110px; bottom: -140px; opacity: 0.22; }
+  .service {
+    background: linear-gradient(100deg, #f7b955 0%, #e94b8a 45%, #8a3ab9 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+  .platform-tag {
+    background: linear-gradient(90deg, #f7b955, #e94b8a);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+  .platform-tag .tick { background: linear-gradient(90deg, #f7b955, #e94b8a); }
+  .creds { border-left: 5px solid transparent;
+    border-image: linear-gradient(180deg, #f7b955, #e94b8a, #8a3ab9) 1; }
+</style>
+</head>
+<body class="{{CATEGORY_CLASS}} {{SIZE_CLASS}}">
+<div class="card">
+  <svg class="glyph" width="620" height="620" viewBox="0 0 100 100">
+    <defs>
+      <linearGradient id="ig" x1="0" y1="1" x2="1" y2="0">
+        <stop offset="0" stop-color="#f7b955"/>
+        <stop offset="0.5" stop-color="#e94b8a"/>
+        <stop offset="1" stop-color="#8a3ab9"/>
+      </linearGradient>
+    </defs>
+    <rect x="10" y="10" width="80" height="80" rx="24" fill="none" stroke="url(#ig)" stroke-width="4"/>
+    <circle cx="50" cy="50" r="19" fill="none" stroke="url(#ig)" stroke-width="4"/>
+    <circle cx="73" cy="27" r="5.5" fill="url(#ig)"/>
+  </svg>
+  <div class="removal-ribbon">Removal</div>
+
+  <header class="brand-band">
+    <img class="brand-wordmark" src="{{WORDMARK_SRC}}" alt="{{BRAND_NAME}}">
+    <div class="brand-division">{{CATEGORY_LABEL}}</div>
+  </header>
+
+  <main>
+    <div class="platform-tag"><span class="tick"></span>Instagram</div>
+    <h1 class="service">{{SERVICE}}</h1>
+    <div class="case-type">{{CASE_TYPE}}</div>
+    <div class="status {{STATUS_CLASS}}"><span class="dot"></span>{{STATUS}}</div>
+
+    <div class="rows">
+      <div class="row"><span class="k">Client</span><span class="v">{{CLIENT}}</span></div>
+      <div class="row"><span class="k">Handle</span><span class="v handle">{{HANDLE}}</span></div>
+      {{DETAIL_ROWS}}
+      {{LINK_ROW}}
+    </div>
+
+    {{CRED_BLOCK}}
+    {{NOTES_BLOCK}}
+  </main>
+
+  <footer class="brand-foot">
+    <span class="foot-brand"><img class="foot-monogram" src="{{MONOGRAM_SRC}}">{{BRAND_TAGLINE}}</span>
+    <span>IG · {{CATEGORY}}</span>
+  </footer>
+</div>
+</body>
+</html>

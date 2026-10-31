@@ -1,0 +1,82 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@400;700;800&family=Archivo:wght@400;500;600;700&family=JetBrains+Mono:wght@400;700;800&display=swap" rel="stylesheet">
+<style>{{BASE_CSS}}</style>
+<style>
+  /* Snapchat flips the system: yellow paper, black ink, brutalist borders */
+  :root {
+    --bg: #fffc00;
+    --ink: #0b0b0b;
+    --muted: rgba(11, 11, 11, 0.55);
+    --accent: #0b0b0b;
+    --accent-2: #0b0b0b;
+    --panel: rgba(11, 11, 11, 0.05);
+    --line: rgba(11, 11, 11, 0.3);
+  }
+  .card { background: var(--bg); }
+  .card::after { opacity: 0.35; }
+  .glyph { right: -70px; bottom: -90px; opacity: 0.14; }
+
+  .brand-band { border-bottom: 3px solid #0b0b0b; }
+  .brand-foot { border-top: 3px solid #0b0b0b; }
+
+  .service { -webkit-text-stroke: 0; }
+  .status { border-width: 3px; }
+  /* dark-ink status palette for the light card */
+  .st-done     { color: #0a7a3c; background: rgba(10, 122, 60, 0.10); }
+  .st-progress { color: #a4600a; background: rgba(164, 96, 10, 0.10); }
+  .st-pending  { color: #0a4fa4; background: rgba(10, 79, 164, 0.10); }
+  .st-issue    { color: #b3121f; background: rgba(179, 18, 31, 0.10); }
+  .st-neutral  { color: #0b0b0b; background: rgba(11, 11, 11, 0.06); }
+
+  .creds { border: 3px solid #0b0b0b; border-left-width: 10px; background: rgba(255, 255, 255, 0.5); }
+  .category-removal .brand-band {
+    background: repeating-linear-gradient(-45deg, rgba(179, 18, 31, 0.2) 0 26px, transparent 26px 52px);
+  }
+  .category-removal .platform-tag,
+  .category-removal .brand-division,
+  .category-removal .row .v.handle { color: #b3121f; }
+  .category-removal .platform-tag .tick { background: #b3121f; }
+</style>
+</head>
+<body class="{{CATEGORY_CLASS}} {{SIZE_CLASS}}">
+<div class="card">
+  <svg class="glyph" width="560" height="560" viewBox="0 0 100 100">
+    <path d="M50 12 c14 0 22 10 22 24 v8 c4 5 9 7 14 8 -3 6 -9 8 -13 9 3 8 10 12 17 13 -4 6 -12 7 -17 8 -5 6 -13 10 -23 10 s-18 -4 -23 -10 c-5 -1 -13 -2 -17 -8 7 -1 14 -5 17 -13 -4 -1 -10 -3 -13 -9 5 -1 10 -3 14 -8 v-8 c0 -14 8 -24 22 -24 z"
+      fill="none" stroke="#0b0b0b" stroke-width="4" stroke-linejoin="round"/>
+  </svg>
+  <div class="removal-ribbon">Removal</div>
+
+  <header class="brand-band">
+    <img class="brand-wordmark" src="{{WORDMARK_SRC}}" alt="{{BRAND_NAME}}">
+    <div class="brand-division">{{CATEGORY_LABEL}}</div>
+  </header>
+
+  <main>
+    <div class="platform-tag"><span class="tick"></span>Snapchat</div>
+    <h1 class="service">{{SERVICE}}</h1>
+    <div class="case-type">{{CASE_TYPE}}</div>
+    <div class="status {{STATUS_CLASS}}"><span class="dot"></span>{{STATUS}}</div>
+
+    <div class="rows">
+      <div class="row"><span class="k">Client</span><span class="v">{{CLIENT}}</span></div>
+      <div class="row"><span class="k">Handle</span><span class="v handle">{{HANDLE}}</span></div>
+      {{DETAIL_ROWS}}
+      {{LINK_ROW}}
+    </div>
+
+    {{CRED_BLOCK}}
+    {{NOTES_BLOCK}}
+  </main>
+
+  <footer class="brand-foot">
+    <span class="foot-brand"><img class="foot-monogram" src="{{MONOGRAM_SRC}}">{{BRAND_TAGLINE}}</span>
+    <span>SC · {{CATEGORY}}</span>
+  </footer>
+</div>
+</body>
+</html>

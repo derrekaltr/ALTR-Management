@@ -1,0 +1,65 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@400;700;800&family=Archivo:wght@400;500;600;700&family=JetBrains+Mono:wght@400;700;800&display=swap" rel="stylesheet">
+<style>{{BASE_CSS}}</style>
+<style>
+  :root {
+    --bg: #0d0d0f;
+    --accent: #ff0033;
+    --accent-2: #ff5d6c;
+    --panel: rgba(255, 0, 51, 0.06);
+    --line: rgba(255, 255, 255, 0.13);
+  }
+  .card {
+    background:
+      radial-gradient(1100px 700px at 88% -10%, rgba(255, 0, 51, 0.22), transparent 60%),
+      radial-gradient(900px 900px at -10% 110%, rgba(255, 0, 51, 0.10), transparent 55%),
+      var(--bg);
+  }
+  /* giant play-button watermark */
+  .glyph { right: -140px; bottom: -120px; opacity: 0.14; }
+  .service { text-shadow: 0 0 60px rgba(255, 0, 51, 0.35); }
+  .platform-tag { text-shadow: 0 0 24px rgba(255, 0, 51, 0.6); }
+</style>
+</head>
+<body class="{{CATEGORY_CLASS}} {{SIZE_CLASS}}">
+<div class="card">
+  <svg class="glyph" width="640" height="640" viewBox="0 0 100 100">
+    <rect x="6" y="22" width="88" height="60" rx="16" fill="none" stroke="#ff0033" stroke-width="3.5"/>
+    <path d="M42 38 L66 52 L42 66 Z" fill="#ff0033"/>
+  </svg>
+  <div class="removal-ribbon">Removal</div>
+
+  <header class="brand-band">
+    <img class="brand-wordmark" src="{{WORDMARK_SRC}}" alt="{{BRAND_NAME}}">
+    <div class="brand-division">{{CATEGORY_LABEL}}</div>
+  </header>
+
+  <main>
+    <div class="platform-tag"><span class="tick"></span>YouTube</div>
+    <h1 class="service">{{SERVICE}}</h1>
+    <div class="case-type">{{CASE_TYPE}}</div>
+    <div class="status {{STATUS_CLASS}}"><span class="dot"></span>{{STATUS}}</div>
+
+    <div class="rows">
+      <div class="row"><span class="k">Client</span><span class="v">{{CLIENT}}</span></div>
+      <div class="row"><span class="k">Handle</span><span class="v handle">{{HANDLE}}</span></div>
+      {{DETAIL_ROWS}}
+      {{LINK_ROW}}
+    </div>
+
+    {{CRED_BLOCK}}
+    {{NOTES_BLOCK}}
+  </main>
+
+  <footer class="brand-foot">
+    <span class="foot-brand"><img class="foot-monogram" src="{{MONOGRAM_SRC}}">{{BRAND_TAGLINE}}</span>
+    <span>YT · {{CATEGORY}}</span>
+  </footer>
+</div>
+</body>
+</html>

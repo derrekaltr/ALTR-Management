@@ -1,0 +1,13 @@
+{
+  "name": "case-cards",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Branded case flashcard generator for account recovery/removal cases",
+  "scripts": {
+    "generate": "node generate.mjs"
+  },
+  "dependencies": {
+    "playwright": "^1.47.0"
+  }
+}
