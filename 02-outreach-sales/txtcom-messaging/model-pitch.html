@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ALTR · Your Fans Can Text You Now</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:ital,wdth,wght@0,62..125,100..900;1,62..125,100..900&family=Spline+Sans+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink:        #1d1d1b;
+    --ink-raise:  #242422;
+    --ink-line:       rgba(235, 236, 220, 0.14);
+    --ink-line-soft:  rgba(235, 236, 220, 0.08);
+    --bone:       #ebecdc;
+    --bone-faint: rgba(235, 236, 220, 0.9);
+    --mint:       #b6f2e5;
+    --mint-dim:   rgba(182, 242, 229, 0.55);
+    --mint-wash:  rgba(182, 242, 229, 0.06);
+    --on-mint:    #1d1d1b;
+    --sans: "Archivo", "Helvetica Neue", sans-serif;
+    --mono: "Spline Sans Mono", "SF Mono", monospace;
+    --radius-pill:  999px;
+    --radius-panel: 4px;
+    --page-max:     1060px;
+    --section-gap:  100px;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: var(--ink);
+    color: var(--bone);
+    font-family: var(--sans);
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.6;
+  }
+  body::before {
+    content: ""; position: fixed; inset: 0; pointer-events: none; z-index: 999; opacity: 0.6;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 250 250' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.05'/%3E%3C/svg%3E");
+  }
+
+  .page { max-width: var(--page-max); margin: 0 auto; padding: 0 48px 120px; }
+  @media (max-width: 900px) { .page { padding: 0 26px 90px; } }
+  @media (max-width: 560px) { .page { padding: 0 18px 70px; } }
+
+  @keyframes rise { from { opacity:0; transform:translateY(22px); } to { opacity:1; transform:none; } }
+  .rise { animation: rise 0.85s cubic-bezier(0.22,1,0.36,1) both; }
+  .d1 { animation-delay: 0.08s; } .d2 { animation-delay: 0.18s; }
+  .d3 { animation-delay: 0.28s; } .d4 { animation-delay: 0.4s; }
+
+  .kicker {
+    font-family: var(--mono); text-transform: uppercase;
+    font-size: 11px; letter-spacing: 0.26em; color: var(--mint);
+  }
+  .crumb-sep { color: var(--mint-dim); padding: 0 0.5em; }
+
+  header.masthead {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 28px 0; border-bottom: 1px solid var(--ink-line);
+  }
+  .wordmark {
+    font-family: var(--sans); font-weight: 800; font-stretch: 118%;
+    text-transform: uppercase; letter-spacing: -0.005em; font-size: 20px;
+  }
+  .masthead .kicker { color: var(--bone-faint); letter-spacing: 0.3em; font-size: 10px; }
+
+  .hero { padding: 86px 0 0; }
+  h1 {
+    font-family: var(--sans); font-weight: 800; font-stretch: 118%;
+    text-transform: uppercase; line-height: 1.0; letter-spacing: -0.015em;
+    font-size: clamp(42px, 6.6vw, 76px); margin: 18px 0 26px;
+  }
+  h1 .accent { color: var(--mint); }
+  .lede { font-size: 17px; color: var(--bone-faint); max-width: 640px; }
+
+  .stats {
+    display: grid; grid-template-columns: repeat(3, 1fr); gap: 1px;
+    background: var(--ink-line-soft); border: 1px solid var(--ink-line-soft);
+    border-radius: var(--radius-panel); overflow: hidden; margin-top: 64px;
+  }
+  @media (max-width: 720px) { .stats { grid-template-columns: 1fr; } }
+  .stat { background: var(--ink-raise); padding: 30px 28px; }
+  .stat .label {
+    font-family: var(--mono); text-transform: uppercase;
+    font-size: 10px; letter-spacing: 0.3em; color: var(--bone-faint);
+  }
+  .stat .value {
+    font-family: var(--sans); font-weight: 800; font-stretch: 118%;
+    font-size: 40px; line-height: 1.02; margin-top: 12px; text-transform: uppercase;
+  }
+  .stat .value.mint { color: var(--mint); }
+  .stat .sub { font-size: 14px; color: var(--bone-faint); margin-top: 10px; }
+
+  section { margin-top: var(--section-gap); }
+  .sec-head { display: flex; align-items: baseline; gap: 18px; border-bottom: 1px solid var(--ink-line); padding-bottom: 16px; margin-bottom: 34px; }
+  .sec-num { font-family: var(--mono); font-size: 12px; letter-spacing: 0.2em; color: var(--mint); }
+  h2 {
+    font-family: var(--sans); font-weight: 800; font-stretch: 118%;
+    text-transform: uppercase; line-height: 1.02; letter-spacing: -0.01em;
+    font-size: clamp(24px, 3vw, 33px);
+  }
+  section p { max-width: 680px; color: var(--bone-faint); margin-bottom: 18px; }
+  section p strong { color: var(--bone); font-weight: 600; }
+
+  ul.points { list-style: none; max-width: 680px; }
+  ul.points li {
+    padding: 16px 0 16px 26px; position: relative;
+    border-bottom: 1px solid var(--ink-line-soft); color: var(--bone-faint);
+  }
+  ul.points li::before { content: "→"; position: absolute; left: 0; color: var(--mint); }
+  ul.points li strong { color: var(--bone); font-weight: 600; }
+
+  .compare {
+    display: grid; grid-template-columns: 1fr 1fr; gap: 1px;
+    background: var(--ink-line-soft); border: 1px solid var(--ink-line-soft);
+    border-radius: var(--radius-panel); overflow: hidden; margin-top: 10px;
+  }
+  @media (max-width: 720px) { .compare { grid-template-columns: 1fr; } }
+  .compare .col { background: var(--ink-raise); padding: 28px; }
+  .compare .col.mintside { background: var(--mint-wash); }
+  .compare .col-label {
+    font-family: var(--mono); text-transform: uppercase;
+    font-size: 10px; letter-spacing: 0.3em; color: var(--bone-faint); margin-bottom: 18px;
+  }
+  .compare .col.mintside .col-label { color: var(--mint); }
+  .compare .big {
+    font-family: var(--sans); font-weight: 800; font-stretch: 118%;
+    text-transform: uppercase; font-size: 40px; line-height: 1.02;
+  }
+  .compare .mintside .big { color: var(--mint); }
+  .compare .note { font-size: 14px; color: var(--bone-faint); margin-top: 14px; }
+
+  .foot-label {
+    font-family: var(--mono); text-transform: uppercase;
+    font-size: 10px; letter-spacing: 0.3em; color: var(--bone-faint); margin-top: 14px;
+  }
+
+  ol.steps { list-style: none; counter-reset: step; max-width: 680px; }
+  ol.steps li {
+    counter-increment: step; display: flex; gap: 22px; align-items: baseline;
+    padding: 18px 0; border-bottom: 1px solid var(--ink-line-soft); color: var(--bone-faint);
+  }
+  ol.steps li::before {
+    content: "0" counter(step); font-family: var(--mono); font-size: 12px;
+    letter-spacing: 0.2em; color: var(--mint); flex-shrink: 0;
+  }
+  ol.steps li strong { color: var(--bone); font-weight: 600; }
+
+  .cta-band {
+    margin-top: var(--section-gap); background: var(--mint); color: var(--on-mint);
+    border-radius: var(--radius-panel); padding: 56px 48px;
+    display: flex; justify-content: space-between; align-items: center; gap: 30px; flex-wrap: wrap;
+  }
+  @media (max-width: 560px) { .cta-band { padding: 40px 24px; } }
+  .cta-band h2 { color: var(--on-mint); max-width: 520px; }
+  .cta-band .kicker { color: var(--on-mint); opacity: 0.75; }
+  .btn {
+    display: inline-block; font-family: var(--mono); text-transform: uppercase;
+    font-size: 12px; letter-spacing: 0.2em; text-decoration: none;
+    background: var(--ink); color: var(--bone);
+    padding: 18px 34px; border-radius: var(--radius-pill); white-space: nowrap;
+  }
+
+  footer { margin-top: 70px; padding-top: 24px; border-top: 1px solid var(--ink-line); }
+  footer .legal {
+    font-family: var(--mono); text-transform: uppercase;
+    font-size: 10px; letter-spacing: 0.22em; color: var(--bone-faint);
+  }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <header class="masthead rise">
+    <div class="wordmark">ALTR</div>
+    <div class="kicker">Creator Brief · TXT Line</div>
+  </header>
+
+  <div class="hero">
+    <div class="kicker rise d1">For creators on OnlyFans <span class="crumb-sep">·</span> Nothing about your OF changes</div>
+    <h1 class="rise d2">Your fans can<br><span class="accent">text you</span> now.</h1>
+    <p class="lede rise d3">A real phone number, run as your business line. Fans message it from their own Messages app and pay inside the thread with Apple Pay. It runs <strong>next to</strong> your OnlyFans — not instead of it.</p>
+
+    <div class="stats rise d4">
+      <div class="stat">
+        <div class="label">Top price per message</div>
+        <div class="value mint">$9,999</div>
+        <div class="sub">OF caps every message at $200. Your line prices whale offers like whale offers.</div>
+      </div>
+      <div class="stat">
+        <div class="label">Checkout</div>
+        <div class="value">2 sec</div>
+        <div class="sub">Apple Pay in-thread. Double-click, Face ID, paid. No card forms, no checkout page.</div>
+      </div>
+      <div class="stat">
+        <div class="label">Impact on your OF</div>
+        <div class="value mint">None</div>
+        <div class="sub">No content moves. No posting changes. Your page, rank, and subs stay exactly as they are.</div>
+      </div>
+    </div>
+  </div>
+
+  <section>
+    <div class="sec-head"><span class="sec-num">01</span><h2>Your OF numbers don't move</h2></div>
+    <p>The first question everyone asks — so here it is first. A TXT line is <strong>additive</strong>. You keep posting to OF on the same schedule, at the same prices, with the same content. Nothing migrates.</p>
+    <ul class="points">
+      <li><strong>Different spend occasion.</strong> OF money happens when a fan opens the app to browse. Text money happens when your name lights up his phone. One doesn't drain the other.</li>
+      <li><strong>It recovers money OF already lost.</strong> Expired subs and paywall bouncers are earning you $0 on OF today. Their text spend is new revenue, not shifted revenue.</li>
+      <li><strong>OF stays the vault.</strong> Your page remains the content library and discovery surface. The thread is the relationship layer that sits beside it.</li>
+    </ul>
+  </section>
+
+  <section>
+    <div class="sec-head"><span class="sec-num">02</span><h2>The $200 cap costs you your whales</h2></div>
+    <p>This business is whale math — a handful of fans drive most of the revenue. OF caps every paid message at $200, so your biggest spenders <strong>literally cannot spend what they want to spend</strong>. Big customs get chopped into awkward $200 chunks, and every chunk is a fresh chance to bail.</p>
+    <div class="compare">
+      <div class="col">
+        <div class="col-label">On OF · max per message</div>
+        <div class="big">$200</div>
+        <div class="note">A $1,500 custom = <strong>eight separate sends</strong>. Momentum dies at chunk three — or the sale never happens at all.</div>
+      </div>
+      <div class="col mintside">
+        <div class="col-label">On your line · max per message</div>
+        <div class="big">$9,999</div>
+        <div class="note">One offer, one Apple Pay tap. Customs, bundles, and VIP experiences <strong>priced like what they are</strong>.</div>
+      </div>
+    </div>
+    <div class="foot-label">Per-message price limits · OF vs your line</div>
+  </section>
+
+  <section>
+    <div class="sec-head"><span class="sec-num">03</span><h2>Apple Pay is the unlock</h2></div>
+    <p>The biggest leak in any OF funnel is the card form. Typing 16 digits kills impulse. Declines kill momentum. Some fans will simply never enter a card on an adult site.</p>
+    <ul class="points">
+      <li><strong>Paid at peak intent.</strong> The purchase happens inside the thread, at the exact second he wants it — not 90 seconds and one checkout page later.</li>
+      <li><strong>Double-click, Face ID, done.</strong> He pays the way he pays for everything else on his phone. No forms, no re-entering an expired card.</li>
+      <li><strong>Fewer failed payments.</strong> Verified payment credentials mean a fraction of the declines of typed-card checkouts.</li>
+    </ul>
+    <p><strong>On OF, the fan has to go find his wallet. On your line, his wallet is his face.</strong></p>
+  </section>
+
+  <section>
+    <div class="sec-head"><span class="sec-num">04</span><h2>What onboarding looks like</h2></div>
+    <ol class="steps">
+      <li><strong>One call.</strong> 15 minutes. We walk the platform, payouts, and the ground rules you set for how your line is run.</li>
+      <li><strong>We build the line.</strong> Number setup, menu and pricing ladder, welcome flow, launch assets — handled by ALTR.</li>
+      <li><strong>You announce it.</strong> We hand you the launch posts and story assets. Your fans save the number.</li>
+      <li><strong>It runs beside your OF.</strong> You approve the playbook; we report the numbers. Your page never changes.</li>
+    </ol>
+  </section>
+
+  <div class="cta-band">
+    <div>
+      <div class="kicker">Limited onboarding slots this month</div>
+      <h2 style="margin-top:12px;">Claim your line.</h2>
+    </div>
+    <a class="btn" href="#">Book the 15-min call</a>
+  </div>
+
+  <footer>
+    <div class="legal">ALTR Management · Creator Brief · Price limits per current platform terms · Payout details confirmed at onboarding</div>
+  </footer>
+
+</div>
+</body>
+</html>
