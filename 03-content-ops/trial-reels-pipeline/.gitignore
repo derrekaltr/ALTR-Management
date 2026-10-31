@@ -1,0 +1,20 @@
+node_modules/
+.next/
+out/
+build/
+
+.env
+.env.local
+.env*.local
+
+# local dev database (embedded postgres data dir)
+.pgdata/
+
+# local dev uploads (videos/frames stored on disk when Blob isn't configured)
+public/uploads/
+
+npm-debug.log*
+.DS_Store
+*.tsbuildinfo
+next-env.d.ts
+.vercel

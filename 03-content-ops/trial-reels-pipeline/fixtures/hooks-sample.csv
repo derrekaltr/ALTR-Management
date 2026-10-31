@@ -1,0 +1,7 @@
+text,category,tags,notes
+"POV: you texted him first again",goofy,"dating, chronically online",classic winner
+"he said he likes natural girls. anyway",funny,"dating; glam",
+"my toxic trait? this outfit on a Tuesday",sexy,"outfit|confidence",
+"my toxic trait? this outfit on a tuesday!!",sexy,,duplicate of the row above after normalizing
+"",funny,,empty text row should be reported invalid
+"“smart quotes” shouldn't break dedupe",goofy,,

@@ -1,0 +1,142 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+enum HookStatus {
+  PENDING_REVIEW
+  APPROVED
+  REJECTED
+  RETIRED
+}
+
+enum HookSource {
+  EXTRACTED
+  IMPORT
+  MANUAL
+  GENERATED
+}
+
+enum ExampleStatus {
+  NEEDS_VIDEO
+  UPLOADED
+  ANALYZED
+  ANALYSIS_FAILED
+}
+
+enum BatchStatus {
+  RUNNING
+  COMPLETE
+  FAILED
+}
+
+enum VersionStatus {
+  PLANNED
+  POSTED
+  SKIPPED
+}
+
+model ExampleReel {
+  id                    String        @id @default(cuid())
+  sourceUrl             String?       @unique // canonicalized IG link; null for direct uploads
+  sourceHandle          String?
+  videoUrl              String?
+  thumbUrl              String?
+  frameUrls             String[]      @default([])
+  status                ExampleStatus @default(NEEDS_VIDEO)
+  analysis              Json?
+  backgroundDescription String?
+  tags                  String[]      @default([])
+  whyItWorks            String?
+  notes                 String?
+  error                 String?
+  createdAt             DateTime      @default(now())
+  analyzedAt            DateTime?
+  hooks                 Hook[]
+  versions              Version[]
+
+  @@index([status])
+}
+
+model Hook {
+  id             String           @id @default(cuid())
+  text           String
+  normalizedText String           @unique
+  category       String?
+  tags           String[]         @default([])
+  notes          String?
+  status         HookStatus       @default(APPROVED)
+  source         HookSource
+  proven         Boolean          @default(false)
+  timesUsed      Int              @default(0)
+  exampleReelId  String?
+  exampleReel    ExampleReel?     @relation(fields: [exampleReelId], references: [id], onDelete: SetNull)
+  batchId        String?
+  batch          GenerationBatch? @relation(fields: [batchId], references: [id], onDelete: SetNull)
+  createdAt      DateTime         @default(now())
+  reviewedAt     DateTime?
+  versions       Version[]
+
+  @@index([status])
+  @@index([category])
+  @@index([proven])
+}
+
+model GenerationBatch {
+  id           String      @id @default(cuid())
+  status       BatchStatus @default(RUNNING)
+  seedIds      String[]    @default([])
+  toneGuidance String?
+  count        Int         @default(10)
+  model        String
+  rawResponse  Json?
+  error        String?
+  createdAt    DateTime    @default(now())
+  hooks        Hook[]
+}
+
+model Creator {
+  id             String    @id @default(cuid())
+  name           String
+  handle         String?
+  token          String    @unique
+  tokenRotatedAt DateTime  @default(now())
+  active         Boolean   @default(true)
+  timezone       String    @default("America/New_York")
+  createdAt      DateTime  @default(now())
+  dayPlans       DayPlan[]
+}
+
+model DayPlan {
+  id        String    @id @default(cuid())
+  creatorId String
+  creator   Creator   @relation(fields: [creatorId], references: [id], onDelete: Cascade)
+  date      DateTime  @db.Date
+  notes     String?
+  createdAt DateTime  @default(now())
+  versions  Version[]
+
+  @@unique([creatorId, date])
+}
+
+model Version {
+  id            String        @id @default(cuid())
+  dayPlanId     String
+  dayPlan       DayPlan       @relation(fields: [dayPlanId], references: [id], onDelete: Cascade)
+  hookId        String
+  hook          Hook          @relation(fields: [hookId], references: [id])
+  exampleReelId String?
+  exampleReel   ExampleReel?  @relation(fields: [exampleReelId], references: [id], onDelete: SetNull)
+  order         Int
+  changeAudio   Boolean       @default(false)
+  changeSpeed   Boolean       @default(false)
+  status        VersionStatus @default(PLANNED)
+  postedAt      DateTime?
+
+  @@unique([dayPlanId, hookId])
+  @@unique([dayPlanId, order])
+}
