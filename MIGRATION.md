@@ -4,7 +4,8 @@ Every old Conductor project, its classification, and migration status.
 Status: ✅ migrated (copied + checksum-verified + committed) · 🗑 source deleted · 🔗 indexed in ECOSYSTEM.md · ⏭ skipped (no artifacts) · ❓ awaiting owner decision
 
 **Global copy exclusions** (regenerable/junk, never migrated): `.git`, `.context`, `.claude`, `.venv`, `venv`, `node_modules`, `__pycache__`, `.DS_Store`, `dist`, `.next`, `.vercel`, `skills-lock.json`, Conductor starter boilerplate.
-**On disk but not in git** (gitignored, preserved in the destination folder only): `trial-reels-pipeline/.pgdata/` (local dev Postgres; production data is in Neon), any `.env*` files.
+**On disk but not in git** (gitignored, preserved in the destination folder only): `trial-reels-pipeline/.pgdata/` (local dev Postgres; production data is in Neon), `weekly-edit-story-planner/.data/` (local PGlite), `weekly-client-chat-reports/config/telegram.ini` and `model-social-monitor/config/*.session` (credentials), any `.env*` files.
+**Security note:** an Apify API token quoted inside lead-checkup iMessage transcripts was redacted before pushing (GitHub push protection flagged it). The token itself was exposed in those texts — consider rotating it at apify.com.
 
 ## ALTR Management → migrated into this repo (source delete pending owner OK)
 
