@@ -1,0 +1,253 @@
+section,field_label,field_type,options,in_streamlined
+Account & Platforms,Model name (stage name),text,,yes
+Account & Platforms,Full legal name,text,,no
+Account & Platforms,Name you go by in fan chats,text,,yes
+Account & Platforms,Name(s) the chat team can NEVER use,text,,yes
+Account & Platforms,Pronouns,text,,yes
+Account & Platforms,Main OnlyFans page (handle / URL),text,,yes
+Account & Platforms,Other OnlyFans pages (VIP / free / etc.) and how they must be run,textarea,,yes
+Account & Platforms,"Other platforms (Fansly, Fanvue, MYM, etc.)",text,,no
+Account & Platforms,Account login email,text,,no
+Account & Platforms,Account login password,text,,no
+Account & Platforms,Do you show your face in content?,yes_no,,yes
+Account & Platforms,Explicitness level,single_select,"X — Non-Nude / Implied: lingerie, teasing | XX — Semi Nude / Topless: tits shown, no pussy, over-underwear / non-frontal masturbation | XXX — Full Nude: everything shown | XXXX — Explicit: everything shown, masturbation, sextapes etc. | Other",yes
+Account & Platforms,Explicit content collaboration types,multi_select,Individual (solo only) | Boy/Girl | Girl/Girl | Boy/Boy/Girl | Boy/Girl/Girl | Anything,yes
+Account & Platforms,Your niche / what you are known for on the platform,text,,yes
+Personal & Identity,Age,text,,yes
+Personal & Identity,Birthday (DOB),text,,yes
+Personal & Identity,Zodiac sign,text,,yes
+Personal & Identity,Born in / birthplace,text,,yes
+Personal & Identity,Where you actually live (private — never shared with fans),text,,no
+Personal & Identity,Location to tell fans (persona location),text,,yes
+Personal & Identity,Time zone,text,,yes
+Personal & Identity,Ethnicity,text,,yes
+Personal & Identity,Sexual orientation,text,,yes
+Personal & Identity,Languages spoken,text,,yes
+Personal & Identity,English skills,single_select,Good | Okay | Bad,no
+Personal & Identity,Public relationship status (what fans are told),single_select,Single | In a Relationship | Married | Other,yes
+Personal & Identity,Real relationship status (private),text,,no
+Personal & Identity,Do you have children?,text,,yes
+Personal & Identity,Family / siblings (and what is OK to mention),text,,no
+Personal & Identity,"Pets (type, breed, names)",text,,yes
+Personal & Identity,Car you drive,text,,no
+Personal & Identity,"College / education (where, major)",text,,no
+Personal & Identity,Other work besides OnlyFans,text,,no
+Personal & Identity,What are you famous / known for?,text,,no
+Personal & Identity,Anything fans may know about you from before OnlyFans?,textarea,,no
+Physical & Sizing,Height,text,,yes
+Physical & Sizing,Weight,text,,no
+Physical & Sizing,Measurements (bust – waist – hips),text,,yes
+Physical & Sizing,Eye color,text,,no
+Physical & Sizing,Hair color,text,,no
+Physical & Sizing,Bra size (natural / enhanced details if any),text,,yes
+Physical & Sizing,Shoe size,text,,yes
+Physical & Sizing,Panty / underwear size,text,,yes
+Physical & Sizing,Shirt size,text,,no
+Physical & Sizing,Dress size,text,,no
+Physical & Sizing,Bikini size,text,,no
+Physical & Sizing,Lingerie size,text,,no
+Physical & Sizing,"Tattoos (how many, of what, favorite)",textarea,,yes
+Physical & Sizing,Piercings,text,,yes
+Physical & Sizing,Surgeries / enhancements (what and when),textarea,,yes
+Physical & Sizing,Shaving / grooming style,text,,no
+Physical & Sizing,Nails (style you always wear),text,,no
+Physical & Sizing,Signature scent / perfume,text,,no
+Physical & Sizing,Hidden talents,text,,no
+Physical & Sizing,Cock size (male models only — skip otherwise),text,,no
+Favorites & Lifestyle,Favorite food,text,,yes
+Favorites & Lifestyle,Favorite drinks,text,,yes
+Favorites & Lifestyle,Favorite snacks / dessert,text,,no
+Favorites & Lifestyle,Food dislikes,text,,no
+Favorites & Lifestyle,"Diet / allergies (vegan, gluten-free, etc.)",text,,no
+Favorites & Lifestyle,Favorite color,text,,yes
+Favorites & Lifestyle,Favorite animal,text,,no
+Favorites & Lifestyle,Favorite holiday,text,,no
+Favorites & Lifestyle,"Favorite music (genres, artists, songs)",text,,yes
+Favorites & Lifestyle,Favorite TV shows,text,,yes
+Favorites & Lifestyle,Favorite movies,text,,yes
+Favorites & Lifestyle,Sports you play / favorite teams,text,,no
+Favorites & Lifestyle,Hobbies / favorite things to do,textarea,,yes
+Favorites & Lifestyle,What you do for fun on a weekend,text,,no
+Favorites & Lifestyle,Places you have traveled,text,,no
+Favorites & Lifestyle,Dream vacation / dream travel list,text,,yes
+Favorites & Lifestyle,Fitness routine,text,,no
+Favorites & Lifestyle,"Daily routine (skincare, baths, massages, etc.)",text,,no
+Favorites & Lifestyle,"Smoking / drinking (cigarettes, weed, vape, alcohol, sobriety)",text,,yes
+Favorites & Lifestyle,Guilty pleasures,text,,no
+Favorites & Lifestyle,Do you like to cook anything special?,text,,no
+Favorites & Lifestyle,Dream since you were little,text,,no
+Favorites & Lifestyle,"Extracurriculars growing up (ballet, sports, etc.)",text,,no
+Favorites & Lifestyle,Something silly about yourself,text,,no
+Favorites & Lifestyle,Celebrity you would hook up with,text,,no
+Favorites & Lifestyle,Top 5 bucket list items,textarea,,no
+Favorites & Lifestyle,What does your dream date look like?,text,,no
+Favorites & Lifestyle,Pet peeves,text,,yes
+Persona & Chat Voice,Describe your online personality / persona,textarea,,yes
+Persona & Chat Voice,How should we portray you?,textarea,,yes
+Persona & Chat Voice,Vibe to give off,multi_select,Submissive | Dominant | Switch | Bratty | Innocent | Playful | Gamer girl | Luxury / rich-girl | GFE (girlfriend experience) | Other,yes
+Persona & Chat Voice,"Special nicknames for fans (love, babe, pookie...)",text,,yes
+Persona & Chat Voice,Emojis you use most (should appear in chats),text,,yes
+Persona & Chat Voice,Signature words / phrases you actually say,text,,yes
+Persona & Chat Voice,Words / phrases you would NEVER use,text,,yes
+Persona & Chat Voice,Texting style,single_select,Formal | Slang | Casual | Other,yes
+Persona & Chat Voice,Topics the chat team can NEVER mention,textarea,,yes
+Persona & Chat Voice,"Personal details that ARE okay to share with fans (city, pets, food...)",textarea,,yes
+Persona & Chat Voice,What turns you on?,text,,yes
+Persona & Chat Voice,What turns you off?,text,,yes
+Persona & Chat Voice,Your ideal guy / type,text,,no
+Persona & Chat Voice,Love language,text,,no
+Persona & Chat Voice,How you view men / provider dynamic (e.g. men should always pay),text,,no
+Sexual Profile,Favorite sex position,text,,yes
+Sexual Profile,Fetishes / kinks you have,textarea,,yes
+Sexual Profile,Fetishes you ACCEPT from fans,text,,yes
+Sexual Profile,Fetishes you REJECT (never engage),text,,yes
+Sexual Profile,Sexual fantasies,textarea,,no
+Sexual Profile,Oral or penetration — which do you enjoy more?,text,,no
+Sexual Profile,Favorite toy(s) and how many you own,text,,yes
+Sexual Profile,Are you vocal in bed?,text,,no
+Sexual Profile,Secret / most sensitive zones,text,,no
+Sexual Profile,Craziest place you have done it,text,,no
+Sexual Profile,Best sex you can imagine / how you like to be treated,text,,no
+Sexual Profile,Do you like being on top?,text,,no
+Sexual Profile,Hard turn-offs in bed,textarea,,yes
+Content Menu — What You Offer,Ass pictures / videos,yes_no_with_notes,,yes
+Content Menu — What You Offer,Boob pictures / videos,yes_no_with_notes,,yes
+Content Menu — What You Offer,Visible nipple pictures / videos,yes_no_with_notes,,yes
+Content Menu — What You Offer,Full nudity — censored,yes_no_with_notes,,yes
+Content Menu — What You Offer,Full nudity — uncensored,yes_no_with_notes,,yes
+Content Menu — What You Offer,Masturbation pictures / videos,yes_no_with_notes,,yes
+Content Menu — What You Offer,Solo fingering,yes_no_with_notes,,yes
+Content Menu — What You Offer,Solo with toys,yes_no_with_notes,,yes
+Content Menu — What You Offer,Solo anal play (plug),yes_no_with_notes,,yes
+Content Menu — What You Offer,Solo anal play (dildo),yes_no_with_notes,,yes
+Content Menu — What You Offer,Solo double penetration,yes_no_with_notes,,yes
+Content Menu — What You Offer,Squirting,yes_no_with_notes,,yes
+Content Menu — What You Offer,Boy/Girl content,yes_no_with_notes,,yes
+Content Menu — What You Offer,Boy/Girl anal,yes_no_with_notes,,yes
+Content Menu — What You Offer,Girl/Girl content,yes_no_with_notes,,yes
+Content Menu — What You Offer,Girl/Girl with toys,yes_no_with_notes,,no
+Content Menu — What You Offer,Blowjob content,yes_no_with_notes,,yes
+Content Menu — What You Offer,JOI (jerk-off instructions),yes_no_with_notes,,yes
+Content Menu — What You Offer,CEI (cum eating instructions),yes_no_with_notes,,yes
+Content Menu — What You Offer,SPH (small penis humiliation),yes_no_with_notes,,yes
+Content Menu — What You Offer,Dick ratings,yes_no_with_notes,,yes
+Content Menu — What You Offer,Domination,yes_no_with_notes,,yes
+Content Menu — What You Offer,Submissive,yes_no_with_notes,,yes
+Content Menu — What You Offer,Feet / foot content,yes_no_with_notes,,yes
+Content Menu — What You Offer,Kissing / sucking toes,yes_no_with_notes,,no
+Content Menu — What You Offer,Fetish / kink content,yes_no_with_notes,,yes
+Content Menu — What You Offer,Twerk videos,yes_no_with_notes,,no
+Content Menu — What You Offer,Fan signs / holding a sign,yes_no_with_notes,,yes
+Content Menu — What You Offer,Writing fan's name on body,yes_no_with_notes,,yes
+Content Menu — What You Offer,Video calls,yes_no_with_notes,,yes
+Content Menu — What You Offer,Public play,yes_no_with_notes,,yes
+Content Menu — What You Offer,Food play,yes_no_with_notes,,no
+Content Menu — What You Offer,Fake cum eating / creampie,yes_no_with_notes,,no
+Content Menu — What You Offer,Eating own cum,yes_no_with_notes,,no
+Content Menu — What You Offer,Cum swap,yes_no_with_notes,,no
+Content Menu — What You Offer,Edging,yes_no_with_notes,,no
+Content Menu — What You Offer,Findom / money kink,yes_no_with_notes,,no
+Content Menu — What You Offer,Giantess content,yes_no_with_notes,,no
+Content Menu — What You Offer,Bondage,yes_no_with_notes,,no
+Content Menu — What You Offer,Tickling,yes_no_with_notes,,no
+Content Menu — What You Offer,Armpit play,yes_no_with_notes,,no
+Content Menu — What You Offer,Bathing / showering content,yes_no_with_notes,,no
+Content Menu — What You Offer,Using oils or lubes,yes_no_with_notes,,no
+Content Menu — What You Offer,Smoking cigarettes on camera,yes_no_with_notes,,no
+Content Menu — What You Offer,Smoking weed on camera,yes_no_with_notes,,no
+Content Menu — What You Offer,Smoking vape on camera,yes_no_with_notes,,no
+Content Menu — What You Offer,Singing,yes_no_with_notes,,no
+Content Menu — What You Offer,Using the term BBC / black dildo content,yes_no_with_notes,,no
+Content Menu — What You Offer,Winking asshole,yes_no_with_notes,,no
+Content Menu — What You Offer,Panty stuffing,yes_no_with_notes,,no
+Customs & Pricing,Who sets pricing?,single_select,"I set all prices (listed below) | Team sets prices — be fair, never sell cheap | Mix of both",yes
+Customs & Pricing,Subscription price,text,,yes
+Customs & Pricing,GFE (girlfriend experience) price,text,,yes
+Customs & Pricing,BFE (boyfriend experience) price,text,,no
+Customs & Pricing,MVP package price,text,,no
+Customs & Pricing,VIP package price,text,,yes
+Customs & Pricing,PPV price range (min – max),text,,yes
+Customs & Pricing,Custom video — non-nude (under 5 min),yes_no_with_price,,yes
+Customs & Pricing,Custom video — non-nude (under 10 min),yes_no_with_price,,no
+Customs & Pricing,Custom video — solo fingering (5 min),yes_no_with_price,,yes
+Customs & Pricing,Custom video — solo fingering (10 min),yes_no_with_price,,no
+Customs & Pricing,Custom video — solo with toy (5 min),yes_no_with_price,,yes
+Customs & Pricing,Custom video — solo with toy (10 min),yes_no_with_price,,no
+Customs & Pricing,Custom video — solo anal with plug,yes_no_with_price,,yes
+Customs & Pricing,Custom video — solo anal with dildo,yes_no_with_price,,no
+Customs & Pricing,Custom video — solo double penetration,yes_no_with_price,,no
+Customs & Pricing,Custom video — squirting,yes_no_with_price,,yes
+Customs & Pricing,Custom video — sex tape (B/G),yes_no_with_price,,yes
+Customs & Pricing,Custom video — blowjob tape (B/G),yes_no_with_price,,yes
+Customs & Pricing,Custom video — Girl/Girl collaboration,yes_no_with_price,,yes
+Customs & Pricing,Custom video — JOI,yes_no_with_price,,yes
+Customs & Pricing,Custom video — dominating the fan,yes_no_with_price,,no
+Customs & Pricing,Custom video — foot-focused,yes_no_with_price,,yes
+Customs & Pricing,Custom video — food-focused,yes_no_with_price,,no
+Customs & Pricing,Custom video — giantess niche,yes_no_with_price,,no
+Customs & Pricing,Dick rating — video (under 3 min),yes_no_with_price,,yes
+Customs & Pricing,Dick rating — video (under 5 min),yes_no_with_price,,no
+Customs & Pricing,Dick rating — voice / audio,yes_no_with_price,,yes
+Customs & Pricing,Dick rating — clothed,yes_no_with_price,,no
+Customs & Pricing,Dick rating — nude,yes_no_with_price,,no
+Customs & Pricing,Custom pictures — non-nude (per pic),yes_no_with_price,,yes
+Customs & Pricing,Custom pictures — nude (per pic),yes_no_with_price,,yes
+Customs & Pricing,Custom audio — saying fan's name,yes_no_with_price,,yes
+Customs & Pricing,Custom audio — voice note,yes_no_with_price,,yes
+Customs & Pricing,Video call — OnlyFans Live 1:1,yes_no_with_price,,yes
+Customs & Pricing,"Video call — on socials (IG, Snapchat, X)",yes_no_with_price,,no
+Customs & Pricing,Voice call,yes_no_with_price,,yes
+Customs & Pricing,Private Snapchat add / following fan on socials,yes_no_with_price,,yes
+Customs & Pricing,Liking / commenting on fan's profile,yes_no_with_price,,no
+Customs & Pricing,Used panties sent to fan,yes_no_with_price,,yes
+Customs & Pricing,Used socks sent to fan,yes_no_with_price,,no
+Customs & Pricing,Used tights / pantyhose sent to fan,yes_no_with_price,,no
+Customs & Pricing,Toys used in content sold to fan,yes_no_with_price,,no
+Customs & Pricing,Outfits / props used in content sold to fan,yes_no_with_price,,no
+Customs & Pricing,Writing fan's name on body (add-on to custom),yes_no_with_price,,yes
+Customs & Pricing,Fan sign (photo holding fan's name),yes_no_with_price,,yes
+Customs & Pricing,"Custom DOs and DON'Ts (dildo, self-play, anal, blowjob, B/G...)",textarea,,yes
+Customs & Pricing,Toys you will NOT use in a custom,text,,yes
+Customs & Pricing,Willing to send fans pictures of the toys you'd use in their custom?,yes_no,,no
+Customs & Pricing,Accept customs WITHOUT prior approval?,yes_no,,yes
+Customs & Pricing,Is there ANYTHING off limits for custom requests?,textarea,,yes
+"Vault, Fans & Chat Team Rules",Any vault content we should NOT currently use?,textarea,,yes
+"Vault, Fans & Chat Team Rules",Any fans you do NOT want us to contact?,textarea,,yes
+"Vault, Fans & Chat Team Rules",VIPs / whales / special fans we need to know about (names + notes),textarea,,yes
+"Vault, Fans & Chat Team Rules",How should we handle a fan upset about content they bought?,textarea,,yes
+"Vault, Fans & Chat Team Rules",Problems you've had with previous chat teams we should avoid,textarea,,yes
+"Vault, Fans & Chat Team Rules",Things you DISLIKE — chatters must never do these,textarea,,yes
+"Vault, Fans & Chat Team Rules",Your rules & guidelines for the chat team,textarea,,yes
+"Vault, Fans & Chat Team Rules",Anything else to help the chat team represent you,textarea,,yes
+Career & Experience,When did you start OnlyFans / the adult industry?,text,,yes
+Career & Experience,"Previous / active experience (cams, other platforms, studios)",textarea,,yes
+Career & Experience,Represented by an agency or production company?,text,,no
+Career & Experience,Awards from your career,text,,no
+Career & Experience,Adult expos attended,text,,no
+Career & Experience,Ever done a dance feature?,text,,no
+Career & Experience,Favorite company to shoot for,text,,no
+Career & Experience,Memorable released scenes (elaborate),textarea,,no
+Career & Experience,Favorite performances / performers you've worked with,text,,no
+Marketing & Socials,Which social accounts are linked on your OnlyFans page?,text,,no
+Marketing & Socials,Any accounts banned / shadow-banned / restricted / deleted?,textarea,,yes
+Marketing & Socials,Anything specific we should use or say in ads?,textarea,,no
+Marketing & Socials,Instagram (handle/link + sells on it?),text,,yes
+Marketing & Socials,Twitter / X (handle/link + sells on it?),text,,yes
+Marketing & Socials,TikTok (handle/link + sells on it?),text,,yes
+Marketing & Socials,Snapchat (handle/link + sells on it?),text,,yes
+Marketing & Socials,Reddit (handle/link + sells on it?),text,,yes
+Marketing & Socials,YouTube (handle/link + sells on it?),text,,no
+Marketing & Socials,Pornhub (handle/link + sells on it?),text,,no
+Marketing & Socials,Linktree (handle/link + sells on it?),text,,no
+Marketing & Socials,Amazon wishlist (handle/link + sells on it?),text,,no
+Marketing & Socials,Third-party ad vendors (handle/link + sells on it?),text,,no
+Marketing & Socials,Other (handle/link + sells on it?),text,,no
+Content Production Standards,RAW videos in original format (no compression),acknowledgement,,yes
+Content Production Standards,No filters,acknowledgement,,yes
+Content Production Standards,Good lighting,acknowledgement,,yes
+Content Production Standards,Clean camera lens,acknowledgement,,yes
+Content Production Standards,Vertical format for social media content,acknowledgement,,yes
+Content Production Standards,Uploaded to Drive following the team's folder structure,acknowledgement,,yes
+Final Notes,"Is there anything about you, your life, or your career that is completely OFF LIMITS?",textarea,,yes
+Final Notes,"Anything specific you want fans to know, or how you want to be represented?",textarea,,yes
+Final Notes,Anything else you want the team to know?,textarea,,yes
