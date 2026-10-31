@@ -1,0 +1,52 @@
+[
+  {
+    "id": "text.frame0_premise_block",
+    "name": "Frame-0 premise block",
+    "when": { "failure_modes": ["weak_hook", "cliff", "no_premise", "muted_autoplay_unreadable"], "length_bands": ["7-15", "15-30", "30-60"], "value_types": ["entertaining", "provocative", "useful"] },
+    "template": "One block, 1–3 short lines, plain white sans-serif with a soft shadow, centred at chest/upper-body height, on screen from frame 0, no animation, stays for the whole Reel or until the first beat",
+    "examples": ["The first girl you sleep with after losing the love of your life", "Girls 24/7 for no reason", "When they actually tease instead of going straight to it"],
+    "mechanism": "Autoplay is muted and the thumbnail is the first frame: the text must deliver the entire premise before any audio. Centred placement stays inside the safe zone under the caption and the right-hand buttons.",
+    "anti_pattern": "Text that appears at second 2; text in the bottom 20% (covered by caption) or top 10% (covered by the username); word-by-word animation; a title plus a subtitle.",
+    "observed": ["Every Reel over 1M in the sample used exactly this treatment"]
+  },
+  {
+    "id": "text.quoted_line_marks",
+    "name": "Quotation marks for a line someone said",
+    "when": { "failure_modes": ["low_comments", "weak_hook"], "length_bands": ["7-15", "15-30"], "value_types": ["provocative"] },
+    "template": "Wrap the on-screen line in straight quotes so it reads as something said TO you; your face does the reacting",
+    "examples": ["\"You're the only girl I talk to\"", "\"How many times a day do you need to be cracked to keep your attitude in check?\""],
+    "mechanism": "The quotes turn the text into a shared experience rather than a statement; the audience replies with their own version.",
+    "anti_pattern": "Quoting yourself; using quotes around a caption-style sentence.",
+    "observed": ["136K and 16.7K on the same account — the sharper, more universal quote won"]
+  },
+  {
+    "id": "text.stacked_descriptor_list",
+    "name": "Stacked descriptor list",
+    "when": { "failure_modes": ["weak_hook", "no_loop"], "length_bands": ["7-15", "15-30"], "value_types": ["entertaining"] },
+    "template": "Three-plus hyper-specific descriptors in a row inside the premise (\"6'5\", tatted, tan, gym rat\") — the list is the joke and the rewatch",
+    "examples": ["Me to my 🥺 when the 6'5\", tatted, tan, gym rat walks into the gym"],
+    "mechanism": "Each descriptor is a micro-payoff; readers re-read the list, which registers as watch time and replays on a short Reel.",
+    "anti_pattern": "Generic adjectives; more than five descriptors (unreadable in the first second).",
+    "observed": ["1.9M on 28.8K followers"]
+  },
+  {
+    "id": "text.no_text_visual_first",
+    "name": "No on-screen text (visual-first)",
+    "when": { "failure_modes": ["static_talking_head"], "length_bands": ["7-15", "15-30"], "value_types": ["conversion", "entertaining"] },
+    "template": "No overlay; the visual and the audio drop are the hook; caption is two words",
+    "examples": ["Outfit/arrival reveal on a beat drop"],
+    "mechanism": "Removes the reading step; relies on the audio page and the first frame's visual pull. Only recommend when the visual genuinely carries it — otherwise expect sub-follower-count reach.",
+    "anti_pattern": "Using this because you didn't write a premise.",
+    "observed": ["Median ~0.1× followers on the visual-only account sampled; outliers are trend-timed"]
+  },
+  {
+    "id": "text.mid_video_pop_in",
+    "name": "Mid-video text pop-in as pattern interrupt",
+    "when": { "failure_modes": ["mid_sag", "static_talking_head", "no_payoff"], "length_bands": ["15-30", "30-60", "60+"], "value_types": ["useful", "entertaining"] },
+    "template": "A second, smaller text element that appears exactly at the payoff or twist (a number, a name, 'wait for it' is banned) and disappears after ~1.5 s",
+    "examples": ["(number pops in) 400 grilled cheeses", "(name pops in on the reveal)"],
+    "mechanism": "A visual change at the payoff resets attention and marks the moment people rewind to; it creates the 'hump' shape in the retention curve.",
+    "anti_pattern": "'Wait for it'; constant captions-style subtitles that never change.",
+    "observed": ["Galloway 'hump' retention shape; not present in the sampled skit accounts, which are short enough not to need it"]
+  }
+]

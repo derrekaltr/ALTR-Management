@@ -1,0 +1,72 @@
+[
+  {
+    "id": "hook.premise_text.role",
+    "name": "Premise-as-text: you are a role",
+    "when": { "failure_modes": ["weak_hook", "cliff", "no_premise", "static_talking_head"], "length_bands": ["7-15", "15-30", "30-60"], "value_types": ["entertaining", "provocative"] },
+    "template": "\"I am your <role> in <time/place>\" — the first frame states who you are playing; you are already in character on frame 0",
+    "examples": ["I am your husband's receptionist in 10 years", "POV I'm your girlfriend", "I'm your girlfriend who just went thru your phone but refuses to leave you"],
+    "mechanism": "The viewer supplies the whole backstory from the role; nothing needs explaining, so the bit starts at line one and every line is a payoff. Sendable because it names a person the viewer knows.",
+    "anti_pattern": "Explaining the setup out loud before the bit starts; starting with 'so' or 'hey guys'.",
+    "observed": ["talking-head skit accounts at 30K–250K followers repeatedly clear 1M+ views with this frame"]
+  },
+  {
+    "id": "hook.premise_text.how_x_acts",
+    "name": "Premise-as-text: how X acts when Y",
+    "when": { "failure_modes": ["weak_hook", "cliff", "no_premise"], "length_bands": ["7-15", "15-30", "30-60"], "value_types": ["entertaining", "provocative"] },
+    "template": "\"How your <person> starts acting after <specific trigger>\" — a specific, slightly petty trigger, not a generic one",
+    "examples": ["How your girlfriend starts acting after you decided you're breaking up with her", "What you overhear when your man and you split up for 2 minutes to talk to other people at the function", "The 'emergency' phone call you pick up from your girlfriend at work"],
+    "mechanism": "Specificity is the joke. The trigger is something the viewer has lived, so the first second already earns a nod; the rest of the Reel is the escalation the viewer is now waiting for.",
+    "anti_pattern": "Generic triggers ('when you're tired'); more than one trigger in the text.",
+    "observed": ["3.3M and 210K on the same account; the more specific trigger did better"]
+  },
+  {
+    "id": "hook.premise_text.me_when",
+    "name": "Premise-as-text: me when",
+    "when": { "failure_modes": ["weak_hook", "cliff", "no_premise"], "length_bands": ["7-15", "15-30"], "value_types": ["entertaining"] },
+    "template": "\"Me <doing X> when <Y>\" — you are the subject, the situation is universal, the reaction is exaggerated",
+    "examples": ["Me to my 🥺 when the 6'5\", tatted, tan, gym rat walks into the gym", "Me sitting down at the club absolutely vibing and couldn't be happier", "Me after spending the weekend with my man going round for round"],
+    "mechanism": "Self-deprecation lowers the viewer's guard; the exaggerated reaction is the loop (people rewatch the face). Strongest when the 'when' clause is a stacked list of hyper-specific descriptors.",
+    "anti_pattern": "A 'when' clause only your niche understands (a lift name, an astrology sign) — it cuts reach by 10–100× on the same account.",
+    "observed": ["1.9M on a 28.8K-follower account; the astrology variant on the same account did 4.7K"]
+  },
+  {
+    "id": "hook.premise_text.quoted_line",
+    "name": "Premise-as-text: the line someone says to you",
+    "when": { "failure_modes": ["weak_hook", "low_comments", "no_conversation_seed"], "length_bands": ["7-15", "15-30"], "value_types": ["provocative", "entertaining"] },
+    "template": "A quoted line in quotation marks — something a partner/boss/friend actually says — and your reaction is the Reel",
+    "examples": ["\"How many times a day do you need to be cracked to keep your attitude in check?\"", "\"You're the only girl I talk to\""],
+    "mechanism": "Quotation marks signal 'you have heard this too'; the comment section becomes people posting their own version of the line, which is conversation the algorithm rewards.",
+    "anti_pattern": "Quoting yourself; a line nobody has been told.",
+    "observed": ["136K on a 28.8K account; comments fill with variants of the quote"]
+  },
+  {
+    "id": "hook.deadpan_absurd_claim",
+    "name": "Deadpan absurd claim, stated flat",
+    "when": { "failure_modes": ["weak_hook", "no_loop"], "length_bands": ["7-15", "15-30"], "value_types": ["entertaining"] },
+    "template": "A confident, wrong, or unhinged statement delivered as fact, with a straight face, and a normal-looking setting",
+    "examples": ["Real G's move in silence like lasagna", "Of course my man can like other girls' pictures. At the small price of burning his finger prints off", "No I would never bite someone's biceps. That's disgusting and unhealthy"],
+    "mechanism": "The gap between the calm delivery and the content is the joke; the shortness makes it loop. Works as a 7–12 second Reel with no structure beyond the line and a beat of silence.",
+    "anti_pattern": "Laughing at your own line; adding a second line that explains it.",
+    "observed": ["126K–381K range; reliable mid-tier performers, rarely the outliers"]
+  },
+  {
+    "id": "hook.but_then_curiosity",
+    "name": "'But / then' curiosity loop in the first sentence",
+    "when": { "failure_modes": ["weak_hook", "cliff", "mid_sag"], "length_bands": ["15-30", "30-60", "60+"], "value_types": ["useful", "provocative"] },
+    "template": "State the problem and open a loop in one sentence: \"I <did X> but <unexpected>, so <what I'm about to show>\"",
+    "examples": ["Why I stopped bringing a bike and started bringing this instead", "The one item everyone forgets. Not sunscreen."],
+    "mechanism": "The 'but' is a pattern interrupt inside the sentence; the 'then' promises a payoff at a known point, which flattens the retention curve until the reveal.",
+    "anti_pattern": "Opening with context ('so last year I…'); revealing the payoff in the text overlay.",
+    "observed": ["Hoyos-style short-form principle; corroborated by the mid-video 'hump' retention shape"]
+  },
+  {
+    "id": "hook.silent_visual_reveal",
+    "name": "Silent visual reveal on trending audio",
+    "when": { "failure_modes": ["static_talking_head", "no_loop"], "length_bands": ["7-15", "15-30"], "value_types": ["entertaining", "conversion"] },
+    "template": "No text, no talking: one strong visual (outfit, place, transformation) timed to a trending audio drop; caption carries the only words",
+    "examples": ["Getting-ready-to-going-out cut timed to the beat drop", "Arrival shot with the reveal on the drop"],
+    "mechanism": "Rides audio-page distribution and rewatches; earns likes rather than sends or saves. High variance: baseline reach is often below follower count, with rare outliers.",
+    "anti_pattern": "Using this as the whole content system — the median Reel on visual-only accounts reaches ~0.1× followers.",
+    "observed": ["48M outlier against a ~140K median on a 1.4M-follower account"]
+  }
+]

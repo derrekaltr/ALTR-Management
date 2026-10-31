@@ -1,0 +1,14 @@
+{
+  "name": "test-niche",
+  "description": "Test-only profile exercising season/event/commercial/sentiment annotations.",
+  "season_windows": [{ "start": "08-15", "end": "09-15", "label": "back-to-school season" }, { "start": "12-20", "end": "01-10", "label": "holidays" }],
+  "event_windows": [{ "start": "2025-08-25", "end": "2025-08-28", "label": "viral news moment" }],
+  "event_keywords": ["breaking news", "went viral", "stranded"],
+  "commercial_risk_patterns": ["link in bio", "promo ?code", "use code", "discount", "#ad\\b", "sponsored", "\\bmerch\\b"],
+  "reminders": ["Disclose paid partnerships with the Paid Partnership label."],
+  "sentiment_lexicon": {
+    "admiring": ["beautiful", "so good", "love this", "take me back", "incredible", "😍"],
+    "hostile": ["influencer", "cringe", "sponsored", "instagram vs reality", "🙄"]
+  },
+  "extra_rubric_text": "TEST NICHE: treat commercial signals as risk."
+}

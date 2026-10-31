@@ -1,0 +1,799 @@
+{
+  "account": {
+    "ig_user_id": "17841400000000000",
+    "username": "samplecreator",
+    "follower_count": 8400,
+    "views_by_follow_type": {
+      "follower": 41000,
+      "non_follower": 52000
+    },
+    "follows_and_unfollows": {
+      "follows": 610,
+      "unfollows": 95,
+      "period_days": 180
+    },
+    "pulled_at": "2025-11-20T00:00:00Z"
+  },
+  "reels": [
+    {
+      "id": "r01",
+      "permalink": "https://www.instagram.com/reel/R01XYZ/",
+      "timestamp": "2025-06-03T17:02:00Z",
+      "caption": "Testing the new couch in the driveway because the apartment isn't ready. #apartment #moving #couch",
+      "thumbnail_url": "https://example.invalid/r01.jpg",
+      "duration_s": 14,
+      "duration_source": "user",
+      "insights": {
+        "views": 1650,
+        "reach": 1395,
+        "likes": 126,
+        "comments": 8,
+        "shares": 17,
+        "saved": 35,
+        "reposts": 1,
+        "total_interactions": 186,
+        "profile_visits": 16,
+        "ig_reels_avg_watch_time_ms": 10920,
+        "reels_skip_rate": 0.28,
+        "ig_reels_video_view_total_time_ms": 18018000
+      },
+      "source": "fixture"
+    },
+    {
+      "id": "r02",
+      "permalink": "https://www.instagram.com/reel/R02XYZ/",
+      "timestamp": "2025-06-10T18:30:00Z",
+      "caption": "Full rundown of my closet lighting setup. Part 1 of 3. Follow for part 2! #diy #led #lighting #closet #apartment #home #maker #decor",
+      "thumbnail_url": "https://example.invalid/r02.jpg",
+      "duration_s": 48,
+      "duration_source": "user",
+      "insights": {
+        "views": 720,
+        "reach": 569,
+        "likes": 28,
+        "comments": 2,
+        "shares": 2,
+        "saved": 18,
+        "reposts": 0,
+        "total_interactions": 50,
+        "profile_visits": 8,
+        "ig_reels_avg_watch_time_ms": 14880,
+        "reels_skip_rate": 0.55,
+        "ig_reels_video_view_total_time_ms": 10713600
+      },
+      "source": "fixture"
+    },
+    {
+      "id": "r03",
+      "permalink": "https://www.instagram.com/reel/R03XYZ/",
+      "timestamp": "2025-06-17T15:45:00Z",
+      "caption": "Why I stopped texting first and started doing this instead",
+      "thumbnail_url": "https://example.invalid/r03.jpg",
+      "duration_s": 22,
+      "duration_source": "user",
+      "insights": {
+        "views": 2900,
+        "reach": 2389,
+        "likes": 263,
+        "comments": 26,
+        "shares": 50,
+        "saved": 105,
+        "reposts": 3,
+        "total_interactions": 444,
+        "profile_visits": 25,
+        "ig_reels_avg_watch_time_ms": 13640,
+        "reels_skip_rate": 0.31,
+        "ig_reels_video_view_total_time_ms": 39556000
+      },
+      "source": "fixture"
+    },
+    {
+      "id": "r04",
+      "permalink": "https://www.instagram.com/reel/R04XYZ/",
+      "timestamp": "2025-06-24T20:10:00Z",
+      "caption": "Complete apartment move-in timelapse, every day, 3 minutes 30. Grab a coffee.",
+      "thumbnail_url": "https://example.invalid/r04.jpg",
+      "duration_s": 210,
+      "duration_source": "user",
+      "insights": {
+        "views": 540,
+        "reach": 438,
+        "likes": 18,
+        "comments": 1,
+        "shares": 1,
+        "saved": 9,
+        "reposts": 0,
+        "total_interactions": 29,
+        "profile_visits": 5,
+        "ig_reels_avg_watch_time_ms": 25200,
+        "reels_skip_rate": 0.6,
+        "ig_reels_video_view_total_time_ms": 13608000
+      },
+      "source": "fixture"
+    },
+    {
+      "id": "r05",
+      "permalink": "https://www.instagram.com/reel/R05XYZ/",
+      "timestamp": "2025-07-01T16:00:00Z",
+      "caption": "POV: the 4am airport line",
+      "thumbnail_url": "https://example.invalid/r05.jpg",
+      "duration_s": 9,
+      "duration_source": "user",
+      "insights": {
+        "views": 3400,
+        "reach": 1789,
+        "likes": 215,
+        "comments": 14,
+        "shares": 50,
+        "saved": 16,
+        "reposts": 3,
+        "total_interactions": 295,
+        "profile_visits": 49,
+        "ig_reels_avg_watch_time_ms": 8100,
+        "reels_skip_rate": 0.2,
+        "ig_reels_video_view_total_time_ms": 27540000
+      },
+      "source": "fixture"
+    },
+    {
+      "id": "r06",
+      "permalink": "https://www.instagram.com/reel/R06XYZ/",
+      "timestamp": "2025-07-09T19:20:00Z",
+      "caption": "Reposting this from a friend because it's too good not to share (credit @someone)",
+      "thumbnail_url": "https://example.invalid/r06.jpg",
+      "duration_s": 31,
+      "duration_source": "user",
+      "insights": {
+        "views": 410,
+        "reach": 300,
+        "likes": 9,
+        "comments": 1,
+        "shares": 1,
+        "saved": 1,
+        "reposts": 0,
+        "total_interactions": 12,
+        "profile_visits": 8,
+        "ig_reels_avg_watch_time_ms": 10850,
+        "reels_skip_rate": 0.5,
+        "ig_reels_video_view_total_time_ms": 4448500
+      },
+      "source": "fixture",
+      "flags": {
+        "repost": true
+      }
+    },
+    {
+      "id": "r07",
+      "permalink": "https://www.instagram.com/reel/R07XYZ/",
+      "timestamp": "2025-07-15T17:40:00Z",
+      "caption": "The one thing everyone forgets on a first date. Not the wallet.",
+      "thumbnail_url": "https://example.invalid/r07.jpg",
+      "duration_s": 27,
+      "duration_source": "user",
+      "insights": {
+        "views": 2100,
+        "reach": 1687,
+        "likes": 152,
+        "comments": 15,
+        "shares": 29,
+        "saved": 101,
+        "reposts": 1,
+        "total_interactions": 297,
+        "profile_visits": 39,
+        "ig_reels_avg_watch_time_ms": 15660,
+        "reels_skip_rate": null,
+        "ig_reels_video_view_total_time_ms": 32886000
+      },
+      "source": "fixture"
+    },
+    {
+      "id": "r08",
+      "permalink": "https://www.instagram.com/reel/R08XYZ/",
+      "timestamp": "2025-07-22T18:00:00Z",
+      "caption": "Outfit prep. Link in bio for the merch drop and use code SUMMER10 for 10% off #festivalfashion #outfit #ootd #style #glam #summer #fit",
+      "thumbnail_url": "https://example.invalid/r08.jpg",
+      "duration_s": null,
+      "duration_source": "unknown",
+      "insights": {
+        "views": 1900,
+        "reach": 1423,
+        "likes": 185,
+        "comments": 20,
+        "shares": 9,
+        "saved": 28,
+        "reposts": 0,
+        "total_interactions": 242,
+        "profile_visits": 17,
+        "ig_reels_avg_watch_time_ms": 10772,
+        "reels_skip_rate": 0.42,
+        "ig_reels_video_view_total_time_ms": 20466800
+      },
+      "source": "fixture",
+      "comments_sample": [
+        {
+          "text": "Influencer energy 🙄",
+          "timestamp": "2025-07-22T18:00:00Z"
+        },
+        {
+          "text": "Instagram vs reality lol",
+          "timestamp": "2025-07-22T18:00:00Z"
+        },
+        {
+          "text": "Sponsored much?",
+          "timestamp": "2025-07-22T18:00:00Z"
+        },
+        {
+          "text": "This is cringe",
+          "timestamp": "2025-07-22T18:00:00Z"
+        },
+        {
+          "text": "Same",
+          "timestamp": "2025-07-22T18:00:00Z"
+        },
+        {
+          "text": "Which lake?",
+          "timestamp": "2025-07-22T18:00:00Z"
+        },
+        {
+          "text": "Influencer energy 🙄",
+          "timestamp": "2025-07-22T18:00:00Z"
+        },
+        {
+          "text": "Instagram vs reality lol",
+          "timestamp": "2025-07-22T18:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "r09",
+      "permalink": "https://www.instagram.com/reel/R09XYZ/",
+      "timestamp": "2025-07-29T21:15:00Z",
+      "caption": "How we feed 40 people at the cookout without a single dish left dirty",
+      "thumbnail_url": "https://example.invalid/r09.jpg",
+      "duration_s": 19,
+      "duration_source": "user",
+      "insights": {
+        "views": 2600,
+        "reach": 1918,
+        "likes": 192,
+        "comments": 23,
+        "shares": 46,
+        "saved": 100,
+        "reposts": 2,
+        "total_interactions": 361,
+        "profile_visits": 51,
+        "ig_reels_avg_watch_time_ms": 12540,
+        "reels_skip_rate": 0.27,
+        "ig_reels_video_view_total_time_ms": 32604000
+      },
+      "source": "fixture",
+      "comments_sample": [
+        {
+          "text": "This is so beautiful 😍",
+          "timestamp": "2025-07-29T21:15:00Z"
+        },
+        {
+          "text": "Take me back",
+          "timestamp": "2025-07-29T21:15:00Z"
+        },
+        {
+          "text": "So good",
+          "timestamp": "2025-07-29T21:15:00Z"
+        },
+        {
+          "text": "Incredible",
+          "timestamp": "2025-07-29T21:15:00Z"
+        },
+        {
+          "text": "Love this",
+          "timestamp": "2025-07-29T21:15:00Z"
+        },
+        {
+          "text": "Which lake?",
+          "timestamp": "2025-07-29T21:15:00Z"
+        },
+        {
+          "text": "This is so beautiful 😍",
+          "timestamp": "2025-07-29T21:15:00Z"
+        },
+        {
+          "text": "Take me back",
+          "timestamp": "2025-07-29T21:15:00Z"
+        }
+      ]
+    },
+    {
+      "id": "r10",
+      "permalink": "https://www.instagram.com/reel/R10XYZ/",
+      "timestamp": "2025-08-05T16:30:00Z",
+      "caption": "Talking through our split-the-bill plan for 14 people. Ask questions below.",
+      "thumbnail_url": "https://example.invalid/r10.jpg",
+      "duration_s": 55,
+      "duration_source": "user",
+      "insights": {
+        "views": 880,
+        "reach": 682,
+        "likes": 34,
+        "comments": 10,
+        "shares": 3,
+        "saved": 19,
+        "reposts": 0,
+        "total_interactions": 66,
+        "profile_visits": 12,
+        "ig_reels_avg_watch_time_ms": 15950,
+        "reels_skip_rate": 0.48,
+        "ig_reels_video_view_total_time_ms": 14036000
+      },
+      "source": "fixture"
+    },
+    {
+      "id": "r11",
+      "permalink": "https://www.instagram.com/reel/R11XYZ/",
+      "timestamp": "2025-08-12T17:00:00Z",
+      "caption": "Packing list, no fluff",
+      "thumbnail_url": "https://example.invalid/r11.jpg",
+      "duration_s": null,
+      "duration_source": "unknown",
+      "insights": {
+        "views": 1500,
+        "reach": 1184,
+        "likes": 83,
+        "comments": 6,
+        "shares": 12,
+        "saved": 83,
+        "reposts": 1,
+        "total_interactions": 184,
+        "profile_visits": 29,
+        "ig_reels_avg_watch_time_ms": 11571,
+        "reels_skip_rate": 0.38,
+        "ig_reels_video_view_total_time_ms": 17356500
+      },
+      "source": "fixture"
+    },
+    {
+      "id": "r12",
+      "permalink": "https://www.instagram.com/reel/R12XYZ/",
+      "timestamp": "2025-08-19T15:00:00Z",
+      "caption": "Car is loaded. See you at the lake.",
+      "thumbnail_url": "https://example.invalid/r12.jpg",
+      "duration_s": 12,
+      "duration_source": "user",
+      "insights": {
+        "views": 1300,
+        "reach": 1000,
+        "likes": 100,
+        "comments": 7,
+        "shares": 11,
+        "saved": 6,
+        "reposts": 1,
+        "total_interactions": 124,
+        "profile_visits": 30,
+        "ig_reels_avg_watch_time_ms": 9840,
+        "reels_skip_rate": 0.3,
+        "ig_reels_video_view_total_time_ms": 12792000
+      },
+      "source": "fixture"
+    },
+    {
+      "id": "r13",
+      "permalink": "https://www.instagram.com/reel/R13XYZ/",
+      "timestamp": "2025-08-26T14:10:00Z",
+      "caption": "Breaking news: we are stranded at the lake, the road is closed and nobody has service",
+      "thumbnail_url": "https://example.invalid/r13.jpg",
+      "duration_s": 16,
+      "duration_source": "user",
+      "insights": {
+        "views": 38000,
+        "reach": 30833,
+        "likes": 2775,
+        "comments": 617,
+        "shares": 956,
+        "saved": 247,
+        "reposts": 48,
+        "total_interactions": 4595,
+        "profile_visits": 369,
+        "ig_reels_avg_watch_time_ms": 11200,
+        "reels_skip_rate": 0.22,
+        "ig_reels_video_view_total_time_ms": 425600000
+      },
+      "source": "fixture"
+    },
+    {
+      "id": "r14",
+      "permalink": "https://www.instagram.com/reel/R14XYZ/",
+      "timestamp": "2025-08-29T06:30:00Z",
+      "caption": "Sunrise at the lake. No words.",
+      "thumbnail_url": "https://example.invalid/r14.jpg",
+      "duration_s": 24,
+      "duration_source": "user",
+      "insights": {
+        "views": 9400,
+        "reach": 6267,
+        "likes": 877,
+        "comments": 56,
+        "shares": 163,
+        "saved": 188,
+        "reposts": 8,
+        "total_interactions": 1284,
+        "profile_visits": 87,
+        "ig_reels_avg_watch_time_ms": 17040,
+        "reels_skip_rate": 0.24,
+        "ig_reels_video_view_total_time_ms": 160176000
+      },
+      "source": "fixture",
+      "screenshot": {
+        "screenshot_kind": [
+          "retention",
+          "views_by_source",
+          "follower_split"
+        ],
+        "reel_hint": "Sunrise at the lake. No words.",
+        "retention_curve": [
+          {
+            "t_pct": 0,
+            "retained_pct": 100
+          },
+          {
+            "t_pct": 5,
+            "retained_pct": 91
+          },
+          {
+            "t_pct": 10,
+            "retained_pct": 86
+          },
+          {
+            "t_pct": 15,
+            "retained_pct": 83
+          },
+          {
+            "t_pct": 30,
+            "retained_pct": 79
+          },
+          {
+            "t_pct": 50,
+            "retained_pct": 76
+          },
+          {
+            "t_pct": 70,
+            "retained_pct": 74
+          },
+          {
+            "t_pct": 90,
+            "retained_pct": 72
+          },
+          {
+            "t_pct": 100,
+            "retained_pct": 78
+          }
+        ],
+        "skip_rate_pct": 24,
+        "views_by_source": {
+          "reels_tab": 5200,
+          "explore": 2100,
+          "home": 1500,
+          "profile": 400,
+          "other": 200
+        },
+        "follower_split": {
+          "followers_pct": 22,
+          "non_followers_pct": 78
+        },
+        "overview": {
+          "views": 9400,
+          "reach": 6267,
+          "avg_watch_time_s": 17,
+          "duration_s": 24
+        },
+        "legibility": "clear",
+        "notes": "fixture"
+      },
+      "comments_sample": [
+        {
+          "text": "This is so beautiful 😍",
+          "timestamp": "2025-08-29T06:30:00Z"
+        },
+        {
+          "text": "Take me back",
+          "timestamp": "2025-08-29T06:30:00Z"
+        },
+        {
+          "text": "So good",
+          "timestamp": "2025-08-29T06:30:00Z"
+        },
+        {
+          "text": "Incredible",
+          "timestamp": "2025-08-29T06:30:00Z"
+        },
+        {
+          "text": "Love this",
+          "timestamp": "2025-08-29T06:30:00Z"
+        },
+        {
+          "text": "Which lake?",
+          "timestamp": "2025-08-29T06:30:00Z"
+        },
+        {
+          "text": "This is so beautiful 😍",
+          "timestamp": "2025-08-29T06:30:00Z"
+        },
+        {
+          "text": "Take me back",
+          "timestamp": "2025-08-29T06:30:00Z"
+        }
+      ]
+    },
+    {
+      "id": "r15",
+      "permalink": "https://www.instagram.com/reel/R15XYZ/",
+      "timestamp": "2025-08-31T23:45:00Z",
+      "caption": "Last night at the lake. What people leave behind.",
+      "thumbnail_url": "https://example.invalid/r15.jpg",
+      "duration_s": 41,
+      "duration_source": "user",
+      "insights": {
+        "views": 6100,
+        "reach": 5423,
+        "likes": 597,
+        "comments": 60,
+        "shares": 103,
+        "saved": 222,
+        "reposts": 5,
+        "total_interactions": 982,
+        "profile_visits": 84,
+        "ig_reels_avg_watch_time_ms": 18040,
+        "reels_skip_rate": 0.33,
+        "ig_reels_video_view_total_time_ms": 110044000
+      },
+      "source": "fixture",
+      "comments_sample": [
+        {
+          "text": "This is so beautiful 😍",
+          "timestamp": "2025-08-31T23:45:00Z"
+        },
+        {
+          "text": "Take me back",
+          "timestamp": "2025-08-31T23:45:00Z"
+        },
+        {
+          "text": "So good",
+          "timestamp": "2025-08-31T23:45:00Z"
+        },
+        {
+          "text": "Incredible",
+          "timestamp": "2025-08-31T23:45:00Z"
+        },
+        {
+          "text": "Love this",
+          "timestamp": "2025-08-31T23:45:00Z"
+        },
+        {
+          "text": "Which lake?",
+          "timestamp": "2025-08-31T23:45:00Z"
+        },
+        {
+          "text": "This is so beautiful 😍",
+          "timestamp": "2025-08-31T23:45:00Z"
+        },
+        {
+          "text": "Take me back",
+          "timestamp": "2025-08-31T23:45:00Z"
+        }
+      ]
+    },
+    {
+      "id": "r16",
+      "permalink": "https://www.instagram.com/reel/R16XYZ/",
+      "timestamp": "2025-09-02T18:00:00Z",
+      "caption": "Instagram vs reality: my apartment on day 6 of the move #reality #honest #moving #tired #apartment #vanlife #real #life",
+      "thumbnail_url": "https://example.invalid/r16.jpg",
+      "duration_s": 33,
+      "duration_source": "user",
+      "insights": {
+        "views": 2700,
+        "reach": 2343,
+        "likes": 187,
+        "comments": 42,
+        "shares": 28,
+        "saved": 23,
+        "reposts": 1,
+        "total_interactions": 280,
+        "profile_visits": 69,
+        "ig_reels_avg_watch_time_ms": 13200,
+        "reels_skip_rate": 0.45,
+        "ig_reels_video_view_total_time_ms": 35640000
+      },
+      "source": "fixture",
+      "comments_sample": [
+        {
+          "text": "Influencer energy 🙄",
+          "timestamp": "2025-09-02T18:00:00Z"
+        },
+        {
+          "text": "Instagram vs reality lol",
+          "timestamp": "2025-09-02T18:00:00Z"
+        },
+        {
+          "text": "Sponsored much?",
+          "timestamp": "2025-09-02T18:00:00Z"
+        },
+        {
+          "text": "This is cringe",
+          "timestamp": "2025-09-02T18:00:00Z"
+        },
+        {
+          "text": "Same",
+          "timestamp": "2025-09-02T18:00:00Z"
+        },
+        {
+          "text": "Which lake?",
+          "timestamp": "2025-09-02T18:00:00Z"
+        },
+        {
+          "text": "Influencer energy 🙄",
+          "timestamp": "2025-09-02T18:00:00Z"
+        },
+        {
+          "text": "Instagram vs reality lol",
+          "timestamp": "2025-09-02T18:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "r17",
+      "permalink": "https://www.instagram.com/reel/R17XYZ/",
+      "timestamp": "2025-09-04T12:00:00Z",
+      "caption": "The drive home in 1 minute (it took 9 hours)",
+      "thumbnail_url": "https://example.invalid/r17.jpg",
+      "duration_s": 20,
+      "duration_source": "user",
+      "insights": {
+        "views": 4200,
+        "reach": 3654,
+        "likes": 365,
+        "comments": 29,
+        "shares": 73,
+        "saved": 44,
+        "reposts": 4,
+        "total_interactions": 511,
+        "profile_visits": 54,
+        "ig_reels_avg_watch_time_ms": 11000,
+        "reels_skip_rate": 0.35,
+        "ig_reels_video_view_total_time_ms": 46200000
+      },
+      "source": "fixture"
+    },
+    {
+      "id": "r18",
+      "permalink": "https://www.instagram.com/reel/R18XYZ/",
+      "timestamp": "2025-09-16T17:30:00Z",
+      "caption": "Post-trip thoughts",
+      "thumbnail_url": "https://example.invalid/r18.jpg",
+      "duration_s": 34,
+      "duration_source": "screenshot",
+      "insights": {
+        "views": 640,
+        "reach": 504,
+        "likes": 25,
+        "comments": 3,
+        "shares": 2,
+        "saved": 3,
+        "reposts": 0,
+        "total_interactions": 33,
+        "profile_visits": 10,
+        "ig_reels_avg_watch_time_ms": 7400,
+        "reels_skip_rate": 0.52,
+        "ig_reels_video_view_total_time_ms": 7413120
+      },
+      "source": "fixture",
+      "screenshot": {
+        "screenshot_kind": [
+          "retention",
+          "follower_split"
+        ],
+        "reel_hint": "Post-trip thoughts",
+        "retention_curve": [
+          {
+            "t_pct": 0,
+            "retained_pct": 100
+          },
+          {
+            "t_pct": 5,
+            "retained_pct": 62
+          },
+          {
+            "t_pct": 10,
+            "retained_pct": 48
+          },
+          {
+            "t_pct": 15,
+            "retained_pct": 41
+          },
+          {
+            "t_pct": 30,
+            "retained_pct": 30
+          },
+          {
+            "t_pct": 50,
+            "retained_pct": 22
+          },
+          {
+            "t_pct": 70,
+            "retained_pct": 17
+          },
+          {
+            "t_pct": 100,
+            "retained_pct": 11
+          }
+        ],
+        "skip_rate_pct": 52,
+        "views_by_source": {
+          "reels_tab": 210,
+          "explore": 40,
+          "home": 350,
+          "profile": 40,
+          "other": 0
+        },
+        "follower_split": {
+          "followers_pct": 81,
+          "non_followers_pct": 19
+        },
+        "overview": {
+          "views": 640,
+          "reach": 504,
+          "avg_watch_time_s": 7.4,
+          "duration_s": 34
+        },
+        "legibility": "clear",
+        "notes": "fixture"
+      }
+    },
+    {
+      "id": "r19",
+      "permalink": "https://www.instagram.com/reel/R19XYZ/",
+      "timestamp": "2025-10-07T19:00:00Z",
+      "caption": "3 things I'm changing for next summer",
+      "thumbnail_url": "https://example.invalid/r19.jpg",
+      "duration_s": 29,
+      "duration_source": "user",
+      "insights": {
+        "views": 1100,
+        "reach": 938,
+        "likes": 66,
+        "comments": 8,
+        "shares": 12,
+        "saved": 42,
+        "reposts": 1,
+        "total_interactions": 128,
+        "profile_visits": 14,
+        "ig_reels_avg_watch_time_ms": 15080,
+        "reels_skip_rate": 0.36,
+        "ig_reels_video_view_total_time_ms": 16588000
+      },
+      "source": "fixture"
+    },
+    {
+      "id": "r20",
+      "permalink": "https://www.instagram.com/reel/R20XYZ/",
+      "timestamp": "2025-11-18T18:00:00Z",
+      "caption": "Got the apartment. Here's the tour.",
+      "thumbnail_url": "https://example.invalid/r20.jpg",
+      "duration_s": 13,
+      "duration_source": "user",
+      "insights": {
+        "views": 1700,
+        "reach": 1314,
+        "likes": 158,
+        "comments": 16,
+        "shares": 24,
+        "saved": 29,
+        "reposts": 1,
+        "total_interactions": 227,
+        "profile_visits": 36,
+        "ig_reels_avg_watch_time_ms": 10400,
+        "reels_skip_rate": 0.26,
+        "ig_reels_video_view_total_time_ms": 17680000
+      },
+      "source": "fixture"
+    }
+  ]
+}

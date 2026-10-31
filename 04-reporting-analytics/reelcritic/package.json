@@ -1,0 +1,34 @@
+{
+  "name": "reelcritic",
+  "version": "0.1.0",
+  "description": "Instagram Reels analytics critique: what you're doing, why it's wrong, a better example, why it worked vs failed, what to change next.",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=22"
+  },
+  "bin": {
+    "reelcritic": "./dist/cli/index.js"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "dev": "tsx src/cli/index.ts",
+    "analyze": "tsx src/cli/index.ts analyze",
+    "pull": "tsx src/cli/index.ts pull",
+    "report": "tsx src/cli/index.ts report",
+    "test": "vitest run",
+    "test:live": "LIVE=1 vitest run test/critique/live.integration.test.ts"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "latest",
+    "commander": "^13.1.0",
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0",
+    "vitest": "^3.0.0"
+  }
+}

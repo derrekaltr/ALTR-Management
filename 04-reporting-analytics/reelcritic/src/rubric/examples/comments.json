@@ -1,0 +1,42 @@
+[
+  {
+    "id": "comment.pinned_binary_question",
+    "name": "Pin your own binary question in the first minute",
+    "when": { "failure_modes": ["low_comments", "no_conversation_seed"], "length_bands": ["7-15", "15-30", "30-60", "60+"], "value_types": ["entertaining", "provocative", "useful"] },
+    "template": "Post the first comment yourself, a two-option question that extends the premise, and pin it",
+    "examples": ["Okay but what's worse? Gym crush or work crush?? 😩", "Be honest: text back in 2 minutes or 2 days?"],
+    "mechanism": "Gives every viewer a zero-effort comment; the pinned thread becomes the conversation hub, and reply count on a pinned comment is engagement on the Reel.",
+    "anti_pattern": "'Comment YES', 'tag a friend', 'like if' — engagement bait is deprioritized.",
+    "observed": ["Pinned question on a 1.9M Reel: 71 likes, 14 direct replies, and seeded threads with 40+ replies"]
+  },
+  {
+    "id": "comment.reply_inside_top_thread",
+    "name": "Reply inside the top thread, in character",
+    "when": { "failure_modes": ["low_comments", "no_conversation_seed"], "length_bands": ["7-15", "15-30", "30-60", "60+"], "value_types": ["entertaining", "provocative"] },
+    "template": "Within the first hour, reply to the 2–3 highest-liked comments with one in-character line; do not thank people",
+    "examples": ["(to '0.0001% of men are 6'5') — that's why I said it", "(to 'why'd my boyfriend like this') — ask him"],
+    "mechanism": "Replies keep the top threads alive (each reply re-surfaces the thread), and the in-character voice extends the bit instead of breaking it.",
+    "anti_pattern": "'Thank you so much!!' on every comment; replying to hostile comments at all.",
+    "observed": ["The creator with the best views-to-followers ratio replies inside threads; the two larger accounts don't"]
+  },
+  {
+    "id": "comment.let_the_audience_quote",
+    "name": "Let the audience quote the bit",
+    "when": { "failure_modes": ["low_sends", "low_comments"], "length_bands": ["7-15", "15-30", "30-60"], "value_types": ["entertaining"] },
+    "template": "Write at least one line in the Reel that is short enough to be typed from memory — that line becomes the top comment",
+    "examples": ["'Steak is too lobstery… juice is full of butter' (46K likes as a comment)", "'I guess I'll stay for one more year…' (25K likes)"],
+    "mechanism": "A quotable line turns comments into a highlight reel of the video and turns comments into sends ('hello why'd my boyfriend like this').",
+    "anti_pattern": "Lines that only work with the face/timing; no single sentence a viewer can carry.",
+    "observed": ["Top comment on the 5.3M Reel is a quote from the Reel"]
+  },
+  {
+    "id": "comment.do_not_feed_hostile",
+    "name": "Don't answer hostile comments; answer the admiring one next to it",
+    "when": { "failure_modes": ["hostile_comments", "commercial_signal"], "length_bands": ["7-15", "15-30", "30-60", "60+"], "value_types": ["entertaining", "provocative", "useful", "conversion"] },
+    "template": "Never reply to 'influencer'/'cringe'/'sponsored' comments; reply to the admiring comment directly below it so the thread ordering favours the tone you want",
+    "examples": ["(skip 'Instagram vs reality lol'; reply to 'take me back' with 'same')"],
+    "mechanism": "Replies boost threads; boosting a hostile thread pins it under your Reel. Answering the neighbour instead raises the healthier thread.",
+    "anti_pattern": "Arguing; deleting comments in bulk (drops comment count).",
+    "observed": ["Visual-only account: zero creator replies, comment section is emoji noise; niche-community accounts: hostile threads rise when answered"]
+  }
+]

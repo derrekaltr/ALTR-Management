@@ -1,0 +1,42 @@
+[
+  {
+    "id": "caption.in_character_line",
+    "name": "One in-character line (second punchline)",
+    "when": { "failure_modes": ["caption_dead", "hashtag_stuffing", "engagement_bait", "low_comments"], "length_bands": ["7-15", "15-30", "30-60"], "value_types": ["entertaining", "provocative"] },
+    "template": "A single sentence the character would say, that only makes sense after watching",
+    "examples": ["Can I stay with you all day", "Are you coming next year?😇", "This is actually embarrassing 😭", "couldn't be me"],
+    "mechanism": "The caption is read after the Reel; a second punchline earns a like or a send on the way out. No hashtags, no summary, no CTA.",
+    "anti_pattern": "Describing what happens in the video; asking for follows.",
+    "observed": ["Every 1M+ skit Reel sampled used this or no caption"]
+  },
+  {
+    "id": "caption.two_words",
+    "name": "Two words or nothing",
+    "when": { "failure_modes": ["caption_dead", "hashtag_stuffing"], "length_bands": ["7-15", "15-30"], "value_types": ["entertaining", "conversion"] },
+    "template": "\"<Verb-ing> <direction/place>\" or no caption at all",
+    "examples": ["Going up⬆️", "Home time", "(no caption)"],
+    "mechanism": "For visual-first Reels the caption has no job; leaving it near-empty keeps the frame clean and lets the audio/visual carry it.",
+    "anti_pattern": "Hashtag blocks; a paragraph under a 9-second visual.",
+    "observed": ["48M Reel captioned 'Going up⬆️'; a 163K skit posted with no caption"]
+  },
+  {
+    "id": "caption.but_then_expander",
+    "name": "The line that expands the hook",
+    "when": { "failure_modes": ["low_saves", "caption_dead"], "length_bands": ["15-30", "30-60", "60+"], "value_types": ["useful"] },
+    "template": "One sentence that adds the detail the video deliberately left out (the number, the name, the exception), then stop",
+    "examples": ["It's the second thing on the list, not the first. Save this for packing week.", "Works for RDLs too — but only if you stop before lockout."],
+    "mechanism": "Gives a reason to read (and save) without repeating the video; a soft 'save this' embedded in a useful sentence is not engagement bait.",
+    "anti_pattern": "'SAVE THIS!!' as a standalone CTA; 20 hashtags.",
+    "observed": ["Practitioner pattern; the sampled skit accounts don't need it"]
+  },
+  {
+    "id": "caption.question_that_the_video_answers_wrong",
+    "name": "A question the video answers badly on purpose",
+    "when": { "failure_modes": ["low_comments", "no_conversation_seed"], "length_bands": ["7-15", "15-30", "30-60"], "value_types": ["provocative", "entertaining"] },
+    "template": "\"<Two options>?\" where the video clearly picks the wrong one",
+    "examples": ["Gym crush or work crush?", "Text back in 2 minutes or 2 days?"],
+    "mechanism": "Disagreement is the comment driver; a binary choice makes commenting effortless and keeps replies civil enough to stay.",
+    "anti_pattern": "'Comment YES if you agree' — that is bait and gets deprioritized.",
+    "observed": ["Used as a pinned comment on a 1.9M Reel; 14 replies on the pin, 40+ on the seeded thread"]
+  }
+]
