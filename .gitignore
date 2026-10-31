@@ -8,3 +8,10 @@ dist/
 *.log
 .env
 .env.local
+.next/
+.pgdata/
+.data/
+out/
+*.tsbuildinfo
+.pytest_cache/
+.turbo/
