@@ -7,37 +7,37 @@ Status: ✅ migrated (copied + checksum-verified + committed) · 🗑 source del
 **On disk but not in git** (gitignored, preserved in the destination folder only): `trial-reels-pipeline/.pgdata/` (local dev Postgres; production data is in Neon), `weekly-edit-story-planner/.data/` (local PGlite), `weekly-client-chat-reports/config/telegram.ini` and `model-social-monitor/config/*.session` (credentials), any `.env*` files.
 **Security note:** an Apify API token quoted inside lead-checkup iMessage transcripts was redacted before pushing (GitHub push protection flagged it). The token itself was exposed in those texts — consider rotating it at apify.com.
 
-## ALTR Management → migrated into this repo (source delete pending owner OK)
+## ALTR Management → migrated into this repo (sources deleted 2026-10-31 — 5.5GB reclaimed)
 
 | Old project | Source | Destination | Status | Notes |
 |---|---|---|---|---|
-| altr-master-intake | ws `altr-master-intake` | `01-clients-onboarding/master-intake-forms/` | ✅ | |
-| new-model-checkups | ws `new-model-checkups` | `01-clients-onboarding/altr-checkin/` | ✅ | |
-| mikayla | repo `mikayla` @13c7a21a | `01-clients-onboarding/mikayla-pricing-deck/` | ✅ | |
-| modelsniche | repo `modelsniche` (2 branches) | `02-outreach-sales/modelsniche/<branch>/` | ✅ | |
-| operation-swapd | ws `operation-swapd` | `02-outreach-sales/swapd-listing-outreach/` | ✅ | |
-| ofm-cook | ws `ofm-cook` | `02-outreach-sales/agency-growth-research/` | ✅ | |
-| txt | ws `txt` | `02-outreach-sales/txtcom-messaging/` | ✅ | |
-| creator-mutuals-heat-map-crm | ws `Starter project/chennai` | `02-outreach-sales/creator-mutuals-crm/` | ✅ | |
-| content-scripts (OF script GPT) | ws `content-scripts/rome` | `03-content-ops/onlyfans-content-script-gpt/` | ✅ | |
-| content-scripts (gdrive folders) | ws `content-scripts/tyler` | `03-content-ops/google-drive-folder-create/` | ✅ | |
-| close-friends-schedule | ws `close-friends-schedule` | `03-content-ops/weekly-edit-story-planner/` | ✅ | deployed app (The Weekly Edit) |
-| trial-reels-cook | ws `trial-reels-cook` | `03-content-ops/trial-reels-pipeline/` | ✅ | `.pgdata` kept on disk only |
-| implied-script | ws `implied-script` | `03-content-ops/implied-script-outlines/` | ✅ | |
-| content-drop-automation | ws `Starter project/delhi` | `03-content-ops/content-drop-automation/` | ✅ | |
-| clientgroupchatreports | ws `clientgroupchatreports` | `04-reporting-analytics/weekly-client-chat-reports/` | ✅ | |
-| telegram-groupchat-analysis | ws `telegram-groupchat-analysis` | `04-reporting-analytics/invoice-chat-audit/` | ✅ | |
-| lead-check-up | ws `lead-check-up` | `04-reporting-analytics/lead-checkup-case-board/` | ✅ | excl. scratch DB snapshots (chat.db 2.1G, wa.sqlite, *.jsonl) — re-copyable from live Messages/WhatsApp |
-| analyze-client-groupchat-data | ws `Starter project/nairobi` | `04-reporting-analytics/client-chat-analysis/` | ✅ | |
-| creatorsteroids (reelcritic) | ws `creatorsteroids` | `04-reporting-analytics/reelcritic/` | ✅ | |
-| sauce-the-brown-carpet-riders | ws `sauce-the-brown-carpet-riders` | `04-reporting-analytics/client-case-cards/` | ✅ | |
-| research-alberto-riehl-scams | ws `Starter project/geneva` | `04-reporting-analytics/alberto-riehl-research/` | ✅ | |
-| client-ig-scraper | ws `client-ig-scraper` | `05-tools-automation/ig-follower-lead-scraper/` | ✅ | excl. raw Apify dumps (`profiles_raw`/`followers_raw` jsonl, logs); final lead CSVs kept |
-| conctact-list-creator (enricher) | ws `conctact-list-creator/santo-domingo` | `05-tools-automation/contact-enricher/` | ✅ | |
-| model-ig-update | ws `model-ig-update` | `05-tools-automation/model-social-monitor/` | ✅ | |
-| platform-review-and-tester | ws `platform-review-and-tester` | `06-ops-admin/wisfma-ux-audit/` | ✅ | |
-| ig-audit | ws `ig-audit` | `04-reporting-analytics/creator-audit-system/` | ✅ | includes snapstar rubric + 10 client audit PDFs |
-| pre-snapstar-account-review | ws `pre-snapstar-account-review` | `04-reporting-analytics/creator-audit-system/snapstar/` | ✅ | capture tool + client outputs; rubric already lived in ig-audit |
+| altr-master-intake | ws `altr-master-intake` | `01-clients-onboarding/master-intake-forms/` | ✅ 🗑 | |
+| new-model-checkups | ws `new-model-checkups` | `01-clients-onboarding/altr-checkin/` | ✅ 🗑 | |
+| mikayla | repo `mikayla` @13c7a21a | `01-clients-onboarding/mikayla-pricing-deck/` | ✅ 🗑 | |
+| modelsniche | repo `modelsniche` (2 branches) | `02-outreach-sales/modelsniche/<branch>/` | ✅ 🗑 | |
+| operation-swapd | ws `operation-swapd` | `02-outreach-sales/swapd-listing-outreach/` | ✅ 🗑 | |
+| ofm-cook | ws `ofm-cook` | `02-outreach-sales/agency-growth-research/` | ✅ 🗑 | |
+| txt | ws `txt` | `02-outreach-sales/txtcom-messaging/` | ✅ 🗑 | |
+| creator-mutuals-heat-map-crm | ws `Starter project/chennai` | `02-outreach-sales/creator-mutuals-crm/` | ✅ 🗑 | |
+| content-scripts (OF script GPT) | ws `content-scripts/rome` | `03-content-ops/onlyfans-content-script-gpt/` | ✅ 🗑 | |
+| content-scripts (gdrive folders) | ws `content-scripts/tyler` | `03-content-ops/google-drive-folder-create/` | ✅ 🗑 | |
+| close-friends-schedule | ws `close-friends-schedule` | `03-content-ops/weekly-edit-story-planner/` | ✅ 🗑 | deployed app (The Weekly Edit) |
+| trial-reels-cook | ws `trial-reels-cook` | `03-content-ops/trial-reels-pipeline/` | ✅ 🗑 | `.pgdata` kept on disk only |
+| implied-script | ws `implied-script` | `03-content-ops/implied-script-outlines/` | ✅ 🗑 | |
+| content-drop-automation | ws `Starter project/delhi` | `03-content-ops/content-drop-automation/` | ✅ 🗑 | |
+| clientgroupchatreports | ws `clientgroupchatreports` | `04-reporting-analytics/weekly-client-chat-reports/` | ✅ 🗑 | |
+| telegram-groupchat-analysis | ws `telegram-groupchat-analysis` | `04-reporting-analytics/invoice-chat-audit/` | ✅ 🗑 | |
+| lead-check-up | ws `lead-check-up` | `04-reporting-analytics/lead-checkup-case-board/` | ✅ 🗑 | excl. scratch DB snapshots (chat.db 2.1G, wa.sqlite, *.jsonl) — re-copyable from live Messages/WhatsApp |
+| analyze-client-groupchat-data | ws `Starter project/nairobi` | `04-reporting-analytics/client-chat-analysis/` | ✅ 🗑 | |
+| creatorsteroids (reelcritic) | ws `creatorsteroids` | `04-reporting-analytics/reelcritic/` | ✅ 🗑 | |
+| sauce-the-brown-carpet-riders | ws `sauce-the-brown-carpet-riders` | `04-reporting-analytics/client-case-cards/` | ✅ 🗑 | |
+| research-alberto-riehl-scams | ws `Starter project/geneva` | `04-reporting-analytics/alberto-riehl-research/` | ✅ 🗑 | |
+| client-ig-scraper | ws `client-ig-scraper` | `05-tools-automation/ig-follower-lead-scraper/` | ✅ 🗑 | excl. raw Apify dumps (`profiles_raw`/`followers_raw` jsonl, logs); final lead CSVs kept |
+| conctact-list-creator (enricher) | ws `conctact-list-creator/santo-domingo` | `05-tools-automation/contact-enricher/` | ✅ 🗑 | |
+| model-ig-update | ws `model-ig-update` | `05-tools-automation/model-social-monitor/` | ✅ 🗑 | |
+| platform-review-and-tester | ws `platform-review-and-tester` | `06-ops-admin/wisfma-ux-audit/` | ✅ 🗑 | |
+| ig-audit | ws `ig-audit` | `04-reporting-analytics/creator-audit-system/` | ✅ 🗑 | includes snapstar rubric + 10 client audit PDFs |
+| pre-snapstar-account-review | ws `pre-snapstar-account-review` | `04-reporting-analytics/creator-audit-system/snapstar/` | ✅ 🗑 | capture tool + client outputs; rubric already lived in ig-audit |
 
 ## ❓ Resolved by owner 2026-10-31
 
