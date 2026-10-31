@@ -1,0 +1,32 @@
+# Copy this file to config/models.yaml and edit it.
+#
+# For each model:
+#   name             — display name used in Telegram updates
+#   instagram        — Instagram username (omit the line if she has no IG)
+#   tiktok           — TikTok username without the @ (omit if none)
+#   telegram_chat_id — the -100... id of her dedicated Telegram channel
+#                      (the bot must be an admin there; see SETUP.md)
+
+poll:
+  results_limit: 8   # how many recent posts to fetch per account per check
+
+  # Instagram Stories. Every ACTIVE story is billed by Apify on every fetch
+  # (~$2.50 per 1,000), so stories are polled on their own slower interval.
+  # 30 min keeps costs modest; lower it for tighter real-time coverage.
+  include_stories: true
+  stories_min_interval_minutes: 30
+
+models:
+  - name: Amber Hayes
+    instagram: amberhayes
+    tiktok: amber.hayes
+    telegram_chat_id: -1001234567890
+
+  - name: Sarah H
+    instagram: sarah.h
+    telegram_chat_id: -1001234567891
+
+  - name: Vale Rae
+    instagram: valerae
+    tiktok: vale.rae
+    telegram_chat_id: -1001234567892

@@ -1,0 +1,18 @@
+# Secrets and per-deployment config
+.env
+config/models.yaml
+config/channel_invites.md
+*.session
+*.session-journal
+
+# Runtime state and logs
+data/
+logs/
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "7412345678901234567",
+    "text": "get ready with me for a night out 💄",
+    "createTime": 1758823451,
+    "createTimeISO": "2026-09-25T17:24:11.000Z",
+    "webVideoUrl": "https://www.tiktok.com/@vale.rae/video/7412345678901234567",
+    "videoMeta": {
+      "coverUrl": "https://p16-sign-va.tiktokcdn.com/obj/cover.jpeg?x-expires=123",
+      "duration": 34
+    },
+    "authorMeta": {
+      "name": "Vale.Rae",
+      "nickName": "vale 🌸"
+    }
+  },
+  {
+    "errorCode": "private_profile",
+    "error": "Profile is private",
+    "input": "some_private_user"
+  },
+  {
+    "id": "7412345678901234568",
+    "text": "",
+    "createTime": 1758736800,
+    "webVideoUrl": "https://www.tiktok.com/@amber.hayes/video/7412345678901234568",
+    "videoMeta": {},
+    "authorMeta": {
+      "name": "amber.hayes"
+    }
+  }
+]

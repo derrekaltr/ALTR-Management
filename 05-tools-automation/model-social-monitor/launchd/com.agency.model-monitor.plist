@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.agency.model-monitor</string>
+
+    <!-- Replace every __REPO_PATH__ below with the absolute path to this
+         repository, e.g. /Users/you/model-monitor (SETUP.md has a one-liner
+         that does this for you). launchd requires absolute paths. -->
+    <key>ProgramArguments</key>
+    <array>
+        <string>__REPO_PATH__/venv/bin/python</string>
+        <string>-m</string>
+        <string>model_monitor</string>
+        <string>check</string>
+    </array>
+
+    <key>WorkingDirectory</key>
+    <string>__REPO_PATH__</string>
+
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>PYTHONPATH</key>
+        <string>__REPO_PATH__/src</string>
+    </dict>
+
+    <!-- Run every 15 minutes (900 seconds). -->
+    <key>StartInterval</key>
+    <integer>900</integer>
+
+    <key>RunAtLoad</key>
+    <true/>
+
+    <key>StandardOutPath</key>
+    <string>__REPO_PATH__/logs/launchd.out.log</string>
+    <key>StandardErrorPath</key>
+    <string>__REPO_PATH__/logs/launchd.err.log</string>
+
+    <key>KeepAlive</key>
+    <false/>
+</dict>
+</plist>
