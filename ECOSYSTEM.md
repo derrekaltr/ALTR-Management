@@ -14,6 +14,7 @@ Conductor workspaces for now, flagged here for a future migration into their own
 | legacy-verification | `repos/legacy-verification/` | Google Knowledge Panel / verification guide (131 commits) |
 | mr-jones-online-cleanup | `repos/mr-jones-online-cleanup/` | Negative reviews audit / reputation cleanup |
 | don-resin-makes-it-into-heaven | `repos/don-resin-makes-it-into-heaven/` | Reputation search/cleanup |
+| vivek update sheet / IG-unban cases | `workspaces/conctact-list-creator/brussels/` | Pending IG-unban case tracking + Vivek update sheet (xlsx/md) |
 
 ## ALTR Media Group — phone farm, theme/meme pages, music promotion
 
@@ -27,3 +28,4 @@ Conductor workspaces for now, flagged here for a future migration into their own
 | tweet-reels-extraction | `workspaces/tweet-reels-extraction/` | Harvested meme-tweet docx libraries |
 | social-media-influencer-audio-seeding | `repos/social-media-influencer-audio-seeding/` | Audio seeding via influencers |
 | music-crowdfunding-chart-engine | `workspaces/Starter project/music-crowdfunding-chart-engine/` | (no artifacts yet) |
+| ig-trending-sound-reports | `workspaces/ig-trending-sound-reports/` (+ `Starter project/bordeaux`) | Reels trending-audio analytics reports (reel-reporter scripts) |

@@ -36,19 +36,21 @@ Status: ✅ migrated (copied + checksum-verified + committed) · 🗑 source del
 | conctact-list-creator (enricher) | ws `conctact-list-creator/santo-domingo` | `05-tools-automation/contact-enricher/` | ✅ | |
 | model-ig-update | ws `model-ig-update` | `05-tools-automation/model-social-monitor/` | ✅ | |
 | platform-review-and-tester | ws `platform-review-and-tester` | `06-ops-admin/wisfma-ux-audit/` | ✅ | |
+| ig-audit | ws `ig-audit` | `04-reporting-analytics/creator-audit-system/` | ✅ | includes snapstar rubric + 10 client audit PDFs |
+| pre-snapstar-account-review | ws `pre-snapstar-account-review` | `04-reporting-analytics/creator-audit-system/snapstar/` | ✅ | capture tool + client outputs; rubric already lived in ig-audit |
 
-## ❓ Awaiting owner decision (not touched until answered)
+## ❓ Resolved by owner 2026-10-31
 
-| Project | Content | Question |
+| Project | Decision | Outcome |
 |---|---|---|
-| ig-audit | ALTR Creator Audit system (IG compliance PDFs for creator clients) | Management (client reports) or Services (IG compliance/recovery)? |
-| pre-snapstar-account-review | Snapchat gold-star verification-readiness audit | Management or Services? |
-| conctact-list-creator (vivek sheet, ws `brussels`) | Vivek update sheet + pending IG-unban case tracking | Management reporting or Services (unbans)? |
-| email-clean-up | gmail-triage: auto-labels 3 Gmail accounts, feeds Jarvis dashboard | Company ops or personal infra (leave)? |
-| alex-camus-investigation | Finance investigation reports (3 HTML reports) | ALTR business or personal? |
-| ig-trending-sound-reports (+ `Starter/bordeaux`) | Reels trending-audio analytics reports | Management content ops or Media Group (music promo)? |
-| statly | Reverse-engineering of Statly app (39 files in repo) | Management tooling research or skip? |
-| find-password / finding-passwords / secure-passwords | Login/credential extraction utilities | Left alone by default (sensitive). Migrate to 06-ops-admin or leave? |
+| ig-audit | ALTR Management | ✅ migrated → `04-reporting-analytics/creator-audit-system/` |
+| pre-snapstar-account-review | Owner thought it was a copy of ig-audit — partially true: the rubric was folded into ig-audit (`rubric/07-snapstar-review.md`), but the Python capture/report tool + client outputs were unique | ✅ migrated → `04-reporting-analytics/creator-audit-system/snapstar/` |
+| conctact-list-creator (vivek sheet, ws `brussels`) | ALTR Services | 🔗 indexed, left in place (workspace kept; only the contact-enricher worktree is deleted) |
+| email-clean-up | Personal | ⏭ left alone |
+| alex-camus-investigation | Personal | ⏭ left alone |
+| ig-trending-sound-reports (+ `Starter/bordeaux`) | ALTR Media Group | 🔗 indexed, left in place |
+| statly | Old — delete | 🗑 repo deleted, nothing migrated |
+| find-password / finding-passwords / secure-passwords | Old — delete | 🗑 repos deleted, nothing migrated |
 
 ## 🔗 Sister companies — indexed in ECOSYSTEM.md, left in place
 
