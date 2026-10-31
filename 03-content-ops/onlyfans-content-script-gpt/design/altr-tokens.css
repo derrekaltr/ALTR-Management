@@ -1,0 +1,62 @@
+/* ============================================================
+   ALTR · Report Brand Tokens
+   Canonical design tokens for every ALTR-branded report/doc
+   (script outlines, content packs, weekly reports, quotes).
+   Source of truth reverse-engineered from quote.altrservices.com
+   and used by site/assets/style.css + the PDF pack export.
+   ============================================================ */
+
+:root {
+  /* ---- color: surfaces ---- */
+  --ink:        #1d1d1b;                      /* page background. ALWAYS. Never white. */
+  --ink-raise:  #242422;                      /* raised cells (summary grid, stat tiles) */
+  --ink-line:       rgba(235, 236, 220, 0.14); /* standard hairline dividers */
+  --ink-line-soft:  rgba(235, 236, 220, 0.08); /* secondary/faint dividers */
+
+  /* ---- color: text ---- */
+  --bone:       #ebecdc;                      /* primary text + heavy display type */
+  --bone-faint: rgba(235, 236, 220, 0.9);     /* secondary text, labels, captions */
+
+  /* ---- color: accent (use sparingly — mint is seasoning, not a surface) ---- */
+  --mint:       #b6f2e5;                      /* accent: kickers, links, highlights, filled panels */
+  --mint-dim:   rgba(182, 242, 229, 0.55);    /* muted accent (separators in crumbs etc.) */
+  --mint-wash:  rgba(182, 242, 229, 0.06);    /* accent row/chip background tint */
+  --on-mint:    #1d1d1b;                      /* text on mint surfaces = ink, never white */
+
+  /* ---- typography ---- */
+  --sans: "Archivo", "Helvetica Neue", sans-serif;        /* display + body */
+  --mono: "Spline Sans Mono", "SF Mono", monospace;       /* labels, meta, data */
+  /* Google Fonts import (both families, variable Archivo):
+     https://fonts.googleapis.com/css2?family=Archivo:ital,wdth,wght@0,62..125,100..900;1,62..125,100..900&family=Spline+Sans+Mono:wght@400;500&display=swap */
+
+  /* Display type recipe (headlines):
+       font-family: var(--sans); font-weight: 800; font-stretch: 118%;
+       text-transform: uppercase; line-height 1.0–1.02; letter-spacing -0.005 to -0.015em
+     Sizes: h1 clamp(42px, 6.6vw, 76px) · h2 clamp(24px, 3vw, 33px) · stat values 40px */
+
+  /* Mono label recipe (kickers, chips, table headers, legal):
+       font-family: var(--mono); text-transform: uppercase;
+       size 10–13px · letter-spacing 0.12–0.3em (smaller size = wider tracking) */
+
+  /* Body: var(--sans) 400 · 15–17px · line-height 1.6 · color bone/bone-faint */
+
+  /* ---- shape & spacing ---- */
+  --radius-pill:  999px;   /* chips, badges, CTA buttons */
+  --radius-panel: 4px;     /* mint panels; keep corners nearly square elsewhere */
+  --page-max:     1060px;  /* content column, side padding 48px (26px tablet, 18px phone) */
+  --section-gap:  100px;   /* vertical rhythm between numbered sections */
+}
+
+/* ---- grain overlay: apply to body::before on every report ---- */
+/* content:""; position:fixed; inset:0; pointer-events:none; z-index:999; opacity:0.6;
+   background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 250 250' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.05'/%3E%3C/svg%3E"); */
+
+/* ---- reveal animation: .rise + stagger delays .d1–.d4 ---- */
+/* @keyframes rise { from { opacity:0; transform:translateY(22px); } to { opacity:1; transform:none; } }
+   .rise { animation: rise 0.85s cubic-bezier(0.22,1,0.36,1) both; }
+   delays: .d1 0.08s · .d2 0.18s · .d3 0.28s · .d4 0.4s */
+
+/* ---- print/PDF ---- */
+/* @page size A4 margin 0 · print-color-adjust: exact (the dark ink prints/exports as-is)
+   PDF pages: 210mm wide, min-height 297mm, padding 13mm 15mm 11mm
+   Briefs with 7+ table rows switch to the dense scale (see site/build.js packPage) */
