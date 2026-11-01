@@ -1,6 +1,17 @@
 # Google Drive Structure (derrek@altrmgmt.com)
 
-Reorganized 2026-10-31. My Drive root contains exactly five folders:
+Reorganized 2026-10-31. My Drive root contains exactly five folders (listed below).
+
+## Shared Drives (altrmgmt.com Workspace — org-owned)
+| Drive | ID | Notes |
+|---|---|---|
+| ALTR Management | `0AAxKe63jpg3eUk9PVA` | destination for the My Drive ALTR Management sections (move pending) |
+| ALTR Services | `0AGCL7ABvPSjqUk9PVA` | destination for Services content incl. gmail transfers (Ban Reason Screenshots etc.) |
+| ALTR Media Group | `0AEhNL8Q5Xn6WUk9PVA` | destination for Media Group content |
+| ALTR Google Knowled… (ex-"ALTR Clients") | — | pre-existing, renamed by Derrek |
+
+derrekpbrown@gmail.com is a member (content manager) of all three new drives so it can MOVE its folders in — ownership transfers to the org on move. Gmail-owned transfer candidates: ALTR MGMT (Social Depot) → Management, Accounting + Legal → Management, SWAPD Marketplace Offers → Management, Ban Reason Screenshots → Services, Big Red/New New → stays with Twitter Operation (Derrek's call).
+Loose gmail sheets were API-copied into company folders 2026-11-01 (MC x ALTR Reporting, Sarah H Referrals, ALTR Owed, ALTR Master, Shehab Recoveries, 6 Media sheets, etc.) — gmail originals still exist.
 
 ## ALTR Management/  (mirrors this repo's sections)
 - **01 Clients & Onboarding/** — Client Calls, ALTR Streamers, and `Client Content/` (per-client folders: Kartik @Muscle_Masala, Isa Content + Isa Social Revamp, @Zaynacharm, Lina, @Momycarterx, @tia.theofficial, Lexi (Tyler), ALTR Promo Uploads with per-creator promo subfolders)
