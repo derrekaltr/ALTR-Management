@@ -13,6 +13,15 @@ Reorganized 2026-10-31. My Drive root contains exactly five folders (listed belo
 derrekpbrown@gmail.com is a member (content manager) of all three new drives so it can MOVE its folders in — ownership transfers to the org on move. Gmail-owned transfer candidates: ALTR MGMT (Social Depot) → Management, Accounting + Legal → Management, SWAPD Marketplace Offers → Management, Ban Reason Screenshots → Services, Big Red/New New → stays with Twitter Operation (Derrek's call).
 Loose gmail sheets were API-copied into company folders 2026-11-01 (MC x ALTR Reporting, Sarah H Referrals, ALTR Owed, ALTR Master, Shehab Recoveries, 6 Media sheets, etc.) — gmail originals still exist.
 
+**Social Depot doc-tree migration (2026-11-01, via API copy, ~90 files now org-owned in the ALTR Management shared drive):**
+- 06/Contracts & Legal/Signed Contracts (22 client contracts + ARCHIVED - PREVIOUS CLIENTS with 7)
+- 06/Contracts & Legal/Contract Templates (Select templates + Regular Contract 6/12/MtM tiers + Performance Based 6/12)
+- 06/SOPs/{OFTV, Traffic Methods, Onboarding, Promo, Social Media (+Old Versions), Marketing Resources & Client Breakdown}
+- 06/Brand & Design/Social Depot Branding/{IG Highlight Covers, Pitchdeck (ALTR Pitch Deck.pdf), Logos/SVG+PNG}
+- 01/Onboarding Forms (responses) — 3 response sheets; the 2 LIVE Google Forms stay in gmail Social Depot on purpose (copying breaks their URLs)
+- 01/Client Content/Lexar Current Content Snares
+**NOT yet migrated:** Client Promo Content (~32 client video folders, mixed owners), Big Red/New New video libs, Haleigh Cox, Gwen. Gmail Social Depot must NOT be trashed until these move. Workspace edition is Business Starter: external gmail can never migrate others' files; domain users can (checkbox enabled).
+
 ## ALTR Management/  (mirrors this repo's sections)
 - **01 Clients & Onboarding/** — Client Calls, ALTR Streamers, and `Client Content/` (per-client folders: Kartik @Muscle_Masala, Isa Content + Isa Social Revamp, @Zaynacharm, Lina, @Momycarterx, @tia.theofficial, Lexi (Tyler), ALTR Promo Uploads with per-creator promo subfolders)
 - **02 Outreach & Sales/** — ALTR Marketplace, Marketing & Decks, Email Contacts & Leads, Accounts for Sale, ALTR Bio Promotion.pdf, altr.pptx (pitch deck), Piura Swim model sign-up form
