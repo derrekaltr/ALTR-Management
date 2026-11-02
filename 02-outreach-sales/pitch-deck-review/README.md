@@ -81,33 +81,13 @@ source resolution for a 1440 × 810 slide. Downsampling to 150 dpi should land b
 **Recommendation:** keep the current files as the print/present masters and produce a second
 `-email.pdf` of each. Do not compress over the originals.
 
-### 3.2 Both decks send prospects to the wrong brand's domain
-
-Both close slides show the same CTA:
-
-> `quote.altrservices.com ↗`
-
-That is the **Services** domain. The Management deck has its own live domain — `altrmgmt.com`
-resolves (Vercel) — and it isn't used anywhere in the deck. After twelve slides carefully
-establishing that Media, Management and Services are three separate engines with *"separate
-brands, separate contracts"* (Media 12), the final instruction sends everyone to the third one.
-
-A Media prospect who wants to buy network distribution lands on a page branded for IG recovery
-and verification. That is the single highest-cost error in either deck, because it sits on the
-one slide where the prospect is deciding whether to act.
-
-Checked live 2026-11-02: `quote.altrservices.com` resolves (Cloudflare), `altrmgmt.com`
-resolves (Vercel), `altrholdings.com` is NXDOMAIN — so the umbrella domain chosen in
-[domain-research](../../06-ops-admin/domain-research/README.md) is not yet registered and is not
-an option for the CTA today.
-
-### 3.3 The close slides have no contact details
+### 3.2 The close slides have no contact details
 
 Both closes carry a URL and nothing else. No name, no email, no phone, no Instagram handle,
 no calendar link. If the deck is forwarded internally — which is exactly what happens to a good
 deck — the recipient has no way to reach a person. Add a name and an email at minimum.
 
-### 3.4 Management 07: the headline and the chart describe different time periods
+### 3.3 Management 07: the headline and the chart describe different time periods
 
 The proof panel is chipped `FIVE CONSECUTIVE MONTHS` in its header, and under that header sits
 both the stat stack and the chart:
@@ -134,7 +114,7 @@ which.
 **Fix:** label the stat stack `LIFETIME TO DATE` (or `SINCE ONBOARDING`) and the chart
 `LAST 5 MONTHS · NET`. No number has to change.
 
-### 3.5 Management 09: third-party names and marks used as endorsement
+### 3.4 Management 09: third-party names and marks used as endorsement
 
 The roster slide shows twelve celebrity headshots under the header
 `PAST & PRESENT CLIENTS · TALENT` — Floyd Mayweather, Diplo, Snoop Dogg, Wiz Khalifa, The
@@ -165,9 +145,9 @@ Every hard number in both decks, and whether the two agree.
 | Claim | Management | Media | Status |
 |---|---|---|---|
 | 20+ exclusive creators | 01, 09, 13 | — | consistent |
-| $5.97M flagship gross | 01, 07, 13 | — | see §3.4 |
-| $4.78M net | 07 | — | **conflicts with chart — §3.4** |
-| $3.8M fan messaging | 07 | — | see §3.4 |
+| $5.97M flagship gross | 01, 07, 13 | — | see §3.3 |
+| $4.78M net | 07 | — | **conflicts with chart — §3.3** |
+| $3.8M fan messaging | 07 | — | see §3.3 |
 | +150% 5-mo net growth | 07 | — | ✓ matches chart |
 | LA · MIA content houses | 01, 04 | — | consistent |
 | 2,000+ owned pages | 04, 05, 09, 11, 12, 13 | 01, 02, 03, 04, 12, 13 | consistent |
@@ -179,7 +159,7 @@ Every hard number in both decks, and whether the two agree.
 | +718% non-follower growth | — | 09 | Media only |
 
 Cross-deck numbers are clean — rounding is the only difference and it rounds honestly. The one
-real defect is §3.4.
+real defect is §3.3.
 
 ### 4.1 The evidence base is one account and one campaign
 
@@ -274,16 +254,25 @@ who receives both — which is the explicit plan, given the ecosystem slide and 
 bundle" model — sees it four times. Each deck should have its own hero. The chain reads as
 "ALTR" generally; it says nothing specific about either management or distribution.
 
-### 6.2 The third company has two names, two slides apart, in the same deck
+### 6.2 The quote domain is shared on purpose
+
+Both closes read `quote.altrservices.com`. That is the **shared intake form for all three
+companies**, not a Media or Management deck pointing at the Services brand by mistake — recorded
+here so it does not get re-raised as a defect. The only open question is cosmetic: the visible
+string says *altrservices* on sheets badged Media and Management. If the umbrella domain from
+[domain-research](../../06-ops-admin/domain-research/README.md) is ever registered, a neutral
+alias onto the same form would read cleaner across all three. Not a problem today.
+
+### 6.3 The third company has two names, two slides apart, in the same deck
 
 - Media **10**, model 06: *"**Media, Signal, and Management** combined as one engagement."*
 - Media **12**: the third row is labelled **`SERVICES`**.
 
 `ECOSYSTEM.md` calls it "ALTR Services (Signal)", so both are defensible in isolation — but not
-two slides apart in one deck. Pick the client-facing name and use it everywhere. Given the CTA
-domain is `altrservices.com`, **Services** is the consistent choice.
+two slides apart in one deck. Pick the client-facing name and use it everywhere. Given the shared
+quote form already lives on `altrservices.com`, **Services** is the consistent choice.
 
-### 6.3 Typographic orphans in the mono labels
+### 6.4 Typographic orphans in the mono labels
 
 Two slides break a mono label across lines in a way that reads as a bug:
 
@@ -315,19 +304,18 @@ Not scoped as work here — flagged for a decision.
 
 | # | Fix | Where | Why |
 |---|---|---|---|
-| 1 | Point the CTA at the right brand's domain | both, slide 13 | §3.2 — wrong brand on the one slide that asks for action |
-| 2 | Label the stat stack lifetime, the chart last-5-months | Mgmt 07 | §3.4 — currently reads as ~5× inflated |
-| 3 | Produce ~3–6 MB `-email.pdf` copies; keep originals as masters | both | §3.1 — Management can't be attached at all |
-| 4 | Split roster into exclusive roster vs worked-with; keep only evidenced marks | Mgmt 09 | §3.5 — publicity/trademark exposure + overclaim by adjacency |
-| 5 | Add a name and an email to both closes | both, slide 13 | §3.3 — forwarded decks currently dead-end |
-| 6 | Add one network-scale figure (total followers or monthly impressions) | Media, new slide | §4.1 — the core thesis is never quantified |
-| 7 | Settle Services vs Signal; apply everywhere | Media 10 & 12 | §6.2 — contradicts itself two slides apart |
-| 8 | Give each deck its own hero image | both, 01 & 13 | §6.1 — same render four times |
-| 9 | Move the cleanest proof earlier (Mgmt 08 → ~04; Media 08 → ~04) | both | §5 — best evidence arrives too late in both |
-| 10 | Fix the two mono-label line breaks | Mgmt 04, Media 04 | §6.3 — reads as a rendering fault |
-| 11 | Add roster-level results, not just the flagship account | Mgmt, new slide | §4.1 — one account proving a 20-creator agency |
-| 12 | Add a price anchor | Media 10 | §5 — six models, no numbers |
-| 13 | Recover or rebuild editable source | — | §7 — makes fixes 1–12 cheap instead of expensive |
+| 1 | Label the stat stack lifetime, the chart last-5-months | Mgmt 07 | §3.3 — currently reads as ~5× inflated |
+| 2 | Produce ~3–6 MB `-email.pdf` copies; keep originals as masters | both | §3.1 — Management can't be attached at all |
+| 3 | Split roster into exclusive roster vs worked-with; keep only evidenced marks | Mgmt 09 | §3.4 — publicity/trademark exposure + overclaim by adjacency |
+| 4 | Add a name and an email to both closes | both, slide 13 | §3.2 — forwarded decks currently dead-end |
+| 5 | Add one network-scale figure (total followers or monthly impressions) | Media, new slide | §4.1 — the core thesis is never quantified |
+| 6 | Settle Services vs Signal; apply everywhere | Media 10 & 12 | §6.3 — contradicts itself two slides apart |
+| 7 | Give each deck its own hero image | both, 01 & 13 | §6.1 — same render four times |
+| 8 | Move the cleanest proof earlier (Mgmt 08 → ~04; Media 08 → ~04) | both | §5 — best evidence arrives too late in both |
+| 9 | Fix the two mono-label line breaks | Mgmt 04, Media 04 | §6.4 — reads as a rendering fault |
+| 10 | Add roster-level results, not just the flagship account | Mgmt, new slide | §4.1 — one account proving a 20-creator agency |
+| 11 | Add a price anchor | Media 10 | §5 — six models, no numbers |
+| 12 | Recover or rebuild editable source | — | §7 — makes fixes 1–11 cheap instead of expensive |
 
 ---
 
@@ -339,7 +327,7 @@ Not scoped as work here — flagged for a decision.
   [06-ops-admin/TASKS.md](../../06-ops-admin/TASKS.md)). The *assets* were deliberately not
   filed here — only this review.
 - Deck stats were read from the PDFs as rendered. Nothing in this document was verified against
-  source platform statements, bank records, or contracts; §3.4 is a labelling conflict found
+  source platform statements, bank records, or contracts; §3.3 is a labelling conflict found
   inside the deck, not an audit of the underlying figures.
 - A print version of this document is `ALTR-Pitch-Deck-Review.pdf` (9 pp., Letter). Rebuild it
   with `node build.js` after editing this file — pandoc → `style.css` → headless Chrome, the

@@ -51,8 +51,8 @@ const html = `<!DOCTYPE html>
   <ol class="contents">${contents}</ol>
   <div class="stats">
     <div><b>26</b><span>slides reviewed</span></div>
-    <div><b>5</b><span>ship-stoppers</span></div>
-    <div><b>13</b><span>prioritized fixes</span></div>
+    <div><b>4</b><span>ship-stoppers</span></div>
+    <div><b>12</b><span>prioritized fixes</span></div>
   </div>
   <div class="meta"><span>ALTR Management HQ &nbsp;·&nbsp; 02 Outreach &amp; Sales</span><span>2026-11-02</span></div>
 </section>

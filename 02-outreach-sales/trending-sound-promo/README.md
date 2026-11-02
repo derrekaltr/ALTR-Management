@@ -42,14 +42,14 @@ the page edge counts as overflow.
 
 ## Open items
 
-- **Contact block is a placeholder.** Currently `derrek@altrmgmt.com` + `quote.altrservices.com`.
-  The URL is the *Services* domain on an ALTR **Media** sheet — the same cross-brand problem
-  flagged in [pitch-deck-review](../pitch-deck-review/README.md) §3.2. Worth settling once and
-  applying to the decks and these sheets together.
-- **The theme-page example is deliberately generic.** The source note named a specific large
-  comedy page in the network; these sheets say "a comedy page where the joke has to land"
-  instead, since the wholesale sheet goes to resellers. Put the name back in `KNOW` if the
-  credibility is worth more than the disclosure.
+- **Contact block.** `derrek@altrmgmt.com` + `quote.altrservices.com`. The URL is the shared
+  quote form for all three ALTR companies, so it is correct on a Media sheet despite reading
+  *altrservices* — see [pitch-deck-review](../pitch-deck-review/README.md) §6.2. Swap the email
+  for a role address if these go out at volume.
+- **The theme-page example is deliberately generic** — confirmed by Derrek 2026-11-02. The
+  source note named a specific large comedy page in the network; these sheets say "a comedy page
+  where the joke has to land" instead, since the wholesale sheet goes to resellers. Keep it
+  generic.
 - **"2,000+ owned pages"** matches the Media deck. The source note said "thousands" — if the
   real figure has moved, change it in both places.
 - **Dark only.** A light/print variant would be a palette swap in `style.css` if one is needed
