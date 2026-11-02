@@ -1,0 +1,177 @@
+/* ALTR · IG Trending Sound Promo — one-pager
+   Palette + fonts match the 2026 pitch decks and
+   01-clients-onboarding/mikayla-pricing-deck/deck/build.js */
+
+:root {
+  --ink:   #0C0D0B;
+  --panel: #121410;
+  --line:  rgba(247,247,238,.13);
+  --ivory: #F7F7EE;
+  --mute:  rgba(247,247,238,.50);
+  --mint:  #B6F2E5;
+  --purple:#7C41F1;
+}
+
+@page { size: Letter; margin: 0; }
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+
+body {
+  width: 215.9mm; height: 279.4mm;
+  background: var(--ink);
+  color: var(--ivory);
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 8.2pt; line-height: 1.45;
+  padding: 11mm 13mm 10mm;
+  display: flex; flex-direction: column;
+  position: relative; overflow: hidden;
+}
+
+/* faint grid + orbit, straight off the decks.
+   The orbits bleed past the page edge, so they live inside a clipped layer —
+   otherwise their overflow makes Chrome shrink-to-fit the whole sheet. */
+.bg { position: absolute; inset: 0; overflow: hidden; z-index: 0; }
+.bg::before {
+  content: ""; position: absolute; inset: 0;
+  background-image:
+    linear-gradient(rgba(247,247,238,.028) .4px, transparent .4px),
+    linear-gradient(90deg, rgba(247,247,238,.028) .4px, transparent .4px);
+  background-size: 18mm 18mm;
+}
+.orbit { position: absolute; border: .5pt solid rgba(182,242,229,.10); border-radius: 50%; }
+.orbit.a { width: 150mm; height: 150mm; right: -58mm; bottom: -52mm; }
+.orbit.b { width: 96mm;  height: 96mm;  right: -30mm; bottom: -26mm; }
+
+.bracket { position: absolute; width: 9mm; height: 9mm; border-color: rgba(247,247,238,.3); border-style: solid; }
+.bracket.tl { top: 7mm; left: 7mm;     border-width: .8pt 0 0 .8pt; }
+.bracket.tr { top: 7mm; right: 7mm;    border-width: .8pt .8pt 0 0; }
+.bracket.bl { bottom: 7mm; left: 7mm;  border-width: 0 0 .8pt .8pt; }
+.bracket.br { bottom: 7mm; right: 7mm; border-width: 0 .8pt .8pt 0; }
+
+body > *:not(.bg):not(.bracket) { position: relative; z-index: 1; }
+
+/* ---------- shared type ---------- */
+.mono, .eyebrow, .chip, .lbl, .stat span, .foot, th {
+  font-family: "Space Mono", monospace;
+  text-transform: uppercase; letter-spacing: .18em;
+}
+.eyebrow { font-size: 6.6pt; color: var(--mint); }
+.lbl {
+  font-size: 6.4pt; color: var(--mute);
+  padding-bottom: 2mm; margin-bottom: 3.6mm;
+  border-bottom: .5pt solid var(--line);
+  display: flex; justify-content: space-between; align-items: baseline;
+}
+.lbl b { color: var(--mint); font-weight: 400; letter-spacing: .18em; }
+
+h1, h2, .price, .stat b, .logo {
+  font-family: "Bricolage Grotesque ExtraBold", sans-serif;
+  letter-spacing: -.012em;
+}
+h3 { font-family: "Bricolage Grotesque SemiBold", sans-serif; }
+
+/* ---------- header ---------- */
+header { display: flex; justify-content: space-between; align-items: flex-start; }
+.id { display: flex; align-items: center; gap: 4mm; }
+.dot {
+  width: 10mm; height: 10mm; border-radius: 50%;
+  background: #171a16; border: .6pt solid rgba(247,247,238,.18);
+  display: flex; align-items: center; justify-content: center;
+}
+.dot span {
+  font-family: "Bricolage Grotesque ExtraBold", sans-serif;
+  color: var(--mint); font-size: 10pt; line-height: 1;
+}
+.id .t { font-size: 6.6pt; }
+.id .t .one {
+  font-family: "Space Mono", monospace; text-transform: uppercase;
+  letter-spacing: .22em; color: var(--ivory); display: block;
+}
+.id .t .two {
+  font-family: "Space Mono", monospace; text-transform: uppercase;
+  letter-spacing: .18em; color: var(--mute); display: block; margin-top: 1.2mm;
+}
+.chip {
+  font-size: 6.4pt; color: var(--ink); background: var(--mint);
+  padding: 1.8mm 3.4mm; border-radius: 1mm; white-space: nowrap;
+}
+
+/* ---------- headline ---------- */
+.hero { margin-top: 9mm; }
+.hero h1 { font-size: 25pt; line-height: 1.05; }
+.hero h1 em { font-style: italic; color: var(--mint); }
+.hero p {
+  margin-top: 4mm; max-width: 134mm;
+  font-size: 9pt; line-height: 1.48; color: var(--mute);
+}
+.hero p b { color: var(--ivory); font-weight: 600; }
+
+/* ---------- stat strip ---------- */
+.stats { display: flex; margin: 7mm 0 8mm; }
+.stats .stat { padding-right: 10mm; margin-right: 10mm; border-right: .5pt solid var(--line); }
+.stats .stat:last-child { border-right: 0; }
+.stat b { display: block; font-size: 14.5pt; line-height: 1; color: var(--mint); }
+.stat span { display: block; margin-top: 2mm; font-size: 5.8pt; color: var(--mute); }
+
+/* ---------- pricing ---------- */
+.tiers { display: flex; gap: 4mm; }
+.tier {
+  flex: 1; border: .6pt solid var(--line); border-radius: 1.6mm;
+  background: var(--panel); padding: 5mm 4.8mm 5mm;
+  display: flex; flex-direction: column;
+}
+.tier .rank { font-family: "Space Mono", monospace; text-transform: uppercase;
+  letter-spacing: .2em; font-size: 6.4pt; color: var(--mute); }
+.tier .price { font-size: 19pt; line-height: 1; margin: 3mm 0 1.4mm; color: var(--ivory); }
+.tier .per { font-family: "Space Mono", monospace; text-transform: uppercase;
+  letter-spacing: .16em; font-size: 5.6pt; color: var(--mute);
+  padding-bottom: 3.2mm; margin-bottom: 3.4mm; border-bottom: .5pt solid var(--line); }
+.tier ul { list-style: none; }
+.tier li { font-size: 7.7pt; line-height: 1.4; padding-left: 4mm; position: relative; margin-bottom: 2.1mm; }
+.tier li::before { content: ""; position: absolute; left: 0; top: 1.5mm;
+  width: 1.6mm; height: 1.6mm; border-radius: 50%; background: var(--mint); opacity: .75; }
+.tier li b { font-weight: 600; }
+
+.tier.flag { background: var(--mint); border-color: var(--mint); color: var(--ink); }
+.tier.flag .rank { color: rgba(12,13,11,.6); }
+.tier.flag .price { color: var(--ink); }
+.tier.flag .per { color: rgba(12,13,11,.6); border-bottom-color: rgba(12,13,11,.22); }
+.tier.flag li::before { background: var(--ink); opacity: .5; }
+.tier.flag .tag {
+  font-family: "Space Mono", monospace; text-transform: uppercase; letter-spacing: .18em;
+  font-size: 5.6pt; color: rgba(12,13,11,.62); margin-top: auto; padding-top: 3.5mm;
+}
+
+/* ---------- run timeline ---------- */
+.run { display: flex; gap: 0; }
+.run .step { flex: 1; padding-right: 5mm; }
+.run .step .n {
+  font-family: "Space Mono", monospace; font-size: 6pt; letter-spacing: .14em;
+  color: var(--ink); background: var(--mint);
+  width: 6mm; height: 6mm; border-radius: 50%;
+  display: flex; align-items: center; justify-content: center; margin-bottom: 2.4mm;
+}
+.run .step h3 { font-size: 8.4pt; margin-bottom: 1.5mm; }
+.run .step p { font-size: 7.3pt; line-height: 1.42; color: var(--mute); }
+
+/* ---------- what to know ---------- */
+.know { display: grid; grid-template-columns: 1fr 1fr; gap: 4.5mm 8mm; }
+.know div { border-top: .5pt solid var(--line); padding-top: 3mm; }
+.know h3 { font-size: 8.2pt; margin-bottom: 1.5mm; }
+.know p { font-size: 7.3pt; line-height: 1.45; color: var(--mute); }
+.know p em { font-style: italic; color: rgba(247,247,238,.72); }
+
+/* ---------- close ---------- */
+.close {
+  margin-top: auto; padding-top: 5mm; border-top: .5pt solid var(--line);
+  display: flex; justify-content: space-between; align-items: flex-end;
+}
+.close .cta { display: flex; align-items: center; gap: 4mm; }
+.close .btn {
+  font-family: "Space Mono", monospace; font-size: 7.2pt; letter-spacing: .1em;
+  background: var(--mint); color: var(--ink); padding: 2.6mm 4.6mm; border-radius: 1mm;
+}
+.close .alt { font-family: "Space Mono", monospace; font-size: 6.6pt;
+  letter-spacing: .12em; color: var(--mute); }
+.foot { font-size: 6pt; color: var(--mute); text-align: right; line-height: 1.8; }
+.foot .hatch { color: rgba(247,247,238,.22); letter-spacing: -.02em; font-size: 7.5pt; }
