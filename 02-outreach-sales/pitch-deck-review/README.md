@@ -1,8 +1,8 @@
 # Pitch Deck Review — ALTR Management & ALTR Media (2026)
 
-Review of the two 13-slide pitch decks, 2026-11-02. **Read-only review — neither PDF was
-modified, compressed, or committed.** The decks live outside the repo; this document is the
-only artifact.
+Review of the two 13-slide pitch decks, 2026-11-02. **Read-only — neither deck was modified,
+compressed, or re-rendered.** Both are archived byte-for-byte in [`decks/`](decks/), because the
+PDFs are the only copy on this machine and no editable source exists (see §7).
 
 ---
 
@@ -19,6 +19,7 @@ only artifact.
 | Toolchain | HTML → HeadlessChrome 153 → Skia/PDF | same |
 
 Every slide of both decks was inspected as a rendered image, not just as extracted text.
+Both files are archived unmodified in [`decks/`](decks/), with checksums.
 
 **There is no editable source.** Grepped every workspace and repo under `~/conductor` for
 distinctive slide copy ("Stop renting attention", "Six pillars", "brand architects") — zero
