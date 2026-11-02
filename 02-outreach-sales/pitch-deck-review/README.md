@@ -341,3 +341,6 @@ Not scoped as work here — flagged for a decision.
 - Deck stats were read from the PDFs as rendered. Nothing in this document was verified against
   source platform statements, bank records, or contracts; §3.4 is a labelling conflict found
   inside the deck, not an audit of the underlying figures.
+- A print version of this document is `ALTR-Pitch-Deck-Review.pdf` (9 pp., Letter). Rebuild it
+  with `node build.js` after editing this file — pandoc → `style.css` → headless Chrome, the
+  same route the decks themselves were rendered with.

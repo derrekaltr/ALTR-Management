@@ -1,0 +1,249 @@
+/* ALTR Pitch Deck Review — print stylesheet
+   Palette matches 01-clients-onboarding/mikayla-pricing-deck/deck/build.js
+   Fonts are the deck fonts: Bricolage Grotesque + Space Mono (local). */
+
+:root {
+  --ink:    #1D1D1B;
+  --paper:  #FFFFFF;
+  --bone:   #EBECDC;
+  --mint:   #B6F2E5;
+  --teal:   #2F6F5E;
+  --teal-l: #6BB6A3;
+  --purple: #7C41F1;
+  --mute:   #6F6F68;
+  --rule:   #D6D7C6;
+  --dark:   #0C0D0B;
+}
+
+@page {
+  size: Letter;
+  margin: 17mm 16mm 20mm 16mm;
+}
+/* the cover is rendered as its own full-bleed pass; see build.js */
+
+* { box-sizing: border-box; }
+
+html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+
+body {
+  margin: 0;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 9.6pt;
+  line-height: 1.55;
+  color: var(--ink);
+  background: var(--paper);
+}
+
+
+/* ---------- cover ---------- */
+.cover {
+  page-break-after: always;
+  background: var(--dark);
+  color: #F7F7EE;
+  height: 279.4mm; width: 215.9mm;
+  padding: 26mm 20mm;
+  display: flex; flex-direction: column;
+  position: relative;
+  overflow: hidden;
+}
+.cover::before {
+  content: "";
+  position: absolute; right: -60mm; bottom: -70mm;
+  width: 170mm; height: 170mm; border-radius: 50%;
+  border: .5pt solid rgba(182,242,229,.14);
+}
+.cover::after {
+  content: "";
+  position: absolute; right: -30mm; bottom: -40mm;
+  width: 110mm; height: 110mm; border-radius: 50%;
+  border: .5pt solid rgba(182,242,229,.10);
+}
+.bracket {
+  position: absolute; width: 11mm; height: 11mm;
+  border-color: rgba(247,247,238,.3); border-style: solid;
+}
+.bracket.tl { top: 12mm; left: 12mm;  border-width: .8pt 0 0 .8pt; }
+.bracket.br { bottom: 12mm; right: 12mm; border-width: 0 .8pt .8pt 0; }
+
+.cover .eyebrow {
+  font-family: "Space Mono", monospace;
+  font-size: 8pt; letter-spacing: .3em; text-transform: uppercase;
+  color: var(--mint);
+  margin-bottom: 14mm;
+}
+.cover .mark {
+  font-family: "Bricolage Grotesque ExtraBold", sans-serif;
+  font-size: 34pt; letter-spacing: .04em; line-height: 1;
+  color: #F7F7EE;
+  margin-bottom: 1mm;
+}
+.cover .rule-row {
+  display: flex; gap: 2.4mm; margin: 5mm 0 13mm;
+}
+.cover .rule-row i {
+  display: block; width: 1.1mm; height: 5mm; background: rgba(182,242,229,.5);
+}
+.cover .rule-row i:nth-child(3n) { background: rgba(124,65,241,.55); }
+.cover .rule-row i:nth-child(4n) { background: rgba(247,247,238,.22); }
+
+.cover h1 {
+  font-family: "Bricolage Grotesque ExtraBold", sans-serif;
+  font-size: 30pt; line-height: 1.04; letter-spacing: -.015em;
+  margin: 0 0 6mm; max-width: 150mm;
+}
+.cover h1 em { font-style: italic; color: var(--mint); }
+.cover .deck {
+  font-size: 11pt; line-height: 1.5; color: rgba(247,247,238,.62);
+  max-width: 128mm; margin: 0 0 auto;
+}
+.cover .deck strong { color: #F7F7EE; font-weight: 600; }
+
+.cover .stats {
+  display: flex; gap: 0; margin-top: 10mm; padding-top: 0;
+}
+.cover .stats div {
+  padding-right: 11mm; margin-right: 11mm;
+  border-right: .5pt solid rgba(247,247,238,.18);
+}
+.cover .stats div:last-child { border-right: 0; }
+.cover .stats b {
+  display: block;
+  font-family: "Bricolage Grotesque ExtraBold", sans-serif;
+  font-size: 21pt; line-height: 1; letter-spacing: -.01em; color: var(--mint);
+}
+.cover .stats span {
+  display: block; margin-top: 2.5mm;
+  font-family: "Space Mono", monospace;
+  font-size: 6.4pt; letter-spacing: .18em; text-transform: uppercase;
+  color: rgba(247,247,238,.45);
+}
+.cover .meta {
+  margin-top: 12mm; padding-top: 5mm;
+  border-top: .5pt solid rgba(247,247,238,.18);
+  font-family: "Space Mono", monospace;
+  font-size: 6.8pt; letter-spacing: .14em; text-transform: uppercase;
+  color: rgba(247,247,238,.4);
+  display: flex; justify-content: space-between;
+}
+
+/* ---------- body typography ---------- */
+.doc { padding-top: 0; }
+
+.doc > p:first-of-type {
+  font-size: 10.6pt; line-height: 1.5; color: var(--mute);
+  border-left: 2pt solid var(--mint);
+  padding: 1mm 0 1mm 6mm;
+  margin-bottom: 9mm;
+}
+.doc > p:first-of-type strong { color: var(--ink); }
+
+.doc h1 { display: none; }   /* the markdown title is carried by the cover */
+
+h2 {
+  font-family: "Bricolage Grotesque ExtraBold", sans-serif;
+  font-size: 17pt; line-height: 1.12; letter-spacing: -.012em;
+  margin: 11mm 0 4mm;
+  padding-top: 4mm;
+  border-top: 1.2pt solid var(--ink);
+  page-break-after: avoid;
+  break-after: avoid;
+}
+h2:first-of-type { margin-top: 0; }
+
+h3 {
+  font-family: "Bricolage Grotesque SemiBold", sans-serif;
+  font-size: 11.4pt; line-height: 1.25; letter-spacing: -.005em;
+  margin: 7mm 0 2.5mm;
+  page-break-after: avoid; break-after: avoid;
+}
+
+h4 {
+  font-family: "Space Mono", monospace;
+  font-size: 7.6pt; letter-spacing: .14em; text-transform: uppercase;
+  color: var(--teal);
+  margin: 6mm 0 2mm;
+  page-break-after: avoid; break-after: avoid;
+}
+
+p { margin: 0 0 3.2mm; orphans: 2; widows: 2; }
+
+strong { font-weight: 600; }
+em { font-style: italic; }
+
+a { color: var(--teal); text-decoration: none; border-bottom: .4pt solid var(--teal-l); }
+
+code {
+  font-family: "Space Mono", monospace;
+  font-size: 8.3pt;
+  background: var(--bone);
+  padding: .3mm 1.1mm;
+  border-radius: .6mm;
+}
+
+hr { display: none; }   /* section rule is drawn by h2's border-top */
+
+blockquote {
+  margin: 4mm 0 4mm 0;
+  padding: 3mm 0 3mm 6mm;
+  border-left: 2pt solid var(--mint);
+  color: var(--ink);
+}
+blockquote p { margin: 0; }
+blockquote code { background: none; padding: 0; font-size: 10pt; }
+
+ul, ol { margin: 0 0 3.5mm; padding-left: 5.5mm; }
+li { margin-bottom: 1.8mm; }
+li > ul, li > ol { margin-top: 1.8mm; }
+
+/* ---------- tables ---------- */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 3.5mm 0 5mm;
+  font-size: 8.5pt;
+  break-inside: auto;   /* long tables may flow across pages; thead repeats */
+}
+tr { break-inside: avoid; }
+thead { display: table-header-group; }
+th {
+  font-family: "Space Mono", monospace;
+  font-size: 6.6pt; letter-spacing: .13em; text-transform: uppercase;
+  color: var(--mute);
+  text-align: left; vertical-align: bottom;
+  padding: 0 3mm 1.8mm 0;
+  border-bottom: 1pt solid var(--ink);
+}
+td {
+  padding: 1.9mm 3mm 1.9mm 0;
+  border-bottom: .4pt solid var(--rule);
+  vertical-align: top;
+}
+th:last-child, td:last-child { padding-right: 0; }
+td code { font-size: 7.6pt; }
+tbody tr:last-child td { border-bottom: .8pt solid var(--ink); }
+
+/* first column of the fix-list table reads as an index */
+table td:first-child { font-family: "Space Mono", monospace; font-size: 7.8pt; }
+table.wide td:first-child { font-family: inherit; font-size: 8.5pt; }
+
+/* ---------- section-break control ---------- */
+h2 { break-before: auto; }
+
+/* ---------- cover contents strip ---------- */
+.cover .contents {
+  list-style: none;
+  counter-reset: toc;
+  margin: 11mm 0 0; padding: 0;
+  columns: 2; column-gap: 12mm;
+  max-width: 140mm;
+}
+.cover .contents li {
+  counter-increment: toc;
+  break-inside: avoid;
+  font-family: "Space Mono", monospace;
+  font-size: 7.2pt; letter-spacing: .08em; text-transform: uppercase;
+  color: rgba(247,247,238,.52);
+  padding: 1.7mm 0;
+  border-bottom: .5pt solid rgba(247,247,238,.12);
+}
+.cover .stats { margin-top: auto; }

@@ -1,0 +1,13 @@
+{
+  "name": "altr-pitch-deck-review",
+  "version": "1.0.0",
+  "description": "Renders README.md to ALTR-Pitch-Deck-Review.pdf (pandoc -> style.css -> headless Chrome).",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "dependencies": {
+    "pdf-lib": "^1.17.1",
+    "puppeteer-core": "^25.16.0"
+  },
+  "private": true
+}
