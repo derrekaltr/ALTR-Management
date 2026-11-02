@@ -1,6 +1,8 @@
 # Ops & Admin — Tasks
 
 ## Now
+- [ ] Register **altrholdings.com** (chosen umbrella domain; ~$10–15/yr at any registrar) — see [domain-research](domain-research/README.md)
+- [ ] Decide on optional sub-brand/defensive picks: altrmediagroup.com, altrsignal.com, altrcreators.com, altrmgmt.co — see [domain-research](domain-research/README.md)
 
 
 ## Next
